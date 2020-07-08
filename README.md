@@ -1,6 +1,6 @@
 # Global COVID-19 Data
 
-This is a developing dataset that aims to create a uniform measure by which to compare the severity of outbreaks across the globe.
+This is a developing dataset that aims to create a uniform measure by which to compare the severity of COVID-19 outbreaks across the globe by normalising the data with population estimates. At the moment there is data for 213 countries, 315 UK Local Authorities, 50 States and 3,057 US counties.
 
 ### Syntax
 
