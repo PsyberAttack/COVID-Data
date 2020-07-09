@@ -7,9 +7,10 @@ Includes data from the New York Times COVID-19 dataset, enriched with population
 
 1. **Rate** is a per capita calculation of Cases and Deaths per 100K population.
 
-2. **Infected(%)** is the percentage of the population reported with a positive test.
+2. **Infected(%)** is the percentage of Total Cases / Population over the period of the pandemic.
 
-3. **CFR(%)** is the percentage of cases reported that have led to reported deaths.
+3. **CFR(%)** is the percentage of Total Cases / Total Deaths.
+
 
 
 
