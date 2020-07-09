@@ -14,7 +14,6 @@ Data is scraped once daily, and published here under fair use terms. If you find
 3. **Participant(%)** is the percentage of the population participating in the study.
 
 
-
 ### Files:
 
 **Latest_Zoe_Full.csv** contains a timeseries of all scraped data, updated daily, beginning July 8th 2020.
