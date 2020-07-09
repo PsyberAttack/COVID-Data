@@ -9,7 +9,7 @@ Data is scraped once daily, and published here under fair use terms. If you find
 
 1. **Cases** is the calculated cases from reversing the cases per million calculation, based on the population.
 
-2. **Active_Case_Rate** is a per capita calculation of Cases and Deaths per 100K population.
+2. **Active_Case_Rate** is a per capita calculation of Cases per 100K population.
 
 3. **Participant(%)** is the percentage of the population participating in the study.
 
