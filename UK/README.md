@@ -4,17 +4,17 @@ Includes data from the UK Government, Office for National Statistics, National R
 
 ### Syntax
 
-1. **Rate** is a per capita calculation of Cases and Deaths per 100K population.
+1. **Rate** is a per capita calculation of Cases or Deaths per 100K population.
 
 
 
 ### Files:
 
-**Latest_111_Calls.csv** is a time series of phone call 'triages' of 'suspected' COVID cases. These do not directly correlate to positive tests, but provide a warning system for outbreaks. They are reported by CCGs, which overlap Local Auhorities, so they are not directly comparable.
+**Latest_111_Calls.csv** is a time series of phone call 'triages' of 'suspected' COVID cases. These do not directly correlate to positive tests, but provide a warning system for outbreaks. They are reported by CCGs, which overlap Local Authorities but are not directly comparable.
 
 **Latest_CASES_LTA.csv** a time series of case data for each Local Authority, updated daily, but it does not stabilise for at least 2 days, so do not draw conclusions on the latest days of data.
 
-**UK_Death_Certificate.csv** is a combination of 'suspected' and 'confirmed' COVID deaths from the Statistics Departments of each of the 4 Nations of the UK. The ONS provides data for England and Wales, whilst Scotland provides separate data through NRS and Northern Ireland reports through NISRA. Updates are provided on Tuesdays, Wednesday's and Friday's respectively.
+**UK_Death_Certificate.csv** is a combination of 'suspected' and 'confirmed' COVID deaths from the Statistics Departments of each of the 4 Nations of the UK. The ONS provides data for England and Wales, whilst Scotland provides separate data through NRS and Northern Ireland reports through NISRA. Updates are provided on Tuesdays, Wednesdays and Fridays respectively. This data is reported with a time lag. It reports a significantly higher number of deaths than the UK government because it includes people who have COVID-19 on their death certificates but were not tested.
 
 
 ### Data Sources:
