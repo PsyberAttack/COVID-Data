@@ -1,15 +1,17 @@
-## Johns Hopkins University International COVID Data
+## ZOE COVID-19 Symptom Study App Data
 
-Includes data from Johns Hopkins University COVID-19 data, enriched with population data from the United Nations.
+Includes data from the COVID Symptom Study App, as reported on: https://covid.joinzoe.com/data
+
+Data is scraped once daily, and published here under fair use terms. If you find this data useful, you should consider supporting the Symptom Study App project. UK residents can install the app and share health updates.  Non-UK residents could share news from the project and help raise awareness of the study. Fair is fair.
 
 
 ### Syntax
 
-1. **Rate** is a per capita calculation of Cases and Deaths per 100K population.
+1. **Cases** is the calculated cases from reversing the cases per million calculation, based on the population.
 
-2. **Infected(%)** is the percentage of the population reported with a positive test.
+2. **Active_Case_Rate** is a per capita calculation of Cases and Deaths per 100K population.
 
-3. **CFR(%)** is the percentage of cases reported that have led to reported deaths.
+3. **Participant(%)** is the percentage of the population participating in the study.**Participant(%)** is the percentage of the population participating in the study.
 
 
 

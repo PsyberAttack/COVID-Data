@@ -20,3 +20,7 @@ Includes data from the UK Government, Office for National Statistics, National R
 and-data/statistics/statistics-by-theme/vital-events/general-publications/weekly-and-monthly-data-on-births-and-deaths/deaths-involving-coronavirus-covid-19-in-scotland
 
 **Northern Ireland Statistics and Research Agency:** https://www.nisra.gov.uk/statistics/ni-summary-statistics/coronavirus-covid-19-statistics
+
+
+
+_The dataset will be updated daily by an automated process, (exact update time to be confirmed)_
