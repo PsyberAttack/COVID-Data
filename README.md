@@ -9,7 +9,7 @@ This is a developing dataset that aims to create a uniform measure by which to c
 
 2. **Infected(%)** is the percentage of Total Cases / Population over the period of the pandemic.
 
-3. **CFR(%)** is the percentage of reported cases divided by the number of reported deaths.
+3. **CFR(%)** is the percentage of Total Cases / Total Deaths.
 
 
 ### Data Sources:
