@@ -11,23 +11,22 @@ Data is scraped once daily, and published here under fair use terms. If you find
 
 2. **Active_Case_Rate** is a per capita calculation of Cases and Deaths per 100K population.
 
-3. **Participant(%)** is the percentage of the population participating in the study.**Participant(%)** is the percentage of the population participating in the study.
+3. **Participant(%)** is the percentage of the population participating in the study.
 
 
 
 ### Files:
 
-**Latest_Global_Full.csv** contains a timeseries of all reported country data, updated daily, since January 21st 2020.
+**Latest_Zoe_Full.csv** contains a timeseries of all scraped data, updated daily, beginning July 8th 2020.
 
-**Latest_Global_Day.csv** contains the latest data for the day of upload. It's overwritten daily and is only intended to give an insight into the datastructure of the _FULL_ file
+**zoe-csv-[DATE].csv** contains the scraped data for the day of upload listed in the file title.
 
 
 
 ### Data Sources:
 
-**Johns Hopkins University CSSEGIS:** https://github.com/CSSEGISandData/COVID-19
+**ZOE Covid Sympom Tracker App:** https://covid.joinzoe.com/data
 
-**Populations calculated from:** https://population.un.org/wup/DataQuery/
 
 
 _The dataset will be updated daily by an automated process, (exact update time to be confirmed)_

@@ -2,6 +2,7 @@
 
 Includes data from the New York Times COVID-19 dataset, enriched with population data from the US Census to create a uniform measure to compare outbreaks across the USA.  
 
+
 ### Syntax
 
 1. **Rate** is a per capita calculation of Cases and Deaths per 100K population.
@@ -16,7 +17,8 @@ Includes data from the New York Times COVID-19 dataset, enriched with population
 
 **States.csv** includes State level data. Rates calculated per 100K population to be directly comparable to International data.
 
-**Counties.csv** includes County level data. Rates are calculated per 10K population so cautiion should be taken when directly comparing them with larger populations
+**Counties.csv** includes County level data. Rates are calculated per 10K population so cautiion should be taken when directly comparing them with larger populations.
+
 
 ### Data Sources:
 
