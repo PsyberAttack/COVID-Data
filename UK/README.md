@@ -2,6 +2,11 @@
 
 Includes data from the UK Government, Office for National Statistics, National Records of Scotland and the Northern Ireland Statistics and Research Agency enriched with population data from the Office for National Statistics. Rates are all calculated per 100K population, so the data is directly comparable.
 
+### Syntax
+
+1. **Rate** is a per capita calculation of Cases and Deaths per 100K population.
+
+
 
 ### Files:
 
