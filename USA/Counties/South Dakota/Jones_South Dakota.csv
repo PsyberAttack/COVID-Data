@@ -1,4 +1,4 @@
-date,county,state,cases,deaths,new_cases,new_deaths,population,pop_density,daily_rate,%_infected
-2020-07-10,Jones,South Dakota,1,0,0,0,928.0,0.96,0.0,0.11
-2020-07-09,Jones,South Dakota,1,0,0,0,928.0,0.96,0.0,0.11
-2020-07-08,Jones,South Dakota,1,0,0,0,928.0,0.96,0.0,0.11
+date,county,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_10K,new_deaths_10K,%_infected,total_cases_10K,total_deaths_10K
+2020-07-10,Jones,South Dakota,1,0,0,0,928.0,0.96,0.0,0.0,0.11,10.78,0.0
+2020-07-09,Jones,South Dakota,1,0,0,0,928.0,0.96,0.0,0.0,0.11,10.78,0.0
+2020-07-08,Jones,South Dakota,1,0,0,0,928.0,0.96,0.0,0.0,0.11,10.78,0.0

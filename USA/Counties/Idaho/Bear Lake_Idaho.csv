@@ -1,12 +1,12 @@
-date,county,state,cases,deaths,new_cases,new_deaths,population,pop_density,daily_rate,%_infected
-2020-07-10,Bear Lake,Idaho,3,0,1,0,6050.0,6.2,1.65,0.05
-2020-07-09,Bear Lake,Idaho,2,0,0,0,6050.0,6.2,0.0,0.03
-2020-07-08,Bear Lake,Idaho,2,0,0,0,6050.0,6.2,0.0,0.03
-2020-07-07,Bear Lake,Idaho,2,0,0,0,6050.0,6.2,0.0,0.03
-2020-07-06,Bear Lake,Idaho,2,0,0,0,6050.0,6.2,0.0,0.03
-2020-07-05,Bear Lake,Idaho,2,0,0,0,6050.0,6.2,0.0,0.03
-2020-07-04,Bear Lake,Idaho,2,0,0,0,6050.0,6.2,0.0,0.03
-2020-07-03,Bear Lake,Idaho,2,0,0,0,6050.0,6.2,0.0,0.03
-2020-07-02,Bear Lake,Idaho,2,0,0,0,6050.0,6.2,0.0,0.03
-2020-07-01,Bear Lake,Idaho,2,0,1,0,6050.0,6.2,1.65,0.03
-2020-06-30,Bear Lake,Idaho,1,0,0,0,6050.0,6.2,0.0,0.02
+date,county,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_10K,new_deaths_10K,%_infected,total_cases_10K,total_deaths_10K
+2020-07-10,Bear Lake,Idaho,3,0,1,0,6050.0,6.2,1.65,0.0,0.05,4.96,0.0
+2020-07-09,Bear Lake,Idaho,2,0,0,0,6050.0,6.2,0.0,0.0,0.03,3.31,0.0
+2020-07-08,Bear Lake,Idaho,2,0,0,0,6050.0,6.2,0.0,0.0,0.03,3.31,0.0
+2020-07-07,Bear Lake,Idaho,2,0,0,0,6050.0,6.2,0.0,0.0,0.03,3.31,0.0
+2020-07-06,Bear Lake,Idaho,2,0,0,0,6050.0,6.2,0.0,0.0,0.03,3.31,0.0
+2020-07-05,Bear Lake,Idaho,2,0,0,0,6050.0,6.2,0.0,0.0,0.03,3.31,0.0
+2020-07-04,Bear Lake,Idaho,2,0,0,0,6050.0,6.2,0.0,0.0,0.03,3.31,0.0
+2020-07-03,Bear Lake,Idaho,2,0,0,0,6050.0,6.2,0.0,0.0,0.03,3.31,0.0
+2020-07-02,Bear Lake,Idaho,2,0,0,0,6050.0,6.2,0.0,0.0,0.03,3.31,0.0
+2020-07-01,Bear Lake,Idaho,2,0,1,0,6050.0,6.2,1.65,0.0,0.03,3.31,0.0
+2020-06-30,Bear Lake,Idaho,1,0,0,0,6050.0,6.2,0.0,0.0,0.02,1.65,0.0

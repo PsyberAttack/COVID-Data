@@ -1,9 +1,9 @@
-date,county,state,cases,deaths,new_cases,new_deaths,population,pop_density,daily_rate,%_infected
-2020-07-10,Kusilvak Census Area,Alaska,2,0,0,0,8303.0,0.49,0.0,0.02
-2020-07-09,Kusilvak Census Area,Alaska,2,0,0,0,8303.0,0.49,0.0,0.02
-2020-07-08,Kusilvak Census Area,Alaska,2,0,1,0,8303.0,0.49,1.2,0.02
-2020-07-07,Kusilvak Census Area,Alaska,1,0,0,0,8303.0,0.49,0.0,0.01
-2020-07-06,Kusilvak Census Area,Alaska,1,0,0,0,8303.0,0.49,0.0,0.01
-2020-07-05,Kusilvak Census Area,Alaska,1,0,0,0,8303.0,0.49,0.0,0.01
-2020-07-04,Kusilvak Census Area,Alaska,1,0,0,0,8303.0,0.49,0.0,0.01
-2020-07-03,Kusilvak Census Area,Alaska,1,0,0,0,8303.0,0.49,0.0,0.01
+date,county,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_10K,new_deaths_10K,%_infected,total_cases_10K,total_deaths_10K
+2020-07-10,Kusilvak Census Area,Alaska,2,0,0,0,8303.0,0.49,0.0,0.0,0.02,2.41,0.0
+2020-07-09,Kusilvak Census Area,Alaska,2,0,0,0,8303.0,0.49,0.0,0.0,0.02,2.41,0.0
+2020-07-08,Kusilvak Census Area,Alaska,2,0,1,0,8303.0,0.49,1.2,0.0,0.02,2.41,0.0
+2020-07-07,Kusilvak Census Area,Alaska,1,0,0,0,8303.0,0.49,0.0,0.0,0.01,1.2,0.0
+2020-07-06,Kusilvak Census Area,Alaska,1,0,0,0,8303.0,0.49,0.0,0.0,0.01,1.2,0.0
+2020-07-05,Kusilvak Census Area,Alaska,1,0,0,0,8303.0,0.49,0.0,0.0,0.01,1.2,0.0
+2020-07-04,Kusilvak Census Area,Alaska,1,0,0,0,8303.0,0.49,0.0,0.0,0.01,1.2,0.0
+2020-07-03,Kusilvak Census Area,Alaska,1,0,0,0,8303.0,0.49,0.0,0.0,0.01,1.2,0.0

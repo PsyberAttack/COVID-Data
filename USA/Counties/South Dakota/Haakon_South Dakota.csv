@@ -1,6 +1,6 @@
-date,county,state,cases,deaths,new_cases,new_deaths,population,pop_density,daily_rate,%_infected
-2020-07-10,Haakon,South Dakota,1,0,0,0,1918.0,1.06,0.0,0.05
-2020-07-09,Haakon,South Dakota,1,0,0,0,1918.0,1.06,0.0,0.05
-2020-07-08,Haakon,South Dakota,1,0,0,0,1918.0,1.06,0.0,0.05
-2020-07-07,Haakon,South Dakota,1,0,0,0,1918.0,1.06,0.0,0.05
-2020-07-06,Haakon,South Dakota,1,0,0,0,1918.0,1.06,0.0,0.05
+date,county,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_10K,new_deaths_10K,%_infected,total_cases_10K,total_deaths_10K
+2020-07-10,Haakon,South Dakota,1,0,0,0,1918.0,1.06,0.0,0.0,0.05,5.21,0.0
+2020-07-09,Haakon,South Dakota,1,0,0,0,1918.0,1.06,0.0,0.0,0.05,5.21,0.0
+2020-07-08,Haakon,South Dakota,1,0,0,0,1918.0,1.06,0.0,0.0,0.05,5.21,0.0
+2020-07-07,Haakon,South Dakota,1,0,0,0,1918.0,1.06,0.0,0.0,0.05,5.21,0.0
+2020-07-06,Haakon,South Dakota,1,0,0,0,1918.0,1.06,0.0,0.0,0.05,5.21,0.0

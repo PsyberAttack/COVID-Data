@@ -1,6 +1,6 @@
-date,county,state,cases,deaths,new_cases,new_deaths,population,pop_density,daily_rate,%_infected
-2020-07-10,Kingman,Kansas,4,0,3,0,7310.0,8.47,4.1,0.05
-2020-07-09,Kingman,Kansas,1,0,0,0,7310.0,8.47,0.0,0.01
-2020-07-08,Kingman,Kansas,1,0,0,0,7310.0,8.47,0.0,0.01
-2020-07-07,Kingman,Kansas,1,0,0,0,7310.0,8.47,0.0,0.01
-2020-07-06,Kingman,Kansas,1,0,0,0,7310.0,8.47,0.0,0.01
+date,county,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_10K,new_deaths_10K,%_infected,total_cases_10K,total_deaths_10K
+2020-07-10,Kingman,Kansas,4,0,3,0,7310.0,8.47,4.1,0.0,0.05,5.47,0.0
+2020-07-09,Kingman,Kansas,1,0,0,0,7310.0,8.47,0.0,0.0,0.01,1.37,0.0
+2020-07-08,Kingman,Kansas,1,0,0,0,7310.0,8.47,0.0,0.0,0.01,1.37,0.0
+2020-07-07,Kingman,Kansas,1,0,0,0,7310.0,8.47,0.0,0.0,0.01,1.37,0.0
+2020-07-06,Kingman,Kansas,1,0,0,0,7310.0,8.47,0.0,0.0,0.01,1.37,0.0
