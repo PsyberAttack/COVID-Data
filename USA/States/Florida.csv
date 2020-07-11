@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Florida,244143,4101,11433,93,21299325,397.02,53.68,0.44,1.15,1146.25,19.25
 2020-07-09,Florida,232710,4008,8935,120,21299325,397.02,41.95,0.56,1.09,1092.57,18.82
 2020-07-08,Florida,223775,3888,9989,48,21299325,397.02,46.9,0.23,1.05,1050.62,18.25

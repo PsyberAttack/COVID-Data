@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Minnesota,40805,1533,604,5,5611179,70.47,10.76,0.09,0.73,727.21,27.32
 2020-07-09,Minnesota,40201,1528,574,5,5611179,70.47,10.23,0.09,0.72,716.44,27.23
 2020-07-08,Minnesota,39627,1523,457,9,5611179,70.47,8.14,0.16,0.71,706.22,27.14

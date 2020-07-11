@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,South Carolina,52419,929,1728,24,5084127,169.11,33.99,0.47,1.03,1031.03,18.27
 2020-07-09,South Carolina,50691,905,1782,21,5084127,169.11,35.05,0.41,1.0,997.04,17.8
 2020-07-08,South Carolina,48909,884,1557,38,5084127,169.11,30.62,0.75,0.96,961.99,17.39

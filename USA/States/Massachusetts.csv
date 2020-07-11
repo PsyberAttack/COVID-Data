@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Massachusetts,111110,8296,213,28,6902149,884.75,3.09,0.41,1.61,1609.79,120.19
 2020-07-09,Massachusetts,110897,8268,295,25,6902149,884.75,4.27,0.36,1.61,1606.7,119.79
 2020-07-08,Massachusetts,110602,8243,264,30,6902149,884.75,3.82,0.43,1.6,1602.43,119.43

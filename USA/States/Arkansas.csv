@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Arkansas,26803,313,751,4,3013825,57.92,24.92,0.13,0.89,889.33,10.39
 2020-07-09,Arkansas,26052,309,806,4,3013825,57.92,26.74,0.13,0.86,864.42,10.25
 2020-07-08,Arkansas,25246,305,734,4,3013825,57.92,24.35,0.13,0.84,837.67,10.12

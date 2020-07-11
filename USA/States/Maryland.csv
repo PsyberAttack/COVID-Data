@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Maryland,72503,3303,466,15,6042718,622.26,7.71,0.25,1.2,1199.84,54.66
 2020-07-09,Maryland,72037,3288,582,13,6042718,622.26,9.63,0.22,1.19,1192.13,54.41
 2020-07-08,Maryland,71455,3275,469,9,6042718,622.26,7.76,0.15,1.18,1182.5,54.2

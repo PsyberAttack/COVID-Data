@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Michigan,75871,6288,624,13,9995915,176.6,6.24,0.13,0.76,759.02,62.91
 2020-07-09,Michigan,75247,6275,587,9,9995915,176.6,5.87,0.09,0.75,752.78,62.78
 2020-07-08,Michigan,74660,6266,649,10,9995915,176.6,6.49,0.1,0.75,746.91,62.69

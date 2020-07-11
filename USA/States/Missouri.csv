@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Missouri,28060,1107,759,12,6126452,89.12,12.39,0.2,0.46,458.01,18.07
 2020-07-09,Missouri,27301,1095,958,6,6126452,89.12,15.64,0.1,0.45,445.62,17.87
 2020-07-08,Missouri,26343,1089,777,6,6126452,89.12,12.68,0.1,0.43,429.99,17.78

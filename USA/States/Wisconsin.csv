@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Wisconsin,38414,825,1056,4,5813568,107.33,18.16,0.07,0.66,660.76,14.19
 2020-07-09,Wisconsin,37358,821,832,3,5813568,107.33,14.31,0.05,0.64,642.6,14.12
 2020-07-08,Wisconsin,36526,818,692,1,5813568,107.33,11.9,0.02,0.63,628.29,14.07

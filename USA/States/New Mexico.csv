@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,New Mexico,14549,539,298,6,2095428,17.27,14.22,0.29,0.69,694.32,25.72
 2020-07-09,New Mexico,14251,533,234,6,2095428,17.27,11.17,0.29,0.68,680.1,25.44
 2020-07-08,New Mexico,14017,527,290,8,2095428,17.27,13.84,0.38,0.67,668.93,25.15

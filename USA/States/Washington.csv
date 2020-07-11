@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Washington,41090,1426,721,16,7535591,113.4,9.57,0.21,0.55,545.28,18.92
 2020-07-09,Washington,40369,1410,708,15,7535591,113.4,9.4,0.2,0.54,535.71,18.71
 2020-07-08,Washington,39661,1395,598,10,7535591,113.4,7.94,0.13,0.53,526.32,18.51

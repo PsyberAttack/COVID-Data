@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Indiana,51567,2748,738,9,6691878,186.79,11.03,0.13,0.77,770.59,41.06
 2020-07-09,Indiana,50829,2739,520,7,6691878,186.79,7.77,0.1,0.76,759.56,40.93
 2020-07-08,Indiana,50309,2732,450,15,6691878,186.79,6.72,0.22,0.75,751.79,40.83

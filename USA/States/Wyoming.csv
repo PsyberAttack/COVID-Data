@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Wyoming,1790,21,16,0,577737,5.95,2.77,0.0,0.31,309.83,3.63
 2020-07-09,Wyoming,1774,21,34,0,577737,5.95,5.89,0.0,0.31,307.06,3.63
 2020-07-08,Wyoming,1740,21,29,0,577737,5.95,5.02,0.0,0.3,301.18,3.63

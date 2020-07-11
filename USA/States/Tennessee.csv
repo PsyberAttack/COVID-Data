@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Tennessee,58224,713,1693,13,6770010,164.17,25.01,0.19,0.86,860.03,10.53
 2020-07-09,Tennessee,56531,700,1775,22,6770010,164.17,26.22,0.32,0.84,835.02,10.34
 2020-07-08,Tennessee,54756,678,2113,21,6770010,164.17,31.21,0.31,0.81,808.8,10.01

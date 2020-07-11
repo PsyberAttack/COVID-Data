@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Kentucky,19061,647,485,7,4468402,113.15,10.85,0.16,0.43,426.57,14.48
 2020-07-09,Kentucky,18576,640,372,6,4468402,113.15,8.33,0.13,0.42,415.72,14.32
 2020-07-08,Kentucky,18204,634,384,4,4468402,113.15,8.59,0.09,0.41,407.39,14.19

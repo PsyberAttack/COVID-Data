@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Alaska,1579,15,58,0,737438,1.29,7.87,0.0,0.21,214.12,2.03
 2020-07-09,Alaska,1521,15,49,0,737438,1.29,6.64,0.0,0.21,206.25,2.03
 2020-07-08,Alaska,1472,15,49,0,737438,1.29,6.64,0.0,0.2,199.61,2.03

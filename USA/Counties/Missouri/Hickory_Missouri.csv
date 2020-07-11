@@ -1,4 +1,4 @@
-date,county,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_10K,new_deaths_10K,%_infected,total_cases_10K,total_deaths_10K
-2020-07-10,Hickory,Missouri,1,0,0,0,9509.0,23.84,0.0,0.0,0.01,1.05,0.0
-2020-07-09,Hickory,Missouri,1,0,0,0,9509.0,23.84,0.0,0.0,0.01,1.05,0.0
-2020-07-08,Hickory,Missouri,1,0,0,0,9509.0,23.84,0.0,0.0,0.01,1.05,0.0
+date,county,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_10K,new_deaths_10K,%_infected,total_cases_10K,total_deaths_10K
+2020-07-10,Hickory,Missouri,1,0,0,0,9509,23.84,0.0,0.0,0.01,1.05,0.0
+2020-07-09,Hickory,Missouri,1,0,0,0,9509,23.84,0.0,0.0,0.01,1.05,0.0
+2020-07-08,Hickory,Missouri,1,0,0,0,9509,23.84,0.0,0.0,0.01,1.05,0.0

@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Texas,249948,3129,9923,92,28701845,109.86,34.57,0.32,0.87,870.84,10.9
 2020-07-09,Texas,240025,3037,10909,102,28701845,109.86,38.01,0.36,0.84,836.27,10.58
 2020-07-08,Texas,229116,2935,9952,119,28701845,109.86,34.67,0.41,0.8,798.26,10.23

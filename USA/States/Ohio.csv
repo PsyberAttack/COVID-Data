@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Ohio,62856,3032,1525,26,11689442,286.08,13.05,0.22,0.54,537.72,25.94
 2020-07-09,Ohio,61331,3006,1150,15,11689442,286.08,9.84,0.13,0.52,524.67,25.72
 2020-07-08,Ohio,60181,2991,1277,21,11689442,286.08,10.92,0.18,0.51,514.83,25.59

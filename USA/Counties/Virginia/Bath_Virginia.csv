@@ -1,4 +1,4 @@
-date,county,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_10K,new_deaths_10K,%_infected,total_cases_10K,total_deaths_10K
-2020-07-10,Bath,Virginia,1,0,0,0,4292.0,8.11,0.0,0.0,0.02,2.33,0.0
-2020-07-09,Bath,Virginia,1,0,0,0,4292.0,8.11,0.0,0.0,0.02,2.33,0.0
-2020-07-08,Bath,Virginia,1,0,0,0,4292.0,8.11,0.0,0.0,0.02,2.33,0.0
+date,county,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_10K,new_deaths_10K,%_infected,total_cases_10K,total_deaths_10K
+2020-07-10,Bath,Virginia,1,0,0,0,4292,8.11,0.0,0.0,0.02,2.33,0.0
+2020-07-09,Bath,Virginia,1,0,0,0,4292,8.11,0.0,0.0,0.02,2.33,0.0
+2020-07-08,Bath,Virginia,1,0,0,0,4292,8.11,0.0,0.0,0.02,2.33,0.0

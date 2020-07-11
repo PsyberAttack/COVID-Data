@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Alabama,50508,1104,1334,36,4887871,96.51,27.29,0.74,1.03,1033.33,22.59
 2020-07-09,Alabama,49174,1068,2212,10,4887871,96.51,45.25,0.2,1.01,1006.04,21.85
 2020-07-08,Alabama,46962,1058,1177,25,4887871,96.51,24.08,0.51,0.96,960.79,21.65

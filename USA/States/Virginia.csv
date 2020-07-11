@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Virginia,68931,1958,943,21,8517685,215.74,11.07,0.25,0.81,809.27,22.99
 2020-07-09,Virginia,67988,1937,613,32,8517685,215.74,7.2,0.38,0.8,798.2,22.74
 2020-07-08,Virginia,67375,1905,635,24,8517685,215.74,7.46,0.28,0.79,791.0,22.37

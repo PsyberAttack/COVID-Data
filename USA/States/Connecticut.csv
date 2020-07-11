@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Connecticut,47287,4348,78,0,3572665,737.74,2.18,0.0,1.32,1323.58,121.7
 2020-07-09,Connecticut,47209,4348,101,5,3572665,737.74,2.83,0.14,1.32,1321.39,121.7
 2020-07-08,Connecticut,47108,4343,75,5,3572665,737.74,2.1,0.14,1.32,1318.57,121.56

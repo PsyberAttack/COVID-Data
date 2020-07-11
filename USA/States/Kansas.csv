@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Kansas,18799,294,768,0,2911505,35.61,26.38,0.0,0.65,645.68,10.1
 2020-07-09,Kansas,18031,294,224,3,2911505,35.61,7.69,0.1,0.62,619.3,10.1
 2020-07-08,Kansas,17807,291,650,1,2911505,35.61,22.33,0.03,0.61,611.61,9.99

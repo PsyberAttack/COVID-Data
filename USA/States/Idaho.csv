@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Idaho,10073,101,475,0,1754208,21.23,27.08,0.0,0.57,574.22,5.76
 2020-07-09,Idaho,9598,101,594,3,1754208,21.23,33.86,0.17,0.55,547.14,5.76
 2020-07-08,Idaho,9004,98,422,4,1754208,21.23,24.06,0.23,0.51,513.28,5.59

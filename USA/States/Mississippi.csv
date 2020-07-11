@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Mississippi,34622,1215,1031,11,2986530,63.65,34.52,0.37,1.16,1159.27,40.68
 2020-07-09,Mississippi,33591,1204,703,16,2986530,63.65,23.54,0.54,1.12,1124.75,40.31
 2020-07-08,Mississippi,32888,1188,674,30,2986530,63.65,22.57,1.0,1.1,1101.21,39.78

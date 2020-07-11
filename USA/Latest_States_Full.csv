@@ -1,4 +1,4 @@
-fips,date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+fips,date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 4,2020-07-10,Arizona,116947,2093,4164,46,7171646,63.14,58.06,0.64,1.63,1630.69,29.18
 22,2020-07-10,Louisiana,74744,3380,2642,25,4659978,107.86,56.7,0.54,1.6,1603.96,72.53
 12,2020-07-10,Florida,244143,4101,11433,93,21299325,397.02,53.68,0.44,1.15,1146.25,19.25

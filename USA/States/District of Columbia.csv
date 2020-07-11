@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,District of Columbia,10743,568,64,0,702455,11490.12,9.11,0.0,1.53,1529.35,80.86
 2020-07-09,District of Columbia,10679,568,37,4,702455,11490.12,5.27,0.57,1.52,1520.24,80.86
 2020-07-08,District of Columbia,10642,564,73,3,702455,11490.12,10.39,0.43,1.51,1514.97,80.29

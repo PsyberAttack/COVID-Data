@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Nevada,25961,581,906,7,3034392,27.64,29.86,0.23,0.86,855.56,19.15
 2020-07-09,Nevada,25055,574,677,18,3034392,27.64,22.31,0.59,0.83,825.7,18.92
 2020-07-08,Nevada,24378,556,530,7,3034392,27.64,17.47,0.23,0.8,803.39,18.32

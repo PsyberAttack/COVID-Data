@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,California,311505,6936,7989,111,39557045,253.91,20.2,0.28,0.79,787.48,17.53
 2020-07-09,California,303516,6825,7212,117,39557045,253.91,18.23,0.3,0.77,767.29,17.25
 2020-07-08,California,296304,6708,8538,145,39557045,253.91,21.58,0.37,0.75,749.05,16.96

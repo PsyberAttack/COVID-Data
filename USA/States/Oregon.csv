@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Oregon,11454,235,259,2,4190713,43.66,6.18,0.05,0.27,273.32,5.61
 2020-07-09,Oregon,11195,233,371,6,4190713,43.66,8.85,0.14,0.27,267.14,5.56
 2020-07-08,Oregon,10824,227,212,4,4190713,43.66,5.06,0.1,0.26,258.29,5.42

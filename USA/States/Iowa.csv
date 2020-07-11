@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Iowa,34232,748,916,6,3156145,56.51,29.02,0.19,1.08,1084.61,23.7
 2020-07-09,Iowa,33316,742,600,3,3156145,56.51,19.01,0.1,1.06,1055.59,23.51
 2020-07-08,Iowa,32716,739,563,7,3156145,56.51,17.84,0.22,1.04,1036.58,23.41

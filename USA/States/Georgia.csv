@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Georgia,103597,2915,4904,35,10519475,182.26,46.62,0.33,0.98,984.81,27.71
 2020-07-09,Georgia,98693,2880,2155,9,10519475,182.26,20.49,0.09,0.94,938.19,27.38
 2020-07-08,Georgia,96538,2871,2831,21,10519475,182.26,26.91,0.2,0.92,917.71,27.29

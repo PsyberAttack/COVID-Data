@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Nebraska,20834,294,176,0,1929268,25.11,9.12,0.0,1.08,1079.89,15.24
 2020-07-09,Nebraska,20658,294,221,3,1929268,25.11,11.46,0.16,1.07,1070.77,15.24
 2020-07-08,Nebraska,20437,291,232,4,1929268,25.11,12.03,0.21,1.06,1059.31,15.08

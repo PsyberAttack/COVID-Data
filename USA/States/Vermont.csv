@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Vermont,1277,56,5,0,626299,67.94,0.8,0.0,0.2,203.9,8.94
 2020-07-09,Vermont,1272,56,16,0,626299,67.94,2.55,0.0,0.2,203.1,8.94
 2020-07-08,Vermont,1256,56,2,0,626299,67.94,0.32,0.0,0.2,200.54,8.94

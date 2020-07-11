@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,New York,404997,32004,790,25,19542209,414.7,4.04,0.13,2.07,2072.42,163.77
 2020-07-09,New York,404207,31979,588,34,19542209,414.7,3.01,0.17,2.07,2068.38,163.64
 2020-07-08,New York,403619,31945,691,11,19542209,414.7,3.54,0.06,2.07,2065.37,163.47

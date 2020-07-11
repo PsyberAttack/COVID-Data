@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Louisiana,74744,3380,2642,25,4659978,107.86,56.7,0.54,1.6,1603.96,72.53
 2020-07-09,Louisiana,72102,3355,1843,16,4659978,107.86,39.55,0.34,1.55,1547.26,72.0
 2020-07-08,Louisiana,70259,3339,1888,20,4659978,107.86,40.52,0.43,1.51,1507.71,71.65

@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Pennsylvania,98574,6929,940,34,12807060,286.23,7.34,0.27,0.77,769.68,54.1
 2020-07-09,Pennsylvania,97634,6895,817,31,12807060,286.23,6.38,0.24,0.76,762.35,53.84
 2020-07-08,Pennsylvania,96817,6864,831,29,12807060,286.23,6.49,0.23,0.76,755.97,53.6

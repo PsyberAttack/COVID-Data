@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Colorado,36210,1724,606,17,5695564,54.96,10.64,0.3,0.64,635.76,30.27
 2020-07-09,Colorado,35604,1707,419,0,5695564,54.96,7.36,0.0,0.63,625.12,29.97
 2020-07-08,Colorado,35185,1707,468,-2,5695564,54.96,8.22,-0.04,0.62,617.76,29.97

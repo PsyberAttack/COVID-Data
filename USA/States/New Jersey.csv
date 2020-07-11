@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,New Jersey,176575,15479,358,31,8908520,1211.32,4.02,0.35,1.98,1982.09,173.76
 2020-07-09,New Jersey,176217,15448,231,25,8908520,1211.32,2.59,0.28,1.98,1978.07,173.41
 2020-07-08,New Jersey,175986,15423,252,142,8908520,1211.32,2.83,1.59,1.98,1975.48,173.13

@@ -1,2 +1,2 @@
-date,county,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_10K,new_deaths_10K,%_infected,total_cases_10K,total_deaths_10K
-2020-07-08,Logan,North Dakota,1,0,0,0,1903.0,1.92,0.0,0.0,0.05,5.25,0.0
+date,county,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_10K,new_deaths_10K,%_infected,total_cases_10K,total_deaths_10K
+2020-07-08,Logan,North Dakota,1,0,0,0,1903,1.92,0.0,0.0,0.05,5.25,0.0

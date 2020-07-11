@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Utah,28452,207,820,2,3161105,38.46,25.94,0.06,0.9,900.07,6.55
 2020-07-09,Utah,27632,205,711,4,3161105,38.46,22.49,0.13,0.87,874.12,6.49
 2020-07-08,Utah,26921,201,718,7,3161105,38.46,22.71,0.22,0.85,851.63,6.36

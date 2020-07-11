@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Arizona,116947,2093,4164,46,7171646,63.14,58.06,0.64,1.63,1630.69,29.18
 2020-07-09,Arizona,112783,2047,4073,74,7171646,63.14,56.79,1.03,1.57,1572.62,28.54
 2020-07-08,Arizona,108710,1973,3551,40,7171646,63.14,49.51,0.56,1.52,1515.83,27.51

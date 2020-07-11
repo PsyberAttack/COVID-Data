@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Rhode Island,17312,976,69,2,1057315,1022.65,6.53,0.19,1.64,1637.35,92.31
 2020-07-09,Rhode Island,17243,974,39,3,1057315,1022.65,3.69,0.28,1.63,1630.83,92.12
 2020-07-08,Rhode Island,17204,971,50,2,1057315,1022.65,4.73,0.19,1.63,1627.14,91.84

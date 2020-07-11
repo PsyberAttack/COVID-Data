@@ -1,4 +1,4 @@
-date,state,cases,deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
+date,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_100K,new_deaths_100K,%_infected,total_cases_100K,total_deaths_100K
 2020-07-10,Oklahoma,19092,416,596,6,3943079,57.48,15.12,0.15,0.48,484.19,10.55
 2020-07-09,Oklahoma,18496,410,603,3,3943079,57.48,15.29,0.08,0.47,469.08,10.4
 2020-07-08,Oklahoma,17893,407,673,3,3943079,57.48,17.07,0.08,0.45,453.78,10.32
