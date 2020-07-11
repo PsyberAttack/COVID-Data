@@ -1,9 +1,9 @@
-date,county,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_10K,new_deaths_10K,%_infected,total_cases_10K,total_deaths_10K,CFR(%)
-2020-07-10,Campbell,South Dakota,1,0,0,0,1377,1.88,0.0,0.0,0.07,7.26,0.0,0.0
-2020-07-09,Campbell,South Dakota,1,0,0,0,1377,1.88,0.0,0.0,0.07,7.26,0.0,0.0
-2020-07-08,Campbell,South Dakota,1,0,0,0,1377,1.88,0.0,0.0,0.07,7.26,0.0,0.0
-2020-07-07,Campbell,South Dakota,1,0,0,0,1377,1.88,0.0,0.0,0.07,7.26,0.0,0.0
-2020-07-06,Campbell,South Dakota,1,0,0,0,1377,1.88,0.0,0.0,0.07,7.26,0.0,0.0
-2020-07-05,Campbell,South Dakota,1,0,0,0,1377,1.88,0.0,0.0,0.07,7.26,0.0,0.0
-2020-07-04,Campbell,South Dakota,1,0,0,0,1377,1.88,0.0,0.0,0.07,7.26,0.0,0.0
-2020-07-03,Campbell,South Dakota,1,0,0,0,1377,1.88,0.0,0.0,0.07,7.26,0.0,0.0
+date,state,county,new_cases_10k,new_cases,new_deaths,new_deaths_10k,total_cases,total_deaths,cfr%,total_cases_10k,total_deaths_10k,%infected,population,pop_density
+2020-07-10,South Dakota,Campbell,0.0,0,0,0.0,1,0,0.0,7.26,0.0,0.07,1377,1.88
+2020-07-09,South Dakota,Campbell,0.0,0,0,0.0,1,0,0.0,7.26,0.0,0.07,1377,1.88
+2020-07-08,South Dakota,Campbell,0.0,0,0,0.0,1,0,0.0,7.26,0.0,0.07,1377,1.88
+2020-07-07,South Dakota,Campbell,0.0,0,0,0.0,1,0,0.0,7.26,0.0,0.07,1377,1.88
+2020-07-06,South Dakota,Campbell,0.0,0,0,0.0,1,0,0.0,7.26,0.0,0.07,1377,1.88
+2020-07-05,South Dakota,Campbell,0.0,0,0,0.0,1,0,0.0,7.26,0.0,0.07,1377,1.88
+2020-07-04,South Dakota,Campbell,0.0,0,0,0.0,1,0,0.0,7.26,0.0,0.07,1377,1.88
+2020-07-03,South Dakota,Campbell,0.0,0,0,0.0,1,0,0.0,7.26,0.0,0.07,1377,1.88

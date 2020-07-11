@@ -1,17 +1,17 @@
-date,county,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_10K,new_deaths_10K,%_infected,total_cases_10K,total_deaths_10K,CFR(%)
-2020-07-10,Denali Borough,Alaska,1,0,0,0,2059,0.16,0.0,0.0,0.05,4.86,0.0,0.0
-2020-07-09,Denali Borough,Alaska,1,0,0,0,2059,0.16,0.0,0.0,0.05,4.86,0.0,0.0
-2020-07-08,Denali Borough,Alaska,1,0,0,0,2059,0.16,0.0,0.0,0.05,4.86,0.0,0.0
-2020-07-07,Denali Borough,Alaska,1,0,0,0,2059,0.16,0.0,0.0,0.05,4.86,0.0,0.0
-2020-07-06,Denali Borough,Alaska,1,0,0,0,2059,0.16,0.0,0.0,0.05,4.86,0.0,0.0
-2020-07-05,Denali Borough,Alaska,1,0,0,0,2059,0.16,0.0,0.0,0.05,4.86,0.0,0.0
-2020-07-04,Denali Borough,Alaska,1,0,0,0,2059,0.16,0.0,0.0,0.05,4.86,0.0,0.0
-2020-07-03,Denali Borough,Alaska,1,0,0,0,2059,0.16,0.0,0.0,0.05,4.86,0.0,0.0
-2020-07-02,Denali Borough,Alaska,1,0,0,0,2059,0.16,0.0,0.0,0.05,4.86,0.0,0.0
-2020-07-01,Denali Borough,Alaska,1,0,0,0,2059,0.16,0.0,0.0,0.05,4.86,0.0,0.0
-2020-06-30,Denali Borough,Alaska,1,0,0,0,2059,0.16,0.0,0.0,0.05,4.86,0.0,0.0
-2020-06-29,Denali Borough,Alaska,1,0,0,0,2059,0.16,0.0,0.0,0.05,4.86,0.0,0.0
-2020-06-28,Denali Borough,Alaska,1,0,0,0,2059,0.16,0.0,0.0,0.05,4.86,0.0,0.0
-2020-06-27,Denali Borough,Alaska,1,0,0,0,2059,0.16,0.0,0.0,0.05,4.86,0.0,0.0
-2020-06-26,Denali Borough,Alaska,1,0,0,0,2059,0.16,0.0,0.0,0.05,4.86,0.0,0.0
-2020-06-25,Denali Borough,Alaska,1,0,0,0,2059,0.16,0.0,0.0,0.05,4.86,0.0,0.0
+date,state,county,new_cases_10k,new_cases,new_deaths,new_deaths_10k,total_cases,total_deaths,cfr%,total_cases_10k,total_deaths_10k,%infected,population,pop_density
+2020-07-10,Alaska,Denali Borough,0.0,0,0,0.0,1,0,0.0,4.86,0.0,0.05,2059,0.16
+2020-07-09,Alaska,Denali Borough,0.0,0,0,0.0,1,0,0.0,4.86,0.0,0.05,2059,0.16
+2020-07-08,Alaska,Denali Borough,0.0,0,0,0.0,1,0,0.0,4.86,0.0,0.05,2059,0.16
+2020-07-07,Alaska,Denali Borough,0.0,0,0,0.0,1,0,0.0,4.86,0.0,0.05,2059,0.16
+2020-07-06,Alaska,Denali Borough,0.0,0,0,0.0,1,0,0.0,4.86,0.0,0.05,2059,0.16
+2020-07-05,Alaska,Denali Borough,0.0,0,0,0.0,1,0,0.0,4.86,0.0,0.05,2059,0.16
+2020-07-04,Alaska,Denali Borough,0.0,0,0,0.0,1,0,0.0,4.86,0.0,0.05,2059,0.16
+2020-07-03,Alaska,Denali Borough,0.0,0,0,0.0,1,0,0.0,4.86,0.0,0.05,2059,0.16
+2020-07-02,Alaska,Denali Borough,0.0,0,0,0.0,1,0,0.0,4.86,0.0,0.05,2059,0.16
+2020-07-01,Alaska,Denali Borough,0.0,0,0,0.0,1,0,0.0,4.86,0.0,0.05,2059,0.16
+2020-06-30,Alaska,Denali Borough,0.0,0,0,0.0,1,0,0.0,4.86,0.0,0.05,2059,0.16
+2020-06-29,Alaska,Denali Borough,0.0,0,0,0.0,1,0,0.0,4.86,0.0,0.05,2059,0.16
+2020-06-28,Alaska,Denali Borough,0.0,0,0,0.0,1,0,0.0,4.86,0.0,0.05,2059,0.16
+2020-06-27,Alaska,Denali Borough,0.0,0,0,0.0,1,0,0.0,4.86,0.0,0.05,2059,0.16
+2020-06-26,Alaska,Denali Borough,0.0,0,0,0.0,1,0,0.0,4.86,0.0,0.05,2059,0.16
+2020-06-25,Alaska,Denali Borough,0.0,0,0,0.0,1,0,0.0,4.86,0.0,0.05,2059,0.16

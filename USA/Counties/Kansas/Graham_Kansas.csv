@@ -1,6 +1,6 @@
-date,county,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_10K,new_deaths_10K,%_infected,total_cases_10K,total_deaths_10K,CFR(%)
-2020-07-10,Graham,Kansas,6,0,3,0,2492,2.77,12.04,0.0,0.24,24.08,0.0,0.0
-2020-07-09,Graham,Kansas,3,0,0,0,2492,2.77,0.0,0.0,0.12,12.04,0.0,0.0
-2020-07-08,Graham,Kansas,3,0,1,0,2492,2.77,4.01,0.0,0.12,12.04,0.0,0.0
-2020-07-07,Graham,Kansas,2,0,0,0,2492,2.77,0.0,0.0,0.08,8.03,0.0,0.0
-2020-07-06,Graham,Kansas,2,0,0,0,2492,2.77,0.0,0.0,0.08,8.03,0.0,0.0
+date,state,county,new_cases_10k,new_cases,new_deaths,new_deaths_10k,total_cases,total_deaths,cfr%,total_cases_10k,total_deaths_10k,%infected,population,pop_density
+2020-07-10,Kansas,Graham,12.04,3,0,0.0,6,0,0.0,24.08,0.0,0.24,2492,2.77
+2020-07-09,Kansas,Graham,0.0,0,0,0.0,3,0,0.0,12.04,0.0,0.12,2492,2.77
+2020-07-08,Kansas,Graham,4.01,1,0,0.0,3,0,0.0,12.04,0.0,0.12,2492,2.77
+2020-07-07,Kansas,Graham,0.0,0,0,0.0,2,0,0.0,8.03,0.0,0.08,2492,2.77
+2020-07-06,Kansas,Graham,0.0,0,0,0.0,2,0,0.0,8.03,0.0,0.08,2492,2.77

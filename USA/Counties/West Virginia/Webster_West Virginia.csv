@@ -1,6 +1,6 @@
-date,county,state,total_cases,total_deaths,new_cases,new_deaths,population,pop_density,new_cases_10K,new_deaths_10K,%_infected,total_cases_10K,total_deaths_10K,CFR(%)
-2020-07-10,Webster,West Virginia,1,0,0,0,8285,14.97,0.0,0.0,0.01,1.21,0.0,0.0
-2020-07-09,Webster,West Virginia,1,0,0,0,8285,14.97,0.0,0.0,0.01,1.21,0.0,0.0
-2020-07-08,Webster,West Virginia,1,0,0,0,8285,14.97,0.0,0.0,0.01,1.21,0.0,0.0
-2020-07-07,Webster,West Virginia,1,0,0,0,8285,14.97,0.0,0.0,0.01,1.21,0.0,0.0
-2020-07-06,Webster,West Virginia,1,0,0,0,8285,14.97,0.0,0.0,0.01,1.21,0.0,0.0
+date,state,county,new_cases_10k,new_cases,new_deaths,new_deaths_10k,total_cases,total_deaths,cfr%,total_cases_10k,total_deaths_10k,%infected,population,pop_density
+2020-07-10,West Virginia,Webster,0.0,0,0,0.0,1,0,0.0,1.21,0.0,0.01,8285,14.97
+2020-07-09,West Virginia,Webster,0.0,0,0,0.0,1,0,0.0,1.21,0.0,0.01,8285,14.97
+2020-07-08,West Virginia,Webster,0.0,0,0,0.0,1,0,0.0,1.21,0.0,0.01,8285,14.97
+2020-07-07,West Virginia,Webster,0.0,0,0,0.0,1,0,0.0,1.21,0.0,0.01,8285,14.97
+2020-07-06,West Virginia,Webster,0.0,0,0,0.0,1,0,0.0,1.21,0.0,0.01,8285,14.97
