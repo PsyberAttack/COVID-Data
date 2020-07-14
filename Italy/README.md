@@ -2,7 +2,7 @@
 
 Includes data from the Italian Health Ministry.
 
-*** THIS  DATASET IS IN PROGRESS AND MAY NOT BE UPDATED DAILY FOR A FEW DAYS ***
+*** THIS  DATASET IS IN PROGRESS. DAILY UPDATES NOW OCCURRING***
  
  
 ### Files:
