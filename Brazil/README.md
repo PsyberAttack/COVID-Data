@@ -2,7 +2,8 @@
 
 Includes data from the Brazil.IO COVID-19 Dataset.
 
-*** THIS  DATASET IS IN PROGRESS AND MAY NOT BE UPDATED DAILY FOR A FEW DAYS ***
+
+*** THIS  DATASET IS LIVE. WIKI WILL BE UPDATED SOON ***
  
  
 ### Files:
@@ -10,6 +11,7 @@ Includes data from the Brazil.IO COVID-19 Dataset.
 **States** contains time series data for each Brazilian State
 
 **Cities** contains time series data for each Brazilian City/Municipality
+
 
 ### Data Sources:
 
