@@ -1,4 +1,5 @@
 date,state,city,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+2020-07-13,Ceará,Aracati,1.34,1,0.0,0.0,886,40,4.51,1188.51,53.66,1.19,74547
 2020-07-12,Ceará,Aracati,2.68,2,0.0,0.0,885,40,4.52,1187.17,53.66,1.19,74547
 2020-07-11,Ceará,Aracati,8.05,6,0.0,0.0,883,40,4.53,1184.49,53.66,1.18,74547
 2020-07-10,Ceará,Aracati,26.83,20,0.0,0.0,877,40,4.56,1176.44,53.66,1.18,74547
@@ -96,4 +97,4 @@ date,state,city,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,
 2020-04-08,Ceará,Aracati,0.0,0,0.0,0.0,2,1,50.0,2.68,1.34,0.0,74547
 2020-04-07,Ceará,Aracati,1.34,1,1.0,1.34,2,1,50.0,2.68,1.34,0.0,74547
 2020-04-06,Ceará,Aracati,1.34,1,-1.0,-1.34,1,0,0.0,1.34,0.0,0.0,74547
-2020-04-05,Ceará,Aracati,0.0,0,1.0,1.34,0,1,inf,0.0,1.34,0.0,74547
+2020-04-05,Ceará,Aracati,0.0,0,0.0,0.0,0,1,inf,0.0,1.34,0.0,74547

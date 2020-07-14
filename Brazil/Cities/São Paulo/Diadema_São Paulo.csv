@@ -1,4 +1,5 @@
 date,state,city,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+2020-07-12,São Paulo,Diadema,32.08,136,0.0,0.0,4089,210,5.14,964.65,49.54,0.96,423884
 2020-07-11,São Paulo,Diadema,11.56,49,1.0,0.24,3953,210,5.31,932.57,49.54,0.93,423884
 2020-07-10,São Paulo,Diadema,12.27,52,3.0,0.71,3904,209,5.35,921.01,49.31,0.92,423884
 2020-07-09,São Paulo,Diadema,11.56,49,1.0,0.24,3852,206,5.35,908.74,48.6,0.91,423884
@@ -103,4 +104,4 @@ date,state,city,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,
 2020-04-01,São Paulo,Diadema,0.71,3,0.0,0.0,8,0,0.0,1.89,0.0,0.0,423884
 2020-03-31,São Paulo,Diadema,0.71,3,0.0,0.0,5,0,0.0,1.18,0.0,0.0,423884
 2020-03-30,São Paulo,Diadema,0.24,1,0.0,0.0,2,0,0.0,0.47,0.0,0.0,423884
-2020-03-27,São Paulo,Diadema,0.24,1,0.0,0.0,1,0,0.0,0.24,0.0,0.0,423884
+2020-03-27,São Paulo,Diadema,0.0,0,0.0,0.0,1,0,0.0,0.24,0.0,0.0,423884
