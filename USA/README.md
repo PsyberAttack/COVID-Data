@@ -1,6 +1,8 @@
 ## New York Times COVID-19 Data
 
-Includes data from the New York Times COVID-19 dataset, enriched with population data from the US Census to create a uniform measure to compare outbreaks across the USA.  
+Includes data from the New York Times COVID-19 dataset, enriched with population data from the US Census to create a uniform measure to compare outbreaks across the USA.
+
+**15/07/2020: THE NYT REPOSITORY DIDN'T UPDATE CORRECTLY, SO US DATA IS CURRENTLY STALE**
 
 
 ### Syntax
