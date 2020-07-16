@@ -1,9 +1,5 @@
 ## New York Times COVID-19 Data
 
-
-**15/07/2020: THE NYT REPOSITORY DIDN'T UPDATE CORRECTLY TODAY, SO DATA IS CURRENTLY STALE**
-
-
 Includes data from the New York Times COVID-19 dataset, enriched with population data from the US Census to create a uniform measure to compare outbreaks across the USA.
 
 
