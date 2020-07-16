@@ -3,7 +3,7 @@
 Includes data from the COVID19India Dataset.
 
 
-*** THIS  DATASET IS IN BETA AND HAS NOT UNDERGONE CHECKS YET ***
+*** THIS WIKI WILL BE UPDATED IN THE NEXT DAYS ***
  
  
 ### Files:
