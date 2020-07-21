@@ -1,5 +1,6 @@
 date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
-2020-07-20,Uttar_Pradesh,Firozabad,0.0,0,0,0.0,596,36,6.04,23.87,1.44,0.02,2496761
+2020-07-21,Uttar_Pradesh,Firozabad,0.2,5,0,0.0,606,37,6.11,24.27,1.48,0.02,2496761
+2020-07-20,Uttar_Pradesh,Firozabad,0.2,5,1,0.04,601,37,6.16,24.07,1.48,0.02,2496761
 2020-07-19,Uttar_Pradesh,Firozabad,0.16,4,0,0.0,596,36,6.04,23.87,1.44,0.02,2496761
 2020-07-18,Uttar_Pradesh,Firozabad,0.12,3,1,0.04,592,36,6.08,23.71,1.44,0.02,2496761
 2020-07-17,Uttar_Pradesh,Firozabad,0.16,4,1,0.04,589,35,5.94,23.59,1.4,0.02,2496761
@@ -84,4 +85,4 @@ date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_ca
 2020-04-29,Uttar_Pradesh,Firozabad,0.4,10,1,0.04,110,2,1.82,4.41,0.08,0.0,2496761
 2020-04-28,Uttar_Pradesh,Firozabad,0.0,0,0,0.0,100,1,1.0,4.01,0.04,0.0,2496761
 2020-04-27,Uttar_Pradesh,Firozabad,0.68,17,0,0.0,100,1,1.0,4.01,0.04,0.0,2496761
-2020-04-26,Uttar_Pradesh,Firozabad,3.32,83,1,0.04,83,1,1.2,3.32,0.04,0.0,2496761
+2020-04-26,Uttar_Pradesh,Firozabad,0.68,17,0,0.0,83,1,1.2,3.32,0.04,0.0,2496761

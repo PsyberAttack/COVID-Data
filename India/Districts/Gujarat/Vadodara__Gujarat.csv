@@ -1,5 +1,6 @@
 date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
-2020-07-20,Gujarat,Vadodara,0.0,0,0,0.0,3587,53,1.48,98.55,1.46,0.1,3639775
+2020-07-21,Gujarat,Vadodara,2.06,75,2,0.05,3740,57,1.52,102.75,1.57,0.1,3639775
+2020-07-20,Gujarat,Vadodara,2.14,78,2,0.05,3665,55,1.5,100.69,1.51,0.1,3639775
 2020-07-19,Gujarat,Vadodara,2.17,79,0,0.0,3587,53,1.48,98.55,1.46,0.1,3639775
 2020-07-18,Gujarat,Vadodara,2.14,78,0,0.0,3508,53,1.51,96.38,1.46,0.1,3639775
 2020-07-17,Gujarat,Vadodara,2.12,77,1,0.03,3430,53,1.55,94.24,1.46,0.09,3639775
@@ -84,4 +85,4 @@ date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_ca
 2020-04-29,Gujarat,Vadodara,0.41,15,3,0.08,270,16,5.93,7.42,0.44,0.01,3639775
 2020-04-28,Gujarat,Vadodara,0.41,15,0,0.0,255,13,5.1,7.01,0.36,0.01,3639775
 2020-04-27,Gujarat,Vadodara,0.16,6,1,0.03,240,13,5.42,6.59,0.36,0.01,3639775
-2020-04-26,Gujarat,Vadodara,6.43,234,12,0.33,234,12,5.13,6.43,0.33,0.01,3639775
+2020-04-26,Gujarat,Vadodara,0.16,6,1,0.03,234,12,5.13,6.43,0.33,0.01,3639775
