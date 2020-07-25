@@ -2,10 +2,7 @@
 
 A Middle Layer Super Output Area (MSOA) is a geospatial area used by the Office for National Statistics, (ONS), to report small area statistics. They are referred to locally by their House of Commons Library names, usually forming a local neighbourhood or cluster of villages.
 
-This dataset gives the clearest insights yet into the amplitude of England's COVID-19 epidemic. Cases date back to Week 9, (24 Feb 2020), and deaths date back to March 1st. Deaths are updated in monthly format, cases are updated on a weekly basis.
-
-The data is provided in both timeseries and total form.
-
+This dataset gives the clearest insights yet into the amplitude of England's COVID-19 epidemic. Cases date back to Week 10, (March 1st 2020), and are recorded weekly. Deaths date back to March 1st. They're updated in monthly format.
 
 ### Syntax
 
@@ -32,6 +29,12 @@ The data is provided in both timeseries and total form.
 9. **MSOA11CD/LAD19CD** are unique codes for each area, which can be used to connect this data to others using ONS codes.
 
 
+### Important
+
+The UK completely lost control of their epidemic at the start of the pandemic. The early government testing data was limited so the early numbers of reported cases are deceptive. Deaths have been determined by what is written on the death certificate. The ONS has no way of confirming if the deceased was tested, but COVID-19 will have been mentioned as a cause of death.
+
+The deaths data is a more reliable source for the periods March-April, (Weeks 10-18), and they point to an epidemic as bad as anything seen globally.
+
 
 ### Regional Data
 
@@ -52,10 +55,11 @@ The UK Government now provides Case data by MSOA and Week number on their new da
 
 ### Files:
 
+The data is provided in both timeseries and total form.
+
 **England-MSOA-Cases-Deaths.csv** contains the latest total cases and deaths data.
 
 **England-MSOA-Cases-Deaths_TIME.csv** contains a timeseries of deaths by month and case by week.
-
 
 
 
