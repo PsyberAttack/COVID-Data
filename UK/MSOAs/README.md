@@ -29,10 +29,9 @@ This dataset gives the clearest insights yet into the amplitude of England's COV
 9. **MSOA11CD/LAD19CD** are unique codes for each area, which can be used to connect this data to others using ONS codes.
 
 
+**Note:** The UK completely lost control of their epidemic at the start of the pandemic. The early government testing capacity limited detection rates, so the deaths data is a more reliable indicator for the periods March-April, (Weeks 10-18).
 
-** Note:** The UK completely lost control of their epidemic at the start of the pandemic. The early government testing data was limited so the early numbers of reported cases are deceptive. Deaths have been determined by what is written on the death certificate. The ONS has no way of confirming if the deceased was tested, but COVID-19 will have been mentioned as a cause of death.
-
-The deaths data is a more reliable source for the periods March-April, (Weeks 10-18), and they point to an epidemic as bad as anything seen globally.
+Deaths have been determined by the ONS, based on the cause of death on the death certificate. The ONS has no way of confirming if the deceased was tested or not.
 
 
 
