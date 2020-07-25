@@ -29,11 +29,11 @@ This dataset gives the clearest insights yet into the amplitude of England's COV
 9. **MSOA11CD/LAD19CD** are unique codes for each area, which can be used to connect this data to others using ONS codes.
 
 
-### Important
 
-The UK completely lost control of their epidemic at the start of the pandemic. The early government testing data was limited so the early numbers of reported cases are deceptive. Deaths have been determined by what is written on the death certificate. The ONS has no way of confirming if the deceased was tested, but COVID-19 will have been mentioned as a cause of death.
+** Note:** The UK completely lost control of their epidemic at the start of the pandemic. The early government testing data was limited so the early numbers of reported cases are deceptive. Deaths have been determined by what is written on the death certificate. The ONS has no way of confirming if the deceased was tested, but COVID-19 will have been mentioned as a cause of death.
 
 The deaths data is a more reliable source for the periods March-April, (Weeks 10-18), and they point to an epidemic as bad as anything seen globally.
+
 
 
 ### Regional Data
@@ -41,9 +41,11 @@ The deaths data is a more reliable source for the periods March-April, (Weeks 10
 The dataset is tagged with Region, Local Authority and MSOA names and codes. Population data by MSOA comes from the latest December 2019 reprot, accurate as of 2018: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/middlesuperoutputareamidyearpopulationestimates
 
 
+
 ### Deaths Data
 
 The Office for National Statistics releases a monthly count of COVID-19 deaths by MSOA, based on place of residence of the deceased and cause of death on their death certificate. As death certificates are certified by a medical practitioner, ONS is considered to provide the most reliable indicator of the UK's COVID-19 death toll: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsinvolvingcovid19bylocalareasanddeprivation/deathsoccurringbetween1marchand30june2020
+
 
 
 
@@ -60,6 +62,7 @@ The data is provided in both timeseries and total form.
 **England-MSOA-Cases-Deaths.csv** contains the latest total cases and deaths data.
 
 **England-MSOA-Cases-Deaths_TIME.csv** contains a timeseries of deaths by month and case by week.
+
 
 
 
