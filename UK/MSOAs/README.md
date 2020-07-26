@@ -31,8 +31,19 @@ This dataset gives the clearest insights yet into the amplitude of England's COV
 
 **Note:** The UK completely lost control of their epidemic at the start of the pandemic. The early government testing capacity limited detection rates, so the deaths data is a more reliable indicator for the periods March-April, (Weeks 10-18).
 
-Deaths have been determined by the ONS, based on the cause of death on the death certificate. The ONS has no way of confirming if the deceased was tested or not.
+Due to an early shortage of testing, there are MSOAS where more deaths have been reported than cases. This happens because Deaths are recorded from the cause of death on the death certificate. The ONS cannot confirm if the deceased was tested or not, so it isn't possible to separate suspected and confirmed deaths.
 
+### Sheets
+
+The smaller sheets can all be rendered in the browser, but larger sheets will need to be downloaded and opened in Excel or LibreOffice.
+
+**REGION-Cases-Deaths_TOTALS.csv** contains the latest total cases, deaths and calculated rates for each MSOA in the Region.
+
+**REGION-Cases-Deaths_TIME.csv** contains a timeseries of deaths by month and cases by week for each MSOA in the Region.
+
+**REGION-Cases-Deaths_WORST.csv** contains the latest total cases, deaths and calculated rates for the worst affected MSOAs in the Region.
+
+**REGION-Cases-Deaths_LEAST.csv** contains the latest total cases, deaths and calculated rates for the least affected MSOAs in the Region.
 
 
 ### Regional Data
@@ -43,7 +54,7 @@ The dataset is tagged with Region, Local Authority and MSOA names and codes. Pop
 
 ### Deaths Data
 
-The Office for National Statistics releases a monthly count of COVID-19 deaths by MSOA, based on place of residence of the deceased and cause of death on their death certificate. As death certificates are certified by a medical practitioner, ONS is considered to provide the most reliable indicator of the UK's COVID-19 death toll: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsinvolvingcovid19bylocalareasanddeprivation/deathsoccurringbetween1marchand30june2020
+The Office for National Statistics releases a monthly count of COVID-19 deaths by MSOA, based on place of residence of the deceased and cause of death on their death certificate. As death certificates are certified by a medical practitioner, the ONS is considered to provide the most reliable indicator of the UK's COVID-19 death toll: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsinvolvingcovid19bylocalareasanddeprivation/deathsoccurringbetween1marchand30june2020
 
 
 
@@ -51,24 +62,3 @@ The Office for National Statistics releases a monthly count of COVID-19 deaths b
 ### Case Data
 
 The UK Government now provides Case data by MSOA and Week number on their new dashboard, from the 'Weekly cases by local area in England' map. This dataset has been joined to the ONS Deaths data by merging them on the MSOA19CD codes in each dataset: https://coronavirus-staging.data.gov.uk/cases
-
-
-
-### Files:
-
-The data is provided in both timeseries and total form.
-
-**England-MSOA-Cases-Deaths.csv** contains the latest total cases and deaths data.
-
-**England-MSOA-Cases-Deaths_TIME.csv** contains a timeseries of deaths by month and case by week.
-
-
-
-
-### Data Sources:
-
-**UK Government Coronavirus Dashboard:** https://coronavirus-staging.data.gov.uk/cases
-
-**ONS COVID Deaths by MSOA Map:** https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/causesofdeath/articles/deathsinvolvingcovid19interactivemap/2020-06-12 
-
-_The dataset will be updated daily by an automated process, (exact update time to be confirmed)_
