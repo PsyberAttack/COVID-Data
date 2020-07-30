@@ -1,8 +1,231 @@
 date,new_deaths,total_deaths,hospital,region,code
+2020-07-29,0,4,Anglian Community Enterprise CIC - Clacton Hospital,East Of England,NQ108
+2020-07-29,0,25,Anglian Community Enterprise CIC - Fryatt Hospital,East Of England,NQ106
+2020-07-29,0,308,Basildon And Thurrock University Hospitals NHS Foundation Trust,East Of England,RDD
+2020-07-29,0,224,Bedford Hospital NHS Trust,East Of England,RC1
+2020-07-29,0,124,Cambridge University Hospitals NHS Foundation Trust,East Of England,RGT
+2020-07-29,0,1,Cambridgeshire And Peterborough NHS Foundation Trust,East Of England,RT1
+2020-07-29,0,166,East And North Hertfordshire NHS Trust,East Of England,RWH
+2020-07-29,0,3,East Coast Community Healthcare - Beccles Hospital,East Of England,NAX03
+2020-07-29,0,353,East Suffolk And North Essex NHS Foundation Trust,East Of England,RDE
+2020-07-29,0,1,Elysium Healthcare Limited,East Of England,DE8
+2020-07-29,0,17,Essex Partnership University NHS Foundation Trust,East Of England,R1L
+2020-07-29,0,8,Hertfordshire Community NHS Trust,East Of England,RY4
+2020-07-29,0,10,Hertfordshire Partnership University NHS Foundation Trust,East Of England,RWR
+2020-07-29,0,117,James Paget University Hospitals NHS Foundation Trust,East Of England,RGP
+2020-07-29,0,282,Luton And Dunstable University Hospital NHS Foundation Trust,East Of England,RC9
+2020-07-29,0,196,Mid Essex Hospital Services NHS Trust,East Of England,RQ8
+2020-07-29,0,104,Milton Keynes University Hospital NHS Foundation Trust,East Of England,RD8
+2020-07-29,0,123,Norfolk And Norwich University Hospitals NHS Foundation Trust,East Of England,RM1
+2020-07-29,0,2,Norfolk And Suffolk NHS Foundation Trust,East Of England,RMY
+2020-07-29,0,28,Norfolk Community Health And Care NHS Trust,East Of England,RY3
+2020-07-29,0,235,North West Anglia NHS Foundation Trust,East Of England,RGN
+2020-07-29,0,6,Provide - Braintree Community Hospital,East Of England,NQA20
+2020-07-29,0,1,Provide - Halstead Hospital,East Of England,NQA64
+2020-07-29,0,2,Provide - St Peters Hospital,East Of England,NQA31
+2020-07-29,0,22,Royal Papworth Hospital NHS Foundation Trust,East Of England,RGM
+2020-07-29,0,249,Southend University Hospital NHS Foundation Trust,East Of England,RAJ
+2020-07-29,0,201,The Princess Alexandra Hospital NHS Trust,East Of England,RQW
+2020-07-29,0,148,"The Queen Elizabeth Hospital, King'S Lynn, NHS Foundation Trust",East Of England,RCX
+2020-07-29,0,369,West Hertfordshire Hospitals NHS Trust,East Of England,RWG
+2020-07-29,0,80,West Suffolk NHS Foundation Trust,East Of England,RGR
+2020-07-29,0,423,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
+2020-07-29,0,625,Barts Health NHS Trust,London,R1H
+2020-07-29,0,6,Central And North West London NHS Foundation Trust,London,RV3
+2020-07-29,0,10,Central London Community Healthcare NHS Trust,London,RYX
+2020-07-29,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-07-29,0,300,Croydon Health Services NHS Trust,London,RJ6
+2020-07-29,0,17,East London NHS Foundation Trust,London,RWK
+2020-07-29,0,276,Epsom And St Helier University Hospitals NHS Trust,London,RVR
+2020-07-29,0,232,Guy'S And St Thomas' NHS Foundation Trust,London,RJ1
+2020-07-29,0,2,Hca UK - London Bridge,London,NW605
+2020-07-29,0,1,Hca UK - The Lister,London,NW603
+2020-07-29,0,2,Hca UK - The Princess Grace,London,NW601
+2020-07-29,0,9,Hca UK - The Wellington Hospital North Building,London,NW602
+2020-07-29,0,148,Homerton University Hospital NHS Foundation Trust,London,RQX
+2020-07-29,0,9,Hospital Of St John & St Elizabeth - Hospital Of St John & St Elizabeth,London,NMM01
+2020-07-29,0,428,Imperial College Healthcare NHS Trust,London,RYJ
+2020-07-29,0,511,King'S College Hospital NHS Foundation Trust,London,RJZ
+2020-07-29,0,164,Kingston Hospital NHS Foundation Trust,London,RAX
+2020-07-29,0,412,Lewisham And Greenwich NHS Trust,London,RJ2
+2020-07-29,0,614,London North West University Healthcare NHS Trust,London,R1K
+2020-07-29,0,4,Nhs Nightingale Hospital London,London,R1H0A
+2020-07-29,0,46,North East London NHS Foundation Trust,London,RAT
+2020-07-29,0,267,North Middlesex University Hospital NHS Trust,London,RAP
+2020-07-29,0,3,Oxleas NHS Foundation Trust,London,RPG
+2020-07-29,0,49,Royal Brompton & Harefield NHS Foundation Trust,London,RT3
+2020-07-29,0,486,Royal Free London NHS Foundation Trust,London,RAL
+2020-07-29,0,10,Royal Hospital For Neuro-Disability – West Hill,London,NN101
+2020-07-29,0,4,Royal National Orthopaedic Hospital NHS Trust,London,RAN
+2020-07-29,0,2,South London And Maudsley NHS Foundation Trust,London,RV5
+2020-07-29,0,295,St George'S University Hospitals NHS Foundation Trust,London,RJ7
+2020-07-29,0,165,The Hillingdon Hospitals NHS Foundation Trust,London,RAS
+2020-07-29,0,6,The London Clinic - 20 Devonshire Place,London,E8770
+2020-07-29,0,19,The Royal Marsden NHS Foundation Trust,London,RPY
+2020-07-29,0,175,University College London Hospitals NHS Foundation Trust,London,RRV
+2020-07-29,0,4,West London NHS Trust,London,RKL
+2020-07-29,0,111,Whittington Health NHS Trust,London,RKE
+2020-07-29,0,38,Birmingham Community Healthcare NHS Foundation Trust,Midlands,RYW
+2020-07-29,0,132,Chesterfield Royal Hospital NHS Foundation Trust,Midlands,RFS
+2020-07-29,0,18,Derbyshire Community Health Services NHS Foundation Trust,Midlands,RY8
+2020-07-29,0,2,Derbyshire Healthcare NHS Foundation Trust,Midlands,RXM
+2020-07-29,0,177,George Eliot Hospital NHS Trust,Midlands,RLT
+2020-07-29,0,219,Kettering General Hospital NHS Foundation Trust,Midlands,RNQ
+2020-07-29,0,21,Leicestershire Partnership NHS Trust,Midlands,RT5
+2020-07-29,0,4,Lincolnshire Community Health Services NHS Trust,Midlands,RY5
+2020-07-29,0,1,Lincolnshire Partnership NHS Foundation Trust,Midlands,RP7
+2020-07-29,0,12,Midlands Partnership NHS Foundation Trust,Midlands,RRE
+2020-07-29,0,6,North Staffordshire Combined Healthcare NHS Trust,Midlands,RLY
+2020-07-29,0,310,Northampton General Hospital NHS Trust,Midlands,RNS
+2020-07-29,0,14,Northamptonshire Healthcare NHS Foundation Trust,Midlands,RP1
+2020-07-29,0,272,Nottingham University Hospitals NHS Trust,Midlands,RX1
+2020-07-29,0,13,Nottinghamshire Healthcare NHS Foundation Trust,Midlands,RHA
+2020-07-29,0,1,Ramsay Health UK - Nottingham Woodthorpe,Midlands,NVC40
+2020-07-29,0,379,Sandwell And West Birmingham Hospitals NHS Trust,Midlands,RXK
+2020-07-29,0,124,Sherwood Forest Hospitals NHS Foundation Trust,Midlands,RK5
+2020-07-29,0,169,Shrewsbury And Telford Hospital NHS Trust,Midlands,RXW
+2020-07-29,0,15,Shropshire Community Health NHS Trust,Midlands,R1D
+2020-07-29,0,118,South Warwickshire NHS Foundation Trust,Midlands,RJC
+2020-07-29,0,264,The Dudley Group NHS Foundation Trust,Midlands,RNA
+2020-07-29,0,5,The Robert Jones And Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,Midlands,RL1
+2020-07-29,0,15,The Royal Orthopaedic Hospital NHS Foundation Trust,Midlands,RRJ
+2020-07-29,0,285,The Royal Wolverhampton NHS Trust,Midlands,RL4
+2020-07-29,0,143,United Lincolnshire Hospitals NHS Trust,Midlands,RWD
+2020-07-29,0,965,University Hospitals Birmingham NHS Foundation Trust,Midlands,RRK
+2020-07-29,0,238,University Hospitals Coventry And Warwickshire NHS Trust,Midlands,RKB
+2020-07-29,0,522,University Hospitals Of Derby And Burton NHS Foundation Trust,Midlands,RTG
+2020-07-29,0,437,University Hospitals Of Leicester NHS Trust,Midlands,RWE
+2020-07-29,0,354,University Hospitals Of North Midlands NHS Trust,Midlands,RJE
+2020-07-29,0,230,Walsall Healthcare NHS Trust,Midlands,RBK
+2020-07-29,0,278,Worcestershire Acute Hospitals NHS Trust,Midlands,RWP
+2020-07-29,0,28,Worcestershire Health And Care NHS Trust,Midlands,R1A
+2020-07-29,0,57,Wye Valley NHS Trust,Midlands,RLQ
+2020-07-29,0,109,Airedale NHS Foundation Trust,North East and Yorkshire,RCF
+2020-07-29,0,148,Barnsley Hospital NHS Foundation Trust,North East and Yorkshire,RFF
+2020-07-29,0,2,Bradford District Care NHS Foundation Trust,North East and Yorkshire,TAD
+2020-07-29,0,234,Bradford Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RAE
+2020-07-29,0,159,Calderdale And Huddersfield NHS Foundation Trust,North East and Yorkshire,RWY
+2020-07-29,0,15,City Health Care Partnership CIC - East Riding Community Hospital,North East and Yorkshire,NNF94
+2020-07-29,0,252,County Durham And Darlington NHS Foundation Trust,North East and Yorkshire,RXP
+2020-07-29,0,7,"Cumbria, Northumberland, Tyne And Wear NHS Foundation Trust",North East and Yorkshire,RX4
+2020-07-29,0,232,Doncaster And Bassetlaw Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RP5
+2020-07-29,0,135,Gateshead Health NHS Foundation Trust,North East and Yorkshire,RR7
+2020-07-29,0,82,Harrogate And District NHS Foundation Trust,North East and Yorkshire,RCD
+2020-07-29,0,206,Hull University Teaching Hospitals NHS Trust,North East and Yorkshire,RWA
+2020-07-29,0,1,Humber Teaching NHS Foundation Trust,North East and Yorkshire,RV9
+2020-07-29,0,4,Leeds And York Partnership NHS Foundation Trust,North East and Yorkshire,RGD
+2020-07-29,0,334,Leeds Teaching Hospitals NHS Trust,North East and Yorkshire,RR8
+2020-07-29,0,330,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
+2020-07-29,0,161,North Cumbria Integrated Care NHS Foundation Trust,North East and Yorkshire,RNN
+2020-07-29,0,140,North Tees And Hartlepool NHS Foundation Trust,North East and Yorkshire,RVW
+2020-07-29,0,118,Northern Lincolnshire And Goole NHS Foundation Trust,North East and Yorkshire,RJL
+2020-07-29,0,202,Northumbria Healthcare NHS Foundation Trust,North East and Yorkshire,RTF
+2020-07-29,0,4,Rotherham Doncaster And South Humber NHS Foundation Trust,North East and Yorkshire,RXE
+2020-07-29,0,1,Sheffield Children'S NHS Foundation Trust,North East and Yorkshire,RCU
+2020-07-29,0,2,Sheffield Health And Social Care NHS Foundation Trust,North East and Yorkshire,TAH
+2020-07-29,0,286,Sheffield Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RHQ
+2020-07-29,0,255,South Tees Hospitals NHS Foundation Trust,North East and Yorkshire,RTR
+2020-07-29,0,325,South Tyneside And Sunderland NHS Foundation Trust,North East and Yorkshire,R0B
+2020-07-29,0,7,"Tees, Esk And Wear Valleys NHS Foundation Trust",North East and Yorkshire,RX3
+2020-07-29,0,116,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,North East and Yorkshire,RTD
+2020-07-29,0,203,The Rotherham NHS Foundation Trust,North East and Yorkshire,RFR
+2020-07-29,0,214,York Teaching Hospital NHS Foundation Trust,North East and Yorkshire,RCB
+2020-07-29,0,4,Alder Hey Children'S NHS Foundation Trust,North West,RBS
+2020-07-29,0,239,Blackpool Teaching Hospitals NHS Foundation Trust,North West,RXL
+2020-07-29,0,226,Bolton NHS Foundation Trust,North West,RMC
+2020-07-29,0,4,Cheshire And Wirral Partnership NHS Foundation Trust,North West,RXA
+2020-07-29,0,227,Countess Of Chester Hospital NHS Foundation Trust,North West,RJR
+2020-07-29,0,146,East Cheshire NHS Trust,North West,RJN
+2020-07-29,0,203,East Lancashire Hospitals NHS Trust,North West,RXR
+2020-07-29,0,9,Greater Manchester Mental Health NHS Foundation Trust,North West,RXV
+2020-07-29,0,248,Lancashire Teaching Hospitals NHS Foundation Trust,North West,RXN
+2020-07-29,0,19,Liverpool Heart And Chest Hospital NHS Foundation Trust,North West,RBQ
+2020-07-29,0,473,Liverpool University Hospitals NHS Foundation Trust,North West,REM
+2020-07-29,0,445,Manchester University NHS Foundation Trust,North West,R0A
+2020-07-29,0,3,Mersey Care NHS Foundation Trust,North West,RW4
+2020-07-29,0,213,Mid Cheshire Hospitals NHS Foundation Trust,North West,RBT
+2020-07-29,0,6,Nhs Nightingale Hospital North West,North West,R0A90
+2020-07-29,0,1,North West Boroughs Healthcare NHS Foundation Trust,North West,RTV
+2020-07-29,0,559,Pennine Acute Hospitals NHS Trust,North West,RW6
+2020-07-29,0,6,Pennine Care NHS Foundation Trust,North West,RT2
+2020-07-29,0,180,Salford Royal NHS Foundation Trust,North West,RM3
+2020-07-29,0,151,Southport And Ormskirk Hospital NHS Trust,North West,RVY
+2020-07-29,0,208,St Helens And Knowsley Teaching Hospitals NHS Trust,North West,RBN
+2020-07-29,0,227,Stockport NHS Foundation Trust,North West,RWJ
+2020-07-29,0,215,Tameside And Glossop Integrated Care NHS Foundation Trust,North West,RMP
+2020-07-29,0,13,The Christie NHS Foundation Trust,North West,RBV
+2020-07-29,0,10,The Walton Centre NHS Foundation Trust,North West,RET
+2020-07-29,0,169,University Hospitals Of Morecambe Bay NHS Foundation Trust,North West,RTX
+2020-07-29,0,136,Warrington And Halton Teaching Hospitals NHS Foundation Trust,North West,RWW
+2020-07-29,0,238,Wirral University Teaching Hospital NHS Foundation Trust,North West,RBL
+2020-07-29,0,253,"Wrightington, Wigan And Leigh NHS Foundation Trust",North West,RRF
+2020-07-29,0,189,Ashford And St Peter'S Hospitals NHS Foundation Trust,South East,RTK
+2020-07-29,0,20,Berkshire Healthcare NHS Foundation Trust,South East,RWX
+2020-07-29,0,2,Bmi Healthcare - Mount Alvernia,South East,NT455
+2020-07-29,0,148,Brighton And Sussex University Hospitals NHS Trust,South East,RXH
+2020-07-29,0,133,Buckinghamshire Healthcare NHS Trust,South East,RXQ
+2020-07-29,0,4,Central Surrey Health - Walton Community Hospital,South East,NTV0S
+2020-07-29,0,1,Central Surrey Health - Woking Community Hospital,South East,NTV0O
+2020-07-29,0,222,Dartford And Gravesham NHS Trust,South East,RN7
+2020-07-29,0,445,East Kent Hospitals University NHS Foundation Trust,South East,RVV
+2020-07-29,0,99,East Sussex Healthcare NHS Trust,South East,RXC
+2020-07-29,0,364,Frimley Health NHS Foundation Trust,South East,RDU
+2020-07-29,0,161,Hampshire Hospitals NHS Foundation Trust,South East,RN5
+2020-07-29,0,39,Isle Of Wight NHS Trust,South East,R1F
+2020-07-29,0,1,Kent And Medway NHS And Social Care Partnership Trust,South East,RXY
+2020-07-29,0,48,Kent Community Health NHS Foundation Trust,South East,RYY
+2020-07-29,0,131,Maidstone And Tunbridge Wells NHS Trust,South East,RWF
+2020-07-29,0,184,Medway NHS Foundation Trust,South East,RPA
+2020-07-29,0,1,Nuffield Health - Woking,South East,NT241
+2020-07-29,0,2,Oldercare (Haslemere) Limited - St Magnus Hospital,South East,8CM63
+2020-07-29,0,23,Oxford Health NHS Foundation Trust,South East,RNU
+2020-07-29,0,181,Oxford University Hospitals NHS Foundation Trust,South East,RTH
+2020-07-29,0,229,Portsmouth Hospitals NHS Trust,South East,RHU
+2020-07-29,0,187,Royal Berkshire NHS Foundation Trust,South East,RHW
+2020-07-29,0,98,Royal Surrey County Hospital NHS Foundation Trust,South East,RA2
+2020-07-29,0,2,Solent NHS Trust,South East,R1C
+2020-07-29,0,17,Southern Health NHS Foundation Trust,South East,RW1
+2020-07-29,0,260,Surrey And Sussex Healthcare NHS Trust,South East,RTP
+2020-07-29,0,18,Sussex Community NHS Foundation Trust,South East,RDR
+2020-07-29,0,197,University Hospital Southampton NHS Foundation Trust,South East,RHM
+2020-07-29,0,1,Virgin Care Services Ltd - Livingstone Community Hospital,South East,NDAJ0
+2020-07-29,0,2,Virgin Care Services Ltd - Sheppey Community Hospital,South East,NDAJ1
+2020-07-29,0,113,Western Sussex Hospitals NHS Foundation Trust,South East,RYR
+2020-07-29,0,26,Cornwall Partnership NHS Foundation Trust,South West,RJ8
+2020-07-29,0,1,Cygnet Health Care Limited,South West,NMJ
+2020-07-29,0,24,Dorset County Hospital NHS Foundation Trust,South West,RBD
+2020-07-29,0,16,Dorset Healthcare University NHS Foundation Trust,South West,RDY
+2020-07-29,0,35,Gloucestershire Health And Care NHS Foundation Trust,South West,RTQ
+2020-07-29,0,194,Gloucestershire Hospitals NHS Foundation Trust,South West,RTE
+2020-07-29,0,125,Great Western Hospitals NHS Foundation Trust,South West,RN3
+2020-07-29,0,2,Livewell Southwest - Mount Gould Hospital,South West,NR527
+2020-07-29,0,119,North Bristol NHS Trust,South West,RVJ
+2020-07-29,0,21,Northern Devon Healthcare NHS Trust,South West,RBZ
+2020-07-29,0,48,Poole Hospital NHS Foundation Trust,South West,RD3
+2020-07-29,0,65,Royal Cornwall Hospitals NHS Trust,South West,REF
+2020-07-29,0,46,Royal Devon And Exeter NHS Foundation Trust,South West,RH8
+2020-07-29,0,67,Royal United Hospitals Bath NHS Foundation Trust,South West,RD1
+2020-07-29,0,56,Salisbury NHS Foundation Trust,South West,RNZ
+2020-07-29,0,43,Somerset NHS Foundation Trust,South West,RBA
+2020-07-29,0,6,Taunton And Somerset NHS Foundation Trust,South West,RBA
+2020-07-29,0,68,The Royal Bournemouth And Christchurch Hospitals NHS Foundation Trust,South West,RDZ
+2020-07-29,0,39,Torbay And South Devon NHS Foundation Trust,South West,RA9
+2020-07-29,0,151,University Hospitals Bristol NHS Foundation Trust,South West,RA7
+2020-07-29,0,81,University Hospitals Plymouth NHS Trust,South West,RK9
+2020-07-29,0,4,Virgin Care Ltd - Paulton Memorial Hospital,South West,NQT5H
+2020-07-29,0,1,Virgin Care Ltd - St Martins Hospital,South West,NQT5K
+2020-07-29,0,2,Weston Area Health NHS Trust,South West,RA3
+2020-07-29,0,2,Wiltshire Health & Care - Chippenham Community Hospital,South West,AXG01
+2020-07-29,0,5,Wiltshire Health & Care - Savernake Community Hospital,South West,AXG02
+2020-07-29,0,2,Wiltshire Health & Care - Warminster Community Hospital,South West,AXG03
+2020-07-29,0,26,Yeovil District Hospital NHS Foundation Trust,South West,RA4
 2020-07-28,2,330,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
+2020-07-28,1,308,Basildon And Thurrock University Hospitals NHS Foundation Trust,East Of England,RDD
+2020-07-28,1,177,George Eliot Hospital NHS Trust,Midlands,RLT
+2020-07-28,1,445,East Kent Hospitals University NHS Foundation Trust,South East,RVV
+2020-07-28,1,184,Medway NHS Foundation Trust,South East,RPA
 2020-07-28,0,4,Anglian Community Enterprise CIC - Clacton Hospital,East Of England,NQ108
 2020-07-28,0,25,Anglian Community Enterprise CIC - Fryatt Hospital,East Of England,NQ106
-2020-07-28,0,307,Basildon And Thurrock University Hospitals NHS Foundation Trust,East Of England,RDD
 2020-07-28,0,224,Bedford Hospital NHS Trust,East Of England,RC1
 2020-07-28,0,124,Cambridge University Hospitals NHS Foundation Trust,East Of England,RGT
 2020-07-28,0,1,Cambridgeshire And Peterborough NHS Foundation Trust,East Of England,RT1
@@ -45,7 +268,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-28,0,9,Hca UK - The Wellington Hospital North Building,London,NW602
 2020-07-28,0,148,Homerton University Hospital NHS Foundation Trust,London,RQX
 2020-07-28,0,9,Hospital Of St John & St Elizabeth - Hospital Of St John & St Elizabeth,London,NMM01
-2020-07-28,0,427,Imperial College Healthcare NHS Trust,London,RYJ
+2020-07-28,0,428,Imperial College Healthcare NHS Trust,London,RYJ
 2020-07-28,0,511,King'S College Hospital NHS Foundation Trust,London,RJZ
 2020-07-28,0,164,Kingston Hospital NHS Foundation Trust,London,RAX
 2020-07-28,0,412,Lewisham And Greenwich NHS Trust,London,RJ2
@@ -70,7 +293,6 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-28,0,132,Chesterfield Royal Hospital NHS Foundation Trust,Midlands,RFS
 2020-07-28,0,18,Derbyshire Community Health Services NHS Foundation Trust,Midlands,RY8
 2020-07-28,0,2,Derbyshire Healthcare NHS Foundation Trust,Midlands,RXM
-2020-07-28,0,175,George Eliot Hospital NHS Trust,Midlands,RLT
 2020-07-28,0,219,Kettering General Hospital NHS Foundation Trust,Midlands,RNQ
 2020-07-28,0,21,Leicestershire Partnership NHS Trust,Midlands,RT5
 2020-07-28,0,4,Lincolnshire Community Health Services NHS Trust,Midlands,RY5
@@ -94,7 +316,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-28,0,143,United Lincolnshire Hospitals NHS Trust,Midlands,RWD
 2020-07-28,0,965,University Hospitals Birmingham NHS Foundation Trust,Midlands,RRK
 2020-07-28,0,238,University Hospitals Coventry And Warwickshire NHS Trust,Midlands,RKB
-2020-07-28,0,521,University Hospitals Of Derby And Burton NHS Foundation Trust,Midlands,RTG
+2020-07-28,0,522,University Hospitals Of Derby And Burton NHS Foundation Trust,Midlands,RTG
 2020-07-28,0,437,University Hospitals Of Leicester NHS Trust,Midlands,RWE
 2020-07-28,0,354,University Hospitals Of North Midlands NHS Trust,Midlands,RJE
 2020-07-28,0,230,Walsall Healthcare NHS Trust,Midlands,RBK
@@ -135,7 +357,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-28,0,226,Bolton NHS Foundation Trust,North West,RMC
 2020-07-28,0,4,Cheshire And Wirral Partnership NHS Foundation Trust,North West,RXA
 2020-07-28,0,227,Countess Of Chester Hospital NHS Foundation Trust,North West,RJR
-2020-07-28,0,145,East Cheshire NHS Trust,North West,RJN
+2020-07-28,0,146,East Cheshire NHS Trust,North West,RJN
 2020-07-28,0,203,East Lancashire Hospitals NHS Trust,North West,RXR
 2020-07-28,0,9,Greater Manchester Mental Health NHS Foundation Trust,North West,RXV
 2020-07-28,0,248,Lancashire Teaching Hospitals NHS Foundation Trust,North West,RXN
@@ -146,7 +368,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-28,0,213,Mid Cheshire Hospitals NHS Foundation Trust,North West,RBT
 2020-07-28,0,6,Nhs Nightingale Hospital North West,North West,R0A90
 2020-07-28,0,1,North West Boroughs Healthcare NHS Foundation Trust,North West,RTV
-2020-07-28,0,557,Pennine Acute Hospitals NHS Trust,North West,RW6
+2020-07-28,0,559,Pennine Acute Hospitals NHS Trust,North West,RW6
 2020-07-28,0,6,Pennine Care NHS Foundation Trust,North West,RT2
 2020-07-28,0,180,Salford Royal NHS Foundation Trust,North West,RM3
 2020-07-28,0,151,Southport And Ormskirk Hospital NHS Trust,North West,RVY
@@ -167,15 +389,13 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-28,0,4,Central Surrey Health - Walton Community Hospital,South East,NTV0S
 2020-07-28,0,1,Central Surrey Health - Woking Community Hospital,South East,NTV0O
 2020-07-28,0,222,Dartford And Gravesham NHS Trust,South East,RN7
-2020-07-28,0,444,East Kent Hospitals University NHS Foundation Trust,South East,RVV
 2020-07-28,0,99,East Sussex Healthcare NHS Trust,South East,RXC
 2020-07-28,0,364,Frimley Health NHS Foundation Trust,South East,RDU
 2020-07-28,0,161,Hampshire Hospitals NHS Foundation Trust,South East,RN5
 2020-07-28,0,39,Isle Of Wight NHS Trust,South East,R1F
 2020-07-28,0,1,Kent And Medway NHS And Social Care Partnership Trust,South East,RXY
-2020-07-28,0,47,Kent Community Health NHS Foundation Trust,South East,RYY
+2020-07-28,0,48,Kent Community Health NHS Foundation Trust,South East,RYY
 2020-07-28,0,131,Maidstone And Tunbridge Wells NHS Trust,South East,RWF
-2020-07-28,0,183,Medway NHS Foundation Trust,South East,RPA
 2020-07-28,0,1,Nuffield Health - Woking,South East,NT241
 2020-07-28,0,2,Oldercare (Haslemere) Limited - St Magnus Hospital,South East,8CM63
 2020-07-28,0,23,Oxford Health NHS Foundation Trust,South East,RNU
@@ -187,7 +407,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-28,0,17,Southern Health NHS Foundation Trust,South East,RW1
 2020-07-28,0,260,Surrey And Sussex Healthcare NHS Trust,South East,RTP
 2020-07-28,0,18,Sussex Community NHS Foundation Trust,South East,RDR
-2020-07-28,0,196,University Hospital Southampton NHS Foundation Trust,South East,RHM
+2020-07-28,0,197,University Hospital Southampton NHS Foundation Trust,South East,RHM
 2020-07-28,0,1,Virgin Care Services Ltd - Livingstone Community Hospital,South East,NDAJ0
 2020-07-28,0,2,Virgin Care Services Ltd - Sheppey Community Hospital,South East,NDAJ1
 2020-07-28,0,113,Western Sussex Hospitals NHS Foundation Trust,South East,RYR
@@ -219,7 +439,9 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-28,0,5,Wiltshire Health & Care - Savernake Community Hospital,South West,AXG02
 2020-07-28,0,2,Wiltshire Health & Care - Warminster Community Hospital,South West,AXG03
 2020-07-28,0,26,Yeovil District Hospital NHS Foundation Trust,South West,RA4
+2020-07-27,1,428,Imperial College Healthcare NHS Trust,London,RYJ
 2020-07-27,1,4,Lincolnshire Community Health Services NHS Trust,Midlands,RY5
+2020-07-27,1,522,University Hospitals Of Derby And Burton NHS Foundation Trust,Midlands,RTG
 2020-07-27,1,437,University Hospitals Of Leicester NHS Trust,Midlands,RWE
 2020-07-27,1,278,Worcestershire Acute Hospitals NHS Trust,Midlands,RWP
 2020-07-27,1,227,Stockport NHS Foundation Trust,North West,RWJ
@@ -268,7 +490,6 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-27,0,9,Hca UK - The Wellington Hospital North Building,London,NW602
 2020-07-27,0,148,Homerton University Hospital NHS Foundation Trust,London,RQX
 2020-07-27,0,9,Hospital Of St John & St Elizabeth - Hospital Of St John & St Elizabeth,London,NMM01
-2020-07-27,0,427,Imperial College Healthcare NHS Trust,London,RYJ
 2020-07-27,0,511,King'S College Hospital NHS Foundation Trust,London,RJZ
 2020-07-27,0,164,Kingston Hospital NHS Foundation Trust,London,RAX
 2020-07-27,0,412,Lewisham And Greenwich NHS Trust,London,RJ2
@@ -293,7 +514,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-27,0,132,Chesterfield Royal Hospital NHS Foundation Trust,Midlands,RFS
 2020-07-27,0,18,Derbyshire Community Health Services NHS Foundation Trust,Midlands,RY8
 2020-07-27,0,2,Derbyshire Healthcare NHS Foundation Trust,Midlands,RXM
-2020-07-27,0,175,George Eliot Hospital NHS Trust,Midlands,RLT
+2020-07-27,0,176,George Eliot Hospital NHS Trust,Midlands,RLT
 2020-07-27,0,219,Kettering General Hospital NHS Foundation Trust,Midlands,RNQ
 2020-07-27,0,21,Leicestershire Partnership NHS Trust,Midlands,RT5
 2020-07-27,0,1,Lincolnshire Partnership NHS Foundation Trust,Midlands,RP7
@@ -316,7 +537,6 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-27,0,143,United Lincolnshire Hospitals NHS Trust,Midlands,RWD
 2020-07-27,0,965,University Hospitals Birmingham NHS Foundation Trust,Midlands,RRK
 2020-07-27,0,238,University Hospitals Coventry And Warwickshire NHS Trust,Midlands,RKB
-2020-07-27,0,521,University Hospitals Of Derby And Burton NHS Foundation Trust,Midlands,RTG
 2020-07-27,0,354,University Hospitals Of North Midlands NHS Trust,Midlands,RJE
 2020-07-27,0,230,Walsall Healthcare NHS Trust,Midlands,RBK
 2020-07-27,0,28,Worcestershire Health And Care NHS Trust,Midlands,R1A
@@ -356,7 +576,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-27,0,226,Bolton NHS Foundation Trust,North West,RMC
 2020-07-27,0,4,Cheshire And Wirral Partnership NHS Foundation Trust,North West,RXA
 2020-07-27,0,227,Countess Of Chester Hospital NHS Foundation Trust,North West,RJR
-2020-07-27,0,145,East Cheshire NHS Trust,North West,RJN
+2020-07-27,0,146,East Cheshire NHS Trust,North West,RJN
 2020-07-27,0,203,East Lancashire Hospitals NHS Trust,North West,RXR
 2020-07-27,0,9,Greater Manchester Mental Health NHS Foundation Trust,North West,RXV
 2020-07-27,0,248,Lancashire Teaching Hospitals NHS Foundation Trust,North West,RXN
@@ -367,7 +587,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-27,0,213,Mid Cheshire Hospitals NHS Foundation Trust,North West,RBT
 2020-07-27,0,6,Nhs Nightingale Hospital North West,North West,R0A90
 2020-07-27,0,1,North West Boroughs Healthcare NHS Foundation Trust,North West,RTV
-2020-07-27,0,557,Pennine Acute Hospitals NHS Trust,North West,RW6
+2020-07-27,0,559,Pennine Acute Hospitals NHS Trust,North West,RW6
 2020-07-27,0,6,Pennine Care NHS Foundation Trust,North West,RT2
 2020-07-27,0,180,Salford Royal NHS Foundation Trust,North West,RM3
 2020-07-27,0,151,Southport And Ormskirk Hospital NHS Trust,North West,RVY
@@ -393,7 +613,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-27,0,161,Hampshire Hospitals NHS Foundation Trust,South East,RN5
 2020-07-27,0,39,Isle Of Wight NHS Trust,South East,R1F
 2020-07-27,0,1,Kent And Medway NHS And Social Care Partnership Trust,South East,RXY
-2020-07-27,0,47,Kent Community Health NHS Foundation Trust,South East,RYY
+2020-07-27,0,48,Kent Community Health NHS Foundation Trust,South East,RYY
 2020-07-27,0,131,Maidstone And Tunbridge Wells NHS Trust,South East,RWF
 2020-07-27,0,183,Medway NHS Foundation Trust,South East,RPA
 2020-07-27,0,1,Nuffield Health - Woking,South East,NT241
@@ -407,7 +627,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-27,0,17,Southern Health NHS Foundation Trust,South East,RW1
 2020-07-27,0,260,Surrey And Sussex Healthcare NHS Trust,South East,RTP
 2020-07-27,0,18,Sussex Community NHS Foundation Trust,South East,RDR
-2020-07-27,0,196,University Hospital Southampton NHS Foundation Trust,South East,RHM
+2020-07-27,0,197,University Hospital Southampton NHS Foundation Trust,South East,RHM
 2020-07-27,0,1,Virgin Care Services Ltd - Livingstone Community Hospital,South East,NDAJ0
 2020-07-27,0,2,Virgin Care Services Ltd - Sheppey Community Hospital,South East,NDAJ1
 2020-07-27,0,113,Western Sussex Hospitals NHS Foundation Trust,South East,RYR
@@ -440,6 +660,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-27,0,2,Wiltshire Health & Care - Warminster Community Hospital,South West,AXG03
 2020-07-27,0,26,Yeovil District Hospital NHS Foundation Trust,South West,RA4
 2020-07-26,3,310,Northampton General Hospital NHS Trust,Midlands,RNS
+2020-07-26,2,559,Pennine Acute Hospitals NHS Trust,North West,RW6
 2020-07-26,1,166,East And North Hertfordshire NHS Trust,East Of England,RWH
 2020-07-26,1,436,University Hospitals Of Leicester NHS Trust,Midlands,RWE
 2020-07-26,1,234,Bradford Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RAE
@@ -514,7 +735,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-26,0,132,Chesterfield Royal Hospital NHS Foundation Trust,Midlands,RFS
 2020-07-26,0,18,Derbyshire Community Health Services NHS Foundation Trust,Midlands,RY8
 2020-07-26,0,2,Derbyshire Healthcare NHS Foundation Trust,Midlands,RXM
-2020-07-26,0,175,George Eliot Hospital NHS Trust,Midlands,RLT
+2020-07-26,0,176,George Eliot Hospital NHS Trust,Midlands,RLT
 2020-07-26,0,219,Kettering General Hospital NHS Foundation Trust,Midlands,RNQ
 2020-07-26,0,21,Leicestershire Partnership NHS Trust,Midlands,RT5
 2020-07-26,0,3,Lincolnshire Community Health Services NHS Trust,Midlands,RY5
@@ -577,7 +798,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-26,0,226,Bolton NHS Foundation Trust,North West,RMC
 2020-07-26,0,4,Cheshire And Wirral Partnership NHS Foundation Trust,North West,RXA
 2020-07-26,0,227,Countess Of Chester Hospital NHS Foundation Trust,North West,RJR
-2020-07-26,0,145,East Cheshire NHS Trust,North West,RJN
+2020-07-26,0,146,East Cheshire NHS Trust,North West,RJN
 2020-07-26,0,203,East Lancashire Hospitals NHS Trust,North West,RXR
 2020-07-26,0,9,Greater Manchester Mental Health NHS Foundation Trust,North West,RXV
 2020-07-26,0,248,Lancashire Teaching Hospitals NHS Foundation Trust,North West,RXN
@@ -588,7 +809,6 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-26,0,213,Mid Cheshire Hospitals NHS Foundation Trust,North West,RBT
 2020-07-26,0,6,Nhs Nightingale Hospital North West,North West,R0A90
 2020-07-26,0,1,North West Boroughs Healthcare NHS Foundation Trust,North West,RTV
-2020-07-26,0,557,Pennine Acute Hospitals NHS Trust,North West,RW6
 2020-07-26,0,6,Pennine Care NHS Foundation Trust,North West,RT2
 2020-07-26,0,151,Southport And Ormskirk Hospital NHS Trust,North West,RVY
 2020-07-26,0,208,St Helens And Knowsley Teaching Hospitals NHS Trust,North West,RBN
@@ -613,7 +833,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-26,0,161,Hampshire Hospitals NHS Foundation Trust,South East,RN5
 2020-07-26,0,39,Isle Of Wight NHS Trust,South East,R1F
 2020-07-26,0,1,Kent And Medway NHS And Social Care Partnership Trust,South East,RXY
-2020-07-26,0,47,Kent Community Health NHS Foundation Trust,South East,RYY
+2020-07-26,0,48,Kent Community Health NHS Foundation Trust,South East,RYY
 2020-07-26,0,131,Maidstone And Tunbridge Wells NHS Trust,South East,RWF
 2020-07-26,0,183,Medway NHS Foundation Trust,South East,RPA
 2020-07-26,0,1,Nuffield Health - Woking,South East,NT241
@@ -627,7 +847,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-26,0,17,Southern Health NHS Foundation Trust,South East,RW1
 2020-07-26,0,260,Surrey And Sussex Healthcare NHS Trust,South East,RTP
 2020-07-26,0,18,Sussex Community NHS Foundation Trust,South East,RDR
-2020-07-26,0,196,University Hospital Southampton NHS Foundation Trust,South East,RHM
+2020-07-26,0,197,University Hospital Southampton NHS Foundation Trust,South East,RHM
 2020-07-26,0,1,Virgin Care Services Ltd - Livingstone Community Hospital,South East,NDAJ0
 2020-07-26,0,2,Virgin Care Services Ltd - Sheppey Community Hospital,South East,NDAJ1
 2020-07-26,0,113,Western Sussex Hospitals NHS Foundation Trust,South East,RYR
@@ -661,8 +881,10 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-26,0,26,Yeovil District Hospital NHS Foundation Trust,South West,RA4
 2020-07-25,2,965,University Hospitals Birmingham NHS Foundation Trust,Midlands,RRK
 2020-07-25,1,423,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
+2020-07-25,1,176,George Eliot Hospital NHS Trust,Midlands,RLT
 2020-07-25,1,435,University Hospitals Of Leicester NHS Trust,Midlands,RWE
 2020-07-25,1,233,Bradford Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RAE
+2020-07-25,1,197,University Hospital Southampton NHS Foundation Trust,South East,RHM
 2020-07-25,0,4,Anglian Community Enterprise CIC - Clacton Hospital,East Of England,NQ108
 2020-07-25,0,25,Anglian Community Enterprise CIC - Fryatt Hospital,East Of England,NQ106
 2020-07-25,0,307,Basildon And Thurrock University Hospitals NHS Foundation Trust,East Of England,RDD
@@ -732,7 +954,6 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-25,0,132,Chesterfield Royal Hospital NHS Foundation Trust,Midlands,RFS
 2020-07-25,0,18,Derbyshire Community Health Services NHS Foundation Trust,Midlands,RY8
 2020-07-25,0,2,Derbyshire Healthcare NHS Foundation Trust,Midlands,RXM
-2020-07-25,0,175,George Eliot Hospital NHS Trust,Midlands,RLT
 2020-07-25,0,219,Kettering General Hospital NHS Foundation Trust,Midlands,RNQ
 2020-07-25,0,21,Leicestershire Partnership NHS Trust,Midlands,RT5
 2020-07-25,0,3,Lincolnshire Community Health Services NHS Trust,Midlands,RY5
@@ -795,7 +1016,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-25,0,226,Bolton NHS Foundation Trust,North West,RMC
 2020-07-25,0,4,Cheshire And Wirral Partnership NHS Foundation Trust,North West,RXA
 2020-07-25,0,227,Countess Of Chester Hospital NHS Foundation Trust,North West,RJR
-2020-07-25,0,145,East Cheshire NHS Trust,North West,RJN
+2020-07-25,0,146,East Cheshire NHS Trust,North West,RJN
 2020-07-25,0,203,East Lancashire Hospitals NHS Trust,North West,RXR
 2020-07-25,0,9,Greater Manchester Mental Health NHS Foundation Trust,North West,RXV
 2020-07-25,0,248,Lancashire Teaching Hospitals NHS Foundation Trust,North West,RXN
@@ -833,7 +1054,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-25,0,161,Hampshire Hospitals NHS Foundation Trust,South East,RN5
 2020-07-25,0,39,Isle Of Wight NHS Trust,South East,R1F
 2020-07-25,0,1,Kent And Medway NHS And Social Care Partnership Trust,South East,RXY
-2020-07-25,0,47,Kent Community Health NHS Foundation Trust,South East,RYY
+2020-07-25,0,48,Kent Community Health NHS Foundation Trust,South East,RYY
 2020-07-25,0,131,Maidstone And Tunbridge Wells NHS Trust,South East,RWF
 2020-07-25,0,183,Medway NHS Foundation Trust,South East,RPA
 2020-07-25,0,1,Nuffield Health - Woking,South East,NT241
@@ -847,7 +1068,6 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-25,0,17,Southern Health NHS Foundation Trust,South East,RW1
 2020-07-25,0,260,Surrey And Sussex Healthcare NHS Trust,South East,RTP
 2020-07-25,0,18,Sussex Community NHS Foundation Trust,South East,RDR
-2020-07-25,0,196,University Hospital Southampton NHS Foundation Trust,South East,RHM
 2020-07-25,0,1,Virgin Care Services Ltd - Livingstone Community Hospital,South East,NDAJ0
 2020-07-25,0,2,Virgin Care Services Ltd - Sheppey Community Hospital,South East,NDAJ1
 2020-07-25,0,113,Western Sussex Hospitals NHS Foundation Trust,South East,RYR
@@ -1017,7 +1237,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-24,0,226,Bolton NHS Foundation Trust,North West,RMC
 2020-07-24,0,4,Cheshire And Wirral Partnership NHS Foundation Trust,North West,RXA
 2020-07-24,0,227,Countess Of Chester Hospital NHS Foundation Trust,North West,RJR
-2020-07-24,0,145,East Cheshire NHS Trust,North West,RJN
+2020-07-24,0,146,East Cheshire NHS Trust,North West,RJN
 2020-07-24,0,203,East Lancashire Hospitals NHS Trust,North West,RXR
 2020-07-24,0,9,Greater Manchester Mental Health NHS Foundation Trust,North West,RXV
 2020-07-24,0,248,Lancashire Teaching Hospitals NHS Foundation Trust,North West,RXN
@@ -1053,7 +1273,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-24,0,161,Hampshire Hospitals NHS Foundation Trust,South East,RN5
 2020-07-24,0,39,Isle Of Wight NHS Trust,South East,R1F
 2020-07-24,0,1,Kent And Medway NHS And Social Care Partnership Trust,South East,RXY
-2020-07-24,0,47,Kent Community Health NHS Foundation Trust,South East,RYY
+2020-07-24,0,48,Kent Community Health NHS Foundation Trust,South East,RYY
 2020-07-24,0,131,Maidstone And Tunbridge Wells NHS Trust,South East,RWF
 2020-07-24,0,183,Medway NHS Foundation Trust,South East,RPA
 2020-07-24,0,1,Nuffield Health - Woking,South East,NT241
@@ -1237,7 +1457,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-23,0,226,Bolton NHS Foundation Trust,North West,RMC
 2020-07-23,0,4,Cheshire And Wirral Partnership NHS Foundation Trust,North West,RXA
 2020-07-23,0,227,Countess Of Chester Hospital NHS Foundation Trust,North West,RJR
-2020-07-23,0,145,East Cheshire NHS Trust,North West,RJN
+2020-07-23,0,146,East Cheshire NHS Trust,North West,RJN
 2020-07-23,0,203,East Lancashire Hospitals NHS Trust,North West,RXR
 2020-07-23,0,9,Greater Manchester Mental Health NHS Foundation Trust,North West,RXV
 2020-07-23,0,248,Lancashire Teaching Hospitals NHS Foundation Trust,North West,RXN
@@ -1273,7 +1493,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-23,0,161,Hampshire Hospitals NHS Foundation Trust,South East,RN5
 2020-07-23,0,39,Isle Of Wight NHS Trust,South East,R1F
 2020-07-23,0,1,Kent And Medway NHS And Social Care Partnership Trust,South East,RXY
-2020-07-23,0,47,Kent Community Health NHS Foundation Trust,South East,RYY
+2020-07-23,0,48,Kent Community Health NHS Foundation Trust,South East,RYY
 2020-07-23,0,131,Maidstone And Tunbridge Wells NHS Trust,South East,RWF
 2020-07-23,0,183,Medway NHS Foundation Trust,South East,RPA
 2020-07-23,0,1,Nuffield Health - Woking,South East,NT241
@@ -1325,6 +1545,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-22,1,962,University Hospitals Birmingham NHS Foundation Trust,Midlands,RRK
 2020-07-22,1,159,Calderdale And Huddersfield NHS Foundation Trust,North East and Yorkshire,RWY
 2020-07-22,1,206,Hull University Teaching Hospitals NHS Trust,North East and Yorkshire,RWA
+2020-07-22,1,146,East Cheshire NHS Trust,North West,RJN
 2020-07-22,1,445,Manchester University NHS Foundation Trust,North West,R0A
 2020-07-22,1,226,Stockport NHS Foundation Trust,North West,RWJ
 2020-07-22,1,441,East Kent Hospitals University NHS Foundation Trust,South East,RVV
@@ -1459,7 +1680,6 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-22,0,226,Bolton NHS Foundation Trust,North West,RMC
 2020-07-22,0,4,Cheshire And Wirral Partnership NHS Foundation Trust,North West,RXA
 2020-07-22,0,227,Countess Of Chester Hospital NHS Foundation Trust,North West,RJR
-2020-07-22,0,145,East Cheshire NHS Trust,North West,RJN
 2020-07-22,0,203,East Lancashire Hospitals NHS Trust,North West,RXR
 2020-07-22,0,9,Greater Manchester Mental Health NHS Foundation Trust,North West,RXV
 2020-07-22,0,248,Lancashire Teaching Hospitals NHS Foundation Trust,North West,RXN
@@ -1493,7 +1713,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-22,0,161,Hampshire Hospitals NHS Foundation Trust,South East,RN5
 2020-07-22,0,39,Isle Of Wight NHS Trust,South East,R1F
 2020-07-22,0,1,Kent And Medway NHS And Social Care Partnership Trust,South East,RXY
-2020-07-22,0,47,Kent Community Health NHS Foundation Trust,South East,RYY
+2020-07-22,0,48,Kent Community Health NHS Foundation Trust,South East,RYY
 2020-07-22,0,131,Maidstone And Tunbridge Wells NHS Trust,South East,RWF
 2020-07-22,0,183,Medway NHS Foundation Trust,South East,RPA
 2020-07-22,0,1,Nuffield Health - Woking,South East,NT241
@@ -1715,7 +1935,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-21,0,161,Hampshire Hospitals NHS Foundation Trust,South East,RN5
 2020-07-21,0,39,Isle Of Wight NHS Trust,South East,R1F
 2020-07-21,0,1,Kent And Medway NHS And Social Care Partnership Trust,South East,RXY
-2020-07-21,0,47,Kent Community Health NHS Foundation Trust,South East,RYY
+2020-07-21,0,48,Kent Community Health NHS Foundation Trust,South East,RYY
 2020-07-21,0,131,Maidstone And Tunbridge Wells NHS Trust,South East,RWF
 2020-07-21,0,1,Nuffield Health - Woking,South East,NT241
 2020-07-21,0,2,Oldercare (Haslemere) Limited - St Magnus Hospital,South East,8CM63
@@ -1934,7 +2154,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-20,0,161,Hampshire Hospitals NHS Foundation Trust,South East,RN5
 2020-07-20,0,39,Isle Of Wight NHS Trust,South East,R1F
 2020-07-20,0,1,Kent And Medway NHS And Social Care Partnership Trust,South East,RXY
-2020-07-20,0,47,Kent Community Health NHS Foundation Trust,South East,RYY
+2020-07-20,0,48,Kent Community Health NHS Foundation Trust,South East,RYY
 2020-07-20,0,131,Maidstone And Tunbridge Wells NHS Trust,South East,RWF
 2020-07-20,0,1,Nuffield Health - Woking,South East,NT241
 2020-07-20,0,2,Oldercare (Haslemere) Limited - St Magnus Hospital,South East,8CM63
@@ -2153,7 +2373,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-19,0,161,Hampshire Hospitals NHS Foundation Trust,South East,RN5
 2020-07-19,0,39,Isle Of Wight NHS Trust,South East,R1F
 2020-07-19,0,1,Kent And Medway NHS And Social Care Partnership Trust,South East,RXY
-2020-07-19,0,47,Kent Community Health NHS Foundation Trust,South East,RYY
+2020-07-19,0,48,Kent Community Health NHS Foundation Trust,South East,RYY
 2020-07-19,0,131,Maidstone And Tunbridge Wells NHS Trust,South East,RWF
 2020-07-19,0,181,Medway NHS Foundation Trust,South East,RPA
 2020-07-19,0,1,Nuffield Health - Woking,South East,NT241
@@ -2373,7 +2593,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-18,0,161,Hampshire Hospitals NHS Foundation Trust,South East,RN5
 2020-07-18,0,39,Isle Of Wight NHS Trust,South East,R1F
 2020-07-18,0,1,Kent And Medway NHS And Social Care Partnership Trust,South East,RXY
-2020-07-18,0,47,Kent Community Health NHS Foundation Trust,South East,RYY
+2020-07-18,0,48,Kent Community Health NHS Foundation Trust,South East,RYY
 2020-07-18,0,131,Maidstone And Tunbridge Wells NHS Trust,South East,RWF
 2020-07-18,0,181,Medway NHS Foundation Trust,South East,RPA
 2020-07-18,0,1,Nuffield Health - Woking,South East,NT241
@@ -2594,7 +2814,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-17,0,161,Hampshire Hospitals NHS Foundation Trust,South East,RN5
 2020-07-17,0,39,Isle Of Wight NHS Trust,South East,R1F
 2020-07-17,0,1,Kent And Medway NHS And Social Care Partnership Trust,South East,RXY
-2020-07-17,0,47,Kent Community Health NHS Foundation Trust,South East,RYY
+2020-07-17,0,48,Kent Community Health NHS Foundation Trust,South East,RYY
 2020-07-17,0,131,Maidstone And Tunbridge Wells NHS Trust,South East,RWF
 2020-07-17,0,181,Medway NHS Foundation Trust,South East,RPA
 2020-07-17,0,1,Nuffield Health - Woking,South East,NT241
@@ -2813,7 +3033,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-16,0,161,Hampshire Hospitals NHS Foundation Trust,South East,RN5
 2020-07-16,0,39,Isle Of Wight NHS Trust,South East,R1F
 2020-07-16,0,1,Kent And Medway NHS And Social Care Partnership Trust,South East,RXY
-2020-07-16,0,47,Kent Community Health NHS Foundation Trust,South East,RYY
+2020-07-16,0,48,Kent Community Health NHS Foundation Trust,South East,RYY
 2020-07-16,0,131,Maidstone And Tunbridge Wells NHS Trust,South East,RWF
 2020-07-16,0,181,Medway NHS Foundation Trust,South East,RPA
 2020-07-16,0,1,Nuffield Health - Woking,South East,NT241
@@ -3035,7 +3255,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-15,0,161,Hampshire Hospitals NHS Foundation Trust,South East,RN5
 2020-07-15,0,39,Isle Of Wight NHS Trust,South East,R1F
 2020-07-15,0,1,Kent And Medway NHS And Social Care Partnership Trust,South East,RXY
-2020-07-15,0,47,Kent Community Health NHS Foundation Trust,South East,RYY
+2020-07-15,0,48,Kent Community Health NHS Foundation Trust,South East,RYY
 2020-07-15,0,131,Maidstone And Tunbridge Wells NHS Trust,South East,RWF
 2020-07-15,0,1,Nuffield Health - Woking,South East,NT241
 2020-07-15,0,2,Oldercare (Haslemere) Limited - St Magnus Hospital,South East,8CM63
@@ -3253,7 +3473,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-14,0,161,Hampshire Hospitals NHS Foundation Trust,South East,RN5
 2020-07-14,0,39,Isle Of Wight NHS Trust,South East,R1F
 2020-07-14,0,1,Kent And Medway NHS And Social Care Partnership Trust,South East,RXY
-2020-07-14,0,47,Kent Community Health NHS Foundation Trust,South East,RYY
+2020-07-14,0,48,Kent Community Health NHS Foundation Trust,South East,RYY
 2020-07-14,0,131,Maidstone And Tunbridge Wells NHS Trust,South East,RWF
 2020-07-14,0,180,Medway NHS Foundation Trust,South East,RPA
 2020-07-14,0,1,Nuffield Health - Woking,South East,NT241
@@ -3474,7 +3694,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-13,0,161,Hampshire Hospitals NHS Foundation Trust,South East,RN5
 2020-07-13,0,39,Isle Of Wight NHS Trust,South East,R1F
 2020-07-13,0,1,Kent And Medway NHS And Social Care Partnership Trust,South East,RXY
-2020-07-13,0,47,Kent Community Health NHS Foundation Trust,South East,RYY
+2020-07-13,0,48,Kent Community Health NHS Foundation Trust,South East,RYY
 2020-07-13,0,131,Maidstone And Tunbridge Wells NHS Trust,South East,RWF
 2020-07-13,0,180,Medway NHS Foundation Trust,South East,RPA
 2020-07-13,0,1,Nuffield Health - Woking,South East,NT241
@@ -3693,7 +3913,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-12,0,161,Hampshire Hospitals NHS Foundation Trust,South East,RN5
 2020-07-12,0,39,Isle Of Wight NHS Trust,South East,R1F
 2020-07-12,0,1,Kent And Medway NHS And Social Care Partnership Trust,South East,RXY
-2020-07-12,0,47,Kent Community Health NHS Foundation Trust,South East,RYY
+2020-07-12,0,48,Kent Community Health NHS Foundation Trust,South East,RYY
 2020-07-12,0,131,Maidstone And Tunbridge Wells NHS Trust,South East,RWF
 2020-07-12,0,180,Medway NHS Foundation Trust,South East,RPA
 2020-07-12,0,1,Nuffield Health - Woking,South East,NT241
@@ -3913,7 +4133,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-11,0,161,Hampshire Hospitals NHS Foundation Trust,South East,RN5
 2020-07-11,0,39,Isle Of Wight NHS Trust,South East,R1F
 2020-07-11,0,1,Kent And Medway NHS And Social Care Partnership Trust,South East,RXY
-2020-07-11,0,47,Kent Community Health NHS Foundation Trust,South East,RYY
+2020-07-11,0,48,Kent Community Health NHS Foundation Trust,South East,RYY
 2020-07-11,0,131,Maidstone And Tunbridge Wells NHS Trust,South East,RWF
 2020-07-11,0,180,Medway NHS Foundation Trust,South East,RPA
 2020-07-11,0,1,Nuffield Health - Woking,South East,NT241
@@ -4134,7 +4354,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-10,0,161,Hampshire Hospitals NHS Foundation Trust,South East,RN5
 2020-07-10,0,39,Isle Of Wight NHS Trust,South East,R1F
 2020-07-10,0,1,Kent And Medway NHS And Social Care Partnership Trust,South East,RXY
-2020-07-10,0,47,Kent Community Health NHS Foundation Trust,South East,RYY
+2020-07-10,0,48,Kent Community Health NHS Foundation Trust,South East,RYY
 2020-07-10,0,131,Maidstone And Tunbridge Wells NHS Trust,South East,RWF
 2020-07-10,0,180,Medway NHS Foundation Trust,South East,RPA
 2020-07-10,0,1,Nuffield Health - Woking,South East,NT241
@@ -4353,7 +4573,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-09,0,161,Hampshire Hospitals NHS Foundation Trust,South East,RN5
 2020-07-09,0,39,Isle Of Wight NHS Trust,South East,R1F
 2020-07-09,0,1,Kent And Medway NHS And Social Care Partnership Trust,South East,RXY
-2020-07-09,0,47,Kent Community Health NHS Foundation Trust,South East,RYY
+2020-07-09,0,48,Kent Community Health NHS Foundation Trust,South East,RYY
 2020-07-09,0,131,Maidstone And Tunbridge Wells NHS Trust,South East,RWF
 2020-07-09,0,180,Medway NHS Foundation Trust,South East,RPA
 2020-07-09,0,1,Nuffield Health - Woking,South East,NT241
@@ -4575,7 +4795,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-08,0,161,Hampshire Hospitals NHS Foundation Trust,South East,RN5
 2020-07-08,0,39,Isle Of Wight NHS Trust,South East,R1F
 2020-07-08,0,1,Kent And Medway NHS And Social Care Partnership Trust,South East,RXY
-2020-07-08,0,47,Kent Community Health NHS Foundation Trust,South East,RYY
+2020-07-08,0,48,Kent Community Health NHS Foundation Trust,South East,RYY
 2020-07-08,0,131,Maidstone And Tunbridge Wells NHS Trust,South East,RWF
 2020-07-08,0,180,Medway NHS Foundation Trust,South East,RPA
 2020-07-08,0,1,Nuffield Health - Woking,South East,NT241
@@ -4794,7 +5014,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-07,0,161,Hampshire Hospitals NHS Foundation Trust,South East,RN5
 2020-07-07,0,39,Isle Of Wight NHS Trust,South East,R1F
 2020-07-07,0,1,Kent And Medway NHS And Social Care Partnership Trust,South East,RXY
-2020-07-07,0,47,Kent Community Health NHS Foundation Trust,South East,RYY
+2020-07-07,0,48,Kent Community Health NHS Foundation Trust,South East,RYY
 2020-07-07,0,131,Maidstone And Tunbridge Wells NHS Trust,South East,RWF
 2020-07-07,0,180,Medway NHS Foundation Trust,South East,RPA
 2020-07-07,0,1,Nuffield Health - Woking,South East,NT241
@@ -5014,7 +5234,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-06,0,161,Hampshire Hospitals NHS Foundation Trust,South East,RN5
 2020-07-06,0,39,Isle Of Wight NHS Trust,South East,R1F
 2020-07-06,0,1,Kent And Medway NHS And Social Care Partnership Trust,South East,RXY
-2020-07-06,0,47,Kent Community Health NHS Foundation Trust,South East,RYY
+2020-07-06,0,48,Kent Community Health NHS Foundation Trust,South East,RYY
 2020-07-06,0,131,Maidstone And Tunbridge Wells NHS Trust,South East,RWF
 2020-07-06,0,180,Medway NHS Foundation Trust,South East,RPA
 2020-07-06,0,1,Nuffield Health - Woking,South East,NT241
@@ -5234,7 +5454,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-05,0,161,Hampshire Hospitals NHS Foundation Trust,South East,RN5
 2020-07-05,0,39,Isle Of Wight NHS Trust,South East,R1F
 2020-07-05,0,1,Kent And Medway NHS And Social Care Partnership Trust,South East,RXY
-2020-07-05,0,47,Kent Community Health NHS Foundation Trust,South East,RYY
+2020-07-05,0,48,Kent Community Health NHS Foundation Trust,South East,RYY
 2020-07-05,0,131,Maidstone And Tunbridge Wells NHS Trust,South East,RWF
 2020-07-05,0,180,Medway NHS Foundation Trust,South East,RPA
 2020-07-05,0,1,Nuffield Health - Woking,South East,NT241
@@ -5453,7 +5673,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-04,0,161,Hampshire Hospitals NHS Foundation Trust,South East,RN5
 2020-07-04,0,39,Isle Of Wight NHS Trust,South East,R1F
 2020-07-04,0,1,Kent And Medway NHS And Social Care Partnership Trust,South East,RXY
-2020-07-04,0,47,Kent Community Health NHS Foundation Trust,South East,RYY
+2020-07-04,0,48,Kent Community Health NHS Foundation Trust,South East,RYY
 2020-07-04,0,131,Maidstone And Tunbridge Wells NHS Trust,South East,RWF
 2020-07-04,0,180,Medway NHS Foundation Trust,South East,RPA
 2020-07-04,0,1,Nuffield Health - Woking,South East,NT241
@@ -5673,7 +5893,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-03,0,161,Hampshire Hospitals NHS Foundation Trust,South East,RN5
 2020-07-03,0,39,Isle Of Wight NHS Trust,South East,R1F
 2020-07-03,0,1,Kent And Medway NHS And Social Care Partnership Trust,South East,RXY
-2020-07-03,0,47,Kent Community Health NHS Foundation Trust,South East,RYY
+2020-07-03,0,48,Kent Community Health NHS Foundation Trust,South East,RYY
 2020-07-03,0,131,Maidstone And Tunbridge Wells NHS Trust,South East,RWF
 2020-07-03,0,180,Medway NHS Foundation Trust,South East,RPA
 2020-07-03,0,1,Nuffield Health - Woking,South East,NT241
@@ -5745,6 +5965,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-02,1,253,"Wrightington, Wigan And Leigh NHS Foundation Trust",North West,RRF
 2020-07-02,1,402,East Kent Hospitals University NHS Foundation Trust,South East,RVV
 2020-07-02,1,89,East Sussex Healthcare NHS Trust,South East,RXC
+2020-07-02,1,48,Kent Community Health NHS Foundation Trust,South East,RYY
 2020-07-02,1,259,Surrey And Sussex Healthcare NHS Trust,South East,RTP
 2020-07-02,0,4,Anglian Community Enterprise CIC - Clacton Hospital,East Of England,NQ108
 2020-07-02,0,25,Anglian Community Enterprise CIC - Fryatt Hospital,East Of England,NQ106
@@ -5894,7 +6115,6 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-02,0,161,Hampshire Hospitals NHS Foundation Trust,South East,RN5
 2020-07-02,0,39,Isle Of Wight NHS Trust,South East,R1F
 2020-07-02,0,1,Kent And Medway NHS And Social Care Partnership Trust,South East,RXY
-2020-07-02,0,47,Kent Community Health NHS Foundation Trust,South East,RYY
 2020-07-02,0,131,Maidstone And Tunbridge Wells NHS Trust,South East,RWF
 2020-07-02,0,180,Medway NHS Foundation Trust,South East,RPA
 2020-07-02,0,1,Nuffield Health - Woking,South East,NT241
