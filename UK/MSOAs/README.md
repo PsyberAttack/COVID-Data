@@ -31,9 +31,7 @@ This dataset gives the clearest insights yet into the amplitude of England's COV
 9. **MSOA11CD/LAD19CD** are unique codes for each area, which can be used to connect this data to others using ONS codes.
 
 
-**Note:** The UK completely lost control of their epidemic at the start of the pandemic. The early government testing capacity limited detection rates, so the deaths data is a more reliable indicator for the periods March-April, (Weeks 10-18).
-
-Due to an early shortage of testing, there are some MSOAS where more deaths have been reported than cases. These MSOAs will all have a CFR% above 100. This happens because Deaths are reported by the cause of death listed on the death certificate, so the deceased may have had a clinical diagnosis of COVID without a positive test. The ONS cannot confirm if the deceased was tested or not, so it isn't possible to separate confirmed cases with clinically diagnosed fatalities. For this reason, individual cases from government data may not always directly correlate with deaths from the ONS data.
+**Note:** Due to an early shortage of testing, there are some MSOAS where more deaths have been reported than cases. These MSOAs will all have a CFR% above 100. This happens because deaths are reported by the cause of death listed on the death certificate, so the deceased may have had a clinical diagnosis of COVID without a positive test. The ONS cannot confirm if the deceased tested positive for the virus or not, so it isn't possible to separate the deaths of confirmed cases from the clinically diagnosed fatalities. For this reason, individual cases from government data may not always correlate with deaths from the ONS data.
 
 ### Sheets
 
