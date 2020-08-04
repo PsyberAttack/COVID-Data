@@ -1,8 +1,10 @@
 ## England COVID-19 Cases / Deaths MSOA
 
-A Middle Layer Super Output Area (MSOA) is a geospatial area used by the Office for National Statistics, (ONS), to report small area statistics. They are referred to locally by their House of Commons Library names, usually forming a local neighbourhood or cluster of villages.
+Each week the UK government publishes a list of cases by MSOA in England, and each month the Office for National Statistics, (ONS), publishes statistics for deaths by MSOA.
 
-This dataset gives the clearest insights yet into the amplitude of England's COVID-19 epidemic. Cases date back to Week 10, (March 1st 2020), and are recorded weekly. Deaths date back to March 1st. They're updated in monthly format.
+An MSOA, (Middle Layer Super Output Area), is a geospatial area used by the Office for National Statistics, (ONS), to report small area statistics. There are 6,971 MSOAs in England, with an average population of 8,242 residents. They are referred to locally by their House of Commons Library names, usually forming a local neighbourhood or cluster of villages, so that is the naming convention used here.
+
+This dataset gives the clearest insights yet into the amplitude of England's COVID-19 epidemic. Cases date back to Week 10, (March 1st 2020), and are updated weekly. Deaths date back to March 1st, and are updated monthly with each new ONS report.
 
 ### Syntax
 
@@ -31,22 +33,30 @@ This dataset gives the clearest insights yet into the amplitude of England's COV
 
 **Note:** The UK completely lost control of their epidemic at the start of the pandemic. The early government testing capacity limited detection rates, so the deaths data is a more reliable indicator for the periods March-April, (Weeks 10-18).
 
-Due to an early shortage of testing, there are MSOAS where more deaths have been reported than cases. This happens because Deaths are recorded from the cause of death on the death certificate. The ONS cannot confirm if the deceased was tested or not, so it isn't possible to separate suspected and confirmed deaths.
+Due to an early shortage of testing, there are some MSOAS where more deaths have been reported than cases. These MSOAs will all have a CFR% above 100. This happens because Deaths are reported by the cause of death listed on the death certificate, so the deceased may have had a clinical diagnosis of COVID without a positive test. The ONS cannot confirm if the deceased was tested or not, so it isn't possible to separate confirmed cases with clinically diagnosed fatalities. For this reason, individual cases from government data may not always directly correlate with deaths from the ONS data.
 
 ### Sheets
 
 The smaller sheets can all be rendered in the browser, but larger sheets will need to be downloaded and opened in Excel or LibreOffice.
 
-**REGION-Cases-Deaths_TOTALS.csv** contains the latest total cases, deaths and calculated rates for each MSOA in the Region.
+**England-Cases-Deaths_TOTALS.csv** contains the latest total cases, deaths and calculated rates for each MSOA in England.
 
-**REGION-Cases-Deaths_TIME.csv** contains a timeseries of deaths by month and cases by week for each MSOA in the Region.
+**England-Cases-Deaths_TIME.csv** contains a timeseries of deaths by month and cases by week for each MSOA in England.
 
-**REGION-Cases-Deaths_WORST.csv** contains the latest total cases, deaths and calculated rates for the worst affected MSOAs in the Region.
+**England-Cases-Deaths_WORST.csv** contains the latest total cases, deaths and calculated rates for the worst affected MSOAs in England.
 
-**REGION-Cases-Deaths_LEAST.csv** contains the latest total cases, deaths and calculated rates for the least affected MSOAs in the Region.
+**England-Cases-Deaths_LEAST.csv** contains the latest total cases, deaths and calculated rates for the least affected MSOAs in England.
+
+**<REGION\>-Cases-Deaths_TOTALS.csv** contains the latest total cases, deaths and calculated rates for each MSOA in the Region.
+
+**<REGION\>-Cases-Deaths_TIME.csv** contains a timeseries of deaths by month and cases by week for each MSOA in the Region.
+
+**<REGION\>-Cases-Deaths_WORST.csv** contains the latest total cases, deaths and calculated rates for the worst affected MSOAs in the Region.
+
+**<REGION\>-Cases-Deaths_LEAST.csv** contains the latest total cases, deaths and calculated rates for the least affected MSOAs in the Region.
 
 
-### Regional Data
+### Regional/Population Data
 
 The dataset is tagged with Region, Local Authority and MSOA names and codes. Population data by MSOA comes from the latest December 2019 reprot, accurate as of 2018: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/middlesuperoutputareamidyearpopulationestimates
 
