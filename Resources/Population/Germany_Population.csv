@@ -1,0 +1,414 @@
+code,district,population
+1001,Flensburg,89504
+1002,Kiel,247548
+1003,Lübeck,217198
+1004,Neumünster,79487
+1051,Dithmarschen,133210
+1053,Herzogtum Lauenburg,197264
+1054,Nordfriesland,165507
+1055,Ostholstein,200581
+1056,Pinneberg,314391
+1057,Plön,128647
+1058,Rendsburg-Eckernförde,272775
+1059,Schleswig-Flensburg,200025
+1060,Segeberg,276032
+1061,Steinburg,131347
+1062,Stormarn,243196
+2000,Hamburg,1841179
+3101,Braunschweig,248292
+3102,Salzgitter,104948
+3103,Wolfsburg,124151
+3151,Gifhorn,175920
+3153,Goslar,137014
+3154,Helmstedt,91307
+3155,Northeim,132765
+3157,Peine,133965
+3158,Wolfenbüttel,119960
+3159,Göttingen,328074
+3241,Region Hannover,1157624
+3251,Diepholz,216886
+3252,Hameln-Pyrmont,148559
+3254,Hildesheim,276594
+3255,Holzminden,70975
+3256,Nienburg (Weser),121386
+3257,Schaumburg,157781
+3351,Celle,178936
+3352,Cuxhaven,198213
+3353,Harburg,252776
+3354,Lüchow-Dannenberg,48424
+3355,Lüneburg,183372
+3356,Osterholz,113517
+3357,Rotenburg (Wümme),163455
+3358,Heidekreis,140673
+3359,Stade,203102
+3360,Uelzen,92572
+3361,Verden,136792
+3401,Delmenhorst,77607
+3402,Emden,50195
+3403,Oldenburg (Oldenburg),168210
+3404,Osnabrück,164748
+3405,Wilhelmshaven,76278
+3451,Ammerland,124071
+3452,Aurich,189848
+3453,Cloppenburg,169348
+3454,Emsland,325657
+3455,Friesland,98460
+3456,Grafschaft Bentheim,136511
+3457,Leer,169809
+3458,Oldenburg,130144
+3459,Osnabrück,357343
+3460,Vechta,141598
+3461,Wesermarsch,88624
+3462,Wittmund,56882
+4011,Bremen,569352
+4012,Bremerhaven,113634
+5111,Düsseldorf,619294
+5112,Duisburg,498590
+5113,Essen,583109
+5114,Krefeld,227020
+5116,Mönchengladbach,261454
+5117,Mülheim an der Ruhr,170880
+5119,Oberhausen,210829
+5120,Remscheid,110994
+5122,Solingen,159360
+5124,Wuppertal,354382
+5154,Kleve,310974
+5158,Mettmann,485684
+5162,Rhein-Kreis Neuss,451730
+5166,Viersen,298935
+5170,Wesel,459809
+5314,Bonn,327258
+5315,Köln,1085664
+5316,Leverkusen,163838
+5334,Städteregion Aachen,555465
+5358,Düren,263722
+5362,Rhein-Erft-Kreis,470615
+5366,Euskirchen,192840
+5370,Heinsberg,254322
+5374,Oberbergischer Kreis,272057
+5378,Rheinisch-Bergischer Kreis,283271
+5382,Rhein-Sieg-Kreis,600764
+5512,Bottrop,117383
+5513,Gelsenkirchen,260654
+5515,Münster,314319
+5554,Borken,370676
+5558,Coesfeld,219929
+5562,Recklinghausen,615261
+5566,Steinfurt,447614
+5570,Warendorf,277783
+5711,Bielefeld,333786
+5754,Gütersloh,364083
+5758,Herford,250783
+5762,Höxter,140667
+5766,Lippe,348391
+5770,Minden-Lübbecke,310710
+5774,Paderborn,306890
+5911,Bochum,364628
+5913,Dortmund,587010
+5914,Hagen,188814
+5915,Hamm,179111
+5916,Herne,156374
+5954,Ennepe-Ruhr-Kreis,324106
+5958,Hochsauerlandkreis,259777
+5962,Märkischer Kreis,410222
+5966,Olpe,134775
+5970,Siegen-Wittgenstein,278210
+5974,Soest,301902
+5978,Unna,394782
+6411,Darmstadt,159207
+6412,Frankfurt am Main,753056
+6413,Offenbach am Main,128744
+6414,Wiesbaden,278342
+6431,Bergstraße,269694
+6432,Darmstadt-Dieburg,297399
+6433,Groß-Gerau,274526
+6434,Hochtaunuskreis,236914
+6435,Main-Kinzig-Kreis,420552
+6436,Main-Taunus-Kreis,238558
+6437,Odenwaldkreis,96703
+6438,Offenbach,354092
+6439,Rheingau-Taunus-Kreis,187160
+6440,Wetteraukreis,308339
+6531,Gießen,268876
+6532,Lahn-Dill-Kreis,253319
+6533,Limburg-Weilburg,172083
+6534,Marburg-Biedenkopf,246648
+6535,Vogelsbergkreis,105643
+6611,Kassel,201585
+6631,Fulda,222584
+6632,Hersfeld-Rotenburg,120829
+6633,Kassel,236633
+6634,Schwalm-Eder-Kreis,179673
+6635,Waldeck-Frankenberg,156953
+6636,Werra-Meißner-Kreis,100629
+7111,Koblenz,114024
+7131,Ahrweiler,129727
+7132,Altenkirchen (Westerwald),128705
+7133,Bad Kreuznach,158080
+7134,Birkenfeld,80720
+7135,Cochem-Zell,61587
+7137,Mayen-Koblenz,214259
+7138,Neuwied,181941
+7140,Rhein-Hunsrück-Kreis,103163
+7141,Rhein-Lahn-Kreis,122297
+7143,Westerwaldkreis,201904
+7211,Trier,110636
+7231,Bernkastel-Wittlich,112262
+7232,Eifelkreis Bitburg-Prüm,99058
+7233,Vulkaneifel,60603
+7235,Trier-Saarburg,148945
+7311,Frankenthal (Pfalz),48561
+7312,Kaiserslautern,99845
+7313,Landau in der Pfalz,46677
+7314,Ludwigshafen am Rhein,171061
+7315,Mainz,217118
+7316,Neustadt an der Weinstraße,53148
+7317,Pirmasens,40403
+7318,Speyer,50378
+7319,Worms,83330
+7320,Zweibrücken,34209
+7331,Alzey-Worms,129244
+7332,Bad Dürkheim,132660
+7333,Donnersbergkreis,75325
+7334,Germersheim,129075
+7335,Kaiserslautern,106057
+7336,Kusel,70526
+7337,Südliche Weinstraße,110356
+7338,Rhein-Pfalz-Kreis,154609
+7339,Mainz-Bingen,210889
+7340,Südwestpfalz,95113
+8111,Stuttgart,634830
+8115,Böblingen,391640
+8116,Esslingen,533859
+8117,Göppingen,257253
+8118,Ludwigsburg,543984
+8119,Rems-Murr-Kreis,427248
+8121,Heilbronn,125960
+8125,Heilbronn,343068
+8126,Hohenlohekreis,112655
+8127,Schwäbisch Hall,195861
+8128,Main-Tauber-Kreis,132399
+8135,Heidenheim,132472
+8136,Ostalbkreis,314025
+8211,Baden-Baden,55123
+8212,Karlsruhe,313092
+8215,Karlsruhe,444232
+8216,Rastatt,231018
+8221,Heidelberg,160355
+8222,Mannheim,309370
+8225,Neckar-Odenwald-Kreis,143633
+8226,Rhein-Neckar-Kreis,548355
+8231,Pforzheim,125542
+8235,Calw,158397
+8236,Enzkreis,199556
+8237,Freudenstadt,117935
+8311,Freiburg im Breisgau,230241
+8315,Breisgau-Hochschwarzwald,262795
+8316,Emmendingen,165383
+8317,Ortenaukreis,430953
+8325,Rottweil,139455
+8326,Schwarzwald-Baar-Kreis,212506
+8327,Tuttlingen,140152
+8335,Konstanz,285325
+8336,Lörrach,228639
+8337,Waldshut,170619
+8415,Reutlingen,286748
+8416,Tübingen,227331
+8417,Zollernalbkreis,189363
+8421,Ulm,126329
+8425,Alb-Donau-Kreis,197076
+8426,Biberach,199742
+8435,Bodenseekreis,217470
+8436,Ravensburg,284285
+8437,Sigmaringen,130873
+9161,Ingolstadt,136981
+9162,München,1471508
+9163,Rosenheim,63324
+9171,Altötting,111210
+9172,Berchtesgadener Land,105722
+9173,Bad Tölz-Wolfratshausen,127227
+9174,Dachau,153884
+9175,Ebersberg,142142
+9176,Eichstätt,132341
+9177,Erding,137660
+9178,Freising,179116
+9179,Fürstenfeldbruck,219320
+9180,Garmisch-Partenkirchen,88467
+9181,Landsberg am Lech,120071
+9182,Miesbach,99726
+9183,Mühldorf am Inn,115250
+9184,München,348871
+9185,Neuburg-Schrobenhausen,96680
+9186,Pfaffenhofen an der Ilm,127151
+9187,Rosenheim,260983
+9188,Starnberg,136092
+9189,Traunstein,177089
+9190,Weilheim-Schongau,135348
+9261,Landshut,72404
+9262,Passau,52469
+9263,Straubing,47794
+9271,Deggendorf,119326
+9272,Freyung-Grafenau,78355
+9273,Kelheim,122258
+9274,Landshut,158698
+9275,Passau,192043
+9276,Regen,77656
+9277,Rottal-Inn,120659
+9278,Straubing-Bogen,100649
+9279,Dingolfing-Landau,96217
+9361,Amberg,41970
+9362,Regensburg,152610
+9363,Weiden in der Oberpfalz,42520
+9371,Amberg-Sulzbach,103109
+9372,Cham,127882
+9373,Neumarkt in der Oberpfalz,133561
+9374,Neustadt an der Waldnaab,94352
+9375,Regensburg,193572
+9376,Schwandorf,147189
+9377,Tirschenreuth,72504
+9461,Bamberg,77592
+9462,Bayreuth,74657
+9463,Coburg,41249
+9464,Hof,45930
+9471,Bamberg,147086
+9472,Bayreuth,103656
+9473,Coburg,86906
+9474,Forchheim,116099
+9475,Hof,95311
+9476,Kronach,67135
+9477,Kulmbach,71845
+9478,Lichtenfels,66838
+9479,Wunsiedel im Fichtelgebirge,73178
+9561,Ansbach,41847
+9562,Erlangen,111962
+9563,Fürth,127748
+9564,Nürnberg,518365
+9565,Schwabach,40792
+9571,Ansbach,183949
+9572,Erlangen-Höchstadt,136271
+9573,Fürth,117387
+9574,Nürnberger Land,170365
+9575,Neustadt an der Aisch-Bad Windsheim,100364
+9576,Roth,126958
+9577,Weißenburg-Gunzenhausen,94393
+9661,Aschaffenburg,70527
+9662,Schweinfurt,54032
+9663,Würzburg,127880
+9671,Aschaffenburg,174208
+9672,Bad Kissingen,103218
+9673,Rhön-Grabfeld,79690
+9674,Haßberge,84599
+9675,Kitzingen,90909
+9676,Miltenberg,128756
+9677,Main-Spessart,126365
+9678,Schweinfurt,115106
+9679,Würzburg,161834
+9761,Augsburg,295135
+9762,Kaufbeuren,43893
+9763,Kempten (Allgäu),68907
+9764,Memmingen,43837
+9771,Aichach-Friedberg,133596
+9772,Augsburg,251534
+9773,Dillingen an der Donau,96021
+9774,Günzburg,125747
+9775,Neu-Ulm,174200
+9776,Lindau (Bodensee),81669
+9777,Ostallgäu,140316
+9778,Unterallgäu,144041
+9779,Donau-Ries,133496
+9780,Oberallgäu,155362
+10041,Regionalverband Saarbrücken,329708
+10042,Merzig-Wadern,103366
+10043,Neunkirchen,132206
+10044,Saarlouis,195201
+10045,Saarpfalz-Kreis,142196
+10046,Sankt Wendel,87397
+11000,Berlin,3644826
+12051,Brandenburg an der Havel,72124
+12052,Cottbus,100219
+12053,Frankfurt (Oder),57873
+12054,Potsdam,178089
+12060,Barnim,182760
+12061,Dahme-Spreewald,169067
+12062,Elbe-Elster,102638
+12063,Havelland,161909
+12064,Märkisch-Oderland,194328
+12065,Oberhavel,211249
+12066,Oberspreewald-Lausitz,110476
+12067,Oder-Spree,178658
+12068,Ostprignitz-Ruppin,99078
+12069,Potsdam-Mittelmark,214664
+12070,Prignitz,76508
+12071,Spree-Neiße,114429
+12072,Teltow-Fläming,168296
+12073,Uckermark,119552
+13003,Rostock,208886
+13004,Schwerin,95818
+13071,Mecklenburgische Seenplatte,259130
+13072,Rostock,215113
+13073,Vorpommern-Rügen,224684
+13074,Nordwestmecklenburg,156729
+13075,Vorpommern-Greifswald,236697
+13076,Ludwigslust-Parchim,212618
+14511,Chemnitz,247237
+14521,Erzgebirgskreis,334948
+14522,Mittelsachsen,306185
+14523,Vogtlandkreis,225997
+14524,Zwickau,317531
+14612,Dresden,554649
+14625,Bautzen,300880
+14626,Görlitz,254894
+14627,Meißen,242165
+14628,Sächsische Schweiz-Osterzgebirge,245611
+14713,Leipzig,587857
+14729,Leipzig,257763
+14730,Nordsachsen,197673
+15001,Dessau-Roßlau,81237
+15002,Halle (Saale),239257
+15003,Magdeburg,238697
+15081,Altmarkkreis Salzwedel,83173
+15082,Anhalt-Bitterfeld,159854
+15083,Börde,171734
+15084,Burgenlandkreis,178846
+15085,Harz,214446
+15086,Jerichower Land,89928
+15087,Mansfeld-Südharz,136249
+15088,Saalekreis,183815
+15089,Salzlandkreis,189125
+15090,Stendal,111982
+15091,Wittenberg,125840
+16051,Erfurt,213699
+16052,Gera,94152
+16053,Jena,111407
+16054,Suhl,34835
+16055,Weimar,65090
+16056,Eisenach,42370
+16061,Eichsfeld,100380
+16062,Nordhausen,83822
+16063,Wartburgkreis,118974
+16064,Unstrut-Hainich-Kreis,102232
+16065,Kyffhäuserkreis,74212
+16066,Schmalkalden-Meiningen,122347
+16067,Gotha,135452
+16068,Sömmerda,69655
+16069,Hildburghausen,63553
+16070,Ilm-Kreis,106249
+16071,Weimarer Land,81947
+16072,Sonneberg,56196
+16073,Saalfeld-Rudolstadt,106356
+16074,Saale-Holzland-Kreis,82950
+16075,Saale-Orla-Kreis,80312
+16076,Greiz,98159
+16077,Altenburger Land,90118
+11004,Berlin Charlottenburg-Wilmersdorf,326354
+11002,Berlin Friedrichshain-Kreuzberg,278579
+11011,Berlin Lichtenberg,268466
+11010,Berlin Marzahn-Hellersdorf,255643
+11001,Berlin Mitte,332919
+11008,Berlin Neukölln,310283
+11003,Berlin Pankow,366441
+11012,Berlin Reinickendorf,240454
+11005,Berlin Spandau,223962
+11006,Berlin Steglitz-Zehlendorf,293989
+11007,Berlin Tempelhof-Schöneberg,335060
+11009,Berlin Treptow-Köpenick,241335
