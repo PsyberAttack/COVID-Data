@@ -1,7 +1,9 @@
 date,state,city,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+2020-08-05,Mato Grosso,Nova Monte Verde,10.9,1,0,0.0,35,1,2.86,381.35,10.9,0.38,9178
 2020-08-04,Mato Grosso,Nova Monte Verde,21.79,2,-1,-10.9,34,1,2.94,370.45,10.9,0.37,9178
 2020-08-03,Mato Grosso,Nova Monte Verde,54.48,5,0,0.0,32,2,6.25,348.66,21.79,0.35,9178
 2020-08-02,Mato Grosso,Nova Monte Verde,0.0,0,0,0.0,27,2,7.41,294.18,21.79,0.29,9178
+2020-08-01,Mato Grosso,Nova Monte Verde,0.0,0,0,0.0,27,2,7.41,294.18,21.79,0.29,9178
 2020-07-31,Mato Grosso,Nova Monte Verde,21.79,2,0,0.0,27,2,7.41,294.18,21.79,0.29,9178
 2020-07-30,Mato Grosso,Nova Monte Verde,32.69,3,0,0.0,25,2,8.0,272.39,21.79,0.27,9178
 2020-07-29,Mato Grosso,Nova Monte Verde,43.58,4,0,0.0,22,2,9.09,239.7,21.79,0.24,9178
@@ -14,7 +16,10 @@ date,state,city,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,
 2020-07-22,Mato Grosso,Nova Monte Verde,0.0,0,0,0.0,12,1,8.33,130.75,10.9,0.13,9178
 2020-07-21,Mato Grosso,Nova Monte Verde,0.0,0,0,0.0,12,1,8.33,130.75,10.9,0.13,9178
 2020-07-20,Mato Grosso,Nova Monte Verde,0.0,0,0,0.0,12,1,8.33,130.75,10.9,0.13,9178
-2020-07-19,Mato Grosso,Nova Monte Verde,32.69,3,0,0.0,12,1,8.33,130.75,10.9,0.13,9178
+2020-07-19,Mato Grosso,Nova Monte Verde,-10.9,-1,0,0.0,12,1,8.33,130.75,10.9,0.13,9178
+2020-07-18,Mato Grosso,Nova Monte Verde,0.0,0,0,0.0,13,1,7.69,141.64,10.9,0.14,9178
+2020-07-17,Mato Grosso,Nova Monte Verde,10.9,1,0,0.0,13,1,7.69,141.64,10.9,0.14,9178
+2020-07-16,Mato Grosso,Nova Monte Verde,32.69,3,0,0.0,12,1,8.33,130.75,10.9,0.13,9178
 2020-07-12,Mato Grosso,Nova Monte Verde,0.0,0,0,0.0,9,1,11.11,98.06,10.9,0.1,9178
 2020-07-10,Mato Grosso,Nova Monte Verde,0.0,0,0,0.0,9,1,11.11,98.06,10.9,0.1,9178
 2020-07-09,Mato Grosso,Nova Monte Verde,0.0,0,0,0.0,9,1,11.11,98.06,10.9,0.1,9178

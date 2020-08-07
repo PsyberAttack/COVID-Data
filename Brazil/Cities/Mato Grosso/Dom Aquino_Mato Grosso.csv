@@ -1,7 +1,9 @@
 date,state,city,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+2020-08-05,Mato Grosso,Dom Aquino,85.6,7,0,0.0,83,3,3.61,1014.92,36.68,1.01,8178
 2020-08-04,Mato Grosso,Dom Aquino,97.82,8,0,0.0,76,3,3.95,929.32,36.68,0.93,8178
 2020-08-03,Mato Grosso,Dom Aquino,24.46,2,0,0.0,68,3,4.41,831.5,36.68,0.83,8178
-2020-08-02,Mato Grosso,Dom Aquino,-12.23,-1,0,0.0,66,3,4.55,807.04,36.68,0.81,8178
+2020-08-02,Mato Grosso,Dom Aquino,0.0,0,0,0.0,66,3,4.55,807.04,36.68,0.81,8178
+2020-08-01,Mato Grosso,Dom Aquino,-12.23,-1,0,0.0,66,3,4.55,807.04,36.68,0.81,8178
 2020-07-31,Mato Grosso,Dom Aquino,24.46,2,0,0.0,67,3,4.48,819.27,36.68,0.82,8178
 2020-07-30,Mato Grosso,Dom Aquino,24.46,2,0,0.0,65,3,4.62,794.82,36.68,0.79,8178
 2020-07-29,Mato Grosso,Dom Aquino,12.23,1,0,0.0,63,3,4.76,770.36,36.68,0.77,8178
@@ -14,7 +16,10 @@ date,state,city,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,
 2020-07-22,Mato Grosso,Dom Aquino,12.23,1,0,0.0,57,3,5.26,696.99,36.68,0.7,8178
 2020-07-21,Mato Grosso,Dom Aquino,134.51,11,1,12.23,56,3,5.36,684.76,36.68,0.68,8178
 2020-07-20,Mato Grosso,Dom Aquino,12.23,1,0,0.0,45,2,4.44,550.26,24.46,0.55,8178
-2020-07-19,Mato Grosso,Dom Aquino,-36.68,-3,-2,-24.46,44,2,4.55,538.03,24.46,0.54,8178
+2020-07-19,Mato Grosso,Dom Aquino,0.0,0,0,0.0,44,2,4.55,538.03,24.46,0.54,8178
+2020-07-18,Mato Grosso,Dom Aquino,0.0,0,0,0.0,44,2,4.55,538.03,24.46,0.54,8178
+2020-07-17,Mato Grosso,Dom Aquino,12.23,1,1,12.23,44,2,4.55,538.03,24.46,0.54,8178
+2020-07-16,Mato Grosso,Dom Aquino,-48.91,-4,-3,-36.68,43,1,2.33,525.8,12.23,0.53,8178
 2020-07-12,Mato Grosso,Dom Aquino,0.0,0,0,0.0,47,4,8.51,574.71,48.91,0.57,8178
 2020-07-10,Mato Grosso,Dom Aquino,61.14,5,1,12.23,47,4,8.51,574.71,48.91,0.57,8178
 2020-07-09,Mato Grosso,Dom Aquino,0.0,0,0,0.0,42,3,7.14,513.57,36.68,0.51,8178

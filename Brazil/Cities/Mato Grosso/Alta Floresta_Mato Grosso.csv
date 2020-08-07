@@ -1,7 +1,9 @@
 date,state,city,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+2020-08-05,Mato Grosso,Alta Floresta,21.24,11,0,0.0,472,13,2.75,911.51,25.11,0.91,51782
 2020-08-04,Mato Grosso,Alta Floresta,34.76,18,3,5.79,461,13,2.82,890.27,25.11,0.89,51782
 2020-08-03,Mato Grosso,Alta Floresta,11.59,6,0,0.0,443,10,2.26,855.51,19.31,0.86,51782
-2020-08-02,Mato Grosso,Alta Floresta,108.15,56,0,0.0,437,10,2.29,843.92,19.31,0.84,51782
+2020-08-02,Mato Grosso,Alta Floresta,34.76,18,0,0.0,437,10,2.29,843.92,19.31,0.84,51782
+2020-08-01,Mato Grosso,Alta Floresta,73.38,38,0,0.0,419,10,2.39,809.16,19.31,0.81,51782
 2020-07-31,Mato Grosso,Alta Floresta,30.9,16,1,1.93,381,10,2.62,735.78,19.31,0.74,51782
 2020-07-30,Mato Grosso,Alta Floresta,15.45,8,0,0.0,365,9,2.47,704.88,17.38,0.7,51782
 2020-07-29,Mato Grosso,Alta Floresta,27.04,14,1,1.93,357,9,2.52,689.43,17.38,0.69,51782
@@ -14,7 +16,10 @@ date,state,city,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,
 2020-07-22,Mato Grosso,Alta Floresta,13.52,7,0,0.0,307,8,2.61,592.87,15.45,0.59,51782
 2020-07-21,Mato Grosso,Alta Floresta,50.21,26,1,1.93,300,8,2.67,579.35,15.45,0.58,51782
 2020-07-20,Mato Grosso,Alta Floresta,7.72,4,1,1.93,274,7,2.55,529.14,13.52,0.53,51782
-2020-07-19,Mato Grosso,Alta Floresta,83.04,43,0,0.0,270,6,2.22,521.42,11.59,0.52,51782
+2020-07-19,Mato Grosso,Alta Floresta,-1.93,-1,0,0.0,270,6,2.22,521.42,11.59,0.52,51782
+2020-07-18,Mato Grosso,Alta Floresta,9.66,5,0,0.0,271,6,2.21,523.35,11.59,0.52,51782
+2020-07-17,Mato Grosso,Alta Floresta,28.97,15,2,3.86,266,6,2.26,513.69,11.59,0.51,51782
+2020-07-16,Mato Grosso,Alta Floresta,46.35,24,-2,-3.86,251,4,1.59,484.72,7.72,0.48,51782
 2020-07-12,Mato Grosso,Alta Floresta,32.83,17,0,0.0,227,6,2.64,438.38,11.59,0.44,51782
 2020-07-10,Mato Grosso,Alta Floresta,9.66,5,0,0.0,210,6,2.86,405.55,11.59,0.41,51782
 2020-07-09,Mato Grosso,Alta Floresta,3.86,2,1,1.93,205,6,2.93,395.89,11.59,0.4,51782

@@ -1,7 +1,9 @@
 date,state,city,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+2020-08-05,Mato Grosso,Campos de Júlio,72.56,5,0,0.0,244,4,1.64,3540.85,58.05,3.54,6891
 2020-08-04,Mato Grosso,Campos de Júlio,14.51,1,0,0.0,239,4,1.67,3468.29,58.05,3.47,6891
 2020-08-03,Mato Grosso,Campos de Júlio,0.0,0,0,0.0,238,4,1.68,3453.78,58.05,3.45,6891
-2020-08-02,Mato Grosso,Campos de Júlio,362.79,25,0,0.0,238,4,1.68,3453.78,58.05,3.45,6891
+2020-08-02,Mato Grosso,Campos de Júlio,0.0,0,0,0.0,238,4,1.68,3453.78,58.05,3.45,6891
+2020-08-01,Mato Grosso,Campos de Júlio,362.79,25,0,0.0,238,4,1.68,3453.78,58.05,3.45,6891
 2020-07-31,Mato Grosso,Campos de Júlio,261.21,18,0,0.0,213,4,1.88,3090.99,58.05,3.09,6891
 2020-07-30,Mato Grosso,Campos de Júlio,362.79,25,0,0.0,195,4,2.05,2829.78,58.05,2.83,6891
 2020-07-29,Mato Grosso,Campos de Júlio,87.07,6,1,14.51,170,4,2.35,2466.99,58.05,2.47,6891
@@ -14,7 +16,10 @@ date,state,city,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,
 2020-07-22,Mato Grosso,Campos de Júlio,0.0,0,0,0.0,152,2,1.32,2205.78,29.02,2.21,6891
 2020-07-21,Mato Grosso,Campos de Júlio,87.07,6,0,0.0,152,2,1.32,2205.78,29.02,2.21,6891
 2020-07-20,Mato Grosso,Campos de Júlio,58.05,4,0,0.0,146,2,1.37,2118.71,29.02,2.12,6891
-2020-07-19,Mato Grosso,Campos de Júlio,217.68,15,0,0.0,142,2,1.41,2060.66,29.02,2.06,6891
+2020-07-19,Mato Grosso,Campos de Júlio,-14.51,-1,0,0.0,142,2,1.41,2060.66,29.02,2.06,6891
+2020-07-18,Mato Grosso,Campos de Júlio,0.0,0,0,0.0,143,2,1.4,2075.17,29.02,2.08,6891
+2020-07-17,Mato Grosso,Campos de Júlio,43.54,3,1,14.51,143,2,1.4,2075.17,29.02,2.08,6891
+2020-07-16,Mato Grosso,Campos de Júlio,188.65,13,-1,-14.51,140,1,0.71,2031.64,14.51,2.03,6891
 2020-07-12,Mato Grosso,Campos de Júlio,0.0,0,0,0.0,127,2,1.57,1842.98,29.02,1.84,6891
 2020-07-10,Mato Grosso,Campos de Júlio,58.05,4,0,0.0,127,2,1.57,1842.98,29.02,1.84,6891
 2020-07-09,Mato Grosso,Campos de Júlio,14.51,1,0,0.0,123,2,1.63,1784.94,29.02,1.78,6891

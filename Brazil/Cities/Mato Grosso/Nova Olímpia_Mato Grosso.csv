@@ -1,7 +1,9 @@
 date,state,city,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+2020-08-05,Mato Grosso,Nova Olímpia,118.22,24,1,4.93,172,9,5.23,847.25,44.33,0.85,20301
 2020-08-04,Mato Grosso,Nova Olímpia,9.85,2,0,0.0,148,8,5.41,729.03,39.41,0.73,20301
 2020-08-03,Mato Grosso,Nova Olímpia,0.0,0,0,0.0,146,8,5.48,719.18,39.41,0.72,20301
 2020-08-02,Mato Grosso,Nova Olímpia,0.0,0,1,4.93,146,8,5.48,719.18,39.41,0.72,20301
+2020-08-01,Mato Grosso,Nova Olímpia,0.0,0,0,0.0,146,7,4.79,719.18,34.48,0.72,20301
 2020-07-31,Mato Grosso,Nova Olímpia,4.93,1,0,0.0,146,7,4.79,719.18,34.48,0.72,20301
 2020-07-30,Mato Grosso,Nova Olímpia,64.04,13,0,0.0,145,7,4.83,714.25,34.48,0.71,20301
 2020-07-29,Mato Grosso,Nova Olímpia,19.7,4,1,4.93,132,7,5.3,650.21,34.48,0.65,20301
@@ -14,7 +16,10 @@ date,state,city,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,
 2020-07-22,Mato Grosso,Nova Olímpia,29.56,6,0,0.0,85,5,5.88,418.7,24.63,0.42,20301
 2020-07-21,Mato Grosso,Nova Olímpia,14.78,3,0,0.0,79,5,6.33,389.14,24.63,0.39,20301
 2020-07-20,Mato Grosso,Nova Olímpia,24.63,5,0,0.0,76,5,6.58,374.37,24.63,0.37,20301
-2020-07-19,Mato Grosso,Nova Olímpia,113.29,23,2,9.85,71,5,7.04,349.74,24.63,0.35,20301
+2020-07-19,Mato Grosso,Nova Olímpia,-4.93,-1,0,0.0,71,5,7.04,349.74,24.63,0.35,20301
+2020-07-18,Mato Grosso,Nova Olímpia,14.78,3,1,4.93,72,5,6.94,354.66,24.63,0.35,20301
+2020-07-17,Mato Grosso,Nova Olímpia,34.48,7,1,4.93,69,4,5.8,339.88,19.7,0.34,20301
+2020-07-16,Mato Grosso,Nova Olímpia,68.96,14,0,0.0,62,3,4.84,305.4,14.78,0.31,20301
 2020-07-12,Mato Grosso,Nova Olímpia,14.78,3,0,0.0,48,3,6.25,236.44,14.78,0.24,20301
 2020-07-10,Mato Grosso,Nova Olímpia,0.0,0,0,0.0,45,3,6.67,221.66,14.78,0.22,20301
 2020-07-09,Mato Grosso,Nova Olímpia,0.0,0,0,0.0,45,3,6.67,221.66,14.78,0.22,20301
