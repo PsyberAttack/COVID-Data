@@ -1,6 +1,7 @@
 date,country,region,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
-2020-08-04,Colombia,Cundinamarca,6.82,199,0,0.0,10231,290,2.83,350.49,9.93,0.35,2919060
-2020-08-03,Colombia,Cundinamarca,16.79,490,3,0.1,10032,290,2.89,343.67,9.93,0.34,2919060
+2020-08-05,Colombia,Cundinamarca,14.05,410,0,0.0,10641,299,2.81,364.54,10.24,0.36,2919060
+2020-08-04,Colombia,Cundinamarca,6.82,199,7,0.24,10231,299,2.92,350.49,10.24,0.35,2919060
+2020-08-03,Colombia,Cundinamarca,16.79,490,5,0.17,10032,292,2.91,343.67,10.0,0.34,2919060
 2020-08-02,Colombia,Cundinamarca,19.46,568,11,0.38,9542,287,3.01,326.89,9.83,0.33,2919060
 2020-08-01,Colombia,Cundinamarca,16.31,476,27,0.92,8974,276,3.08,307.43,9.46,0.31,2919060
 2020-07-31,Colombia,Cundinamarca,9.39,274,3,0.1,8498,249,2.93,291.12,8.53,0.29,2919060
