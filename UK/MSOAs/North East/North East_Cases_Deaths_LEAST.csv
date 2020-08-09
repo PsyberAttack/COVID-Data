@@ -47,7 +47,6 @@ E02002503,E06000002,North East,Newport & Maze Park,Middlesbrough,14,6,0.21,0.09,
 E02004334,E06000047,North East,Trimdon & Fishburn,County Durham,16,3,0.22,0.04,220.84,41.41,18.75,7245
 E02001758,E08000022,North East,Battle Hill East,North Tyneside,12,2,0.22,0.04,218.86,36.48,16.67,5483
 E02001769,E08000023,North East,South Shields West,South Tyneside,18,5,0.22,0.06,221.65,61.57,27.78,8121
-E02002551,E06000004,North East,Thornaby North,Stockton-on-Tees,16,5,0.22,0.07,223.49,69.84,31.25,7159
 E02005719,E06000057,North East,Seaton Delaval & Seghill,Northumberland,20,4,0.23,0.05,234.38,46.88,20.0,8533
 E02001751,E08000022,North East,Forest Hall & West Moor,North Tyneside,14,4,0.23,0.07,234.39,66.97,28.57,5973
 E02001742,E08000022,North East,West Monkseaton,North Tyneside,14,3,0.24,0.05,236.13,50.6,21.43,5929
@@ -67,6 +66,7 @@ E02001787,E08000023,North East,Fellgate & Hedworth,South Tyneside,15,2,0.27,0.04
 E02001721,E08000021,North East,Throckley & Newburn,Newcastle upon Tyne,28,5,0.27,0.05,271.98,48.57,17.86,10295
 E02001741,E08000022,North East,Wideopen & Seaton Burn,North Tyneside,21,4,0.27,0.05,273.62,52.12,19.05,7675
 E02001793,E08000024,North East,Town End Farm,Sunderland,23,4,0.27,0.05,273.19,47.51,17.39,8419
+E02002551,E06000004,North East,Thornaby North,Stockton-on-Tees,19,5,0.27,0.07,265.4,69.84,26.32,7159
 E02001756,E08000022,North East,Longbenton,North Tyneside,27,2,0.28,0.02,281.95,20.89,7.41,9576
 E02001739,E08000022,North East,Fordley,North Tyneside,21,3,0.28,0.04,284.32,40.62,14.29,7386
 E02005703,E06000057,North East,Alnwick,Northumberland,19,3,0.28,0.04,281.19,44.4,15.79,6757
@@ -127,7 +127,6 @@ E02002567,E06000005,North East,Albert Hill & Red Hall,Darlington,30,8,0.36,0.1,3
 E02002525,E06000003,North East,Eston,Redcar and Cleveland,30,9,0.36,0.11,363.28,108.99,30.0,8258
 E02004326,E06000047,North East,Shotton & Haswell,County Durham,25,9,0.36,0.13,363.9,131.0,36.0,6870
 E02004327,E06000047,North East,Horden,County Durham,21,8,0.36,0.14,359.04,136.78,38.1,5849
-E02002564,E06000005,North East,Cockerton & Hopetown,Darlington,36,7,0.37,0.07,371.1,72.16,19.44,9701
 E02001823,E08000024,North East,Houghton West,Sunderland,28,6,0.37,0.08,366.25,78.48,21.43,7645
 E02001761,E08000022,North East,Battle Hill West,North Tyneside,20,6,0.37,0.11,369.82,110.95,30.0,5408
 E02004323,E06000047,North East,South Murton & South Hetton,County Durham,30,10,0.37,0.12,371.66,123.89,33.33,8072
@@ -148,6 +147,7 @@ E02005704,E06000057,North East,"Amble, Shilbottle & Swarland",Northumberland,50,
 E02001798,E08000024,North East,North Hylton,Sunderland,33,12,0.4,0.15,400.24,145.54,36.36,8245
 E02002518,E06000003,North East,Redcar East,Redcar and Cleveland,42,17,0.4,0.16,396.94,160.67,40.48,10581
 E02002526,E06000003,North East,Skelton,Redcar and Cleveland,32,4,0.41,0.05,409.73,51.22,12.5,7810
+E02002564,E06000005,North East,Cockerton & Hopetown,Darlington,40,7,0.41,0.07,412.33,72.16,17.5,9701
 E02005717,E06000057,North East,Holywell & Hartley,Northumberland,31,7,0.41,0.09,410.43,92.68,22.58,7553
 E02002507,E06000002,North East,Acklam,Middlesbrough,25,6,0.41,0.1,411.79,98.83,24.0,6071
 E02001766,E08000022,North East,Wallsend East,North Tyneside,32,2,0.42,0.03,424.23,26.51,6.25,7543
@@ -206,7 +206,6 @@ E02001727,E08000021,North East,Walkergate,Newcastle upon Tyne,41,6,0.49,0.07,489
 E02004344,E06000047,North East,Newton Aycliffe South,County Durham,35,6,0.49,0.08,487.74,83.61,17.14,7176
 E02002571,E06000005,North East,Firthmoor,Darlington,32,5,0.49,0.08,491.93,76.86,15.62,6505
 E02001704,E08000037,North East,Easedale Gardens,Gateshead,36,4,0.51,0.06,513.55,57.06,11.11,7010
-E02004300,E06000047,North East,Catchgate & Dipton,County Durham,40,7,0.51,0.09,513.15,89.8,17.5,7795
 E02001693,E08000037,North East,Felling South,Gateshead,29,5,0.51,0.09,511.92,88.26,17.24,5665
 E02001689,E08000037,North East,Bensham North,Gateshead,45,14,0.51,0.16,512.65,159.49,31.11,8778
 E02001688,E08000037,North East,Dunston & Teams,Gateshead,39,15,0.51,0.2,509.54,195.98,38.46,7654
@@ -229,12 +228,10 @@ E02001821,E08000024,North East,Hall Farm,Sunderland,30,5,0.54,0.09,537.92,89.65,
 E02002505,E06000002,North East,Park End,Middlesbrough,33,8,0.54,0.13,539.22,130.72,24.24,6120
 E02005718,E06000057,North East,Cramlington South,Northumberland,35,9,0.54,0.14,543.73,139.82,25.71,6437
 E02001816,E08000024,North East,Lakeside & Farrington,Sunderland,37,12,0.54,0.18,541.65,175.67,32.43,6831
-E02002491,E06000001,North East,Rift House & Summerhill,Hartlepool,35,13,0.54,0.2,535.33,198.84,37.14,6538
 E02005710,E06000057,North East,Blyth Town,Northumberland,50,21,0.54,0.22,535.27,224.82,42.0,9341
 E02001780,E08000023,North East,Cleadon Park,South Tyneside,33,4,0.55,0.07,549.82,66.64,12.12,6002
-E02001696,E08000037,North East,Heworth,Gateshead,51,9,0.55,0.1,553.51,97.68,17.65,9214
+E02004300,E06000047,North East,Catchgate & Dipton,County Durham,43,7,0.55,0.09,551.64,89.8,16.28,7795
 E02004298,E06000047,North East,"Benfieldside, Hamsterley & Medomsley",County Durham,55,12,0.55,0.12,548.3,119.63,21.82,10031
-E02002496,E06000002,North East,Middlesbrough Central,Middlesbrough,72,17,0.55,0.13,547.65,129.31,23.61,13147
 E02002548,E06000004,North East,"Central Stockton, Portrack & Low Hartburn",Stockton-on-Tees,76,18,0.55,0.13,553.09,130.99,23.68,13741
 E02006893,E08000021,North East,Westerhope,Newcastle upon Tyne,57,17,0.55,0.16,550.51,164.19,29.82,10354
 E02005721,E06000057,North East,Morpeth North & Pegswood,Northumberland,31,3,0.56,0.05,562.41,54.43,9.68,5512
@@ -242,10 +239,13 @@ E02005740,E06000057,North East,Bedlington Station & Sleekburn,Northumberland,58,
 E02004355,E06000047,North East,Bishop Auckland South,County Durham,41,5,0.56,0.07,564.74,68.87,12.2,7260
 E02002570,E06000005,North East,Bank Top,Darlington,44,9,0.56,0.11,555.84,113.69,20.45,7916
 E02002520,E06000003,North East,Marske,Redcar and Cleveland,72,6,0.57,0.05,566.08,47.17,8.33,12719
+E02002496,E06000002,North East,Middlesbrough Central,Middlesbrough,75,17,0.57,0.13,570.47,129.31,22.67,13147
 E02002509,E06000002,North East,Easterside,Middlesbrough,31,2,0.58,0.04,575.35,37.12,6.45,5388
 E02001783,E08000023,North East,Biddick Hill,South Tyneside,42,3,0.58,0.04,582.2,41.59,7.14,7214
 E02004318,E06000047,North East,High Shincliffe & Bowburn,County Durham,39,10,0.58,0.15,579.67,148.63,25.64,6728
 E02001750,E08000022,North East,Preston Grange,North Tyneside,39,11,0.58,0.16,575.39,162.29,28.21,6778
+E02002491,E06000001,North East,Rift House & Summerhill,Hartlepool,38,13,0.58,0.2,581.22,198.84,34.21,6538
 E02001817,E08000024,North East,Silksworth,Sunderland,39,5,0.6,0.08,596.88,76.52,12.82,6534
 E02002502,E06000002,North East,Thorntree,Middlesbrough,56,8,0.6,0.09,601.5,85.93,14.29,9310
 E02001815,E08000024,North East,"Harraton, Rickleton & Fatfield",Sunderland,60,13,0.6,0.13,601.14,130.25,21.67,9981
+E02004315,E06000047,North East,"Aykley Heads, Neville's Cross & Langley Moor",County Durham,79,22,0.6,0.17,601.63,167.54,27.85,13131

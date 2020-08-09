@@ -3,7 +3,6 @@ E02004369,E07000062,South East,Conquest & St Helens,Hastings,0,0,0.0,0.0,0.0,0.0
 E02004372,E07000062,South East,Broomgrove,Hastings,0,0,0.0,0.0,0.0,0.0,0.0,7403
 E02004376,E07000062,South East,Central Hastings,Hastings,0,0,0.0,0.0,0.0,0.0,0.0,7036
 E02003597,E06000046,South East,"Niton, Shorwell & Godshill",Isle of Wight,0,0,0.0,0.0,0.0,0.0,0.0,5735
-E02003716,E07000007,South East,Bourne End,Wycombe,0,0,0.0,0.0,0.0,0.0,0.0,5594
 E02006554,E07000224,South East,Middleton-on-Sea,Arun,0,1,0.0,0.01,0.0,14.92,0.0,6703
 E02006559,E07000224,South East,Aldwick,Arun,0,1,0.0,0.01,0.0,12.02,0.0,8320
 E02004733,E07000087,South East,Titchfield & Titchfield Common,Fareham,0,1,0.0,0.01,0.0,12.45,0.0,8029
@@ -98,6 +97,7 @@ E02005174,E07000116,South East,"Cranbrook, Sissinghurst & Frittenden",Tunbridge 
 E02003459,E06000042,South East,Olney & Lavendon,Milton Keynes,3,9,0.04,0.11,35.77,107.32,300.0,8386
 E02004404,E07000065,South East,Frant & Groombridge,Wealden,3,0,0.05,0.0,45.61,0.0,0.0,6578
 E02003367,E06000037,South East,"Chieveley, East Isley & Compton",West Berkshire,3,0,0.05,0.0,46.38,0.0,0.0,6469
+E02003716,E07000007,South East,Bourne End,Wycombe,3,0,0.05,0.0,53.63,0.0,0.0,5594
 E02003665,E07000004,South East,Victoria Park,Aylesbury Vale,3,1,0.05,0.02,47.43,15.81,33.33,6325
 E02003368,E06000037,South East,Lambourn & Great Shefford,West Berkshire,3,1,0.05,0.02,52.71,17.57,33.33,5691
 E02003369,E06000037,South East,Streatley & Pangbourne,West Berkshire,3,1,0.05,0.02,46.38,15.46,33.33,6468
@@ -148,6 +148,7 @@ E02006573,E07000225,South East,Wittering & Birdham,Chichester,7,7,0.06,0.06,62.6
 E02003488,E06000042,South East,Bletchley East,Milton Keynes,5,5,0.06,0.06,63.3,63.3,100.0,7899
 E02003691,E07000006,South East,Farnham & Hedgerley,South Bucks,4,4,0.06,0.06,58.06,58.06,100.0,6890
 E02005158,E07000115,South East,Hildenborough,Tonbridge and Malling,4,5,0.06,0.07,58.79,73.49,125.0,6804
+E02005110,E07000112,South East,Lympne & Palmarsh,Folkestone and Hythe,4,6,0.06,0.09,57.45,86.18,150.0,6962
 E02004770,E07000090,South East,West Leigh,Havant,4,7,0.06,0.1,56.24,98.43,175.0,7112
 E02006444,E07000216,South East,Farnham Shortheath,Waverley,4,7,0.06,0.1,56.6,99.05,175.0,7067
 E02005999,E07000181,South East,"Leafield, Minster Lovell & Duckington",West Oxfordshire,4,6,0.06,0.1,64.05,96.08,150.0,6245
@@ -205,6 +206,7 @@ E02006620,E07000228,South East,"Hassocks, Keymer & East Hurstpierpoint",Mid Suss
 E02003473,E06000042,South East,Two Mile Ash,Milton Keynes,5,2,0.09,0.04,89.06,35.63,40.0,5614
 E02003532,E06000044,South East,Alexandra Park,Portsmouth,7,3,0.09,0.04,91.48,39.21,42.86,7652
 E02005961,E07000179,South East,Wheatley & Great Haseley,South Oxfordshire,6,3,0.09,0.04,89.85,44.92,50.0,6678
+E02006006,E07000181,South East,Carterton South,West Oxfordshire,6,3,0.09,0.04,86.08,43.04,50.0,6970
 E02006551,E07000224,South East,East Preston & Rustington East,Arun,7,4,0.09,0.05,86.32,49.33,57.14,8109
 E02004732,E07000087,South East,Warsash,Fareham,8,4,0.09,0.05,92.99,46.5,50.0,8603
 E02006447,E07000216,South East,Farnham Wrecclesham,Waverley,6,3,0.09,0.05,94.77,47.39,50.0,6331
@@ -237,7 +239,6 @@ E02004418,E07000065,South East,Hailsham South & West,Wealden,6,3,0.1,0.05,104.06
 E02006546,E07000224,South East,Angmering South,Arun,10,6,0.1,0.06,97.55,58.53,60.0,10251
 E02003683,E07000005,South East,Little Chalfont,Chiltern,7,4,0.1,0.06,96.77,55.29,57.14,7234
 E02003548,E06000044,South East,Southsea Waverley Road,Portsmouth,7,4,0.1,0.06,103.75,59.29,57.14,6747
-E02004421,E07000065,South East,Polegate,Wealden,9,6,0.1,0.06,97.08,64.72,66.67,9271
 E02003457,E06000041,South East,Finchampstead,Wokingham,10,6,0.1,0.06,100.44,60.27,60.0,9956
 E02004731,E07000087,South East,Locks Heath,Fareham,8,6,0.1,0.07,99.14,74.36,75.0,8069
 E02004757,E07000089,South East,Fleet South & Pondtail,Hart,8,6,0.1,0.07,99.91,74.93,75.0,8007
@@ -246,6 +247,5 @@ E02006411,E07000213,South East,Staines South East,Spelthorne,7,5,0.1,0.07,98.25,
 E02006344,E07000209,South East,West Clandon & Send,Guildford,9,7,0.1,0.08,102.65,79.84,77.78,8768
 E02005976,E07000179,South East,Shiplake & Binfield Heath,South Oxfordshire,6,5,0.1,0.08,96.76,80.63,83.33,6201
 E02005120,E07000113,South East,Sheppey East,Swale,9,7,0.1,0.08,104.94,81.62,77.78,8576
-E02005110,E07000112,South East,Lympne & Palmarsh,Folkestone and Hythe,7,6,0.1,0.09,100.55,86.18,85.71,6962
 E02004390,E07000063,South East,Seaford Eastbourne Road,Lewes,8,7,0.1,0.09,97.7,85.49,87.5,8188
 E02003433,E06000040,South East,Dedworth,Windsor and Maidenhead,7,6,0.1,0.09,104.38,89.47,85.71,6706

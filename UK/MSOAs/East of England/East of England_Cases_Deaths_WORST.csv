@@ -1,104 +1,105 @@
 MSOA11CD,LAD19CD,Region,MSOA_Name,Local_Authority,Cases,Deaths,%Infected,%Dead,Cases_100K,Deaths_100K,CFR%,Population
 E02005560,E07000146,East of England,Fairstead & Springwood,King's Lynn and West Norfolk,188,7,2.01,0.07,2012.2,74.92,3.72,9343
-E02003272,E06000032,East of England,Kingsway,Luton,188,11,1.81,0.11,1813.1,106.09,5.85,10369
+E02003272,E06000032,East of England,Kingsway,Luton,195,11,1.88,0.11,1880.61,106.09,5.64,10369
 E02003270,E06000032,East of England,Lewsey South,Luton,146,8,1.78,0.1,1782.44,97.67,5.48,8191
 E02003625,E06000055,East of England,Harpur,Bedford,133,25,1.53,0.29,1528.38,287.29,18.8,8702
 E02003761,E07000011,East of England,Huntingdon Hartford,Huntingdonshire,83,17,1.41,0.29,1413.25,289.46,20.48,5873
 E02003251,E06000031,East of England,Longthorpe & Netherton,Peterborough,93,9,1.28,0.12,1276.77,123.56,9.68,7284
-E02003630,E06000055,East of England,Cauldwell,Bedford,120,3,1.1,0.03,1095.99,27.4,2.5,10949
-E02003246,E06000031,East of England,Millfield & Bourges Boulevard,Peterborough,107,4,1.06,0.04,1064.15,39.78,3.74,10055
-E02003248,E06000031,East of England,Central Park,Peterborough,119,11,1.05,0.1,1054.87,97.51,9.24,11281
-E02003764,E07000011,East of England,Huntingdon Central & West,Huntingdonshire,107,9,1.02,0.09,1021.19,85.89,8.41,10478
-E02003268,E06000032,East of England,Challney,Luton,119,11,1.01,0.09,1011.05,93.46,9.24,11770
-E02003250,E06000031,East of England,Peterborough Central,Peterborough,125,7,1.01,0.06,1014.03,56.79,5.6,12327
+E02003630,E06000055,East of England,Cauldwell,Bedford,119,3,1.09,0.03,1086.86,27.4,2.52,10949
+E02003248,E06000031,East of England,Central Park,Peterborough,122,11,1.08,0.1,1081.46,97.51,9.02,11281
+E02003250,E06000031,East of England,Peterborough Central,Peterborough,133,7,1.08,0.06,1078.93,56.79,5.26,12327
+E02003246,E06000031,East of England,Millfield & Bourges Boulevard,Peterborough,108,4,1.07,0.04,1074.09,39.78,3.7,10055
+E02003764,E07000011,East of England,Huntingdon Central & West,Huntingdonshire,111,9,1.06,0.09,1059.36,85.89,8.11,10478
+E02003268,E06000032,East of England,Challney,Luton,120,11,1.02,0.09,1019.54,93.46,9.17,11770
 E02004581,E07000076,East of England,"Alresford, Great Bentley & Thorrington",Tendring,77,14,0.99,0.18,989.59,179.93,18.18,7781
 E02003252,E06000031,East of England,West Town & Woodston,Peterborough,120,8,0.96,0.06,963.86,64.26,6.67,12450
 E02005556,E07000146,East of England,Gaywood North Bank,King's Lynn and West Norfolk,70,13,0.95,0.18,952.12,176.82,18.57,7352
 E02003755,E07000011,East of England,Ramsey,Huntingdonshire,77,11,0.95,0.14,949.45,135.64,14.29,8110
 E02004494,E07000070,East of England,Central Chelmsford,Chelmsford,110,19,0.91,0.16,907.29,156.71,17.27,12124
+E02004978,E07000103,East of England,Holywell,Watford,83,24,0.9,0.26,899.14,259.99,28.92,9231
+E02003242,E06000031,East of England,Walton,Peterborough,72,4,0.9,0.05,900.11,50.01,5.56,7999
 E02005509,E07000143,East of England,Swaffham,Breckland,73,24,0.89,0.29,889.27,292.36,32.88,8209
+E02003628,E06000055,East of England,Queens Park,Bedford,82,9,0.88,0.1,880.58,96.65,10.98,9312
 E02004974,E07000103,East of England,Nascot Wood,Watford,75,34,0.85,0.39,850.82,385.71,45.33,8815
 E02003632,E06000055,East of England,Kempston Central & East,Bedford,51,5,0.85,0.08,849.58,83.29,9.8,6003
-E02004978,E07000103,East of England,Holywell,Watford,78,24,0.84,0.26,844.98,259.99,30.77,9231
+E02003629,E06000055,East of England,Kingsbrook,Bedford,86,8,0.84,0.08,844.13,78.52,9.3,10188
 E02003261,E06000032,East of England,Warden Hill,Luton,50,17,0.83,0.28,827.4,281.32,34.0,6043
 E02003624,E06000055,East of England,De Parys,Bedford,48,15,0.83,0.26,827.02,258.44,31.25,5804
 E02003633,E06000055,East of England,Kempston West & South,Bedford,80,10,0.83,0.1,825.85,103.23,12.5,9687
-E02003628,E06000055,East of England,Queens Park,Bedford,76,9,0.82,0.1,816.15,96.65,11.84,9312
 E02004486,E07000070,East of England,South Broomfield,Chelmsford,72,7,0.82,0.08,821.26,79.84,9.72,8767
 E02004578,E07000076,East of England,Walton & Frinton Coastal,Tendring,59,25,0.81,0.34,806.56,341.76,42.37,7315
-E02003629,E06000055,East of England,Kingsbrook,Bedford,82,8,0.8,0.08,804.87,78.52,9.76,10188
+E02003627,E06000055,East of England,Castle & Kingsway,Bedford,83,13,0.81,0.13,805.67,126.19,15.66,10302
 E02006254,E07000202,East of England,Gipping & Chantry Park,Ipswich,75,8,0.79,0.08,785.5,83.79,10.67,9548
 E02003749,E07000010,East of England,"Coates, Benwick & Pondersbridge",Fenland,47,7,0.78,0.12,778.79,115.99,14.89,6035
-E02003627,E06000055,East of England,Castle & Kingsway,Bedford,79,13,0.77,0.13,766.84,126.19,16.46,10302
 E02003245,E06000031,East of England,North Bretton & Westwood,Peterborough,61,1,0.77,0.01,772.64,12.67,1.64,7895
 E02005559,E07000146,East of England,Gaywood Chase & Old Gaywood,King's Lynn and West Norfolk,56,11,0.76,0.15,764.09,150.09,19.64,7329
 E02004977,E07000103,East of England,West Watford,Watford,66,7,0.75,0.08,745.43,79.06,10.61,8854
 E02003760,E07000011,East of England,Huntingdon Sapley & Oxmoor,Huntingdonshire,70,6,0.75,0.06,751.8,64.44,8.57,9311
+E02004905,E07000098,East of England,Elstree & Aldenham,Hertsmere,49,15,0.74,0.23,743.1,227.48,30.61,6594
 E02004438,E07000066,East of England,Basildon Central & Pipps Hill,Basildon,71,20,0.74,0.21,737.89,207.86,28.17,9622
 E02003247,E06000031,East of England,Bretton Park,Peterborough,62,15,0.74,0.18,741.27,179.34,24.19,8364
 E02004547,E07000073,East of England,Little Parndon & Hare Street,Harlow,68,4,0.74,0.04,742.44,43.67,5.88,9159
-E02004905,E07000098,East of England,Elstree & Aldenham,Hertsmere,48,15,0.73,0.23,727.93,227.48,31.25,6594
 E02004509,E07000071,East of England,Mile End & Braiswick,Colchester,102,3,0.72,0.02,724.48,21.31,2.94,14079
-E02003242,E06000031,East of England,Walton,Peterborough,57,4,0.71,0.05,712.59,50.01,7.02,7999
+E02003620,E06000055,East of England,Brickhill,Bedford,57,10,0.71,0.12,710.72,124.69,17.54,8020
+E02003274,E06000032,East of England,Bury Park,Luton,79,17,0.7,0.15,697.2,150.03,21.52,11331
 E02004968,E07000103,East of England,Woodside & Leavesden Green,Watford,51,11,0.69,0.15,691.15,149.07,21.57,7379
 E02003648,E06000056,East of England,Dunstable Manshead,Central Bedfordshire,39,8,0.69,0.14,688.07,141.14,20.51,5668
+E02003266,E06000032,East of England,Lewsey North,Luton,64,11,0.69,0.12,691.07,118.78,17.19,9261
 E02006314,E07000244,East of England,Bungay & the Saints,East Suffolk,51,6,0.69,0.08,688.63,81.02,11.76,7406
 E02004912,E07000099,East of England,Baldock,North Hertfordshire,72,21,0.68,0.2,680.79,198.56,29.17,10576
 E02006311,E07000244,East of England,Beccles,East Suffolk,57,14,0.67,0.17,674.96,165.78,24.56,8445
-E02003274,E06000032,East of England,Bury Park,Luton,76,17,0.67,0.15,670.73,150.03,22.37,11331
 E02003740,E07000009,East of England,Swaffham & Bottisham,East Cambridgeshire,42,19,0.66,0.3,664.35,300.54,45.24,6322
 E02006256,E07000202,East of England,"Maidenhall, Stoke & Port",Ipswich,64,11,0.66,0.11,658.3,113.15,17.19,9722
+E02003262,E06000032,East of England,Leagrave,Luton,67,9,0.66,0.09,664.55,89.27,13.43,10082
 E02004533,E07000072,East of England,Waltham Abbey North,Epping Forest,48,20,0.65,0.27,645.42,268.93,41.67,7437
 E02006258,E07000202,East of England,Priory Heath,Ipswich,60,14,0.65,0.15,646.83,150.93,23.33,9276
-E02003266,E06000032,East of England,Lewsey North,Luton,60,11,0.65,0.12,647.88,118.78,18.33,9261
+E02003264,E06000032,East of England,Barnfield,Luton,61,11,0.65,0.12,651.36,117.46,18.03,9365
 E02006303,E07000244,East of England,Gunton West,East Suffolk,52,16,0.64,0.2,638.74,196.54,30.77,8141
+E02004945,E07000243,East of England,Woodfield & Old Town,Stevenage,79,22,0.64,0.18,642.96,179.05,27.85,12287
 E02003750,E07000010,East of England,March West,Fenland,48,13,0.64,0.17,639.91,173.31,27.08,7501
 E02004454,E07000067,East of England,Central Braintree,Braintree,60,7,0.64,0.07,641.85,74.88,11.67,9348
+E02003249,E06000031,East of England,Fengate & Parnwell,Peterborough,77,8,0.64,0.07,639.11,66.4,10.39,12048
 E02003634,E06000055,East of England,"Elstow, Shortstown & Wixams",Bedford,82,5,0.64,0.04,644.4,39.29,6.1,12725
 E02005548,E07000145,East of England,Gorleston West,Great Yarmouth,47,1,0.64,0.01,641.73,13.65,2.13,7324
 E02004889,E07000242,East of England,Ware East,East Hertfordshire,72,24,0.63,0.21,627.83,209.28,33.33,11468
-E02003262,E06000032,East of England,Leagrave,Luton,64,9,0.63,0.09,634.79,89.27,14.06,10082
-E02004945,E07000243,East of England,Woodfield & Old Town,Stevenage,76,22,0.62,0.18,618.54,179.05,28.95,12287
+E02003631,E06000055,East of England,Kempston North,Bedford,35,6,0.63,0.11,632.8,108.48,17.14,5531
 E02005553,E07000146,East of England,Heacham & Snettisham,King's Lynn and West Norfolk,54,10,0.62,0.12,622.26,115.23,18.52,8678
-E02003264,E06000032,East of England,Barnfield,Luton,58,11,0.62,0.12,619.33,117.46,18.97,9365
 E02003621,E06000055,East of England,Putnoe,Bedford,48,5,0.62,0.06,616.49,64.22,10.42,7786
-E02003249,E06000031,East of England,Fengate & Parnwell,Peterborough,74,8,0.61,0.07,614.21,66.4,10.81,12048
+E02003773,E07000011,East of England,St Neots Eynesbury,Huntingdonshire,66,8,0.61,0.07,605.73,73.42,12.12,10896
 E02006877,E06000031,East of England,Hargate & Orton Longueville,Peterborough,58,6,0.61,0.06,611.56,63.26,10.34,9484
+E02003255,E06000031,East of England,Stanground,Peterborough,69,5,0.6,0.04,603.2,43.71,7.25,11439
+E02004966,E07000102,East of England,Moor Park & Batchworth,Three Rivers,44,21,0.59,0.28,588.94,281.09,47.73,7471
 E02005608,E07000149,East of England,"Hempnall, Ditchingham & Wortwell",South Norfolk,46,18,0.59,0.23,592.17,231.72,39.13,7768
-E02003620,E06000055,East of England,Brickhill,Bedford,47,10,0.59,0.12,586.03,124.69,21.28,8020
-E02005572,E07000147,East of England,Cromer,North Norfolk,45,10,0.58,0.13,582.3,129.4,22.22,7728
+E02003267,E06000032,East of England,Montrose Avenue,Luton,81,10,0.59,0.07,586.4,72.4,12.35,13813
 E02006252,E07000202,East of England,California,Ipswich,53,11,0.58,0.12,583.83,121.17,20.75,9078
-E02003631,E06000055,East of England,Kempston North,Bedford,32,6,0.58,0.11,578.56,108.48,18.75,5531
 E02005555,E07000146,East of England,Wootton,King's Lynn and West Norfolk,40,7,0.58,0.1,576.95,100.97,17.5,6933
 E02004443,E07000066,East of England,Lee Chapel South & Kingswood,Basildon,56,9,0.58,0.09,582.42,93.6,16.07,9615
-E02003773,E07000011,East of England,St Neots Eynesbury,Huntingdonshire,63,8,0.58,0.07,578.19,73.42,12.7,10896
-E02003255,E06000031,East of England,Stanground,Peterborough,66,5,0.58,0.04,576.97,43.71,7.58,11439
 E02006250,E07000202,East of England,Westgate,Ipswich,63,15,0.57,0.14,574.92,136.89,23.81,10958
+E02005572,E07000147,East of England,Cromer,North Norfolk,44,10,0.57,0.13,569.36,129.4,22.73,7728
+E02003619,E06000055,East of England,"Wyboston, Great Barford & Cople",Bedford,66,12,0.57,0.1,565.07,102.74,18.18,11680
 E02003622,E06000055,East of England,Goldington,Bedford,52,8,0.57,0.09,571.43,87.91,15.38,9100
 E02006261,E07000203,East of England,"Eye, Palgrave & Occold",Mid Suffolk,46,5,0.57,0.06,573.35,62.32,10.87,8023
+E02006874,E07000012,East of England,"Papworth, Caxton & Fen Drayton",South Cambridgeshire,55,5,0.57,0.05,568.18,51.65,9.09,9680
 E02004573,E07000076,East of England,Harwich Town & Dovercourt,Tendring,37,9,0.56,0.14,556.06,135.26,24.32,6654
 E02003607,E06000056,East of England,"Marston Moretaine, Lidlington & Woburn",Central Bedfordshire,57,12,0.56,0.12,562.74,118.47,21.05,10129
-E02003619,E06000055,East of England,"Wyboston, Great Barford & Cople",Bedford,65,12,0.56,0.1,556.51,102.74,18.46,11680
-E02003267,E06000032,East of England,Montrose Avenue,Luton,78,10,0.56,0.07,564.69,72.4,12.82,13813
-E02004966,E07000102,East of England,Moor Park & Batchworth,Three Rivers,41,21,0.55,0.28,548.79,281.09,51.22,7471
 E02003263,E06000032,East of England,Limbury,Luton,66,11,0.55,0.09,545.41,90.9,16.67,12101
+E02004440,E07000066,East of England,Laindon East & Lee Chapel North,Basildon,46,7,0.55,0.08,548.66,83.49,15.22,8384
 E02003275,E06000032,East of England,Central Luton & Park Town,Luton,85,13,0.55,0.08,547.5,83.74,15.29,15525
 E02004908,E07000098,East of England,Bushey Heath,Hertsmere,53,26,0.54,0.27,541.92,265.85,49.06,9780
+E02003290,E06000033,East of England,Chalkwell,Southend-on-Sea,57,24,0.54,0.23,542.96,228.61,42.11,10498
 E02003600,E06000056,East of England,Sandy South,Central Bedfordshire,36,10,0.54,0.15,539.33,149.81,27.78,6675
 E02004544,E07000073,East of England,Old Harlow & Newhall,Harlow,46,8,0.54,0.09,537.07,93.4,17.39,8565
+E02004463,E07000067,East of England,"Witham South, Hatfield Peverel & White Notley",Braintree,43,15,0.53,0.19,533.43,186.08,34.88,8061
 E02004550,E07000073,East of England,Passmores & The High,Harlow,44,12,0.53,0.14,525.69,143.37,27.27,8370
 E02003758,E07000011,East of England,"Somersham, Riptons & Raveleys",Huntingdonshire,51,9,0.53,0.09,531.8,93.85,17.65,9590
 E02004853,E07000095,East of England,Churchgate,Broxbourne,35,5,0.53,0.08,532.16,76.02,14.29,6577
-E02006874,E07000012,East of England,"Papworth, Caxton & Fen Drayton",South Cambridgeshire,51,5,0.53,0.05,526.86,51.65,9.8,9680
 E02004863,E07000096,East of England,Highfield,Dacorum,41,17,0.52,0.21,516.96,214.35,41.46,7931
 E02004471,E07000068,East of England,Brentwood South & Warley,Brentwood,44,17,0.52,0.2,523.93,202.43,38.64,8398
-E02004463,E07000067,East of England,"Witham South, Hatfield Peverel & White Notley",Braintree,42,15,0.52,0.19,521.03,186.08,35.71,8061
 E02006269,E07000203,East of England,"Stowmarket Outer, Finborough & Battisford",Mid Suffolk,38,13,0.52,0.18,522.41,178.72,34.21,7274
 E02004580,E07000076,East of England,Frinton West & Kirby,Tendring,63,19,0.52,0.16,522.04,157.44,30.16,12068
 E02006231,E07000200,East of England,"Sproughton, Washbrook & Hintlesham",Babergh,45,10,0.52,0.12,520.29,115.62,22.22,8649
 E02004436,E07000066,East of England,Chalvedon,Basildon,43,8,0.52,0.1,516.08,96.02,18.6,8332
 E02005558,E07000146,East of England,Terrington & Clenchwarton,King's Lynn and West Norfolk,37,6,0.52,0.08,522.82,84.78,16.22,7077
-E02003290,E06000033,East of England,Chalkwell,Southend-on-Sea,54,24,0.51,0.23,514.38,228.61,44.44,10498
 E02003604,E06000056,East of England,Biggleswade East,Central Bedfordshire,52,11,0.51,0.11,509.9,107.86,21.15,10198
 E02005561,E07000146,East of England,"Town, South Lynn & West Lynn",King's Lynn and West Norfolk,56,9,0.51,0.08,505.37,81.22,16.07,11081
 E02004434,E07000066,East of England,Felmore & Bowers Gifford,Basildon,44,15,0.5,0.17,503.2,171.55,34.09,8744
@@ -106,17 +107,17 @@ E02004504,E07000070,East of England,South Woodham Ferrers South,Chelmsford,40,14
 E02004943,E07000240,East of England,Bricket Wood & Chiswell Green,St Albans,39,12,0.5,0.15,500.26,153.93,30.77,7796
 E02006276,E07000245,East of England,"Fornham, Great Barton & Rougham",West Suffolk,33,10,0.5,0.15,499.55,151.38,30.3,6606
 E02004934,E07000240,East of England,Clarence Park,St Albans,40,10,0.5,0.12,496.71,124.18,25.0,8053
-E02004440,E07000066,East of England,Laindon East & Lee Chapel North,Basildon,42,7,0.5,0.08,500.95,83.49,16.67,8384
+E02003259,E06000032,East of England,Sundon Park,Luton,31,7,0.5,0.11,500.97,113.12,22.58,6188
+E02003623,E06000055,East of England,Bromham & Biddenham,Bedford,52,10,0.5,0.1,502.61,96.66,19.23,10346
 E02004598,E07000077,East of England,"Flitch Green, Felsted & High Easter",Uttlesford,56,8,0.5,0.07,501.75,71.68,14.29,11161
+E02003277,E06000032,East of England,Farley Hill & Stockwood Park,Luton,55,7,0.5,0.06,496.12,63.14,12.73,11086
 E02003748,E07000010,East of England,March East,Fenland,38,9,0.49,0.11,485.37,114.96,23.68,7829
 E02004991,E07000241,East of England,Hatfield Town,Welwyn Hatfield,44,8,0.49,0.09,489.76,89.05,18.18,8984
 E02005526,E07000144,East of England,Drayton & Thorpe Marriott,Broadland,26,4,0.49,0.07,485.98,74.77,15.38,5350
 E02003645,E06000056,East of England,Dunstable East,Central Bedfordshire,34,5,0.49,0.07,485.09,71.34,14.71,7009
-E02003277,E06000032,East of England,Farley Hill & Stockwood Park,Luton,54,7,0.49,0.06,487.1,63.14,12.96,11086
 E02006878,E06000031,East of England,Hampton Vale,Peterborough,53,5,0.49,0.05,485.93,45.84,9.43,10907
 E02003647,E06000056,East of England,Dunstable Central,Central Bedfordshire,48,17,0.48,0.17,483.38,171.2,35.42,9930
 E02004989,E07000241,East of England,Hatfield North & West,Welwyn Hatfield,69,16,0.48,0.11,477.38,110.7,23.19,14454
-E02003623,E06000055,East of England,Bromham & Biddenham,Bedford,50,10,0.48,0.1,483.28,96.66,20.0,10346
 E02003744,E07000010,East of England,Wisbech South & Peckover,Fenland,68,9,0.48,0.06,479.51,63.47,13.24,14181
 E02005547,E07000145,East of England,Gorleston South & Beach,Great Yarmouth,42,3,0.48,0.03,477.38,34.1,7.14,8798
 E02003243,E06000031,East of England,Paston,Peterborough,51,0,0.48,0.0,482.77,0.0,0.0,10564
@@ -124,43 +125,43 @@ E02005535,E07000144,East of England,Thorpe St Andrew South & Dussindale,Broadlan
 E02004488,E07000070,East of England,Springfield North,Chelmsford,42,10,0.47,0.11,467.19,111.23,23.81,8990
 E02003618,E06000055,East of England,"Clapham, Oakley & Thurleigh",Bedford,41,5,0.47,0.06,469.11,57.21,12.2,8740
 E02005588,E07000148,East of England,Bowthorpe & West Earlham,Norwich,57,6,0.47,0.05,470.3,49.5,10.53,12120
+E02003747,E07000010,East of England,Whittlesey,Fenland,55,5,0.47,0.04,468.32,42.57,9.09,11744
 E02004428,E07000066,East of England,Wickford North East,Basildon,32,12,0.46,0.17,462.29,173.36,37.5,6922
 E02004549,E07000073,East of England,Bush Fair & Brays Grove,Harlow,36,8,0.46,0.1,458.25,101.83,22.22,7856
 E02003644,E06000056,East of England,Houghton Regis South,Central Bedfordshire,45,9,0.46,0.09,459.32,91.86,20.0,9797
+E02004523,E07000071,East of England,Monkwick,Colchester,47,2,0.46,0.02,457.11,19.45,4.26,10282
 E02003257,E06000031,East of England,Orton Malborne & Goldhay,Peterborough,41,2,0.46,0.02,458.92,22.39,4.88,8934
 E02004901,E07000098,East of England,Borehamwood Cowley Hill,Hertsmere,40,24,0.45,0.27,447.48,268.49,60.0,8939
 E02004588,E07000076,East of England,Clacton Central,Tendring,32,9,0.45,0.13,447.8,125.94,28.12,7146
 E02004490,E07000070,East of England,Melbourne,Chelmsford,37,9,0.45,0.11,451.27,109.77,24.32,8199
-E02003259,E06000032,East of England,Sundon Park,Luton,28,7,0.45,0.11,452.49,113.12,25.0,6188
 E02003258,E06000032,East of England,Bramingham,Luton,37,6,0.45,0.07,445.03,72.17,16.22,8314
 E02003276,E06000032,East of England,Dallow Road,Luton,41,6,0.45,0.07,445.36,65.17,14.63,9206
 E02004976,E07000103,East of England,Central Watford,Watford,47,7,0.45,0.07,453.84,67.59,14.89,10356
-E02003626,E06000055,East of England,Newnham,Bedford,24,3,0.45,0.06,446.35,55.79,12.5,5377
 E02003241,E06000031,East of England,Eye & Thorney,Peterborough,29,4,0.45,0.06,446.43,61.58,13.79,6496
 E02006247,E07000202,East of England,Whitehouse,Ipswich,41,3,0.45,0.03,454.29,33.24,7.32,9025
-E02004523,E07000071,East of England,Monkwick,Colchester,46,2,0.45,0.02,447.38,19.45,4.35,10282
 E02004868,E07000096,East of England,Maylands & Adeyfield,Dacorum,30,16,0.44,0.23,437.06,233.1,53.33,6864
 E02003603,E06000056,East of England,Biggleswade West,Central Bedfordshire,47,19,0.44,0.18,435.79,176.17,40.43,10785
 E02005539,E07000145,East of England,"Fleggburgh, Rollesby & Martham",Great Yarmouth,33,13,0.44,0.17,435.07,171.39,39.39,7585
 E02004570,E07000075,East of England,Rayleigh South West,Rochford,39,13,0.44,0.15,437.61,145.87,33.33,8912
 E02004479,E07000069,East of England,South Benfleet,Castle Point,37,12,0.44,0.14,441.47,143.18,32.43,8381
 E02004595,E07000077,East of England,Stansted Mountfitchet & Elsenham,Uttlesford,61,20,0.44,0.14,439.73,144.18,32.79,13872
-E02003282,E06000033,East of England,Prittlewell,Southend-on-Sea,47,14,0.44,0.13,442.31,131.75,29.79,10626
 E02006253,E07000202,East of England,Broke Hall,Ipswich,31,7,0.44,0.1,441.34,99.66,22.58,7024
 E02004456,E07000067,East of England,Braintree South,Braintree,44,5,0.44,0.05,441.72,50.2,11.36,9961
-E02003747,E07000010,East of England,Whittlesey,Fenland,52,5,0.44,0.04,442.78,42.57,9.62,11744
 E02004507,E07000071,East of England,Highwoods,Colchester,44,1,0.44,0.01,437.29,9.94,2.27,10062
 E02004543,E07000072,East of England,Grange Hill,Epping Forest,31,19,0.43,0.26,426.76,261.56,61.29,7264
-E02003762,E07000011,East of England,"Brampton, the Stukeleys and the Alconburys",Huntingdonshire,39,8,0.43,0.09,431.03,88.42,20.51,9048
+E02003282,E06000033,East of England,Prittlewell,Southend-on-Sea,46,14,0.43,0.13,432.9,131.75,30.43,10626
 E02003635,E06000055,East of England,Wootton & Stewartby,Bedford,30,3,0.43,0.04,427.11,42.71,10.0,7024
 E02005525,E07000144,East of England,Taverham,Broadland,44,4,0.43,0.04,430.02,39.09,9.09,10232
+E02003244,E06000031,East of England,Dogsthorpe,Peterborough,40,1,0.43,0.01,430.76,10.77,2.5,9286
 E02004535,E07000072,East of England,Waltham Abbey West & Outer,Epping Forest,25,20,0.42,0.34,422.37,337.89,80.0,5919
 E02004567,E07000075,East of England,Rayleigh North East,Rochford,35,12,0.42,0.15,423.52,145.21,34.29,8264
 E02004959,E07000102,East of England,Rickmansworth North & Loudwater,Three Rivers,26,9,0.42,0.15,422.42,146.22,34.62,6155
+E02004590,E07000076,East of England,Jaywick & St Osyth,Tendring,35,10,0.42,0.12,417.31,119.23,28.57,8387
 E02004444,E07000066,East of England,Langdon Hills,Basildon,39,10,0.42,0.11,423.91,108.7,25.64,9200
+E02003762,E07000011,East of England,"Brampton, the Stukeleys and the Alconburys",Huntingdonshire,38,8,0.42,0.09,419.98,88.42,21.05,9048
 E02004906,E07000098,East of England,Borehamwood Hillside,Hertsmere,43,8,0.42,0.08,418.45,77.85,18.6,10276
+E02003313,E06000034,East of England,Tilbury,Thurrock,60,11,0.42,0.08,416.23,76.31,18.33,14415
 E02006286,E07000245,East of England,Haverhill East & South,West Suffolk,50,10,0.42,0.08,423.91,84.78,20.0,11795
-E02004590,E07000076,East of England,Jaywick & St Osyth,Tendring,34,10,0.41,0.12,405.39,119.23,29.41,8387
 E02004990,E07000241,East of England,Hatfield East,Welwyn Hatfield,30,9,0.41,0.12,413.91,124.17,30.0,7248
 E02004920,E07000099,East of England,Hitchin Town & West,North Hertfordshire,48,10,0.41,0.09,414.62,86.38,20.83,11577
 E02004967,E07000102,East of England,South Oxhey,Three Rivers,32,6,0.41,0.08,411.52,77.16,18.75,7776
@@ -171,11 +172,13 @@ E02004597,E07000077,East of England,Great Dunmow,Uttlesford,32,18,0.4,0.22,395.1
 E02005567,E07000146,East of England,Downham Market,King's Lynn and West Norfolk,44,14,0.4,0.13,402.64,128.11,31.82,10928
 E02003273,E06000032,East of England,St Anns Hill,Luton,44,8,0.4,0.07,403.23,73.31,18.18,10912
 E02003753,E07000011,East of England,Yaxley & Farcet,Huntingdonshire,45,3,0.4,0.03,396.93,26.46,6.67,11337
-E02004524,E07000071,East of England,"Layer-de-la-Haye, Abberton & Mersea East",Colchester,33,10,0.39,0.12,389.38,117.99,30.3,8475
 E02004551,E07000073,East of England,Potter Street,Harlow,29,9,0.39,0.12,390.62,121.23,31.03,7424
 E02003296,E06000034,East of England,Corringham North & London Gateway,Thurrock,27,8,0.39,0.11,387.21,114.73,29.63,6973
-E02003244,E06000031,East of England,Dogsthorpe,Peterborough,36,1,0.39,0.01,387.68,10.77,2.78,9286
+E02003626,E06000055,East of England,Newnham,Bedford,21,3,0.39,0.06,390.55,55.79,14.29,5377
+E02003287,E06000033,East of England,Southchurch,Southend-on-Sea,38,18,0.38,0.18,376.27,178.24,47.37,10099
+E02004524,E07000071,East of England,"Layer-de-la-Haye, Abberton & Mersea East",Colchester,32,10,0.38,0.12,377.58,117.99,31.25,8475
 E02006292,E07000244,East of England,"Westerfield, Grundisburgh & Bredfield",East Suffolk,26,8,0.38,0.12,378.29,116.4,30.77,6873
+E02003288,E06000033,East of England,Victoria,Southend-on-Sea,47,15,0.38,0.12,379.37,121.08,31.91,12389
 E02006308,E07000244,East of England,Lowestoft Harbour & Kirkley,East Suffolk,29,8,0.38,0.1,378.0,104.28,27.59,7672
 E02003307,E06000034,East of England,Chadwell St Mary,Thurrock,39,10,0.38,0.1,379.6,97.33,25.64,10274
 E02004441,E07000066,East of England,Eversley,Basildon,29,7,0.38,0.09,377.8,91.19,24.14,7676
@@ -185,12 +188,11 @@ E02003281,E06000033,East of England,Belfairs,Southend-on-Sea,36,16,0.37,0.17,372
 E02004874,E07000096,East of England,Corner Hall,Dacorum,23,9,0.37,0.15,371.57,145.4,39.13,6190
 E02006237,E07000200,East of England,Shotley Peninsula,Babergh,28,11,0.37,0.14,365.44,143.57,39.29,7662
 E02006306,E07000244,East of England,Normanston & Oulton Broad East,East Suffolk,28,9,0.37,0.12,374.88,120.5,32.14,7469
-E02003288,E06000033,East of England,Victoria,Southend-on-Sea,46,15,0.37,0.12,371.3,121.08,32.61,12389
 E02004586,E07000076,East of England,Clacton East,Tendring,31,10,0.37,0.12,370.5,119.52,32.26,8367
 E02004941,E07000240,East of England,London Colney,St Albans,36,10,0.37,0.1,366.08,101.69,27.78,9834
 E02006257,E07000202,East of England,Belstead Hills,Ipswich,24,6,0.37,0.09,368.78,92.19,25.0,6508
 E02005533,E07000144,East of England,"Blofield, Lingwood & Upton",Broadland,32,7,0.37,0.08,368.92,80.7,21.88,8674
-E02003313,E06000034,East of England,Tilbury,Thurrock,53,11,0.37,0.08,367.67,76.31,20.75,14415
+E02004870,E07000096,East of England,Hemel Hempstead Town,Dacorum,42,9,0.37,0.08,369.62,79.2,21.43,11363
 E02004467,E07000068,East of England,Brentwood North,Brentwood,31,6,0.37,0.07,372.69,72.13,19.35,8318
 E02004946,E07000243,East of England,Martins Wood,Stevenage,23,4,0.37,0.06,365.6,63.58,17.39,6291
 E02003602,E06000056,East of England,"Blunham, Caldecote & Broom",Central Bedfordshire,22,9,0.36,0.15,361.72,147.98,40.91,6082
@@ -202,10 +204,8 @@ E02005522,E07000144,East of England,"Coltishall, Buxton & Frettenham",Broadland,
 E02004951,E07000243,East of England,Bedwell,Stevenage,28,4,0.36,0.05,364.63,52.09,14.29,7679
 E02004589,E07000076,East of England,Clacton West,Tendring,28,4,0.36,0.05,364.44,52.06,14.29,7683
 E02006246,E07000202,East of England,Castle Hill,Ipswich,25,15,0.35,0.21,353.41,212.04,60.0,7074
-E02003287,E06000033,East of England,Southchurch,Southend-on-Sea,35,18,0.35,0.18,346.57,178.24,51.43,10099
 E02006304,E07000244,East of England,Oulton,East Suffolk,27,12,0.35,0.16,352.43,156.64,44.44,7661
 E02004452,E07000067,East of England,Bocking Churchstreet & Blackwater,Braintree,33,14,0.35,0.15,352.94,149.73,42.42,9350
-E02003298,E06000034,East of England,Stanford East,Thurrock,24,10,0.35,0.15,352.11,146.71,41.67,6816
 E02003609,E06000056,East of England,Shefford & Shillington,Central Bedfordshire,40,15,0.35,0.13,348.19,130.57,37.5,11488
 E02004965,E07000102,East of England,Carpenders Park,Three Rivers,24,9,0.35,0.13,348.18,130.57,37.5,6893
 E02006305,E07000244,East of England,Lowestoft Central,East Suffolk,35,12,0.35,0.12,349.86,119.95,34.29,10004
@@ -218,7 +218,7 @@ E02004541,E07000072,East of England,Buckhurst Hill,Epping Forest,40,19,0.34,0.16
 E02004907,E07000098,East of England,Bushey Central,Hertsmere,34,15,0.34,0.15,339.49,149.78,44.12,10015
 E02006922,E07000071,East of England,Parson's Heath,Colchester,48,14,0.34,0.1,343.5,100.19,29.17,13974
 E02005562,E07000146,East of England,"Grimston, Gayton & East Winch",King's Lynn and West Norfolk,24,7,0.34,0.1,335.85,97.96,29.17,7146
-E02004870,E07000096,East of England,Hemel Hempstead Town,Dacorum,39,9,0.34,0.08,343.22,79.2,23.08,11363
+E02003293,E06000033,East of England,Southend Central,Southend-on-Sea,39,19,0.33,0.16,332.23,161.85,48.72,11739
 E02006272,E07000203,East of England,Claydon & Bramford,Mid Suffolk,25,11,0.33,0.15,331.56,145.89,44.0,7540
 E02004531,E07000072,East of England,Epping North,Epping Forest,23,9,0.33,0.13,327.78,128.26,39.13,7017
 E02004538,E07000072,East of England,Loughton North,Epping Forest,32,13,0.33,0.13,326.76,132.75,40.62,9793
@@ -229,8 +229,7 @@ E02005574,E07000147,East of England,"Overstrand, Roughton & the Runtons",North N
 E02003785,E07000012,East of England,Fulbourn & Teversham,South Cambridgeshire,30,3,0.33,0.03,332.01,33.2,10.0,9036
 E02004896,E07000098,East of England,Potters Bar Parkfield,Hertsmere,27,30,0.32,0.36,324.75,360.84,111.11,8314
 E02004451,E07000067,East of England,Halstead East & Colnes,Braintree,28,16,0.32,0.18,321.32,183.61,57.14,8714
-E02004517,E07000071,East of England,Stanway,Colchester,29,15,0.32,0.17,322.9,167.02,51.72,8981
-E02003293,E06000033,East of England,Southend Central,Southend-on-Sea,37,19,0.32,0.16,315.19,161.85,51.35,11739
+E02004493,E07000070,East of England,Waterhouse Lane & Admirals Park,Chelmsford,34,12,0.32,0.11,322.83,113.94,35.29,10532
 E02005551,E07000146,East of England,Hunstanton,King's Lynn and West Norfolk,17,6,0.32,0.11,323.5,114.18,35.29,5255
 E02004975,E07000103,East of England,Cassiobury,Watford,26,8,0.32,0.1,321.9,99.05,30.77,8077
 E02006278,E07000245,East of England,Bury St Edmunds Central,West Suffolk,28,9,0.32,0.1,318.8,102.47,32.14,8783
@@ -239,13 +238,14 @@ E02004957,E07000102,East of England,Leavesden & Garston Manor,Three Rivers,33,8,
 E02004466,E07000068,East of England,Hutton,Brentwood,26,6,0.32,0.07,316.84,73.12,23.08,8206
 E02004577,E07000076,East of England,Elmstead Market & Ardleigh,Tendring,18,4,0.32,0.07,321.49,71.44,22.22,5599
 E02004979,E07000103,East of England,Oxhey,Watford,22,4,0.32,0.06,321.31,58.42,18.18,6847
-E02004430,E07000066,East of England,Wickford Shotgate,Basildon,26,3,0.32,0.04,316.3,36.5,11.54,8220
+E02003278,E06000032,East of England,New Town,Luton,45,7,0.32,0.05,323.9,50.39,15.56,13893
 E02004944,E07000243,East of England,St Nicholas,Stevenage,24,3,0.32,0.04,316.04,39.5,12.5,7594
+E02004517,E07000071,East of England,Stanway,Colchester,28,15,0.31,0.17,311.77,167.02,53.57,8981
 E02003279,E06000033,East of England,Eastwood Park,Southend-on-Sea,29,14,0.31,0.15,305.26,147.37,48.28,9500
+E02003298,E06000034,East of England,Stanford East,Thurrock,21,10,0.31,0.15,308.1,146.71,47.62,6816
 E02003294,E06000033,East of England,Thorpe Bay,Southend-on-Sea,29,11,0.31,0.12,311.53,118.17,37.93,9309
 E02005527,E07000144,East of England,"Wroxham, Rackheath & the Plumsteads",Broadland,27,9,0.31,0.1,306.71,102.24,33.33,8803
+E02003269,E06000032,East of England,Stopsley South & Round Green,Luton,32,10,0.31,0.1,307.66,96.14,31.25,10401
 E02004949,E07000243,East of England,Pin Green,Stevenage,27,9,0.31,0.1,306.75,102.25,33.33,8802
 E02004474,E07000069,East of England,New Thundersley,Castle Point,24,3,0.31,0.04,312.17,39.02,12.5,7688
 E02004885,E07000242,East of England,Bishop's Stortford South,East Hertfordshire,27,0,0.31,0.0,312.61,0.0,0.0,8637
-E02003719,E07000008,East of England,Kings Hedges,Cambridge,25,25,0.3,0.3,296.63,296.63,100.0,8428
-E02004904,E07000098,East of England,Borehamwood Kenilworth,Hertsmere,19,11,0.3,0.17,299.17,173.2,57.89,6351

@@ -26,7 +26,6 @@ E02000755,E09000026,London,Woodford Bridge,Redbridge,3,6,0.05,0.11,53.79,107.58,
 E02000799,E09000027,London,Strawberry Hill,Richmond upon Thames,3,7,0.05,0.11,46.83,109.27,233.33,6406
 E02000559,E09000019,London,Gillespie Road,Islington,6,2,0.06,0.02,57.01,19.0,33.33,10524
 E02000189,E09000007,London,Gray's Inn Road,Camden,4,3,0.06,0.04,56.47,42.35,75.0,7083
-E02000050,E09000003,London,Fallow Corner,Barnet,7,7,0.06,0.06,64.19,64.19,100.0,10905
 E02000416,E09000014,London,Hornsey East,Haringey,5,6,0.06,0.07,62.31,74.78,120.0,8024
 E02000418,E09000014,London,Hornsey West,Haringey,3,5,0.06,0.09,55.28,92.13,166.67,5427
 E02000794,E09000027,London,Twickenham North,Richmond upon Thames,4,6,0.06,0.09,57.23,85.85,150.0,6989
@@ -51,6 +50,7 @@ E02000886,E09000030,London,Limehouse East,Tower Hamlets,8,2,0.09,0.02,87.29,21.8
 E02000774,E09000026,London,Seven Kings Meads Lane,Redbridge,7,2,0.09,0.03,92.34,26.38,28.57,7581
 E02000787,E09000027,London,North Sheen,Richmond upon Thames,11,3,0.09,0.03,91.9,25.06,27.27,11970
 E02000931,E09000032,London,Clapham Common West,Wandsworth,9,5,0.09,0.05,94.05,52.25,55.56,9569
+E02000050,E09000003,London,Fallow Corner,Barnet,10,7,0.09,0.06,91.7,64.19,70.0,10905
 E02000046,E09000003,London,Church End,Barnet,7,5,0.09,0.07,92.32,65.95,71.43,7582
 E02000052,E09000003,London,East Finchley,Barnet,10,7,0.09,0.07,94.46,66.13,70.0,10586
 E02000587,E09000020,London,Kensington Abingdon,Kensington and Chelsea,7,5,0.09,0.07,94.16,67.26,71.43,7434
@@ -59,7 +59,6 @@ E02000397,E09000014,London,Bowes Park,Haringey,8,8,0.09,0.09,93.25,93.25,100.0,8
 E02000556,E09000019,London,Tollington,Islington,10,10,0.09,0.09,87.68,87.68,100.0,11405
 E02000405,E09000014,London,Alexandra Park,Haringey,6,8,0.09,0.12,92.36,123.15,133.33,6496
 E02000393,E09000013,London,Munster,Hammersmith and Fulham,6,1,0.1,0.02,101.75,16.96,16.67,5897
-E02000888,E09000030,London,Shadwell Basin & Ratcliffe,Tower Hamlets,10,2,0.1,0.02,97.97,19.59,20.0,10207
 E02000271,E09000009,London,Bedford Park,Ealing,7,3,0.1,0.04,101.52,43.51,42.86,6895
 E02000316,E09000011,London,"Woolwich Dockyard, Arsenal & Charlton Riverside",Greenwich,15,6,0.1,0.04,103.27,41.31,40.0,14525
 E02000532,E09000018,London,Chiswick South East,Hounslow,9,4,0.1,0.04,99.88,44.39,44.44,9011
@@ -114,7 +113,6 @@ E02000554,E09000019,London,Highcroft & Holly Park,Islington,13,1,0.13,0.01,129.7
 E02000809,E09000028,London,Bermondsey North,Southwark,18,2,0.13,0.01,128.06,14.23,11.11,14056
 E02000167,E09000007,London,Hampstead Town,Camden,12,2,0.13,0.02,127.16,21.19,16.67,9437
 E02000981,E09000033,London,Pimlico North,Westminster,13,2,0.13,0.02,126.1,19.4,15.38,10309
-E02000867,E09000030,London,Bow South,Tower Hamlets,16,4,0.13,0.03,126.06,31.52,25.0,12692
 E02000935,E09000032,London,Roehampton North West,Wandsworth,9,2,0.13,0.03,126.12,28.03,22.22,7136
 E02006786,E09000011,London,Wickham Lane & Winns Common,Greenwich,10,3,0.13,0.04,132.84,39.85,30.0,7528
 E02000396,E09000013,London,South Park,Hammersmith and Fulham,9,3,0.13,0.04,127.53,42.51,33.33,7057
@@ -123,7 +121,6 @@ E02000302,E09000010,London,Palmers Green East,Enfield,11,4,0.13,0.05,127.79,46.4
 E02000975,E09000033,London,Bayswater East,Westminster,13,5,0.13,0.05,125.18,48.15,38.46,10385
 E02000184,E09000007,London,Camden Street & Elm Village,Camden,13,6,0.13,0.06,126.82,58.53,46.15,10251
 E02000555,E09000019,London,Archway East,Islington,13,6,0.13,0.06,131.09,60.5,46.15,9917
-E02000575,E09000019,London,Clerkenwell,Islington,19,9,0.13,0.06,125.51,59.45,47.37,15138
 E02000800,E09000027,London,Ham,Richmond upon Thames,7,3,0.13,0.06,128.56,55.1,42.86,5445
 E02000329,E09000011,London,Plumstead South,Greenwich,8,5,0.13,0.08,126.7,79.19,62.5,6314
 E02000471,E09000016,London,Rise Park,Havering,10,6,0.13,0.08,132.1,79.26,60.0,7570
@@ -133,8 +130,10 @@ E02000033,E09000003,London,Brunswick Park Road,Barnet,12,11,0.13,0.12,134.54,123
 E02000487,E09000016,London,Upminster South & Corbets Tey,Havering,10,13,0.13,0.17,129.12,167.85,130.0,7745
 E02000611,E09000021,London,Berrylands South,Kingston upon Thames,10,1,0.14,0.01,135.87,13.59,10.0,7360
 E02000884,E09000030,London,Aldgate,Tower Hamlets,18,2,0.14,0.02,137.06,15.23,11.11,13133
+E02000888,E09000030,London,Shadwell Basin & Ratcliffe,Tower Hamlets,14,2,0.14,0.02,137.16,19.59,14.29,10207
 E02000877,E09000030,London,Mile End East & Burdett Estate,Tower Hamlets,18,5,0.14,0.04,139.38,38.72,27.78,12914
 E02000919,E09000031,London,Leyton East,Waltham Forest,14,4,0.14,0.04,142.93,40.84,28.57,9795
+E02000978,E09000033,London,"Knightsbridge, Belgravia & Hyde Park",Westminster,16,4,0.14,0.04,141.06,35.26,25.0,11343
 E02000533,E09000018,London,Chiswick South West,Hounslow,12,5,0.14,0.06,142.21,59.26,41.67,8438
 E02000561,E09000019,London,Tufnell Park East,Islington,12,5,0.14,0.06,140.2,58.42,41.67,8559
 E02000592,E09000020,London,South Kensington,Kensington and Chelsea,10,4,0.14,0.06,144.78,57.91,40.0,6907
@@ -144,16 +143,17 @@ E02000308,E09000010,London,New Southgate & Arnos Grove,Enfield,12,6,0.14,0.07,14
 E02000562,E09000019,London,Highbury,Islington,12,7,0.14,0.08,135.76,79.19,58.33,8839
 E02000524,E09000017,London,"Heathrow, Hardmonsworth & Sipson",Hillingdon,11,11,0.14,0.14,135.53,135.53,100.0,8116
 E02000750,E09000025,London,Royal Docks & North Woolwich,Newham,22,4,0.15,0.03,148.65,27.03,18.18,14800
+E02000867,E09000030,London,Bow South,Tower Hamlets,19,4,0.15,0.03,149.7,31.52,21.05,12692
 E02000932,E09000032,London,Putney Town & Wandsworth Park,Wandsworth,17,3,0.15,0.03,147.81,26.08,17.65,11501
 E02000335,E09000011,London,Eltham North,Greenwich,10,3,0.15,0.04,145.52,43.66,30.0,6872
 E02000570,E09000019,London,Barnsbury East,Islington,15,4,0.15,0.04,150.65,40.17,26.67,9957
 E02000878,E09000030,London,Spitalfields,Tower Hamlets,18,5,0.15,0.04,153.35,42.6,27.78,11738
-E02000978,E09000033,London,"Knightsbridge, Belgravia & Hyde Park",Westminster,17,4,0.15,0.04,149.87,35.26,23.53,11343
 E02000001,E09000001,London,City of London,City of London,13,4,0.15,0.05,149.32,45.95,30.77,8706
 E02000585,E09000020,London,Holland Park,Kensington and Chelsea,12,4,0.15,0.05,149.55,49.85,33.33,8024
 E02000183,E09000007,London,Primrose Hill,Camden,13,5,0.15,0.06,150.95,58.06,38.46,8612
 E02000293,E09000010,London,Grange Park,Enfield,10,4,0.15,0.06,154.51,61.8,40.0,6472
 E02000508,E09000017,London,Uxbridge Central & Brunel,Hillingdon,18,7,0.15,0.06,153.23,59.59,38.89,11747
+E02000575,E09000019,London,Clerkenwell,Islington,22,9,0.15,0.06,145.33,59.45,40.91,15138
 E02000873,E09000030,London,Mile End West,Tower Hamlets,16,7,0.15,0.06,148.29,64.87,43.75,10790
 E02000967,E09000033,London,Regent's Park,Westminster,15,7,0.15,0.07,150.27,70.13,46.67,9982
 E02000224,E09000008,London,Purley North,Croydon,12,7,0.15,0.09,149.7,87.33,58.33,8016
@@ -176,7 +176,6 @@ E02000576,E09000019,London,Old Street & St Luke's,Islington,19,6,0.16,0.05,160.5
 E02000854,E09000029,London,Carshalton Village,Sutton,12,4,0.16,0.05,158.67,52.89,33.33,7563
 E02000084,E09000004,London,Danson Park,Bexley,18,7,0.16,0.06,163.24,63.48,38.89,11027
 E02000218,E09000008,London,Shirley East,Croydon,11,4,0.16,0.06,162.19,58.98,36.36,6782
-E02000297,E09000010,London,Bury Street West & Village Road,Enfield,15,6,0.16,0.06,155.93,62.37,40.0,9620
 E02000365,E09000012,London,Dalston Kingsland & De Beauvoir,Hackney,25,10,0.16,0.06,161.86,64.75,40.0,15445
 E02000021,E09000002,London,Rylands Estate & Dagenham Dock,Barking and Dagenham,14,6,0.16,0.07,156.08,66.89,42.86,8970
 E02000784,E09000027,London,North Barnes,Richmond upon Thames,16,7,0.16,0.07,159.11,69.61,43.75,10056
@@ -203,7 +202,6 @@ E02000482,E09000016,London,Upminster North & Cranham West,Havering,11,5,0.17,0.0
 E02000485,E09000016,London,Upminster Bridge,Havering,15,7,0.17,0.08,173.87,81.14,46.67,8627
 E02000039,E09000003,London,Mill Hill Park,Barnet,12,7,0.17,0.1,165.11,96.31,58.33,7268
 E02000928,E09000032,London,Putney Embankment & Lower Common,Wandsworth,15,0,0.18,0.0,175.36,0.0,0.0,8554
-E02000808,E09000028,London,Borough & Southwark Street,Southwark,20,2,0.18,0.02,178.57,17.86,10.0,11200
 E02000872,E09000030,London,Brick Lane North,Tower Hamlets,16,2,0.18,0.02,176.43,22.05,12.5,9069
 E02000876,E09000030,London,Bethnal Green South,Tower Hamlets,15,2,0.18,0.02,184.37,24.58,13.33,8136
 E02000080,E09000004,London,Welling,Bexley,18,3,0.18,0.03,176.92,29.49,16.67,10174
@@ -221,7 +219,6 @@ E02000403,E09000014,London,Wood Green North,Haringey,15,5,0.18,0.06,182.77,60.92
 E02000377,E09000013,London,Askew,Hammersmith and Fulham,15,6,0.18,0.07,181.97,72.79,40.0,8243
 E02000400,E09000014,London,Bounds Green,Haringey,15,6,0.18,0.07,183.8,73.52,40.0,8161
 E02000551,E09000018,London,Hanworth North,Hounslow,16,6,0.18,0.07,175.57,65.84,37.5,9113
-E02000476,E09000016,London,Central Romford,Havering,18,8,0.18,0.08,175.99,78.22,44.44,10228
 E02000748,E09000025,London,Beckton Park,Newham,12,5,0.18,0.08,183.15,76.31,41.67,6552
 E02000187,E09000007,London,Somers Town,Camden,20,10,0.18,0.09,180.33,90.16,50.0,11091
 E02000417,E09000014,London,Muswell Hill South,Haringey,12,6,0.18,0.09,182.57,91.28,50.0,6573
@@ -229,17 +226,17 @@ E02000763,E09000026,London,Aldborough Hatch,Redbridge,14,7,0.18,0.09,184.4,92.2,
 E02000720,E09000025,London,Forest Gate East,Newham,14,8,0.18,0.1,177.04,101.16,57.14,7908
 E02000492,E09000016,London,Rainham East & Wennington,Havering,12,7,0.18,0.11,184.5,107.63,58.33,6504
 E02000804,E09000027,London,Teddington Central,Richmond upon Thames,13,8,0.18,0.11,177.84,109.44,61.54,7310
-E02000018,E09000002,London,Mayesbrook Park & Rippleside,Barking and Dagenham,18,13,0.18,0.13,183.88,132.8,72.22,9789
 E02000157,E09000006,London,Crofton,Bromley,15,11,0.18,0.13,181.55,133.14,73.33,8262
 E02000939,E09000032,London,Nightingale Lane,Wandsworth,15,18,0.18,0.22,179.73,215.67,120.0,8346
 E02000934,E09000032,London,Clapham Junction & East Hill,Wandsworth,19,2,0.19,0.02,191.98,20.21,10.53,9897
 E02000936,E09000032,London,East Putney,Wandsworth,17,3,0.19,0.03,185.75,32.78,17.65,9152
 E02000645,E09000022,London,West Norwood East,Lambeth,19,4,0.19,0.04,194.41,40.93,21.05,9773
 E02000950,E09000032,London,West Hill South,Wandsworth,14,3,0.19,0.04,185.8,39.81,21.43,7535
+E02000087,E09000004,London,Bexley Village,Bexley,15,5,0.19,0.06,186.13,62.04,33.33,8059
 E02000171,E09000007,London,Mansfield Road & Park Hill Road,Camden,18,6,0.19,0.06,190.19,63.4,33.33,9464
+E02000297,E09000010,London,Bury Street West & Village Road,Enfield,18,6,0.19,0.06,187.11,62.37,33.33,9620
 E02000360,E09000012,London,Amhurst Road & Pembury Estate,Hackney,23,7,0.19,0.06,190.49,57.98,30.43,12074
 E02000590,E09000020,London,Brompton,Kensington and Chelsea,13,4,0.19,0.06,189.48,58.3,30.77,6861
-E02000871,E09000030,London,Bromley-by-Bow East,Tower Hamlets,22,7,0.19,0.06,192.58,61.27,31.82,11424
 E02000326,E09000011,London,Charlton Slopes,Greenwich,14,5,0.19,0.07,187.82,67.08,35.71,7454
 E02000558,E09000019,London,Finsbury Park West,Islington,19,7,0.19,0.07,186.38,68.67,36.84,10194
 E02000754,E09000026,London,Woodford Green,Redbridge,13,5,0.19,0.07,193.6,74.46,38.46,6715
@@ -249,3 +246,6 @@ E02000404,E09000014,London,Scotch Estate,Haringey,15,7,0.19,0.09,190.65,88.97,46
 E02000448,E09000015,London,Pinner Central,Harrow,13,6,0.19,0.09,185.03,85.4,46.15,7026
 E02000708,E09000024,London,West Barnes,Merton,16,8,0.19,0.09,188.75,94.37,50.0,8477
 E02000735,E09000025,London,Plaistow North East,Newham,16,8,0.19,0.09,186.09,93.04,50.0,8598
+E02000358,E09000012,London,Stoke Newington South,Hackney,23,12,0.19,0.1,193.37,100.89,52.17,11894
+E02000096,E09000005,London,Kenton Woodcock Park,Brent,14,8,0.19,0.11,187.29,107.02,57.14,7475
+E02000011,E09000002,London,Dagenham Eastbrook,Barking and Dagenham,13,12,0.19,0.17,186.17,171.85,92.31,6983

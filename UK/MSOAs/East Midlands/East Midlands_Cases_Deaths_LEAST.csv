@@ -1,7 +1,6 @@
 MSOA11CD,LAD19CD,Region,MSOA_Name,Local_Authority,Cases,Deaths,%Infected,%Dead,Cases_100K,Deaths_100K,CFR%,Population
 E02005425,E07000137,East Midlands,"Marshchapel, Somercotes & Grimoldby",East Lindsey,0,0,0.0,0.0,0.0,0.0,0.0,6354
 E02005430,E07000137,East Midlands,"Wragby, Roughton & Ludford",East Lindsey,0,0,0.0,0.0,0.0,0.0,0.0,7082
-E02005442,E07000138,East Midlands,Ermine,Lincoln,0,0,0.0,0.0,0.0,0.0,0.0,6059
 E02005687,E07000155,East Midlands,Silverstone & Syresham & Helmdon,South Northamptonshire,0,0,0.0,0.0,0.0,0.0,0.0,6510
 E02005498,E07000142,East Midlands,Torksey & Stow,West Lindsey,0,0,0.0,0.0,0.0,0.0,0.0,7408
 E02005427,E07000137,East Midlands,Louth Central & South,East Lindsey,0,1,0.0,0.01,0.0,14.25,0.0,7020
@@ -57,7 +56,6 @@ E02005345,E07000130,East Midlands,Loughborough Dishley & Hathern,Charnwood,3,6,0
 E02005446,E07000138,East Midlands,Wharf & University,Lincoln,6,0,0.06,0.0,57.7,0.0,0.0,10399
 E02005463,E07000139,East Midlands,Sleaford West,North Kesteven,6,1,0.06,0.01,62.77,10.46,16.67,9558
 E02002889,E06000018,East Midlands,"Arboretum, Forest & Trent University",Nottingham,7,2,0.06,0.02,57.17,16.33,28.57,12245
-E02005355,E07000130,East Midlands,Barrow upon Soar,Charnwood,4,2,0.06,0.03,55.95,27.98,50.0,7149
 E02005458,E07000139,East Midlands,"Navenby, Harmston & Brant Broughton",North Kesteven,4,2,0.06,0.03,58.79,29.39,50.0,6804
 E02005398,E07000134,East Midlands,Kegworth & Belton,North West Leicestershire,4,2,0.06,0.03,59.93,29.97,50.0,6674
 E02005870,E07000173,East Midlands,Daybrook,Gedling,4,3,0.06,0.04,57.91,43.43,75.0,6907
@@ -80,6 +78,7 @@ E02005915,E07000176,East Midlands,"Cropwell Bishop, Kinoulton & Upper Broughton"
 E02005477,E07000141,East Midlands,"Long Bennington, Allington & Barrowby",South Kesteven,6,6,0.07,0.07,66.3,66.3,100.0,9050
 E02005684,E07000155,East Midlands,Towcester West & Blakesley,South Northamptonshire,6,7,0.07,0.08,67.32,78.54,116.67,8913
 E02006851,E06000016,East Midlands,Leicester City Centre,Leicester,9,0,0.08,0.0,83.89,0.0,0.0,10728
+E02005442,E07000138,East Midlands,Ermine,Lincoln,5,0,0.08,0.0,82.52,0.0,0.0,6059
 E02005895,E07000175,East Midlands,"Muskham, Sutton on Trent & Walesby",Newark and Sherwood,6,1,0.08,0.01,75.28,12.55,16.67,7970
 E02006904,E06000018,East Midlands,City Centre & Trent Bridge,Nottingham,9,1,0.08,0.01,79.72,8.86,11.11,11290
 E02005482,E07000141,East Midlands,"Corby Glen, Ropsley & Grantham Outskirts",South Kesteven,8,1,0.08,0.01,81.57,10.2,12.5,9807
@@ -91,7 +90,6 @@ E02005448,E07000138,East Midlands,Birchwood West,Lincoln,6,2,0.08,0.03,81.83,27.
 E02005492,E07000142,East Midlands,"Caistor, Kelsey & Keelby",West Lindsey,8,3,0.08,0.03,82.25,30.84,37.5,9727
 E02004043,E07000032,East Midlands,Kilburn & Horsley,Amber Valley,6,3,0.08,0.04,81.92,40.96,50.0,7324
 E02005464,E07000139,East Midlands,Heckington,North Kesteven,7,5,0.08,0.06,82.21,58.72,71.43,8515
-E02005356,E07000130,East Midlands,Quorn & Mountsorrel Castle,Charnwood,6,5,0.08,0.07,81.94,68.29,83.33,7322
 E02004044,E07000032,East Midlands,"Duffield, Quarndon & Kirk Langley",Amber Valley,7,7,0.08,0.08,82.94,82.94,100.0,8440
 E02005909,E07000176,East Midlands,Lady Bay,Rushcliffe,7,7,0.08,0.08,82.19,82.19,100.0,8517
 E02005819,E07000170,East Midlands,Stanton Hill & Skegby,Ashfield,5,6,0.08,0.09,79.05,94.86,120.0,6325
@@ -103,7 +101,6 @@ E02005380,E07000132,East Midlands,"Market Bosworth, Barlestone & Sheepy Magna",H
 E02005844,E07000171,East Midlands,Retford South,Bassetlaw,8,3,0.09,0.04,93.46,35.05,37.5,8560
 E02005451,E07000138,East Midlands,Bracebridge North & Boultham Moor,Lincoln,7,3,0.09,0.04,90.92,38.97,42.86,7699
 E02005474,E07000140,East Midlands,Fleet Hargate & Holbeach St Johns,South Holland,6,3,0.09,0.04,89.33,44.66,50.0,6717
-E02005694,E07000156,East Midlands,Redwell,Wellingborough,7,3,0.09,0.04,93.77,40.19,42.86,7465
 E02005462,E07000139,East Midlands,Sleaford East,North Kesteven,9,5,0.09,0.05,92.83,51.57,55.56,9695
 E02005658,E07000154,East Midlands,St David's,Northampton,6,3,0.09,0.05,94.53,47.27,50.0,6347
 E02005878,E07000173,East Midlands,Carlton,Gedling,9,6,0.09,0.06,89.45,59.64,66.67,10061
@@ -111,16 +108,15 @@ E02005456,E07000139,East Midlands,Bracebridge Heath & Waddington,North Kesteven,
 E02006920,E07000039,East Midlands,Swadlincote East,South Derbyshire,8,6,0.09,0.07,93.34,70.0,75.0,8571
 E02005630,E07000152,East Midlands,"Oundle, Warmington & Titchmarsh",East Northamptonshire,10,16,0.09,0.15,94.58,151.33,160.0,10573
 E02004123,E07000039,East Midlands,"Melbourne, Ticknall & Hartshorne",South Derbyshire,6,11,0.09,0.16,87.92,161.2,183.33,6824
+E02005355,E07000130,East Midlands,Barrow upon Soar,Charnwood,7,2,0.1,0.03,97.92,27.98,28.57,7149
 E02005457,E07000139,East Midlands,"Metheringham, Nocton & Potterhanworth",North Kesteven,9,3,0.1,0.03,104.25,34.75,33.33,8633
 E02005481,E07000141,East Midlands,Grantham South East,South Kesteven,12,4,0.1,0.03,95.45,31.82,33.33,12572
-E02005899,E07000175,East Midlands,Newark North,Newark and Sherwood,13,5,0.1,0.04,104.99,40.38,38.46,12382
 E02002897,E06000018,East Midlands,Wollaton Vale,Nottingham,8,4,0.1,0.05,97.98,48.99,50.0,8165
 E02005887,E07000174,East Midlands,Mansfield Town Centre & Broomhill,Mansfield,10,6,0.1,0.06,96.45,57.87,60.0,10368
 E02002803,E06000015,East Midlands,Little Chester,Derby,8,6,0.1,0.07,95.66,71.74,75.0,8363
 E02005906,E07000176,East Midlands,East Bridgford & Aslockton,Rushcliffe,7,6,0.1,0.08,95.15,81.55,85.71,7357
 E02004081,E07000036,East Midlands,"Breadsall, Little Eaton & Stanley Common",Erewash,6,6,0.1,0.1,101.28,101.28,100.0,5924
 E02004089,E07000036,East Midlands,Long Eaton Town,Erewash,7,8,0.1,0.11,96.41,110.18,114.29,7261
-E02005357,E07000130,East Midlands,Sileby,Charnwood,9,1,0.11,0.01,107.73,11.97,11.11,8354
 E02006828,E07000036,East Midlands,Shipley,Erewash,8,1,0.11,0.01,113.38,14.17,12.5,7056
 E02005443,E07000138,East Midlands,Glebe Park,Lincoln,8,1,0.11,0.01,108.77,13.6,12.5,7355
 E02002895,E06000018,East Midlands,The Park & Castle,Nottingham,9,1,0.11,0.01,106.13,11.79,11.11,8480
@@ -128,7 +124,6 @@ E02005439,E07000137,East Midlands,Coningsby & Woodhall Spa,East Lindsey,13,3,0.1
 E02005629,E07000152,East Midlands,"King's Cliffe, Woodnewton & Easton",East Northamptonshire,7,1,0.11,0.02,109.39,15.63,14.29,6399
 E02005459,E07000139,East Midlands,Ruskington North & Billinghay,North Kesteven,9,2,0.11,0.02,106.98,23.77,22.22,8413
 E02005849,E07000171,East Midlands,"Tuxford, Markham & Rampton",Bassetlaw,10,3,0.11,0.03,107.04,32.11,30.0,9342
-E02005656,E07000154,East Midlands,Blackthorn & Lings,Northampton,7,2,0.11,0.03,113.69,32.48,28.57,6157
 E02005624,E07000151,East Midlands,Daventry North,Daventry,12,4,0.11,0.04,110.49,36.83,33.33,10861
 E02005405,E07000134,East Midlands,Agar Nook,North West Leicestershire,8,3,0.11,0.04,113.96,42.74,37.5,7020
 E02005468,E07000140,East Midlands,"Moulton, Weston & Whaplode",South Holland,8,3,0.11,0.04,106.51,39.94,37.5,7511
@@ -149,6 +144,7 @@ E02004071,E07000035,East Midlands,Darley Dale & Stanton,Derbyshire Dales,6,2,0.1
 E02002896,E06000018,East Midlands,Sneinton,Nottingham,13,5,0.12,0.05,121.65,46.79,38.46,10686
 E02006905,E06000018,East Midlands,Meadows,Nottingham,9,4,0.12,0.05,115.67,51.41,44.44,7781
 E02004054,E07000033,East Midlands,South Normanton Broadmeadows & Pinxton,Bolsover,11,5,0.12,0.06,121.32,55.15,45.45,9067
+E02005356,E07000130,East Midlands,Quorn & Mountsorrel Castle,Charnwood,9,5,0.12,0.07,122.92,68.29,55.56,7322
 E02005434,E07000137,East Midlands,Horncastle,East Lindsey,9,5,0.12,0.07,122.03,67.8,55.56,7375
 E02002797,E06000015,East Midlands,Allestree South,Derby,9,6,0.12,0.08,121.26,80.84,66.67,7422
 E02005445,E07000138,East Midlands,"Monks Road, St Giles & Greetwell",Lincoln,15,0,0.13,0.0,125.15,0.0,0.0,11986
@@ -159,7 +155,9 @@ E02005820,E07000170,East Midlands,The Dales & South Skegby,Ashfield,7,2,0.13,0.0
 E02004063,E07000034,East Midlands,Ashgate & Brockwell,Chesterfield,10,3,0.13,0.04,126.44,37.93,30.0,7909
 E02004097,E07000037,East Midlands,New Mills West & Furness Vale,High Peak,10,3,0.13,0.04,128.22,38.47,30.0,7799
 E02005898,E07000175,East Midlands,Rainworth & Blidworth,Newark and Sherwood,15,5,0.13,0.04,133.95,44.65,33.33,11198
+E02005694,E07000156,East Midlands,Redwell,Wellingborough,10,3,0.13,0.04,133.96,40.19,30.0,7465
 E02005859,E07000172,East Midlands,Stapleford South,Broxtowe,13,1,0.14,0.01,141.5,10.88,7.69,9187
+E02005357,E07000130,East Midlands,Sileby,Charnwood,12,1,0.14,0.01,143.64,11.97,8.33,8354
 E02005699,E07000156,East Midlands,Croyland,Wellingborough,12,2,0.14,0.02,143.03,23.84,16.67,8390
 E02004086,E07000036,East Midlands,Borrowash & Ockbrook,Erewash,10,3,0.14,0.04,137.06,41.12,30.0,7296
 E02004034,E07000032,East Midlands,Ripley West,Amber Valley,10,5,0.14,0.07,136.95,68.47,50.0,7302
@@ -168,10 +166,8 @@ E02005900,E07000175,East Midlands,Southwell,Newark and Sherwood,10,7,0.14,0.09,1
 E02005856,E07000172,East Midlands,Bramcote,Broxtowe,10,7,0.14,0.1,138.16,96.71,70.0,7238
 E02005897,E07000175,East Midlands,Blisthorpe & Farnsfield,Newark and Sherwood,13,10,0.14,0.11,140.4,108.0,76.92,9259
 E02002868,E06000018,East Midlands,Rise Park & Top Valley West,Nottingham,8,10,0.14,0.17,137.69,172.12,125.0,5810
-E02005842,E07000171,East Midlands,Retford East,Bassetlaw,13,1,0.15,0.01,150.17,11.55,7.69,8657
 E02004065,E07000034,East Midlands,Brookside & Walton,Chesterfield,12,2,0.15,0.02,147.04,24.51,16.67,8161
 E02005441,E07000137,East Midlands,"Mareham, Sibsey & New Leake",East Lindsey,13,3,0.15,0.03,150.76,34.79,23.08,8623
-E02005385,E07000132,East Midlands,Hinckley East,Hinckley and Bosworth,10,2,0.15,0.03,154.46,30.89,20.0,6474
 E02005502,E07000142,East Midlands,Cherry Willingham & Bardney,West Lindsey,14,3,0.15,0.03,148.9,31.91,21.43,9402
 E02005435,E07000137,East Midlands,Skegness North,East Lindsey,11,3,0.15,0.04,150.05,40.92,27.27,7331
 E02005862,E07000172,East Midlands,Chilwell West,Broxtowe,12,4,0.15,0.05,146.75,48.92,33.33,8177
@@ -179,9 +175,8 @@ E02006866,E07000139,East Midlands,North Hykeham South,North Kesteven,13,5,0.15,0
 E02004121,E07000039,East Midlands,Aston-on-Trent & Barrow-upon-Trent,South Derbyshire,12,5,0.15,0.06,154.98,64.57,41.67,7743
 E02005397,E07000134,East Midlands,Castle Donington,North West Leicestershire,14,6,0.15,0.07,152.26,65.25,42.86,9195
 E02005698,E07000156,East Midlands,Brickhill,Wellingborough,9,5,0.15,0.08,151.64,84.25,55.56,5935
-E02005394,E07000133,East Midlands,Melton Mowbray West,Melton,15,1,0.16,0.01,155.17,10.34,6.67,9667
+E02005842,E07000171,East Midlands,Retford East,Bassetlaw,14,1,0.16,0.01,161.72,11.55,7.14,8657
 E02005440,E07000137,East Midlands,Wainfleet All Saints,East Lindsey,9,1,0.16,0.02,164.87,18.32,11.11,5459
-E02005864,E07000172,East Midlands,Toton,Broxtowe,13,3,0.16,0.04,156.87,36.2,23.08,8287
 E02005373,E07000131,East Midlands,"Market Harborough West, Great Bowden & Lubenham",Harborough,18,4,0.16,0.04,162.38,36.08,22.22,11085
 E02005882,E07000174,East Midlands,"Manor, Hornby & Peafields",Mansfield,12,3,0.16,0.04,158.73,39.68,25.0,7560
 E02005379,E07000132,East Midlands,Groby West & Ratby,Hinckley and Bosworth,10,3,0.16,0.05,158.25,47.48,30.0,6319
@@ -197,10 +192,10 @@ E02005679,E07000154,East Midlands,East Hunsbury,Northampton,14,10,0.16,0.12,161.
 E02005858,E07000172,East Midlands,Beeston North,Broxtowe,14,2,0.17,0.02,172.95,24.71,14.29,8095
 E02005483,E07000141,East Midlands,Morton & Billingborough,South Kesteven,14,2,0.17,0.02,174.13,24.88,14.29,8040
 E02005371,E07000131,East Midlands,"Fleckney, Kilworth & Foxton",Harborough,17,3,0.17,0.03,168.13,29.67,17.65,10111
+E02005899,E07000175,East Midlands,Newark North,Newark and Sherwood,21,5,0.17,0.04,169.6,40.38,23.81,12382
 E02005654,E07000154,East Midlands,Overstone Lodge & Rectory Farm,Northampton,14,3,0.17,0.04,167.36,35.86,21.43,8365
-E02005901,E07000175,East Midlands,Newark South East,Newark and Sherwood,16,5,0.17,0.05,165.58,51.74,31.25,9663
-E02005902,E07000175,East Midlands,Newark South West,Newark and Sherwood,14,4,0.17,0.05,166.53,47.58,28.57,8407
 E02005455,E07000139,East Midlands,"Skellingthorpe, Witham & Bassingham",North Kesteven,24,7,0.17,0.05,171.87,50.13,29.17,13964
+E02005682,E07000155,East Midlands,"Cogenhoe, Hackleton & Denton",South Northamptonshire,11,4,0.17,0.06,165.71,60.26,36.36,6638
 E02002801,E06000015,East Midlands,Chaddesden North,Derby,13,5,0.17,0.07,171.91,66.12,38.46,7562
 E02005892,E07000174,East Midlands,"King's Walk, Berry Hill & Oakham",Mansfield,21,9,0.17,0.07,173.0,74.14,42.86,12139
 E02002866,E06000017,East Midlands,"Ketton, Ryhall & Luffenham",Rutland,13,5,0.17,0.07,170.54,65.59,38.46,7623
@@ -216,7 +211,6 @@ E02005450,E07000138,East Midlands,Hartsholme & Birchwood East,Lincoln,15,1,0.18,
 E02005612,E07000150,East Midlands,"Rowlett, Gretton & Cottingham",Corby,13,3,0.18,0.04,178.4,41.17,23.08,7287
 E02005407,E07000134,East Midlands,Hugglescote & Bardon Hill,North West Leicestershire,18,4,0.18,0.04,183.24,40.72,22.22,9823
 E02004057,E07000034,East Midlands,"New Whittington, Hollingwood & Barrow Hill",Chesterfield,14,4,0.18,0.05,178.07,50.88,28.57,7862
-E02005682,E07000155,East Midlands,"Cogenhoe, Hackleton & Denton",South Northamptonshire,12,4,0.18,0.06,180.78,60.26,33.33,6638
 E02005626,E07000151,East Midlands,Daventry South & Southbrook,Daventry,12,5,0.18,0.07,177.07,73.78,41.67,6777
 E02005890,E07000174,East Midlands,Eakring & Ling Forest,Mansfield,12,5,0.18,0.07,176.47,73.53,41.67,6800
 E02004084,E07000036,East Midlands,Kirk Hallam,Erewash,11,5,0.18,0.08,178.77,81.26,45.45,6153
@@ -227,14 +221,14 @@ E02006862,E07000150,East Midlands,Great Oakley and Danesholme,Corby,12,7,0.18,0.
 E02005872,E07000173,East Midlands,Burton Joyce & Lambley,Gedling,11,8,0.18,0.13,177.56,129.14,72.73,6195
 E02005660,E07000154,East Midlands,Billing & Riverside,Northampton,11,8,0.18,0.13,179.86,130.8,72.73,6116
 E02005387,E07000132,East Midlands,Hinckley West,Hinckley and Bosworth,19,2,0.19,0.02,191.19,20.12,10.53,9938
+E02005864,E07000172,East Midlands,Toton,Broxtowe,16,3,0.19,0.04,193.07,36.2,18.75,8287
 E02005466,E07000140,East Midlands,"Long Sutton West, Gedney & Holbeach Hurn",South Holland,13,3,0.19,0.04,194.67,44.92,23.08,6678
 E02004039,E07000032,East Midlands,Openwoodgate & Holbrook,Amber Valley,15,4,0.19,0.05,186.03,49.61,26.67,8063
 E02005354,E07000130,East Midlands,Loughborough - Outwoods,Charnwood,19,6,0.19,0.06,187.19,59.11,31.58,10150
 E02005889,E07000174,East Midlands,Grange Farm & Ladybrook,Mansfield,20,9,0.19,0.09,190.37,85.67,45.0,10506
 E02005669,E07000154,East Midlands,Abington Vale,Northampton,11,6,0.19,0.1,188.55,102.85,54.55,5834
-E02005904,E07000175,East Midlands,"Fernwood, Farndon & Fiskerton",Newark and Sherwood,18,10,0.19,0.11,193.34,107.41,55.56,9310
-E02002893,E06000018,East Midlands,Radford,Nottingham,31,2,0.2,0.01,197.87,12.77,6.45,15667
 E02005893,E07000175,East Midlands,Ollerton & Boughton,Newark and Sherwood,22,2,0.2,0.02,200.27,18.21,9.09,10985
+E02005385,E07000132,East Midlands,Hinckley East,Hinckley and Bosworth,13,2,0.2,0.03,200.8,30.89,15.38,6474
 E02004041,E07000032,East Midlands,Heanor East & Langley Mill,Amber Valley,15,3,0.2,0.04,202.87,40.57,20.0,7394
 E02005490,E07000141,East Midlands,Stamford North,South Kesteven,19,5,0.2,0.05,201.1,52.92,26.32,9448
 E02005848,E07000171,East Midlands,"Manton, Clumber & Elkesley",Bassetlaw,13,4,0.2,0.06,199.42,61.36,30.77,6519
@@ -249,3 +243,9 @@ E02005837,E07000171,East Midlands,"Ranskill, Everton & Gringley",Bassetlaw,17,2,
 E02005874,E07000173,East Midlands,Mapperley & Porchester,Gedling,18,3,0.21,0.03,207.33,34.55,16.67,8682
 E02005376,E07000131,East Midlands,Lutterworth,Harborough,22,4,0.21,0.04,213.99,38.91,18.18,10281
 E02002798,E06000015,East Midlands,Oakwood,Derby,20,5,0.21,0.05,207.75,51.94,25.0,9627
+E02005901,E07000175,East Midlands,Newark South East,Newark and Sherwood,20,5,0.21,0.05,206.98,51.74,25.0,9663
+E02005902,E07000175,East Midlands,Newark South West,Newark and Sherwood,18,4,0.21,0.05,214.11,47.58,22.22,8407
+E02005824,E07000170,East Midlands,Sutton St Mary's & Ashfields,Ashfield,21,7,0.21,0.07,208.31,69.44,33.33,10081
+E02005675,E07000154,East Midlands,Briar Hill & Hunsbury Hill,Northampton,13,4,0.21,0.07,213.36,65.65,30.77,6093
+E02005851,E07000172,East Midlands,Eastwood Town,Broxtowe,13,5,0.21,0.08,207.57,79.83,38.46,6263
+E02005701,E07000156,East Midlands,"Irchester, Wollaston & Bozeat",Wellingborough,23,9,0.21,0.08,209.09,81.82,39.13,11000

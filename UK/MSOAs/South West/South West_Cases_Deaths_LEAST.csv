@@ -10,6 +10,7 @@ E02003905,E06000052,South West,"Grampound Road, St Newlyn East and Cubert",Cornw
 E02003933,E06000052,South West,Crackington & Tintagel,Cornwall,0,0,0.0,0.0,0.0,0.0,0.0,7116
 E02003940,E06000052,South West,"St Breward, Tredethy & Lanivet",Cornwall,0,0,0.0,0.0,0.0,0.0,0.0,6151
 E02004260,E06000059,South West,Blandford Outer & Tarrants,Dorset,0,0,0.0,0.0,0.0,0.0,0.0,9128
+E02004262,E06000059,South West,"Milborne, Winterborne & Okeford Fitzpaine",Dorset,0,0,0.0,0.0,0.0,0.0,0.0,7959
 E02004273,E06000059,South West,"Lyme Regis, Charmouth & Marshwood Vale",Dorset,0,0,0.0,0.0,0.0,0.0,0.0,7128
 E02004141,E07000040,South West,"Poppleford, Otterton & Woodbury",East Devon,0,0,0.0,0.0,0.0,0.0,0.0,6112
 E02004143,E07000040,South West,Exmouth Brixington,East Devon,0,0,0.0,0.0,0.0,0.0,0.0,6352
@@ -104,6 +105,7 @@ E02004172,E07000042,South West,"Bow, Lapford & Yeoford",Mid Devon,0,2,0.0,0.03,0
 E02006098,E07000189,South West,Tatworth & Combe St Nicholas,South Somerset,0,2,0.0,0.03,0.0,27.45,0.0,7287
 E02004223,E07000046,South West,Bideford South & East,Torridge,0,4,0.0,0.03,0.0,31.3,0.0,12779
 E02004231,E07000047,South West,"Chagford, Princetown & Dartmoor",West Devon,0,2,0.0,0.03,0.0,28.82,0.0,6939
+E02004232,E07000047,South West,"Lifton, Lamerton & Bridestowe",West Devon,0,2,0.0,0.03,0.0,29.89,0.0,6692
 E02006656,E06000054,South West,Chippenham Pewsham,Wiltshire,0,2,0.0,0.03,0.0,28.9,0.0,6920
 E02006885,E06000058,South West,West Cliff,"Bournemouth, Christchurch and Poole",0,3,0.0,0.04,0.0,37.87,0.0,7922
 E02003946,E06000052,South West,"Marazion, St Erth & Gwinear Gwithian",Cornwall,0,4,0.0,0.04,0.0,41.82,0.0,9565
@@ -145,7 +147,6 @@ E02003155,E06000027,South West,St Marychurch & Maidencombe,Torbay,0,4,0.0,0.07,0
 E02006681,E06000054,South West,"Winsley, Westwood & Holt",Wiltshire,0,4,0.0,0.07,0.0,68.32,0.0,5855
 E02004669,E07000083,South West,"Cleeve Hill, Gotherington & Apperley",Tewkesbury,0,6,0.0,0.08,0.0,81.33,0.0,7377
 E02006668,E06000054,South West,Salisbury Stratford,Wiltshire,0,5,0.0,0.08,0.0,84.13,0.0,5943
-E02003215,E06000030,South West,Haydon Wick,Swindon,0,6,0.0,0.09,0.0,88.05,0.0,6814
 E02006680,E06000054,South West,Melksham South,Wiltshire,0,7,0.0,0.09,0.0,93.92,0.0,7453
 E02004181,E07000043,South West,Barnstaple Pilton,North Devon,0,6,0.0,0.1,0.0,103.88,0.0,5776
 E02006050,E07000187,South West,Frome North,Mendip,3,0,0.03,0.0,33.62,0.0,0.0,8922
@@ -166,12 +167,10 @@ E02004625,E07000079,South West,Tetbury,Cotswold,3,2,0.03,0.02,31.71,21.14,66.67,
 E02004626,E07000080,South West,"Dymock, Hartpury & Huntley",Forest of Dean,3,2,0.03,0.02,29.26,19.5,66.67,10254
 E02004202,E07000045,South West,Starcross & Exminster,Teignbridge,3,2,0.03,0.02,34.98,23.32,66.67,8576
 E02004258,E06000059,South West,Sturminster Newton & Stalbridge,Dorset,3,3,0.03,0.03,28.71,28.71,100.0,10449
-E02003094,E06000025,South West,"Almondsbury, Pilning & Severn Beach",South Gloucestershire,3,3,0.03,0.03,33.75,33.75,100.0,8889
 E02006682,E06000054,South West,Bradford-on-Avon,Wiltshire,3,3,0.03,0.03,30.43,30.43,100.0,9860
 E02003944,E06000052,South West,Hayle,Cornwall,3,5,0.03,0.05,29.89,49.82,166.67,10036
 E02004668,E07000083,South West,Winchcombe & Washbourne,Tewkesbury,3,5,0.03,0.06,33.26,55.43,166.67,9020
 E02003048,E06000023,South West,Totterdown,"Bristol, City of",3,0,0.04,0.0,41.63,0.0,0.0,7207
-E02004262,E06000059,South West,"Milborne, Winterborne & Okeford Fitzpaine",Dorset,3,0,0.04,0.0,37.69,0.0,0.0,7959
 E02006063,E07000188,South West,Wedmore & Mark,Sedgemoor,3,0,0.04,0.0,43.23,0.0,0.0,6940
 E02003103,E06000025,South West,Yate South,South Gloucestershire,3,0,0.04,0.0,41.12,0.0,0.0,7296
 E02004190,E07000044,South West,South Brent & Cornwood,South Hams,3,0,0.04,0.0,37.02,0.0,0.0,8104
@@ -200,7 +199,6 @@ E02003078,E06000024,South West,Congresbury & Kewstoke,North Somerset,3,2,0.04,0.
 E02003134,E06000026,South West,North Prospect,Plymouth,3,2,0.04,0.03,43.52,29.01,66.67,6894
 E02004192,E07000044,South West,"Marldon, Stoke Gabriel & Kingswear",South Hams,3,2,0.04,0.03,40.59,27.06,66.67,7391
 E02004671,E07000083,South West,"Highnam, Longford & Norton",Tewkesbury,3,2,0.04,0.03,44.17,29.45,66.67,6792
-E02004232,E07000047,South West,"Lifton, Lamerton & Bridestowe",West Devon,3,2,0.04,0.03,44.83,29.89,66.67,6692
 E02006689,E06000054,South West,"Steeple Ashton, North Bradley & Southwick",Wiltshire,3,2,0.04,0.03,43.22,28.81,66.67,6941
 E02003174,E06000058,South West,Northbourne,"Bournemouth, Christchurch and Poole",3,3,0.04,0.04,37.38,37.38,100.0,8026
 E02003964,E06000052,South West,Mevagissey & Polgooth,Cornwall,3,3,0.04,0.04,37.41,37.41,100.0,8020
@@ -210,13 +208,13 @@ E02003153,E06000026,South West,Plymstock Goosewell & Staddiscombe,Plymouth,3,3,0
 E02003102,E06000025,South West,Frampton Cotterell,South Gloucestershire,3,3,0.04,0.04,42.83,42.83,100.0,7004
 E02006636,E06000054,South West,Pewsey & Lockeridge,Wiltshire,3,3,0.04,0.04,42.78,42.78,100.0,7012
 E02006652,E06000054,South West,Chippenham North,Wiltshire,4,4,0.04,0.04,41.77,41.77,100.0,9577
-E02006679,E06000054,South West,"Bowerhill, Atworth & Whitley",Wiltshire,4,5,0.04,0.04,35.18,43.98,125.0,11369
 E02003916,E06000052,South West,Falmouth East,Cornwall,3,4,0.04,0.06,42.08,56.11,133.33,7129
 E02003962,E06000052,South West,St Austell North & Carclaze,Cornwall,3,4,0.04,0.06,41.61,55.48,133.33,7210
 E02004657,E07000082,South West,Rodborough & Thrupp,Stroud,3,4,0.04,0.06,43.87,58.5,133.33,6838
 E02006659,E06000054,South West,"Box, Colerne & Rudloe",Wiltshire,3,5,0.04,0.06,38.28,63.8,166.67,7837
 E02004255,E06000059,South West,Gillingham,Dorset,3,5,0.04,0.07,39.2,65.33,166.67,7654
 E02004659,E07000082,South West,Leonard Stanley & Uley,Stroud,3,5,0.04,0.07,44.68,74.46,166.67,6715
+E02003215,E06000030,South West,Haydon Wick,Swindon,3,6,0.04,0.09,44.03,88.05,200.0,6814
 E02003209,E06000058,South West,Hamworthy East,"Bournemouth, Christchurch and Poole",3,0,0.05,0.0,46.35,0.0,0.0,6472
 E02004236,E06000058,South West,Burton & Airport,"Bournemouth, Christchurch and Poole",3,0,0.05,0.0,49.43,0.0,0.0,6069
 E02003899,E06000052,South West,Mid Saltash,Cornwall,3,0,0.05,0.0,54.34,0.0,0.0,5521
@@ -248,4 +246,6 @@ E02003129,E06000026,South West,Crownhill,Plymouth,3,2,0.05,0.03,48.03,32.02,66.6
 E02004249,E06000059,South West,Colehill,Dorset,3,2,0.05,0.04,53.84,35.89,66.67,5572
 E02006117,E07000246,South West,"Dunster, Dulverton & Exmoor",Somerset West and Taunton,3,2,0.05,0.04,53.58,35.72,66.67,5599
 E02004230,E07000047,South West,Okehampton,West Devon,4,3,0.05,0.04,53.04,39.78,75.0,7541
+E02004239,E06000058,South West,West Highcliffe,"Bournemouth, Christchurch and Poole",3,3,0.05,0.05,49.83,49.83,100.0,6020
+E02003061,E06000023,South West,Highridge,"Bristol, City of",3,3,0.05,0.05,49.12,49.12,100.0,6107
 E02004215,E07000045,South West,"Newton Abbot, Broadlands & Wolborough",Teignbridge,3,3,0.05,0.05,51.93,51.93,100.0,5777

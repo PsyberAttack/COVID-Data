@@ -1,5 +1,5 @@
 MSOA11CD,LAD19CD,Region,MSOA_Name,Local_Authority,Cases,Deaths,%Infected,%Dead,Cases_100K,Deaths_100K,CFR%,Population
-E02002913,E06000019,West Midlands,"Colwall, Cradley & Wellington Heath","Herefordshire, County of",129,3,2.23,0.05,2233.77,51.95,2.33,5775
+E02002913,E06000019,West Midlands,"Colwall, Cradley & Wellington Heath","Herefordshire, County of",136,3,2.35,0.05,2354.98,51.95,2.21,5775
 E02002968,E06000021,West Midlands,Basford & Hartshill,Stoke-on-Trent,131,11,1.44,0.12,1439.56,120.88,8.4,9100
 E02006483,E07000219,West Midlands,Caldwell & Chilvers Coton,Nuneaton and Bedworth,97,25,1.19,0.31,1194.14,307.77,25.77,8123
 E02002967,E06000021,West Midlands,Bentilee & Ubberley,Stoke-on-Trent,118,17,1.16,0.17,1157.43,166.75,14.41,10195
@@ -8,21 +8,24 @@ E02006159,E07000195,West Midlands,Kidsgrove Central,Newcastle-under-Lyme,64,11,1
 E02006163,E07000195,West Midlands,Bradwell,Newcastle-under-Lyme,86,19,1.04,0.23,1036.39,228.97,22.09,8298
 E02002973,E06000021,West Midlands,Oakhill & Trent Vale,Stoke-on-Trent,87,3,1.04,0.04,1041.42,35.91,3.45,8354
 E02006034,E06000051,West Midlands,Shrewsbury Copthorne & Bowbrook,Shropshire,100,8,1.01,0.08,1010.82,80.87,8.0,9893
-E02006706,E07000234,West Midlands,Bromsgrove Central & Sanders Park,Bromsgrove,72,32,0.97,0.43,974.95,433.31,44.44,7385
+E02006706,E07000234,West Midlands,Bromsgrove Central & Sanders Park,Bromsgrove,73,32,0.99,0.43,988.49,433.31,43.84,7385
+E02002070,E08000028,West Midlands,Smethwick South,Sandwell,94,18,0.96,0.18,963.31,184.46,19.15,9758
 E02006479,E07000219,West Midlands,Nuneaton Town Centre,Nuneaton and Bedworth,88,11,0.96,0.12,961.01,120.13,12.5,9157
+E02002059,E08000028,West Midlands,West Bromwich North,Sandwell,104,16,0.94,0.14,935.76,143.96,15.38,11114
 E02001848,E08000025,West Midlands,Upper Witton,Birmingham,66,13,0.93,0.18,930.49,183.28,19.7,7093
-E02002070,E08000028,West Midlands,Smethwick South,Sandwell,88,18,0.9,0.18,901.82,184.46,20.45,9758
 E02006164,E07000195,West Midlands,Chesterton & Knutton,Newcastle-under-Lyme,69,18,0.88,0.23,878.98,229.3,26.09,7850
 E02002182,E08000031,West Midlands,Woodcross,Wolverhampton,56,27,0.87,0.42,871.46,420.17,48.21,6426
 E02006168,E07000195,West Midlands,Newcastle Town,Newcastle-under-Lyme,80,17,0.85,0.18,851.88,181.02,21.25,9391
-E02002059,E08000028,West Midlands,West Bromwich North,Sandwell,95,16,0.85,0.14,854.78,143.96,16.84,11114
 E02006028,E06000051,West Midlands,Bomere Heath & Montford Bridge,Shropshire,79,11,0.85,0.12,848.82,118.19,13.92,9307
-E02002132,E08000030,West Midlands,Bentley,Walsall,53,18,0.8,0.27,796.87,270.64,33.96,6651
+E02002132,E08000030,West Midlands,Bentley,Walsall,56,18,0.84,0.27,841.98,270.64,32.14,6651
 E02006482,E07000219,West Midlands,Bermuda & Heath End,Nuneaton and Bedworth,57,3,0.8,0.04,799.89,42.1,5.26,7126
+E02002062,E08000028,West Midlands,West Bromwich East & Kenrick Park,Sandwell,69,20,0.79,0.23,791.47,229.41,28.99,8718
 E02002128,E08000030,West Midlands,Short Heath East,Walsall,43,9,0.79,0.16,786.39,164.59,20.93,5468
 E02002029,E08000027,West Midlands,Quinton West,Dudley,46,9,0.77,0.15,773.24,151.29,19.57,5949
-E02001844,E08000025,West Midlands,Chester Road,Birmingham,75,30,0.76,0.31,764.06,305.62,40.0,9816
-E02002062,E08000028,West Midlands,West Bromwich East & Kenrick Park,Sandwell,65,20,0.75,0.23,745.58,229.41,30.77,8718
+E02006139,E07000193,West Midlands,Burton Shobnall,East Staffordshire,64,2,0.77,0.02,766.74,23.96,3.12,8347
+E02001889,E08000025,West Midlands,Little Bromwich,Birmingham,68,13,0.76,0.15,761.82,145.64,19.12,8926
+E02002061,E08000028,West Midlands,Greets Green East,Sandwell,47,7,0.76,0.11,760.76,113.31,14.89,6178
+E02001844,E08000025,West Midlands,Chester Road,Birmingham,74,30,0.75,0.31,753.87,305.62,40.54,9816
 E02006015,E06000051,West Midlands,Whitchurch,Shropshire,77,13,0.75,0.13,745.83,125.92,16.88,10324
 E02006894,E08000031,West Midlands,Blakenhall,Wolverhampton,108,19,0.75,0.13,746.58,131.34,17.59,14466
 E02002980,E06000021,West Midlands,Hanford & Trentham West,Stoke-on-Trent,45,6,0.75,0.1,745.9,99.45,13.33,6033
@@ -32,24 +35,21 @@ E02002169,E08000031,West Midlands,Compton & Merryhill North,Wolverhampton,64,17,
 E02002959,E06000021,West Midlands,Longport & Burslem Park,Stoke-on-Trent,70,12,0.74,0.13,741.68,127.15,17.14,9438
 E02002158,E08000031,West Midlands,Wednesfield North East,Wolverhampton,53,10,0.73,0.14,728.82,137.51,18.87,7272
 E02002952,E06000021,West Midlands,Goldenhill & Sandyford,Stoke-on-Trent,54,9,0.73,0.12,726.1,121.02,16.67,7437
-E02006139,E07000193,West Midlands,Burton Shobnall,East Staffordshire,61,2,0.73,0.02,730.8,23.96,3.28,8347
 E02006750,E07000238,West Midlands,Droitwich Spa East,Wychavon,39,8,0.71,0.15,708.96,145.43,20.51,5501
 E02002919,E06000019,West Midlands,Hereford South,"Herefordshire, County of",70,12,0.71,0.12,711.09,121.9,17.14,9844
-E02006480,E07000219,West Midlands,Tomkinson Road,Nuneaton and Bedworth,53,9,0.7,0.12,701.71,119.16,16.98,7553
+E02006480,E07000219,West Midlands,Tomkinson Road,Nuneaton and Bedworth,54,9,0.71,0.12,714.95,119.16,16.67,7553
 E02006033,E06000051,West Midlands,Shrewsbury Town,Shropshire,60,9,0.7,0.1,695.97,104.4,15.0,8621
 E02001895,E08000025,West Midlands,Sheldon North,Birmingham,62,31,0.69,0.35,690.96,345.48,50.0,8973
+E02001879,E08000025,West Midlands,Summerfield,Birmingham,75,18,0.69,0.17,691.24,165.9,24.0,10850
 E02006806,E07000219,West Midlands,Ash Green & Keresley End,Nuneaton and Bedworth,59,11,0.69,0.13,692.89,129.18,18.64,8515
 E02002055,E08000028,West Midlands,Wednesbury South,Sandwell,68,10,0.69,0.1,687.56,101.11,14.71,9890
+E02002052,E08000028,West Midlands,Stone Cross & Hateley Heath,Sandwell,80,9,0.69,0.08,692.52,77.91,11.25,11552
 E02001953,E08000025,West Midlands,King's Norton,Birmingham,47,23,0.68,0.33,675.19,330.41,48.94,6961
 E02001899,E08000025,West Midlands,Harborne West,Birmingham,57,17,0.68,0.2,684.03,204.01,29.82,8333
 E02002974,E06000021,West Midlands,Weston Coyney,Stoke-on-Trent,40,7,0.68,0.12,675.45,118.2,17.5,5922
-E02002061,E08000028,West Midlands,Greets Green East,Sandwell,42,7,0.68,0.11,679.83,113.31,16.67,6178
 E02006773,E07000239,West Midlands,Comberton,Wyre Forest,57,26,0.67,0.31,674.16,307.51,45.61,8455
 E02001969,E08000026,West Midlands,Radford West,Coventry,48,13,0.67,0.18,669.55,181.34,27.08,7169
-E02001889,E08000025,West Midlands,Little Bromwich,Birmingham,60,13,0.67,0.15,672.19,145.64,21.67,8926
-E02002052,E08000028,West Midlands,Stone Cross & Hateley Heath,Sandwell,77,9,0.67,0.08,666.55,77.91,11.69,11552
 E02001939,E08000025,West Midlands,Bournville West,Birmingham,40,13,0.66,0.21,656.06,213.22,32.5,6097
-E02001879,E08000025,West Midlands,Summerfield,Birmingham,72,18,0.66,0.17,663.59,165.9,25.0,10850
 E02002065,E08000028,West Midlands,Smethwick North & West,Sandwell,87,16,0.66,0.12,661.65,121.68,18.39,13149
 E02002106,E08000029,West Midlands,Knowle,Solihull,63,33,0.65,0.34,646.82,338.81,52.38,9740
 E02002121,E08000030,West Midlands,Blakenall North,Walsall,44,16,0.65,0.24,653.98,237.81,36.36,6728
@@ -60,6 +60,7 @@ E02001868,E08000025,West Midlands,Hodge Hill,Birmingham,61,11,0.65,0.12,646.05,1
 E02006137,E07000193,West Midlands,Burton Horninglow,East Staffordshire,58,22,0.64,0.24,638.49,242.18,37.93,9084
 E02006702,E07000234,West Midlands,Catshill,Bromsgrove,39,14,0.64,0.23,638.4,229.17,35.9,6109
 E02006030,E06000051,West Midlands,Shrewsbury Harlescott & Sundorne,Shropshire,52,13,0.64,0.16,642.77,160.69,25.0,8090
+E02002111,E08000030,West Midlands,Brownhills,Walsall,39,13,0.63,0.21,629.03,209.68,33.33,6200
 E02002104,E08000029,West Midlands,Monkspath North,Solihull,38,12,0.63,0.2,625.31,197.47,31.58,6077
 E02002010,E08000027,West Midlands,New Dock & Eve Hill,Dudley,50,15,0.63,0.19,628.54,188.56,30.0,7955
 E02002916,E06000019,West Midlands,Hereford Central,"Herefordshire, County of",64,3,0.63,0.03,628.68,29.47,4.69,10180
@@ -71,22 +72,26 @@ E02001976,E08000026,West Midlands,Clifford Park,Coventry,48,11,0.6,0.14,604.84,1
 E02002915,E06000019,West Midlands,Hereford North East,"Herefordshire, County of",46,6,0.6,0.08,599.66,78.22,13.04,7671
 E02002984,E06000021,West Midlands,Trentham East,Stoke-on-Trent,32,20,0.59,0.37,593.91,371.2,62.5,5388
 E02002013,E08000027,West Midlands,Wall Heath,Dudley,38,10,0.59,0.15,586.24,154.27,26.32,6482
-E02001857,E08000025,West Midlands,Gravelly Hill & South Erdington,Birmingham,84,12,0.59,0.08,587.86,83.98,14.29,14289
+E02006900,E08000025,West Midlands,Bordesley,Birmingham,92,22,0.59,0.14,587.03,140.38,23.91,15672
 E02001855,E08000025,West Midlands,Castle Vale,Birmingham,57,22,0.58,0.22,580.92,224.22,38.6,9812
-E02002111,E08000030,West Midlands,Brownhills,Walsall,36,13,0.58,0.21,580.65,209.68,36.11,6200
+E02001919,E08000025,West Midlands,Moseley,Birmingham,39,15,0.58,0.22,578.55,222.52,38.46,6741
 E02002002,E08000027,West Midlands,Sedgeley West,Dudley,40,13,0.58,0.19,575.54,187.05,32.5,6950
 E02002096,E08000029,West Midlands,Lode Heath,Solihull,60,20,0.58,0.19,579.82,193.27,33.33,10348
+E02002160,E08000031,West Midlands,Wednesfield Town,Wolverhampton,43,12,0.58,0.16,577.03,161.03,27.91,7452
 E02006732,E07000236,West Midlands,Crabbs Cross,Redditch,41,9,0.58,0.13,583.46,128.08,21.95,7027
 E02002144,E08000030,West Midlands,Walsall South East,Walsall,39,9,0.58,0.13,579.32,133.69,23.08,6732
 E02006510,E07000221,West Midlands,Wilmcote & Great Alne,Stratford-on-Avon,40,8,0.58,0.12,579.04,115.81,20.0,6908
 E02002964,E06000021,West Midlands,Townsend & Eaton Park,Stoke-on-Trent,50,9,0.58,0.11,584.45,105.2,18.0,8555
+E02001857,E08000025,West Midlands,Gravelly Hill & South Erdington,Birmingham,83,12,0.58,0.08,580.87,83.98,14.46,14289
 E02006741,E07000237,West Midlands,Lyppard Grange,Worcester,34,10,0.57,0.17,566.29,166.56,29.41,6004
 E02002041,E08000027,West Midlands,Pedmore Fields,Dudley,35,8,0.57,0.13,569.2,130.1,22.86,6149
 E02006141,E07000193,West Midlands,Burton Central,East Staffordshire,68,13,0.57,0.11,567.28,108.45,19.12,11987
-E02006900,E08000025,West Midlands,Bordesley,Birmingham,88,22,0.56,0.14,561.51,140.38,25.0,15672
+E02001840,E08000025,West Midlands,Perry Common - College Road,Birmingham,53,15,0.56,0.16,564.49,159.76,28.3,9389
+E02002060,E08000028,West Midlands,Greets Green West,Sandwell,38,6,0.56,0.09,557.68,88.05,15.79,6814
 E02002113,E08000030,West Midlands,Walsall Wood,Walsall,36,5,0.56,0.08,559.18,77.66,13.89,6438
 E02002114,E08000030,West Midlands,Pelsall South,Walsall,33,17,0.55,0.28,550.64,283.66,51.52,5993
 E02002102,E08000029,West Midlands,Blossomfield,Solihull,49,21,0.55,0.23,547.18,234.51,42.86,8955
+E02006473,E07000218,West Midlands,Coleshill & Water Orton,North Warwickshire,56,19,0.55,0.19,547.84,185.87,33.93,10222
 E02006697,E07000234,West Midlands,"Dodford, Belbroughton & Romsley",Bromsgrove,41,13,0.55,0.17,551.08,174.73,31.71,7440
 E02002075,E08000028,West Midlands,Blackheath,Sandwell,49,13,0.55,0.15,553.23,146.78,26.53,8857
 E02001984,E08000026,West Midlands,Copsewood,Coventry,59,14,0.55,0.13,549.66,130.43,23.73,10734
@@ -94,27 +99,28 @@ E02001835,E08000025,West Midlands,Sutton Coldfield South & Central,Birmingham,45
 E02002163,E08000031,West Midlands,Heath Town,Wolverhampton,71,10,0.55,0.08,554.38,78.08,14.08,12807
 E02002116,E08000030,West Midlands,Aldridge North,Walsall,36,18,0.54,0.27,540.05,270.03,50.0,6666
 E02001955,E08000025,West Midlands,Longbridge South,Birmingham,39,16,0.54,0.22,539.49,221.33,41.03,7229
+E02002140,E08000030,West Midlands,Pleck,Walsall,47,17,0.54,0.2,539.8,195.25,36.17,8707
 E02002125,E08000030,West Midlands,Rushall,Walsall,33,10,0.54,0.16,541.69,164.15,30.3,6092
-E02002160,E08000031,West Midlands,Wednesfield Town,Wolverhampton,40,12,0.54,0.16,536.77,161.03,30.0,7452
 E02006160,E07000195,West Midlands,Kidsgrove West,Newcastle-under-Lyme,46,6,0.54,0.07,535.01,69.78,13.04,8598
-E02001919,E08000025,West Midlands,Moseley,Birmingham,36,15,0.53,0.22,534.05,222.52,41.67,6741
 E02006180,E07000196,West Midlands,Featherstone East & Essington,South Staffordshire,37,14,0.53,0.2,534.22,202.14,37.84,6926
 E02001828,E08000025,West Midlands,Four Oaks,Birmingham,37,10,0.53,0.14,530.01,143.25,27.03,6981
 E02006481,E07000219,West Midlands,Stockingford,Nuneaton and Bedworth,37,10,0.53,0.14,532.83,144.01,27.03,6944
+E02001870,E08000025,West Midlands,Ward End & Bromford West,Birmingham,67,16,0.53,0.13,530.15,126.6,23.88,12638
 E02002146,E08000030,West Midlands,The Delves,Walsall,36,8,0.53,0.12,534.6,118.8,22.22,6734
+E02006476,E07000219,West Midlands,Camp Hill,Nuneaton and Bedworth,46,6,0.53,0.07,526.2,68.63,13.04,8742
 E02006743,E07000237,West Midlands,Ronkswood & Nunnery Wood,Worcester,35,3,0.53,0.05,531.51,45.56,8.57,6585
 E02006166,E07000195,West Midlands,May Bank,Newcastle-under-Lyme,38,3,0.53,0.04,529.62,41.81,7.89,7175
 E02006507,E07000221,West Midlands,"Southam, Stockton & Napton",Stratford-on-Avon,49,20,0.52,0.21,515.52,210.42,40.82,9505
 E02002926,E06000019,West Midlands,Ross-on-Wye,"Herefordshire, County of",59,21,0.52,0.19,519.78,185.01,35.59,11351
-E02006473,E07000218,West Midlands,Coleshill & Water Orton,North Warwickshire,53,19,0.52,0.19,518.49,185.87,35.85,10222
-E02001840,E08000025,West Midlands,Perry Common - College Road,Birmingham,49,15,0.52,0.16,521.89,159.76,30.61,9389
+E02006490,E07000219,West Midlands,Bedworth Heath,Nuneaton and Bedworth,40,11,0.52,0.14,523.08,143.85,27.5,7647
 E02006470,E07000218,West Midlands,Atherstone,North Warwickshire,62,15,0.52,0.13,518.05,125.33,24.19,11968
+E02002058,E08000028,West Midlands,Great Bridge & Dudley Port,Sandwell,65,15,0.52,0.12,519.88,119.97,23.08,12503
 E02006024,E06000051,West Midlands,Oswestry East,Shropshire,53,12,0.52,0.12,523.87,118.61,22.64,10117
 E02002911,E06000019,West Midlands,"Credenhill, Weobley & Wellington","Herefordshire, County of",49,10,0.52,0.11,515.95,105.3,20.41,9497
-E02002140,E08000030,West Midlands,Pleck,Walsall,44,17,0.51,0.2,505.34,195.25,38.64,8707
+E02002149,E08000031,West Midlands,Bushbury,Wolverhampton,51,10,0.52,0.1,517.66,101.5,19.61,9852
+E02001904,E08000025,West Midlands,Hay Mills & Tyseley,Birmingham,40,13,0.51,0.17,511.71,166.3,32.5,7817
 E02006194,E07000197,West Midlands,Doxey & Holmcroft,Stafford,43,13,0.51,0.16,513.62,155.28,30.23,8372
 E02002122,E08000030,West Midlands,Blakenall South,Walsall,33,10,0.51,0.15,509.26,154.32,30.3,6480
-E02001870,E08000025,West Midlands,Ward End & Bromford West,Birmingham,64,16,0.51,0.13,506.41,126.6,25.0,12638
 E02006809,E08000025,West Midlands,Handsworth Wood,Birmingham,52,13,0.51,0.13,508.46,127.11,25.0,10227
 E02002021,E08000027,West Midlands,Brierley Hill,Dudley,40,10,0.51,0.13,513.22,128.3,25.0,7794
 E02006167,E07000195,West Midlands,Newcastle West & Cross Heath,Newcastle-under-Lyme,52,13,0.51,0.13,510.0,127.5,25.0,10196
@@ -127,25 +133,19 @@ E02001914,E08000025,West Midlands,Moor Green & Cannon Hill,Birmingham,35,15,0.5,
 E02006134,E07000193,West Midlands,Rolleston-on-Dove & Tutbury,East Staffordshire,47,17,0.5,0.18,501.92,181.55,36.17,9364
 E02006197,E07000197,West Midlands,Central Stafford,Stafford,48,15,0.5,0.16,499.27,156.02,31.25,9614
 E02002072,E08000028,West Midlands,Langley Green,Sandwell,43,11,0.5,0.13,498.84,127.61,25.58,8620
-E02002058,E08000028,West Midlands,Great Bridge & Dudley Port,Sandwell,62,15,0.5,0.12,495.88,119.97,24.19,12503
 E02002909,E06000019,West Midlands,Bromyard & Bishop's Frome,"Herefordshire, County of",54,10,0.5,0.09,502.14,92.99,18.52,10754
 E02006192,E07000197,West Midlands,Eccleshall & Yarnfield,Stafford,44,8,0.5,0.09,501.77,91.23,18.18,8769
 E02001886,E08000025,West Midlands,Rotton Park,Birmingham,52,7,0.5,0.07,503.68,67.8,13.46,10324
-E02006709,E07000234,West Midlands,"Stoke Heath, Finstall & Bentley",Bromsgrove,41,1,0.5,0.01,500.18,12.2,2.44,8197
 E02006745,E07000237,West Midlands,Lower Wick & Bromwich Road,Worcester,41,15,0.49,0.18,493.03,180.38,36.59,8316
 E02002918,E06000019,West Midlands,Hereford East,"Herefordshire, County of",29,10,0.49,0.17,487.97,168.27,34.48,5943
 E02002067,E08000028,West Midlands,Rowley West,Sandwell,27,7,0.49,0.13,490.91,127.27,25.93,5500
 E02001946,E08000025,West Midlands,Northfield Victoria Common,Birmingham,37,9,0.49,0.12,487.29,118.53,24.32,7593
-E02002149,E08000031,West Midlands,Bushbury,Wolverhampton,48,10,0.49,0.1,487.21,101.5,20.83,9852
 E02006484,E07000219,West Midlands,Attleborough,Nuneaton and Bedworth,37,6,0.49,0.08,486.97,78.97,16.22,7598
-E02006476,E07000219,West Midlands,Camp Hill,Nuneaton and Bedworth,43,6,0.49,0.07,491.88,68.63,13.95,8742
+E02006709,E07000234,West Midlands,"Stoke Heath, Finstall & Bentley",Bromsgrove,40,1,0.49,0.01,487.98,12.2,2.5,8197
 E02001992,E08000026,West Midlands,Ernesford Grange & Stoke Aldermoor,Coventry,51,19,0.48,0.18,481.04,179.21,37.25,10602
 E02002165,E08000031,West Midlands,West Park,Wolverhampton,39,12,0.48,0.15,482.37,148.42,30.77,8085
 E02006144,E07000193,West Midlands,Burton Stapenhill,East Staffordshire,38,11,0.48,0.14,480.89,139.21,28.95,7902
-E02006490,E07000219,West Midlands,Bedworth Heath,Nuneaton and Bedworth,37,11,0.48,0.14,483.85,143.85,29.73,7647
-E02002060,E08000028,West Midlands,Greets Green West,Sandwell,33,6,0.48,0.09,484.3,88.05,18.18,6814
 E02006525,E07000222,West Midlands,Leamington Central & North,Warwick,66,11,0.48,0.08,482.28,80.38,16.67,13685
-E02001904,E08000025,West Midlands,Hay Mills & Tyseley,Birmingham,37,13,0.47,0.17,473.33,166.3,35.14,7817
 E02006474,E07000218,West Midlands,New Arley & Fillongley,North Warwickshire,30,11,0.47,0.17,473.63,173.67,36.67,6334
 E02001827,E08000025,West Midlands,Hill Hook,Birmingham,29,10,0.47,0.16,465.94,160.67,34.48,6224
 E02001871,E08000025,West Midlands,Buckland End,Birmingham,39,13,0.47,0.16,472.21,157.4,33.33,8259
@@ -156,25 +156,28 @@ E02002972,E06000021,West Midlands,Longton West & Sandford Hill,Stoke-on-Trent,30
 E02006179,E07000196,West Midlands,"Featherstone West, Coven & Shareshill",South Staffordshire,43,11,0.47,0.12,465.47,119.07,25.58,9238
 E02001877,E08000025,West Midlands,Saltley East,Birmingham,56,13,0.47,0.11,472.33,109.65,23.21,11856
 E02006469,E07000218,West Midlands,"Dordon, Hurley & Wood End",North Warwickshire,43,10,0.47,0.11,469.74,109.24,23.26,9154
+E02001884,E08000025,West Midlands,Bordesley Green North,Birmingham,48,6,0.47,0.06,471.33,58.92,12.5,10184
 E02006204,E07000198,West Midlands,Leek East & Upper Hulme,Staffordshire Moorlands,36,5,0.47,0.06,467.23,64.89,13.89,7705
+E02001972,E08000026,West Midlands,Foleshill East,Coventry,56,5,0.47,0.04,471.78,42.12,8.93,11870
 E02002137,E08000030,West Midlands,Streetly North,Walsall,28,15,0.46,0.24,456.7,244.66,53.57,6131
 E02006199,E07000197,West Midlands,Rowley & Derrington,Stafford,37,14,0.46,0.17,461.63,174.67,37.84,8015
-E02001837,E08000025,West Midlands,Kingstanding South East,Birmingham,48,11,0.46,0.11,460.48,105.53,22.92,10424
-E02002068,E08000028,West Midlands,Smethwick East,Sandwell,65,15,0.46,0.11,462.24,106.67,23.08,14062
 E02006190,E07000197,West Midlands,Stone Town,Stafford,48,12,0.46,0.11,455.84,113.96,25.0,10530
-E02006157,E07000194,West Midlands,"Fazeley, Mile Oak & Drayton Basset",Lichfield,34,7,0.46,0.1,463.59,95.45,20.59,7334
 E02006222,E07000199,West Midlands,Belgrave,Tamworth,32,6,0.46,0.09,459.57,86.17,18.75,6963
 E02002134,E08000030,West Midlands,Willenhall Park,Walsall,41,8,0.46,0.09,457.95,89.36,19.51,8953
+E02006805,E08000026,West Midlands,Holbrooks,Coventry,43,8,0.46,0.08,456.43,84.92,18.6,9421
 E02002032,E08000027,West Midlands,Cradley East,Dudley,47,8,0.46,0.08,460.6,78.4,17.02,10204
 E02002071,E08000028,West Midlands,Rowley East,Sandwell,31,5,0.46,0.07,463.17,74.7,16.13,6693
 E02001830,E08000025,West Midlands,Sutton Coldfield North & Park,Birmingham,43,6,0.46,0.06,455.65,63.58,13.95,9437
 E02006478,E07000219,West Midlands,Galley Common & Whittleford,Nuneaton and Bedworth,36,5,0.46,0.06,460.53,63.96,13.89,7817
+E02002961,E06000021,West Midlands,Cobridge & Central Forest,Stoke-on-Trent,32,2,0.46,0.03,462.63,28.91,6.25,6917
 E02001866,E08000025,West Midlands,Lozells West,Birmingham,41,16,0.45,0.17,447.45,174.62,39.02,9163
 E02002105,E08000029,West Midlands,Balsall Common,Solihull,37,14,0.45,0.17,446.97,169.12,37.84,8278
 E02006518,E07000221,West Midlands,Shipston-on-Stour & Brailes,Stratford-on-Avon,43,14,0.45,0.15,453.35,147.6,32.56,9485
 E02002166,E08000031,West Midlands,East Park,Wolverhampton,43,13,0.45,0.14,449.09,135.77,30.23,9575
 E02002089,E08000029,West Midlands,Marston Green & Airport,Solihull,35,10,0.45,0.13,449.52,128.44,28.57,7786
 E02006504,E07000221,West Midlands,"Earlswood, Tamworth-in-Arden & Sambourne",Stratford-on-Avon,26,7,0.45,0.12,452.73,121.89,26.92,5743
+E02001837,E08000025,West Midlands,Kingstanding South East,Birmingham,47,11,0.45,0.11,450.88,105.53,23.4,10424
+E02006157,E07000194,West Midlands,"Fazeley, Mile Oak & Drayton Basset",Lichfield,33,7,0.45,0.1,449.96,95.45,21.21,7334
 E02002170,E08000031,West Midlands,Bilston North West,Wolverhampton,28,5,0.45,0.08,447.0,79.82,17.86,6264
 E02002133,E08000030,West Midlands,Walsall North East,Walsall,31,5,0.45,0.07,452.62,73.0,16.13,6849
 E02001913,E08000025,West Midlands,Metchley,Birmingham,38,5,0.45,0.06,447.01,58.82,13.16,8501
@@ -183,11 +186,14 @@ E02006764,E07000238,West Midlands,Evesham South,Wychavon,27,11,0.44,0.18,441.9,1
 E02006506,E07000221,West Midlands,Studley,Stratford-on-Avon,26,9,0.44,0.15,443.76,153.61,34.62,5859
 E02006761,E07000238,West Midlands,Evesham Central,Wychavon,29,10,0.44,0.15,444.24,153.19,34.48,6528
 E02001990,E08000026,West Midlands,Binley,Coventry,41,11,0.44,0.12,441.1,118.34,26.83,9295
-E02006486,E07000219,West Midlands,Bedworth Woodlands,Nuneaton and Bedworth,30,8,0.44,0.12,436.62,116.43,26.67,6871
+E02002068,E08000028,West Midlands,Smethwick East,Sandwell,62,15,0.44,0.11,440.9,106.67,24.19,14062
 E02006191,E07000197,West Midlands,Little Stoke & Milwich,Stafford,35,8,0.44,0.1,436.52,99.78,22.86,8018
 E02002054,E08000028,West Midlands,Hamstead West,Sandwell,25,5,0.44,0.09,439.99,88.0,20.0,5682
 E02001882,E08000025,West Midlands,Stetchford,Birmingham,38,7,0.44,0.08,439.2,80.91,18.42,8652
+E02002077,E08000028,West Midlands,Old Hill,Sandwell,46,8,0.44,0.08,442.22,76.91,17.39,10402
 E02006171,E07000195,West Midlands,Clayton & Langdale,Newcastle-under-Lyme,40,5,0.44,0.05,438.64,54.83,12.5,9119
+E02001900,E08000025,West Midlands,Five Ways South & Calthorpe Park,Birmingham,32,11,0.43,0.15,430.69,148.05,34.38,7430
+E02002174,E08000031,West Midlands,Bradmore,Wolverhampton,33,10,0.43,0.13,428.13,129.74,30.3,7708
 E02001995,E08000026,West Midlands,Whitley & Tollbar End,Coventry,45,12,0.43,0.12,432.61,115.36,26.67,10402
 E02001865,E08000025,West Midlands,Handsworth South,Birmingham,50,11,0.43,0.09,427.61,94.07,22.0,11693
 E02002011,E08000027,West Midlands,Kingswinford North,Dudley,24,4,0.43,0.07,425.83,70.97,16.67,5636
@@ -196,25 +202,26 @@ E02006196,E07000197,West Midlands,Stafford North East,Stafford,33,4,0.43,0.05,43
 E02002092,E08000029,West Midlands,Lyndon South,Solihull,31,12,0.42,0.16,424.19,164.2,38.71,7308
 E02002093,E08000029,West Midlands,Olton & Kineton Green,Solihull,29,10,0.42,0.15,421.45,145.33,34.48,6881
 E02002135,E08000030,West Midlands,Walsall West,Walsall,34,11,0.42,0.13,415.34,134.38,32.35,8186
+E02006486,E07000219,West Midlands,Bedworth Woodlands,Nuneaton and Bedworth,29,8,0.42,0.12,422.06,116.43,27.59,6871
 E02002155,E08000031,West Midlands,Low Hill,Wolverhampton,26,7,0.42,0.11,415.73,111.93,26.92,6254
 E02002008,E08000027,West Midlands,Dibdale,Dudley,35,8,0.42,0.1,415.68,95.01,22.86,8420
 E02001993,E08000026,West Midlands,Canley & Westwood Heath,Coventry,35,7,0.42,0.08,419.26,83.85,20.0,8348
 E02006037,E06000051,West Midlands,Shrewsbury Meole & Kingsland,Shropshire,43,7,0.42,0.07,420.41,68.44,16.28,10228
-E02001884,E08000025,West Midlands,Bordesley Green North,Birmingham,43,6,0.42,0.06,422.23,58.92,13.95,10184
-E02002978,E06000021,West Midlands,Meir North,Stoke-on-Trent,29,3,0.42,0.04,423.61,43.82,10.34,6846
 E02006032,E06000051,West Midlands,Shrewsbury Monkmoor,Shropshire,38,3,0.42,0.03,422.03,33.32,7.89,9004
 E02006488,E07000219,West Midlands,Bulkington,Nuneaton and Bedworth,25,16,0.41,0.26,410.51,262.73,64.0,6090
 E02002020,E08000027,West Midlands,Wordsley & Buckpool,Dudley,40,19,0.41,0.2,410.72,195.09,47.5,9739
 E02002115,E08000030,West Midlands,Little Bloxwich,Walsall,28,10,0.41,0.15,411.58,146.99,35.71,6803
+E02001854,E08000025,West Midlands,Birches Green,Birmingham,32,10,0.41,0.13,407.02,127.19,31.25,7862
 E02002084,E08000029,West Midlands,Smith's Wood South,Solihull,27,8,0.41,0.12,413.6,122.55,29.63,6528
 E02001892,E08000025,West Midlands,Yardley Fields,Birmingham,44,12,0.41,0.11,408.96,111.53,27.27,10759
 E02002057,E08000028,West Midlands,Tipton,Sandwell,40,11,0.41,0.11,406.13,111.69,27.5,9849
-E02002077,E08000028,West Midlands,Old Hill,Sandwell,43,8,0.41,0.08,413.38,76.91,18.6,10402
 E02002127,E08000030,West Midlands,Walsall Ryecroft,Walsall,40,8,0.41,0.08,410.55,82.11,20.0,9743
 E02002156,E08000031,West Midlands,Wood End,Wolverhampton,33,6,0.41,0.07,405.46,73.72,18.18,8139
 E02006746,E07000237,West Midlands,Battenhall & Diglis,Worcester,34,6,0.41,0.07,413.52,72.97,17.65,8222
+E02002943,E06000020,West Midlands,Horsehay & The Rock,Telford and Wrekin,58,8,0.41,0.06,413.4,57.02,13.79,14030
 E02002123,E08000030,West Midlands,New Invention,Walsall,27,4,0.41,0.06,413.22,61.22,14.81,6534
 E02006778,E07000239,West Midlands,Stourport Lickhill & Burlish,Wyre Forest,29,4,0.41,0.06,414.64,57.19,13.79,6994
+E02002978,E06000021,West Midlands,Meir North,Stoke-on-Trent,28,3,0.41,0.04,409.0,43.82,10.71,6846
 E02006150,E07000194,West Midlands,Lichfield East,Lichfield,46,22,0.4,0.19,403.19,192.83,47.83,11409
 E02001836,E08000025,West Midlands,New Oscott,Birmingham,38,14,0.4,0.15,403.65,148.71,36.84,9414
 E02002015,E08000027,West Midlands,Pensett & Kingswinford East,Dudley,26,9,0.4,0.14,401.67,139.04,34.62,6473
@@ -224,28 +231,21 @@ E02001852,E08000025,West Midlands,Stockland Green - Marsh Hill,Birmingham,29,8,0
 E02006762,E07000238,West Midlands,Evesham North & Hampton,Wychavon,26,7,0.4,0.11,398.35,107.25,26.92,6527
 E02001893,E08000025,West Midlands,Yardley,Birmingham,34,8,0.4,0.09,403.23,94.88,23.53,8432
 E02001973,E08000026,West Midlands,Stoke Heath,Coventry,37,8,0.4,0.09,398.41,86.14,21.62,9287
-E02006805,E08000026,West Midlands,Holbrooks,Coventry,38,8,0.4,0.08,403.35,84.92,21.05,9421
+E02006188,E07000197,West Midlands,Fulford & Meir Heath,Stafford,24,5,0.4,0.08,398.27,82.97,20.83,6026
+E02006138,E07000193,West Midlands,Burton Eton Park,East Staffordshire,29,5,0.4,0.07,397.26,68.49,17.24,7300
 E02002063,E08000028,West Midlands,North Tividale,Sandwell,41,7,0.4,0.07,401.53,68.55,17.07,10211
 E02002976,E06000021,West Midlands,Hollybush & Blurton North,Stoke-on-Trent,24,4,0.4,0.07,401.61,66.93,16.67,5976
 E02006217,E07000199,West Midlands,Coton Farm & Perry Crofts,Tamworth,36,6,0.4,0.07,400.85,66.81,16.67,8981
 E02002951,E06000021,West Midlands,Great Chell & Packmoor,Stoke-on-Trent,31,5,0.4,0.06,401.5,64.76,16.13,7721
 E02006727,E07000236,West Midlands,Arrow Valley & Ipsley,Redditch,24,3,0.4,0.05,398.54,49.82,12.5,6022
 E02002977,E06000021,West Midlands,Dresden,Stoke-on-Trent,23,3,0.4,0.05,400.21,52.2,13.04,5747
-E02002961,E06000021,West Midlands,Cobridge & Central Forest,Stoke-on-Trent,28,2,0.4,0.03,404.8,28.91,7.14,6917
 E02001965,E08000026,West Midlands,Walsgrave & Woodway Park,Coventry,33,1,0.4,0.01,397.78,12.05,3.03,8296
 E02006768,E07000239,West Midlands,Franche,Wyre Forest,27,11,0.39,0.16,391.47,159.49,40.74,6897
-E02001900,E08000025,West Midlands,Five Ways South & Calthorpe Park,Birmingham,29,11,0.39,0.15,390.31,148.05,37.93,7430
 E02001927,E08000025,West Midlands,Weoley Castle,Birmingham,31,12,0.39,0.15,389.69,150.85,38.71,7955
 E02002003,E08000027,West Midlands,West Coseley,Dudley,36,11,0.39,0.12,394.91,120.67,30.56,9116
 E02002069,E08000028,West Midlands,Whiteheath,Sandwell,27,8,0.39,0.12,389.84,115.51,29.63,6926
 E02001878,E08000025,West Midlands,Saltley West,Birmingham,36,10,0.39,0.11,388.48,107.91,27.78,9267
 E02002150,E08000031,West Midlands,Fordhouses,Wolverhampton,22,6,0.39,0.11,388.62,105.99,27.27,5661
+E02001968,E08000026,West Midlands,Radford East,Coventry,32,8,0.39,0.1,387.74,96.93,25.0,8253
 E02002119,E08000030,West Midlands,Shelfield,Walsall,23,5,0.39,0.08,389.17,84.6,21.74,5910
-E02002943,E06000020,West Midlands,Horsehay & The Rock,Telford and Wrekin,55,8,0.39,0.06,392.02,57.02,14.55,14030
-E02001972,E08000026,West Midlands,Foleshill East,Coventry,46,5,0.39,0.04,387.53,42.12,10.87,11870
 E02002921,E06000019,West Midlands,Hereford South West,"Herefordshire, County of",32,3,0.39,0.04,391.77,36.73,9.38,8168
-E02002954,E06000021,West Midlands,Norton,Stoke-on-Trent,32,3,0.39,0.04,390.72,36.63,9.38,8190
-E02002969,E06000021,West Midlands,Boothen & Penkhull,Stoke-on-Trent,36,3,0.39,0.03,385.32,32.11,8.33,9343
-E02006136,E07000193,West Midlands,"Abbots Bromley, Yoxall & Marchington",East Staffordshire,33,19,0.38,0.22,375.17,216.01,57.58,8796
-E02006149,E07000194,West Midlands,Lichfield Central,Lichfield,43,18,0.38,0.16,384.13,160.8,41.86,11194
-E02006207,E07000198,West Midlands,Biddulph North & Brownlees,Staffordshire Moorlands,24,9,0.38,0.14,384.06,144.02,37.5,6249

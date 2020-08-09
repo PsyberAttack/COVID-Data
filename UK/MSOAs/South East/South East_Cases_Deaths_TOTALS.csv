@@ -27,7 +27,7 @@ E02006542,E07000224,South East,Arundel,Arun,0,1,0.0,0.02,0.0,17.6,0.0,5681
 E02006554,E07000224,South East,Middleton-on-Sea,Arun,0,1,0.0,0.01,0.0,14.92,0.0,6703
 E02006559,E07000224,South East,Aldwick,Arun,0,1,0.0,0.01,0.0,12.02,0.0,8320
 E02005000,E07000105,South East,Ashford Central,Ashford,202,15,1.73,0.13,1725.76,128.15,7.43,11705
-E02005001,E07000105,South East,Highfield & Willesborough,Ashford,155,10,1.72,0.11,1715.55,110.68,6.45,9035
+E02005001,E07000105,South East,Highfield & Willesborough,Ashford,154,10,1.7,0.11,1704.48,110.68,6.49,9035
 E02004999,E07000105,South East,"Bybrook, Orchard Park & Godinton",Ashford,185,27,1.23,0.18,1233.0,179.95,14.59,15004
 E02005002,E07000105,South East,Beaver & Singtleton,Ashford,105,14,1.11,0.15,1108.06,147.74,13.33,9476
 E02005004,E07000105,South East,Park Farm,Ashford,134,20,1.08,0.16,1081.95,161.49,14.93,12385
@@ -38,9 +38,9 @@ E02005005,E07000105,South East,Brabourne Lees & North Romney,Ashford,63,5,0.66,0
 E02004997,E07000105,South East,"Charing, Pluckley & Challock",Ashford,45,8,0.56,0.1,561.87,99.89,17.78,8009
 E02004996,E07000105,South East,"Wye, Chilham & Kennington",Ashford,45,11,0.53,0.13,532.36,130.13,24.44,8453
 E02005009,E07000105,South East,Hamstreet & Isle of Oxney,Ashford,26,7,0.44,0.12,443.46,119.39,26.92,5863
-E02004998,E07000105,South East,Kennington & Little Burton Farm,Ashford,24,4,0.35,0.06,354.45,59.08,16.67,6771
+E02004998,E07000105,South East,Kennington & Little Burton Farm,Ashford,28,4,0.41,0.06,413.53,59.08,14.29,6771
 E02005006,E07000105,South East,"Biddenden, Smarden & High Halden",Ashford,19,2,0.32,0.03,321.71,33.86,10.53,5906
-E02003670,E07000004,South East,Mandeville & Elm Farm,Aylesbury Vale,76,10,0.76,0.1,763.9,100.51,13.16,9949
+E02003670,E07000004,South East,Mandeville & Elm Farm,Aylesbury Vale,79,10,0.79,0.1,794.05,100.51,12.66,9949
 E02003671,E07000004,South East,Walton Court & Hawkslade,Aylesbury Vale,39,3,0.63,0.05,628.93,48.38,7.69,6201
 E02003664,E07000004,South East,Gatehouse,Aylesbury Vale,53,13,0.61,0.15,605.92,148.62,24.53,8747
 E02003675,E07000004,South East,Wendover,Aylesbury Vale,50,11,0.53,0.12,534.53,117.6,22.0,9354
@@ -102,7 +102,7 @@ E02003359,E06000036,South East,Crown Wood,Bracknell Forest,6,4,0.09,0.06,92.38,6
 E02003356,E06000036,South East,Chavey Down & North Ascot West,Bracknell Forest,3,4,0.04,0.05,41.13,54.84,133.33,7294
 E02003352,E06000036,South East,Winkfield & Cranbourne,Bracknell Forest,0,3,0.0,0.05,0.0,50.68,0.0,5920
 E02003522,E06000043,South East,Roedean & Marina,Brighton and Hove,40,11,0.53,0.15,534.26,146.92,27.5,7487
-E02003521,E06000043,South East,Kemptown,Brighton and Hove,32,8,0.38,0.1,384.34,96.08,25.0,8326
+E02003521,E06000043,South East,Kemptown,Brighton and Hove,31,8,0.37,0.1,372.33,96.08,25.81,8326
 E02003502,E06000043,South East,Portslade Village,Brighton and Hove,24,4,0.31,0.05,311.36,51.89,16.67,7708
 E02003507,E06000043,South East,Woodingdean,Brighton and Hove,29,16,0.29,0.16,293.88,162.14,55.17,9868
 E02003513,E06000043,South East,Aldrington South,Brighton and Hove,19,5,0.29,0.08,287.7,75.71,26.32,6604
@@ -204,10 +204,10 @@ E02006581,E07000226,South East,Southgate,Crawley,42,11,0.46,0.12,462.86,121.23,2
 E02006575,E07000226,South East,Langley Green & Gatwick Airport,Crawley,36,6,0.42,0.07,415.56,69.26,16.67,8663
 E02006587,E07000226,South East,Broadfield East,Crawley,34,2,0.38,0.02,376.69,22.16,5.88,9026
 E02006585,E07000226,South East,Tilgate,Crawley,24,6,0.31,0.08,310.28,77.57,25.0,7735
+E02006586,E07000226,South East,Broadfield West,Crawley,20,1,0.25,0.01,246.31,12.32,5.0,8120
 E02006580,E07000226,South East,Ifield & Gossops Green,Crawley,20,8,0.24,0.1,241.75,96.7,40.0,8273
 E02006579,E07000226,South East,Three Bridges,Crawley,19,4,0.23,0.05,232.93,49.04,21.05,8157
 E02006584,E07000226,South East,Bewbush,Crawley,17,3,0.22,0.04,217.0,38.29,17.65,7834
-E02006586,E07000226,South East,Broadfield West,Crawley,17,1,0.21,0.01,209.36,12.32,5.88,8120
 E02006576,E07000226,South East,Pound Hill,Crawley,18,4,0.21,0.05,207.4,46.09,22.22,8679
 E02006578,E07000226,South East,Manor Royal & Northgate,Crawley,19,9,0.17,0.08,168.01,79.58,47.37,11309
 E02006582,E07000226,South East,Maidenbower East & Worth,Crawley,0,3,0.0,0.04,0.0,37.76,0.0,7945
@@ -218,17 +218,17 @@ E02005040,E07000107,South East,"Longfield, New Barn & Southfleet",Dartford,41,14
 E02005036,E07000107,South East,Tree Estate,Dartford,34,8,0.52,0.12,518.13,121.91,23.53,6562
 E02005030,E07000107,South East,Central Dartford & West Hill,Dartford,47,5,0.42,0.05,423.88,45.09,10.64,11088
 E02005039,E07000107,South East,"Bean, Darenth & Sutton at Hone",Dartford,28,8,0.41,0.12,413.35,118.1,28.57,6774
+E02005029,E07000107,South East,Ebbsfleet & Greenhithe,Dartford,47,9,0.4,0.08,398.88,76.38,19.15,11783
 E02005038,E07000107,South East,Wilmington & Hawley,Dartford,23,5,0.39,0.09,393.77,85.6,21.74,5841
 E02005032,E07000107,South East,Newtown,Dartford,38,2,0.38,0.02,376.76,19.83,5.26,10086
 E02005037,E07000107,South East,Joydens Wood,Dartford,27,11,0.38,0.15,376.67,153.46,40.74,7168
-E02005029,E07000107,South East,Ebbsfleet & Greenhithe,Dartford,44,9,0.37,0.08,373.42,76.38,20.45,11783
-E02005034,E07000107,South East,Heath,Dartford,24,3,0.32,0.04,319.83,39.98,12.5,7504
-E02005031,E07000107,South East,Swanscombe,Dartford,25,3,0.29,0.04,293.67,35.24,12.0,8513
+E02005031,E07000107,South East,Swanscombe,Dartford,28,3,0.33,0.04,328.91,35.24,10.71,8513
+E02005034,E07000107,South East,Heath,Dartford,21,3,0.28,0.04,279.85,39.98,14.29,7504
 E02005050,E07000108,South East,"Kearsney, River & Whitfield",Dover,92,26,0.94,0.27,944.17,266.83,28.26,9744
 E02005051,E07000108,South East,Buckland & St Radigunds,Dover,95,9,0.67,0.06,670.29,63.5,9.47,14173
 E02005048,E07000108,South East,Eyethorne & Shepherdswell,Dover,45,12,0.67,0.18,665.09,177.36,26.67,6766
+E02005046,E07000108,South East,Aylesham & Elvington,Dover,39,7,0.53,0.1,531.48,95.39,17.95,7338
 E02005053,E07000108,South East,Dover West,Dover,49,10,0.51,0.1,510.36,104.16,20.41,9601
-E02005046,E07000108,South East,Aylesham & Elvington,Dover,36,7,0.49,0.1,490.6,95.39,19.44,7338
 E02005045,E07000108,South East,"Mill Hill, Upper Deal & Northbourne",Dover,42,9,0.45,0.1,452.54,96.97,21.43,9281
 E02005042,E07000108,South East,Sandwich & Eastry,Dover,37,6,0.41,0.07,406.24,65.88,16.22,9108
 E02005052,E07000108,South East,Dover East,Dover,30,8,0.37,0.1,369.96,98.66,26.67,8109
@@ -256,8 +256,8 @@ E02004710,E07000085,South East,Horndean North,East Hampshire,6,1,0.09,0.02,93.78
 E02004363,E07000061,South East,Upperton,Eastbourne,54,5,0.78,0.07,784.43,72.63,9.26,6884
 E02004366,E07000061,South East,King Edward's Parade,Eastbourne,35,6,0.45,0.08,453.43,77.73,17.14,7719
 E02004361,E07000061,South East,Ratton,Eastbourne,30,7,0.37,0.09,369.32,86.18,23.33,8123
+E02004357,E07000061,South East,Hampden Park North,Eastbourne,27,3,0.34,0.04,344.92,38.32,11.11,7828
 E02004359,E07000061,South East,Hampden Park South,Eastbourne,27,7,0.33,0.09,334.16,86.63,25.93,8080
-E02004357,E07000061,South East,Hampden Park North,Eastbourne,24,3,0.31,0.04,306.59,38.32,12.5,7828
 E02006857,E07000061,South East,St Anthony's Hill,Eastbourne,23,5,0.26,0.06,256.98,55.87,21.74,8950
 E02004367,E07000061,South East,Meads,Eastbourne,18,13,0.25,0.18,247.87,179.01,72.22,7262
 E02004364,E07000061,South East,Old Town & Motcombe,Eastbourne,18,7,0.22,0.08,217.47,84.57,38.89,8277
@@ -326,16 +326,16 @@ E02005106,E07000112,South East,Cheriton & Horn Street,Folkestone and Hythe,93,8,
 E02005113,E07000112,South East,New Romney,Folkestone and Hythe,59,12,0.8,0.16,797.3,162.16,20.34,7400
 E02005107,E07000112,South East,Folkestone Morehall & Sandgate,Folkestone and Hythe,98,22,0.76,0.17,762.29,171.13,22.45,12856
 E02006880,E07000112,South East,Folkestone Central,Folkestone and Hythe,52,11,0.73,0.15,726.46,153.67,21.15,7158
-E02005112,E07000112,South East,"Dymchurch, St Mary's Bay & Brookland",Folkestone and Hythe,39,8,0.54,0.11,535.64,109.88,20.51,7281
+E02005109,E07000112,South East,"Saltwood, Seabrook & Etchinghill",Folkestone and Hythe,42,8,0.62,0.12,616.29,117.39,19.05,6815
 E02005104,E07000112,South East,Folkestone North East,Folkestone and Hythe,44,7,0.53,0.09,534.3,85.0,15.91,8235
-E02005109,E07000112,South East,"Saltwood, Seabrook & Etchinghill",Folkestone and Hythe,36,8,0.53,0.12,528.25,117.39,22.22,6815
+E02005112,E07000112,South East,"Dymchurch, St Mary's Bay & Brookland",Folkestone and Hythe,38,8,0.52,0.11,521.91,109.88,21.05,7281
 E02005111,E07000112,South East,Hythe,Folkestone and Hythe,37,11,0.49,0.15,494.85,147.12,29.73,7477
 E02005103,E07000112,South East,Hawkinge,Folkestone and Hythe,49,12,0.48,0.12,478.38,117.15,24.49,10243
-E02006879,E07000112,South East,Folkestone Harbour,Folkestone and Hythe,28,9,0.37,0.12,374.78,120.47,32.14,7471
+E02006879,E07000112,South East,Folkestone Harbour,Folkestone and Hythe,31,9,0.41,0.12,414.94,120.47,29.03,7471
 E02005105,E07000112,South East,Folkestone Foord,Folkestone and Hythe,23,5,0.29,0.06,290.26,63.1,21.74,7924
 E02005102,E07000112,South East,"Lyminge, Densole & Elham",Folkestone and Hythe,17,7,0.26,0.11,264.84,109.05,41.18,6419
 E02005114,E07000112,South East,Lydd & Dungeness,Folkestone and Hythe,15,2,0.22,0.03,222.98,29.73,13.33,6727
-E02005110,E07000112,South East,Lympne & Palmarsh,Folkestone and Hythe,7,6,0.1,0.09,100.55,86.18,85.71,6962
+E02005110,E07000112,South East,Lympne & Palmarsh,Folkestone and Hythe,4,6,0.06,0.09,57.45,86.18,150.0,6962
 E02004750,E07000088,South East,Clayhall & Anglesey,Gosport,27,14,0.35,0.18,348.39,180.65,51.85,7750
 E02004742,E07000088,South East,Bridgemary South,Gosport,17,3,0.22,0.04,223.83,39.5,17.65,7595
 E02004744,E07000088,South East,Rowner,Gosport,20,1,0.2,0.01,202.94,10.15,5.0,9855
@@ -347,16 +347,16 @@ E02004743,E07000088,South East,Elson,Gosport,7,2,0.09,0.03,93.02,26.58,28.57,752
 E02004747,E07000088,South East,Brockhurst,Gosport,6,2,0.09,0.03,86.11,28.7,33.33,6968
 E02004741,E07000088,South East,Bridgemary North,Gosport,3,3,0.04,0.04,38.09,38.09,100.0,7877
 E02005060,E07000109,South East,Northfleet South,Gravesham,62,15,0.79,0.19,790.11,191.16,24.19,7847
+E02005063,E07000109,South East,Gravesend South & Coldharbour,Gravesham,47,4,0.68,0.06,680.47,57.91,8.51,6907
 E02005056,E07000109,South East,Gravesend Town,Gravesham,70,11,0.65,0.1,651.28,102.34,15.71,10748
-E02005063,E07000109,South East,Gravesend South & Coldharbour,Gravesham,40,4,0.58,0.06,579.12,57.91,10.0,6907
 E02005057,E07000109,South East,Milton & Chalk,Gravesham,62,7,0.54,0.06,544.96,61.53,11.29,11377
-E02005058,E07000109,South East,Perry Street,Gravesham,43,6,0.53,0.07,534.29,74.55,13.95,8048
+E02005058,E07000109,South East,Perry Street,Gravesham,42,6,0.52,0.07,521.87,74.55,14.29,8048
 E02005061,E07000109,South East,Westcourt,Gravesham,37,14,0.51,0.19,505.6,191.31,37.84,7318
 E02005064,E07000109,South East,Higham & Shorne,Gravesham,24,2,0.36,0.03,360.14,30.01,8.33,6664
 E02005065,E07000109,South East,Singlewell,Gravesham,29,8,0.35,0.1,347.31,95.81,27.59,8350
 E02005055,E07000109,South East,Northfleet North,Gravesham,30,5,0.34,0.06,338.22,56.37,16.67,8870
 E02005066,E07000109,South East,Istead Rise & Meopham,Gravesham,23,4,0.3,0.05,298.39,51.89,17.39,7708
-E02005059,E07000109,South East,Windmill Hill,Gravesham,24,4,0.25,0.04,247.68,41.28,16.67,9690
+E02005059,E07000109,South East,Windmill Hill,Gravesham,25,4,0.26,0.04,258.0,41.28,16.0,9690
 E02005062,E07000109,South East,Riverview Park,Gravesham,11,5,0.16,0.07,157.32,71.51,45.45,6992
 E02005067,E07000109,South East,Sole Street & Vigo,Gravesham,4,3,0.07,0.05,68.19,51.14,75.0,5866
 E02006355,E07000209,South East,Park Barn & Royal Surrey,Guildford,106,3,1.08,0.03,1080.53,30.58,2.83,9810
@@ -463,7 +463,7 @@ E02004381,E07000063,South East,Lewes Central & East,Lewes,10,4,0.1,0.04,99.36,39
 E02004390,E07000063,South East,Seaford Eastbourne Road,Lewes,8,7,0.1,0.09,97.7,85.49,87.5,8188
 E02004379,E07000063,South East,"Chailey, Newick & Barcombe",Lewes,0,3,0.0,0.04,0.0,38.1,0.0,7875
 E02004383,E07000063,South East,Lewes West,Lewes,0,3,0.0,0.04,0.0,37.9,0.0,7916
-E02005075,E07000110,South East,Barming,Maidstone,83,11,0.78,0.1,776.21,102.87,13.25,10693
+E02005075,E07000110,South East,Barming,Maidstone,84,11,0.79,0.1,785.56,102.87,13.1,10693
 E02005073,E07000110,South East,Maidstone West,Maidstone,64,16,0.52,0.13,516.42,129.11,25.0,12393
 E02005080,E07000110,South East,Parkwood & Senacre,Maidstone,47,7,0.38,0.06,377.69,56.25,14.89,12444
 E02005076,E07000110,South East,Tovil,Maidstone,37,9,0.37,0.09,370.7,90.17,24.32,9981
@@ -498,8 +498,8 @@ E02003314,E06000035,South East,Hoo Peninsula,Medway,19,10,0.3,0.16,296.32,155.96
 E02003326,E06000035,South East,Gillingham East,Medway,23,4,0.29,0.05,289.89,50.42,17.39,7934
 E02003350,E06000035,South East,Walderslade,Medway,17,3,0.27,0.05,273.53,48.27,17.65,6215
 E02003331,E06000035,South East,Twydall,Medway,24,3,0.27,0.03,269.39,33.67,12.5,8909
+E02003316,E06000035,South East,Hoo St Werburgh & High Halstow,Medway,28,6,0.26,0.05,255.54,54.76,21.43,10957
 E02003342,E06000035,South East,Rainham South East,Medway,15,5,0.24,0.08,236.93,78.98,33.33,6331
-E02003316,E06000035,South East,Hoo St Werburgh & High Halstow,Medway,24,6,0.22,0.05,219.04,54.76,25.0,10957
 E02003349,E06000035,South East,Parkwood West,Medway,15,6,0.2,0.08,204.11,81.64,40.0,7349
 E02003347,E06000035,South East,Settington,Medway,12,1,0.19,0.02,194.05,16.17,8.33,6184
 E02003338,E06000035,South East,Rainham North East,Medway,14,5,0.19,0.07,193.74,69.19,35.71,7226
@@ -552,9 +552,9 @@ E02003487,E06000042,South East,Far Bletchley,Milton Keynes,19,6,0.26,0.08,259.53
 E02003463,E06000042,South East,Great Linford & Giffard Park,Milton Keynes,17,3,0.26,0.05,257.69,45.48,17.65,6597
 E02003484,E06000042,South East,Furzton,Milton Keynes,18,2,0.25,0.03,252.67,28.07,11.11,7124
 E02003489,E06000042,South East,Bletchley West,Milton Keynes,18,12,0.24,0.16,244.5,163.0,66.67,7362
+E02003477,E06000042,South East,Shenley Wood & Grange Farm,Milton Keynes,33,4,0.23,0.03,228.23,27.66,12.12,14459
 E02003480,E06000042,South East,Walnut Tree & Tilbrook,Milton Keynes,16,2,0.2,0.02,198.02,24.75,12.5,8080
 E02003490,E06000042,South East,Bletchley South,Milton Keynes,17,8,0.19,0.09,187.14,88.07,47.06,9084
-E02003477,E06000042,South East,Shenley Wood & Grange Farm,Milton Keynes,27,4,0.19,0.03,186.73,27.66,14.81,14459
 E02003464,E06000042,South East,Stantonbury & Bradville,Milton Keynes,12,2,0.18,0.03,177.07,29.51,16.67,6777
 E02003471,E06000042,South East,Bradwell Common,Milton Keynes,11,1,0.17,0.02,168.35,15.3,9.09,6534
 E02003482,E06000042,South East,Bow Brickhill & Woburn Sands,Milton Keynes,11,13,0.16,0.19,164.84,194.81,118.18,6673
@@ -609,17 +609,17 @@ E02005949,E07000178,South East,Churchill,Oxford,96,1,1.29,0.01,1293.28,13.47,1.0
 E02005944,E07000178,South East,Barton,Oxford,65,5,0.93,0.07,932.3,71.72,7.69,6972
 E02005956,E07000178,South East,Blackbird Leys,Oxford,43,5,0.73,0.08,729.68,84.85,11.63,5893
 E02005957,E07000178,South East,Greater Leys,Oxford,46,9,0.72,0.14,721.46,141.15,19.57,6376
-E02005954,E07000178,South East,Cowley South & Iffley,Oxford,59,14,0.63,0.15,627.99,149.02,23.73,9395
-E02005945,E07000178,South East,Headington,Oxford,89,9,0.62,0.06,615.53,62.24,10.11,14459
+E02005954,E07000178,South East,Cowley South & Iffley,Oxford,63,14,0.67,0.15,670.57,149.02,22.22,9395
+E02005945,E07000178,South East,Headington,Oxford,92,9,0.64,0.06,636.28,62.24,9.78,14459
 E02005946,E07000178,South East,Risinghurst & Sandhills,Oxford,45,3,0.59,0.04,586.55,39.1,6.67,7672
-E02005952,E07000178,South East,Cowley North,Oxford,69,4,0.5,0.03,502.29,29.12,5.8,13737
+E02005952,E07000178,South East,Cowley North,Oxford,73,4,0.53,0.03,531.41,29.12,5.48,13737
 E02005943,E07000178,South East,Marston,Oxford,31,9,0.5,0.14,495.92,143.98,29.03,6251
 E02005955,E07000178,South East,Littlemore & Rose Hill,Oxford,48,3,0.48,0.03,481.93,30.12,6.25,9960
 E02005953,E07000178,South East,Iffley Fields,Oxford,18,1,0.35,0.02,346.35,19.24,5.56,5197
 E02005950,E07000178,South East,East Central Oxford,Oxford,27,0,0.25,0.0,250.09,0.0,0.0,10796
 E02005942,E07000178,South East,North Central Oxford,Oxford,14,1,0.21,0.02,210.56,15.04,7.14,6649
+E02005947,E07000178,South East,Oxford Central,Oxford,37,1,0.21,0.01,207.12,5.6,2.7,17864
 E02005940,E07000178,South East,Wolvercote & Cutteslowe,Oxford,11,2,0.19,0.04,192.91,35.08,18.18,5702
-E02005947,E07000178,South East,Oxford Central,Oxford,34,1,0.19,0.01,190.33,5.6,2.94,17864
 E02005941,E07000178,South East,Summertown,Oxford,6,5,0.09,0.07,85.41,71.17,83.33,7025
 E02005948,E07000178,South East,"Osney, Jericho & Port Meadow",Oxford,3,1,0.04,0.01,41.73,13.91,33.33,7189
 E02005951,E07000178,South East,Grandpont & New Hinksey,Oxford,0,2,0.0,0.03,0.0,34.68,0.0,5767
@@ -650,12 +650,12 @@ E02006821,E06000044,South East,Drayton & Farlington,Portsmouth,0,5,0.0,0.08,0.0,
 E02003534,E06000044,South East,North End East,Portsmouth,0,1,0.0,0.01,0.0,11.12,0.0,8990
 E02003401,E06000038,South East,Coley Park,Reading,62,25,0.72,0.29,716.51,288.92,40.32,8653
 E02003400,E06000038,South East,Wokingham Road,Reading,52,15,0.62,0.18,624.32,180.09,28.85,8329
+E02003394,E06000038,South East,Norcot North,Reading,50,23,0.62,0.28,615.08,282.94,46.0,8129
 E02003398,E06000038,South East,Palmer Park,Reading,64,2,0.6,0.02,598.91,18.72,3.12,10686
-E02003394,E06000038,South East,Norcot North,Reading,47,23,0.58,0.28,578.18,282.94,48.94,8129
 E02003405,E06000038,South East,Kennet Island & Green Park,Reading,62,10,0.55,0.09,554.26,89.4,16.13,11186
-E02003396,E06000038,South East,Norcot South,Reading,42,8,0.45,0.09,453.12,86.31,19.05,9269
 E02003402,E06000038,South East,Southampton Street & Redlands Road,Reading,47,7,0.44,0.07,444.19,66.16,14.89,10581
 E02003406,E06000038,South East,Whitley Wood,Reading,31,9,0.43,0.13,432.18,125.47,29.03,7173
+E02003396,E06000038,South East,Norcot South,Reading,39,8,0.42,0.09,420.76,86.31,20.51,9269
 E02003395,E06000038,South East,Battle & Caversham Bridge,Reading,42,10,0.41,0.1,407.13,96.94,23.81,10316
 E02003393,E06000038,South East,Tilehurst North,Reading,29,5,0.38,0.07,383.04,66.04,17.24,7571
 E02003404,E06000038,South East,Leighton Park,Reading,37,12,0.37,0.12,374.42,121.43,32.43,9882
@@ -719,8 +719,8 @@ E02004806,E07000092,South East,Cove & Southwood,Rushmoor,18,1,0.23,0.01,227.22,1
 E02004808,E07000092,South East,South Farnborough & North Camp,Rushmoor,25,13,0.22,0.11,219.66,114.23,52.0,11381
 E02005091,E07000111,South East,Darenth Valley,Sevenoaks,28,10,0.4,0.14,398.52,142.33,35.71,7026
 E02005087,E07000111,South East,Swanley East & Hextable,Sevenoaks,28,13,0.39,0.18,393.04,182.48,46.43,7124
+E02005088,E07000111,South East,Swanley West,Sevenoaks,29,8,0.3,0.08,300.99,83.03,27.59,9635
 E02005090,E07000111,South East,Hartley & Hodsoll Street,Sevenoaks,18,8,0.3,0.13,298.01,132.45,44.44,6040
-E02005088,E07000111,South East,Swanley West,Sevenoaks,28,8,0.29,0.08,290.61,83.03,28.57,9635
 E02005089,E07000111,South East,Swanley South & Crockenhill,Sevenoaks,18,6,0.28,0.09,278.25,92.75,33.33,6469
 E02005098,E07000111,South East,Sevenoaks Town & Weald,Sevenoaks,26,18,0.25,0.17,248.35,171.94,69.23,10469
 E02005096,E07000111,South East,Sevenoaks North,Sevenoaks,20,4,0.2,0.04,199.36,39.87,20.0,10032
@@ -737,13 +737,13 @@ E02003413,E06000039,South East,Stoke Road & Wexham Road,Slough,90,11,0.68,0.08,6
 E02003415,E06000039,South East,Chalvey,Slough,67,13,0.52,0.1,522.38,101.36,19.4,12826
 E02003410,E06000039,South East,Baylis & Stoke,Slough,46,10,0.39,0.09,394.92,85.85,21.74,11648
 E02003414,E06000039,South East,Cippenham Meadows,Slough,45,11,0.34,0.08,338.45,82.73,24.44,13296
+E02003408,E06000039,South East,Manor Park,Slough,36,8,0.33,0.07,328.26,72.95,22.22,10967
 E02003418,E06000039,South East,Langley Kederminster,Slough,32,16,0.31,0.16,314.53,157.26,50.0,10174
-E02003408,E06000039,South East,Manor Park,Slough,32,8,0.29,0.07,291.78,72.95,25.0,10967
+E02003419,E06000039,South East,Langley Foxborough,Slough,26,6,0.29,0.07,289.89,66.9,23.08,8969
 E02003417,E06000039,South East,Central Slough & Upton Court,Slough,29,4,0.26,0.04,260.91,35.99,13.79,11115
-E02003419,E06000039,South East,Langley Foxborough,Slough,23,6,0.26,0.07,256.44,66.9,26.09,8969
+E02003416,E06000039,South East,Langley St Mary's,Slough,20,8,0.22,0.09,219.66,87.86,40.0,9105
 E02003407,E06000039,South East,Britwell,Slough,22,4,0.22,0.04,218.19,39.67,18.18,10083
 E02003412,E06000039,South East,Cippenham Green,Slough,19,4,0.19,0.04,192.5,40.53,21.05,9870
-E02003416,E06000039,South East,Langley St Mary's,Slough,17,8,0.19,0.09,186.71,87.86,47.06,9105
 E02003409,E06000039,South East,Haymill & Lynch Hill,Slough,13,2,0.13,0.02,130.12,20.02,15.38,9991
 E02003420,E06000039,South East,Colnbrook & Poyle,Slough,4,3,0.06,0.05,61.01,45.76,75.0,6556
 E02003693,E07000006,South East,"Burham North, Taplow & Dorney",South Bucks,20,8,0.3,0.12,298.51,119.4,40.0,6700
@@ -780,17 +780,17 @@ E02003563,E06000045,South East,Shirley South,Southampton,45,5,0.57,0.06,572.81,6
 E02003552,E06000045,South East,Coxford & Lords Hill,Southampton,32,11,0.53,0.18,530.06,182.21,34.38,6037
 E02003554,E06000045,South East,Hollybrook,Southampton,32,11,0.51,0.18,513.56,176.54,34.38,6231
 E02003571,E06000045,South East,Central Southampton West,Southampton,54,16,0.49,0.15,494.87,146.63,29.63,10912
-E02003579,E06000045,South East,Woolston,Southampton,39,16,0.44,0.18,436.05,178.89,41.03,8944
+E02003579,E06000045,South East,Woolston,Southampton,42,16,0.47,0.18,469.59,178.89,38.1,8944
 E02003555,E06000045,South East,Maybush,Southampton,34,6,0.41,0.07,412.02,72.71,17.65,8252
 E02003572,E06000045,South East,Bitterne South,Southampton,25,3,0.4,0.05,403.29,48.39,12.0,6199
 E02003550,E06000045,South East,Aldermoor & Lordswood,Southampton,28,6,0.36,0.08,360.45,77.24,21.43,7768
 E02003567,E06000045,South East,Regents Park & Millbrook East,Southampton,23,5,0.29,0.06,292.36,63.56,21.74,7867
-E02003561,E06000045,South East,St Denys,Southampton,23,10,0.27,0.12,268.66,116.81,43.48,8561
 E02003553,E06000045,South East,Swaythling,Southampton,21,0,0.27,0.0,268.65,0.0,0.0,7817
-E02003577,E06000045,South East,Central Southampton East,Southampton,33,2,0.24,0.01,240.38,14.57,6.06,13728
-E02003569,E06000045,South East,Freemantle,Southampton,18,2,0.23,0.03,225.71,25.08,11.11,7975
+E02003561,E06000045,South East,St Denys,Southampton,22,10,0.26,0.12,256.98,116.81,45.45,8561
 E02003557,E06000045,South East,Highfield & University,Southampton,16,4,0.22,0.05,218.91,54.73,25.0,7309
+E02003577,E06000045,South East,Central Southampton East,Southampton,30,2,0.22,0.01,218.53,14.57,6.67,13728
 E02003559,E06000045,South East,Upper Shirley,Southampton,15,6,0.19,0.08,189.92,75.97,40.0,7898
+E02003569,E06000045,South East,Freemantle,Southampton,15,2,0.19,0.03,188.09,25.08,13.33,7975
 E02003574,E06000045,South East,Sholing East,Southampton,14,5,0.19,0.07,187.92,67.11,35.71,7450
 E02003565,E06000045,South East,Bevois Town,Southampton,14,1,0.18,0.01,183.8,13.13,7.14,7617
 E02003570,E06000045,South East,Newtown & Nicholstown,Southampton,22,3,0.18,0.02,182.16,24.84,13.64,12077
@@ -834,15 +834,15 @@ E02006416,E07000214,South East,Chobham & Windlesham,Surrey Heath,6,6,0.07,0.07,7
 E02005128,E07000113,South East,Faversham West,Swale,54,14,0.63,0.16,627.25,162.62,25.93,8609
 E02005131,E07000113,South East,Boughton & Selling,Swale,37,4,0.57,0.06,574.27,62.08,10.81,6443
 E02005129,E07000113,South East,Faversham East,Swale,59,15,0.51,0.13,514.65,130.84,25.42,11464
+E02005123,E07000113,South East,Borden & The Meads,Swale,39,8,0.31,0.06,313.5,64.31,20.51,12440
 E02005122,E07000113,South East,"Newington, Halstow & Upchurch",Swale,20,1,0.28,0.01,277.85,13.89,5.0,7198
-E02005123,E07000113,South East,Borden & The Meads,Swale,34,8,0.27,0.06,273.31,64.31,23.53,12440
 E02005130,E07000113,South East,Teynham & Badlesmere,Swale,21,7,0.24,0.08,240.6,80.2,33.33,8728
 E02005125,E07000113,South East,Sittingbourne East,Swale,20,8,0.24,0.09,237.36,94.94,40.0,8426
 E02005124,E07000113,South East,Sittingbourne Central & Milton Regis,Swale,20,13,0.23,0.15,225.07,146.3,65.0,8886
 E02005127,E07000113,South East,"Sittingbourne South, Bapchild & Bredgar",Swale,20,10,0.22,0.11,222.15,111.07,50.0,9003
+E02005121,E07000113,South East,Iwade & Kemsley,Swale,27,5,0.19,0.04,191.35,35.44,18.52,14110
 E02005126,E07000113,South East,Sittingbourne West,Swale,15,7,0.19,0.09,185.97,86.78,46.67,8066
 E02005116,E07000113,South East,Sheerness West,Swale,12,3,0.18,0.05,180.34,45.09,25.0,6654
-E02005121,E07000113,South East,Iwade & Kemsley,Swale,24,5,0.17,0.04,170.09,35.44,20.83,14110
 E02005118,E07000113,South East,Minster South,Swale,14,4,0.13,0.04,129.0,36.86,28.57,10853
 E02005120,E07000113,South East,Sheppey East,Swale,9,7,0.1,0.08,104.94,81.62,77.78,8576
 E02005119,E07000113,South East,Queenborough,Swale,6,6,0.1,0.1,98.99,98.99,100.0,6061
@@ -874,7 +874,7 @@ E02004822,E07000093,South East,"Nether Wallop, Kings Somborne & Dunbridge",Test 
 E02004814,E07000093,South East,Andover Charlton & Bourne Valley,Test Valley,8,4,0.11,0.06,114.38,57.19,50.0,6994
 E02004827,E07000093,South East,Valley Park,Test Valley,6,0,0.08,0.0,79.19,0.0,0.0,7577
 E02004821,E07000093,South East,"Chilbolton, Clatford & Barton Stacey",Test Valley,0,6,0.0,0.11,0.0,112.78,0.0,5320
-E02005134,E07000114,South East,Margate Town,Thanet,71,6,0.9,0.08,899.76,76.04,8.45,7891
+E02005134,E07000114,South East,Margate Town,Thanet,74,6,0.94,0.08,937.78,76.04,8.11,7891
 E02005138,E07000114,South East,Westgate,Thanet,68,11,0.73,0.12,733.55,118.66,16.18,9270
 E02005135,E07000114,South East,Salmestone,Thanet,52,6,0.65,0.07,648.22,74.79,11.54,8022
 E02005132,E07000114,South East,Cliftonville West,Thanet,72,29,0.63,0.26,633.36,255.1,40.28,11368
@@ -885,11 +885,11 @@ E02005137,E07000114,South East,Dane Valley & Northdown Hill,Thanet,41,5,0.51,0.0
 E02005141,E07000114,South East,Broadstairs South,Thanet,37,9,0.5,0.12,499.73,121.56,24.32,7404
 E02005145,E07000114,South East,Minster & St-Nicholas-at-Wade,Thanet,36,7,0.48,0.09,477.01,92.75,19.44,7547
 E02005133,E07000114,South East,Cliftonville East & Kingsgate,Thanet,40,15,0.47,0.18,467.34,175.25,37.5,8559
-E02005144,E07000114,South East,Newington,Thanet,40,6,0.45,0.07,448.93,67.34,15.0,8910
+E02005144,E07000114,South East,Newington,Thanet,41,6,0.46,0.07,460.16,67.34,14.63,8910
 E02005136,E07000114,South East,Westbrook & Garlinge,Thanet,31,12,0.4,0.15,399.43,154.62,38.71,7761
 E02005147,E07000114,South East,Ramsgate Harbour,Thanet,32,11,0.36,0.12,362.15,124.49,34.38,8836
-E02005146,E07000114,South East,Ramsgate Ellington,Thanet,30,0,0.36,0.0,360.71,0.0,0.0,8317
 E02005139,E07000114,South East,Birchington,Thanet,31,1,0.35,0.01,352.11,11.36,3.23,8804
+E02005146,E07000114,South East,Ramsgate Ellington,Thanet,29,0,0.35,0.0,348.68,0.0,0.0,8317
 E02005143,E07000114,South East,Dumpton,Thanet,23,8,0.27,0.1,274.43,95.45,34.78,8381
 E02005149,E07000115,South East,"Aylesford, Wouldham & Blue Bell Hill",Tonbridge and Malling,45,8,0.41,0.07,411.82,73.21,17.78,10927
 E02005154,E07000115,South East,"Borough Green, Wrotham & Shipbourne",Tonbridge and Malling,35,13,0.3,0.11,300.56,111.64,37.14,11645
@@ -904,7 +904,7 @@ E02005161,E07000115,South East,Tonbridge South & Haysden,Tonbridge and Malling,1
 E02005157,E07000115,South East,Tonbridge Trench Wood,Tonbridge and Malling,6,4,0.09,0.06,87.27,58.18,66.67,6875
 E02005158,E07000115,South East,Hildenborough,Tonbridge and Malling,4,5,0.06,0.07,58.79,73.49,125.0,6804
 E02005159,E07000115,South East,Tonbridge Higham Wood,Tonbridge and Malling,3,4,0.04,0.05,38.46,51.28,133.33,7801
-E02005165,E07000116,South East,Pembury & Matfield,Tunbridge Wells,88,10,1.13,0.13,1130.81,128.5,11.36,7782
+E02005165,E07000116,South East,Pembury & Matfield,Tunbridge Wells,91,10,1.17,0.13,1169.37,128.5,10.99,7782
 E02005171,E07000116,South East,Ramslye & Rusthall,Tunbridge Wells,42,12,0.64,0.18,644.77,184.22,28.57,6514
 E02005169,E07000116,South East,Tunbridge Wells Central,Tunbridge Wells,32,3,0.33,0.03,325.3,30.5,9.38,9837
 E02005168,E07000116,South East,Tunbridge Wells West,Tunbridge Wells,24,8,0.31,0.1,307.3,102.43,33.33,7810
@@ -918,16 +918,16 @@ E02005173,E07000116,South East,Tunbridge Wells South,Tunbridge Wells,9,3,0.1,0.0
 E02005174,E07000116,South East,"Cranbrook, Sissinghurst & Frittenden",Tunbridge Wells,3,7,0.04,0.09,39.4,91.94,233.33,7614
 E02005172,E07000116,South East,"Goudhurst, Horsmonden & Lamberhurst",Tunbridge Wells,3,2,0.03,0.02,34.22,22.82,66.67,8766
 E02005175,E07000116,South East,"Hawkhurst, Benenden & Sandhurst",Tunbridge Wells,0,4,0.0,0.05,0.0,45.55,0.0,8782
-E02005980,E07000180,South East,"Radley, Wootton & Marcham",Vale of White Horse,79,14,0.65,0.12,654.3,115.95,17.72,12074
+E02005980,E07000180,South East,"Radley, Wootton & Marcham",Vale of White Horse,80,14,0.66,0.12,662.58,115.95,17.5,12074
 E02005983,E07000180,South East,Abingdon Town & West,Vale of White Horse,55,20,0.48,0.17,475.9,173.06,36.36,11557
 E02005991,E07000180,South East,Wantage Town,Vale of White Horse,45,18,0.46,0.18,457.88,183.15,40.0,9828
 E02005986,E07000180,South East,Faringdon & Stanford,Vale of White Horse,35,18,0.35,0.18,349.76,179.87,51.43,10007
 E02005985,E07000180,South East,Abingdon South,Vale of White Horse,22,5,0.28,0.06,276.87,62.92,22.73,7946
+E02006886,E07000180,South East,"Shrivenham, Watchfield & Uffington",Vale of White Horse,26,15,0.2,0.12,201.83,116.44,57.69,12882
 E02005988,E07000180,South East,Grove,Vale of White Horse,15,3,0.2,0.04,195.01,39.0,20.0,7692
 E02005992,E07000180,South East,"South Wantage, Harwell & Blewbury",Vale of White Horse,23,4,0.19,0.03,189.46,32.95,17.39,12140
 E02005978,E07000180,South East,"Dean Court, Cumnor & Appleton",Vale of White Horse,14,11,0.18,0.15,184.77,145.18,78.57,7577
 E02005981,E07000180,South East,Abingdon Northcourt & Peachcroft,Vale of White Horse,16,2,0.18,0.02,178.89,22.36,12.5,8944
-E02006886,E07000180,South East,"Shrivenham, Watchfield & Uffington",Vale of White Horse,23,15,0.18,0.12,178.54,116.44,65.22,12882
 E02005987,E07000180,South East,"Sutton Courtenay, Drayton & Steventon",Vale of White Horse,16,3,0.18,0.03,177.56,33.29,18.75,9011
 E02005979,E07000180,South East,Botley & Kennington,Vale of White Horse,13,6,0.13,0.06,130.48,60.22,46.15,9963
 E02005982,E07000180,South East,Abingdon Audlett Drive & Farm Road,Vale of White Horse,6,0,0.1,0.0,99.98,0.0,0.0,6001
@@ -959,10 +959,10 @@ E02004420,E07000065,South East,"Hailsham North, Alfriston & East Dean",Wealden,2
 E02004413,E07000065,South East,Broad Oak & Horam,Wealden,13,9,0.19,0.13,185.98,128.76,69.23,6990
 E02004409,E07000065,South East,Chelwood & Nutley,Wealden,9,4,0.16,0.07,163.7,72.75,44.44,5498
 E02004423,E07000065,South East,Willingdon,Wealden,11,3,0.15,0.04,146.02,39.82,27.27,7533
+E02004421,E07000065,South East,Polegate,Wealden,12,6,0.13,0.06,129.44,64.72,50.0,9271
 E02004415,E07000065,South East,"Five Ash Down, Horsted & Chiddingly",Wealden,8,3,0.11,0.04,113.88,42.7,37.5,7025
 E02004418,E07000065,South East,Hailsham South & West,Wealden,6,3,0.1,0.05,104.06,52.03,50.0,5766
 E02004403,E07000065,South East,Forest Row & Coleman's Hatch,Wealden,7,8,0.1,0.12,101.43,115.93,114.29,6901
-E02004421,E07000065,South East,Polegate,Wealden,9,6,0.1,0.06,97.08,64.72,66.67,9271
 E02004405,E07000065,South East,Crowborough North East,Wealden,4,1,0.06,0.02,62.16,15.54,25.0,6435
 E02004404,E07000065,South East,Frant & Groombridge,Wealden,3,0,0.05,0.0,45.61,0.0,0.0,6578
 E02004410,E07000065,South East,"Buxted, Framfield & Rotherfield",Wealden,3,6,0.04,0.07,35.8,71.59,200.0,8381
@@ -1002,9 +1002,9 @@ E02006001,E07000181,South East,Witney West,West Oxfordshire,17,6,0.29,0.1,286.53
 E02006007,E07000181,South East,"Bampton, Clanfield & Standlake",West Oxfordshire,13,3,0.19,0.04,187.56,43.28,23.08,6931
 E02005994,E07000181,South East,"Kingham, Enstone & Middle Barton",West Oxfordshire,10,6,0.16,0.09,155.18,93.11,60.0,6444
 E02005995,E07000181,South East,Chadlington & Wychwoods,West Oxfordshire,9,4,0.15,0.07,148.05,65.8,44.44,6079
-E02006006,E07000181,South East,Carterton South,West Oxfordshire,9,3,0.13,0.04,129.12,43.04,33.33,6970
 E02006003,E07000181,South East,Eynsham & Stanton Harcourt,West Oxfordshire,7,0,0.13,0.0,126.97,0.0,0.0,5513
 E02005996,E07000181,South East,"Woodstock, Stonesfield & Tackley",West Oxfordshire,9,6,0.11,0.07,106.4,70.93,66.67,8459
+E02006006,E07000181,South East,Carterton South,West Oxfordshire,6,3,0.09,0.04,86.08,43.04,50.0,6970
 E02005999,E07000181,South East,"Leafield, Minster Lovell & Duckington",West Oxfordshire,4,6,0.06,0.1,64.05,96.08,150.0,6245
 E02005997,E07000181,South East,Charlbury & North Leigh,West Oxfordshire,3,4,0.05,0.07,53.51,71.35,133.33,5606
 E02004831,E07000094,South East,Winchester North & Sparsholt,Winchester,53,14,0.56,0.15,555.32,146.69,26.42,9544
@@ -1039,7 +1039,7 @@ E02003428,E06000040,South East,Cox Green,Windsor and Maidenhead,6,7,0.07,0.08,65
 E02003431,E06000040,South East,Datchet,Windsor and Maidenhead,4,3,0.06,0.04,59.12,44.34,75.0,6766
 E02003429,E06000040,South East,Bray Wick & Holyport,Windsor and Maidenhead,3,5,0.04,0.06,38.84,64.73,166.67,7724
 E02003423,E06000040,South East,Furze Platt,Windsor and Maidenhead,0,2,0.0,0.03,0.0,30.5,0.0,6558
-E02006459,E07000217,South East,Sheerwater,Woking,49,5,0.46,0.05,462.88,47.23,10.2,10586
+E02006459,E07000217,South East,Sheerwater,Woking,55,5,0.52,0.05,519.55,47.23,9.09,10586
 E02006456,E07000217,South East,Byfleet,Woking,28,6,0.36,0.08,364.77,78.17,21.43,7676
 E02006460,E07000217,South East,Goldsworth Park,Woking,31,3,0.34,0.03,344.71,33.36,9.68,8993
 E02006463,E07000217,South East,Woking Central,Woking,35,14,0.33,0.13,326.68,130.67,40.0,10714
@@ -1090,6 +1090,7 @@ E02003718,E07000007,South East,Marlow East,Wycombe,13,6,0.23,0.11,228.91,105.65,
 E02003710,E07000007,South East,Town Centre & Marlow Hill,Wycombe,24,4,0.21,0.04,212.37,35.4,16.67,11301
 E02003707,E07000007,South East,Sands,Wycombe,12,3,0.17,0.04,172.41,43.1,25.0,6960
 E02003717,E07000007,South East,Marlow West & North,Wycombe,15,10,0.17,0.11,169.66,113.11,66.67,8841
+E02003714,E07000007,South East,Loudwater & Wooburn Green,Wycombe,11,4,0.17,0.06,166.59,60.58,36.36,6603
 E02003705,E07000007,South East,Bowerdean,Wycombe,11,3,0.16,0.04,157.71,43.01,27.27,6975
 E02003703,E07000007,South East,Terriers & Amersham Hill,Wycombe,13,7,0.16,0.08,155.34,83.64,53.85,8369
 E02003711,E07000007,South East,Ryemead & Wycombe Marsh,Wycombe,14,4,0.15,0.04,145.06,41.45,28.57,9651
@@ -1097,13 +1098,12 @@ E02003706,E07000007,South East,Totteridge,Wycombe,10,1,0.14,0.01,143.64,14.36,10
 E02003702,E07000007,South East,"Bledlow, Cadmore End & Hambleden Valley",Wycombe,11,5,0.14,0.06,137.95,62.7,45.45,7974
 E02003701,E07000007,South East,Downley,Wycombe,15,7,0.13,0.06,130.84,61.06,46.67,11464
 E02003708,E07000007,South East,Oakridge & Castlefield,Wycombe,12,6,0.12,0.06,122.35,61.17,50.0,9808
-E02003714,E07000007,South East,Loudwater & Wooburn Green,Wycombe,8,4,0.12,0.06,121.16,60.58,50.0,6603
 E02003712,E07000007,South East,Lane End & Booker,Wycombe,9,7,0.12,0.09,115.77,90.04,77.78,7774
 E02003697,E07000007,South East,"Longwick, Kimble & Lacey Green",Wycombe,5,9,0.09,0.16,86.27,155.28,180.0,5796
 E02006824,E07000007,South East,Hazlemere,Wycombe,7,4,0.07,0.04,74.78,42.73,57.14,9361
 E02003704,E07000007,South East,Tylers Green,Wycombe,4,2,0.07,0.04,70.39,35.19,50.0,5683
+E02003716,E07000007,South East,Bourne End,Wycombe,3,0,0.05,0.0,53.63,0.0,0.0,5594
 E02003709,E07000007,South East,Micklefield,Wycombe,3,3,0.05,0.05,52.25,52.25,100.0,5742
 E02003698,E07000007,South East,Walter's Ash & Hughenden Valley,Wycombe,3,0,0.04,0.0,36.64,0.0,0.0,8187
 E02003713,E07000007,South East,Flackwell Heath,Wycombe,0,8,0.0,0.13,0.0,134.7,0.0,5939
 E02003715,E07000007,South East,"Marlow Bottom, Danesfield & Well End",Wycombe,0,1,0.0,0.02,0.0,15.45,0.0,6471
-E02003716,E07000007,South East,Bourne End,Wycombe,0,0,0.0,0.0,0.0,0.0,0.0,5594
