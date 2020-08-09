@@ -1,6 +1,7 @@
 date,country,region,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
-2020-08-06,Colombia,Quindio,5.37,29,0,0.0,476,9,1.89,88.16,1.67,0.09,539904
-2020-08-05,Colombia,Quindio,7.04,38,0,0.0,447,9,2.01,82.79,1.67,0.08,539904
+2020-08-07,Colombia,Quindio,0.74,4,0,0.0,478,12,2.51,88.53,2.22,0.09,539904
+2020-08-06,Colombia,Quindio,5.37,29,3,0.56,474,12,2.53,87.79,2.22,0.09,539904
+2020-08-05,Colombia,Quindio,6.67,36,0,0.0,445,9,2.02,82.42,1.67,0.08,539904
 2020-08-04,Colombia,Quindio,1.3,7,0,0.0,409,9,2.2,75.75,1.67,0.08,539904
 2020-08-03,Colombia,Quindio,4.45,24,0,0.0,402,9,2.24,74.46,1.67,0.07,539904
 2020-08-02,Colombia,Quindio,2.59,14,0,0.0,378,9,2.38,70.01,1.67,0.07,539904
