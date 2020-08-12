@@ -1,7 +1,8 @@
 date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
-2020-08-08,Nordrhein-Westfalen,Oberhausen,0.47,1,0,0.0,428,12,2.8,203.01,5.69,0.2,210829
-2020-08-07,Nordrhein-Westfalen,Oberhausen,0.95,2,0,0.0,427,12,2.81,202.53,5.69,0.2,210829
-2020-08-05,Nordrhein-Westfalen,Oberhausen,2.85,6,0,0.0,425,12,2.82,201.59,5.69,0.2,210829
+2020-08-11,Nordrhein-Westfalen,Oberhausen,1.42,3,0,0.0,440,12,2.73,208.7,5.69,0.21,210829
+2020-08-10,Nordrhein-Westfalen,Oberhausen,4.27,9,0,0.0,437,12,2.75,207.28,5.69,0.21,210829
+2020-08-07,Nordrhein-Westfalen,Oberhausen,0.95,2,0,0.0,428,12,2.8,203.01,5.69,0.2,210829
+2020-08-05,Nordrhein-Westfalen,Oberhausen,3.32,7,0,0.0,426,12,2.82,202.06,5.69,0.2,210829
 2020-08-04,Nordrhein-Westfalen,Oberhausen,0.47,1,0,0.0,419,12,2.86,198.74,5.69,0.2,210829
 2020-08-03,Nordrhein-Westfalen,Oberhausen,0.95,2,0,0.0,418,12,2.87,198.26,5.69,0.2,210829
 2020-08-01,Nordrhein-Westfalen,Oberhausen,0.95,2,0,0.0,416,12,2.88,197.32,5.69,0.2,210829
@@ -11,9 +12,9 @@ date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_ca
 2020-07-27,Nordrhein-Westfalen,Oberhausen,2.85,6,0,0.0,401,12,2.99,190.2,5.69,0.19,210829
 2020-07-26,Nordrhein-Westfalen,Oberhausen,1.42,3,0,0.0,395,12,3.04,187.36,5.69,0.19,210829
 2020-07-25,Nordrhein-Westfalen,Oberhausen,0.47,1,0,0.0,392,12,3.06,185.93,5.69,0.19,210829
-2020-07-24,Nordrhein-Westfalen,Oberhausen,4.27,9,0,0.0,391,12,3.07,185.46,5.69,0.19,210829
-2020-07-23,Nordrhein-Westfalen,Oberhausen,1.9,4,0,0.0,382,12,3.14,181.19,5.69,0.18,210829
-2020-07-22,Nordrhein-Westfalen,Oberhausen,3.32,7,0,0.0,378,12,3.17,179.29,5.69,0.18,210829
+2020-07-24,Nordrhein-Westfalen,Oberhausen,3.79,8,0,0.0,391,12,3.07,185.46,5.69,0.19,210829
+2020-07-23,Nordrhein-Westfalen,Oberhausen,1.9,4,0,0.0,383,12,3.13,181.66,5.69,0.18,210829
+2020-07-22,Nordrhein-Westfalen,Oberhausen,3.79,8,0,0.0,379,12,3.17,179.77,5.69,0.18,210829
 2020-07-21,Nordrhein-Westfalen,Oberhausen,2.85,6,0,0.0,371,12,3.23,175.97,5.69,0.18,210829
 2020-07-20,Nordrhein-Westfalen,Oberhausen,1.9,4,0,0.0,365,12,3.29,173.13,5.69,0.17,210829
 2020-07-19,Nordrhein-Westfalen,Oberhausen,0.95,2,0,0.0,361,12,3.32,171.23,5.69,0.17,210829

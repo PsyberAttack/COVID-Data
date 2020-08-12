@@ -1,4 +1,9 @@
 date,state,city,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+2020-08-10,Mato Grosso,Peixoto de Azevedo,25.73,9,2,5.72,889,17,1.91,2541.74,48.6,2.54,34976
+2020-08-09,Mato Grosso,Peixoto de Azevedo,0.0,0,0,0.0,880,15,1.7,2516.01,42.89,2.52,34976
+2020-08-08,Mato Grosso,Peixoto de Azevedo,25.73,9,1,2.86,880,15,1.7,2516.01,42.89,2.52,34976
+2020-08-07,Mato Grosso,Peixoto de Azevedo,42.89,15,1,2.86,871,14,1.61,2490.28,40.03,2.49,34976
+2020-08-06,Mato Grosso,Peixoto de Azevedo,114.36,40,0,0.0,856,13,1.52,2447.39,37.17,2.45,34976
 2020-08-05,Mato Grosso,Peixoto de Azevedo,40.03,14,0,0.0,816,13,1.59,2333.03,37.17,2.33,34976
 2020-08-04,Mato Grosso,Peixoto de Azevedo,88.63,31,1,2.86,802,13,1.62,2293.0,37.17,2.29,34976
 2020-08-03,Mato Grosso,Peixoto de Azevedo,100.07,35,0,0.0,771,12,1.56,2204.37,34.31,2.2,34976
@@ -19,8 +24,11 @@ date,state,city,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,
 2020-07-19,Mato Grosso,Peixoto de Azevedo,-14.3,-5,0,0.0,402,5,1.24,1149.36,14.3,1.15,34976
 2020-07-18,Mato Grosso,Peixoto de Azevedo,2.86,1,0,0.0,407,5,1.23,1163.66,14.3,1.16,34976
 2020-07-17,Mato Grosso,Peixoto de Azevedo,154.39,54,2,5.72,406,5,1.23,1160.8,14.3,1.16,34976
-2020-07-16,Mato Grosso,Peixoto de Azevedo,-74.34,-26,1,2.86,352,3,0.85,1006.4,8.58,1.01,34976
-2020-07-12,Mato Grosso,Peixoto de Azevedo,40.03,14,0,0.0,378,2,0.53,1080.74,5.72,1.08,34976
+2020-07-16,Mato Grosso,Peixoto de Azevedo,114.36,40,1,2.86,352,3,0.85,1006.4,8.58,1.01,34976
+2020-07-15,Mato Grosso,Peixoto de Azevedo,37.17,13,0,0.0,312,2,0.64,892.04,5.72,0.89,34976
+2020-07-14,Mato Grosso,Peixoto de Azevedo,-225.87,-79,0,0.0,299,2,0.67,854.87,5.72,0.85,34976
+2020-07-12,Mato Grosso,Peixoto de Azevedo,0.0,0,0,0.0,378,2,0.53,1080.74,5.72,1.08,34976
+2020-07-11,Mato Grosso,Peixoto de Azevedo,40.03,14,0,0.0,378,2,0.53,1080.74,5.72,1.08,34976
 2020-07-10,Mato Grosso,Peixoto de Azevedo,217.29,76,0,0.0,364,2,0.55,1040.71,5.72,1.04,34976
 2020-07-09,Mato Grosso,Peixoto de Azevedo,2.86,1,0,0.0,288,2,0.69,823.42,5.72,0.82,34976
 2020-07-08,Mato Grosso,Peixoto de Azevedo,5.72,2,0,0.0,287,2,0.7,820.56,5.72,0.82,34976

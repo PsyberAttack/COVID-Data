@@ -1,4 +1,9 @@
 date,state,city,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+2020-08-10,Mato Grosso,Alta Floresta,61.8,32,1,1.93,603,15,2.49,1164.5,28.97,1.16,51782
+2020-08-09,Mato Grosso,Alta Floresta,44.42,23,0,0.0,571,14,2.45,1102.7,27.04,1.1,51782
+2020-08-08,Mato Grosso,Alta Floresta,27.04,14,1,1.93,548,14,2.55,1058.28,27.04,1.06,51782
+2020-08-07,Mato Grosso,Alta Floresta,42.49,22,0,0.0,534,13,2.43,1031.25,25.11,1.03,51782
+2020-08-06,Mato Grosso,Alta Floresta,77.25,40,0,0.0,512,13,2.54,988.76,25.11,0.99,51782
 2020-08-05,Mato Grosso,Alta Floresta,21.24,11,0,0.0,472,13,2.75,911.51,25.11,0.91,51782
 2020-08-04,Mato Grosso,Alta Floresta,34.76,18,3,5.79,461,13,2.82,890.27,25.11,0.89,51782
 2020-08-03,Mato Grosso,Alta Floresta,11.59,6,0,0.0,443,10,2.26,855.51,19.31,0.86,51782
@@ -19,8 +24,11 @@ date,state,city,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,
 2020-07-19,Mato Grosso,Alta Floresta,-1.93,-1,0,0.0,270,6,2.22,521.42,11.59,0.52,51782
 2020-07-18,Mato Grosso,Alta Floresta,9.66,5,0,0.0,271,6,2.21,523.35,11.59,0.52,51782
 2020-07-17,Mato Grosso,Alta Floresta,28.97,15,2,3.86,266,6,2.26,513.69,11.59,0.51,51782
-2020-07-16,Mato Grosso,Alta Floresta,46.35,24,-2,-3.86,251,4,1.59,484.72,7.72,0.48,51782
-2020-07-12,Mato Grosso,Alta Floresta,32.83,17,0,0.0,227,6,2.64,438.38,11.59,0.44,51782
+2020-07-16,Mato Grosso,Alta Floresta,63.73,33,0,0.0,251,4,1.59,484.72,7.72,0.48,51782
+2020-07-15,Mato Grosso,Alta Floresta,30.9,16,1,1.93,218,4,1.83,421.0,7.72,0.42,51782
+2020-07-14,Mato Grosso,Alta Floresta,-48.28,-25,-3,-5.79,202,3,1.49,390.1,5.79,0.39,51782
+2020-07-12,Mato Grosso,Alta Floresta,11.59,6,0,0.0,227,6,2.64,438.38,11.59,0.44,51782
+2020-07-11,Mato Grosso,Alta Floresta,21.24,11,0,0.0,221,6,2.71,426.79,11.59,0.43,51782
 2020-07-10,Mato Grosso,Alta Floresta,9.66,5,0,0.0,210,6,2.86,405.55,11.59,0.41,51782
 2020-07-09,Mato Grosso,Alta Floresta,3.86,2,1,1.93,205,6,2.93,395.89,11.59,0.4,51782
 2020-07-08,Mato Grosso,Alta Floresta,7.72,4,0,0.0,203,5,2.46,392.03,9.66,0.39,51782
