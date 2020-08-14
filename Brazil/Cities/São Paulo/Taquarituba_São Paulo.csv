@@ -1,5 +1,8 @@
 date,state,city,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
-2020-08-11,São Paulo,Taquarituba,8.61,2,0,0.0,75,2,2.67,323.03,8.61,0.32,23218
+2020-08-12,São Paulo,Taquarituba,-8.61,-2,1,4.31,73,3,4.11,314.41,12.92,0.31,23218
+2020-08-11,São Paulo,Taquarituba,4.31,1,0,0.0,75,2,2.67,323.03,8.61,0.32,23218
+2020-08-10,São Paulo,Taquarituba,0.0,0,0,0.0,74,2,2.7,318.72,8.61,0.32,23218
+2020-08-09,São Paulo,Taquarituba,4.31,1,0,0.0,74,2,2.7,318.72,8.61,0.32,23218
 2020-08-06,São Paulo,Taquarituba,0.0,0,0,0.0,73,2,2.74,314.41,8.61,0.31,23218
 2020-08-05,São Paulo,Taquarituba,0.0,0,0,0.0,73,2,2.74,314.41,8.61,0.31,23218
 2020-08-04,São Paulo,Taquarituba,30.15,7,0,0.0,73,2,2.74,314.41,8.61,0.31,23218
