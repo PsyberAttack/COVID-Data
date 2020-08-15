@@ -1,4 +1,110 @@
 date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_100k,%infected,population
+2020-08-15,Veneto,Treviso,6.21,55,3275,369.87,0.37,885447
+2020-08-15,Marche,Ascoli Piceno,3.33,7,327,155.67,0.16,210066
+2020-08-15,Veneto,Rovigo,3.33,8,490,203.71,0.2,240540
+2020-08-15,Sicilia,Siracusa,3.22,13,389,96.29,0.1,403985
+2020-08-15,Emilia-Romagna,Ferrara,3.13,11,1147,326.38,0.33,351436
+2020-08-15,Liguria,Imperia,2.79,6,1552,721.04,0.72,215244
+2020-08-15,Emilia-Romagna,Piacenza,2.79,8,4561,1589.22,1.59,286997
+2020-08-15,Piemonte,Novara,2.7,10,2869,774.31,0.77,370525
+2020-08-15,Toscana,Lucca,2.56,10,1440,368.07,0.37,391228
+2020-08-15,Friuli Venezia Giulia,Pordenone,2.56,8,761,243.29,0.24,312794
+2020-08-15,Lazio,Viterbo,2.5,8,477,148.93,0.15,320279
+2020-08-15,Lombardia,Mantova,2.42,10,3882,940.25,0.94,412868
+2020-08-15,Piemonte,Cuneo,2.37,14,2999,507.94,0.51,590421
+2020-08-15,Abruzzo,L'Aquila,2.31,7,300,98.93,0.1,303239
+2020-08-15,Emilia-Romagna,Ravenna,2.3,9,1207,308.28,0.31,391525
+2020-08-15,Sicilia,Caltanissetta,2.21,6,208,76.54,0.08,271758
+2020-08-15,Liguria,Savona,2.14,6,1724,614.16,0.61,280707
+2020-08-15,Puglia,Foggia,2.06,13,1266,200.68,0.2,630851
+2020-08-15,Veneto,Verona,2.06,19,5345,579.48,0.58,922383
+2020-08-15,Emilia-Romagna,Reggio nell'Emilia,1.88,10,5143,965.15,0.97,532872
+2020-08-15,Toscana,Firenze,1.78,18,3378,333.35,0.33,1013348
+2020-08-15,Umbria,Terni,1.75,4,409,178.55,0.18,229071
+2020-08-15,P.A. Bolzano,Bolzano,1.73,9,2793,536.2,0.54,520891
+2020-08-15,Liguria,Genova,1.52,13,5753,673.58,0.67,854099
+2020-08-15,Lombardia,Brescia,1.5,19,16085,1272.44,1.27,1264105
+2020-08-15,Veneto,Belluno,1.45,3,1220,589.78,0.59,206856
+2020-08-15,Emilia-Romagna,Modena,1.43,10,4157,592.47,0.59,701642
+2020-08-15,Emilia-Romagna,Parma,1.34,6,3810,850.87,0.85,447779
+2020-08-15,Veneto,Venezia,1.29,11,3018,352.7,0.35,855696
+2020-08-15,Sicilia,Ragusa,1.25,4,273,85.25,0.09,320226
+2020-08-15,Emilia-Romagna,Bologna,1.19,12,5767,573.36,0.57,1005831
+2020-08-15,Toscana,Prato,1.19,3,579,228.74,0.23,253123
+2020-08-15,Sicilia,Enna,1.18,2,458,269.76,0.27,169782
+2020-08-15,Piemonte,Alessandria,1.17,5,4138,964.96,0.96,428826
+2020-08-15,Veneto,Padova,1.17,11,4433,473.16,0.47,936887
+2020-08-15,Veneto,Vicenza,1.15,10,2986,344.28,0.34,867314
+2020-08-15,Piemonte,Vercelli,1.14,2,1429,817.02,0.82,174904
+2020-08-15,Friuli Venezia Giulia,Udine,1.13,6,1075,201.58,0.2,533282
+2020-08-15,Sicilia,Agrigento,1.12,5,196,44.03,0.04,445129
+2020-08-15,Lombardia,Pavia,1.1,6,5653,1031.71,1.03,547926
+2020-08-15,Lombardia,Sondrio,1.1,2,1619,890.97,0.89,181712
+2020-08-15,Campania,Salerno,1.08,12,821,74.2,0.07,1106506
+2020-08-15,Lombardia,Milano,1.06,34,25221,786.07,0.79,3208509
+2020-08-15,Umbria,Perugia,1.06,7,1056,159.49,0.16,662110
+2020-08-15,Lazio,Roma,0.97,42,6651,153.23,0.15,4340474
+2020-08-15,Abruzzo,Pescara,0.93,3,1651,512.78,0.51,321973
+2020-08-15,Liguria,La Spezia,0.9,2,900,407.23,0.41,221003
+2020-08-15,Molise,Campobasso,0.89,2,399,176.84,0.18,225622
+2020-08-15,Toscana,Grosseto,0.89,2,424,189.58,0.19,223652
+2020-08-15,Lombardia,Cremona,0.83,3,6756,1874.35,1.87,360444
+2020-08-15,Marche,Pesaro e Urbino,0.83,3,2882,797.1,0.8,361561
+2020-08-15,Lazio,Frosinone,0.81,4,687,138.78,0.14,495026
+2020-08-15,Basilicata,Potenza,0.8,3,200,53.61,0.05,373097
+2020-08-15,Lombardia,Varese,0.79,7,4064,456.58,0.46,890090
+2020-08-15,Emilia-Romagna,ForlÃ¬-Cesena,0.76,3,1826,462.75,0.46,394601
+2020-08-15,Friuli Venezia Giulia,Gorizia,0.71,1,232,165.4,0.17,140268
+2020-08-15,Sicilia,Palermo,0.71,9,575,45.23,0.05,1271406
+2020-08-15,Campania,Caserta,0.65,6,653,70.64,0.07,924414
+2020-08-15,Campania,Napoli,0.64,20,2933,94.19,0.09,3113898
+2020-08-15,Emilia-Romagna,Rimini,0.6,2,2298,685.02,0.69,335463
+2020-08-15,Toscana,Livorno,0.59,2,498,147.36,0.15,337951
+2020-08-15,Piemonte,Biella,0.56,1,1057,588.25,0.59,179685
+2020-08-15,Puglia,Bari,0.55,7,1578,124.86,0.12,1263820
+2020-08-15,Calabria,Catanzaro,0.55,2,224,61.7,0.06,363057
+2020-08-15,Lazio,Latina,0.52,3,688,119.81,0.12,574226
+2020-08-15,Toscana,Pisa,0.48,2,974,231.4,0.23,420913
+2020-08-15,Piemonte,Asti,0.46,1,1900,873.27,0.87,217574
+2020-08-15,Lombardia,Bergamo,0.45,5,15140,1366.06,1.37,1108298
+2020-08-15,Sicilia,Catania,0.45,5,941,84.35,0.08,1115535
+2020-08-15,Piemonte,Torino,0.44,10,16074,704.32,0.7,2282197
+2020-08-15,Toscana,Pistoia,0.34,1,772,264.42,0.26,291963
+2020-08-15,Puglia,Taranto,0.34,2,290,49.48,0.05,586061
+2020-08-15,Abruzzo,Teramo,0.32,1,690,222.34,0.22,310339
+2020-08-15,Marche,Macerata,0.31,1,1181,368.71,0.37,320308
+2020-08-15,Lombardia,Lecco,0.29,1,2905,856.29,0.86,339254
+2020-08-15,Abruzzo,Chieti,0.26,1,885,226.36,0.23,390962
+2020-08-15,Lombardia,Monza e della Brianza,0.23,2,5931,684.81,0.68,866076
+2020-08-15,Sicilia,Trapani,0.23,1,142,32.59,0.03,435765
+2020-08-15,Calabria,Reggio di Calabria,0.18,1,334,60.09,0.06,555836
+2020-08-15,Sicilia,Messina,0.16,1,520,81.16,0.08,640675
+2020-08-15,Calabria,Cosenza,0.14,1,498,69.71,0.07,714400
+2020-08-15,Marche,Ancona,0.0,0,1912,401.52,0.4,476192
+2020-08-15,Valle d'Aosta,Aosta,0.0,0,1213,952.65,0.95,127329
+2020-08-15,Toscana,Arezzo,0.0,0,734,212.69,0.21,345110
+2020-08-15,Campania,Avellino,0.0,0,585,137.54,0.14,425325
+2020-08-15,Campania,Benevento,0.0,0,217,77.3,0.08,280707
+2020-08-15,Puglia,Brindisi,0.0,0,681,170.82,0.17,398661
+2020-08-15,Puglia,Barletta-Andria-Trani,0.0,0,390,99.1,0.1,393534
+2020-08-15,Sardegna,Cagliari,0.0,0,277,49.35,0.05,561289
+2020-08-15,Lombardia,Como,0.0,0,4204,701.07,0.7,599654
+2020-08-15,Marche,Fermo,0.0,0,480,273.31,0.27,175625
+2020-08-15,Molise,Isernia,0.0,0,68,78.7,0.08,86405
+2020-08-15,Calabria,Crotone,0.0,0,124,70.97,0.07,174712
+2020-08-15,Puglia,Lecce,0.0,0,606,75.35,0.08,804239
+2020-08-15,Lombardia,Lodi,0.0,0,3654,1592.76,1.59,229413
+2020-08-15,Toscana,Massa Carrara,0.0,0,1078,545.21,0.55,197722
+2020-08-15,Basilicata,Matera,0.0,0,213,106.18,0.11,200597
+2020-08-15,Sardegna,Nuoro,0.0,0,85,54.11,0.05,157078
+2020-08-15,Sardegna,Oristano,0.0,0,62,38.37,0.04,161600
+2020-08-15,Lazio,Rieti,0.0,0,439,277.03,0.28,158467
+2020-08-15,Toscana,Siena,0.0,0,451,167.42,0.17,269388
+2020-08-15,Sardegna,Sassari,0.0,0,901,269.68,0.27,334103
+2020-08-15,P.A. Trento,Trento,0.0,0,5003,929.54,0.93,538223
+2020-08-15,Friuli Venezia Giulia,Trieste,0.0,0,1428,607.99,0.61,234874
+2020-08-15,Piemonte,Verbano-Cusio-Ossola,0.0,0,1157,722.61,0.72,160114
+2020-08-15,Calabria,Vibo Valentia,0.0,0,92,56.61,0.06,162516
 2020-08-14,Marche,Pesaro e Urbino,5.25,19,2879,796.27,0.8,361561
 2020-08-14,Veneto,Treviso,5.08,45,3220,363.66,0.36,885447
 2020-08-14,Sicilia,Agrigento,4.49,20,191,42.91,0.04,445129
@@ -35,6 +141,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-08-14,Lombardia,Milano,0.94,30,25187,785.01,0.79,3208509
 2020-08-14,Lazio,Roma,0.94,41,6609,152.26,0.15,4340474
 2020-08-14,Sardegna,Sassari,0.9,3,901,269.68,0.27,334103
+2020-08-14,Campania,Napoli,0.87,27,2913,93.55,0.09,3113898
 2020-08-14,Marche,Ancona,0.84,4,1912,401.52,0.4,476192
 2020-08-14,Veneto,Rovigo,0.83,2,482,200.38,0.2,240540
 2020-08-14,Piemonte,Novara,0.81,3,2859,771.61,0.77,370525
@@ -170,6 +277,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-08-13,Lombardia,Lodi,0.44,1,3653,1592.32,1.59,229413
 2020-08-13,Umbria,Terni,0.44,1,405,176.8,0.18,229071
 2020-08-13,Friuli Venezia Giulia,Trieste,0.43,1,1425,606.71,0.61,234874
+2020-08-13,Campania,Napoli,0.42,13,2886,92.68,0.09,3113898
 2020-08-13,Puglia,Bari,0.4,5,1568,124.07,0.12,1263820
 2020-08-13,Lazio,Frosinone,0.4,2,683,137.97,0.14,495026
 2020-08-13,P.A. Bolzano,Bolzano,0.38,2,2781,533.89,0.53,520891
@@ -230,6 +338,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-08-12,Friuli Venezia Giulia,Trieste,1.28,3,1424,606.28,0.61,234874
 2020-08-12,Puglia,Bari,1.27,16,1563,123.67,0.12,1263820
 2020-08-12,Puglia,Barletta-Andria-Trani,1.27,5,389,98.85,0.1,393534
+2020-08-12,Campania,Napoli,1.19,37,2873,92.26,0.09,3113898
 2020-08-12,Friuli Venezia Giulia,Udine,1.13,6,1059,198.58,0.2,533282
 2020-08-12,Puglia,Foggia,1.11,7,1247,197.67,0.2,630851
 2020-08-12,Marche,Ancona,1.05,5,1907,400.47,0.4,476192
@@ -342,6 +451,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-08-11,Abruzzo,Teramo,0.64,2,679,218.79,0.22,310339
 2020-08-11,Lazio,Rieti,0.63,1,434,273.87,0.27,158467
 2020-08-11,Toscana,Arezzo,0.58,2,716,207.47,0.21,345110
+2020-08-11,Campania,Napoli,0.58,18,2836,91.08,0.09,3113898
 2020-08-11,Piemonte,Vercelli,0.57,1,1412,807.3,0.81,174904
 2020-08-11,Lombardia,Sondrio,0.55,1,1614,888.22,0.89,181712
 2020-08-11,Piemonte,Novara,0.54,2,2839,766.21,0.77,370525
@@ -461,6 +571,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-08-10,Sicilia,Ragusa,0.31,1,181,56.52,0.06,320226
 2020-08-10,Toscana,Firenze,0.3,3,3319,327.53,0.33,1013348
 2020-08-10,Toscana,Arezzo,0.29,1,714,206.89,0.21,345110
+2020-08-10,Campania,Napoli,0.29,9,2818,90.5,0.09,3113898
 2020-08-10,Lombardia,Bergamo,0.27,3,15117,1363.98,1.36,1108298
 2020-08-10,Piemonte,Novara,0.27,1,2837,765.67,0.77,370525
 2020-08-10,Lombardia,Monza e della Brianza,0.23,2,5913,682.73,0.68,866076
@@ -584,6 +695,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-08-09,P.A. Trento,Trento,0.37,2,4995,928.05,0.93,538223
 2020-08-09,Liguria,Savona,0.36,1,1650,587.8,0.59,280707
 2020-08-09,Liguria,Genova,0.35,3,5716,669.24,0.67,854099
+2020-08-09,Campania,Napoli,0.35,11,2809,90.21,0.09,3113898
 2020-08-09,Sicilia,Ragusa,0.31,1,180,56.21,0.06,320226
 2020-08-09,Lombardia,Lecco,0.29,1,2888,851.28,0.85,339254
 2020-08-09,Lombardia,Cremona,0.28,1,6745,1871.3,1.87,360444
@@ -695,6 +807,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-08-08,Puglia,Bari,0.16,2,1526,120.75,0.12,1263820
 2020-08-08,Sicilia,Messina,0.16,1,511,79.76,0.08,640675
 2020-08-08,Sicilia,Palermo,0.08,1,525,41.29,0.04,1271406
+2020-08-08,Campania,Napoli,0.06,2,2798,89.86,0.09,3113898
 2020-08-08,Sicilia,Agrigento,0.0,0,167,37.52,0.04,445129
 2020-08-08,Marche,Ancona,0.0,0,1898,398.58,0.4,476192
 2020-08-08,Abruzzo,L'Aquila,0.0,0,270,89.04,0.09,303239
@@ -798,6 +911,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-08-07,Campania,Caserta,0.32,3,625,67.61,0.07,924414
 2020-08-07,Abruzzo,Teramo,0.32,1,643,207.19,0.21,310339
 2020-08-07,Toscana,Livorno,0.3,1,489,144.7,0.14,337951
+2020-08-07,Campania,Napoli,0.29,9,2796,89.79,0.09,3113898
 2020-08-07,Emilia-Romagna,Ferrara,0.28,1,1129,321.25,0.32,351436
 2020-08-07,Campania,Salerno,0.27,3,795,71.85,0.07,1106506
 2020-08-07,Abruzzo,Chieti,0.26,1,859,219.71,0.22,390962
@@ -898,6 +1012,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-08-06,Puglia,Lecce,0.25,2,577,71.74,0.07,804239
 2020-08-06,Puglia,Bari,0.24,3,1519,120.19,0.12,1263820
 2020-08-06,Piemonte,Alessandria,0.23,1,4113,959.13,0.96,428826
+2020-08-06,Campania,Napoli,0.19,6,2787,89.5,0.09,3113898
 2020-08-06,Puglia,Taranto,0.17,1,282,48.12,0.05,586061
 2020-08-06,Puglia,Foggia,0.16,1,1219,193.23,0.19,630851
 2020-08-06,Sicilia,Palermo,0.16,2,523,41.14,0.04,1271406
@@ -1013,6 +1128,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-08-05,Liguria,Genova,0.12,1,5699,667.25,0.67,854099
 2020-08-05,Lazio,Roma,0.12,5,6385,147.1,0.15,4340474
 2020-08-05,Toscana,Firenze,0.1,1,3301,325.75,0.33,1013348
+2020-08-05,Campania,Napoli,0.1,3,2781,89.31,0.09,3113898
 2020-08-05,Campania,Salerno,0.09,1,791,71.49,0.07,1106506
 2020-08-05,Piemonte,Torino,0.04,1,15999,701.04,0.7,2282197
 2020-08-05,Sicilia,Agrigento,0.0,0,167,37.52,0.04,445129
@@ -1105,6 +1221,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-08-04,Lombardia,Varese,0.11,1,4013,450.85,0.45,890090
 2020-08-04,Campania,Salerno,0.09,1,790,71.4,0.07,1106506
 2020-08-04,Piemonte,Torino,0.04,1,15998,700.99,0.7,2282197
+2020-08-04,Campania,Napoli,0.03,1,2778,89.21,0.09,3113898
 2020-08-04,Sicilia,Agrigento,0.0,0,167,37.52,0.04,445129
 2020-08-04,Marche,Ancona,0.0,0,1893,397.53,0.4,476192
 2020-08-04,Valle d'Aosta,Aosta,0.0,0,1209,949.51,0.95,127329
@@ -1190,6 +1307,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-08-03,Piemonte,Torino,0.13,3,15997,700.95,0.7,2282197
 2020-08-03,Veneto,Verona,0.11,1,5212,565.06,0.57,922383
 2020-08-03,Campania,Salerno,0.09,1,789,71.31,0.07,1106506
+2020-08-03,Campania,Napoli,0.06,2,2777,89.18,0.09,3113898
 2020-08-03,Sicilia,Agrigento,0.0,0,167,37.52,0.04,445129
 2020-08-03,Piemonte,Alessandria,0.0,0,4107,957.73,0.96,428826
 2020-08-03,Marche,Ancona,0.0,0,1893,397.53,0.4,476192
@@ -1364,6 +1482,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-08-02,Friuli Venezia Giulia,Trieste,0.0,0,1414,602.02,0.6,234874
 2020-08-02,Lazio,Viterbo,0.0,0,462,144.25,0.14,320279
 2020-08-02,Calabria,Vibo Valentia,0.0,0,91,55.99,0.06,162516
+2020-08-02,Campania,Napoli,0.0,0,2775,89.12,0.09,3113898
 2020-08-01,Emilia-Romagna,Piacenza,5.57,16,4508,1570.75,1.57,286997
 2020-08-01,Molise,Isernia,2.31,2,67,77.54,0.08,86405
 2020-08-01,Emilia-Romagna,Reggio nell'Emilia,2.25,12,5031,944.13,0.94,532872
@@ -1418,6 +1537,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-08-01,Piemonte,Alessandria,0.23,1,4106,957.5,0.96,428826
 2020-08-01,Marche,Ancona,0.21,1,1893,397.53,0.4,476192
 2020-08-01,Friuli Venezia Giulia,Udine,0.19,1,1027,192.58,0.19,533282
+2020-08-01,Campania,Napoli,0.19,6,2775,89.12,0.09,3113898
 2020-08-01,Sicilia,Catania,0.18,2,847,75.93,0.08,1115535
 2020-08-01,Lombardia,Como,0.17,1,4160,693.73,0.69,599654
 2020-08-01,Sicilia,Messina,0.16,1,495,77.26,0.08,640675
@@ -1522,6 +1642,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-07-31,Puglia,Foggia,0.16,1,1186,188.0,0.19,630851
 2020-07-31,Sicilia,Messina,0.16,1,494,77.11,0.08,640675
 2020-07-31,Umbria,Perugia,0.15,1,1022,154.36,0.15,662110
+2020-07-31,Campania,Napoli,0.13,4,2769,88.92,0.09,3113898
 2020-07-31,Liguria,Genova,0.12,1,5679,664.91,0.66,854099
 2020-07-31,Puglia,Bari,0.08,1,1504,119.0,0.12,1263820
 2020-07-31,Piemonte,Torino,0.04,1,15983,700.33,0.7,2282197
@@ -1614,6 +1735,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-07-30,Piemonte,Asti,0.46,1,1885,866.37,0.87,217574
 2020-07-30,Puglia,Lecce,0.37,3,557,69.26,0.07,804239
 2020-07-30,Lazio,Roma,0.37,16,6316,145.51,0.15,4340474
+2020-07-30,Campania,Napoli,0.35,11,2765,88.8,0.09,3113898
 2020-07-30,Abruzzo,L'Aquila,0.33,1,257,84.75,0.08,303239
 2020-07-30,Sicilia,Messina,0.31,2,493,76.95,0.08,640675
 2020-07-30,Abruzzo,Pescara,0.31,1,1614,501.28,0.5,321973
@@ -1721,6 +1843,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-07-29,Calabria,Cosenza,0.42,3,491,68.73,0.07,714400
 2020-07-29,Emilia-Romagna,Reggio nell'Emilia,0.38,2,5013,940.75,0.94,532872
 2020-07-29,Toscana,Siena,0.37,1,430,159.62,0.16,269388
+2020-07-29,Campania,Napoli,0.35,11,2754,88.44,0.09,3113898
 2020-07-29,Toscana,Pistoia,0.34,1,756,258.94,0.26,291963
 2020-07-29,Puglia,Foggia,0.32,2,1185,187.84,0.19,630851
 2020-07-29,Friuli Venezia Giulia,Pordenone,0.32,1,723,231.14,0.23,312794
@@ -1796,6 +1919,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-07-28,Piemonte,Novara,0.81,3,2811,758.65,0.76,370525
 2020-07-28,Lombardia,Milano,0.78,25,24860,774.81,0.77,3208509
 2020-07-28,Emilia-Romagna,Reggio nell'Emilia,0.75,4,5011,940.38,0.94,532872
+2020-07-28,Campania,Napoli,0.64,20,2743,88.09,0.09,3113898
 2020-07-28,Sicilia,Messina,0.62,4,487,76.01,0.08,640675
 2020-07-28,Veneto,Vicenza,0.58,5,2904,334.83,0.33,867314
 2020-07-28,Marche,Fermo,0.57,1,476,271.03,0.27,175625
@@ -1922,6 +2046,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-07-27,Puglia,Lecce,0.25,2,545,67.77,0.07,804239
 2020-07-27,Piemonte,Alessandria,0.23,1,4097,955.4,0.96,428826
 2020-07-27,Lombardia,Monza e della Brianza,0.23,2,5869,677.65,0.68,866076
+2020-07-27,Campania,Napoli,0.22,7,2723,87.45,0.09,3113898
 2020-07-27,Lazio,Roma,0.21,9,6259,144.2,0.14,4340474
 2020-07-27,Toscana,Firenze,0.2,2,3261,321.8,0.32,1013348
 2020-07-27,P.A. Trento,Trento,0.19,1,4966,922.67,0.92,538223
@@ -2040,6 +2165,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-07-26,Sicilia,Trapani,0.23,1,138,31.67,0.03,435765
 2020-07-26,Campania,Caserta,0.22,2,605,65.45,0.07,924414
 2020-07-26,Lombardia,Pavia,0.18,1,5610,1023.86,1.02,547926
+2020-07-26,Campania,Napoli,0.16,5,2716,87.22,0.09,3113898
 2020-07-26,Piemonte,Torino,0.13,3,15969,699.72,0.7,2282197
 2020-07-26,Veneto,Vicenza,0.12,1,2890,333.21,0.33,867314
 2020-07-26,Sicilia,Palermo,0.08,1,510,40.11,0.04,1271406
@@ -2129,6 +2255,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-07-25,Emilia-Romagna,Ferrara,0.57,2,1115,317.27,0.32,351436
 2020-07-25,Piemonte,Vercelli,0.57,1,1351,772.42,0.77,174904
 2020-07-25,Marche,Pesaro e Urbino,0.55,2,2771,766.4,0.77,361561
+2020-07-25,Campania,Napoli,0.55,17,2711,87.06,0.09,3113898
 2020-07-25,Piemonte,Novara,0.54,2,2808,757.84,0.76,370525
 2020-07-25,Toscana,Lucca,0.51,2,1376,351.71,0.35,391228
 2020-07-25,Veneto,Belluno,0.48,1,1212,585.91,0.59,206856
@@ -2263,6 +2390,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-07-24,Liguria,Genova,0.12,1,5637,659.99,0.66,854099
 2020-07-24,Lombardia,Varese,0.11,1,3975,446.58,0.45,890090
 2020-07-24,Sicilia,Palermo,0.08,1,509,40.03,0.04,1271406
+2020-07-24,Campania,Napoli,0.06,2,2694,86.52,0.09,3113898
 2020-07-24,Piemonte,Torino,0.04,1,15962,699.41,0.7,2282197
 2020-07-24,Sicilia,Agrigento,0.0,0,138,31.0,0.03,445129
 2020-07-24,Marche,Ancona,0.0,0,1883,395.43,0.4,476192
@@ -2365,6 +2493,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-07-23,Piemonte,Torino,0.18,4,15961,699.37,0.7,2282197
 2020-07-23,Lombardia,Como,0.17,1,4145,691.23,0.69,599654
 2020-07-23,Puglia,Foggia,0.16,1,1172,185.78,0.19,630851
+2020-07-23,Campania,Napoli,0.16,5,2692,86.45,0.09,3113898
 2020-07-23,Umbria,Perugia,0.15,1,1020,154.05,0.15,662110
 2020-07-23,Calabria,Cosenza,0.14,1,488,68.31,0.07,714400
 2020-07-23,Sicilia,Agrigento,0.0,0,138,31.0,0.03,445129
@@ -2464,6 +2593,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-07-22,Calabria,Cosenza,0.14,1,487,68.17,0.07,714400
 2020-07-22,Liguria,Genova,0.12,1,5636,659.88,0.66,854099
 2020-07-22,Veneto,Vicenza,0.12,1,2886,332.75,0.33,867314
+2020-07-22,Campania,Napoli,0.1,3,2687,86.29,0.09,3113898
 2020-07-22,Piemonte,Torino,0.04,1,15957,699.19,0.7,2282197
 2020-07-22,Sicilia,Agrigento,0.0,0,138,31.0,0.03,445129
 2020-07-22,Valle d'Aosta,Aosta,0.0,0,1196,939.3,0.94,127329
@@ -2564,6 +2694,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-07-21,Sicilia,Catania,0.09,1,793,71.09,0.07,1115535
 2020-07-21,Sicilia,Palermo,0.08,1,508,39.96,0.04,1271406
 2020-07-21,Lazio,Roma,0.07,3,6170,142.15,0.14,4340474
+2020-07-21,Campania,Napoli,0.03,1,2684,86.19,0.09,3113898
 2020-07-21,Sicilia,Agrigento,0.0,0,138,31.0,0.03,445129
 2020-07-21,Valle d'Aosta,Aosta,0.0,0,1196,939.3,0.94,127329
 2020-07-21,Marche,Ascoli Piceno,0.0,0,294,139.96,0.14,210066
@@ -2659,6 +2790,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-07-20,Veneto,Vicenza,0.12,1,2884,332.52,0.33,867314
 2020-07-20,Lombardia,Varese,0.11,1,3952,444.0,0.44,890090
 2020-07-20,Sicilia,Catania,0.09,1,792,71.0,0.07,1115535
+2020-07-20,Campania,Napoli,0.03,1,2683,86.16,0.09,3113898
 2020-07-20,Sicilia,Agrigento,0.0,0,138,31.0,0.03,445129
 2020-07-20,Piemonte,Alessandria,0.0,0,4084,952.37,0.95,428826
 2020-07-20,Marche,Ancona,0.0,0,1880,394.8,0.39,476192
@@ -2775,6 +2907,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-07-19,Campania,Caserta,0.11,1,587,63.5,0.06,924414
 2020-07-19,Lombardia,Varese,0.11,1,3951,443.89,0.44,890090
 2020-07-19,Puglia,Bari,0.08,1,1498,118.53,0.12,1263820
+2020-07-19,Campania,Napoli,0.06,2,2682,86.13,0.09,3113898
 2020-07-19,Sicilia,Agrigento,0.0,0,138,31.0,0.03,445129
 2020-07-19,Piemonte,Alessandria,0.0,0,4084,952.37,0.95,428826
 2020-07-19,Marche,Ancona,0.0,0,1880,394.8,0.39,476192
@@ -2872,6 +3005,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-07-18,Lombardia,Cremona,0.28,1,6707,1860.76,1.86,360444
 2020-07-18,Calabria,Catanzaro,0.28,1,217,59.77,0.06,363057
 2020-07-18,Marche,Pesaro e Urbino,0.28,1,2768,765.57,0.77,361561
+2020-07-18,Campania,Napoli,0.26,8,2680,86.07,0.09,3113898
 2020-07-18,Sicilia,Siracusa,0.25,1,330,81.69,0.08,403985
 2020-07-18,Veneto,Venezia,0.23,2,2736,319.74,0.32,855696
 2020-07-18,Sicilia,Agrigento,0.22,1,138,31.0,0.03,445129
@@ -2986,6 +3120,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-07-17,Toscana,Firenze,0.1,1,3226,318.35,0.32,1013348
 2020-07-17,Campania,Salerno,0.09,1,712,64.35,0.06,1106506
 2020-07-17,Sicilia,Palermo,0.08,1,507,39.88,0.04,1271406
+2020-07-17,Campania,Napoli,0.03,1,2672,85.81,0.09,3113898
 2020-07-17,Sicilia,Agrigento,0.0,0,137,30.78,0.03,445129
 2020-07-17,Piemonte,Alessandria,0.0,0,4084,952.37,0.95,428826
 2020-07-17,Marche,Ancona,0.0,0,1879,394.59,0.39,476192
@@ -3093,6 +3228,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-07-16,Sicilia,Palermo,0.16,2,506,39.8,0.04,1271406
 2020-07-16,Lazio,Roma,0.14,6,6109,140.74,0.14,4340474
 2020-07-16,Veneto,Vicenza,0.12,1,2882,332.29,0.33,867314
+2020-07-16,Campania,Napoli,0.1,3,2671,85.78,0.09,3113898
 2020-07-16,Sicilia,Catania,0.09,1,785,70.37,0.07,1115535
 2020-07-16,Piemonte,Torino,0.04,1,15940,698.45,0.7,2282197
 2020-07-16,Sicilia,Agrigento,0.0,0,137,30.78,0.03,445129
@@ -3189,6 +3325,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-07-15,Emilia-Romagna,Modena,0.14,1,3941,561.68,0.56,701642
 2020-07-15,Veneto,Venezia,0.12,1,2702,315.77,0.32,855696
 2020-07-15,Toscana,Firenze,0.1,1,3223,318.05,0.32,1013348
+2020-07-15,Campania,Napoli,0.1,3,2668,85.68,0.09,3113898
 2020-07-15,Sicilia,Agrigento,0.0,0,137,30.78,0.03,445129
 2020-07-15,Marche,Ancona,0.0,0,1879,394.59,0.39,476192
 2020-07-15,Valle d'Aosta,Aosta,0.0,0,1196,939.3,0.94,127329
@@ -3357,6 +3494,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-07-14,Piemonte,Vercelli,0.0,0,1344,768.42,0.77,174904
 2020-07-14,Lazio,Viterbo,0.0,0,459,143.31,0.14,320279
 2020-07-14,Calabria,Vibo Valentia,0.0,0,86,52.92,0.05,162516
+2020-07-14,Campania,Napoli,0.0,0,2665,85.58,0.09,3113898
 2020-07-14,Emilia-Romagna,Reggio nell'Emilia,-0.19,-1,4932,925.55,0.93,532872
 2020-07-14,Veneto,Belluno,-0.48,-1,1200,580.11,0.58,206856
 2020-07-13,Lombardia,Bergamo,3.88,43,14735,1329.52,1.33,1108298
@@ -3388,6 +3526,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-07-13,Piemonte,Torino,0.18,4,15938,698.36,0.7,2282197
 2020-07-13,Veneto,Venezia,0.12,1,2700,315.53,0.32,855696
 2020-07-13,Lombardia,Varese,0.11,1,3936,442.2,0.44,890090
+2020-07-13,Campania,Napoli,0.1,3,2665,85.58,0.09,3113898
 2020-07-13,Sicilia,Agrigento,0.0,0,137,30.78,0.03,445129
 2020-07-13,Piemonte,Alessandria,0.0,0,4081,951.67,0.95,428826
 2020-07-13,Marche,Ancona,0.0,0,1879,394.59,0.39,476192
@@ -3502,6 +3641,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-07-12,Lombardia,Varese,0.11,1,3935,442.09,0.44,890090
 2020-07-12,Toscana,Firenze,0.1,1,3222,317.96,0.32,1013348
 2020-07-12,Campania,Salerno,0.09,1,700,63.26,0.06,1106506
+2020-07-12,Campania,Napoli,0.06,2,2662,85.49,0.09,3113898
 2020-07-12,Sicilia,Agrigento,0.0,0,137,30.78,0.03,445129
 2020-07-12,Piemonte,Alessandria,0.0,0,4081,951.67,0.95,428826
 2020-07-12,Marche,Ancona,0.0,0,1879,394.59,0.39,476192
@@ -3617,6 +3757,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-07-11,Campania,Salerno,0.09,1,699,63.17,0.06,1106506
 2020-07-11,Puglia,Bari,0.08,1,1494,118.21,0.12,1263820
 2020-07-11,Piemonte,Torino,0.04,1,15931,698.06,0.7,2282197
+2020-07-11,Campania,Napoli,0.03,1,2660,85.42,0.09,3113898
 2020-07-11,Sicilia,Agrigento,0.0,0,137,30.78,0.03,445129
 2020-07-11,Valle d'Aosta,Aosta,0.0,0,1196,939.3,0.94,127329
 2020-07-11,Marche,Ascoli Piceno,0.0,0,293,139.48,0.14,210066
@@ -3722,6 +3863,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-07-10,Campania,Salerno,0.09,1,698,63.08,0.06,1106506
 2020-07-10,Piemonte,Torino,0.09,2,15930,698.01,0.7,2282197
 2020-07-10,Puglia,Bari,0.08,1,1493,118.13,0.12,1263820
+2020-07-10,Campania,Napoli,0.06,2,2659,85.39,0.09,3113898
 2020-07-10,Sicilia,Agrigento,0.0,0,137,30.78,0.03,445129
 2020-07-10,Marche,Ancona,0.0,0,1878,394.38,0.39,476192
 2020-07-10,Valle d'Aosta,Aosta,0.0,0,1196,939.3,0.94,127329
@@ -3822,6 +3964,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-07-09,Veneto,Verona,0.11,1,5132,556.38,0.56,922383
 2020-07-09,Campania,Salerno,0.09,1,697,62.99,0.06,1106506
 2020-07-09,Sicilia,Palermo,0.08,1,504,39.64,0.04,1271406
+2020-07-09,Campania,Napoli,0.03,1,2657,85.33,0.09,3113898
 2020-07-09,Sicilia,Agrigento,0.0,0,137,30.78,0.03,445129
 2020-07-09,Valle d'Aosta,Aosta,0.0,0,1196,939.3,0.94,127329
 2020-07-09,Marche,Ascoli Piceno,0.0,0,292,139.0,0.14,210066
@@ -3988,6 +4131,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-07-08,Veneto,Vicenza,0.0,0,2873,331.25,0.33,867314
 2020-07-08,Lazio,Viterbo,0.0,0,459,143.31,0.14,320279
 2020-07-08,Calabria,Vibo Valentia,0.0,0,86,52.92,0.05,162516
+2020-07-08,Campania,Napoli,0.0,0,2656,85.3,0.09,3113898
 2020-07-08,Veneto,Venezia,-0.12,-1,2689,314.25,0.31,855696
 2020-07-07,Toscana,Lucca,2.81,11,1362,348.13,0.35,391228
 2020-07-07,Lombardia,Bergamo,2.62,29,14552,1313.0,1.31,1108298
@@ -4092,6 +4236,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-07-07,Veneto,Verona,0.0,0,5130,556.17,0.56,922383
 2020-07-07,Lazio,Viterbo,0.0,0,459,143.31,0.14,320279
 2020-07-07,Calabria,Vibo Valentia,0.0,0,86,52.92,0.05,162516
+2020-07-07,Campania,Napoli,0.0,0,2656,85.3,0.09,3113898
 2020-07-07,Puglia,Bari,-0.08,-1,1492,118.05,0.12,1263820
 2020-07-07,Lazio,Rieti,-1.26,-2,412,259.99,0.26,158467
 2020-07-06,Lombardia,Cremona,6.38,23,6661,1848.0,1.85,360444
@@ -4193,6 +4338,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-07-06,Veneto,Vicenza,0.0,0,2873,331.25,0.33,867314
 2020-07-06,Veneto,Verona,0.0,0,5130,556.17,0.56,922383
 2020-07-06,Calabria,Vibo Valentia,0.0,0,86,52.92,0.05,162516
+2020-07-06,Campania,Napoli,0.0,0,2656,85.3,0.09,3113898
 2020-07-06,Puglia,Bari,-0.08,-1,1493,118.13,0.12,1263820
 2020-07-06,Lazio,Frosinone,-0.2,-1,668,134.94,0.13,495026
 2020-07-06,Abruzzo,L'Aquila,-0.33,-1,229,75.52,0.08,303239
@@ -4246,6 +4392,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-07-05,Veneto,Venezia,0.12,1,2684,313.66,0.31,855696
 2020-07-05,Veneto,Verona,0.11,1,5130,556.17,0.56,922383
 2020-07-05,Campania,Salerno,0.09,1,696,62.9,0.06,1106506
+2020-07-05,Campania,Napoli,0.03,1,2656,85.3,0.09,3113898
 2020-07-05,Sicilia,Agrigento,0.0,0,136,30.55,0.03,445129
 2020-07-05,Valle d'Aosta,Aosta,0.0,0,1196,939.3,0.94,127329
 2020-07-05,Marche,Ascoli Piceno,0.0,0,290,138.05,0.14,210066
@@ -4409,6 +4556,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-07-04,Veneto,Verona,0.0,0,5129,556.06,0.56,922383
 2020-07-04,Lazio,Viterbo,0.0,0,457,142.69,0.14,320279
 2020-07-04,Calabria,Vibo Valentia,0.0,0,86,52.92,0.05,162516
+2020-07-04,Campania,Napoli,0.0,0,2655,85.26,0.09,3113898
 2020-07-03,Lombardia,Cremona,2.77,10,6631,1839.68,1.84,360444
 2020-07-03,Lombardia,Pavia,2.01,11,5583,1018.93,1.02,547926
 2020-07-03,Lombardia,Bergamo,1.99,22,14442,1303.08,1.3,1108298
@@ -4512,6 +4660,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-07-03,Veneto,Vicenza,0.0,0,2870,330.91,0.33,867314
 2020-07-03,Veneto,Verona,0.0,0,5129,556.06,0.56,922383
 2020-07-03,Lazio,Viterbo,0.0,0,457,142.69,0.14,320279
+2020-07-03,Campania,Napoli,0.0,0,2655,85.26,0.09,3113898
 2020-07-03,Emilia-Romagna,Ravenna,-0.26,-1,1036,264.61,0.26,391525
 2020-07-03,Abruzzo,Pescara,-0.31,-1,1587,492.9,0.49,321973
 2020-07-02,Lombardia,Bergamo,2.08,23,14420,1301.09,1.3,1108298
@@ -4560,6 +4709,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-07-02,Liguria,Genova,0.12,1,5575,652.73,0.65,854099
 2020-07-02,Campania,Caserta,0.11,1,548,59.28,0.06,924414
 2020-07-02,Veneto,Verona,0.11,1,5129,556.06,0.56,922383
+2020-07-02,Campania,Napoli,0.1,3,2655,85.26,0.09,3113898
 2020-07-02,Sicilia,Agrigento,0.0,0,136,30.55,0.03,445129
 2020-07-02,Piemonte,Alessandria,0.0,0,4066,948.17,0.95,428826
 2020-07-02,Valle d'Aosta,Aosta,0.0,0,1195,938.51,0.94,127329
@@ -4720,6 +4870,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-07-01,Piemonte,Vercelli,0.0,0,1323,756.41,0.76,174904
 2020-07-01,Veneto,Venezia,0.0,0,2682,313.43,0.31,855696
 2020-07-01,Lazio,Viterbo,0.0,0,457,142.69,0.14,320279
+2020-07-01,Campania,Napoli,0.0,0,2652,85.17,0.09,3113898
 2020-07-01,Veneto,Padova,-0.11,-1,3953,421.93,0.42,936887
 2020-07-01,Puglia,Foggia,-0.16,-1,1169,185.31,0.19,630851
 2020-07-01,Calabria,Reggio di Calabria,-0.18,-1,293,52.71,0.05,555836
@@ -4759,6 +4910,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-06-30,Veneto,Treviso,0.11,1,2673,301.88,0.3,885447
 2020-06-30,Veneto,Verona,0.11,1,5127,555.84,0.56,922383
 2020-06-30,Lazio,Roma,0.09,4,5872,135.28,0.14,4340474
+2020-06-30,Campania,Napoli,0.03,1,2652,85.17,0.09,3113898
 2020-06-30,Sicilia,Agrigento,0.0,0,135,30.33,0.03,445129
 2020-06-30,Piemonte,Alessandria,0.0,0,4063,947.47,0.95,428826
 2020-06-30,Marche,Ancona,0.0,0,1875,393.75,0.39,476192
@@ -4828,7 +4980,6 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-06-30,Veneto,Venezia,0.0,0,2682,313.43,0.31,855696
 2020-06-30,Lazio,Viterbo,0.0,0,457,142.69,0.14,320279
 2020-06-30,Calabria,Vibo Valentia,0.0,0,84,51.69,0.05,162516
-2020-06-30,Campania,Napoli,0.0,0,2652,85.17,0.09,3113898
 2020-06-30,Emilia-Romagna,Modena,-0.14,-1,3873,551.99,0.55,701642
 2020-06-29,Campania,Caserta,1.51,14,530,57.33,0.06,924414
 2020-06-29,Liguria,La Spezia,1.36,3,858,388.23,0.39,221003
@@ -4935,6 +5086,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-06-29,Veneto,Verona,0.0,0,5126,555.73,0.56,922383
 2020-06-29,Lazio,Viterbo,0.0,0,457,142.69,0.14,320279
 2020-06-29,Calabria,Vibo Valentia,0.0,0,84,51.69,0.05,162516
+2020-06-29,Campania,Napoli,0.0,0,2651,85.13,0.09,3113898
 2020-06-28,Lombardia,Brescia,2.14,27,15611,1234.94,1.23,1264105
 2020-06-28,Veneto,Belluno,1.93,4,1190,575.28,0.58,206856
 2020-06-28,Lombardia,Bergamo,1.8,20,14357,1295.41,1.3,1108298
@@ -5040,6 +5192,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-06-28,Veneto,Venezia,0.0,0,2682,313.43,0.31,855696
 2020-06-28,Lazio,Viterbo,0.0,0,457,142.69,0.14,320279
 2020-06-28,Calabria,Vibo Valentia,0.0,0,84,51.69,0.05,162516
+2020-06-28,Campania,Napoli,0.0,0,2651,85.13,0.09,3113898
 2020-06-27,Emilia-Romagna,Piacenza,9.76,28,4427,1542.52,1.54,286997
 2020-06-27,Emilia-Romagna,Modena,5.99,42,3871,551.71,0.55,701642
 2020-06-27,Emilia-Romagna,Reggio nell'Emilia,4.32,23,4908,921.05,0.92,532872
@@ -5144,6 +5297,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-06-27,Veneto,Verona,0.0,0,5124,555.52,0.56,922383
 2020-06-27,Lazio,Viterbo,0.0,0,457,142.69,0.14,320279
 2020-06-27,Calabria,Vibo Valentia,0.0,0,84,51.69,0.05,162516
+2020-06-27,Campania,Napoli,0.0,0,2651,85.13,0.09,3113898
 2020-06-27,Veneto,Treviso,-0.11,-1,2669,301.43,0.3,885447
 2020-06-26,Lombardia,Bergamo,3.97,44,14315,1291.62,1.29,1108298
 2020-06-26,Lombardia,Sondrio,3.85,7,1582,870.61,0.87,181712
@@ -5179,6 +5333,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-06-26,Toscana,Arezzo,0.29,1,671,194.43,0.19,345110
 2020-06-26,Lombardia,Cremona,0.28,1,6597,1830.24,1.83,360444
 2020-06-26,Piemonte,Torino,0.22,5,15875,695.6,0.7,2282197
+2020-06-26,Campania,Napoli,0.13,4,2651,85.13,0.09,3113898
 2020-06-26,Puglia,Lecce,0.12,1,521,64.78,0.06,804239
 2020-06-26,Veneto,Padova,0.11,1,3948,421.4,0.42,936887
 2020-06-26,Veneto,Verona,0.11,1,5124,555.52,0.56,922383
@@ -5291,6 +5446,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-06-25,Emilia-Romagna,Modena,0.14,1,3867,551.14,0.55,701642
 2020-06-25,Veneto,Treviso,0.11,1,2670,301.54,0.3,885447
 2020-06-25,Lombardia,Varese,0.11,1,3878,435.69,0.44,890090
+2020-06-25,Campania,Napoli,0.1,3,2647,85.01,0.09,3113898
 2020-06-25,Sicilia,Palermo,0.08,1,499,39.25,0.04,1271406
 2020-06-25,Sicilia,Agrigento,0.0,0,135,30.33,0.03,445129
 2020-06-25,Marche,Ancona,0.0,0,1875,393.75,0.39,476192
@@ -5437,6 +5593,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-06-24,Lombardia,Varese,0.0,0,3877,435.57,0.44,890090
 2020-06-24,Veneto,Venezia,0.0,0,2681,313.31,0.31,855696
 2020-06-24,Calabria,Vibo Valentia,0.0,0,84,51.69,0.05,162516
+2020-06-24,Campania,Napoli,0.0,0,2644,84.91,0.08,3113898
 2020-06-24,Veneto,Rovigo,-0.42,-1,444,184.58,0.18,240540
 2020-06-24,Toscana,Massa Carrara,-1.01,-2,1050,531.05,0.53,197722
 2020-06-24,Lazio,Roma,-2.47,-107,5810,133.86,0.13,4340474
@@ -5500,6 +5657,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-06-23,Veneto,Vicenza,0.12,1,2859,329.64,0.33,867314
 2020-06-23,Veneto,Verona,0.11,1,5122,555.3,0.56,922383
 2020-06-23,Toscana,Firenze,0.1,1,3518,347.17,0.35,1013348
+2020-06-23,Campania,Napoli,0.03,1,2644,84.91,0.08,3113898
 2020-06-23,Sicilia,Agrigento,0.0,0,135,30.33,0.03,445129
 2020-06-23,Piemonte,Alessandria,0.0,0,4058,946.3,0.95,428826
 2020-06-23,Marche,Ancona,0.0,0,1875,393.75,0.39,476192
@@ -5667,6 +5825,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-06-22,Veneto,Verona,0.0,0,5121,555.19,0.56,922383
 2020-06-22,Lazio,Viterbo,0.0,0,428,133.63,0.13,320279
 2020-06-22,Calabria,Vibo Valentia,0.0,0,84,51.69,0.05,162516
+2020-06-22,Campania,Napoli,0.0,0,2643,84.88,0.08,3113898
 2020-06-22,Marche,Ancona,-0.21,-1,1875,393.75,0.39,476192
 2020-06-22,Abruzzo,L'Aquila,-0.33,-1,245,80.79,0.08,303239
 2020-06-22,Liguria,La Spezia,-0.45,-1,896,405.42,0.41,221003
@@ -5710,6 +5869,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-06-21,Campania,Caserta,0.11,1,472,51.06,0.05,924414
 2020-06-21,Toscana,Firenze,0.1,1,3517,347.07,0.35,1013348
 2020-06-21,Puglia,Bari,0.08,1,1491,117.98,0.12,1263820
+2020-06-21,Campania,Napoli,0.03,1,2643,84.88,0.08,3113898
 2020-06-21,Sicilia,Agrigento,0.0,0,135,30.33,0.03,445129
 2020-06-21,Marche,Ancona,0.0,0,1876,393.96,0.39,476192
 2020-06-21,Valle d'Aosta,Aosta,0.0,0,1193,936.94,0.94,127329
@@ -5817,6 +5977,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-06-20,Veneto,Treviso,0.11,1,2667,301.2,0.3,885447
 2020-06-20,Veneto,Verona,0.11,1,5119,554.98,0.55,922383
 2020-06-20,Puglia,Bari,0.08,1,1490,117.9,0.12,1263820
+2020-06-20,Campania,Napoli,0.03,1,2642,84.85,0.08,3113898
 2020-06-20,Sicilia,Agrigento,0.0,0,135,30.33,0.03,445129
 2020-06-20,Marche,Ancona,0.0,0,1876,393.96,0.39,476192
 2020-06-20,Marche,Ascoli Piceno,0.0,0,290,138.05,0.14,210066
@@ -5978,6 +6139,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-06-19,Veneto,Verona,0.0,0,5118,554.87,0.55,922383
 2020-06-19,Lazio,Viterbo,0.0,0,428,133.63,0.13,320279
 2020-06-19,Calabria,Vibo Valentia,0.0,0,83,51.07,0.05,162516
+2020-06-19,Campania,Napoli,0.0,0,2641,84.81,0.08,3113898
 2020-06-19,Abruzzo,Teramo,-0.64,-2,662,213.32,0.21,310339
 2020-06-19,Sicilia,Agrigento,-1.35,-6,135,30.33,0.03,445129
 2020-06-19,Sicilia,Trapani,-1.61,-7,136,31.21,0.03,435765
@@ -6032,6 +6194,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-06-18,Sicilia,Catania,0.09,1,1078,96.64,0.1,1115535
 2020-06-18,Puglia,Bari,0.08,1,1489,117.82,0.12,1263820
 2020-06-18,Sicilia,Palermo,0.08,1,585,46.01,0.05,1271406
+2020-06-18,Campania,Napoli,0.03,1,2641,84.81,0.08,3113898
 2020-06-18,Sicilia,Agrigento,0.0,0,141,31.68,0.03,445129
 2020-06-18,Marche,Ancona,0.0,0,1876,393.96,0.39,476192
 2020-06-18,Valle d'Aosta,Aosta,0.0,0,1191,935.37,0.94,127329
@@ -6193,6 +6356,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-06-17,Veneto,Vicenza,0.0,0,2855,329.18,0.33,867314
 2020-06-17,Lazio,Viterbo,0.0,0,428,133.63,0.13,320279
 2020-06-17,Calabria,Vibo Valentia,0.0,0,83,51.07,0.05,162516
+2020-06-17,Campania,Napoli,0.0,0,2640,84.78,0.08,3113898
 2020-06-17,Abruzzo,L'Aquila,-0.33,-1,246,81.12,0.08,303239
 2020-06-17,Piemonte,Vercelli,-0.57,-1,1315,751.84,0.75,174904
 2020-06-16,Lombardia,Lodi,3.49,8,3549,1546.99,1.55,229413
@@ -6297,6 +6461,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-06-16,Veneto,Venezia,0.0,0,2678,312.96,0.31,855696
 2020-06-16,Veneto,Vicenza,0.0,0,2855,329.18,0.33,867314
 2020-06-16,Calabria,Vibo Valentia,0.0,0,83,51.07,0.05,162516
+2020-06-16,Campania,Napoli,0.0,0,2640,84.78,0.08,3113898
 2020-06-16,Veneto,Treviso,-0.11,-1,2665,300.98,0.3,885447
 2020-06-16,Lazio,Viterbo,-0.31,-1,428,133.63,0.13,320279
 2020-06-16,Liguria,Savona,-0.71,-2,1591,566.78,0.57,280707
@@ -6329,6 +6494,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-06-15,Emilia-Romagna,Reggio nell'Emilia,0.19,1,4971,932.87,0.93,532872
 2020-06-15,P.A. Trento,Trento,0.19,1,4448,826.42,0.83,538223
 2020-06-15,Emilia-Romagna,Modena,0.14,1,3933,560.54,0.56,701642
+2020-06-15,Campania,Napoli,0.13,4,2640,84.78,0.08,3113898
 2020-06-15,Puglia,Lecce,0.12,1,520,64.66,0.06,804239
 2020-06-15,Veneto,Padova,0.11,1,3943,420.86,0.42,936887
 2020-06-15,Sicilia,Catania,0.09,1,1077,96.55,0.1,1115535
@@ -6509,6 +6675,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-06-14,Veneto,Verona,0.0,0,5110,554.0,0.55,922383
 2020-06-14,Lazio,Viterbo,0.0,0,429,133.95,0.13,320279
 2020-06-14,Calabria,Vibo Valentia,0.0,0,83,51.07,0.05,162516
+2020-06-14,Campania,Napoli,0.0,0,2636,84.65,0.08,3113898
 2020-06-14,Abruzzo,Chieti,-0.26,-1,827,211.53,0.21,390962
 2020-06-13,Lombardia,Cremona,4.16,15,6546,1816.09,1.82,360444
 2020-06-13,Piemonte,Alessandria,3.96,17,4004,933.71,0.93,428826
@@ -6557,6 +6724,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-06-13,Veneto,Treviso,0.11,1,2666,301.09,0.3,885447
 2020-06-13,Veneto,Verona,0.11,1,5110,554.0,0.55,922383
 2020-06-13,Sicilia,Palermo,0.08,1,582,45.78,0.05,1271406
+2020-06-13,Campania,Napoli,0.03,1,2636,84.65,0.08,3113898
 2020-06-13,Sicilia,Agrigento,0.0,0,141,31.68,0.03,445129
 2020-06-13,Valle d'Aosta,Aosta,0.0,0,1191,935.37,0.94,127329
 2020-06-13,Marche,Ascoli Piceno,0.0,0,290,138.05,0.14,210066
@@ -6717,6 +6885,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-06-12,Veneto,Vicenza,0.0,0,2855,329.18,0.33,867314
 2020-06-12,Lazio,Viterbo,0.0,0,429,133.95,0.13,320279
 2020-06-12,Calabria,Vibo Valentia,0.0,0,82,50.46,0.05,162516
+2020-06-12,Campania,Napoli,0.0,0,2635,84.62,0.08,3113898
 2020-06-12,Veneto,Padova,-0.11,-1,3933,419.79,0.42,936887
 2020-06-12,Veneto,Treviso,-0.11,-1,2665,300.98,0.3,885447
 2020-06-12,Veneto,Rovigo,-0.42,-1,442,183.75,0.18,240540
@@ -6769,6 +6938,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-06-11,Emilia-Romagna,Modena,0.14,1,3929,559.97,0.56,701642
 2020-06-11,Veneto,Treviso,0.11,1,2666,301.09,0.3,885447
 2020-06-11,Campania,Salerno,0.09,1,689,62.27,0.06,1106506
+2020-06-11,Campania,Napoli,0.06,2,2635,84.62,0.08,3113898
 2020-06-11,Sicilia,Agrigento,0.0,0,141,31.68,0.03,445129
 2020-06-11,Marche,Ancona,0.0,0,1873,393.33,0.39,476192
 2020-06-11,Valle d'Aosta,Aosta,0.0,0,1191,935.37,0.94,127329
@@ -6868,6 +7038,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-06-10,Veneto,Padova,0.11,1,3935,420.01,0.42,936887
 2020-06-10,Veneto,Verona,0.11,1,5107,553.67,0.55,922383
 2020-06-10,Toscana,Firenze,0.1,1,3487,344.11,0.34,1013348
+2020-06-10,Campania,Napoli,0.1,3,2633,84.56,0.08,3113898
 2020-06-10,Sicilia,Catania,0.09,1,1076,96.46,0.1,1115535
 2020-06-10,Sicilia,Agrigento,0.0,0,141,31.68,0.03,445129
 2020-06-10,Marche,Ancona,0.0,0,1873,393.33,0.39,476192
@@ -6970,6 +7141,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-06-09,Veneto,Padova,0.11,1,3934,419.9,0.42,936887
 2020-06-09,Veneto,Verona,0.11,1,5106,553.57,0.55,922383
 2020-06-09,Toscana,Firenze,0.1,1,3486,344.01,0.34,1013348
+2020-06-09,Campania,Napoli,0.1,3,2630,84.46,0.08,3113898
 2020-06-09,Sicilia,Catania,0.09,1,1075,96.37,0.1,1115535
 2020-06-09,Sicilia,Palermo,0.08,1,581,45.7,0.05,1271406
 2020-06-09,Sicilia,Agrigento,0.0,0,141,31.68,0.03,445129
@@ -7140,6 +7312,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-06-08,Veneto,Verona,0.0,0,5105,553.46,0.55,922383
 2020-06-08,Lazio,Viterbo,0.0,0,429,133.95,0.13,320279
 2020-06-08,Calabria,Vibo Valentia,0.0,0,81,49.84,0.05,162516
+2020-06-08,Campania,Napoli,0.0,0,2627,84.36,0.08,3113898
 2020-06-07,Lombardia,Sondrio,3.85,7,1488,818.88,0.82,181712
 2020-06-07,Lombardia,Pavia,2.19,12,5416,988.45,0.99,547926
 2020-06-07,Abruzzo,Pescara,2.17,7,1531,475.51,0.48,321973
@@ -7174,6 +7347,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-06-07,Veneto,Venezia,0.12,1,2668,311.79,0.31,855696
 2020-06-07,Veneto,Vicenza,0.12,1,2852,328.83,0.33,867314
 2020-06-07,Toscana,Firenze,0.1,1,3483,343.71,0.34,1013348
+2020-06-07,Campania,Napoli,0.03,1,2627,84.36,0.08,3113898
 2020-06-07,Sicilia,Agrigento,0.0,0,141,31.68,0.03,445129
 2020-06-07,Marche,Ancona,0.0,0,1872,393.12,0.39,476192
 2020-06-07,Marche,Ascoli Piceno,0.0,0,290,138.05,0.14,210066
@@ -7297,6 +7471,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-06-06,Veneto,Padova,0.11,1,3933,419.79,0.42,936887
 2020-06-06,Sicilia,Catania,0.09,1,1073,96.19,0.1,1115535
 2020-06-06,Puglia,Bari,0.08,1,1489,117.82,0.12,1263820
+2020-06-06,Campania,Napoli,0.03,1,2626,84.33,0.08,3113898
 2020-06-06,Sicilia,Agrigento,0.0,0,141,31.68,0.03,445129
 2020-06-06,Marche,Ancona,0.0,0,1872,393.12,0.39,476192
 2020-06-06,Marche,Ascoli Piceno,0.0,0,290,138.05,0.14,210066
@@ -7454,6 +7629,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-06-05,Piemonte,Verbano-Cusio-Ossola,0.0,0,1111,693.88,0.69,160114
 2020-06-05,Lazio,Viterbo,0.0,0,429,133.95,0.13,320279
 2020-06-05,Calabria,Vibo Valentia,0.0,0,81,49.84,0.05,162516
+2020-06-05,Campania,Napoli,0.0,0,2625,84.3,0.08,3113898
 2020-06-05,Veneto,Venezia,-0.12,-1,2666,311.56,0.31,855696
 2020-06-04,Liguria,Savona,3.21,9,1582,563.58,0.56,280707
 2020-06-04,Liguria,Imperia,1.86,4,1546,718.25,0.72,215244
@@ -7493,6 +7669,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-06-04,Piemonte,Alessandria,0.23,1,3945,919.95,0.92,428826
 2020-06-04,Veneto,Venezia,0.23,2,2667,311.68,0.31,855696
 2020-06-04,Friuli Venezia Giulia,Udine,0.19,1,987,185.08,0.19,533282
+2020-06-04,Campania,Napoli,0.13,4,2625,84.3,0.08,3113898
 2020-06-04,Veneto,Verona,0.11,1,5101,553.02,0.55,922383
 2020-06-04,Lombardia,Bergamo,0.09,1,13466,1215.02,1.22,1108298
 2020-06-04,Puglia,Bari,0.08,1,1488,117.74,0.12,1263820
@@ -7598,6 +7775,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-06-03,Toscana,Firenze,0.2,2,3473,342.73,0.34,1013348
 2020-06-03,P.A. Trento,Trento,0.19,1,4433,823.64,0.82,538223
 2020-06-03,Puglia,Foggia,0.16,1,1157,183.4,0.18,630851
+2020-06-03,Campania,Napoli,0.13,4,2621,84.17,0.08,3113898
 2020-06-03,Veneto,Treviso,0.11,1,2659,300.3,0.3,885447
 2020-06-03,Campania,Salerno,0.09,1,687,62.09,0.06,1106506
 2020-06-03,Sicilia,Agrigento,0.0,0,141,31.68,0.03,445129
@@ -7711,6 +7889,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-06-02,Veneto,Verona,0.11,1,5100,552.92,0.55,922383
 2020-06-02,Campania,Salerno,0.09,1,686,62.0,0.06,1106506
 2020-06-02,Puglia,Bari,0.08,1,1487,117.66,0.12,1263820
+2020-06-02,Campania,Napoli,0.03,1,2617,84.04,0.08,3113898
 2020-06-02,Sicilia,Agrigento,0.0,0,141,31.68,0.03,445129
 2020-06-02,Marche,Ancona,0.0,0,1872,393.12,0.39,476192
 2020-06-02,Valle d'Aosta,Aosta,0.0,0,1187,932.23,0.93,127329
@@ -7812,6 +7991,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-06-01,Lazio,Roma,0.14,6,5649,130.15,0.13,4340474
 2020-06-01,Veneto,Padova,0.11,1,3933,419.79,0.42,936887
 2020-06-01,Toscana,Firenze,0.1,1,3468,342.23,0.34,1013348
+2020-06-01,Campania,Napoli,0.1,3,2616,84.01,0.08,3113898
 2020-06-01,Sicilia,Agrigento,0.0,0,141,31.68,0.03,445129
 2020-06-01,Marche,Ancona,0.0,0,1872,393.12,0.39,476192
 2020-06-01,Marche,Ascoli Piceno,0.0,0,290,138.05,0.14,210066
@@ -7929,6 +8109,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-05-31,Campania,Caserta,0.11,1,460,49.76,0.05,924414
 2020-05-31,Veneto,Padova,0.11,1,3932,419.69,0.42,936887
 2020-05-31,Veneto,Verona,0.11,1,5099,552.81,0.55,922383
+2020-05-31,Campania,Napoli,0.03,1,2613,83.91,0.08,3113898
 2020-05-31,Sicilia,Agrigento,0.0,0,141,31.68,0.03,445129
 2020-05-31,Marche,Ascoli Piceno,0.0,0,290,138.05,0.14,210066
 2020-05-31,Abruzzo,L'Aquila,0.0,0,246,81.12,0.08,303239
@@ -8031,6 +8212,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-05-30,P.A. Trento,Trento,0.19,1,4429,822.89,0.82,538223
 2020-05-30,Lazio,Roma,0.12,5,5632,129.76,0.13,4340474
 2020-05-30,Veneto,Treviso,0.11,1,2658,300.19,0.3,885447
+2020-05-30,Campania,Napoli,0.03,1,2612,83.88,0.08,3113898
 2020-05-30,Sicilia,Agrigento,0.0,0,141,31.68,0.03,445129
 2020-05-30,Marche,Ascoli Piceno,0.0,0,290,138.05,0.14,210066
 2020-05-30,Abruzzo,L'Aquila,0.0,0,246,81.12,0.08,303239
@@ -8123,6 +8305,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-05-29,Liguria,Savona,0.36,1,1561,556.1,0.56,280707
 2020-05-29,Abruzzo,L'Aquila,0.33,1,246,81.12,0.08,303239
 2020-05-29,Campania,Caserta,0.32,3,459,49.65,0.05,924414
+2020-05-29,Campania,Napoli,0.32,10,2611,83.85,0.08,3113898
 2020-05-29,Lazio,Viterbo,0.31,1,429,133.95,0.13,320279
 2020-05-29,Toscana,Livorno,0.3,1,555,164.22,0.16,337951
 2020-05-29,Lazio,Roma,0.3,13,5627,129.64,0.13,4340474
@@ -8247,6 +8430,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-05-28,Puglia,Foggia,0.16,1,1153,182.77,0.18,630851
 2020-05-28,Sicilia,Messina,0.16,1,565,88.19,0.09,640675
 2020-05-28,Sicilia,Palermo,0.16,2,578,45.46,0.05,1271406
+2020-05-28,Campania,Napoli,0.13,4,2601,83.53,0.08,3113898
 2020-05-28,Veneto,Padova,0.11,1,3930,419.47,0.42,936887
 2020-05-28,Veneto,Treviso,0.11,1,2657,300.07,0.3,885447
 2020-05-28,Toscana,Firenze,0.1,1,3457,341.15,0.34,1013348
@@ -8351,6 +8535,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-05-27,Emilia-Romagna,Modena,0.14,1,3900,555.84,0.56,701642
 2020-05-27,Sicilia,Catania,0.09,1,1072,96.1,0.1,1115535
 2020-05-27,Campania,Salerno,0.09,1,682,61.64,0.06,1106506
+2020-05-27,Campania,Napoli,0.06,2,2597,83.4,0.08,3113898
 2020-05-27,Sicilia,Agrigento,0.0,0,141,31.68,0.03,445129
 2020-05-27,Marche,Ancona,0.0,0,1870,392.7,0.39,476192
 2020-05-27,Valle d'Aosta,Aosta,0.0,0,1181,927.52,0.93,127329
@@ -8447,6 +8632,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-05-26,Lazio,Latina,0.17,1,536,93.34,0.09,574226
 2020-05-26,Sicilia,Messina,0.16,1,564,88.03,0.09,640675
 2020-05-26,Umbria,Perugia,0.15,1,1004,151.64,0.15,662110
+2020-05-26,Campania,Napoli,0.13,4,2595,83.34,0.08,3113898
 2020-05-26,Veneto,Vicenza,0.12,1,2835,326.87,0.33,867314
 2020-05-26,Veneto,Padova,0.11,1,3929,419.37,0.42,936887
 2020-05-26,Veneto,Treviso,0.11,1,2656,299.96,0.3,885447
@@ -8555,6 +8741,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-05-25,Campania,Caserta,0.11,1,454,49.11,0.05,924414
 2020-05-25,Veneto,Padova,0.11,1,3928,419.26,0.42,936887
 2020-05-25,Campania,Salerno,0.09,1,680,61.45,0.06,1106506
+2020-05-25,Campania,Napoli,0.06,2,2591,83.21,0.08,3113898
 2020-05-25,Sicilia,Agrigento,0.0,0,141,31.68,0.03,445129
 2020-05-25,Marche,Ascoli Piceno,0.0,0,290,138.05,0.14,210066
 2020-05-25,Abruzzo,L'Aquila,0.0,0,246,81.12,0.08,303239
@@ -8671,6 +8858,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-05-24,Campania,Salerno,0.18,2,679,61.36,0.06,1106506
 2020-05-24,Sicilia,Messina,0.16,1,563,87.88,0.09,640675
 2020-05-24,Emilia-Romagna,Modena,0.14,1,3896,555.27,0.56,701642
+2020-05-24,Campania,Napoli,0.13,4,2589,83.14,0.08,3113898
 2020-05-24,Veneto,Treviso,0.11,1,2655,299.85,0.3,885447
 2020-05-24,Sicilia,Catania,0.09,1,1068,95.74,0.1,1115535
 2020-05-24,Sicilia,Agrigento,0.0,0,141,31.68,0.03,445129
@@ -8816,6 +9004,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-05-23,Veneto,Vicenza,0.0,0,2832,326.53,0.33,867314
 2020-05-23,Lazio,Viterbo,0.0,0,426,133.01,0.13,320279
 2020-05-23,Calabria,Vibo Valentia,0.0,0,81,49.84,0.05,162516
+2020-05-23,Campania,Napoli,0.0,0,2585,83.01,0.08,3113898
 2020-05-23,Puglia,Barletta-Andria-Trani,-0.25,-1,381,96.82,0.1,393534
 2020-05-23,Abruzzo,Chieti,-0.26,-1,817,208.97,0.21,390962
 2020-05-23,Sardegna,Sassari,-0.3,-1,871,260.7,0.26,334103
@@ -8892,6 +9081,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-05-22,Campania,Caserta,0.11,1,453,49.0,0.05,924414
 2020-05-22,Veneto,Treviso,0.11,1,2651,299.4,0.3,885447
 2020-05-22,Campania,Salerno,0.09,1,676,61.09,0.06,1106506
+2020-05-22,Campania,Napoli,0.06,2,2585,83.01,0.08,3113898
 2020-05-22,Sicilia,Agrigento,0.0,0,141,31.68,0.03,445129
 2020-05-22,Marche,Ascoli Piceno,0.0,0,290,138.05,0.14,210066
 2020-05-22,Abruzzo,L'Aquila,0.0,0,246,81.12,0.08,303239
@@ -8992,6 +9182,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-05-21,Puglia,Foggia,0.16,1,1132,179.44,0.18,630851
 2020-05-21,Umbria,Perugia,0.15,1,1003,151.49,0.15,662110
 2020-05-21,Veneto,Vicenza,0.12,1,2831,326.41,0.33,867314
+2020-05-21,Campania,Napoli,0.06,2,2583,82.95,0.08,3113898
 2020-05-21,Sicilia,Agrigento,0.0,0,141,31.68,0.03,445129
 2020-05-21,Marche,Ancona,0.0,0,1860,390.6,0.39,476192
 2020-05-21,Marche,Ascoli Piceno,0.0,0,290,138.05,0.14,210066
@@ -9095,6 +9286,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-05-20,Friuli Venezia Giulia,Udine,0.19,1,974,182.64,0.18,533282
 2020-05-20,Calabria,Reggio di Calabria,0.18,1,274,49.3,0.05,555836
 2020-05-20,Puglia,Taranto,0.17,1,276,47.09,0.05,586061
+2020-05-20,Campania,Napoli,0.16,5,2581,82.89,0.08,3113898
 2020-05-20,Calabria,Cosenza,0.14,1,468,65.51,0.07,714400
 2020-05-20,Emilia-Romagna,Modena,0.14,1,3880,552.99,0.55,701642
 2020-05-20,Sicilia,Catania,0.09,1,1063,95.29,0.1,1115535
@@ -9195,6 +9387,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-05-19,Calabria,Reggio di Calabria,0.18,1,273,49.12,0.05,555836
 2020-05-19,Lazio,Roma,0.18,8,5474,126.12,0.13,4340474
 2020-05-19,Puglia,Foggia,0.16,1,1129,178.96,0.18,630851
+2020-05-19,Campania,Napoli,0.13,4,2576,82.73,0.08,3113898
 2020-05-19,Puglia,Lecce,0.12,1,509,63.29,0.06,804239
 2020-05-19,Campania,Caserta,0.11,1,448,48.46,0.05,924414
 2020-05-19,Veneto,Padova,0.11,1,3916,417.98,0.42,936887
@@ -9301,6 +9494,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-05-18,Veneto,Padova,0.11,1,3915,417.87,0.42,936887
 2020-05-18,Emilia-Romagna,Bologna,0.1,1,4881,485.27,0.49,1005831
 2020-05-18,Campania,Salerno,0.09,1,674,60.91,0.06,1106506
+2020-05-18,Campania,Napoli,0.03,1,2572,82.6,0.08,3113898
 2020-05-18,Sicilia,Agrigento,0.0,0,141,31.68,0.03,445129
 2020-05-18,Marche,Ascoli Piceno,0.0,0,290,138.05,0.14,210066
 2020-05-18,Abruzzo,L'Aquila,0.0,0,246,81.12,0.08,303239
@@ -9417,6 +9611,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-05-17,Sardegna,Cagliari,0.18,1,248,44.18,0.04,561289
 2020-05-17,Puglia,Foggia,0.16,1,1127,178.65,0.18,630851
 2020-05-17,Sicilia,Palermo,0.16,2,557,43.81,0.04,1271406
+2020-05-17,Campania,Napoli,0.1,3,2571,82.57,0.08,3113898
 2020-05-17,Campania,Salerno,0.09,1,673,60.82,0.06,1106506
 2020-05-17,Puglia,Bari,0.08,1,1435,113.54,0.11,1263820
 2020-05-17,Sicilia,Agrigento,0.0,0,141,31.68,0.03,445129
@@ -9524,6 +9719,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-05-16,Sicilia,Catania,0.18,2,1061,95.11,0.1,1115535
 2020-05-16,Puglia,Bari,0.16,2,1434,113.47,0.11,1263820
 2020-05-16,Puglia,Foggia,0.16,1,1126,178.49,0.18,630851
+2020-05-16,Campania,Napoli,0.16,5,2568,82.47,0.08,3113898
 2020-05-16,Calabria,Cosenza,0.14,1,467,65.37,0.07,714400
 2020-05-16,Puglia,Lecce,0.12,1,508,63.17,0.06,804239
 2020-05-16,Campania,Salerno,0.09,1,672,60.73,0.06,1106506
@@ -9608,6 +9804,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-05-15,Veneto,Treviso,0.45,4,2625,296.46,0.3,885447
 2020-05-15,Umbria,Terni,0.44,1,370,161.52,0.16,229071
 2020-05-15,Veneto,Rovigo,0.42,1,437,181.67,0.18,240540
+2020-05-15,Campania,Napoli,0.39,12,2563,82.31,0.08,3113898
 2020-05-15,Toscana,Pistoia,0.34,1,656,224.69,0.22,291963
 2020-05-15,Lazio,Viterbo,0.31,1,416,129.89,0.13,320279
 2020-05-15,Toscana,Arezzo,0.29,1,669,193.85,0.19,345110
@@ -9735,6 +9932,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-05-14,Puglia,Bari,0.16,2,1431,113.23,0.11,1263820
 2020-05-14,Calabria,Cosenza,0.14,1,465,65.09,0.07,714400
 2020-05-14,Campania,Caserta,0.11,1,434,46.95,0.05,924414
+2020-05-14,Campania,Napoli,0.06,2,2551,81.92,0.08,3113898
 2020-05-14,Sicilia,Agrigento,0.0,0,141,31.68,0.03,445129
 2020-05-14,Marche,Ancona,0.0,0,1840,386.4,0.39,476192
 2020-05-14,Marche,Ascoli Piceno,0.0,0,288,137.1,0.14,210066
@@ -9829,6 +10027,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-05-13,Toscana,Prato,0.4,1,543,214.52,0.21,253123
 2020-05-13,Puglia,Lecce,0.37,3,508,63.17,0.06,804239
 2020-05-13,Puglia,Foggia,0.32,2,1119,177.38,0.18,630851
+2020-05-13,Campania,Napoli,0.26,8,2549,81.86,0.08,3113898
 2020-05-13,Sicilia,Palermo,0.24,3,549,43.18,0.04,1271406
 2020-05-13,Veneto,Vicenza,0.23,2,2789,321.57,0.32,867314
 2020-05-13,Marche,Ancona,0.21,1,1840,386.4,0.39,476192
@@ -9937,6 +10136,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-05-12,Puglia,Foggia,0.16,1,1117,177.06,0.18,630851
 2020-05-12,Sicilia,Messina,0.16,1,558,87.1,0.09,640675
 2020-05-12,Sicilia,Palermo,0.16,2,546,42.94,0.04,1271406
+2020-05-12,Campania,Napoli,0.16,5,2541,81.6,0.08,3113898
 2020-05-12,Calabria,Cosenza,0.14,1,464,64.95,0.06,714400
 2020-05-12,Campania,Caserta,0.11,1,432,46.73,0.05,924414
 2020-05-12,Sicilia,Catania,0.09,1,1047,93.86,0.09,1115535
@@ -10030,6 +10230,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-05-11,P.A. Trento,Trento,0.37,2,4297,798.37,0.8,538223
 2020-05-11,Campania,Benevento,0.36,1,190,67.69,0.07,280707
 2020-05-11,Veneto,Venezia,0.35,3,2599,303.73,0.3,855696
+2020-05-11,Campania,Napoli,0.35,11,2536,81.44,0.08,3113898
 2020-05-11,Marche,Macerata,0.31,1,1068,333.43,0.33,320308
 2020-05-11,Lazio,Viterbo,0.31,1,409,127.7,0.13,320279
 2020-05-11,Calabria,Catanzaro,0.28,1,211,58.12,0.06,363057
@@ -10157,6 +10358,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-05-10,Campania,Salerno,0.18,2,667,60.28,0.06,1106506
 2020-05-10,Lazio,Latina,0.17,1,511,88.99,0.09,574226
 2020-05-10,Umbria,Perugia,0.15,1,993,149.98,0.15,662110
+2020-05-10,Campania,Napoli,0.13,4,2525,81.09,0.08,3113898
 2020-05-10,Puglia,Lecce,0.12,1,504,62.67,0.06,804239
 2020-05-10,Sicilia,Agrigento,0.0,0,137,30.78,0.03,445129
 2020-05-10,Marche,Ascoli Piceno,0.0,0,287,136.62,0.14,210066
@@ -10256,6 +10458,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-05-09,Friuli Venezia Giulia,Pordenone,0.32,1,650,207.8,0.21,312794
 2020-05-09,Abruzzo,Teramo,0.32,1,644,207.52,0.21,310339
 2020-05-09,Sicilia,Catania,0.27,3,1035,92.78,0.09,1115535
+2020-05-09,Campania,Napoli,0.22,7,2521,80.96,0.08,3113898
 2020-05-09,Veneto,Padova,0.21,2,3891,415.31,0.42,936887
 2020-05-09,Friuli Venezia Giulia,Udine,0.19,1,968,181.52,0.18,533282
 2020-05-09,Sicilia,Messina,0.16,1,553,86.32,0.09,640675
@@ -10362,6 +10565,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-05-08,Friuli Venezia Giulia,Pordenone,0.32,1,649,207.48,0.21,312794
 2020-05-08,Marche,Macerata,0.31,1,1051,328.12,0.33,320308
 2020-05-08,Toscana,Livorno,0.3,1,531,157.12,0.16,337951
+2020-05-08,Campania,Napoli,0.26,8,2514,80.73,0.08,3113898
 2020-05-08,Calabria,Reggio di Calabria,0.18,1,261,46.96,0.05,555836
 2020-05-08,Puglia,Lecce,0.12,1,503,62.54,0.06,804239
 2020-05-08,Sicilia,Agrigento,0.0,0,135,30.33,0.03,445129
@@ -10467,6 +10671,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-05-07,Toscana,Pisa,0.24,1,863,205.03,0.21,420913
 2020-05-07,Veneto,Treviso,0.23,2,2565,289.68,0.29,885447
 2020-05-07,Calabria,Reggio di Calabria,0.18,1,260,46.78,0.05,555836
+2020-05-07,Campania,Napoli,0.16,5,2506,80.48,0.08,3113898
 2020-05-07,Umbria,Perugia,0.15,1,994,150.13,0.15,662110
 2020-05-07,Calabria,Cosenza,0.14,1,460,64.39,0.06,714400
 2020-05-07,Sicilia,Palermo,0.08,1,523,41.14,0.04,1271406
@@ -10563,6 +10768,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-05-06,Veneto,Belluno,0.48,1,1141,551.59,0.55,206856
 2020-05-06,Lombardia,Mantova,0.48,2,3217,779.18,0.78,412868
 2020-05-06,Toscana,Pisa,0.48,2,862,204.79,0.2,420913
+2020-05-06,Campania,Napoli,0.48,15,2501,80.32,0.08,3113898
 2020-05-06,Toscana,Grosseto,0.45,1,416,186.0,0.19,223652
 2020-05-06,Marche,Ancona,0.42,2,1822,382.62,0.38,476192
 2020-05-06,Veneto,Rovigo,0.42,1,430,178.76,0.18,240540
@@ -10663,6 +10869,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-05-05,Toscana,Lucca,0.51,2,1310,334.84,0.33,391228
 2020-05-05,Marche,Ascoli Piceno,0.48,1,285,135.67,0.14,210066
 2020-05-05,Toscana,Pisa,0.48,2,860,204.32,0.2,420913
+2020-05-05,Campania,Napoli,0.42,13,2486,79.84,0.08,3113898
 2020-05-05,Sicilia,Palermo,0.39,5,521,40.98,0.04,1271406
 2020-05-05,Veneto,Vicenza,0.35,3,2722,313.84,0.31,867314
 2020-05-05,Veneto,Treviso,0.34,3,2560,289.12,0.29,885447
@@ -10782,6 +10989,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-05-04,Abruzzo,Chieti,0.26,1,766,195.93,0.2,390962
 2020-05-04,Toscana,Pisa,0.24,1,858,203.84,0.2,420913
 2020-05-04,Sardegna,Cagliari,0.18,1,242,43.12,0.04,561289
+2020-05-04,Campania,Napoli,0.16,5,2473,79.42,0.08,3113898
 2020-05-04,Sicilia,Agrigento,0.0,0,135,30.33,0.03,445129
 2020-05-04,Campania,Avellino,0.0,0,469,110.27,0.11,425325
 2020-05-04,Puglia,Brindisi,0.0,0,582,145.99,0.15,398661
@@ -10877,6 +11085,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-05-03,Friuli Venezia Giulia,Udine,0.56,3,957,179.45,0.18,533282
 2020-05-03,Lazio,Latina,0.52,3,505,87.94,0.09,574226
 2020-05-03,Puglia,Barletta-Andria-Trani,0.51,2,379,96.31,0.1,393534
+2020-05-03,Campania,Napoli,0.45,14,2468,79.26,0.08,3113898
 2020-05-03,Campania,Caserta,0.43,4,424,45.87,0.05,924414
 2020-05-03,Veneto,Rovigo,0.42,1,431,179.18,0.18,240540
 2020-05-03,Campania,Benevento,0.36,1,183,65.19,0.07,280707
@@ -10993,6 +11202,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-05-02,Umbria,Terni,0.44,1,350,152.79,0.15,229071
 2020-05-02,Sicilia,Palermo,0.39,5,507,39.88,0.04,1271406
 2020-05-02,Toscana,Siena,0.37,1,424,157.39,0.16,269388
+2020-05-02,Campania,Napoli,0.35,11,2454,78.81,0.08,3113898
 2020-05-02,Puglia,Taranto,0.34,2,263,44.88,0.04,586061
 2020-05-02,Emilia-Romagna,Ravenna,0.26,1,983,251.07,0.25,391525
 2020-05-02,Puglia,Bari,0.24,3,1319,104.37,0.1,1263820
@@ -11091,6 +11301,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-05-01,Sardegna,Cagliari,0.71,4,239,42.58,0.04,561289
 2020-05-01,Friuli Venezia Giulia,Gorizia,0.71,1,187,133.32,0.13,140268
 2020-05-01,Sicilia,Palermo,0.71,9,502,39.48,0.04,1271406
+2020-05-01,Campania,Napoli,0.64,20,2443,78.45,0.08,3113898
 2020-05-01,Marche,Ancona,0.63,3,1813,380.73,0.38,476192
 2020-05-01,Sardegna,Oristano,0.62,1,55,34.03,0.03,161600
 2020-05-01,Toscana,Livorno,0.59,2,515,152.39,0.15,337951
@@ -11211,6 +11422,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-04-30,Calabria,Catanzaro,0.28,1,207,57.02,0.06,363057
 2020-04-30,Emilia-Romagna,Ravenna,0.26,1,982,250.81,0.25,391525
 2020-04-30,Toscana,Pisa,0.24,1,847,201.23,0.2,420913
+2020-04-30,Campania,Napoli,0.22,7,2423,77.81,0.08,3113898
 2020-04-30,Lazio,Frosinone,0.2,1,566,114.34,0.11,495026
 2020-04-30,Sardegna,Cagliari,0.18,1,235,41.87,0.04,561289
 2020-04-30,Sicilia,Catania,0.18,2,973,87.22,0.09,1115535
@@ -11316,6 +11528,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-04-29,Friuli Venezia Giulia,Udine,0.38,2,951,178.33,0.18,533282
 2020-04-29,Sicilia,Caltanissetta,0.37,1,159,58.51,0.06,271758
 2020-04-29,Sardegna,Cagliari,0.36,2,234,41.69,0.04,561289
+2020-04-29,Campania,Napoli,0.35,11,2416,77.59,0.08,3113898
 2020-04-29,Campania,Caserta,0.32,3,420,45.43,0.05,924414
 2020-04-29,Umbria,Perugia,0.3,2,991,149.67,0.15,662110
 2020-04-29,Toscana,Arezzo,0.29,1,621,179.94,0.18,345110
@@ -11406,6 +11619,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-04-28,Sicilia,Palermo,0.71,9,470,36.97,0.04,1271406
 2020-04-28,Abruzzo,L'Aquila,0.66,2,244,80.46,0.08,303239
 2020-04-28,Friuli Venezia Giulia,Pordenone,0.64,2,627,200.45,0.2,312794
+2020-04-28,Campania,Napoli,0.51,16,2405,77.23,0.08,3113898
 2020-04-28,Puglia,Lecce,0.5,4,480,59.68,0.06,804239
 2020-04-28,Veneto,Belluno,0.48,1,1061,512.92,0.51,206856
 2020-04-28,Sicilia,Trapani,0.46,2,139,31.9,0.03,435765
@@ -11512,6 +11726,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-04-27,Puglia,Brindisi,0.5,2,554,138.97,0.14,398661
 2020-04-27,Puglia,Foggia,0.48,3,989,156.77,0.16,630851
 2020-04-27,Liguria,Imperia,0.46,1,1246,578.88,0.58,215244
+2020-04-27,Campania,Napoli,0.45,14,2389,76.72,0.08,3113898
 2020-04-27,Sicilia,Palermo,0.39,5,461,36.26,0.04,1271406
 2020-04-27,Abruzzo,L'Aquila,0.33,1,242,79.81,0.08,303239
 2020-04-27,Marche,Macerata,0.31,1,999,311.89,0.31,320308
@@ -11624,6 +11839,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-04-26,Friuli Venezia Giulia,Gorizia,0.71,1,175,124.76,0.12,140268
 2020-04-26,Sicilia,Palermo,0.71,9,456,35.87,0.04,1271406
 2020-04-26,Toscana,Pisa,0.71,3,836,198.62,0.2,420913
+2020-04-26,Campania,Napoli,0.71,22,2375,76.27,0.08,3113898
 2020-04-26,Abruzzo,Teramo,0.64,2,635,204.61,0.2,310339
 2020-04-26,Puglia,Bari,0.63,8,1282,101.44,0.1,1263820
 2020-04-26,Puglia,Lecce,0.62,5,475,59.06,0.06,804239
@@ -11731,6 +11947,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-04-25,Campania,Benevento,0.71,2,177,63.06,0.06,280707
 2020-04-25,Abruzzo,Teramo,0.64,2,633,203.97,0.2,310339
 2020-04-25,Lazio,Rieti,0.63,1,313,197.52,0.2,158467
+2020-04-25,Campania,Napoli,0.61,19,2353,75.56,0.08,3113898
 2020-04-25,Toscana,Livorno,0.59,2,501,148.25,0.15,337951
 2020-04-25,Puglia,Lecce,0.5,4,470,58.44,0.06,804239
 2020-04-25,Basilicata,Matera,0.5,1,186,92.72,0.09,200597
@@ -11839,6 +12056,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-04-24,Sicilia,Siracusa,0.74,3,200,49.51,0.05,403985
 2020-04-24,Calabria,Vibo Valentia,0.62,1,72,44.3,0.04,162516
 2020-04-24,Lazio,Frosinone,0.61,3,547,110.5,0.11,495026
+2020-04-24,Campania,Napoli,0.58,18,2334,74.95,0.07,3113898
 2020-04-24,Basilicata,Potenza,0.54,2,175,46.9,0.05,373097
 2020-04-24,Marche,Ascoli Piceno,0.48,1,275,130.91,0.13,210066
 2020-04-24,Campania,Avellino,0.47,2,434,102.04,0.1,425325
@@ -11925,6 +12143,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-04-23,Sardegna,Sassari,1.8,6,810,242.44,0.24,334103
 2020-04-23,Marche,Fermo,1.71,3,402,228.9,0.23,175625
 2020-04-23,Sicilia,Catania,1.7,19,905,81.13,0.08,1115535
+2020-04-23,Campania,Napoli,1.7,53,2316,74.38,0.07,3113898
 2020-04-23,Sicilia,Caltanissetta,1.47,4,145,53.36,0.05,271758
 2020-04-23,Umbria,Terni,1.31,3,334,145.81,0.15,229071
 2020-04-23,Lazio,Roma,1.29,56,4313,99.37,0.1,4340474
@@ -12038,6 +12257,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-04-22,Campania,Avellino,1.41,6,434,102.04,0.1,425325
 2020-04-22,Toscana,Grosseto,1.34,3,389,173.93,0.17,223652
 2020-04-22,Calabria,Cosenza,1.26,9,426,59.63,0.06,714400
+2020-04-22,Campania,Napoli,1.16,36,2263,72.67,0.07,3113898
 2020-04-22,P.A. Bolzano,Bolzano,1.15,6,2416,463.82,0.46,520891
 2020-04-22,Puglia,Lecce,1.12,9,461,57.32,0.06,804239
 2020-04-22,Sicilia,Caltanissetta,1.1,3,141,51.88,0.05,271758
@@ -12136,6 +12356,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-04-21,Lazio,Frosinone,1.62,8,533,107.67,0.11,495026
 2020-04-21,Basilicata,Matera,1.5,3,177,88.24,0.09,200597
 2020-04-21,Toscana,Siena,1.48,4,411,152.57,0.15,269388
+2020-04-21,Campania,Napoli,1.48,46,2227,71.52,0.07,3113898
 2020-04-21,Sardegna,Cagliari,1.43,8,226,40.26,0.04,561289
 2020-04-21,Toscana,Grosseto,1.34,3,386,172.59,0.17,223652
 2020-04-21,Basilicata,Potenza,1.34,5,173,46.37,0.05,373097
@@ -12252,6 +12473,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-04-20,Friuli Venezia Giulia,Udine,0.94,5,915,171.58,0.17,533282
 2020-04-20,Lazio,Frosinone,0.81,4,525,106.06,0.11,495026
 2020-04-20,Toscana,Siena,0.74,2,407,151.08,0.15,269388
+2020-04-20,Campania,Napoli,0.71,22,2181,70.04,0.07,3113898
 2020-04-20,Lazio,Rieti,0.63,1,281,177.32,0.18,158467
 2020-04-20,Sardegna,Sassari,0.6,2,798,238.85,0.24,334103
 2020-04-20,Toscana,Livorno,0.59,2,491,145.29,0.15,337951
@@ -12362,6 +12584,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-04-19,Basilicata,Matera,1.0,2,174,86.74,0.09,200597
 2020-04-19,Puglia,Lecce,0.99,8,451,56.08,0.06,804239
 2020-04-19,Toscana,Pisa,0.95,4,778,184.84,0.18,420913
+2020-04-19,Campania,Napoli,0.93,29,2159,69.33,0.07,3113898
 2020-04-19,Sardegna,Cagliari,0.89,5,217,38.66,0.04,561289
 2020-04-19,Friuli Venezia Giulia,Udine,0.75,4,910,170.64,0.17,533282
 2020-04-19,Friuli Venezia Giulia,Gorizia,0.71,1,132,94.11,0.09,140268
@@ -12472,6 +12695,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-04-18,Lazio,Viterbo,0.94,3,349,108.97,0.11,320279
 2020-04-18,Umbria,Perugia,0.76,5,972,146.8,0.15,662110
 2020-04-18,Puglia,Taranto,0.68,4,239,40.78,0.04,586061
+2020-04-18,Campania,Napoli,0.67,21,2130,68.4,0.07,3113898
 2020-04-18,Abruzzo,Teramo,0.64,2,617,198.81,0.2,310339
 2020-04-18,Sicilia,Palermo,0.63,8,412,32.41,0.03,1271406
 2020-04-18,Sardegna,Oristano,0.62,1,41,25.37,0.03,161600
@@ -12568,6 +12792,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-04-17,Lazio,Latina,1.57,9,430,74.88,0.07,574226
 2020-04-17,Emilia-Romagna,Ravenna,1.53,6,910,232.42,0.23,391525
 2020-04-17,Calabria,Cosenza,1.4,10,367,51.37,0.05,714400
+2020-04-17,Campania,Napoli,1.19,37,2109,67.73,0.07,3113898
 2020-04-17,Lombardia,Sondrio,1.1,2,866,476.58,0.48,181712
 2020-04-17,Campania,Salerno,1.08,12,599,54.13,0.05,1106506
 2020-04-17,Lazio,Frosinone,1.01,5,502,101.41,0.1,495026
@@ -12671,6 +12896,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-04-16,Campania,Avellino,2.12,9,416,97.81,0.1,425325
 2020-04-16,Campania,Salerno,2.08,23,587,53.05,0.05,1106506
 2020-04-16,Abruzzo,Teramo,1.61,5,610,196.56,0.2,310339
+2020-04-16,Campania,Napoli,1.48,46,2072,66.54,0.07,3113898
 2020-04-16,Friuli Venezia Giulia,Gorizia,1.43,2,132,94.11,0.09,140268
 2020-04-16,Puglia,Bari,1.27,16,1029,81.42,0.08,1263820
 2020-04-16,Calabria,Vibo Valentia,1.23,2,70,43.07,0.04,162516
@@ -12786,6 +13012,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-04-15,Lazio,Rieti,0.63,1,277,174.8,0.17,158467
 2020-04-15,Campania,Salerno,0.63,7,564,50.97,0.05,1106506
 2020-04-15,Veneto,Venezia,0.58,5,2013,235.25,0.24,855696
+2020-04-15,Campania,Napoli,0.51,16,2026,65.06,0.07,3113898
 2020-04-15,Sicilia,Siracusa,0.5,2,158,39.11,0.04,403985
 2020-04-15,Puglia,Taranto,0.34,2,228,38.9,0.04,586061
 2020-04-15,Abruzzo,L'Aquila,0.33,1,229,75.52,0.08,303239
@@ -12864,6 +13091,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-04-14,Veneto,Verona,2.71,25,3572,387.26,0.39,922383
 2020-04-14,Abruzzo,L'Aquila,2.64,8,228,75.19,0.08,303239
 2020-04-14,Lazio,Viterbo,2.5,8,326,101.79,0.1,320279
+2020-04-14,Campania,Napoli,2.5,78,2010,64.55,0.06,3113898
 2020-04-14,Puglia,Bari,2.14,27,989,78.25,0.08,1263820
 2020-04-14,Emilia-Romagna,Parma,2.01,9,2582,576.62,0.58,447779
 2020-04-14,Toscana,Livorno,1.78,6,410,121.32,0.12,337951
@@ -12968,6 +13196,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-04-13,Friuli Venezia Giulia,Pordenone,2.56,8,547,174.88,0.17,312794
 2020-04-13,Sardegna,Sassari,2.39,8,745,222.99,0.22,334103
 2020-04-13,Friuli Venezia Giulia,Udine,2.06,11,884,165.77,0.17,533282
+2020-04-13,Campania,Napoli,1.96,61,1932,62.04,0.06,3113898
 2020-04-13,Piemonte,Novara,1.89,7,1612,435.06,0.44,370525
 2020-04-13,Toscana,Livorno,1.78,6,404,119.54,0.12,337951
 2020-04-13,Sicilia,Catania,1.34,15,704,63.11,0.06,1115535
@@ -13088,6 +13317,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-04-12,Abruzzo,Teramo,2.26,7,599,193.01,0.19,310339
 2020-04-12,Sicilia,Caltanissetta,2.21,6,128,47.1,0.05,271758
 2020-04-12,Lazio,Roma,2.21,96,3315,76.37,0.08,4340474
+2020-04-12,Campania,Napoli,1.99,62,1871,60.09,0.06,3113898
 2020-04-12,Lazio,Latina,1.92,11,398,69.31,0.07,574226
 2020-04-12,Marche,Ascoli Piceno,1.9,4,253,120.44,0.12,210066
 2020-04-12,Lazio,Rieti,1.89,3,276,174.17,0.17,158467
@@ -13207,6 +13437,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-04-11,Veneto,Rovigo,1.25,3,274,113.91,0.11,240540
 2020-04-11,Sardegna,Oristano,1.24,2,33,20.42,0.02,161600
 2020-04-11,Lazio,Frosinone,1.21,6,469,94.74,0.09,495026
+2020-04-11,Campania,Napoli,1.19,37,1809,58.09,0.06,3113898
 2020-04-11,Sicilia,Trapani,1.15,5,125,28.69,0.03,435765
 2020-04-11,Campania,Benevento,1.07,3,152,54.15,0.05,280707
 2020-04-11,Sardegna,Cagliari,1.07,6,185,32.96,0.03,561289
@@ -13296,6 +13527,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-04-10,Piemonte,Cuneo,2.88,17,1318,223.23,0.22,590421
 2020-04-10,Sicilia,Siracusa,2.72,11,135,33.42,0.03,403985
 2020-04-10,Calabria,Vibo Valentia,2.46,4,65,40.0,0.04,162516
+2020-04-10,Campania,Napoli,2.34,73,1772,56.91,0.06,3113898
 2020-04-10,Toscana,Lucca,2.3,9,988,252.54,0.25,391228
 2020-04-10,Marche,Fermo,2.28,4,343,195.3,0.2,175625
 2020-04-10,Friuli Venezia Giulia,Pordenone,2.24,7,520,166.24,0.17,312794
@@ -13413,6 +13645,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-04-09,Sardegna,Oristano,1.24,2,31,19.18,0.02,161600
 2020-04-09,Toscana,Livorno,1.18,4,353,104.45,0.1,337951
 2020-04-09,Calabria,Catanzaro,1.1,4,173,47.65,0.05,363057
+2020-04-09,Campania,Napoli,1.0,31,1699,54.56,0.05,3113898
 2020-04-09,Umbria,Perugia,0.91,6,947,143.03,0.14,662110
 2020-04-09,Campania,Salerno,0.9,10,499,45.1,0.05,1106506
 2020-04-09,Toscana,Grosseto,0.89,2,292,130.56,0.13,223652
@@ -13526,6 +13759,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-04-08,Sicilia,Messina,0.94,6,376,58.69,0.06,640675
 2020-04-08,Sicilia,Palermo,0.94,12,329,25.88,0.03,1271406
 2020-04-08,Calabria,Reggio di Calabria,0.9,5,248,44.62,0.04,555836
+2020-04-08,Campania,Napoli,0.8,25,1668,53.57,0.05,3113898
 2020-04-08,Sicilia,Caltanissetta,0.74,2,107,39.37,0.04,271758
 2020-04-08,Campania,Avellino,0.71,3,378,88.87,0.09,425325
 2020-04-08,Sicilia,Agrigento,0.67,3,113,25.39,0.03,445129
@@ -13607,6 +13841,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-04-07,Toscana,Arezzo,2.61,9,396,114.75,0.11,345110
 2020-04-07,Emilia-Romagna,Ravenna,2.55,10,738,188.49,0.19,391525
 2020-04-07,Campania,Caserta,2.49,23,331,35.81,0.04,924414
+2020-04-07,Campania,Napoli,2.41,75,1643,52.76,0.05,3113898
 2020-04-07,Puglia,Bari,2.14,27,834,65.99,0.07,1263820
 2020-04-07,Abruzzo,L'Aquila,1.98,6,189,62.33,0.06,303239
 2020-04-07,Umbria,Terni,1.75,4,288,125.73,0.13,229071
@@ -13732,6 +13967,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-04-06,Friuli Venezia Giulia,Udine,1.31,7,793,148.7,0.15,533282
 2020-04-06,Lazio,Roma,1.27,55,2769,63.79,0.06,4340474
 2020-04-06,Puglia,Lecce,1.24,10,378,47.0,0.05,804239
+2020-04-06,Campania,Napoli,1.16,36,1568,50.35,0.05,3113898
 2020-04-06,Calabria,Crotone,1.14,2,111,63.53,0.06,174712
 2020-04-06,Calabria,Reggio di Calabria,1.08,6,243,43.72,0.04,555836
 2020-04-06,Lazio,Frosinone,1.01,5,374,75.55,0.08,495026
@@ -13843,6 +14079,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-04-05,Abruzzo,L'Aquila,1.65,5,179,59.03,0.06,303239
 2020-04-05,Sicilia,Messina,1.4,9,353,55.1,0.06,640675
 2020-04-05,Sicilia,Agrigento,1.12,5,107,24.04,0.02,445129
+2020-04-05,Campania,Napoli,1.09,34,1532,49.2,0.05,3113898
 2020-04-05,Lazio,Frosinone,1.01,5,369,74.54,0.07,495026
 2020-04-05,Campania,Salerno,0.99,11,437,39.49,0.04,1106506
 2020-04-05,Marche,Ascoli Piceno,0.95,2,235,111.87,0.11,210066
@@ -13933,6 +14170,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-04-04,Campania,Avellino,2.59,11,351,82.53,0.08,425325
 2020-04-04,Lazio,Latina,2.44,14,318,55.38,0.06,574226
 2020-04-04,Campania,Salerno,2.35,26,426,38.5,0.04,1106506
+2020-04-04,Campania,Napoli,2.25,70,1498,48.11,0.05,3113898
 2020-04-04,Molise,Campobasso,2.22,5,154,68.26,0.07,225622
 2020-04-04,Lazio,Frosinone,2.02,10,364,73.53,0.07,495026
 2020-04-04,Toscana,Pisa,1.9,8,527,125.2,0.13,420913
@@ -14022,6 +14260,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-04-03,Sardegna,Sassari,5.69,19,547,163.72,0.16,334103
 2020-04-03,Toscana,Pistoia,5.14,15,361,123.65,0.12,291963
 2020-04-03,Umbria,Terni,4.8,11,257,112.19,0.11,229071
+2020-04-03,Campania,Napoli,4.78,149,1428,45.86,0.05,3113898
 2020-04-03,Molise,Isernia,4.63,4,15,17.36,0.02,86405
 2020-04-03,Lazio,Latina,4.18,24,304,52.94,0.05,574226
 2020-04-03,Piemonte,Cuneo,4.06,24,850,143.97,0.14,590421
@@ -14133,6 +14372,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-04-02,Toscana,Arezzo,4.06,14,357,103.45,0.1,345110
 2020-04-02,Puglia,Lecce,3.98,32,353,43.89,0.04,804239
 2020-04-02,Abruzzo,L'Aquila,3.96,12,140,46.17,0.05,303239
+2020-04-02,Campania,Napoli,3.79,118,1279,41.07,0.04,3113898
 2020-04-02,Puglia,Bari,3.56,45,700,55.39,0.06,1263820
 2020-04-02,Umbria,Perugia,3.32,22,844,127.47,0.13,662110
 2020-04-02,Emilia-Romagna,Rimini,3.28,11,1456,434.03,0.43,335463
@@ -14234,6 +14474,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-04-01,Puglia,Taranto,3.75,22,148,25.25,0.03,586061
 2020-04-01,Lazio,Viterbo,3.75,12,193,60.26,0.06,320279
 2020-04-01,Veneto,Treviso,3.61,32,1554,175.5,0.18,885447
+2020-04-01,Campania,Napoli,3.47,108,1161,37.28,0.04,3113898
 2020-04-01,Sardegna,Sassari,3.29,11,497,148.76,0.15,334103
 2020-04-01,Toscana,Arezzo,3.19,11,343,99.39,0.1,345110
 2020-04-01,Puglia,Bari,3.09,39,655,51.83,0.05,1263820
@@ -14356,6 +14597,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-03-31,Campania,Benevento,2.14,6,76,27.07,0.03,280707
 2020-03-31,Veneto,Rovigo,2.08,5,136,56.54,0.06,240540
 2020-03-31,Puglia,Barletta-Andria-Trani,2.03,8,111,28.21,0.03,393534
+2020-03-31,Campania,Napoli,1.99,62,1053,33.82,0.03,3113898
 2020-03-31,Abruzzo,Chieti,1.79,7,280,71.62,0.07,390962
 2020-03-31,Umbria,Terni,1.75,4,230,100.41,0.1,229071
 2020-03-31,Puglia,Bari,1.74,22,616,48.74,0.05,1263820
@@ -14455,6 +14697,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-03-30,Calabria,Vibo Valentia,3.08,5,44,27.07,0.03,162516
 2020-03-30,Calabria,Catanzaro,3.03,11,134,36.91,0.04,363057
 2020-03-30,Puglia,Brindisi,3.01,12,164,41.14,0.04,398661
+2020-03-30,Campania,Napoli,2.99,93,991,31.83,0.03,3113898
 2020-03-30,Lazio,Roma,2.83,123,2068,47.64,0.05,4340474
 2020-03-30,Campania,Avellino,2.82,12,220,51.73,0.05,425325
 2020-03-30,Toscana,Grosseto,2.68,6,251,112.23,0.11,223652
@@ -14568,6 +14811,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-03-29,Lazio,Roma,2.44,106,1945,44.81,0.04,4340474
 2020-03-29,Sardegna,Sassari,2.39,8,415,124.21,0.12,334103
 2020-03-29,Calabria,Cosenza,2.38,17,171,23.94,0.02,714400
+2020-03-29,Campania,Napoli,2.28,71,898,28.84,0.03,3113898
 2020-03-29,Umbria,Terni,2.18,5,218,95.17,0.1,229071
 2020-03-29,Sicilia,Trapani,2.07,9,71,16.29,0.02,435765
 2020-03-29,Friuli Venezia Giulia,Pordenone,1.92,6,368,117.65,0.12,312794
@@ -14676,6 +14920,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-03-28,Calabria,Crotone,4.01,7,87,49.8,0.05,174712
 2020-03-28,Calabria,Cosenza,3.64,26,154,21.56,0.02,714400
 2020-03-28,Lazio,Roma,3.13,136,1839,42.37,0.04,4340474
+2020-03-28,Campania,Napoli,2.99,93,827,26.56,0.03,3113898
 2020-03-28,Puglia,Lecce,2.98,24,239,29.72,0.03,804239
 2020-03-28,Calabria,Reggio di Calabria,2.7,15,155,27.89,0.03,555836
 2020-03-28,Molise,Campobasso,2.66,6,97,42.99,0.04,225622
@@ -14768,6 +15013,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-03-27,Sicilia,Trapani,2.75,12,61,14.0,0.01,435765
 2020-03-27,Molise,Campobasso,2.66,6,91,40.33,0.04,225622
 2020-03-27,Basilicata,Matera,2.49,5,53,26.42,0.03,200597
+2020-03-27,Campania,Napoli,2.22,69,734,23.57,0.02,3113898
 2020-03-27,Marche,Macerata,1.87,6,411,128.31,0.13,320308
 2020-03-27,Sicilia,Caltanissetta,1.84,5,55,20.24,0.02,271758
 2020-03-27,Puglia,Barletta-Andria-Trani,1.78,7,92,23.38,0.02,393534
@@ -14900,6 +15146,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-03-26,Abruzzo,L'Aquila,1.32,4,64,21.11,0.02,303239
 2020-03-26,Campania,Caserta,1.3,12,177,19.15,0.02,924414
 2020-03-26,Lazio,Rieti,1.26,2,41,25.87,0.03,158467
+2020-03-26,Campania,Napoli,1.25,39,665,21.36,0.02,3113898
 2020-03-26,Sicilia,Agrigento,1.12,5,55,12.36,0.01,445129
 2020-03-26,Calabria,Cosenza,1.12,8,107,14.98,0.01,714400
 2020-03-26,Sicilia,Palermo,0.94,12,205,16.12,0.02,1271406
@@ -14999,6 +15246,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-03-25,Calabria,Reggio di Calabria,1.44,8,105,18.89,0.02,555836
 2020-03-25,Campania,Caserta,1.41,13,165,17.85,0.02,924414
 2020-03-25,Calabria,Vibo Valentia,1.23,2,23,14.15,0.01,162516
+2020-03-25,Campania,Napoli,1.22,38,626,20.1,0.02,3113898
 2020-03-25,Sicilia,Trapani,1.15,5,48,11.02,0.01,435765
 2020-03-25,Puglia,Taranto,0.85,5,56,9.56,0.01,586061
 2020-03-25,Basilicata,Potenza,0.8,3,70,18.76,0.02,373097
@@ -15095,6 +15343,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-03-24,Calabria,Crotone,2.29,4,66,37.78,0.04,174712
 2020-03-24,Calabria,Cosenza,2.24,16,84,11.76,0.01,714400
 2020-03-24,Puglia,Lecce,1.49,12,161,20.02,0.02,804239
+2020-03-24,Campania,Napoli,1.45,45,588,18.88,0.02,3113898
 2020-03-24,Marche,Ascoli Piceno,1.43,3,64,30.47,0.03,210066
 2020-03-24,Friuli Venezia Giulia,Gorizia,1.43,2,57,40.64,0.04,140268
 2020-03-24,Lazio,Rieti,1.26,2,33,20.82,0.02,158467
@@ -15206,6 +15455,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-03-23,Liguria,Genova,1.4,12,689,80.67,0.08,854099
 2020-03-23,Sicilia,Palermo,1.34,17,109,8.57,0.01,1271406
 2020-03-23,Sicilia,Messina,1.25,8,120,18.73,0.02,640675
+2020-03-23,Campania,Napoli,1.25,39,543,17.44,0.02,3113898
 2020-03-23,Calabria,Reggio di Calabria,1.08,6,94,16.91,0.02,555836
 2020-03-23,Basilicata,Matera,1.0,2,18,8.97,0.01,200597
 2020-03-23,Sicilia,Agrigento,0.9,4,45,10.11,0.01,445129
@@ -15315,6 +15565,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-03-22,Lazio,Latina,1.74,10,146,25.43,0.03,574226
 2020-03-22,Puglia,Brindisi,1.51,6,100,25.08,0.03,398661
 2020-03-22,Sicilia,Siracusa,1.49,6,49,12.13,0.01,403985
+2020-03-22,Campania,Napoli,1.32,41,504,16.19,0.02,3113898
 2020-03-22,Sardegna,Cagliari,1.25,7,52,9.26,0.01,561289
 2020-03-22,Sicilia,Trapani,1.15,5,32,7.34,0.01,435765
 2020-03-22,Sicilia,Agrigento,1.12,5,41,9.21,0.01,445129
@@ -15412,6 +15663,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-03-21,Toscana,Siena,1.86,5,133,49.37,0.05,269388
 2020-03-21,Calabria,Vibo Valentia,1.85,3,11,6.77,0.01,162516
 2020-03-21,Liguria,La Spezia,1.81,4,94,42.53,0.04,221003
+2020-03-21,Campania,Napoli,1.51,47,463,14.87,0.01,3113898
 2020-03-21,Lazio,Frosinone,1.41,7,59,11.92,0.01,495026
 2020-03-21,Sicilia,Enna,1.18,2,27,15.9,0.02,169782
 2020-03-21,Marche,Fermo,1.14,2,82,46.69,0.05,175625
@@ -15517,6 +15769,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-03-20,Puglia,Lecce,2.11,17,88,10.94,0.01,804239
 2020-03-20,Campania,Salerno,2.08,23,115,10.39,0.01,1106506
 2020-03-20,Calabria,Catanzaro,1.93,7,34,9.36,0.01,363057
+2020-03-20,Campania,Napoli,1.86,58,416,13.36,0.01,3113898
 2020-03-20,Lazio,Roma,1.77,77,755,17.39,0.02,4340474
 2020-03-20,Sicilia,Siracusa,1.73,7,40,9.9,0.01,403985
 2020-03-20,Puglia,Taranto,1.71,10,33,5.63,0.01,586061
@@ -15601,6 +15854,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-03-19,Veneto,Vicenza,3.57,31,424,48.89,0.05,867314
 2020-03-19,Molise,Isernia,3.47,3,4,4.63,0.0,86405
 2020-03-19,Lazio,Viterbo,3.43,11,50,15.61,0.02,320279
+2020-03-19,Campania,Napoli,3.21,100,358,11.5,0.01,3113898
 2020-03-19,Campania,Caserta,3.14,29,94,10.17,0.01,924414
 2020-03-19,Puglia,Brindisi,2.51,10,75,18.81,0.02,398661
 2020-03-19,Campania,Salerno,2.44,27,92,8.31,0.01,1106506
@@ -15749,6 +16003,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-03-18,Emilia-Romagna,Parma,0.0,0,800,178.66,0.18,447779
 2020-03-18,Lazio,Rieti,0.0,0,12,7.57,0.01,158467
 2020-03-18,Campania,Salerno,0.0,0,65,5.87,0.01,1106506
+2020-03-18,Campania,Napoli,0.0,0,258,8.29,0.01,3113898
 2020-03-18,Molise,Campobasso,-0.44,-1,24,10.64,0.01,225622
 2020-03-17,Lombardia,Cremona,53.27,192,2073,575.12,0.58,360444
 2020-03-17,Emilia-Romagna,Piacenza,45.65,131,1204,419.52,0.42,286997
@@ -15824,6 +16079,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-03-17,Umbria,Terni,1.31,3,63,27.5,0.03,229071
 2020-03-17,P.A. Trento,Trento,1.3,7,385,71.53,0.07,538223
 2020-03-17,Lazio,Viterbo,1.25,4,31,9.68,0.01,320279
+2020-03-17,Campania,Napoli,1.25,39,258,8.29,0.01,3113898
 2020-03-17,Puglia,Taranto,1.19,7,17,2.9,0.0,586061
 2020-03-17,Sicilia,Catania,1.08,12,108,9.68,0.01,1115535
 2020-03-17,Lazio,Frosinone,1.01,5,49,9.9,0.01,495026
@@ -15921,6 +16177,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-03-16,Umbria,Terni,1.31,3,60,26.19,0.03,229071
 2020-03-16,Toscana,Prato,1.19,3,45,17.78,0.02,253123
 2020-03-16,Sardegna,Cagliari,1.07,6,24,4.28,0.0,561289
+2020-03-16,Campania,Napoli,1.0,31,219,7.03,0.01,3113898
 2020-03-16,Abruzzo,L'Aquila,0.99,3,18,5.94,0.01,303239
 2020-03-16,Toscana,Livorno,0.89,3,53,15.68,0.02,337951
 2020-03-16,Sicilia,Caltanissetta,0.74,2,4,1.47,0.0,271758
@@ -16044,6 +16301,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-03-15,Lazio,Viterbo,0.62,2,15,4.68,0.0,320279
 2020-03-15,Sicilia,Enna,0.59,1,2,1.18,0.0,169782
 2020-03-15,Sicilia,Palermo,0.55,7,33,2.6,0.0,1271406
+2020-03-15,Campania,Napoli,0.55,17,188,6.04,0.01,3113898
 2020-03-15,Lazio,Latina,0.52,3,23,4.01,0.0,574226
 2020-03-15,Basilicata,Matera,0.5,1,4,1.99,0.0,200597
 2020-03-15,Campania,Caserta,0.43,4,45,4.87,0.0,924414
@@ -16130,6 +16388,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-03-14,Piemonte,Cuneo,1.19,7,47,7.96,0.01,590421
 2020-03-14,Campania,Avellino,1.18,5,19,4.47,0.0,425325
 2020-03-14,Piemonte,Vercelli,1.14,2,31,17.72,0.02,174904
+2020-03-14,Campania,Napoli,1.0,31,171,5.49,0.01,3113898
 2020-03-14,Campania,Salerno,0.99,11,31,2.8,0.0,1106506
 2020-03-14,Lazio,Viterbo,0.94,3,13,4.06,0.0,320279
 2020-03-14,Calabria,Reggio di Calabria,0.9,5,18,3.24,0.0,555836
@@ -16231,6 +16490,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-03-13,Puglia,Bari,1.03,13,38,3.01,0.0,1263820
 2020-03-13,Puglia,Barletta-Andria-Trani,1.02,4,10,2.54,0.0,393534
 2020-03-13,Puglia,Brindisi,1.0,4,20,5.02,0.01,398661
+2020-03-13,Campania,Napoli,1.0,31,140,4.5,0.0,3113898
 2020-03-13,Campania,Caserta,0.97,9,38,4.11,0.0,924414
 2020-03-13,Piemonte,Alessandria,0.93,4,136,31.71,0.03,428826
 2020-03-13,Valle d'Aosta,Aosta,0.79,1,28,21.99,0.02,127329
@@ -16350,6 +16610,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-03-12,Piemonte,Asti,0.46,1,69,31.71,0.03,217574
 2020-03-12,Sicilia,Trapani,0.46,2,4,0.92,0.0,435765
 2020-03-12,Calabria,Cosenza,0.42,3,8,1.12,0.0,714400
+2020-03-12,Campania,Napoli,0.42,13,109,3.5,0.0,3113898
 2020-03-12,Campania,Benevento,0.36,1,3,1.07,0.0,280707
 2020-03-12,Puglia,Taranto,0.34,2,6,1.02,0.0,586061
 2020-03-12,Campania,Caserta,0.32,3,29,3.14,0.0,924414
@@ -16440,6 +16701,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-03-11,Emilia-Romagna,Ferrara,1.14,4,12,3.41,0.0,351436
 2020-03-11,Marche,Fermo,1.14,2,8,4.56,0.0,175625
 2020-03-11,Sicilia,Agrigento,1.12,5,16,3.59,0.0,445129
+2020-03-11,Campania,Napoli,1.12,35,96,3.08,0.0,3113898
 2020-03-11,Emilia-Romagna,ForlÃ¬-Cesena,1.01,4,24,6.08,0.01,394601
 2020-03-11,Toscana,Firenze,0.99,10,71,7.01,0.01,1013348
 2020-03-11,Campania,Avellino,0.94,4,7,1.65,0.0,425325
@@ -16558,6 +16820,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-03-10,Emilia-Romagna,Ferrara,0.28,1,8,2.28,0.0,351436
 2020-03-10,Campania,Caserta,0.22,2,34,3.68,0.0,924414
 2020-03-10,Emilia-Romagna,Reggio nell'Emilia,0.19,1,104,19.52,0.02,532872
+2020-03-10,Campania,Napoli,0.19,6,61,1.96,0.0,3113898
 2020-03-10,Sardegna,Cagliari,0.18,1,15,2.67,0.0,561289
 2020-03-10,Calabria,Reggio di Calabria,0.18,1,3,0.54,0.0,555836
 2020-03-10,Umbria,Perugia,0.15,1,13,1.96,0.0,662110
@@ -16649,6 +16912,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-03-09,Calabria,Cosenza,0.42,3,4,0.56,0.0,714400
 2020-03-09,Veneto,Vicenza,0.35,3,53,6.11,0.01,867314
 2020-03-09,Lazio,Roma,0.32,14,91,2.1,0.0,4340474
+2020-03-09,Campania,Napoli,0.32,10,55,1.77,0.0,3113898
 2020-03-09,Sardegna,Sassari,0.3,1,1,0.3,0.0,334103
 2020-03-09,Calabria,Catanzaro,0.28,1,3,0.83,0.0,363057
 2020-03-09,Emilia-Romagna,Ferrara,0.28,1,7,1.99,0.0,351436
@@ -16746,6 +17010,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-03-08,Marche,Fermo,1.14,2,5,2.85,0.0,175625
 2020-03-08,Puglia,Foggia,1.11,7,16,2.54,0.0,630851
 2020-03-08,Sardegna,Cagliari,1.07,6,9,1.6,0.0,561289
+2020-03-08,Campania,Napoli,0.9,28,45,1.45,0.0,3113898
 2020-03-08,Toscana,Grosseto,0.89,2,4,1.79,0.0,223652
 2020-03-08,Umbria,Terni,0.87,2,11,4.8,0.0,229071
 2020-03-08,Valle d'Aosta,Aosta,0.79,1,9,7.07,0.01,127329
@@ -16904,6 +17169,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-03-07,Sicilia,Trapani,0.0,0,0,0.0,0.0,435765
 2020-03-07,Lazio,Viterbo,0.0,0,2,0.62,0.0,320279
 2020-03-07,Calabria,Vibo Valentia,0.0,0,0,0.0,0.0,162516
+2020-03-07,Campania,Napoli,0.0,0,17,0.55,0.0,3113898
 2020-03-07,Sicilia,Enna,-0.59,-1,0,0.0,0.0,169782
 2020-03-06,Lombardia,Lodi,35.31,81,739,322.13,0.32,229413
 2020-03-06,Emilia-Romagna,Piacenza,16.72,48,426,148.43,0.15,286997
@@ -17007,6 +17273,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-03-06,Abruzzo,Teramo,0.0,0,4,1.29,0.0,310339
 2020-03-06,Sicilia,Trapani,0.0,0,0,0.0,0.0,435765
 2020-03-06,Calabria,Vibo Valentia,0.0,0,0,0.0,0.0,162516
+2020-03-06,Campania,Napoli,0.0,0,17,0.55,0.0,3113898
 2020-03-06,Emilia-Romagna,ForlÃ¬-Cesena,-0.25,-1,3,0.76,0.0,394601
 2020-03-06,Piemonte,Vercelli,-0.57,-1,7,4.0,0.0,174904
 2020-03-06,Liguria,Savona,-1.78,-5,15,5.34,0.01,280707
@@ -17115,6 +17382,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-03-05,Piemonte,Verbano-Cusio-Ossola,0.0,0,5,3.12,0.0,160114
 2020-03-05,Lazio,Viterbo,0.0,0,0,0.0,0.0,320279
 2020-03-05,Calabria,Vibo Valentia,0.0,0,0,0.0,0.0,162516
+2020-03-05,Campania,Napoli,0.0,0,17,0.55,0.0,3113898
 2020-03-04,Lombardia,Lodi,33.56,77,559,243.67,0.24,229413
 2020-03-04,Emilia-Romagna,Piacenza,21.95,63,319,111.15,0.11,286997
 2020-03-04,Lombardia,Cremona,12.76,46,333,92.39,0.09,360444
@@ -17220,6 +17488,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-03-04,Lazio,Viterbo,0.0,0,0,0.0,0.0,320279
 2020-03-04,Calabria,Vibo Valentia,0.0,0,0,0.0,0.0,162516
 2020-03-04,Liguria,Savona,-0.36,-1,19,6.77,0.01,280707
+2020-03-04,Campania,Napoli,-0.42,-13,17,0.55,0.0,3113898
 2020-03-03,Lombardia,Lodi,42.72,98,482,210.1,0.21,229413
 2020-03-03,Lombardia,Cremona,17.76,64,287,79.62,0.08,360444
 2020-03-03,Emilia-Romagna,Piacenza,15.33,44,256,89.2,0.09,286997
@@ -17247,6 +17516,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-03-03,Toscana,Lucca,0.51,2,3,0.77,0.0,391228
 2020-03-03,Liguria,Imperia,0.46,1,2,0.93,0.0,215244
 2020-03-03,Veneto,Rovigo,0.42,1,1,0.42,0.0,240540
+2020-03-03,Campania,Napoli,0.42,13,30,0.96,0.0,3113898
 2020-03-03,Lombardia,Varese,0.34,3,7,0.79,0.0,890090
 2020-03-03,Abruzzo,L'Aquila,0.33,1,1,0.33,0.0,303239
 2020-03-03,Lombardia,Como,0.33,2,4,0.67,0.0,599654
@@ -17426,6 +17696,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-03-02,Veneto,Vicenza,0.0,0,3,0.35,0.0,867314
 2020-03-02,Lazio,Viterbo,0.0,0,0,0.0,0.0,320279
 2020-03-02,Calabria,Vibo Valentia,0.0,0,0,0.0,0.0,162516
+2020-03-02,Campania,Napoli,0.0,0,17,0.55,0.0,3113898
 2020-03-02,Toscana,Firenze,-0.1,-1,4,0.39,0.0,1013348
 2020-03-02,Umbria,Perugia,-0.15,-1,1,0.15,0.0,662110
 2020-03-02,Liguria,Savona,-1.07,-3,16,5.7,0.01,280707
@@ -17458,6 +17729,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-03-01,Veneto,Verona,0.22,2,2,0.22,0.0,922383
 2020-03-01,Marche,Ancona,0.21,1,1,0.21,0.0,476192
 2020-03-01,Lombardia,Como,0.17,1,2,0.33,0.0,599654
+2020-03-01,Campania,Napoli,0.13,4,17,0.55,0.0,3113898
 2020-03-01,Liguria,Genova,0.12,1,1,0.12,0.0,854099
 2020-03-01,Sicilia,Agrigento,0.0,0,0,0.0,0.0,445129
 2020-03-01,Piemonte,Alessandria,0.0,0,0,0.0,0.0,428826
@@ -17552,6 +17824,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-02-29,Toscana,Massa Carrara,0.51,1,1,0.51,0.0,197722
 2020-02-29,Veneto,Venezia,0.47,4,19,2.22,0.0,855696
 2020-02-29,Abruzzo,Teramo,0.32,1,2,0.64,0.0,310339
+2020-02-29,Campania,Napoli,0.29,9,13,0.42,0.0,3113898
 2020-02-29,Toscana,Lucca,0.26,1,1,0.26,0.0,391228
 2020-02-29,Lombardia,Mantova,0.24,1,1,0.24,0.0,412868
 2020-02-29,Emilia-Romagna,Bologna,0.2,2,2,0.2,0.0,1005831
@@ -17661,6 +17934,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-02-28,Lombardia,Monza e della Brianza,0.12,1,6,0.69,0.0,866076
 2020-02-28,Veneto,Venezia,0.12,1,15,1.75,0.0,855696
 2020-02-28,Veneto,Treviso,0.11,1,23,2.6,0.0,885447
+2020-02-28,Campania,Napoli,0.03,1,4,0.13,0.0,3113898
 2020-02-28,Sicilia,Agrigento,0.0,0,0,0.0,0.0,445129
 2020-02-28,Piemonte,Alessandria,0.0,0,0,0.0,0.0,428826
 2020-02-28,Marche,Ancona,0.0,0,0,0.0,0.0,476192
@@ -17764,6 +18038,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-02-27,Abruzzo,Teramo,0.32,1,1,0.32,0.0,310339
 2020-02-27,Lombardia,Milano,0.22,7,15,0.47,0.0,3208509
 2020-02-27,Lombardia,Monza e della Brianza,0.12,1,5,0.58,0.0,866076
+2020-02-27,Campania,Napoli,0.1,3,3,0.1,0.0,3113898
 2020-02-27,Sicilia,Catania,0.09,1,1,0.09,0.0,1115535
 2020-02-27,Puglia,Bari,0.08,1,1,0.08,0.0,1263820
 2020-02-27,Sicilia,Agrigento,0.0,0,0,0.0,0.0,445129
@@ -17954,6 +18229,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-02-26,Veneto,Verona,0.0,0,0,0.0,0.0,922383
 2020-02-26,Lazio,Viterbo,0.0,0,0,0.0,0.0,320279
 2020-02-26,Calabria,Vibo Valentia,0.0,0,0,0.0,0.0,162516
+2020-02-26,Campania,Napoli,0.0,0,0,0.0,0.0,3113898
 2020-02-26,Toscana,Pistoia,-0.34,-1,0,0.0,0.0,291963
 2020-02-25,Lombardia,Lodi,54.49,125,125,54.49,0.05,229413
 2020-02-25,Lombardia,Cremona,14.7,53,53,14.7,0.01,360444
@@ -18060,6 +18336,7 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-02-25,Veneto,Verona,0.0,0,0,0.0,0.0,922383
 2020-02-25,Lazio,Viterbo,0.0,0,0,0.0,0.0,320279
 2020-02-25,Calabria,Vibo Valentia,0.0,0,0,0.0,0.0,162516
+2020-02-25,Campania,Napoli,0.0,0,0,0.0,0.0,3113898
 2020-02-24,Sicilia,Agrigento,0.0,0,0,0.0,0.0,445129
 2020-02-24,Piemonte,Alessandria,0.0,0,0,0.0,0.0,428826
 2020-02-24,Marche,Ancona,0.0,0,0,0.0,0.0,476192
@@ -18165,3 +18442,4 @@ date,region_name,province_name,new_cases_100k,new_cases,total_cases,total_cases_
 2020-02-24,Veneto,Verona,0.0,0,0,0.0,0.0,922383
 2020-02-24,Lazio,Viterbo,0.0,0,0,0.0,0.0,320279
 2020-02-24,Calabria,Vibo Valentia,0.0,0,0,0.0,0.0,162516
+2020-02-24,Campania,Napoli,0.0,0,0,0.0,0.0,3113898
