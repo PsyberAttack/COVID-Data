@@ -1,6 +1,7 @@
 date,country,region,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
-2020-08-16,Colombia,Risaralda,12.51,118,0,0.0,3592,67,1.87,380.75,7.1,0.38,943401
-2020-08-15,Colombia,Risaralda,16.32,154,0,0.0,3474,67,1.93,368.24,7.1,0.37,943401
+2020-08-17,Colombia,Risaralda,5.51,52,1,0.11,3644,70,1.92,386.26,7.42,0.39,943401
+2020-08-16,Colombia,Risaralda,12.51,118,1,0.11,3592,69,1.92,380.75,7.31,0.38,943401
+2020-08-15,Colombia,Risaralda,16.32,154,1,0.11,3474,68,1.96,368.24,7.21,0.37,943401
 2020-08-14,Colombia,Risaralda,15.16,143,2,0.21,3320,67,2.02,351.92,7.1,0.35,943401
 2020-08-13,Colombia,Risaralda,20.67,195,3,0.32,3177,65,2.05,336.76,6.89,0.34,943401
 2020-08-12,Colombia,Risaralda,17.49,165,2,0.21,2982,62,2.08,316.09,6.57,0.32,943401
