@@ -1,4 +1,6 @@
 date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+2020-08-18,Saarland,Regionalverband Saarbrücken,0.91,3,0,0.0,1314,114,8.68,398.53,34.58,0.4,329708
+2020-08-17,Saarland,Regionalverband Saarbrücken,0.61,2,0,0.0,1311,114,8.7,397.62,34.58,0.4,329708
 2020-08-16,Saarland,Regionalverband Saarbrücken,0.3,1,0,0.0,1309,114,8.71,397.02,34.58,0.4,329708
 2020-08-15,Saarland,Regionalverband Saarbrücken,0.3,1,0,0.0,1308,114,8.72,396.71,34.58,0.4,329708
 2020-08-14,Saarland,Regionalverband Saarbrücken,0.61,2,0,0.0,1307,114,8.72,396.41,34.58,0.4,329708
@@ -24,8 +26,8 @@ date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_ca
 2020-07-20,Saarland,Regionalverband Saarbrücken,0.3,1,0,0.0,1268,114,8.99,384.58,34.58,0.38,329708
 2020-07-18,Saarland,Regionalverband Saarbrücken,0.3,1,0,0.0,1267,114,9.0,384.28,34.58,0.38,329708
 2020-07-17,Saarland,Regionalverband Saarbrücken,0.3,1,0,0.0,1266,114,9.0,383.98,34.58,0.38,329708
-2020-07-14,Saarland,Regionalverband Saarbrücken,0.3,1,0,0.0,1265,114,9.01,383.67,34.58,0.38,329708
-2020-07-13,Saarland,Regionalverband Saarbrücken,0.61,2,0,0.0,1264,114,9.02,383.37,34.58,0.38,329708
+2020-07-13,Saarland,Regionalverband Saarbrücken,0.61,2,0,0.0,1265,114,9.01,383.67,34.58,0.38,329708
+2020-07-11,Saarland,Regionalverband Saarbrücken,0.3,1,0,0.0,1263,114,9.03,383.07,34.58,0.38,329708
 2020-07-07,Saarland,Regionalverband Saarbrücken,0.3,1,0,0.0,1262,114,9.03,382.76,34.58,0.38,329708
 2020-07-04,Saarland,Regionalverband Saarbrücken,0.3,1,0,0.0,1261,114,9.04,382.46,34.58,0.38,329708
 2020-06-28,Saarland,Regionalverband Saarbrücken,0.3,1,0,0.0,1260,114,9.05,382.16,34.58,0.38,329708
