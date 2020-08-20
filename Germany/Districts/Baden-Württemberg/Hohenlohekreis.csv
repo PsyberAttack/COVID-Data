@@ -1,5 +1,6 @@
 date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
-2020-08-17,Baden-Württemberg,Hohenlohekreis,0.89,1,0,0.0,799,47,5.88,709.25,41.72,0.71,112655
+2020-08-19,Baden-Württemberg,Hohenlohekreis,1.78,2,0,0.0,799,47,5.88,709.25,41.72,0.71,112655
+2020-08-17,Baden-Württemberg,Hohenlohekreis,-0.89,-1,0,0.0,797,47,5.9,707.47,41.72,0.71,112655
 2020-08-16,Baden-Württemberg,Hohenlohekreis,0.89,1,0,0.0,798,47,5.89,708.36,41.72,0.71,112655
 2020-08-15,Baden-Württemberg,Hohenlohekreis,0.89,1,0,0.0,797,47,5.9,707.47,41.72,0.71,112655
 2020-08-12,Baden-Württemberg,Hohenlohekreis,0.89,1,0,0.0,796,47,5.9,706.58,41.72,0.71,112655
@@ -16,10 +17,11 @@ date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_ca
 2020-07-09,Baden-Württemberg,Hohenlohekreis,0.89,1,0,0.0,782,47,6.01,694.15,41.72,0.69,112655
 2020-07-06,Baden-Württemberg,Hohenlohekreis,0.89,1,0,0.0,781,47,6.02,693.27,41.72,0.69,112655
 2020-06-25,Baden-Württemberg,Hohenlohekreis,0.89,1,0,0.0,780,47,6.03,692.38,41.72,0.69,112655
-2020-06-23,Baden-Württemberg,Hohenlohekreis,1.78,2,0,0.0,779,47,6.03,691.49,41.72,0.69,112655
+2020-06-24,Baden-Württemberg,Hohenlohekreis,0.89,1,0,0.0,779,47,6.03,691.49,41.72,0.69,112655
+2020-06-23,Baden-Württemberg,Hohenlohekreis,0.89,1,0,0.0,778,47,6.04,690.6,41.72,0.69,112655
 2020-06-22,Baden-Württemberg,Hohenlohekreis,0.89,1,0,0.0,777,47,6.05,689.72,41.72,0.69,112655
 2020-06-19,Baden-Württemberg,Hohenlohekreis,1.78,2,0,0.0,776,47,6.06,688.83,41.72,0.69,112655
-2020-06-18,Baden-Württemberg,Hohenlohekreis,0.89,1,0,0.0,774,47,6.07,687.05,41.72,0.69,112655
+2020-06-15,Baden-Württemberg,Hohenlohekreis,0.89,1,0,0.0,774,47,6.07,687.05,41.72,0.69,112655
 2020-06-10,Baden-Württemberg,Hohenlohekreis,0.89,1,0,0.0,773,47,6.08,686.17,41.72,0.69,112655
 2020-06-02,Baden-Württemberg,Hohenlohekreis,0.89,1,0,0.0,772,47,6.09,685.28,41.72,0.69,112655
 2020-05-28,Baden-Württemberg,Hohenlohekreis,0.89,1,0,0.0,771,47,6.1,684.39,41.72,0.68,112655
