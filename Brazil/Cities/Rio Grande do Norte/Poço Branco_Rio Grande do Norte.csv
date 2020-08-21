@@ -1,6 +1,8 @@
 date,state,city,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-16,Rio Grande do Norte,Poço Branco,0.0,0,0,0.0,198,5,2.53,1284.63,32.44,1.28,15413
-2020-08-14,Rio Grande do Norte,Poço Branco,-6.49,-1,1,6.49,198,5,2.53,1284.63,32.44,1.28,15413
+2020-08-14,Rio Grande do Norte,Poço Branco,0.0,0,1,6.49,198,5,2.53,1284.63,32.44,1.28,15413
+2020-08-13,Rio Grande do Norte,Poço Branco,6.49,1,0,0.0,198,4,2.02,1284.63,25.95,1.28,15413
+2020-08-12,Rio Grande do Norte,Poço Branco,-12.98,-2,0,0.0,197,4,2.03,1278.14,25.95,1.28,15413
 2020-08-10,Rio Grande do Norte,Poço Branco,45.42,7,0,0.0,199,4,2.01,1291.12,25.95,1.29,15413
 2020-08-09,Rio Grande do Norte,Poço Branco,6.49,1,1,6.49,192,4,2.08,1245.7,25.95,1.25,15413
 2020-08-07,Rio Grande do Norte,Poço Branco,0.0,0,0,0.0,191,3,1.57,1239.21,19.46,1.24,15413

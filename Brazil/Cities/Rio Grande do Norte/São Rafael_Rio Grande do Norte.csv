@@ -1,6 +1,8 @@
 date,state,city,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-16,Rio Grande do Norte,São Rafael,12.19,1,0,0.0,165,6,3.64,2011.7,73.15,2.01,8202
-2020-08-14,Rio Grande do Norte,São Rafael,0.0,0,3,36.58,164,6,3.66,1999.51,73.15,2.0,8202
+2020-08-14,Rio Grande do Norte,São Rafael,24.38,2,1,12.19,164,6,3.66,1999.51,73.15,2.0,8202
+2020-08-13,Rio Grande do Norte,São Rafael,12.19,1,2,24.38,162,5,3.09,1975.13,60.96,1.98,8202
+2020-08-12,Rio Grande do Norte,São Rafael,-36.58,-3,0,0.0,161,3,1.86,1962.94,36.58,1.96,8202
 2020-08-10,Rio Grande do Norte,São Rafael,73.15,6,0,0.0,164,3,1.83,1999.51,36.58,2.0,8202
 2020-08-09,Rio Grande do Norte,São Rafael,48.77,4,0,0.0,158,3,1.9,1926.36,36.58,1.93,8202
 2020-08-07,Rio Grande do Norte,São Rafael,12.19,1,0,0.0,154,3,1.95,1877.59,36.58,1.88,8202
