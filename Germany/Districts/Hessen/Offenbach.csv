@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-22,Hessen,Offenbach,0.85,3,0,0.0,976,44,4.51,275.63,12.43,0.28,354092
 2020-08-21,Hessen,Offenbach,2.82,10,0,0.0,973,44,4.52,274.79,12.43,0.27,354092
 2020-08-20,Hessen,Offenbach,5.37,19,0,0.0,963,44,4.57,271.96,12.43,0.27,354092

@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Mississippi,Marshall,8.46,3,0,0.0,876,11,1.26,2471.02,31.03,2.47,35451,50.2
 2020-08-21,Mississippi,Marshall,39.49,14,1,2.82,873,11,1.26,2462.55,31.03,2.46,35451,50.2
 2020-08-20,Mississippi,Marshall,101.55,36,0,0.0,859,10,1.16,2423.06,28.21,2.42,35451,50.2

@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-22,Nordrhein-Westfalen,Rhein-Erft-Kreis,0.42,2,0,0.0,1379,78,5.66,293.02,16.57,0.29,470615
 2020-08-21,Nordrhein-Westfalen,Rhein-Erft-Kreis,0.42,2,0,0.0,1377,78,5.66,292.6,16.57,0.29,470615
 2020-08-20,Nordrhein-Westfalen,Rhein-Erft-Kreis,0.42,2,0,0.0,1375,78,5.67,292.17,16.57,0.29,470615

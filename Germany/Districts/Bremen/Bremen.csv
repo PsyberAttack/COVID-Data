@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-22,Bremen,Bremen,1.05,6,0,0.0,1658,50,3.02,291.21,8.78,0.29,569352
 2020-08-21,Bremen,Bremen,1.41,8,0,0.0,1652,50,3.03,290.15,8.78,0.29,569352
 2020-08-20,Bremen,Bremen,1.05,6,0,0.0,1644,50,3.04,288.75,8.78,0.29,569352

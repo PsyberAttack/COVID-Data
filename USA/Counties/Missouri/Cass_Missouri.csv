@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Missouri,Cass,17.15,18,0,0.0,1010,16,1.58,962.33,15.24,0.96,104954,150.66
 2020-08-21,Missouri,Cass,22.87,24,0,0.0,992,16,1.61,945.18,15.24,0.95,104954,150.66
 2020-08-20,Missouri,Cass,15.24,16,0,0.0,968,16,1.65,922.31,15.24,0.92,104954,150.66

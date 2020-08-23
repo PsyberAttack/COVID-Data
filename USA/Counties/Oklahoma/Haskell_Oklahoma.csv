@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Oklahoma,Haskell,47.36,6,0,0.0,145,2,1.38,1144.62,15.79,1.14,12668,21.97
 2020-08-21,Oklahoma,Haskell,47.36,6,1,7.89,139,2,1.44,1097.25,15.79,1.1,12668,21.97
 2020-08-20,Oklahoma,Haskell,307.86,39,0,0.0,133,1,0.75,1049.89,7.89,1.05,12668,21.97

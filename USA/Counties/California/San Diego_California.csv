@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,California,San Diego,8.7,291,8,0.24,36266,660,1.82,1084.72,19.74,1.08,3343364,794.38
 2020-08-21,California,San Diego,9.09,304,8,0.24,35975,652,1.81,1076.01,19.5,1.08,3343364,794.38
 2020-08-20,California,San Diego,6.94,232,6,0.18,35671,644,1.81,1066.92,19.26,1.07,3343364,794.38

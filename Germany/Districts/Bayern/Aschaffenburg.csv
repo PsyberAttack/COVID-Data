@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Bayern,Aschaffenburg,0.57,1,0,0.0,753,43,5.71,432.24,24.68,0.43,174208
 2020-08-20,Bayern,Aschaffenburg,0.57,1,0,0.0,752,43,5.72,431.67,24.68,0.43,174208
 2020-08-19,Bayern,Aschaffenburg,1.42,1,0,0.0,751,43,5.73,1064.84,60.97,1.06,70527

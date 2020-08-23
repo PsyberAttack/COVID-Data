@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-22,Nordrhein-Westfalen,Remscheid,3.6,4,0,0.0,331,18,5.44,298.21,16.22,0.3,110994
 2020-08-21,Nordrhein-Westfalen,Remscheid,3.6,4,0,0.0,327,18,5.5,294.61,16.22,0.29,110994
 2020-08-20,Nordrhein-Westfalen,Remscheid,3.6,4,0,0.0,323,18,5.57,291.01,16.22,0.29,110994

@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-22,Hessen,Main-Taunus-Kreis,0.42,1,0,0.0,529,15,2.84,221.75,6.29,0.22,238558
 2020-08-21,Hessen,Main-Taunus-Kreis,2.52,6,0,0.0,528,15,2.84,221.33,6.29,0.22,238558
 2020-08-20,Hessen,Main-Taunus-Kreis,1.26,3,0,0.0,522,15,2.87,218.81,6.29,0.22,238558

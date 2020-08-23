@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Missouri,Bollinger,8.22,1,0,0.0,94,1,1.06,772.45,8.22,0.77,12169,19.69
 2020-08-21,Missouri,Bollinger,49.31,6,0,0.0,93,1,1.08,764.24,8.22,0.76,12169,19.69
 2020-08-20,Missouri,Bollinger,0.0,0,0,0.0,87,1,1.15,714.93,8.22,0.71,12169,19.69

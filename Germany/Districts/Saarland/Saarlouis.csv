@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Saarland,Saarlouis,2.56,5,0,0.0,623,24,3.85,319.16,12.3,0.32,195201
 2020-08-20,Saarland,Saarlouis,3.59,7,0,0.0,618,24,3.88,316.6,12.3,0.32,195201
 2020-08-19,Saarland,Saarlouis,2.05,4,0,0.0,611,24,3.93,313.01,12.3,0.31,195201

@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Louisiana,Natchitoches,0.0,0,0,0.0,874,20,2.29,2260.79,51.73,2.26,38659,30.87
 2020-08-21,Louisiana,Natchitoches,43.97,17,0,0.0,874,20,2.29,2260.79,51.73,2.26,38659,30.87
 2020-08-20,Louisiana,Natchitoches,10.35,4,1,2.59,857,20,2.33,2216.82,51.73,2.22,38659,30.87

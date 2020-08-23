@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Bayern,Cham,2.35,3,0,0.0,451,21,4.66,352.67,16.42,0.35,127882
 2020-08-17,Bayern,Cham,1.56,2,0,0.0,448,21,4.69,350.32,16.42,0.35,127882
 2020-08-16,Bayern,Cham,1.56,2,0,0.0,446,21,4.71,348.76,16.42,0.35,127882

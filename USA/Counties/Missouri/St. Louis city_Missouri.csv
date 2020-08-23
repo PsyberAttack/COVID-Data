@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Missouri,St. Louis city,14.86,45,2,0.66,5861,184,3.14,1935.36,60.76,1.94,302838,4904.77
 2020-08-21,Missouri,St. Louis city,14.2,43,1,0.33,5816,182,3.13,1920.5,60.1,1.92,302838,4904.77
 2020-08-20,Missouri,St. Louis city,14.86,45,0,0.0,5773,181,3.14,1906.3,59.77,1.91,302838,4904.77

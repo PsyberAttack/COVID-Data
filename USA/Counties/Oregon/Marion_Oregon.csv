@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Oregon,Marion,14.7,51,1,0.29,3476,75,2.16,1002.11,21.62,1.0,346868,293.82
 2020-08-21,Oregon,Marion,16.14,56,1,0.29,3425,74,2.16,987.41,21.33,0.99,346868,293.82
 2020-08-20,Oregon,Marion,15.57,54,0,0.0,3369,73,2.17,971.26,21.05,0.97,346868,293.82

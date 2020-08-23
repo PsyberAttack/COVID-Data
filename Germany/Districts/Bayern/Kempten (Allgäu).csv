@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Bayern,Kempten (Allgäu),1.45,1,0,0.0,133,10,7.52,193.01,14.51,0.19,68907
 2020-08-20,Bayern,Kempten (Allgäu),5.8,4,0,0.0,132,10,7.58,191.56,14.51,0.19,68907
 2020-08-18,Bayern,Kempten (Allgäu),5.8,4,0,0.0,128,10,7.81,185.76,14.51,0.19,68907

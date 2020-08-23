@@ -1,4 +1,4 @@
-date,state,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,South Dakota,28.45,251,1,0.11,11135,160,1.44,1262.14,18.14,1.26,882235,11.64
 2020-08-21,South Dakota,21.88,193,2,0.23,10884,159,1.46,1233.68,18.02,1.23,882235,11.64
 2020-08-20,South Dakota,14.17,125,2,0.23,10691,157,1.47,1211.81,17.8,1.21,882235,11.64

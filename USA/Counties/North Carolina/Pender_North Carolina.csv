@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,North Carolina,Pender,12.87,8,0,0.0,732,4,0.55,1177.57,6.43,1.18,62162,71.34
 2020-08-21,North Carolina,Pender,12.87,8,0,0.0,724,4,0.55,1164.7,6.43,1.16,62162,71.34
 2020-08-20,North Carolina,Pender,12.87,8,0,0.0,716,4,0.56,1151.83,6.43,1.15,62162,71.34

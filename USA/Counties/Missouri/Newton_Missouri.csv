@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Missouri,Newton,18.88,11,0,0.0,1010,11,1.09,1733.43,18.88,1.73,58266,93.26
 2020-08-21,Missouri,Newton,24.03,14,0,0.0,999,11,1.1,1714.55,18.88,1.71,58266,93.26
 2020-08-20,Missouri,Newton,18.88,11,0,0.0,985,11,1.12,1690.52,18.88,1.69,58266,93.26

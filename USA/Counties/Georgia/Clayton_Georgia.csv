@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Georgia,Clayton,22.79,66,2,0.69,5980,121,2.02,2064.81,41.78,2.06,289615,2044.26
 2020-08-21,Georgia,Clayton,30.04,87,1,0.35,5914,119,2.01,2042.02,41.09,2.04,289615,2044.26
 2020-08-20,Georgia,Clayton,39.71,115,0,0.0,5827,118,2.03,2011.98,40.74,2.01,289615,2044.26

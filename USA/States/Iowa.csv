@@ -1,4 +1,4 @@
-date,state,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Iowa,21.07,665,3,0.1,55996,1033,1.84,1774.19,32.73,1.77,3156145,56.51
 2020-08-21,Iowa,25.28,798,14,0.44,55331,1030,1.86,1753.12,32.63,1.75,3156145,56.51
 2020-08-20,Iowa,31.43,992,5,0.16,54533,1016,1.86,1727.84,32.19,1.73,3156145,56.51

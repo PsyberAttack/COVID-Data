@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-22,Sachsen,Leipzig,0.39,1,0,0.0,914,16,1.75,354.59,6.21,0.35,257763
 2020-08-20,Sachsen,Leipzig,0.34,2,0,0.0,913,16,1.75,155.31,2.72,0.16,587857
 2020-08-19,Sachsen,Leipzig,0.51,3,0,0.0,911,16,1.76,154.97,2.72,0.15,587857

@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Illinois,Livingston,22.37,8,0,0.0,165,3,1.82,461.4,8.39,0.46,35761,34.27
 2020-08-21,Illinois,Livingston,0.0,0,0,0.0,157,3,1.91,439.03,8.39,0.44,35761,34.27
 2020-08-20,Illinois,Livingston,13.98,5,0,0.0,157,3,1.91,439.03,8.39,0.44,35761,34.27

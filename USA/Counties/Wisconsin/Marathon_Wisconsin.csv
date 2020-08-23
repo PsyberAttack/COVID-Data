@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Wisconsin,Marathon,1.48,2,0,0.0,722,13,1.8,533.12,9.6,0.53,135428,87.64
 2020-08-21,Wisconsin,Marathon,1.48,2,0,0.0,720,13,1.81,531.65,9.6,0.53,135428,87.64
 2020-08-20,Wisconsin,Marathon,0.74,1,1,0.74,718,13,1.81,530.17,9.6,0.53,135428,87.64

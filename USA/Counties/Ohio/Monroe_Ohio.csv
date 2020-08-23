@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Ohio,Monroe,7.25,1,0,0.0,102,18,17.65,739.67,130.53,0.74,13790,30.26
 2020-08-21,Ohio,Monroe,0.0,0,0,0.0,101,18,17.82,732.41,130.53,0.73,13790,30.26
 2020-08-20,Ohio,Monroe,7.25,1,0,0.0,101,18,17.82,732.41,130.53,0.73,13790,30.26

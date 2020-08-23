@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-22,Baden-Württemberg,Ulm,4.75,6,0,0.0,406,5,1.23,321.38,3.96,0.32,126329
 2020-08-21,Baden-Württemberg,Ulm,3.17,4,0,0.0,400,5,1.25,316.63,3.96,0.32,126329
 2020-08-19,Baden-Württemberg,Ulm,4.75,6,0,0.0,396,5,1.26,313.47,3.96,0.31,126329

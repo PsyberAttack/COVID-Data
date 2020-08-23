@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Mississippi,Hancock,4.23,2,0,0.0,450,18,4.0,950.69,38.03,0.95,47334,99.87
 2020-08-21,Mississippi,Hancock,12.68,6,1,2.11,448,18,4.02,946.47,38.03,0.95,47334,99.87
 2020-08-20,Mississippi,Hancock,12.68,6,0,0.0,442,17,3.85,933.79,35.91,0.93,47334,99.87

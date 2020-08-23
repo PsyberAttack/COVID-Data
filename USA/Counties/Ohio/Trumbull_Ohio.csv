@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Ohio,Trumbull,5.54,11,0,0.0,1695,114,6.73,853.36,57.39,0.85,198627,321.38
 2020-08-21,Ohio,Trumbull,4.53,9,0,0.0,1684,114,6.77,847.82,57.39,0.85,198627,321.38
 2020-08-20,Ohio,Trumbull,6.54,13,1,0.5,1675,114,6.81,843.29,57.39,0.84,198627,321.38

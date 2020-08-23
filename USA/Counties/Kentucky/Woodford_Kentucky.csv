@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Kentucky,Woodford,26.38,7,0,0.0,196,0,0.0,738.7,0.0,0.74,26533,139.57
 2020-08-21,Kentucky,Woodford,15.08,4,0,0.0,189,0,0.0,712.32,0.0,0.71,26533,139.57
 2020-08-20,Kentucky,Woodford,0.0,0,0,0.0,185,0,0.0,697.24,0.0,0.7,26533,139.57

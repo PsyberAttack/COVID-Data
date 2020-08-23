@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Wisconsin,Richland,5.75,1,0,0.0,41,4,9.76,235.94,23.02,0.24,17377,29.65
 2020-08-21,Wisconsin,Richland,11.51,2,0,0.0,40,4,10.0,230.19,23.02,0.23,17377,29.65
 2020-08-20,Wisconsin,Richland,0.0,0,0,0.0,38,4,10.53,218.68,23.02,0.22,17377,29.65

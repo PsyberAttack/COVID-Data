@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Bayern,Ingolstadt,1.46,2,0,0.0,630,38,6.03,459.92,27.74,0.46,136981
 2020-08-20,Bayern,Ingolstadt,3.65,5,0,0.0,628,38,6.05,458.46,27.74,0.46,136981
 2020-08-19,Bayern,Ingolstadt,4.38,6,0,0.0,623,38,6.1,454.81,27.74,0.45,136981

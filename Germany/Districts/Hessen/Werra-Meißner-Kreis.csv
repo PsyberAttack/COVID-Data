@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-15,Hessen,Werra-Meißner-Kreis,0.99,1,0,0.0,241,16,6.64,239.49,15.9,0.24,100629
 2020-08-13,Hessen,Werra-Meißner-Kreis,1.99,2,0,0.0,240,16,6.67,238.5,15.9,0.24,100629
 2020-08-10,Hessen,Werra-Meißner-Kreis,1.99,2,0,0.0,238,16,6.72,236.51,15.9,0.24,100629

@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Pennsylvania,Blair,2.45,3,0,0.0,393,8,2.04,320.84,6.53,0.32,122492,232.96
 2020-08-21,Pennsylvania,Blair,11.43,14,0,0.0,390,8,2.05,318.39,6.53,0.32,122492,232.96
 2020-08-20,Pennsylvania,Blair,8.16,10,0,0.0,376,8,2.13,306.96,6.53,0.31,122492,232.96

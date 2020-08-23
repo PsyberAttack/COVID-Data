@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Louisiana,Washington,0.0,0,0,0.0,1383,59,4.27,2968.96,126.66,2.97,46582,69.57
 2020-08-21,Louisiana,Washington,30.05,14,0,0.0,1383,59,4.27,2968.96,126.66,2.97,46582,69.57
 2020-08-20,Louisiana,Washington,32.2,15,0,0.0,1369,59,4.31,2938.9,126.66,2.94,46582,69.57

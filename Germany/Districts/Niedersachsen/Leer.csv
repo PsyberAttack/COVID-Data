@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-19,Niedersachsen,Leer,1.18,2,0,0.0,171,6,3.51,100.7,3.53,0.1,169809
 2020-08-18,Niedersachsen,Leer,2.36,4,0,0.0,169,6,3.55,99.52,3.53,0.1,169809
 2020-08-17,Niedersachsen,Leer,0.59,1,0,0.0,165,6,3.64,97.17,3.53,0.1,169809

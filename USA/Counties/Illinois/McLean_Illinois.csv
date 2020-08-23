@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Illinois,McLean,39.35,68,0,0.0,1004,16,1.59,580.92,9.26,0.58,172828,146.06
 2020-08-21,Illinois,McLean,23.14,40,0,0.0,936,16,1.71,541.58,9.26,0.54,172828,146.06
 2020-08-20,Illinois,McLean,11.57,20,0,0.0,896,16,1.79,518.43,9.26,0.52,172828,146.06

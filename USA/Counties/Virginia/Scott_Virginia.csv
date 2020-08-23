@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Virginia,Scott,0.0,0,0,0.0,136,3,2.21,631.56,13.93,0.63,21534,40.19
 2020-08-21,Virginia,Scott,13.93,3,0,0.0,136,3,2.21,631.56,13.93,0.63,21534,40.19
 2020-08-20,Virginia,Scott,23.22,5,0,0.0,133,3,2.26,617.63,13.93,0.62,21534,40.19

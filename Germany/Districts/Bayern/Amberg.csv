@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-17,Bayern,Amberg,2.38,1,0,0.0,102,4,3.92,243.03,9.53,0.24,41970
 2020-08-14,Bayern,Amberg,4.77,2,0,0.0,101,4,3.96,240.65,9.53,0.24,41970
 2020-08-13,Bayern,Amberg,2.38,1,0,0.0,99,4,4.04,235.88,9.53,0.24,41970

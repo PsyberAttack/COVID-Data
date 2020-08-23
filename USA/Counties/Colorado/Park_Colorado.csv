@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Colorado,Park,0.0,0,0,0.0,43,1,2.33,231.73,5.39,0.23,18556,8.46
 2020-08-21,Colorado,Park,5.39,1,0,0.0,43,1,2.33,231.73,5.39,0.23,18556,8.46
 2020-08-20,Colorado,Park,0.0,0,0,0.0,42,1,2.38,226.34,5.39,0.23,18556,8.46

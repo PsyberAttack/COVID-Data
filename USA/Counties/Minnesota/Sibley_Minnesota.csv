@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Minnesota,Sibley,26.62,4,0,0.0,105,2,1.9,698.7,13.31,0.7,15028,25.52
 2020-08-21,Minnesota,Sibley,13.31,2,0,0.0,101,2,1.98,672.08,13.31,0.67,15028,25.52
 2020-08-20,Minnesota,Sibley,13.31,2,0,0.0,99,2,2.02,658.77,13.31,0.66,15028,25.52

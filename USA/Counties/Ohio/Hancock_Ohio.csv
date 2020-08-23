@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Ohio,Hancock,9.22,7,0,0.0,468,5,1.07,616.36,6.59,0.62,75930,142.91
 2020-08-21,Ohio,Hancock,5.27,4,1,1.32,461,5,1.08,607.14,6.59,0.61,75930,142.91
 2020-08-20,Ohio,Hancock,6.59,5,1,1.32,457,4,0.88,601.87,5.27,0.6,75930,142.91

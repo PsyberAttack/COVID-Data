@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Mississippi,DeSoto,29.12,53,1,0.55,4238,38,0.9,2328.56,20.88,2.33,182001,382.1
 2020-08-21,Mississippi,DeSoto,23.08,42,0,0.0,4185,37,0.88,2299.44,20.33,2.3,182001,382.1
 2020-08-20,Mississippi,DeSoto,35.16,64,2,1.1,4143,37,0.89,2276.36,20.33,2.28,182001,382.1

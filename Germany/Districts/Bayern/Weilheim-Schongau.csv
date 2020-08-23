@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Bayern,Weilheim-Schongau,0.74,1,0,0.0,382,3,0.79,282.24,2.22,0.28,135348
 2020-08-20,Bayern,Weilheim-Schongau,2.96,4,0,0.0,381,3,0.79,281.5,2.22,0.28,135348
 2020-08-19,Bayern,Weilheim-Schongau,0.74,1,0,0.0,377,3,0.8,278.54,2.22,0.28,135348

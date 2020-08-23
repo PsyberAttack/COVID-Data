@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,North Carolina,Columbus,26.95,15,0,0.0,1036,50,4.83,1861.47,89.84,1.86,55655,59.33
 2020-08-21,North Carolina,Columbus,14.37,8,0,0.0,1021,50,4.9,1834.52,89.84,1.83,55655,59.33
 2020-08-20,North Carolina,Columbus,17.97,10,0,0.0,1013,50,4.94,1820.14,89.84,1.82,55655,59.33

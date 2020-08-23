@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Texas,Washington,17.09,6,0,0.0,559,43,7.69,1592.23,122.48,1.59,35108,58.11
 2020-08-21,Texas,Washington,11.39,4,1,2.85,553,43,7.78,1575.14,122.48,1.58,35108,58.11
 2020-08-20,Texas,Washington,2.85,1,1,2.85,549,42,7.65,1563.75,119.63,1.56,35108,58.11

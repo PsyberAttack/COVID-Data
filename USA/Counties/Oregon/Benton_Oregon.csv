@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Oregon,Benton,5.43,5,0,0.0,201,6,2.99,218.24,6.51,0.22,92101,136.41
 2020-08-21,Oregon,Benton,2.17,2,0,0.0,196,6,3.06,212.81,6.51,0.21,92101,136.41
 2020-08-20,Oregon,Benton,4.34,4,0,0.0,194,6,3.09,210.64,6.51,0.21,92101,136.41

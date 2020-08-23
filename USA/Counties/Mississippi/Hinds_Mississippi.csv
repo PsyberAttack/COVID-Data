@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Mississippi,Hinds,30.37,72,0,0.0,6222,132,2.12,2624.38,55.68,2.62,237085,272.58
 2020-08-21,Mississippi,Hinds,21.93,52,2,0.84,6150,132,2.15,2594.01,55.68,2.59,237085,272.58
 2020-08-20,Mississippi,Hinds,13.92,33,1,0.42,6098,130,2.13,2572.07,54.83,2.57,237085,272.58

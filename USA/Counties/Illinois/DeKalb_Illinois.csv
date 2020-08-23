@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Illinois,DeKalb,0.0,0,0,0.0,1060,33,3.11,1017.83,31.69,1.02,104143,164.95
 2020-08-21,Illinois,DeKalb,13.44,14,0,0.0,1060,33,3.11,1017.83,31.69,1.02,104143,164.95
 2020-08-20,Illinois,DeKalb,5.76,6,0,0.0,1046,33,3.15,1004.39,31.69,1.0,104143,164.95

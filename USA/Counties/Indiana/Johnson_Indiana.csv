@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Indiana,Johnson,7.04,11,0,0.0,1946,128,6.58,1245.64,81.93,1.25,156225,487.53
 2020-08-21,Indiana,Johnson,10.24,16,0,0.0,1935,128,6.61,1238.6,81.93,1.24,156225,487.53
 2020-08-20,Indiana,Johnson,8.32,13,0,0.0,1919,128,6.67,1228.36,81.93,1.23,156225,487.53

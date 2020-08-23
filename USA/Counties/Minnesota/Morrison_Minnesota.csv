@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Minnesota,Morrison,9.04,3,0,0.0,107,1,0.93,322.59,3.01,0.32,33169,29.48
 2020-08-21,Minnesota,Morrison,0.0,0,0,0.0,104,1,0.96,313.55,3.01,0.31,33169,29.48
 2020-08-20,Minnesota,Morrison,3.01,1,0,0.0,104,1,0.96,313.55,3.01,0.31,33169,29.48

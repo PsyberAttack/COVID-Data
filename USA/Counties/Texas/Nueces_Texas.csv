@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Texas,Nueces,0.0,0,0,0.0,17854,306,1.71,4928.44,84.47,4.93,362265,432.13
 2020-08-21,Texas,Nueces,70.11,254,3,0.83,17854,306,1.71,4928.44,84.47,4.93,362265,432.13
 2020-08-20,Texas,Nueces,29.26,106,3,0.83,17600,303,1.72,4858.32,83.64,4.86,362265,432.13

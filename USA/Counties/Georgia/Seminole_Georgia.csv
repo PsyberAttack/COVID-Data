@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Georgia,Seminole,0.0,0,0,0.0,259,8,3.09,3114.85,96.21,3.11,8315,35.01
 2020-08-21,Georgia,Seminole,36.08,3,3,36.08,259,8,3.09,3114.85,96.21,3.11,8315,35.01
 2020-08-20,Georgia,Seminole,48.11,4,-1,-12.03,256,5,1.95,3078.77,60.13,3.08,8315,35.01

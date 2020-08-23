@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Oklahoma,Tulsa,24.37,158,2,0.31,12253,125,1.02,1889.85,19.28,1.89,648360,1136.83
 2020-08-21,Oklahoma,Tulsa,34.24,222,0,0.0,12095,123,1.02,1865.48,18.97,1.87,648360,1136.83
 2020-08-20,Oklahoma,Tulsa,16.97,110,1,0.15,11873,123,1.04,1831.24,18.97,1.83,648360,1136.83

@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Virginia,Danville city,31.95,13,0,0.0,535,12,2.24,1314.72,29.49,1.31,40693,950.83
 2020-08-21,Virginia,Danville city,39.32,16,3,7.37,522,12,2.3,1282.78,29.49,1.28,40693,950.83
 2020-08-20,Virginia,Danville city,24.57,10,0,0.0,506,9,1.78,1243.46,22.12,1.24,40693,950.83

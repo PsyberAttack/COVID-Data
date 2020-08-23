@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Alabama,Talladega,-3.76,-3,1,1.25,1522,17,1.12,1906.6,21.3,1.91,79828,108.35
 2020-08-21,Alabama,Talladega,6.26,5,0,0.0,1525,16,1.05,1910.36,20.04,1.91,79828,108.35
 2020-08-20,Alabama,Talladega,37.58,30,0,0.0,1520,16,1.05,1904.09,20.04,1.9,79828,108.35

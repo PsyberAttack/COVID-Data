@@ -1,4 +1,3 @@
-date,canton,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
-2020-08-22,Basel-Stadt,5.38,10,0,0.0,1179,53,4.5,633.87,28.49,0.63,186000
-2020-08-22,Zürich,3.54,44,0,0.0,5507,140,2.54,443.4,11.27,0.44,1242000
-2020-08-22,Bern,0.95,9,0,0.0,2382,98,4.11,250.74,10.32,0.25,950000
+date,canton,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-08-23,Basel-Stadt,2.15,4,0,0.0,1183,53,4.48,636.02,28.49,0.64,186000,23.12,-0.54,79.08,1.61
+2020-08-23,Bern,1.58,15,1,0.11,2397,99,4.13,252.32,10.42,0.25,950000,9.27,0.21,34.21,0.21

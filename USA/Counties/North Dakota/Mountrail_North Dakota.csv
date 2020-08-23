@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,North Dakota,Mountrail,0.0,0,0,0.0,159,1,0.63,1556.08,9.79,1.56,10218,5.6
 2020-08-21,North Dakota,Mountrail,29.36,3,0,0.0,159,1,0.63,1556.08,9.79,1.56,10218,5.6
 2020-08-20,North Dakota,Mountrail,0.0,0,0,0.0,156,1,0.64,1526.72,9.79,1.53,10218,5.6

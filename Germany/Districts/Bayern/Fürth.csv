@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Bayern,Fürth,1.57,2,0,0.0,1002,96,9.58,784.36,75.15,0.78,127748
 2020-08-21,Bayern,Fürth,0.85,1,0,0.0,1000,96,9.6,851.88,81.78,0.85,117387
 2020-08-20,Bayern,Fürth,0.85,1,0,0.0,999,96,9.61,851.03,81.78,0.85,117387

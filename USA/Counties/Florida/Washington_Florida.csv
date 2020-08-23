@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Florida,Washington,16.08,4,0,0.0,974,14,1.44,3914.79,56.27,3.91,24880,42.55
 2020-08-21,Florida,Washington,20.1,5,0,0.0,970,14,1.44,3898.71,56.27,3.9,24880,42.55
 2020-08-20,Florida,Washington,32.15,8,0,0.0,965,14,1.45,3878.62,56.27,3.88,24880,42.55

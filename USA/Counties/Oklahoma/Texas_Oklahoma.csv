@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Oklahoma,Texas,34.22,7,0,0.0,1097,7,0.64,5362.99,34.22,5.36,20455,10.02
 2020-08-21,Oklahoma,Texas,34.22,7,0,0.0,1090,7,0.64,5328.77,34.22,5.33,20455,10.02
 2020-08-20,Oklahoma,Texas,0.0,0,0,0.0,1083,7,0.65,5294.55,34.22,5.29,20455,10.02

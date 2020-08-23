@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Nordrhein-Westfalen,Köln,1.93,21,0,0.0,3446,113,3.28,317.41,10.41,0.32,1085664
 2020-08-20,Nordrhein-Westfalen,Köln,2.03,22,0,0.0,3425,113,3.3,315.48,10.41,0.32,1085664
 2020-08-19,Nordrhein-Westfalen,Köln,2.95,32,0,0.0,3403,113,3.32,313.45,10.41,0.31,1085664

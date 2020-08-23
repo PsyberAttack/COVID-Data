@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Mississippi,Stone,10.69,2,0,0.0,280,9,3.21,1495.97,48.08,1.5,18717,42.01
 2020-08-21,Mississippi,Stone,48.08,9,0,0.0,278,9,3.24,1485.28,48.08,1.49,18717,42.01
 2020-08-20,Mississippi,Stone,26.71,5,0,0.0,269,9,3.35,1437.2,48.08,1.44,18717,42.01

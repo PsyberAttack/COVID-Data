@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Iowa,Humboldt,10.47,1,0,0.0,98,2,2.04,1026.5,20.95,1.03,9547,21.98
 2020-08-21,Iowa,Humboldt,10.47,1,0,0.0,97,2,2.06,1016.03,20.95,1.02,9547,21.98
 2020-08-20,Iowa,Humboldt,0.0,0,0,0.0,96,2,2.08,1005.55,20.95,1.01,9547,21.98

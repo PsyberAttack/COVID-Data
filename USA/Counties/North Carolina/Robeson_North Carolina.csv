@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,North Carolina,Robeson,32.62,43,2,1.52,3198,58,1.81,2425.83,44.0,2.43,131831,139.17
 2020-08-21,North Carolina,Robeson,20.48,27,0,0.0,3155,56,1.77,2393.22,42.48,2.39,131831,139.17
 2020-08-20,North Carolina,Robeson,19.72,26,0,0.0,3128,56,1.79,2372.73,42.48,2.37,131831,139.17

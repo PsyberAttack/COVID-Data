@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-22,Nordrhein-Westfalen,Hochsauerlandkreis,0.38,1,0,0.0,806,18,2.23,310.27,6.93,0.31,259777
 2020-08-21,Nordrhein-Westfalen,Hochsauerlandkreis,0.77,2,0,0.0,805,18,2.24,309.88,6.93,0.31,259777
 2020-08-20,Nordrhein-Westfalen,Hochsauerlandkreis,1.92,5,0,0.0,803,18,2.24,309.11,6.93,0.31,259777

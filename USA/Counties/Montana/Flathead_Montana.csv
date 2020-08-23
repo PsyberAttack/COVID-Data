@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Montana,Flathead,19.59,20,0,0.0,469,3,0.64,459.33,2.94,0.46,102106,20.07
 2020-08-21,Montana,Flathead,16.65,17,0,0.0,449,3,0.67,439.74,2.94,0.44,102106,20.07
 2020-08-20,Montana,Flathead,17.63,18,0,0.0,432,3,0.69,423.09,2.94,0.42,102106,20.07

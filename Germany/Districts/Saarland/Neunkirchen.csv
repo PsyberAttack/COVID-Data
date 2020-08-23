@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Saarland,Neunkirchen,1.51,2,0,0.0,299,11,3.68,226.16,8.32,0.23,132206
 2020-08-19,Saarland,Neunkirchen,0.76,1,0,0.0,297,11,3.7,224.65,8.32,0.22,132206
 2020-08-18,Saarland,Neunkirchen,1.51,2,0,0.0,296,11,3.72,223.89,8.32,0.22,132206

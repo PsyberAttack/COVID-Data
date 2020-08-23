@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Colorado,Arapahoe,4.76,31,0,0.0,7791,364,4.67,1196.38,55.9,1.2,651215,816.13
 2020-08-21,Colorado,Arapahoe,8.29,54,0,0.0,7760,364,4.69,1191.62,55.9,1.19,651215,816.13
 2020-08-20,Colorado,Arapahoe,5.68,37,0,0.0,7706,364,4.72,1183.33,55.9,1.18,651215,816.13

@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Tennessee,Bledsoe,20.33,3,0,0.0,763,3,0.39,5171.13,20.33,5.17,14755,36.3
 2020-08-21,Tennessee,Bledsoe,6.78,1,0,0.0,760,3,0.39,5150.8,20.33,5.15,14755,36.3
 2020-08-20,Tennessee,Bledsoe,6.78,1,0,0.0,759,3,0.4,5144.02,20.33,5.14,14755,36.3

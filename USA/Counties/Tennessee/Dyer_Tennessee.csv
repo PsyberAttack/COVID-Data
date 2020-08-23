@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Tennessee,Dyer,53.59,20,0,0.0,829,9,1.09,2221.33,24.12,2.22,37320,72.84
 2020-08-21,Tennessee,Dyer,40.19,15,0,0.0,809,9,1.11,2167.74,24.12,2.17,37320,72.84
 2020-08-20,Tennessee,Dyer,58.95,22,0,0.0,794,9,1.13,2127.55,24.12,2.13,37320,72.84

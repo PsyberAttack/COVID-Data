@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Indiana,Miami,5.62,2,0,0.0,300,2,0.67,843.48,5.62,0.84,35567,95.14
 2020-08-21,Indiana,Miami,8.43,3,0,0.0,298,2,0.67,837.86,5.62,0.84,35567,95.14
 2020-08-20,Indiana,Miami,5.62,2,0,0.0,295,2,0.68,829.42,5.62,0.83,35567,95.14

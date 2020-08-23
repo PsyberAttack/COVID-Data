@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Florida,Escambia,21.55,68,0,0.0,10752,171,1.59,3407.56,54.19,3.41,315534,480.29
 2020-08-21,Florida,Escambia,28.21,89,1,0.32,10684,171,1.6,3386.01,54.19,3.39,315534,480.29
 2020-08-20,Florida,Escambia,30.42,96,6,1.9,10595,170,1.6,3357.8,53.88,3.36,315534,480.29

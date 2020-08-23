@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Illinois,Winnebago,4.22,12,0,0.0,4018,144,3.58,1414.39,50.69,1.41,284081,553.53
 2020-08-21,Illinois,Winnebago,8.8,25,0,0.0,4006,144,3.59,1410.16,50.69,1.41,284081,553.53
 2020-08-20,Illinois,Winnebago,5.28,15,0,0.0,3981,144,3.62,1401.36,50.69,1.4,284081,553.53

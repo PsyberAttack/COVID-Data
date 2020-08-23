@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Sachsen,Dresden,0.18,1,0,0.0,666,10,1.5,120.08,1.8,0.12,554649
 2020-08-20,Sachsen,Dresden,0.36,2,0,0.0,665,10,1.5,119.9,1.8,0.12,554649
 2020-08-19,Sachsen,Dresden,0.36,2,0,0.0,663,10,1.51,119.54,1.8,0.12,554649

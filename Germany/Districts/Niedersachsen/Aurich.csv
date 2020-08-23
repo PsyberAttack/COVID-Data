@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-19,Niedersachsen,Aurich,1.58,3,0,0.0,176,8,4.55,92.71,4.21,0.09,189848
 2020-08-18,Niedersachsen,Aurich,0.53,1,0,0.0,173,8,4.62,91.13,4.21,0.09,189848
 2020-08-16,Niedersachsen,Aurich,0.53,1,0,0.0,172,8,4.65,90.6,4.21,0.09,189848

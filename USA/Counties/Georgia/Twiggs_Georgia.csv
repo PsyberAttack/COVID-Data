@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Georgia,Twiggs,48.85,4,0,0.0,157,6,3.82,1917.44,73.28,1.92,8188,22.79
 2020-08-21,Georgia,Twiggs,73.28,6,2,24.43,153,6,3.92,1868.59,73.28,1.87,8188,22.79
 2020-08-20,Georgia,Twiggs,36.64,3,0,0.0,147,4,2.72,1795.31,48.85,1.8,8188,22.79

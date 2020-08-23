@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Georgia,Telfair,0.0,0,0,0.0,325,12,3.69,2047.12,75.59,2.05,15876,36.3
 2020-08-21,Georgia,Telfair,6.3,1,0,0.0,325,12,3.69,2047.12,75.59,2.05,15876,36.3
 2020-08-20,Georgia,Telfair,18.9,3,0,0.0,324,12,3.7,2040.82,75.59,2.04,15876,36.3

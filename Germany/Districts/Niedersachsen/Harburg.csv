@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-18,Niedersachsen,Harburg,0.4,1,0,0.0,642,13,2.02,253.98,5.14,0.25,252776
 2020-08-17,Niedersachsen,Harburg,0.4,1,0,0.0,641,13,2.03,253.58,5.14,0.25,252776
 2020-08-16,Niedersachsen,Harburg,0.4,1,0,0.0,640,13,2.03,253.19,5.14,0.25,252776

@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Pennsylvania,Armstrong,10.73,7,0,0.0,276,9,3.26,422.9,13.79,0.42,65263,99.92
 2020-08-21,Pennsylvania,Armstrong,4.6,3,0,0.0,269,9,3.35,412.18,13.79,0.41,65263,99.92
 2020-08-20,Pennsylvania,Armstrong,24.52,16,0,0.0,266,9,3.38,407.58,13.79,0.41,65263,99.92

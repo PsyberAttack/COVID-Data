@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-15,Thüringen,Hildburghausen,1.57,1,0,0.0,90,1,1.11,141.61,1.57,0.14,63553
 2020-08-12,Thüringen,Hildburghausen,3.15,2,0,0.0,89,1,1.12,140.04,1.57,0.14,63553
 2020-08-10,Thüringen,Hildburghausen,1.57,1,0,0.0,87,1,1.15,136.89,1.57,0.14,63553

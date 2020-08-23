@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Bayern,Würzburg,4.69,6,0,0.0,984,59,6.0,769.47,46.14,0.77,127880
 2020-08-21,Bayern,Würzburg,1.85,3,0,0.0,978,59,6.03,604.32,36.46,0.6,161834
 2020-08-20,Bayern,Würzburg,0.78,1,0,0.0,975,59,6.05,762.43,46.14,0.76,127880

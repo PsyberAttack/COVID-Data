@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-22,Nordrhein-Westfalen,Unna,1.27,5,0,0.0,1117,40,3.58,282.94,10.13,0.28,394782
 2020-08-21,Nordrhein-Westfalen,Unna,0.76,3,0,0.0,1112,40,3.6,281.67,10.13,0.28,394782
 2020-08-20,Nordrhein-Westfalen,Unna,1.01,4,0,0.0,1109,40,3.61,280.91,10.13,0.28,394782

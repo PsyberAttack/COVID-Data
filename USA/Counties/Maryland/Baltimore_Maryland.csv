@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Maryland,Baltimore,13.76,114,2,0.24,14608,586,4.01,1763.33,70.74,1.76,828431,1384.51
 2020-08-21,Maryland,Baltimore,17.38,144,2,0.24,14494,584,4.03,1749.57,70.49,1.75,828431,1384.51
 2020-08-20,Maryland,Baltimore,17.74,147,1,0.12,14350,582,4.06,1732.19,70.25,1.73,828431,1384.51

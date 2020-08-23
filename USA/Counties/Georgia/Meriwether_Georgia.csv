@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Georgia,Meriwether,23.73,5,0,0.0,452,8,1.77,2145.43,37.97,2.15,21068,42.03
 2020-08-21,Georgia,Meriwether,0.0,0,1,4.75,447,8,1.79,2121.7,37.97,2.12,21068,42.03
 2020-08-20,Georgia,Meriwether,28.48,6,0,0.0,447,7,1.57,2121.7,33.23,2.12,21068,42.03

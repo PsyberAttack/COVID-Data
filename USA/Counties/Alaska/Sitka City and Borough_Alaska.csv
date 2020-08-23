@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Alaska,Sitka City and Borough,-11.56,-1,0,0.0,47,0,0.0,543.54,0.0,0.54,8647,3.01
 2020-08-21,Alaska,Sitka City and Borough,11.56,1,0,0.0,48,0,0.0,555.11,0.0,0.56,8647,3.01
 2020-08-20,Alaska,Sitka City and Borough,0.0,0,0,0.0,47,0,0.0,543.54,0.0,0.54,8647,3.01

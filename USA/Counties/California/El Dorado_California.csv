@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,California,El Dorado,0.0,0,0,0.0,896,2,0.22,469.9,1.05,0.47,190678,111.65
 2020-08-21,California,El Dorado,5.77,11,0,0.0,896,2,0.22,469.9,1.05,0.47,190678,111.65
 2020-08-20,California,El Dorado,4.2,8,0,0.0,885,2,0.23,464.13,1.05,0.46,190678,111.65

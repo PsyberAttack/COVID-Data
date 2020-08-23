@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Oregon,Josephine,1.14,1,0,0.0,150,2,1.33,171.64,2.29,0.17,87393,53.33
 2020-08-21,Oregon,Josephine,0.0,0,0,0.0,149,2,1.34,170.49,2.29,0.17,87393,53.33
 2020-08-20,Oregon,Josephine,-1.14,-1,0,0.0,149,2,1.34,170.49,2.29,0.17,87393,53.33

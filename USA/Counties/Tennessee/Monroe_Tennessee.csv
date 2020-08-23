@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Tennessee,Monroe,23.73,11,0,0.0,591,10,1.69,1274.89,21.57,1.27,46357,72.92
 2020-08-21,Tennessee,Monroe,38.83,18,0,0.0,580,10,1.72,1251.16,21.57,1.25,46357,72.92
 2020-08-20,Tennessee,Monroe,32.36,15,0,0.0,562,10,1.78,1212.33,21.57,1.21,46357,72.92

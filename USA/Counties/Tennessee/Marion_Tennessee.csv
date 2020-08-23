@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Tennessee,Marion,14.0,4,0,0.0,289,5,1.73,1011.37,17.5,1.01,28575,57.35
 2020-08-21,Tennessee,Marion,24.5,7,0,0.0,285,5,1.75,997.38,17.5,1.0,28575,57.35
 2020-08-20,Tennessee,Marion,7.0,2,0,0.0,278,5,1.8,972.88,17.5,0.97,28575,57.35

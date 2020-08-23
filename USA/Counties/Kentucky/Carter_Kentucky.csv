@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Kentucky,Carter,3.7,1,0,0.0,110,3,2.73,407.35,11.11,0.41,27004,65.94
 2020-08-21,Kentucky,Carter,3.7,1,0,0.0,109,3,2.75,403.64,11.11,0.4,27004,65.94
 2020-08-20,Kentucky,Carter,3.7,1,0,0.0,108,3,2.78,399.94,11.11,0.4,27004,65.94

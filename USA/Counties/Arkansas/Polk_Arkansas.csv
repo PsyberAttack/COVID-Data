@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Arkansas,Polk,4.99,1,0,0.0,200,2,1.0,997.56,9.98,1.0,20049,23.38
 2020-08-21,Arkansas,Polk,39.9,8,0,0.0,199,2,1.01,992.57,9.98,0.99,20049,23.38
 2020-08-20,Arkansas,Polk,24.94,5,0,0.0,191,2,1.05,952.67,9.98,0.95,20049,23.38

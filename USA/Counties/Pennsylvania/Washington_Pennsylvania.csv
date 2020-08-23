@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Pennsylvania,Washington,5.79,12,0,0.0,968,22,2.27,466.85,10.61,0.47,207346,241.95
 2020-08-21,Pennsylvania,Washington,7.23,15,1,0.48,956,22,2.3,461.07,10.61,0.46,207346,241.95
 2020-08-20,Pennsylvania,Washington,5.31,11,0,0.0,941,21,2.23,453.83,10.13,0.45,207346,241.95

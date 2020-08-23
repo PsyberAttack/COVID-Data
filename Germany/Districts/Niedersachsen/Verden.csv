@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Niedersachsen,Verden,1.46,2,0,0.0,311,8,2.57,227.35,5.85,0.23,136792
 2020-08-20,Niedersachsen,Verden,2.92,4,0,0.0,309,8,2.59,225.89,5.85,0.23,136792
 2020-08-18,Niedersachsen,Verden,1.46,2,0,0.0,305,8,2.62,222.97,5.85,0.22,136792

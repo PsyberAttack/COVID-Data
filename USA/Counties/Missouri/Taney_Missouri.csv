@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Missouri,Taney,25.07,14,0,0.0,846,3,0.35,1514.72,5.37,1.51,55852,88.32
 2020-08-21,Missouri,Taney,28.65,16,0,0.0,832,3,0.36,1489.65,5.37,1.49,55852,88.32
 2020-08-20,Missouri,Taney,28.65,16,0,0.0,816,3,0.37,1461.0,5.37,1.46,55852,88.32

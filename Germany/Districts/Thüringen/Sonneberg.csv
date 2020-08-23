@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-14,Thüringen,Sonneberg,1.78,1,0,0.0,312,22,7.05,555.2,39.15,0.56,56196
 2020-08-10,Thüringen,Sonneberg,1.78,1,0,0.0,311,22,7.07,553.42,39.15,0.55,56196
 2020-08-09,Thüringen,Sonneberg,1.78,1,0,0.0,310,22,7.1,551.64,39.15,0.55,56196

@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,South Carolina,Kershaw,30.49,20,0,0.0,1504,29,1.93,2292.96,44.21,2.29,65592,90.29
 2020-08-21,South Carolina,Kershaw,9.15,6,0,0.0,1484,29,1.95,2262.47,44.21,2.26,65592,90.29
 2020-08-20,South Carolina,Kershaw,18.29,12,-1,-1.52,1478,29,1.96,2253.32,44.21,2.25,65592,90.29

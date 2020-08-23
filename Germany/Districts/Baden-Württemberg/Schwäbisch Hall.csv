@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Baden-Württemberg,Schwäbisch Hall,1.53,3,0,0.0,925,59,6.38,472.27,30.12,0.47,195861
 2020-08-20,Baden-Württemberg,Schwäbisch Hall,1.02,2,0,0.0,922,59,6.4,470.74,30.12,0.47,195861
 2020-08-19,Baden-Württemberg,Schwäbisch Hall,2.04,4,0,0.0,920,59,6.41,469.72,30.12,0.47,195861

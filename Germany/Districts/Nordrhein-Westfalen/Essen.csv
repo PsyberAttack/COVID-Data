@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Nordrhein-Westfalen,Essen,1.54,9,0,0.0,1531,46,3.0,262.56,7.89,0.26,583109
 2020-08-20,Nordrhein-Westfalen,Essen,0.86,5,0,0.0,1522,46,3.02,261.01,7.89,0.26,583109
 2020-08-19,Nordrhein-Westfalen,Essen,0.34,2,0,0.0,1517,46,3.03,260.16,7.89,0.26,583109

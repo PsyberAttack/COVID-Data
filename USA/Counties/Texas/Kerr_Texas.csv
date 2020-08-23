@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Texas,Kerr,5.72,3,1,1.91,426,9,2.11,812.9,17.17,0.81,52405,47.5
 2020-08-21,Texas,Kerr,1.91,1,1,1.91,423,8,1.89,807.17,15.27,0.81,52405,47.5
 2020-08-20,Texas,Kerr,5.72,3,1,1.91,422,7,1.66,805.27,13.36,0.81,52405,47.5

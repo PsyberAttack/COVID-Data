@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Florida,Nassau,24.47,21,0,0.0,1456,15,1.03,1696.34,17.48,1.7,85832,132.32
 2020-08-21,Florida,Nassau,45.44,39,1,1.17,1435,15,1.05,1671.87,17.48,1.67,85832,132.32
 2020-08-20,Florida,Nassau,27.96,24,1,1.17,1396,14,1.0,1626.43,16.31,1.63,85832,132.32

@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,South Carolina,Darlington,28.44,19,0,0.0,1535,43,2.8,2297.84,64.37,2.3,66802,119.15
 2020-08-21,South Carolina,Darlington,26.95,18,1,1.5,1516,43,2.84,2269.39,64.37,2.27,66802,119.15
 2020-08-20,South Carolina,Darlington,37.42,25,1,1.5,1498,42,2.8,2242.45,62.87,2.24,66802,119.15

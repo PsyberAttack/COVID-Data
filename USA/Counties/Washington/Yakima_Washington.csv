@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Washington,Yakima,14.71,37,2,0.8,11459,248,2.16,4557.24,98.63,4.56,251446,58.55
 2020-08-21,Washington,Yakima,11.93,30,2,0.8,11422,246,2.15,4542.53,97.83,4.54,251446,58.55
 2020-08-20,Washington,Yakima,18.29,46,1,0.4,11392,244,2.14,4530.6,97.04,4.53,251446,58.55

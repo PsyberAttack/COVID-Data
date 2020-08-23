@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,North Carolina,Dare,19.18,7,0,0.0,225,2,0.89,616.42,5.48,0.62,36501,95.25
 2020-08-21,North Carolina,Dare,0.0,0,0,0.0,218,2,0.92,597.24,5.48,0.6,36501,95.25
 2020-08-20,North Carolina,Dare,5.48,2,0,0.0,218,2,0.92,597.24,5.48,0.6,36501,95.25

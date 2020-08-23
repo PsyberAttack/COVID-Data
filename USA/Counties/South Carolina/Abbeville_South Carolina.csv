@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,South Carolina,Abbeville,16.3,4,0,0.0,385,10,2.6,1568.8,40.75,1.57,24541,49.94
 2020-08-21,South Carolina,Abbeville,20.37,5,2,8.15,381,10,2.62,1552.5,40.75,1.55,24541,49.94
 2020-08-20,South Carolina,Abbeville,20.37,5,0,0.0,376,8,2.13,1532.13,32.6,1.53,24541,49.94

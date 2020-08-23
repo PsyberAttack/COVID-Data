@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Kansas,Reno,24.06,15,0,0.0,570,1,0.18,914.31,1.6,0.91,62342,49.65
 2020-08-21,Kansas,Reno,25.66,16,0,0.0,555,1,0.18,890.25,1.6,0.89,62342,49.65
 2020-08-20,Kansas,Reno,19.25,12,0,0.0,539,1,0.19,864.59,1.6,0.86,62342,49.65

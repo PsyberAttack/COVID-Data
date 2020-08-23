@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Georgia,Burke,13.38,3,0,0.0,614,7,1.14,2738.26,31.22,2.74,22423,27.11
 2020-08-21,Georgia,Burke,40.14,9,0,0.0,611,7,1.15,2724.88,31.22,2.72,22423,27.11
 2020-08-20,Georgia,Burke,98.11,22,0,0.0,602,7,1.16,2684.74,31.22,2.68,22423,27.11

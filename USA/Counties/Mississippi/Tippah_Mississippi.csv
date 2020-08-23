@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Mississippi,Tippah,50.01,11,0,0.0,489,15,3.07,2223.23,68.2,2.22,21995,48.04
 2020-08-21,Mississippi,Tippah,59.1,13,1,4.55,478,15,3.14,2173.22,68.2,2.17,21995,48.04
 2020-08-20,Mississippi,Tippah,27.28,6,0,0.0,465,14,3.01,2114.12,63.65,2.11,21995,48.04

@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Texas,Parker,10.12,14,1,0.72,1580,23,1.46,1141.86,16.62,1.14,138371,153.15
 2020-08-21,Texas,Parker,25.29,35,2,1.45,1566,22,1.4,1131.74,15.9,1.13,138371,153.15
 2020-08-20,Texas,Parker,20.96,29,0,0.0,1531,20,1.31,1106.45,14.45,1.11,138371,153.15

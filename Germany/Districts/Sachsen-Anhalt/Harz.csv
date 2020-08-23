@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Sachsen-Anhalt,Harz,0.47,1,0,0.0,270,5,1.85,125.91,2.33,0.13,214446
 2020-08-10,Sachsen-Anhalt,Harz,0.93,2,0,0.0,269,5,1.86,125.44,2.33,0.13,214446
 2020-08-08,Sachsen-Anhalt,Harz,1.4,3,0,0.0,267,5,1.87,124.51,2.33,0.12,214446

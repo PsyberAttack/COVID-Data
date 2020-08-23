@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-20,Bayern,Nürnberger Land,0.59,1,0,0.0,684,44,6.43,401.49,25.83,0.4,170365
 2020-08-19,Bayern,Nürnberger Land,1.17,2,0,0.0,683,44,6.44,400.9,25.83,0.4,170365
 2020-08-17,Bayern,Nürnberger Land,2.35,4,0,0.0,681,44,6.46,399.73,25.83,0.4,170365

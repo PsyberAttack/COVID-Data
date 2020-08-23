@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Niedersachsen,Lüneburg,0.55,1,0,0.0,194,0,0.0,105.8,0.0,0.11,183372
 2020-08-19,Niedersachsen,Lüneburg,1.09,2,0,0.0,193,0,0.0,105.25,0.0,0.11,183372
 2020-08-17,Niedersachsen,Lüneburg,1.64,3,0,0.0,191,0,0.0,104.16,0.0,0.1,183372

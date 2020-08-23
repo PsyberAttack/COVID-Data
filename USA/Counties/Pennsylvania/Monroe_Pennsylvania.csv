@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Pennsylvania,Monroe,1.18,2,0,0.0,1688,127,7.52,995.83,74.92,1.0,169507,278.68
 2020-08-21,Pennsylvania,Monroe,4.13,7,2,1.18,1686,127,7.53,994.65,74.92,0.99,169507,278.68
 2020-08-20,Pennsylvania,Monroe,4.72,8,0,0.0,1679,125,7.44,990.52,73.74,0.99,169507,278.68

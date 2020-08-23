@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,North Dakota,Ramsey,0.0,0,0,0.0,98,2,2.04,853.58,17.42,0.85,11481,9.67
 2020-08-21,North Dakota,Ramsey,26.13,3,0,0.0,98,2,2.04,853.58,17.42,0.85,11481,9.67
 2020-08-20,North Dakota,Ramsey,52.26,6,0,0.0,95,2,2.11,827.45,17.42,0.83,11481,9.67

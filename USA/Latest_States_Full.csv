@@ -1,4 +1,4 @@
-fips,date,state,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+fips,date,state,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 38,2020-08-22,North Dakota,34.47,262,3,0.39,9740,139,1.43,1281.45,18.29,1.28,760077,11.02
 28,2020-08-22,Mississippi,31.64,945,23,0.77,77268,2237,2.9,2587.22,74.9,2.59,2986530,63.65
 46,2020-08-22,South Dakota,28.45,251,1,0.11,11135,160,1.44,1262.14,18.14,1.26,882235,11.64

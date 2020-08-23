@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Alaska,Juneau City and Borough,15.57,5,0,0.0,238,1,0.42,741.13,3.11,0.74,32113,11.88
 2020-08-21,Alaska,Juneau City and Borough,3.11,1,0,0.0,233,1,0.43,725.56,3.11,0.73,32113,11.88
 2020-08-20,Alaska,Juneau City and Borough,18.68,6,0,0.0,232,1,0.43,722.45,3.11,0.72,32113,11.88

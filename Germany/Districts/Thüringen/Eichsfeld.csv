@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-08,Thüringen,Eichsfeld,1.0,1,0,0.0,163,10,6.13,162.38,9.96,0.16,100380
 2020-07-01,Thüringen,Eichsfeld,1.0,1,0,0.0,162,10,6.17,161.39,9.96,0.16,100380
 2020-06-30,Thüringen,Eichsfeld,1.0,1,0,0.0,161,10,6.21,160.39,9.96,0.16,100380

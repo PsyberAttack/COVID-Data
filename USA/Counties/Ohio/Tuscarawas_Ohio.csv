@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Ohio,Tuscarawas,6.51,6,0,0.0,828,15,1.81,898.28,16.27,0.9,92176,162.44
 2020-08-21,Ohio,Tuscarawas,4.34,4,0,0.0,822,15,1.82,891.77,16.27,0.89,92176,162.44
 2020-08-20,Ohio,Tuscarawas,0.0,0,0,0.0,818,15,1.83,887.43,16.27,0.89,92176,162.44

@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Texas,Hartley,17.8,1,0,0.0,99,2,2.02,1761.88,35.59,1.76,5619,3.84
 2020-08-21,Texas,Hartley,17.8,1,0,0.0,98,2,2.04,1744.08,35.59,1.74,5619,3.84
 2020-08-20,Texas,Hartley,0.0,0,0,0.0,97,2,2.06,1726.29,35.59,1.73,5619,3.84

@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Arkansas,Logan,13.8,3,0,0.0,347,1,0.29,1596.36,4.6,1.6,21737,30.7
 2020-08-21,Arkansas,Logan,4.6,1,0,0.0,344,1,0.29,1582.56,4.6,1.58,21737,30.7
 2020-08-20,Arkansas,Logan,18.4,4,0,0.0,343,1,0.29,1577.95,4.6,1.58,21737,30.7

@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Idaho,Fremont,0.0,0,0,0.0,98,1,1.02,744.23,7.59,0.74,13168,7.06
 2020-08-21,Idaho,Fremont,0.0,0,0,0.0,98,1,1.02,744.23,7.59,0.74,13168,7.06
 2020-08-20,Idaho,Fremont,0.0,0,0,0.0,98,1,1.02,744.23,7.59,0.74,13168,7.06

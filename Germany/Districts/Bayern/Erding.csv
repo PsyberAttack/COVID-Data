@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Bayern,Erding,0.73,1,0,0.0,758,11,1.45,550.63,7.99,0.55,137660
 2020-08-19,Bayern,Erding,1.45,2,0,0.0,757,11,1.45,549.91,7.99,0.55,137660
 2020-08-18,Bayern,Erding,7.26,10,0,0.0,755,11,1.46,548.45,7.99,0.55,137660

@@ -1,4 +1,4 @@
-date,state,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Georgia,24.85,2614,93,0.88,235783,4982,2.11,2241.4,47.36,2.24,10519475,182.26
 2020-08-21,Georgia,27.39,2881,92,0.87,233169,4889,2.1,2216.55,46.48,2.22,10519475,182.26
 2020-08-20,Georgia,28.83,3033,53,0.5,230288,4797,2.08,2189.16,45.6,2.19,10519475,182.26

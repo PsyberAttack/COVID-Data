@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Indiana,Ripley,7.01,2,0,0.0,231,8,3.46,809.87,28.05,0.81,28523,63.89
 2020-08-21,Indiana,Ripley,0.0,0,0,0.0,229,8,3.49,802.86,28.05,0.8,28523,63.89
 2020-08-20,Indiana,Ripley,7.01,2,0,0.0,229,8,3.49,802.86,28.05,0.8,28523,63.89

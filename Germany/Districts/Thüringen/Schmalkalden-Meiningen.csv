@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Thüringen,Schmalkalden-Meiningen,0.82,1,0,0.0,191,5,2.62,156.11,4.09,0.16,122347
 2020-08-19,Thüringen,Schmalkalden-Meiningen,0.82,1,0,0.0,190,5,2.63,155.3,4.09,0.16,122347
 2020-08-18,Thüringen,Schmalkalden-Meiningen,2.45,3,0,0.0,189,5,2.65,154.48,4.09,0.15,122347

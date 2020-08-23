@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,North Carolina,Franklin,4.44,3,0,0.0,965,28,2.9,1428.36,41.44,1.43,67560,137.37
 2020-08-21,North Carolina,Franklin,8.88,6,0,0.0,962,28,2.91,1423.92,41.44,1.42,67560,137.37
 2020-08-20,North Carolina,Franklin,20.72,14,0,0.0,956,28,2.93,1415.04,41.44,1.42,67560,137.37

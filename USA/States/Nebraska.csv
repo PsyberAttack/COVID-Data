@@ -1,4 +1,4 @@
-date,state,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Nebraska,7.98,154,1,0.05,31780,382,1.2,1647.26,19.8,1.65,1929268,25.11
 2020-08-21,Nebraska,14.25,275,4,0.21,31626,381,1.2,1639.27,19.75,1.64,1929268,25.11
 2020-08-20,Nebraska,16.12,311,4,0.21,31351,377,1.2,1625.02,19.54,1.63,1929268,25.11

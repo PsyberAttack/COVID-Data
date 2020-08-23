@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Texas,Gillespie,3.73,1,0,0.0,193,6,3.11,720.04,22.38,0.72,26804,25.33
 2020-08-21,Texas,Gillespie,0.0,0,0,0.0,192,6,3.12,716.31,22.38,0.72,26804,25.33
 2020-08-20,Texas,Gillespie,3.73,1,0,0.0,192,6,3.12,716.31,22.38,0.72,26804,25.33

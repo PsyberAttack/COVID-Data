@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-19,Bayern,Bamberg,5.16,4,0,0.0,669,58,8.67,862.2,74.75,0.86,77592
 2020-08-18,Bayern,Bamberg,0.68,1,0,0.0,665,58,8.72,452.12,39.43,0.45,147086
 2020-08-17,Bayern,Bamberg,2.58,2,0,0.0,664,58,8.73,855.76,74.75,0.86,77592

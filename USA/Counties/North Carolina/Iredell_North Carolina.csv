@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,North Carolina,Iredell,20.18,36,0,0.0,2159,18,0.83,1209.96,10.09,1.21,178435,310.76
 2020-08-21,North Carolina,Iredell,22.42,40,0,0.0,2123,18,0.85,1189.79,10.09,1.19,178435,310.76
 2020-08-20,North Carolina,Iredell,18.49,33,0,0.0,2083,18,0.86,1167.37,10.09,1.17,178435,310.76

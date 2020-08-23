@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-22,Nordrhein-Westfalen,Bielefeld,0.9,3,0,0.0,716,7,0.98,214.51,2.1,0.21,333786
 2020-08-21,Nordrhein-Westfalen,Bielefeld,0.3,1,0,0.0,713,7,0.98,213.61,2.1,0.21,333786
 2020-08-20,Nordrhein-Westfalen,Bielefeld,3.0,10,0,0.0,712,7,0.98,213.31,2.1,0.21,333786

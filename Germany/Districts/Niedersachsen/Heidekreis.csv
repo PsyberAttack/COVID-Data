@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-19,Niedersachsen,Heidekreis,0.71,1,0,0.0,98,2,2.04,69.67,1.42,0.07,140673
 2020-08-17,Niedersachsen,Heidekreis,1.42,2,0,0.0,97,2,2.06,68.95,1.42,0.07,140673
 2020-08-15,Niedersachsen,Heidekreis,0.71,1,0,0.0,95,2,2.11,67.53,1.42,0.07,140673

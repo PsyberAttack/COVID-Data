@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Mecklenburg-Vorpommern,Vorpommern-Greifswald,0.42,1,0,0.0,165,7,4.24,69.71,2.96,0.07,236697
 2020-08-18,Mecklenburg-Vorpommern,Vorpommern-Greifswald,0.42,1,0,0.0,164,7,4.27,69.29,2.96,0.07,236697
 2020-08-17,Mecklenburg-Vorpommern,Vorpommern-Greifswald,0.42,1,0,0.0,163,7,4.29,68.86,2.96,0.07,236697

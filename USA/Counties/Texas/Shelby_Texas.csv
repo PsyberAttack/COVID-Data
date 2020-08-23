@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Texas,Shelby,3.93,1,0,0.0,426,18,4.23,1675.98,70.82,1.68,25418,31.95
 2020-08-21,Texas,Shelby,23.61,6,0,0.0,425,18,4.24,1672.04,70.82,1.67,25418,31.95
 2020-08-20,Texas,Shelby,11.8,3,0,0.0,419,18,4.3,1648.44,70.82,1.65,25418,31.95

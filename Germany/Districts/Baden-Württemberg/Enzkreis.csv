@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-22,Baden-Württemberg,Enzkreis,1.0,2,0,0.0,721,22,3.05,361.3,11.02,0.36,199556
 2020-08-21,Baden-Württemberg,Enzkreis,1.5,3,0,0.0,719,22,3.06,360.3,11.02,0.36,199556
 2020-08-20,Baden-Württemberg,Enzkreis,1.0,2,0,0.0,716,22,3.07,358.8,11.02,0.36,199556

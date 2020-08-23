@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Arkansas,Sevier,29.17,5,0,0.0,1114,12,1.08,6499.8,70.02,6.5,17139,30.33
 2020-08-21,Arkansas,Sevier,134.2,23,1,5.83,1109,12,1.08,6470.62,70.02,6.47,17139,30.33
 2020-08-20,Arkansas,Sevier,40.84,7,0,0.0,1086,11,1.01,6336.43,64.18,6.34,17139,30.33

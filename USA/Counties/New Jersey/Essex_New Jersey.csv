@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,New Jersey,Essex,4.5,36,0,0.0,20322,2112,10.39,2540.99,264.08,2.54,799767,6343.1
 2020-08-21,New Jersey,Essex,2.38,19,0,0.0,20286,2112,10.41,2536.49,264.08,2.54,799767,6343.1
 2020-08-20,New Jersey,Essex,-0.38,-3,0,0.0,20267,2112,10.42,2534.11,264.08,2.53,799767,6343.1

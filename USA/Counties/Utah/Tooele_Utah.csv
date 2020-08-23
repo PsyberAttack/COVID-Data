@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Utah,Tooele,4.29,3,0,0.0,638,0,0.0,912.64,0.0,0.91,69907,10.07
 2020-08-21,Utah,Tooele,1.43,1,0,0.0,635,0,0.0,908.35,0.0,0.91,69907,10.07
 2020-08-20,Utah,Tooele,7.15,5,0,0.0,634,0,0.0,906.92,0.0,0.91,69907,10.07

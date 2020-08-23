@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-22,Schleswig-Holstein,Kiel,0.4,1,0,0.0,419,11,2.63,169.26,4.44,0.17,247548
 2020-08-21,Schleswig-Holstein,Kiel,2.02,5,0,0.0,418,11,2.63,168.86,4.44,0.17,247548
 2020-08-20,Schleswig-Holstein,Kiel,2.02,5,0,0.0,413,11,2.66,166.84,4.44,0.17,247548

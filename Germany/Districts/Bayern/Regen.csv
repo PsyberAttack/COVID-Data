@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-20,Bayern,Regen,5.15,4,0,0.0,205,12,5.85,263.98,15.45,0.26,77656
 2020-08-12,Bayern,Regen,1.29,1,0,0.0,201,12,5.97,258.83,15.45,0.26,77656
 2020-07-23,Bayern,Regen,1.29,1,0,0.0,200,12,6.0,257.55,15.45,0.26,77656

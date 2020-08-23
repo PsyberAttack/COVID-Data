@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,California,Yuba,0.0,0,0,0.0,844,4,0.47,1081.48,5.13,1.08,78041,123.48
 2020-08-21,California,Yuba,19.22,15,0,0.0,844,4,0.47,1081.48,5.13,1.08,78041,123.48
 2020-08-20,California,Yuba,10.25,8,0,0.0,829,4,0.48,1062.26,5.13,1.06,78041,123.48

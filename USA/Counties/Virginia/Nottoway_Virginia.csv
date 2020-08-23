@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Virginia,Nottoway,0.0,0,0,0.0,184,14,7.61,1193.26,90.79,1.19,15420,49.05
 2020-08-21,Virginia,Nottoway,6.49,1,0,0.0,184,14,7.61,1193.26,90.79,1.19,15420,49.05
 2020-08-20,Virginia,Nottoway,0.0,0,0,0.0,183,14,7.65,1186.77,90.79,1.19,15420,49.05

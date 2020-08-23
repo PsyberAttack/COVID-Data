@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Virginia,James City,35.34,27,0,0.0,694,17,2.45,908.41,22.25,0.91,76397,536.63
 2020-08-21,Virginia,James City,6.54,5,0,0.0,667,17,2.55,873.07,22.25,0.87,76397,536.63
 2020-08-20,Virginia,James City,13.09,10,0,0.0,662,17,2.57,866.53,22.25,0.87,76397,536.63

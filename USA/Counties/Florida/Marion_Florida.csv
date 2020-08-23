@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Florida,Marion,33.06,119,13,3.61,7926,134,1.69,2201.81,37.22,2.2,359977,226.63
 2020-08-21,Florida,Marion,32.22,116,0,0.0,7807,121,1.55,2168.75,33.61,2.17,359977,226.63
 2020-08-20,Florida,Marion,21.39,77,0,0.0,7691,121,1.57,2136.53,33.61,2.14,359977,226.63

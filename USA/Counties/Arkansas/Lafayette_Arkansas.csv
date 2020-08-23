@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Arkansas,Lafayette,0.0,0,0,0.0,65,2,3.08,972.76,29.93,0.97,6682,12.65
 2020-08-21,Arkansas,Lafayette,14.97,1,0,0.0,65,2,3.08,972.76,29.93,0.97,6682,12.65
 2020-08-20,Arkansas,Lafayette,14.97,1,0,0.0,64,2,3.12,957.8,29.93,0.96,6682,12.65

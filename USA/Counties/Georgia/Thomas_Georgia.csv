@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Georgia,Thomas,40.5,18,0,0.0,1323,46,3.48,2976.51,103.49,2.98,44448,81.61
 2020-08-21,Georgia,Thomas,42.75,19,1,2.25,1305,46,3.52,2936.02,103.49,2.94,44448,81.61
 2020-08-20,Georgia,Thomas,24.75,11,0,0.0,1286,45,3.5,2893.27,101.24,2.89,44448,81.61

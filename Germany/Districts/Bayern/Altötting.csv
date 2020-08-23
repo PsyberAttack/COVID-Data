@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-20,Bayern,Altötting,5.4,6,0,0.0,678,55,8.11,609.66,49.46,0.61,111210
 2020-08-19,Bayern,Altötting,0.9,1,0,0.0,672,55,8.18,604.26,49.46,0.6,111210
 2020-08-18,Bayern,Altötting,2.7,3,0,0.0,671,55,8.2,603.36,49.46,0.6,111210

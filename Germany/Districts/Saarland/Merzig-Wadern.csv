@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-19,Saarland,Merzig-Wadern,0.97,1,0,0.0,254,2,0.79,245.73,1.93,0.25,103366
 2020-08-16,Saarland,Merzig-Wadern,0.97,1,0,0.0,253,2,0.79,244.76,1.93,0.24,103366
 2020-08-15,Saarland,Merzig-Wadern,0.97,1,0,0.0,252,2,0.79,243.79,1.93,0.24,103366

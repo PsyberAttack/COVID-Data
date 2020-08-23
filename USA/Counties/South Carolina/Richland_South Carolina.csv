@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,South Carolina,Richland,21.23,88,2,0.48,9865,185,1.88,2379.54,44.62,2.38,414576,547.43
 2020-08-21,South Carolina,Richland,23.16,96,4,0.96,9777,183,1.87,2358.31,44.14,2.36,414576,547.43
 2020-08-20,South Carolina,Richland,28.22,117,1,0.24,9681,179,1.85,2335.16,43.18,2.34,414576,547.43

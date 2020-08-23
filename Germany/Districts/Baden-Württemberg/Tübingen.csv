@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Baden-Württemberg,Tübingen,0.44,1,0,0.0,1329,60,4.51,584.61,26.39,0.58,227331
 2020-08-20,Baden-Württemberg,Tübingen,0.44,1,0,0.0,1328,60,4.52,584.17,26.39,0.58,227331
 2020-08-19,Baden-Württemberg,Tübingen,0.44,1,0,0.0,1327,60,4.52,583.73,26.39,0.58,227331

@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-22,Nordrhein-Westfalen,Rhein-Kreis Neuss,0.22,1,0,0.0,1094,23,2.1,242.18,5.09,0.24,451730
 2020-08-21,Nordrhein-Westfalen,Rhein-Kreis Neuss,1.33,6,0,0.0,1093,23,2.1,241.96,5.09,0.24,451730
 2020-08-20,Nordrhein-Westfalen,Rhein-Kreis Neuss,0.66,3,0,0.0,1087,23,2.12,240.63,5.09,0.24,451730

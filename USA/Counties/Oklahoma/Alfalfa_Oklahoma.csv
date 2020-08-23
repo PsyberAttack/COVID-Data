@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Oklahoma,Alfalfa,34.76,2,0,0.0,9,0,0.0,156.41,0.0,0.16,5754,6.64
 2020-08-21,Oklahoma,Alfalfa,17.38,1,0,0.0,7,0,0.0,121.65,0.0,0.12,5754,6.64
 2020-08-20,Oklahoma,Alfalfa,0.0,0,0,0.0,6,0,0.0,104.28,0.0,0.1,5754,6.64

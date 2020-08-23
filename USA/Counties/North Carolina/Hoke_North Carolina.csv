@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,North Carolina,Hoke,21.91,12,0,0.0,809,12,1.48,1477.25,21.91,1.48,54764,140.38
 2020-08-21,North Carolina,Hoke,5.48,3,0,0.0,797,12,1.51,1455.34,21.91,1.46,54764,140.38
 2020-08-20,North Carolina,Hoke,5.48,3,0,0.0,794,12,1.51,1449.86,21.91,1.45,54764,140.38

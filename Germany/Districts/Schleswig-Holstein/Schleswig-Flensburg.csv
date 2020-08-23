@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-18,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,173,4,2.31,86.49,2.0,0.09,200025
 2020-08-16,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,172,4,2.33,85.99,2.0,0.09,200025
 2020-08-15,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,171,4,2.34,85.49,2.0,0.09,200025

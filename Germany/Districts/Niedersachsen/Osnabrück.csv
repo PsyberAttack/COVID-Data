@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-19,Niedersachsen,Osnabrück,2.43,4,0,0.0,1882,83,4.41,1142.35,50.38,1.14,164748
 2020-08-18,Niedersachsen,Osnabrück,1.68,6,0,0.0,1878,83,4.42,525.55,23.23,0.53,357343
 2020-08-18,Niedersachsen,Osnabrück,3.64,6,0,0.0,1872,83,4.43,1136.28,50.38,1.14,164748

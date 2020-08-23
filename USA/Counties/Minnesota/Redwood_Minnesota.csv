@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Minnesota,Redwood,6.56,1,0,0.0,46,0,0.0,301.66,0.0,0.3,15249,17.36
 2020-08-21,Minnesota,Redwood,32.79,5,0,0.0,45,0,0.0,295.1,0.0,0.3,15249,17.36
 2020-08-20,Minnesota,Redwood,6.56,1,0,0.0,40,0,0.0,262.31,0.0,0.26,15249,17.36

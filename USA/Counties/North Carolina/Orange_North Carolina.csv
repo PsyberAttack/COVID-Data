@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,North Carolina,Orange,50.68,74,1,0.68,1808,50,2.77,1238.13,34.24,1.24,146027,367.33
 2020-08-21,North Carolina,Orange,57.52,84,0,0.0,1734,49,2.83,1187.45,33.56,1.19,146027,367.33
 2020-08-20,North Carolina,Orange,60.26,88,0,0.0,1650,49,2.97,1129.93,33.56,1.13,146027,367.33

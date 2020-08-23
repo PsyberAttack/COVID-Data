@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Pennsylvania,Venango,0.0,0,1,1.95,69,1,1.45,134.59,1.95,0.13,51266,76.03
 2020-08-21,Pennsylvania,Venango,1.95,1,0,0.0,69,0,0.0,134.59,0.0,0.13,51266,76.03
 2020-08-20,Pennsylvania,Venango,0.0,0,0,0.0,68,0,0.0,132.64,0.0,0.13,51266,76.03

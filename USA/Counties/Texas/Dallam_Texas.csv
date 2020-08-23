@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Texas,Dallam,13.89,1,0,0.0,202,6,2.97,2805.56,83.33,2.81,7200,4.79
 2020-08-21,Texas,Dallam,27.78,2,0,0.0,201,6,2.99,2791.67,83.33,2.79,7200,4.79
 2020-08-20,Texas,Dallam,0.0,0,0,0.0,199,6,3.02,2763.89,83.33,2.76,7200,4.79

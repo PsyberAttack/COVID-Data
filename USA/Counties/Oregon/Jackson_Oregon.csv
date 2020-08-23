@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Oregon,Jackson,9.11,20,0,0.0,674,2,0.3,306.97,0.91,0.31,219564,78.89
 2020-08-21,Oregon,Jackson,8.2,18,0,0.0,654,2,0.31,297.86,0.91,0.3,219564,78.89
 2020-08-20,Oregon,Jackson,8.2,18,0,0.0,636,2,0.31,289.66,0.91,0.29,219564,78.89

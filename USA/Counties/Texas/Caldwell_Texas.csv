@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Texas,Caldwell,23.12,10,0,0.0,1208,31,2.57,2793.26,71.68,2.79,43247,79.32
 2020-08-21,Texas,Caldwell,6.94,3,1,2.31,1198,31,2.59,2770.13,71.68,2.77,43247,79.32
 2020-08-20,Texas,Caldwell,0.0,0,0,0.0,1195,30,2.51,2763.2,69.37,2.76,43247,79.32

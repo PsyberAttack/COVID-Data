@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Iowa,Des Moines,53.66,21,1,2.56,415,3,0.72,1060.35,7.67,1.06,39138,94.05
 2020-08-21,Iowa,Des Moines,66.43,26,0,0.0,394,2,0.51,1006.69,5.11,1.01,39138,94.05
 2020-08-20,Iowa,Des Moines,104.76,41,0,0.0,368,2,0.54,940.26,5.11,0.94,39138,94.05

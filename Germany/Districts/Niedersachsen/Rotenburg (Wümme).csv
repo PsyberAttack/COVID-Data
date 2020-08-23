@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Niedersachsen,Rotenburg (Wümme),1.84,3,0,0.0,180,2,1.11,110.12,1.22,0.11,163455
 2020-08-19,Niedersachsen,Rotenburg (Wümme),4.89,8,0,0.0,177,2,1.13,108.29,1.22,0.11,163455
 2020-08-18,Niedersachsen,Rotenburg (Wümme),9.18,15,0,0.0,169,2,1.18,103.39,1.22,0.1,163455

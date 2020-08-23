@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Texas,Burnet,21.03,10,0,0.0,603,12,1.99,1268.35,25.24,1.27,47542,47.82
 2020-08-21,Texas,Burnet,-4.21,-2,1,2.1,593,12,2.02,1247.32,25.24,1.25,47542,47.82
 2020-08-20,Texas,Burnet,18.93,9,0,0.0,595,11,1.85,1251.52,23.14,1.25,47542,47.82

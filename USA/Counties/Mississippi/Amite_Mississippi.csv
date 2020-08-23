@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Mississippi,Amite,0.0,0,0,0.0,259,6,2.32,2101.25,48.68,2.1,12326,16.88
 2020-08-21,Mississippi,Amite,16.23,2,0,0.0,259,6,2.32,2101.25,48.68,2.1,12326,16.88
 2020-08-20,Mississippi,Amite,32.45,4,0,0.0,257,6,2.33,2085.02,48.68,2.09,12326,16.88

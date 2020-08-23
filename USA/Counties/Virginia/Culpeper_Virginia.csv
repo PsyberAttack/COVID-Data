@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Virginia,Culpeper,9.64,5,0,0.0,1065,13,1.22,2053.65,25.07,2.05,51859,136.76
 2020-08-21,Virginia,Culpeper,9.64,5,0,0.0,1060,13,1.23,2044.0,25.07,2.04,51859,136.76
 2020-08-20,Virginia,Culpeper,9.64,5,0,0.0,1055,13,1.23,2034.36,25.07,2.03,51859,136.76

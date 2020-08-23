@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Kentucky,Wayne,4.89,1,0,0.0,83,0,0.0,405.51,0.0,0.41,20468,44.67
 2020-08-21,Kentucky,Wayne,4.89,1,0,0.0,82,0,0.0,400.63,0.0,0.4,20468,44.67
 2020-08-20,Kentucky,Wayne,0.0,0,0,0.0,81,0,0.0,395.74,0.0,0.4,20468,44.67

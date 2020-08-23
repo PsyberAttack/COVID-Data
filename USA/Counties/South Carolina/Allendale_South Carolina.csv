@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,South Carolina,Allendale,44.93,4,0,0.0,270,6,2.22,3032.69,67.39,3.03,8903,21.82
 2020-08-21,South Carolina,Allendale,67.39,6,0,0.0,266,6,2.26,2987.76,67.39,2.99,8903,21.82
 2020-08-20,South Carolina,Allendale,67.39,6,0,0.0,260,6,2.31,2920.36,67.39,2.92,8903,21.82

@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Nordrhein-Westfalen,Herford,0.4,1,0,0.0,539,8,1.48,214.93,3.19,0.21,250783
 2020-08-20,Nordrhein-Westfalen,Herford,1.6,4,0,0.0,538,8,1.49,214.53,3.19,0.21,250783
 2020-08-19,Nordrhein-Westfalen,Herford,0.8,2,0,0.0,534,8,1.5,212.93,3.19,0.21,250783

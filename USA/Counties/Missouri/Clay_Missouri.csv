@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Missouri,Clay,14.21,35,0,0.0,1245,34,2.73,505.35,13.8,0.51,246365,619.53
 2020-08-21,Missouri,Clay,6.49,16,0,0.0,1210,34,2.81,491.14,13.8,0.49,246365,619.53
 2020-08-20,Missouri,Clay,5.68,14,0,0.0,1194,34,2.85,484.65,13.8,0.48,246365,619.53

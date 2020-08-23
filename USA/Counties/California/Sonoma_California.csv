@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,California,Sonoma,25.0,125,2,0.4,5067,72,1.42,1013.52,14.4,1.01,499942,317.25
 2020-08-21,California,Sonoma,15.8,79,0,0.0,4942,70,1.42,988.51,14.0,0.99,499942,317.25
 2020-08-20,California,Sonoma,16.8,84,5,1.0,4863,70,1.44,972.71,14.0,0.97,499942,317.25

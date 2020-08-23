@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,New York,Rockland,3.68,12,0,0.0,14118,508,3.6,4334.73,155.97,4.33,325695,1877.9
 2020-08-21,New York,Rockland,5.22,17,1,0.31,14106,508,3.6,4331.05,155.97,4.33,325695,1877.9
 2020-08-20,New York,Rockland,6.75,22,0,0.0,14089,507,3.6,4325.83,155.67,4.33,325695,1877.9

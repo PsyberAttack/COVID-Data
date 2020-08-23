@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Baden-Württemberg,Ostalbkreis,0.96,3,0,0.0,1640,43,2.62,522.25,13.69,0.52,314025
 2020-08-20,Baden-Württemberg,Ostalbkreis,1.27,4,0,0.0,1637,43,2.63,521.3,13.69,0.52,314025
 2020-08-19,Baden-Württemberg,Ostalbkreis,3.18,10,0,0.0,1633,43,2.63,520.02,13.69,0.52,314025

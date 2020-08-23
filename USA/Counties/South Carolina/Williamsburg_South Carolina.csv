@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,South Carolina,Williamsburg,32.67,10,0,0.0,1137,34,2.99,3714.96,111.09,3.71,30606,32.76
 2020-08-21,South Carolina,Williamsburg,62.08,19,0,0.0,1127,34,3.02,3682.28,111.09,3.68,30606,32.76
 2020-08-20,South Carolina,Williamsburg,26.14,8,0,0.0,1108,34,3.07,3620.21,111.09,3.62,30606,32.76

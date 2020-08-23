@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Niedersachsen,Braunschweig,0.81,2,0,0.0,381,18,4.72,153.45,7.25,0.15,248292
 2020-08-20,Niedersachsen,Braunschweig,0.81,2,0,0.0,379,18,4.75,152.64,7.25,0.15,248292
 2020-08-19,Niedersachsen,Braunschweig,0.81,2,0,0.0,377,18,4.77,151.84,7.25,0.15,248292

@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-18,Schleswig-Holstein,Dithmarschen,0.75,1,0,0.0,146,4,2.74,109.6,3.0,0.11,133210
 2020-08-15,Schleswig-Holstein,Dithmarschen,3.75,5,0,0.0,145,4,2.76,108.85,3.0,0.11,133210
 2020-08-14,Schleswig-Holstein,Dithmarschen,1.5,2,0,0.0,140,4,2.86,105.1,3.0,0.11,133210

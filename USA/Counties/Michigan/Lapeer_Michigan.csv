@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Michigan,Lapeer,4.54,4,0,0.0,819,42,5.13,930.39,47.71,0.93,88028,136.56
 2020-08-21,Michigan,Lapeer,0.0,0,0,0.0,815,42,5.15,925.84,47.71,0.93,88028,136.56
 2020-08-20,Michigan,Lapeer,0.0,0,1,1.14,815,42,5.15,925.84,47.71,0.93,88028,136.56

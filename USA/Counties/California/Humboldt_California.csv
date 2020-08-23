@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,California,Humboldt,0.0,0,0,0.0,345,4,1.16,252.98,2.93,0.25,136373,38.22
 2020-08-21,California,Humboldt,2.2,3,0,0.0,345,4,1.16,252.98,2.93,0.25,136373,38.22
 2020-08-20,California,Humboldt,6.6,9,0,0.0,342,4,1.17,250.78,2.93,0.25,136373,38.22

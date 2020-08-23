@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Maryland,Wicomico,13.57,14,0,0.0,1442,46,3.19,1397.35,44.58,1.4,103195,275.61
 2020-08-21,Maryland,Wicomico,3.88,4,1,0.97,1428,46,3.22,1383.79,44.58,1.38,103195,275.61
 2020-08-20,Maryland,Wicomico,8.72,9,0,0.0,1424,45,3.16,1379.91,43.61,1.38,103195,275.61

@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Virginia,Orange,2.73,1,0,0.0,244,3,1.23,665.87,8.19,0.67,36644,107.43
 2020-08-21,Virginia,Orange,0.0,0,0,0.0,243,3,1.23,663.14,8.19,0.66,36644,107.43
 2020-08-20,Virginia,Orange,0.0,0,0,0.0,243,3,1.23,663.14,8.19,0.66,36644,107.43

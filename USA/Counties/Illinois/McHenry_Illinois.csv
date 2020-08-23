@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Illinois,McHenry,0.0,0,0,0.0,3591,115,3.2,1163.76,37.27,1.16,308570,511.38
 2020-08-21,Illinois,McHenry,10.05,31,0,0.0,3591,115,3.2,1163.76,37.27,1.16,308570,511.38
 2020-08-20,Illinois,McHenry,9.4,29,0,0.0,3560,115,3.23,1153.71,37.27,1.15,308570,511.38

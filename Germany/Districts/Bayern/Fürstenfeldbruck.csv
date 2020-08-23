@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Bayern,Fürstenfeldbruck,0.46,1,0,0.0,1032,36,3.49,470.55,16.41,0.47,219320
 2020-08-20,Bayern,Fürstenfeldbruck,2.28,5,0,0.0,1031,36,3.49,470.09,16.41,0.47,219320
 2020-08-19,Bayern,Fürstenfeldbruck,1.82,4,0,0.0,1026,36,3.51,467.81,16.41,0.47,219320

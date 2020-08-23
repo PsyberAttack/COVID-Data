@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Texas,Williamson,0.0,0,0,0.0,7867,113,1.44,1388.17,19.94,1.39,566719,506.75
 2020-08-21,Texas,Williamson,7.06,40,0,0.0,7867,113,1.44,1388.17,19.94,1.39,566719,506.75
 2020-08-20,Texas,Williamson,4.23,24,3,0.53,7827,113,1.44,1381.11,19.94,1.38,566719,506.75

@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Ohio,Warren,9.91,23,0,0.0,2090,41,1.96,900.19,17.66,0.9,232173,578.63
 2020-08-21,Ohio,Warren,14.21,33,0,0.0,2067,41,1.98,890.28,17.66,0.89,232173,578.63
 2020-08-20,Ohio,Warren,10.77,25,1,0.43,2034,41,2.02,876.07,17.66,0.88,232173,578.63

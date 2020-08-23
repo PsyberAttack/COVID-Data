@@ -1,4 +1,4 @@
-date,state,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Maryland,9.58,579,11,0.18,104040,3685,3.54,1721.74,60.98,1.72,6042718,622.26
 2020-08-21,Maryland,11.22,678,5,0.08,103461,3674,3.55,1712.16,60.8,1.71,6042718,622.26
 2020-08-20,Maryland,9.4,568,8,0.13,102783,3669,3.57,1700.94,60.72,1.7,6042718,622.26

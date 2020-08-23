@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Illinois,St. Clair,34.86,91,2,0.77,5296,172,3.25,2028.66,65.89,2.03,261059,396.91
 2020-08-21,Illinois,St. Clair,26.05,68,4,1.53,5205,170,3.27,1993.8,65.12,1.99,261059,396.91
 2020-08-20,Illinois,St. Clair,22.98,60,1,0.38,5137,166,3.23,1967.75,63.59,1.97,261059,396.91

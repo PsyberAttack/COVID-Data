@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Texas,Pecos,12.76,2,0,0.0,272,2,0.74,1735.47,12.76,1.74,15673,3.29
 2020-08-21,Texas,Pecos,12.76,2,0,0.0,270,2,0.74,1722.71,12.76,1.72,15673,3.29
 2020-08-20,Texas,Pecos,6.38,1,0,0.0,268,2,0.75,1709.95,12.76,1.71,15673,3.29

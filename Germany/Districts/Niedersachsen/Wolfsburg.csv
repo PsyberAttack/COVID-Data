@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-19,Niedersachsen,Wolfsburg,3.22,4,0,0.0,413,52,12.59,332.66,41.88,0.33,124151
 2020-08-18,Niedersachsen,Wolfsburg,4.83,6,0,0.0,409,52,12.71,329.44,41.88,0.33,124151
 2020-08-17,Niedersachsen,Wolfsburg,3.22,4,0,0.0,403,52,12.9,324.6,41.88,0.32,124151

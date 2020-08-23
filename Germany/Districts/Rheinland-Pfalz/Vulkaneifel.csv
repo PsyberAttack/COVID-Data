@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Rheinland-Pfalz,Vulkaneifel,1.65,1,0,0.0,132,5,3.79,217.81,8.25,0.22,60603
 2020-08-16,Rheinland-Pfalz,Vulkaneifel,1.65,1,0,0.0,131,5,3.82,216.16,8.25,0.22,60603
 2020-08-09,Rheinland-Pfalz,Vulkaneifel,1.65,1,0,0.0,130,5,3.85,214.51,8.25,0.21,60603

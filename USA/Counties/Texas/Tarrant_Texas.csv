@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Texas,Tarrant,10.94,228,10,0.48,39556,557,1.41,1897.23,26.72,1.9,2084931,2414.1
 2020-08-21,Texas,Tarrant,13.19,275,10,0.48,39328,547,1.39,1886.3,26.24,1.89,2084931,2414.1
 2020-08-20,Texas,Tarrant,11.08,231,9,0.43,39053,537,1.38,1873.11,25.76,1.87,2084931,2414.1

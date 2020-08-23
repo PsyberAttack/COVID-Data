@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-19,Bayern,Main-Spessart,0.79,1,0,0.0,179,6,3.35,141.65,4.75,0.14,126365
 2020-08-17,Bayern,Main-Spessart,0.79,1,0,0.0,178,6,3.37,140.86,4.75,0.14,126365
 2020-08-16,Bayern,Main-Spessart,1.58,2,0,0.0,177,6,3.39,140.07,4.75,0.14,126365

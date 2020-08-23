@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Virginia,Caroline,9.75,3,0,0.0,243,5,2.06,789.68,16.25,0.79,30772,58.32
 2020-08-21,Virginia,Caroline,16.25,5,0,0.0,240,5,2.08,779.93,16.25,0.78,30772,58.32
 2020-08-20,Virginia,Caroline,13.0,4,0,0.0,235,5,2.13,763.68,16.25,0.76,30772,58.32

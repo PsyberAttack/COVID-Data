@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Ohio,Ross,16.9,13,2,2.6,611,8,1.31,794.22,10.4,0.79,76931,111.63
 2020-08-21,Ohio,Ross,7.8,6,0,0.0,598,6,1.0,777.32,7.8,0.78,76931,111.63
 2020-08-20,Ohio,Ross,35.1,27,0,0.0,592,6,1.01,769.52,7.8,0.77,76931,111.63

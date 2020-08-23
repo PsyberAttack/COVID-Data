@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-22,Baden-Württemberg,Rastatt,0.43,1,0,0.0,600,17,2.83,259.72,7.36,0.26,231018
 2020-08-21,Baden-Württemberg,Rastatt,2.6,6,0,0.0,599,17,2.84,259.29,7.36,0.26,231018
 2020-08-20,Baden-Württemberg,Rastatt,3.03,7,0,0.0,593,17,2.87,256.69,7.36,0.26,231018

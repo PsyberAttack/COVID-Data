@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Kansas,Pratt,0.0,0,0,0.0,38,0,0.0,405.2,0.0,0.41,9378,12.76
 2020-08-21,Kansas,Pratt,31.99,3,0,0.0,38,0,0.0,405.2,0.0,0.41,9378,12.76
 2020-08-20,Kansas,Pratt,0.0,0,0,0.0,35,0,0.0,373.21,0.0,0.37,9378,12.76

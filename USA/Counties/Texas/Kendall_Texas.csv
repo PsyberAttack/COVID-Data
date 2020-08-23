@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Texas,Kendall,4.38,2,0,0.0,193,4,2.07,422.87,8.76,0.42,45641,68.9
 2020-08-21,Texas,Kendall,17.53,8,0,0.0,191,4,2.09,418.48,8.76,0.42,45641,68.9
 2020-08-20,Texas,Kendall,-6.57,-3,0,0.0,183,4,2.19,400.96,8.76,0.4,45641,68.9

@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Ohio,Wyandot,0.0,0,0,0.0,173,10,5.78,788.69,45.59,0.79,21935,53.91
 2020-08-21,Ohio,Wyandot,9.12,2,0,0.0,173,10,5.78,788.69,45.59,0.79,21935,53.91
 2020-08-20,Ohio,Wyandot,4.56,1,0,0.0,171,10,5.85,779.58,45.59,0.78,21935,53.91

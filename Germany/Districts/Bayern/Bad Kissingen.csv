@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-19,Bayern,Bad Kissingen,0.97,1,0,0.0,274,18,6.57,265.46,17.44,0.27,103218
 2020-08-17,Bayern,Bad Kissingen,1.94,2,0,0.0,273,18,6.59,264.49,17.44,0.26,103218
 2020-08-14,Bayern,Bad Kissingen,1.94,2,0,0.0,271,18,6.64,262.55,17.44,0.26,103218

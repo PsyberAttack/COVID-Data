@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Mississippi,Lincoln,11.69,4,0,0.0,917,46,5.02,2680.89,134.48,2.68,34205,58.36
 2020-08-21,Mississippi,Lincoln,29.24,10,0,0.0,913,46,5.04,2669.2,134.48,2.67,34205,58.36
 2020-08-20,Mississippi,Lincoln,20.46,7,0,0.0,903,46,5.09,2639.96,134.48,2.64,34205,58.36

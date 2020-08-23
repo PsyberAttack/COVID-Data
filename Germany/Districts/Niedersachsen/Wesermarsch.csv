@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-19,Niedersachsen,Wesermarsch,5.64,5,0,0.0,111,3,2.7,125.25,3.39,0.13,88624
 2020-08-18,Niedersachsen,Wesermarsch,2.26,2,1,1.13,106,3,2.83,119.61,3.39,0.12,88624
 2020-08-15,Niedersachsen,Wesermarsch,5.64,5,0,0.0,104,2,1.92,117.35,2.26,0.12,88624

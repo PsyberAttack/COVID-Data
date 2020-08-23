@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Bayern,Hof,1.05,1,0,0.0,652,36,5.52,684.08,37.77,0.68,95311
 2020-08-20,Bayern,Hof,6.53,3,0,0.0,651,36,5.53,1417.37,78.38,1.42,45930
 2020-08-20,Bayern,Hof,3.15,3,0,0.0,648,36,5.56,679.88,37.77,0.68,95311

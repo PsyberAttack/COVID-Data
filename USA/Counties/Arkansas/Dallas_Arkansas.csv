@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Arkansas,Dallas,27.85,2,0,0.0,88,2,2.27,1225.29,27.85,1.23,7182,10.76
 2020-08-21,Arkansas,Dallas,222.78,16,0,0.0,86,2,2.33,1197.44,27.85,1.2,7182,10.76
 2020-08-20,Arkansas,Dallas,0.0,0,0,0.0,70,2,2.86,974.66,27.85,0.97,7182,10.76

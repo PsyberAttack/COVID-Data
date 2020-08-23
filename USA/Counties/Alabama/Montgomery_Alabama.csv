@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Alabama,Montgomery,9.74,22,-1,-0.44,7561,158,2.09,3349.09,69.98,3.35,225763,287.49
 2020-08-21,Alabama,Montgomery,36.32,82,0,0.0,7539,159,2.11,3339.34,70.43,3.34,225763,287.49
 2020-08-20,Alabama,Montgomery,18.16,41,3,1.33,7457,159,2.13,3303.02,70.43,3.3,225763,287.49

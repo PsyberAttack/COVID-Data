@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Florida,Walton,19.61,14,2,2.8,1562,20,1.28,2188.44,28.02,2.19,71375,68.78
 2020-08-21,Florida,Walton,18.21,13,0,0.0,1548,18,1.16,2168.83,25.22,2.17,71375,68.78
 2020-08-20,Florida,Walton,12.61,9,0,0.0,1535,18,1.17,2150.61,25.22,2.15,71375,68.78

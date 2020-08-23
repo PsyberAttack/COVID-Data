@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Texas,Deaf Smith,0.0,0,0,0.0,888,19,2.14,4733.48,101.28,4.73,18760,12.53
 2020-08-21,Texas,Deaf Smith,37.31,7,0,0.0,888,19,2.14,4733.48,101.28,4.73,18760,12.53
 2020-08-20,Texas,Deaf Smith,63.97,12,0,0.0,881,19,2.16,4696.16,101.28,4.7,18760,12.53

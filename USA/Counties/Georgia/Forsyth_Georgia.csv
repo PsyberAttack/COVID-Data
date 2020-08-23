@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Georgia,Forsyth,18.17,43,0,0.0,2797,31,1.11,1182.1,13.1,1.18,236612,1053.71
 2020-08-21,Georgia,Forsyth,18.6,44,0,0.0,2754,31,1.13,1163.93,13.1,1.16,236612,1053.71
 2020-08-20,Georgia,Forsyth,12.26,29,2,0.85,2710,31,1.14,1145.33,13.1,1.15,236612,1053.71

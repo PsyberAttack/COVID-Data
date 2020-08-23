@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Bayern,Coburg,2.42,1,0,0.0,555,32,5.77,1345.49,77.58,1.35,41249
 2020-08-19,Bayern,Coburg,1.15,1,0,0.0,554,32,5.78,637.47,36.82,0.64,86906
 2020-08-18,Bayern,Coburg,2.3,2,0,0.0,553,32,5.79,636.32,36.82,0.64,86906

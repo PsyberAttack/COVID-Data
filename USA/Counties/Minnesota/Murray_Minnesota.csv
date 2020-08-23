@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Minnesota,Murray,24.17,2,0,0.0,135,1,0.74,1631.22,12.08,1.63,8276,11.74
 2020-08-21,Minnesota,Murray,12.08,1,0,0.0,133,1,0.75,1607.06,12.08,1.61,8276,11.74
 2020-08-20,Minnesota,Murray,12.08,1,0,0.0,132,1,0.76,1594.97,12.08,1.59,8276,11.74

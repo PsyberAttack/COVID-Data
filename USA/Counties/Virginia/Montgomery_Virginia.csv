@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Virginia,Montgomery,9.09,9,0,0.0,362,3,0.83,365.71,3.03,0.37,98985,255.88
 2020-08-21,Virginia,Montgomery,12.12,12,0,0.0,353,3,0.85,356.62,3.03,0.36,98985,255.88
 2020-08-20,Virginia,Montgomery,4.04,4,0,0.0,341,3,0.88,344.5,3.03,0.34,98985,255.88

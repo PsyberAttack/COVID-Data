@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Indiana,Whitley,8.8,3,0,0.0,185,6,3.24,542.94,17.61,0.54,34074,101.54
 2020-08-21,Indiana,Whitley,14.67,5,0,0.0,182,6,3.3,534.13,17.61,0.53,34074,101.54
 2020-08-20,Indiana,Whitley,14.67,5,0,0.0,177,6,3.39,519.46,17.61,0.52,34074,101.54

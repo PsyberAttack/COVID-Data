@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Niedersachsen,Emsland,0.31,1,0,0.0,553,25,4.52,169.81,7.68,0.17,325657
 2020-08-20,Niedersachsen,Emsland,0.31,1,0,0.0,552,25,4.53,169.5,7.68,0.17,325657
 2020-08-19,Niedersachsen,Emsland,0.61,2,0,0.0,551,25,4.54,169.2,7.68,0.17,325657

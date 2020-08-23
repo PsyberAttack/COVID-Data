@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Missouri,St. Charles,18.29,73,0,0.0,5159,105,2.04,1292.39,26.3,1.29,399182,712.22
 2020-08-21,Missouri,St. Charles,9.27,37,0,0.0,5086,105,2.06,1274.11,26.3,1.27,399182,712.22
 2020-08-20,Missouri,St. Charles,22.05,88,0,0.0,5049,105,2.08,1264.84,26.3,1.26,399182,712.22

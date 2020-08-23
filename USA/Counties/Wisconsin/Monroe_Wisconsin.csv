@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Wisconsin,Monroe,8.69,4,0,0.0,265,2,0.75,575.45,4.34,0.58,46051,51.12
 2020-08-21,Wisconsin,Monroe,15.2,7,0,0.0,261,2,0.77,566.76,4.34,0.57,46051,51.12
 2020-08-20,Wisconsin,Monroe,0.0,0,0,0.0,254,2,0.79,551.56,4.34,0.55,46051,51.12

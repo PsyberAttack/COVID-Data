@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,South Carolina,Sumter,7.51,8,0,0.0,2717,59,2.17,2550.89,55.39,2.55,106512,160.15
 2020-08-21,South Carolina,Sumter,10.33,11,0,0.0,2709,59,2.18,2543.38,55.39,2.54,106512,160.15
 2020-08-20,South Carolina,Sumter,29.1,31,2,1.88,2698,59,2.19,2533.05,55.39,2.53,106512,160.15

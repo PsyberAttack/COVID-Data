@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Minnesota,Lyon,19.51,5,0,0.0,442,3,0.68,1724.61,11.71,1.72,25629,35.87
 2020-08-21,Minnesota,Lyon,3.9,1,0,0.0,437,3,0.69,1705.1,11.71,1.71,25629,35.87
 2020-08-20,Minnesota,Lyon,7.8,2,0,0.0,436,3,0.69,1701.2,11.71,1.7,25629,35.87

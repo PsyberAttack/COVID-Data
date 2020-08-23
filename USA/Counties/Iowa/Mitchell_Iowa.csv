@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Iowa,Mitchell,37.85,4,0,0.0,92,0,0.0,870.47,0.0,0.87,10569,22.53
 2020-08-21,Iowa,Mitchell,18.92,2,0,0.0,88,0,0.0,832.62,0.0,0.83,10569,22.53
 2020-08-20,Iowa,Mitchell,9.46,1,0,0.0,86,0,0.0,813.7,0.0,0.81,10569,22.53

@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Georgia,Bibb,67.28,103,3,1.96,4496,98,2.18,2936.74,64.01,2.94,153095,613.86
 2020-08-21,Georgia,Bibb,25.47,39,7,4.57,4393,95,2.16,2869.46,62.05,2.87,153095,613.86
 2020-08-20,Georgia,Bibb,26.13,40,2,1.31,4354,88,2.02,2843.99,57.48,2.84,153095,613.86

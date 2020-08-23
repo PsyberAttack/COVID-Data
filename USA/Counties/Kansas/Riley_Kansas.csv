@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Kansas,Riley,0.0,0,0,0.0,577,5,0.87,782.87,6.78,0.78,73703,120.88
 2020-08-21,Kansas,Riley,44.77,33,0,0.0,577,5,0.87,782.87,6.78,0.78,73703,120.88
 2020-08-20,Kansas,Riley,0.0,0,0,0.0,544,5,0.92,738.1,6.78,0.74,73703,120.88

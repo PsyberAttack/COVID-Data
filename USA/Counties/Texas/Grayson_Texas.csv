@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Texas,Grayson,0.0,0,0,0.0,1353,18,1.33,1009.77,13.43,1.01,133991,143.64
 2020-08-21,Texas,Grayson,6.72,9,1,0.75,1353,18,1.33,1009.77,13.43,1.01,133991,143.64
 2020-08-20,Texas,Grayson,16.42,22,0,0.0,1344,17,1.26,1003.05,12.69,1.0,133991,143.64

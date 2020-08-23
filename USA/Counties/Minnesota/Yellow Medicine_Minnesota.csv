@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Minnesota,Yellow Medicine,10.21,1,0,0.0,60,0,0.0,612.56,0.0,0.61,9795,12.9
 2020-08-21,Minnesota,Yellow Medicine,20.42,2,0,0.0,59,0,0.0,602.35,0.0,0.6,9795,12.9
 2020-08-20,Minnesota,Yellow Medicine,10.21,1,0,0.0,57,0,0.0,581.93,0.0,0.58,9795,12.9

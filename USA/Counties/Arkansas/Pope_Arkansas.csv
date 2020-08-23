@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Arkansas,Pope,39.06,25,0,0.0,1580,14,0.89,2468.75,21.88,2.47,64000,78.77
 2020-08-21,Arkansas,Pope,54.69,35,0,0.0,1555,14,0.9,2429.69,21.88,2.43,64000,78.77
 2020-08-20,Arkansas,Pope,32.81,21,0,0.0,1520,14,0.92,2375.0,21.88,2.38,64000,78.77

@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Florida,Okaloosa,20.75,43,1,0.48,3920,71,1.81,1891.26,34.26,1.89,207269,222.81
 2020-08-21,Florida,Okaloosa,14.96,31,3,1.45,3877,70,1.81,1870.52,33.77,1.87,207269,222.81
 2020-08-20,Florida,Okaloosa,21.23,44,3,1.45,3846,67,1.74,1855.56,32.33,1.86,207269,222.81

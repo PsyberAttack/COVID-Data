@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Tennessee,Bradley,28.11,30,0,0.0,2306,16,0.69,2160.65,14.99,2.16,106727,324.63
 2020-08-21,Tennessee,Bradley,27.17,29,0,0.0,2276,16,0.7,2132.54,14.99,2.13,106727,324.63
 2020-08-20,Tennessee,Bradley,14.05,15,0,0.0,2247,16,0.71,2105.37,14.99,2.11,106727,324.63

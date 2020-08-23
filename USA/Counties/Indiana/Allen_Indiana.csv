@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Indiana,Allen,17.05,64,0,0.0,4552,182,4.0,1212.73,48.49,1.21,375351,571.03
 2020-08-21,Indiana,Allen,10.92,41,1,0.27,4488,182,4.06,1195.68,48.49,1.2,375351,571.03
 2020-08-20,Indiana,Allen,13.59,51,0,0.0,4447,181,4.07,1184.76,48.22,1.18,375351,571.03

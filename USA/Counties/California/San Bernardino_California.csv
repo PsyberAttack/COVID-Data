@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,California,San Bernardino,30.39,660,62,2.86,44603,691,1.55,2053.92,31.82,2.05,2171603,108.26
 2020-08-21,California,San Bernardino,21.83,474,4,0.18,43943,629,1.43,2023.53,28.96,2.02,2171603,108.26
 2020-08-20,California,San Bernardino,24.04,522,4,0.18,43469,625,1.44,2001.7,28.78,2.0,2171603,108.26

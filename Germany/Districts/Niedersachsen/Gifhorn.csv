@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Niedersachsen,Gifhorn,0.57,1,0,0.0,188,4,2.13,106.87,2.27,0.11,175920
 2020-08-19,Niedersachsen,Gifhorn,1.71,3,0,0.0,187,4,2.14,106.3,2.27,0.11,175920
 2020-08-18,Niedersachsen,Gifhorn,2.27,4,0,0.0,184,4,2.17,104.59,2.27,0.1,175920

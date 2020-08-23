@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Texas,Wilson,7.96,4,1,1.99,524,24,4.58,1043.33,47.79,1.04,50224,62.49
 2020-08-21,Texas,Wilson,11.95,6,1,1.99,520,23,4.42,1035.36,45.79,1.04,50224,62.49
 2020-08-20,Texas,Wilson,13.94,7,1,1.99,514,22,4.28,1023.42,43.8,1.02,50224,62.49

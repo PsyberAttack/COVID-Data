@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Louisiana,Evangeline,0.0,0,0,0.0,995,20,2.01,2975.21,59.8,2.98,33443,50.49
 2020-08-21,Louisiana,Evangeline,8.97,3,3,8.97,995,20,2.01,2975.21,59.8,2.98,33443,50.49
 2020-08-20,Louisiana,Evangeline,41.86,14,0,0.0,992,17,1.71,2966.24,50.83,2.97,33443,50.49

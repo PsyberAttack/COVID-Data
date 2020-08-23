@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,California,Glenn,14.26,4,0,0.0,418,3,0.72,1490.36,10.7,1.49,28047,21.35
 2020-08-21,California,Glenn,0.0,0,0,0.0,414,3,0.72,1476.09,10.7,1.48,28047,21.35
 2020-08-20,California,Glenn,42.79,12,0,0.0,414,3,0.72,1476.09,10.7,1.48,28047,21.35

@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Indiana,Morgan,8.56,6,0,0.0,547,38,6.95,780.14,54.2,0.78,70116,173.62
 2020-08-21,Indiana,Morgan,2.85,2,0,0.0,541,38,7.02,771.58,54.2,0.77,70116,173.62
 2020-08-20,Indiana,Morgan,8.56,6,0,0.0,539,38,7.05,768.73,54.2,0.77,70116,173.62

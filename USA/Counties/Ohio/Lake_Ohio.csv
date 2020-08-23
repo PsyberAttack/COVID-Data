@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Ohio,Lake,3.47,8,0,0.0,1233,44,3.57,534.89,19.09,0.53,230514,1005.42
 2020-08-21,Ohio,Lake,3.9,9,-1,-0.43,1225,44,3.59,531.42,19.09,0.53,230514,1005.42
 2020-08-20,Ohio,Lake,4.77,11,0,0.0,1216,45,3.7,527.52,19.52,0.53,230514,1005.42

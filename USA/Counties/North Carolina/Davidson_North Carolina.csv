@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,North Carolina,Davidson,6.0,10,0,0.0,2002,31,1.55,1201.58,18.61,1.2,166614,301.2
 2020-08-21,North Carolina,Davidson,16.21,27,0,0.0,1992,31,1.56,1195.58,18.61,1.2,166614,301.2
 2020-08-20,North Carolina,Davidson,19.21,32,1,0.6,1965,31,1.58,1179.37,18.61,1.18,166614,301.2

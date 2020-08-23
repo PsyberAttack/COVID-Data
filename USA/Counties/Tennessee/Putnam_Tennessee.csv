@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Tennessee,Putnam,43.12,34,0,0.0,2121,23,1.08,2690.16,29.17,2.69,78843,196.56
 2020-08-21,Tennessee,Putnam,31.71,25,1,1.27,2087,23,1.1,2647.03,29.17,2.65,78843,196.56
 2020-08-20,Tennessee,Putnam,68.49,54,0,0.0,2062,22,1.07,2615.32,27.9,2.62,78843,196.56

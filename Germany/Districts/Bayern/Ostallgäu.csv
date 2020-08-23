@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Bayern,Ostallgäu,0.71,1,0,0.0,557,39,7.0,396.96,27.79,0.4,140316
 2020-08-19,Bayern,Ostallgäu,2.14,3,0,0.0,556,39,7.01,396.25,27.79,0.4,140316
 2020-08-18,Bayern,Ostallgäu,1.43,2,0,0.0,553,39,7.05,394.11,27.79,0.39,140316

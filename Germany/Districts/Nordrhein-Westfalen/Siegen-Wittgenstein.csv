@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-19,Nordrhein-Westfalen,Siegen-Wittgenstein,1.8,5,0,0.0,508,8,1.57,182.6,2.88,0.18,278210
 2020-08-18,Nordrhein-Westfalen,Siegen-Wittgenstein,1.44,4,0,0.0,503,8,1.59,180.8,2.88,0.18,278210
 2020-08-17,Nordrhein-Westfalen,Siegen-Wittgenstein,2.52,7,0,0.0,499,8,1.6,179.36,2.88,0.18,278210

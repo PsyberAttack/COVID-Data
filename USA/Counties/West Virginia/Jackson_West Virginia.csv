@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,West Virginia,Jackson,20.9,6,0,0.0,188,19,10.11,654.92,66.19,0.65,28706,61.82
 2020-08-21,West Virginia,Jackson,13.93,4,0,0.0,182,19,10.44,634.01,66.19,0.63,28706,61.82
 2020-08-20,West Virginia,Jackson,20.9,6,0,0.0,178,19,10.67,620.08,66.19,0.62,28706,61.82

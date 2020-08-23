@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-20,Niedersachsen,Delmenhorst,1.29,1,0,0.0,140,4,2.86,180.4,5.15,0.18,77607
 2020-08-17,Niedersachsen,Delmenhorst,3.87,3,0,0.0,139,4,2.88,179.11,5.15,0.18,77607
 2020-08-16,Niedersachsen,Delmenhorst,1.29,1,0,0.0,136,4,2.94,175.24,5.15,0.18,77607

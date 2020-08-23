@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-03,Thüringen,Eisenach,2.36,1,0,0.0,36,4,11.11,84.97,9.44,0.08,42370
 2020-07-30,Thüringen,Eisenach,2.36,1,0,0.0,35,4,11.43,82.61,9.44,0.08,42370
 2020-07-25,Thüringen,Eisenach,2.36,1,1,2.36,34,4,11.76,80.25,9.44,0.08,42370

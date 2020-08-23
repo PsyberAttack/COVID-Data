@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Oklahoma,Hughes,7.5,1,0,0.0,192,3,1.56,1439.82,22.5,1.44,13335,16.57
 2020-08-21,Oklahoma,Hughes,44.99,6,0,0.0,191,3,1.57,1432.32,22.5,1.43,13335,16.57
 2020-08-20,Oklahoma,Hughes,7.5,1,0,0.0,185,3,1.62,1387.33,22.5,1.39,13335,16.57

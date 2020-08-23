@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-19,Niedersachsen,Wittmund,3.52,2,0,0.0,46,0,0.0,80.87,0.0,0.08,56882
 2020-08-14,Niedersachsen,Wittmund,1.76,1,0,0.0,44,0,0.0,77.35,0.0,0.08,56882
 2020-08-03,Niedersachsen,Wittmund,1.76,1,0,0.0,43,0,0.0,75.6,0.0,0.08,56882

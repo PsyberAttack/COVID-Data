@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Virginia,Fauquier,15.56,11,0,0.0,678,9,1.33,959.32,12.73,0.96,70675,109.07
 2020-08-21,Virginia,Fauquier,12.73,9,0,0.0,667,9,1.35,943.76,12.73,0.94,70675,109.07
 2020-08-20,Virginia,Fauquier,7.07,5,0,0.0,658,9,1.37,931.02,12.73,0.93,70675,109.07

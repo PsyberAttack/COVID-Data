@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Minnesota,Pipestone,22.11,2,0,0.0,172,9,5.23,1901.18,99.48,1.9,9047,19.45
 2020-08-21,Minnesota,Pipestone,44.21,4,0,0.0,170,9,5.29,1879.08,99.48,1.88,9047,19.45
 2020-08-20,Minnesota,Pipestone,11.05,1,0,0.0,166,9,5.42,1834.86,99.48,1.83,9047,19.45

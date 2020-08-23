@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Georgia,Gwinnett,22.1,205,2,0.22,22991,304,1.32,2478.06,32.77,2.48,927781,2154.86
 2020-08-21,Georgia,Gwinnett,35.68,331,7,0.75,22786,302,1.33,2455.97,32.55,2.46,927781,2154.86
 2020-08-20,Georgia,Gwinnett,27.92,259,0,0.0,22455,295,1.31,2420.29,31.8,2.42,927781,2154.86

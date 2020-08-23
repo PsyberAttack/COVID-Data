@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Indiana,Fayette,30.37,7,0,0.0,355,8,2.25,1540.33,34.71,1.54,23047,107.18
 2020-08-21,Indiana,Fayette,26.03,6,0,0.0,348,8,2.3,1509.96,34.71,1.51,23047,107.18
 2020-08-20,Indiana,Fayette,52.07,12,0,0.0,342,8,2.34,1483.92,34.71,1.48,23047,107.18

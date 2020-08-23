@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,North Carolina,Harnett,13.41,18,1,0.75,1488,43,2.89,1108.68,32.04,1.11,134214,225.56
 2020-08-21,North Carolina,Harnett,5.22,7,1,0.75,1470,42,2.86,1095.27,31.29,1.1,134214,225.56
 2020-08-20,North Carolina,Harnett,11.92,16,0,0.0,1463,41,2.8,1090.05,30.55,1.09,134214,225.56

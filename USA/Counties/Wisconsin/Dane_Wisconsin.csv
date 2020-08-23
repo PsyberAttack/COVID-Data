@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Wisconsin,Dane,10.14,55,0,0.0,5053,39,0.77,931.66,7.19,0.93,542364,453.29
 2020-08-21,Wisconsin,Dane,0.18,1,0,0.0,4998,39,0.78,921.52,7.19,0.92,542364,453.29
 2020-08-20,Wisconsin,Dane,13.46,73,0,0.0,4997,39,0.78,921.34,7.19,0.92,542364,453.29

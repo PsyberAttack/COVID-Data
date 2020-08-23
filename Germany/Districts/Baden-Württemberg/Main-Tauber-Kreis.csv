@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-18,Baden-Württemberg,Main-Tauber-Kreis,1.51,2,0,0.0,496,11,2.22,374.63,8.31,0.37,132399
 2020-08-16,Baden-Württemberg,Main-Tauber-Kreis,2.27,3,0,0.0,494,11,2.23,373.11,8.31,0.37,132399
 2020-08-15,Baden-Württemberg,Main-Tauber-Kreis,0.76,1,0,0.0,491,11,2.24,370.85,8.31,0.37,132399

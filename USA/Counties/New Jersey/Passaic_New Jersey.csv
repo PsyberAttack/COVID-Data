@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,New Jersey,Passaic,11.72,59,0,0.0,18291,1246,6.81,3634.14,247.56,3.63,503310,2705.8
 2020-08-21,New Jersey,Passaic,5.36,27,2,0.4,18232,1246,6.83,3622.42,247.56,3.62,503310,2705.8
 2020-08-20,New Jersey,Passaic,3.78,19,-1,-0.2,18205,1244,6.83,3617.06,247.16,3.62,503310,2705.8

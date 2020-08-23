@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Illinois,Washington,35.73,5,0,0.0,87,1,1.15,621.65,7.15,0.62,13995,24.88
 2020-08-21,Illinois,Washington,14.29,2,0,0.0,82,1,1.22,585.92,7.15,0.59,13995,24.88
 2020-08-20,Illinois,Washington,14.29,2,0,0.0,80,1,1.25,571.63,7.15,0.57,13995,24.88

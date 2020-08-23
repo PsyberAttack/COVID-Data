@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Indiana,Brown,0.0,0,0,0.0,82,2,2.44,538.27,13.13,0.54,15234,48.83
 2020-08-21,Indiana,Brown,6.56,1,0,0.0,82,2,2.44,538.27,13.13,0.54,15234,48.83
 2020-08-20,Indiana,Brown,0.0,0,0,0.0,81,2,2.47,531.71,13.13,0.53,15234,48.83

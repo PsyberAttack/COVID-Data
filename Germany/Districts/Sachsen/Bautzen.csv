@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-22,Sachsen,Bautzen,0.66,2,0,0.0,511,21,4.11,169.84,6.98,0.17,300880
 2020-08-12,Sachsen,Bautzen,0.33,1,0,0.0,509,21,4.13,169.17,6.98,0.17,300880
 2020-08-10,Sachsen,Bautzen,0.33,1,0,0.0,508,21,4.13,168.84,6.98,0.17,300880

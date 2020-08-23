@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Illinois,Alexander,0.0,0,0,0.0,40,0,0.0,660.07,0.0,0.66,6060,25.73
 2020-08-21,Illinois,Alexander,0.0,0,0,0.0,40,0,0.0,660.07,0.0,0.66,6060,25.73
 2020-08-20,Illinois,Alexander,0.0,0,0,0.0,40,0,0.0,660.07,0.0,0.66,6060,25.73

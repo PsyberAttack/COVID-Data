@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Arkansas,Jackson,65.43,11,0,0.0,171,1,0.58,1017.19,5.95,1.02,16811,26.52
 2020-08-21,Arkansas,Jackson,29.74,5,0,0.0,160,1,0.62,951.76,5.95,0.95,16811,26.52
 2020-08-20,Arkansas,Jackson,11.9,2,0,0.0,155,1,0.65,922.02,5.95,0.92,16811,26.52

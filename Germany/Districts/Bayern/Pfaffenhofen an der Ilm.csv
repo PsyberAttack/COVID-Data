@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Bayern,Pfaffenhofen an der Ilm,1.57,2,0,0.0,411,21,5.11,323.24,16.52,0.32,127151
 2020-08-20,Bayern,Pfaffenhofen an der Ilm,2.36,3,0,0.0,409,21,5.13,321.66,16.52,0.32,127151
 2020-08-18,Bayern,Pfaffenhofen an der Ilm,3.15,4,0,0.0,406,21,5.17,319.31,16.52,0.32,127151

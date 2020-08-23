@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,North Carolina,Clay,8.98,1,0,0.0,82,1,1.22,736.15,8.98,0.74,11139,51.81
 2020-08-21,North Carolina,Clay,8.98,1,0,0.0,81,1,1.23,727.17,8.98,0.73,11139,51.81
 2020-08-20,North Carolina,Clay,26.93,3,0,0.0,80,1,1.25,718.2,8.98,0.72,11139,51.81

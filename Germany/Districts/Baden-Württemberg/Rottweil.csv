@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Baden-Württemberg,Rottweil,2.15,3,0,0.0,706,26,3.68,506.26,18.64,0.51,139455
 2020-08-19,Baden-Württemberg,Rottweil,2.15,3,0,0.0,703,26,3.7,504.11,18.64,0.5,139455
 2020-08-18,Baden-Württemberg,Rottweil,2.87,4,0,0.0,700,26,3.71,501.95,18.64,0.5,139455

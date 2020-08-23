@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Colorado,Denver,7.4,53,0,0.0,10842,426,3.93,1513.21,59.46,1.51,716492,4674.03
 2020-08-21,Colorado,Denver,7.96,57,0,0.0,10789,426,3.95,1505.81,59.46,1.51,716492,4674.03
 2020-08-20,Colorado,Denver,5.72,41,0,0.0,10732,426,3.97,1497.85,59.46,1.5,716492,4674.03

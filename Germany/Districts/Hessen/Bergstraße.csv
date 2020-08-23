@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Hessen,Bergstraße,0.37,1,0,0.0,473,3,0.63,175.38,1.11,0.18,269694
 2020-08-19,Hessen,Bergstraße,1.11,3,0,0.0,472,3,0.64,175.01,1.11,0.18,269694
 2020-08-18,Hessen,Bergstraße,2.22,6,0,0.0,469,3,0.64,173.9,1.11,0.17,269694

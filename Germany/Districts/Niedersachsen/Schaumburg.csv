@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-19,Niedersachsen,Schaumburg,0.63,1,0,0.0,214,7,3.27,135.63,4.44,0.14,157781
 2020-08-18,Niedersachsen,Schaumburg,3.8,6,0,0.0,213,7,3.29,135.0,4.44,0.13,157781
 2020-08-15,Niedersachsen,Schaumburg,1.27,2,0,0.0,207,7,3.38,131.19,4.44,0.13,157781

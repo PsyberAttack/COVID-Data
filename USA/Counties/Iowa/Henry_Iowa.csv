@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Iowa,Henry,24.92,5,0,0.0,202,4,1.98,1006.63,19.93,1.01,20067,46.21
 2020-08-21,Iowa,Henry,34.88,7,0,0.0,197,4,2.03,981.71,19.93,0.98,20067,46.21
 2020-08-20,Iowa,Henry,59.8,12,0,0.0,190,4,2.11,946.83,19.93,0.95,20067,46.21

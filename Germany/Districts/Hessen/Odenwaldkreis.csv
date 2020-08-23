@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Hessen,Odenwaldkreis,1.03,1,0,0.0,463,63,13.61,478.79,65.15,0.48,96703
 2020-08-20,Hessen,Odenwaldkreis,1.03,1,0,0.0,462,63,13.64,477.75,65.15,0.48,96703
 2020-08-17,Hessen,Odenwaldkreis,2.07,2,0,0.0,461,63,13.67,476.72,65.15,0.48,96703

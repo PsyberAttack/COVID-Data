@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Texas,Jim Wells,24.5,10,2,4.9,916,23,2.51,2243.89,56.34,2.24,40822,47.18
 2020-08-21,Texas,Jim Wells,17.15,7,1,2.45,906,21,2.32,2219.39,51.44,2.22,40822,47.18
 2020-08-20,Texas,Jim Wells,48.99,20,1,2.45,899,20,2.22,2202.24,48.99,2.2,40822,47.18

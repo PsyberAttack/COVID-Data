@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Pennsylvania,Schuylkill,4.93,7,0,0.0,970,51,5.26,682.78,35.9,0.68,142067,182.46
 2020-08-21,Pennsylvania,Schuylkill,0.7,1,0,0.0,963,51,5.3,677.85,35.9,0.68,142067,182.46
 2020-08-20,Pennsylvania,Schuylkill,3.52,5,0,0.0,962,51,5.3,677.15,35.9,0.68,142067,182.46

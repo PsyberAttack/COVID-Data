@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Pennsylvania,York,10.71,48,2,0.45,3086,114,3.69,688.42,25.43,0.69,448273,495.76
 2020-08-21,Pennsylvania,York,6.02,27,1,0.22,3038,112,3.69,677.71,24.98,0.68,448273,495.76
 2020-08-20,Pennsylvania,York,10.04,45,1,0.22,3011,111,3.69,671.69,24.76,0.67,448273,495.76

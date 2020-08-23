@@ -1,4 +1,4 @@
-date,state,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Florida,20.24,4311,106,0.5,597589,10273,1.72,2805.67,48.23,2.81,21299325,397.02
 2020-08-21,Florida,21.99,4684,119,0.56,593278,10167,1.71,2785.43,47.73,2.79,21299325,397.02
 2020-08-20,Florida,21.39,4555,117,0.55,588594,10048,1.71,2763.44,47.18,2.76,21299325,397.02

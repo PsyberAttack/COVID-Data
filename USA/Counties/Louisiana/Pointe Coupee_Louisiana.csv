@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Louisiana,Pointe Coupee,0.0,0,0,0.0,874,36,4.12,3983.59,164.08,3.98,21940,39.37
 2020-08-21,Louisiana,Pointe Coupee,27.35,6,2,9.12,874,36,4.12,3983.59,164.08,3.98,21940,39.37
 2020-08-20,Louisiana,Pointe Coupee,31.91,7,0,0.0,868,34,3.92,3956.24,154.97,3.96,21940,39.37

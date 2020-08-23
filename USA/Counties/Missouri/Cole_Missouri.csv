@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Missouri,Cole,15.63,12,0,0.0,702,3,0.43,914.11,3.91,0.91,76796,196.15
 2020-08-21,Missouri,Cole,48.18,37,0,0.0,690,3,0.43,898.48,3.91,0.9,76796,196.15
 2020-08-20,Missouri,Cole,24.74,19,0,0.0,653,3,0.46,850.3,3.91,0.85,76796,196.15

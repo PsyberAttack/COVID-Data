@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Florida,Duval,14.52,138,0,0.0,25454,235,0.92,2678.86,24.73,2.68,950181,1245.43
 2020-08-21,Florida,Duval,20.94,199,3,0.32,25316,235,0.93,2664.33,24.73,2.66,950181,1245.43
 2020-08-20,Florida,Duval,15.89,151,0,0.0,25117,232,0.92,2643.39,24.42,2.64,950181,1245.43

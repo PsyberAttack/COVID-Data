@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Colorado,El Paso,2.94,21,1,0.14,5769,151,2.62,808.15,21.15,0.81,713856,335.64
 2020-08-21,Colorado,El Paso,4.06,29,0,0.0,5748,150,2.61,805.2,21.01,0.81,713856,335.64
 2020-08-20,Colorado,El Paso,14.29,102,5,0.7,5719,150,2.62,801.14,21.01,0.8,713856,335.64

@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Nebraska,Dundy,-56.5,-1,0,0.0,5,0,0.0,282.49,0.0,0.28,1770,1.92
 2020-08-21,Nebraska,Dundy,169.49,3,0,0.0,6,0,0.0,338.98,0.0,0.34,1770,1.92
 2020-08-20,Nebraska,Dundy,0.0,0,0,0.0,3,0,0.0,169.49,0.0,0.17,1770,1.92

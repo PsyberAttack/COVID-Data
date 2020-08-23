@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Georgia,Fayette,8.81,10,1,0.88,1404,35,2.49,1237.45,30.85,1.24,113459,583.72
 2020-08-21,Georgia,Fayette,5.29,6,0,0.0,1394,34,2.44,1228.64,29.97,1.23,113459,583.72
 2020-08-20,Georgia,Fayette,20.27,23,0,0.0,1388,34,2.45,1223.35,29.97,1.22,113459,583.72

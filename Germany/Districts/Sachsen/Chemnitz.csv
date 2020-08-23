@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-19,Sachsen,Chemnitz,0.81,2,0,0.0,241,6,2.49,97.48,2.43,0.1,247237
 2020-08-17,Sachsen,Chemnitz,0.4,1,0,0.0,239,6,2.51,96.67,2.43,0.1,247237
 2020-08-11,Sachsen,Chemnitz,0.81,2,0,0.0,238,6,2.52,96.26,2.43,0.1,247237

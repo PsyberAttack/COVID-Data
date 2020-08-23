@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Nordrhein-Westfalen,Solingen,4.39,7,0,0.0,451,12,2.66,283.01,7.53,0.28,159360
 2020-08-20,Nordrhein-Westfalen,Solingen,3.14,5,0,0.0,444,12,2.7,278.61,7.53,0.28,159360
 2020-08-19,Nordrhein-Westfalen,Solingen,0.63,1,0,0.0,439,12,2.73,275.48,7.53,0.28,159360

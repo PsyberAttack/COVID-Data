@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Maryland,Howard,4.33,14,-1,-0.31,4198,117,2.79,1298.9,36.2,1.3,323196,1287.92
 2020-08-21,Maryland,Howard,9.28,30,1,0.31,4184,118,2.82,1294.57,36.51,1.29,323196,1287.92
 2020-08-20,Maryland,Howard,7.12,23,0,0.0,4154,117,2.82,1285.29,36.2,1.29,323196,1287.92

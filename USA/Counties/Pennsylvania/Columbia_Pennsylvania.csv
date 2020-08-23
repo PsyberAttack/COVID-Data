@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Pennsylvania,Columbia,13.75,9,0,0.0,514,35,6.81,785.26,53.47,0.79,65456,135.49
 2020-08-21,Pennsylvania,Columbia,9.17,6,0,0.0,505,35,6.93,771.51,53.47,0.77,65456,135.49
 2020-08-20,Pennsylvania,Columbia,4.58,3,0,0.0,499,35,7.01,762.34,53.47,0.76,65456,135.49

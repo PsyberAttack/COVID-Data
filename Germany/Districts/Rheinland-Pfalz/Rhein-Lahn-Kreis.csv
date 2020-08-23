@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Rheinland-Pfalz,Rhein-Lahn-Kreis,0.82,1,0,0.0,181,6,3.31,148.0,4.91,0.15,122297
 2020-08-18,Rheinland-Pfalz,Rhein-Lahn-Kreis,0.82,1,0,0.0,180,6,3.33,147.18,4.91,0.15,122297
 2020-08-17,Rheinland-Pfalz,Rhein-Lahn-Kreis,0.82,1,0,0.0,179,6,3.35,146.36,4.91,0.15,122297

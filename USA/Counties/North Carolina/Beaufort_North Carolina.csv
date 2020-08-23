@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,North Carolina,Beaufort,25.49,12,0,0.0,491,9,1.83,1042.93,19.12,1.04,47079,56.59
 2020-08-21,North Carolina,Beaufort,19.12,9,0,0.0,479,9,1.88,1017.44,19.12,1.02,47079,56.59
 2020-08-20,North Carolina,Beaufort,10.62,5,6,12.74,470,9,1.91,998.32,19.12,1.0,47079,56.59

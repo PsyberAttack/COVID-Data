@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Ohio,Lawrence,5.01,3,0,0.0,390,6,1.54,651.45,10.02,0.65,59866,132.05
 2020-08-21,Ohio,Lawrence,11.69,7,0,0.0,387,6,1.55,646.44,10.02,0.65,59866,132.05
 2020-08-20,Ohio,Lawrence,21.72,13,0,0.0,380,6,1.58,634.75,10.02,0.63,59866,132.05

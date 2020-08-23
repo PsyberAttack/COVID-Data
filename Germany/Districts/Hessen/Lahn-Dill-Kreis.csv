@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Hessen,Lahn-Dill-Kreis,0.39,1,0,0.0,422,20,4.74,166.59,7.9,0.17,253319
 2020-08-19,Hessen,Lahn-Dill-Kreis,1.18,3,0,0.0,421,20,4.75,166.19,7.9,0.17,253319
 2020-08-18,Hessen,Lahn-Dill-Kreis,1.18,3,0,0.0,418,20,4.78,165.01,7.9,0.17,253319

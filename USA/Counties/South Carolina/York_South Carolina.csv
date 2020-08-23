@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,South Carolina,York,13.5,37,2,0.73,3972,39,0.98,1449.01,14.23,1.45,274118,402.72
 2020-08-21,South Carolina,York,15.69,43,5,1.82,3935,37,0.94,1435.51,13.5,1.44,274118,402.72
 2020-08-20,South Carolina,York,9.85,27,0,0.0,3892,32,0.82,1419.83,11.67,1.42,274118,402.72

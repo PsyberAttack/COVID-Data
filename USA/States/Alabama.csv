@@ -1,4 +1,4 @@
-date,state,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Alabama,18.41,900,15,0.31,114532,2011,1.76,2343.19,41.14,2.34,4887871,96.51
 2020-08-21,Alabama,24.2,1183,22,0.45,113632,1996,1.76,2324.77,40.84,2.32,4887871,96.51
 2020-08-20,Alabama,19.87,971,30,0.61,112449,1974,1.76,2300.57,40.39,2.3,4887871,96.51

@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-21,Brandenburg,Potsdam,0.56,1,0,0.0,663,51,7.69,372.29,28.64,0.37,178089
 2020-08-19,Brandenburg,Potsdam,0.56,1,0,0.0,662,51,7.7,371.72,28.64,0.37,178089
 2020-08-17,Brandenburg,Potsdam,1.12,2,0,0.0,661,51,7.72,371.16,28.64,0.37,178089

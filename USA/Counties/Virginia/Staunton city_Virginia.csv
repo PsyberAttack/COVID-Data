@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Virginia,Staunton city,8.03,2,0,0.0,164,0,0.0,658.05,0.0,0.66,24922,1251.07
 2020-08-21,Virginia,Staunton city,0.0,0,0,0.0,162,0,0.0,650.03,0.0,0.65,24922,1251.07
 2020-08-20,Virginia,Staunton city,4.01,1,0,0.0,162,0,0.0,650.03,0.0,0.65,24922,1251.07

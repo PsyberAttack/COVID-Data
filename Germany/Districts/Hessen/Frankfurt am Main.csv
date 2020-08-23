@@ -1,4 +1,4 @@
-date,state,district,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
+date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population
 2020-08-22,Hessen,Frankfurt am Main,0.53,4,0,0.0,2465,69,2.8,327.33,9.16,0.33,753056
 2020-08-21,Hessen,Frankfurt am Main,6.77,51,0,0.0,2461,69,2.8,326.8,9.16,0.33,753056
 2020-08-20,Hessen,Frankfurt am Main,3.98,30,0,0.0,2410,69,2.86,320.03,9.16,0.32,753056

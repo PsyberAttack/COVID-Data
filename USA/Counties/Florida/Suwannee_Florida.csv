@@ -1,4 +1,4 @@
-date,state,county,new_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
+date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density
 2020-08-22,Florida,Suwannee,13.58,6,0,0.0,2323,53,2.28,5256.73,119.93,5.26,44191,64.18
 2020-08-21,Florida,Suwannee,40.73,18,3,6.79,2317,53,2.29,5243.15,119.93,5.24,44191,64.18
 2020-08-20,Florida,Suwannee,11.31,5,0,0.0,2299,50,2.17,5202.42,113.15,5.2,44191,64.18
