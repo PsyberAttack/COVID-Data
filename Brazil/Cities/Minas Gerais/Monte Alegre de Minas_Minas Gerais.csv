@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-08-23,Minas Gerais,Monte Alegre de Minas,0.0,0,0,0.0,262,7,2.67,1240.53,33.14,1.24,21120,137.31,0.0,445.04,0.0
+2020-08-22,Minas Gerais,Monte Alegre de Minas,0.0,0,0,0.0,262,7,2.67,1240.53,33.14,1.24,21120,137.31,-4.73,445.04,-42.61
+2020-08-21,Minas Gerais,Monte Alegre de Minas,9.47,2,0,0.0,262,7,2.67,1240.53,33.14,1.24,21120,142.04,0.0,487.65,-14.2
+2020-08-20,Minas Gerais,Monte Alegre de Minas,42.61,9,0,0.0,260,7,2.69,1231.06,33.14,1.23,21120,142.04,9.47,501.85,14.2
 2020-08-19,Minas Gerais,Monte Alegre de Minas,47.35,10,0,0.0,251,7,2.79,1188.45,33.14,1.19,21120,132.57,9.47,487.65,37.88
 2020-08-18,Minas Gerais,Monte Alegre de Minas,0.0,0,0,0.0,241,7,2.9,1141.1,33.14,1.14,21120,123.1,-14.2,449.77,-23.67
 2020-08-17,Minas Gerais,Monte Alegre de Minas,37.88,8,0,0.0,241,7,2.9,1141.1,33.14,1.14,21120,137.3,37.88,473.44,23.68

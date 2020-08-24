@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-08-23,Minas Gerais,São João do Manhuaçu,0.0,0,0,0.0,47,4,8.51,406.61,34.61,0.41,11559,86.52,0.0,285.49,0.0
+2020-08-22,Minas Gerais,São João do Manhuaçu,0.0,0,0,0.0,47,4,8.51,406.61,34.61,0.41,11559,86.52,-8.65,285.49,-8.65
+2020-08-21,Minas Gerais,São João do Manhuaçu,0.0,0,2,17.3,47,4,8.51,406.61,34.61,0.41,11559,95.17,-17.3,294.14,0.0
+2020-08-20,Minas Gerais,São João do Manhuaçu,17.3,2,0,0.0,47,2,4.26,406.61,17.3,0.41,11559,112.47,8.65,294.14,-8.65
 2020-08-19,Minas Gerais,São João do Manhuaçu,34.61,4,0,0.0,45,2,4.44,389.31,17.3,0.39,11559,103.82,34.61,302.79,8.66
 2020-08-18,Minas Gerais,São João do Manhuaçu,0.0,0,0,0.0,41,2,4.88,354.7,17.3,0.35,11559,69.21,-17.3,294.13,0.0
 2020-08-17,Minas Gerais,São João do Manhuaçu,34.61,4,0,0.0,41,2,4.88,354.7,17.3,0.35,11559,86.51,8.66,294.13,34.61

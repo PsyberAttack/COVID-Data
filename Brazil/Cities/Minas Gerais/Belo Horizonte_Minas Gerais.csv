@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-08-23,Minas Gerais,Belo Horizonte,0.0,0,0,0.0,30305,873,2.88,1206.38,34.75,1.21,2512070,112.25,0.0,660.99,0.0
+2020-08-22,Minas Gerais,Belo Horizonte,0.0,0,0,0.0,30305,873,2.88,1206.38,34.75,1.21,2512070,112.25,-23.84,660.99,-58.48
+2020-08-21,Minas Gerais,Belo Horizonte,24.48,615,19,0.76,30305,873,2.88,1206.38,34.75,1.21,2512070,136.09,6.73,719.47,20.18
+2020-08-20,Minas Gerais,Belo Horizonte,16.6,417,16,0.64,29690,854,2.88,1181.89,34.0,1.18,2512070,129.36,-36.9,699.29,16.6
 2020-08-19,Minas Gerais,Belo Horizonte,24.84,624,23,0.92,29273,838,2.86,1165.29,33.36,1.17,2512070,166.26,24.84,682.69,-7.76
 2020-08-18,Minas Gerais,Belo Horizonte,7.44,187,7,0.28,28649,815,2.84,1140.45,32.44,1.14,2512070,141.42,-31.61,690.45,-19.87
 2020-08-17,Minas Gerais,Belo Horizonte,38.89,977,50,1.99,28462,808,2.84,1133.01,32.16,1.13,2512070,173.03,-18.39,710.32,38.89

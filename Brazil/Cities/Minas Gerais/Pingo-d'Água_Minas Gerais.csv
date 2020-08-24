@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-08-23,Minas Gerais,Pingo-d'Água,0.0,0,0,0.0,37,2,5.41,748.84,40.48,0.75,4941,303.59,0.0,667.9,0.0
+2020-08-22,Minas Gerais,Pingo-d'Água,0.0,0,0,0.0,37,2,5.41,748.84,40.48,0.75,4941,303.59,-80.96,667.9,0.0
+2020-08-21,Minas Gerais,Pingo-d'Água,20.24,1,0,0.0,37,2,5.41,748.84,40.48,0.75,4941,384.55,20.24,667.9,0.0
+2020-08-20,Minas Gerais,Pingo-d'Água,-20.24,-1,0,0.0,36,2,5.56,728.6,40.48,0.73,4941,364.31,-40.48,667.9,-20.24
 2020-08-19,Minas Gerais,Pingo-d'Água,40.48,2,0,0.0,37,2,5.41,748.84,40.48,0.75,4941,404.79,40.48,688.14,20.24
 2020-08-18,Minas Gerais,Pingo-d'Água,182.15,9,0,0.0,35,2,5.71,708.36,40.48,0.71,4941,364.31,40.48,667.9,182.15
 2020-08-17,Minas Gerais,Pingo-d'Água,80.96,4,0,0.0,26,2,7.69,526.21,40.48,0.53,4941,323.83,80.96,485.75,80.96

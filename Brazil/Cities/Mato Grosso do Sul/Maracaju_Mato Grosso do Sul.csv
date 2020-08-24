@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-08-18,Mato Grosso do Sul,Maracaju,2.12,1,0,0.0,269,3,1.12,571.33,6.37,0.57,47083,53.1,0.0,282.49,2.12
-2020-08-17,Mato Grosso do Sul,Maracaju,14.87,7,0,0.0,268,3,1.12,569.21,6.37,0.57,47083,53.1,10.62,280.37,8.5
+2020-08-19,Mato Grosso do Sul,Maracaju,-2.12,-1,1,2.12,268,4,1.49,569.21,8.5,0.57,47083,29.74,-12.74,261.25,-10.62
+2020-08-18,Mato Grosso do Sul,Maracaju,2.12,1,0,0.0,269,3,1.12,571.33,6.37,0.57,47083,42.48,-8.5,271.87,-8.5
+2020-08-17,Mato Grosso do Sul,Maracaju,14.87,7,0,0.0,268,3,1.12,569.21,6.37,0.57,47083,50.98,12.75,280.37,14.87
+2020-08-16,Mato Grosso do Sul,Maracaju,0.0,0,0,0.0,261,3,1.15,554.34,6.37,0.55,47083,38.23,-4.25,265.5,-6.37
 2020-08-15,Mato Grosso do Sul,Maracaju,4.25,2,0,0.0,261,3,1.15,554.34,6.37,0.55,47083,42.48,4.25,271.87,4.25
 2020-08-14,Mato Grosso do Sul,Maracaju,10.62,5,0,0.0,259,3,1.16,550.09,6.37,0.55,47083,38.23,-12.74,267.62,-2.12
 2020-08-13,Mato Grosso do Sul,Maracaju,0.0,0,0,0.0,254,3,1.18,539.47,6.37,0.54,47083,50.97,-6.37,269.74,-10.62

@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-08-23,Minas Gerais,Itaú de Minas,0.0,0,0,0.0,99,2,2.02,614.6,12.42,0.61,16108,186.24,0.0,465.62,-12.42
+2020-08-22,Minas Gerais,Itaú de Minas,0.0,0,0,0.0,99,2,2.02,614.6,12.42,0.61,16108,186.24,-12.42,478.04,-6.21
+2020-08-21,Minas Gerais,Itaú de Minas,18.62,3,0,0.0,99,2,2.02,614.6,12.42,0.61,16108,198.66,18.62,484.25,12.41
+2020-08-20,Minas Gerais,Itaú de Minas,24.83,4,0,0.0,96,2,2.08,595.98,12.42,0.6,16108,180.04,-37.25,471.84,6.21
 2020-08-19,Minas Gerais,Itaú de Minas,31.04,5,0,0.0,92,2,2.17,571.14,12.42,0.57,16108,217.29,18.62,465.63,31.04
 2020-08-18,Minas Gerais,Itaú de Minas,-18.62,-3,0,0.0,87,2,2.3,540.1,12.42,0.54,16108,198.67,-55.87,434.59,-18.62
 2020-08-17,Minas Gerais,Itaú de Minas,130.37,21,0,0.0,90,2,2.22,558.73,12.42,0.56,16108,254.54,130.37,453.21,130.37
