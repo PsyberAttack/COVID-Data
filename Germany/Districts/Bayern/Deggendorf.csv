@@ -1,5 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-08-22,Bayern,Deggendorf,1.68,2,0,0.0,381,15,3.94,319.29,12.57,0.32,119326,18.45,0.84,35.23,1.68
+2020-08-23,Bayern,Deggendorf,1.68,2,0,0.0,385,15,3.9,322.65,12.57,0.32,119326,20.96,0.84,38.58,1.68
+2020-08-22,Bayern,Deggendorf,3.35,4,0,0.0,383,15,3.92,320.97,12.57,0.32,119326,20.12,2.51,36.9,3.35
 2020-08-21,Bayern,Deggendorf,1.68,2,0,0.0,379,15,3.96,317.62,12.57,0.32,119326,17.61,0.0,33.55,1.68
 2020-08-20,Bayern,Deggendorf,13.41,16,0,0.0,377,15,3.98,315.94,12.57,0.32,119326,17.61,7.54,31.87,13.41
 2020-08-19,Bayern,Deggendorf,0.0,0,0,0.0,361,15,4.16,302.53,12.57,0.3,119326,10.07,0.0,18.46,-0.84

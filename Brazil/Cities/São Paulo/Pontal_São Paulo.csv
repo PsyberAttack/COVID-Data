@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-08-24,São Paulo,Pontal,0.0,0,0,0.0,1201,36,3.0,2403.88,72.06,2.4,49961,88.05,0.0,748.54,0.0
+2020-08-23,São Paulo,Pontal,2.0,1,0,0.0,1201,36,3.0,2403.88,72.06,2.4,49961,88.05,2.0,748.54,-12.01
 2020-08-22,São Paulo,Pontal,16.01,8,1,2.0,1200,36,3.0,2401.87,72.06,2.4,49961,86.05,-14.01,760.55,-28.02
 2020-08-21,São Paulo,Pontal,4.0,2,0,0.0,1192,35,2.94,2385.86,70.05,2.39,49961,100.06,-32.03,788.57,-52.04
 2020-08-20,São Paulo,Pontal,32.02,16,0,0.0,1190,35,2.94,2381.86,70.05,2.38,49961,132.09,2.0,840.61,-8.01

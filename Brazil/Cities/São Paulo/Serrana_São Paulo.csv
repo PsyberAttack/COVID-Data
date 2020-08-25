@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-08-24,São Paulo,Serrana,0.0,0,0,0.0,730,33,4.52,1618.37,73.16,1.62,45107,201.74,0.0,733.81,-2.22
+2020-08-23,São Paulo,Serrana,64.29,29,0,0.0,730,33,4.52,1618.37,73.16,1.62,45107,201.74,64.29,736.03,53.21
 2020-08-22,São Paulo,Serrana,8.87,4,1,2.22,701,33,4.71,1554.08,73.16,1.55,45107,137.45,-6.65,682.82,-66.51
 2020-08-21,São Paulo,Serrana,4.43,2,1,2.22,697,32,4.59,1545.21,70.94,1.55,45107,144.1,-42.13,749.33,-33.26
 2020-08-20,São Paulo,Serrana,44.34,20,0,0.0,695,31,4.46,1540.78,68.73,1.54,45107,186.23,8.87,782.59,24.39
