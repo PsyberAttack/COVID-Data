@@ -1,4 +1,7 @@
 date,country,region,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-08-24,Ecuador,Santa Elena,0.0,0,0,0.0,1941,71,3.66,483.83,17.7,0.48,401178,38.64,0.0,210.39,-0.25
+2020-08-23,Ecuador,Santa Elena,1.0,4,1,0.25,1941,71,3.66,483.83,17.7,0.48,401178,38.64,-3.24,210.64,-0.25
+2020-08-22,Ecuador,Santa Elena,0.25,1,0,0.0,1937,70,3.61,482.83,17.45,0.48,401178,41.88,-19.19,210.89,-24.93
 2020-08-21,Ecuador,Santa Elena,1.5,6,0,0.0,1936,70,3.62,482.58,17.45,0.48,401178,61.07,-3.24,235.82,1.0
 2020-08-20,Ecuador,Santa Elena,5.48,22,1,0.25,1930,70,3.63,481.08,17.45,0.48,401178,64.31,0.0,234.82,4.73
 2020-08-19,Ecuador,Santa Elena,16.45,66,1,0.25,1908,69,3.62,475.6,17.2,0.48,401178,64.31,4.98,230.09,-23.43
