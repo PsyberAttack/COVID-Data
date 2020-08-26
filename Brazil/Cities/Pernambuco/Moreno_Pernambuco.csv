@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-08-24,Pernambuco,Moreno,3.19,2,0,0.0,365,39,10.68,581.36,62.12,0.58,62784,17.53,3.19,62.13,0.0
+2020-08-23,Pernambuco,Moreno,1.59,1,0,0.0,363,39,10.74,578.17,62.12,0.58,62784,14.34,0.0,62.13,-3.19
 2020-08-22,Pernambuco,Moreno,3.19,2,0,0.0,362,39,10.77,576.58,62.12,0.58,62784,14.34,1.6,65.32,-6.37
 2020-08-21,Pernambuco,Moreno,4.78,3,0,0.0,360,39,10.83,573.39,62.12,0.57,62784,12.74,1.59,71.69,-3.18
 2020-08-20,Pernambuco,Moreno,1.59,1,0,0.0,357,39,10.92,568.62,62.12,0.57,62784,11.15,0.0,74.87,-6.37

@@ -1,5 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-08-21,Rio Grande do Norte,Alexandria,36.83,5,0,0.0,102,4,3.92,751.27,29.46,0.75,13577,419.84,-22.09,567.17,36.83
+2020-08-21,Rio Grande do Norte,Alexandria,14.73,2,0,0.0,102,4,3.92,751.27,29.46,0.75,13577,419.82,7.36,559.79,14.73
+2020-08-20,Rio Grande do Norte,Alexandria,-7.37,-1,0,0.0,100,4,4.0,736.54,29.46,0.74,13577,412.46,-14.74,545.06,-7.37
+2020-08-19,Rio Grande do Norte,Alexandria,29.46,4,0,0.0,101,4,3.96,743.91,29.46,0.74,13577,427.2,44.19,552.43,22.09
+2020-08-18,Rio Grande do Norte,Alexandria,0.0,0,0,0.0,97,4,4.12,714.44,29.46,0.71,13577,383.01,-58.92,530.34,0.0
 2020-08-17,Rio Grande do Norte,Alexandria,383.0,52,0,0.0,97,4,4.12,714.44,29.46,0.71,13577,441.93,383.0,530.34,383.0
 2020-08-16,Rio Grande do Norte,Alexandria,0.0,0,0,0.0,45,4,8.89,331.44,29.46,0.33,13577,58.93,-7.37,147.34,0.0
 2020-08-14,Rio Grande do Norte,Alexandria,0.0,0,0,0.0,45,4,8.89,331.44,29.46,0.33,13577,66.3,-7.37,147.34,-14.73

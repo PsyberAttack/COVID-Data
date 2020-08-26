@@ -1,5 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-08-21,Rio Grande do Norte,Afonso Bezerra,99.68,11,1,9.06,120,7,5.83,1087.45,63.43,1.09,11035,208.42,54.37,579.94,99.68
+2020-08-21,Rio Grande do Norte,Afonso Bezerra,0.0,0,0,0.0,120,7,5.83,1087.45,63.43,1.09,11035,163.11,-9.06,561.82,-9.06
+2020-08-20,Rio Grande do Norte,Afonso Bezerra,0.0,0,0,0.0,120,7,5.83,1087.45,63.43,1.09,11035,172.17,-72.5,570.88,0.0
+2020-08-19,Rio Grande do Norte,Afonso Bezerra,99.68,11,0,0.0,120,7,5.83,1087.45,63.43,1.09,11035,244.67,135.93,570.88,90.62
+2020-08-18,Rio Grande do Norte,Afonso Bezerra,0.0,0,1,9.06,109,7,6.42,987.77,63.43,0.99,11035,108.74,-45.31,480.26,0.0
 2020-08-17,Rio Grande do Norte,Afonso Bezerra,0.0,0,0,0.0,109,6,5.5,987.77,54.37,0.99,11035,154.05,-9.06,480.26,0.0
 2020-08-16,Rio Grande do Norte,Afonso Bezerra,0.0,0,0,0.0,109,6,5.5,987.77,54.37,0.99,11035,163.11,-63.43,480.26,0.0
 2020-08-14,Rio Grande do Norte,Afonso Bezerra,63.43,7,0,0.0,109,6,5.5,987.77,54.37,0.99,11035,226.54,63.43,480.26,63.43

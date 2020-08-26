@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-08-24,Rio de Janeiro,Mesquita,0.0,0,0,0.0,1172,152,12.97,665.52,86.31,0.67,176103,42.03,-0.57,132.91,0.0
+2020-08-23,Rio de Janeiro,Mesquita,0.57,1,0,0.0,1172,152,12.97,665.52,86.31,0.67,176103,42.6,-13.63,132.91,0.57
 2020-08-22,Rio de Janeiro,Mesquita,5.11,9,0,0.0,1171,152,12.98,664.95,86.31,0.66,176103,56.23,5.11,132.34,0.57
 2020-08-21,Rio de Janeiro,Mesquita,1.14,2,1,0.57,1162,152,13.08,659.84,86.31,0.66,176103,51.12,1.14,131.77,-1.7
 2020-08-20,Rio de Janeiro,Mesquita,10.79,19,2,1.14,1160,151,13.02,658.71,85.75,0.66,176103,49.98,9.65,133.47,4.54

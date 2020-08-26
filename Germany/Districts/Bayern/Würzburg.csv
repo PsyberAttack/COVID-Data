@@ -1,4 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-08-25,Bayern,Würzburg,1.85,3,0,0.0,514,8,1.56,317.61,4.94,0.32,161834,12.51,0.0,32.3,1.23
+2020-08-24,Bayern,Würzburg,0.0,0,0,0.0,511,8,1.57,399.59,6.26,0.4,127880,12.51,-1.24,31.07,0.0
 2020-08-23,Bayern,Würzburg,0.78,1,0,0.0,511,8,1.57,399.59,6.26,0.4,127880,13.75,0.78,31.07,0.78
 2020-08-22,Bayern,Würzburg,1.85,3,0,0.0,510,8,1.57,315.14,4.94,0.32,161834,12.97,1.85,30.29,-0.62
 2020-08-21,Bayern,Würzburg,2.47,4,0,0.0,507,8,1.58,313.28,4.94,0.31,161834,11.12,1.23,30.91,1.85

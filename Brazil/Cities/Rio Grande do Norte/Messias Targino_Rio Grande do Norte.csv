@@ -1,5 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-08-21,Rio Grande do Norte,Messias Targino,108.67,5,1,21.73,82,4,4.88,1782.22,86.94,1.78,4601,173.88,65.2,1217.13,21.73
+2020-08-21,Rio Grande do Norte,Messias Targino,0.0,0,1,21.73,82,4,4.88,1782.22,86.94,1.78,4601,86.95,-108.67,1021.53,-21.73
+2020-08-20,Rio Grande do Norte,Messias Targino,-21.73,-1,0,0.0,82,3,3.66,1782.22,65.2,1.78,4601,195.62,-21.73,1043.26,-195.61
+2020-08-19,Rio Grande do Norte,Messias Targino,86.94,4,0,0.0,83,3,3.61,1803.96,65.2,1.8,4601,217.35,108.67,1238.87,86.94
+2020-08-18,Rio Grande do Norte,Messias Targino,43.47,2,0,0.0,79,3,3.8,1717.02,65.2,1.72,4601,108.68,0.0,1151.93,-43.47
 2020-08-17,Rio Grande do Norte,Messias Targino,0.0,0,0,0.0,77,3,3.9,1673.55,65.2,1.67,4601,108.68,0.0,1195.4,0.0
 2020-08-16,Rio Grande do Norte,Messias Targino,0.0,0,0,0.0,77,3,3.9,1673.55,65.2,1.67,4601,108.68,-43.47,1195.4,0.0
 2020-08-14,Rio Grande do Norte,Messias Targino,-21.73,-1,0,0.0,77,3,3.9,1673.55,65.2,1.67,4601,152.15,-21.73,1195.4,-21.73
