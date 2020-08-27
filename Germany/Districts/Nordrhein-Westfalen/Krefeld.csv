@@ -1,7 +1,8 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-08-25,Nordrhein-Westfalen,Krefeld,0.44,1,0,0.0,812,24,2.96,357.68,10.57,0.36,227020,8.36,-0.88,34.76,-0.44
-2020-08-24,Nordrhein-Westfalen,Krefeld,2.64,6,0,0.0,811,24,2.96,357.24,10.57,0.36,227020,9.24,0.44,35.2,0.44
-2020-08-23,Nordrhein-Westfalen,Krefeld,2.64,6,0,0.0,805,24,2.98,354.59,10.57,0.35,227020,8.8,2.64,34.76,0.88
+2020-08-26,Nordrhein-Westfalen,Krefeld,2.64,6,0,0.0,820,24,2.93,361.2,10.57,0.36,227020,11.44,2.2,38.28,2.64
+2020-08-25,Nordrhein-Westfalen,Krefeld,0.44,1,0,0.0,814,24,2.95,358.56,10.57,0.36,227020,9.24,-0.88,35.64,-0.44
+2020-08-24,Nordrhein-Westfalen,Krefeld,3.08,7,0,0.0,813,24,2.95,358.12,10.57,0.36,227020,10.12,0.88,36.08,0.88
+2020-08-23,Nordrhein-Westfalen,Krefeld,3.08,7,0,0.0,806,24,2.98,355.03,10.57,0.36,227020,9.24,3.08,35.2,1.32
 2020-08-22,Nordrhein-Westfalen,Krefeld,0.44,1,0,0.0,799,24,3.0,351.95,10.57,0.35,227020,6.16,0.0,33.88,-1.32
 2020-08-21,Nordrhein-Westfalen,Krefeld,0.44,1,0,0.0,798,24,3.01,351.51,10.57,0.35,227020,6.16,-1.32,35.2,-3.08
 2020-08-20,Nordrhein-Westfalen,Krefeld,1.32,3,0,0.0,797,24,3.01,351.07,10.57,0.35,227020,7.48,-1.76,38.28,0.0

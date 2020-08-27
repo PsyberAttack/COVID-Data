@@ -1,6 +1,9 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-08-21,Bayern,Garmisch-Partenkirchen,1.13,1,0,0.0,318,18,5.66,359.46,20.35,0.36,88467,5.65,0.0,21.47,0.0
-2020-08-20,Bayern,Garmisch-Partenkirchen,0.0,0,0,0.0,317,18,5.68,358.33,20.35,0.36,88467,5.65,-7.91,21.47,0.0
+2020-08-24,Bayern,Garmisch-Partenkirchen,1.13,1,0,0.0,321,18,5.61,362.85,20.35,0.36,88467,4.52,0.0,23.73,1.13
+2020-08-23,Bayern,Garmisch-Partenkirchen,0.0,0,0,0.0,320,18,5.62,361.72,20.35,0.36,88467,4.52,-1.13,22.6,0.0
+2020-08-22,Bayern,Garmisch-Partenkirchen,0.0,0,0,0.0,320,18,5.62,361.72,20.35,0.36,88467,5.65,-2.26,22.6,-1.13
+2020-08-21,Bayern,Garmisch-Partenkirchen,2.26,2,0,0.0,320,18,5.62,361.72,20.35,0.36,88467,7.91,1.13,23.73,1.13
+2020-08-20,Bayern,Garmisch-Partenkirchen,1.13,1,0,0.0,318,18,5.66,359.46,20.35,0.36,88467,6.78,-6.78,22.6,1.13
 2020-08-19,Bayern,Garmisch-Partenkirchen,0.0,0,0,0.0,317,18,5.68,358.33,20.35,0.36,88467,13.56,-1.13,21.47,-1.13
 2020-08-18,Bayern,Garmisch-Partenkirchen,0.0,0,0,0.0,317,18,5.68,358.33,20.35,0.36,88467,14.69,0.0,22.6,0.0
 2020-08-17,Bayern,Garmisch-Partenkirchen,1.13,1,0,0.0,317,18,5.68,358.33,20.35,0.36,88467,14.69,1.13,22.6,1.13
