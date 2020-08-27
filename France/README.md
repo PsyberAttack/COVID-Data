@@ -2,9 +2,6 @@
 
 Includes data from the French government COVID-19 response: https://www.gouvernement.fr/info-coronavirus/carte-et-donnees
 
-*** THIS  DATASET IS IN PROGRESS. DAILY UPDATES NOW OCCURRING***
- 
- 
 ### Files:
 
 **Departements** contains time series data for each French Departement
