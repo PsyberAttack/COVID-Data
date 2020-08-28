@@ -1,204 +1,1001 @@
-code,update_date,region,type,total_cases_100k,total_cases,total_deaths,cfr%,total_deaths_100k,%infected,population
-E06000016,2020-08-12,Leicester,Unitary Authority,1504.42,5329,305,5.72,86.1,1.5,354224
-E06000008,2020-08-12,Blackburn with Darwen,Unitary Authority,1072.84,1606,88,5.48,58.79,1.07,149696
-E08000004,2020-08-12,Oldham,Metropolitan District,1053.52,2498,244,9.77,102.91,1.05,237110
-E08000032,2020-08-12,Bradford,Metropolitan District,1026.91,5543,454,8.19,84.11,1.03,539776
-W06000006,2020-08-12,Wrexham,Unitary Authority,1006.2,1368,0,0.0,0.0,1.01,135957
-W06000024,2020-08-12,Merthyr Tydfil,Unitary Authority,961.44,580,0,0.0,0.0,0.96,60326
-E08000005,2020-08-12,Rochdale,Metropolitan District,908.22,2020,245,12.13,110.16,0.91,222412
-W06000004,2020-08-12,Denbighshire,Unitary Authority,845.39,809,0,0.0,0.0,0.85,95696
-E08000016,2020-08-12,Barnsley,Metropolitan District,828.38,2045,260,12.71,105.32,0.83,246866
-E06000055,2020-08-12,Bedford,Unitary Authority,800.96,1388,190,13.69,109.64,0.8,173292
-E08000018,2020-08-12,Rotherham,Metropolitan District,790.47,2098,293,13.97,110.39,0.79,265411
-W06000016,2020-08-12,Rhondda Cynon Taf,Unitary Authority,780.89,1884,0,0.0,0.0,0.78,241264
-E06000032,2020-08-12,Luton,Unitary Authority,779.62,1661,211,12.7,99.04,0.78,213052
-E08000008,2020-08-12,Tameside,Metropolitan District,771.33,1747,297,17.0,131.13,0.77,226493
-E06000009,2020-08-12,Blackpool,Unitary Authority,764.45,1066,155,14.54,111.15,0.76,139446
-E08000019,2020-08-12,Sheffield,Metropolitan District,758.31,4435,478,10.78,81.73,0.76,584853
-E06000031,2020-08-12,Peterborough,Unitary Authority,750.52,1518,108,7.11,53.4,0.75,202259
-E08000002,2020-08-12,Bury,Metropolitan District,744.54,1422,233,16.39,122.0,0.74,190990
-E08000001,2020-08-12,Bolton,Metropolitan District,736.92,2119,333,15.71,115.81,0.74,287550
-E06000002,2020-08-12,Middlesbrough,Unitary Authority,724.93,1022,194,18.98,137.61,0.72,140980
-E08000011,2020-08-12,Knowsley,Metropolitan District,693.35,1046,164,15.68,108.71,0.69,150862
-E08000013,2020-08-12,St. Helens,Metropolitan District,686.1,1239,171,13.8,94.69,0.69,180585
-E08000010,2020-08-12,Wigan,Metropolitan District,676.99,2225,354,15.91,107.71,0.68,328662
-E06000001,2020-08-12,Hartlepool,Unitary Authority,667.29,625,96,15.36,102.5,0.67,93663
-S12000042,2020-08-12,Dundee City,Council Area,658.32,983,0,0.0,0.0,0.66,149320
-W06000001,2020-08-12,Isle of Anglesey,Unitary Authority,658.17,461,0,0.0,0.0,0.66,70043
-E06000007,2020-08-12,Warrington,Unitary Authority,658.05,1382,180,13.02,85.71,0.66,210014
-E08000017,2020-08-12,Doncaster,Metropolitan District,657.28,2050,252,12.29,80.8,0.66,311890
-E08000003,2020-08-12,Manchester,Metropolitan District,656.05,3627,408,11.25,73.8,0.66,552858
-E08000024,2020-08-12,Sunderland,Metropolitan District,652.85,1813,307,16.93,110.55,0.65,277705
-E08000037,2020-08-12,Gateshead,Metropolitan District,646.85,1307,223,17.06,110.37,0.65,202055
-E08000015,2020-08-12,Wirral,Metropolitan District,645.35,2091,360,17.22,111.11,0.65,324011
-E08000009,2020-08-12,Trafford,Metropolitan District,643.76,1528,235,15.38,99.01,0.64,237354
-E06000047,2020-08-12,County Durham,Unitary Authority,637.43,3379,559,16.54,105.45,0.64,530094
-E08000023,2020-08-12,South Tyneside,Metropolitan District,637.19,962,156,16.22,103.33,0.64,150976
-E08000007,2020-08-12,Stockport,Metropolitan District,636.96,1869,321,17.17,109.4,0.64,293423
-W06000015,2020-08-12,Cardiff,Unitary Authority,636.68,2336,0,0.0,0.0,0.64,366903
-E10000017,2020-08-12,Lancashire,County,620.43,7568,945,12.49,77.47,0.62,1219799
-W06000003,2020-08-12,Conwy,Unitary Authority,618.58,725,0,0.0,0.0,0.62,117203
-E08000006,2020-08-12,Salford,Metropolitan District,615.84,1594,274,17.19,105.86,0.62,258834
-E06000010,2020-08-12,"Kingston upon Hull, City of",Unitary Authority,609.37,1583,204,12.89,78.53,0.61,259778
-E08000028,2020-08-12,Sandwell,Metropolitan District,608.01,1997,367,18.38,111.74,0.61,328450
-E06000050,2020-08-12,Cheshire West and Chester,Unitary Authority,605.41,2077,364,17.53,106.1,0.61,343071
-E08000034,2020-08-12,Kirklees,Metropolitan District,604.84,2660,282,10.6,64.12,0.6,439787
-E06000021,2020-08-12,Stoke-on-Trent,Unitary Authority,604.58,1550,171,11.03,66.7,0.6,256375
-E06000049,2020-08-12,Cheshire East,Unitary Authority,596.38,2291,430,18.77,111.93,0.6,384152
-W06000014,2020-08-12,Vale of Glamorgan,Unitary Authority,592.12,791,0,0.0,0.0,0.59,133587
-E10000006,2020-08-12,Cumbria,County,586.19,2931,456,15.56,91.2,0.59,500012
-S12000019,2020-08-12,Midlothian,Council Area,579.71,536,0,0.0,0.0,0.58,92460
-E08000014,2020-08-12,Sefton,Metropolitan District,577.4,1596,258,16.17,93.34,0.58,276410
-E08000031,2020-08-12,Wolverhampton,Metropolitan District,577.16,1520,283,18.62,107.46,0.58,263357
-E06000005,2020-08-12,Darlington,Unitary Authority,575.83,615,87,14.15,81.46,0.58,106803
-W06000022,2020-08-12,Newport,Unitary Authority,572.16,885,0,0.0,0.0,0.57,154676
-E08000036,2020-08-12,Wakefield,Metropolitan District,560.13,1951,292,14.97,83.83,0.56,348312
-E09000005,2020-08-12,Brent,London Borough,556.14,1834,418,22.79,126.75,0.56,329771
-E08000030,2020-08-12,Walsall,Metropolitan District,554.86,1584,350,22.1,122.6,0.55,285478
-E06000006,2020-08-12,Halton,Unitary Authority,554.83,718,111,15.46,85.77,0.55,129410
-W06000011,2020-08-12,Swansea,Unitary Authority,542.53,1340,0,0.0,0.0,0.54,246993
-W06000019,2020-08-12,Blaenau Gwent,Unitary Authority,536.77,375,0,0.0,0.0,0.54,69862
-E09000015,2020-08-12,Harrow,London Borough,536.71,1348,320,23.74,127.41,0.54,251160
-E08000012,2020-08-12,Liverpool,Metropolitan District,533.89,2659,418,15.72,83.93,0.53,498042
-E06000015,2020-08-12,Derby,Unitary Authority,525.45,1352,258,19.08,100.27,0.53,257302
-E10000016,2020-08-12,Kent,County,524.93,8302,1288,15.51,81.44,0.52,1581555
-E08000021,2020-08-12,Newcastle upon Tyne,Metropolitan District,520.44,1576,206,13.07,68.03,0.52,302820
-E06000003,2020-08-12,Redcar and Cleveland,Unitary Authority,518.41,711,109,15.33,79.48,0.52,137150
-E08000035,2020-08-12,Leeds,Metropolitan District,507.86,4028,534,13.26,67.33,0.51,793139
-E09000029,2020-08-12,Sutton,London Borough,505.45,1043,159,15.24,77.05,0.51,206349
-E06000038,2020-08-12,Reading,Unitary Authority,505.01,817,127,15.54,78.5,0.51,161780
-E06000004,2020-08-12,Stockton-on-Tees,Unitary Authority,504.19,995,142,14.27,71.95,0.5,197348
-S12000045,2020-08-12,East Dunbartonshire,Council Area,498.9,542,0,0.0,0.0,0.5,108640
-E10000021,2020-08-12,Northamptonshire,County,498.22,3753,679,18.09,90.14,0.5,753278
-E06000057,2020-08-12,Northumberland,Unitary Authority,496.23,1600,240,15.0,74.43,0.5,322434
-E09000008,2020-08-12,Croydon,London Borough,493.91,1910,401,20.99,103.7,0.49,386710
-E08000025,2020-08-12,Birmingham,Metropolitan District,493.16,5631,1082,19.22,94.76,0.49,1141816
-S12000039,2020-08-12,West Dunbartonshire,Council Area,490.27,436,0,0.0,0.0,0.49,88930
-E09000009,2020-08-12,Ealing,London Borough,488.0,1668,280,16.79,81.92,0.49,341806
-E06000011,2020-08-12,East Riding of Yorkshire,Unitary Authority,487.44,1663,270,16.24,79.14,0.49,341173
-E10000018,2020-08-12,Leicestershire,County,484.17,3419,452,13.22,64.01,0.48,706155
-W06000005,2020-08-12,Flintshire,Unitary Authority,482.38,753,0,0.0,0.0,0.48,156100
-E08000033,2020-08-12,Calderdale,Metropolitan District,482.37,1020,107,10.49,50.6,0.48,211455
-W06000002,2020-08-12,Gwynedd,Unitary Authority,480.09,598,0,0.0,0.0,0.48,124560
-E10000025,2020-08-12,Oxfordshire,County,479.57,3317,340,10.25,49.16,0.48,691667
-E06000039,2020-08-12,Slough,Unitary Authority,478.14,715,95,13.29,63.53,0.48,149539
-E09000028,2020-08-12,Southwark,London Borough,475.17,1515,209,13.8,65.55,0.48,318830
-S12000018,2020-08-12,Inverclyde,Council Area,474.29,369,0,0.0,0.0,0.47,77800
-E09000024,2020-08-12,Merton,London Borough,472.53,976,185,18.95,89.57,0.47,206548
-W06000012,2020-08-12,Neath Port Talbot,Unitary Authority,472.39,677,0,0.0,0.0,0.47,143315
-E06000030,2020-08-12,Swindon,Unitary Authority,471.21,1047,120,11.46,54.01,0.47,222193
-E09000006,2020-08-12,Bromley,London Borough,469.71,1561,285,18.26,85.76,0.47,332336
-E06000019,2020-08-12,"Herefordshire, County of",Unitary Authority,463.17,893,107,11.98,55.5,0.46,192801
-E10000031,2020-08-12,Warwickshire,County,457.32,2643,538,20.36,93.09,0.46,577933
-S12000033,2020-08-12,Aberdeen City,Council Area,453.05,1036,0,0.0,0.0,0.45,228670
-E08000022,2020-08-12,North Tyneside,Metropolitan District,451.63,939,127,13.53,61.08,0.45,207913
-E09000004,2020-08-12,Bexley,London Borough,450.69,1119,215,19.21,86.59,0.45,248287
-E06000051,2020-08-12,Shropshire,Unitary Authority,450.27,1455,217,14.91,67.15,0.45,323136
-E06000056,2020-08-12,Central Bedfordshire,Unitary Authority,450.03,1299,248,19.09,85.92,0.45,288648
-E09000022,2020-08-12,Lambeth,London Borough,447.5,1459,279,19.12,85.57,0.45,326034
-E10000028,2020-08-12,Staffordshire,County,446.59,3928,813,20.7,92.43,0.45,879560
-E06000014,2020-08-12,York,Unitary Authority,443.93,935,119,12.73,56.5,0.44,210618
-E08000029,2020-08-12,Solihull,Metropolitan District,443.68,960,225,23.44,103.99,0.44,216374
-E09000013,2020-08-12,Hammersmith and Fulham,London Borough,441.82,818,122,14.91,65.9,0.44,185143
-E10000007,2020-08-12,Derbyshire,County,437.4,3511,658,18.74,81.97,0.44,802694
-E09000003,2020-08-12,Barnet,London Borough,436.0,1726,342,19.81,86.39,0.44,395869
-E09000021,2020-08-12,Kingston upon Thames,London Borough,434.91,772,127,16.45,71.55,0.43,177507
-W06000010,2020-08-12,Carmarthenshire,Unitary Authority,434.39,820,0,0.0,0.0,0.43,188771
-E09000018,2020-08-12,Hounslow,London Borough,432.38,1174,216,18.4,79.55,0.43,271523
-E06000013,2020-08-12,North Lincolnshire,Unitary Authority,429.5,740,107,14.46,62.1,0.43,172292
-S12000029,2020-08-12,South Lanarkshire,Council Area,429.29,1376,0,0.0,0.0,0.43,320530
-E06000024,2020-08-12,North Somerset,Unitary Authority,429.2,923,128,13.87,59.52,0.43,215052
-E08000027,2020-08-12,Dudley,Metropolitan District,423.51,1362,284,20.85,88.31,0.42,321596
-E10000023,2020-08-12,North Yorkshire,County,422.94,2614,405,15.49,65.53,0.42,618054
-S12000014,2020-08-12,Falkirk,Council Area,417.68,672,0,0.0,0.0,0.42,160890
-E09000023,2020-08-12,Lewisham,London Borough,414.92,1269,256,20.17,83.7,0.41,305842
-S12000049,2020-08-12,Glasgow City,Council Area,414.61,2625,0,0.0,0.0,0.41,633120
-E10000034,2020-08-12,Worcestershire,County,412.23,2456,485,19.75,81.41,0.41,595786
-W06000018,2020-08-12,Caerphilly,Unitary Authority,411.43,745,0,0.0,0.0,0.41,181075
-S12000050,2020-08-12,North Lanarkshire,Council Area,410.41,1401,0,0.0,0.0,0.41,341370
-E08000026,2020-08-12,Coventry,Metropolitan District,408.59,1518,234,15.42,62.98,0.41,371521
-W06000021,2020-08-12,Monmouthshire,Unitary Authority,408.08,386,0,0.0,0.0,0.41,94590
-S12000041,2020-08-12,Angus,Council Area,407.06,473,0,0.0,0.0,0.41,116200
-E10000030,2020-08-12,Surrey,County,401.51,4803,913,19.01,76.32,0.4,1196236
-E09000026,2020-08-12,Redbridge,London Borough,399.05,1218,235,19.29,76.99,0.4,305222
-E06000035,2020-08-12,Medway,Unitary Authority,397.05,1106,202,18.26,72.52,0.4,278556
-E09000016,2020-08-12,Havering,London Borough,395.3,1026,236,23.0,90.93,0.4,259552
-S12000038,2020-08-12,Renfrewshire,Council Area,393.08,704,0,0.0,0.0,0.39,179100
-W06000013,2020-08-12,Bridgend,Unitary Authority,393.07,578,0,0.0,0.0,0.39,147049
-E06000033,2020-08-12,Southend-on-Sea,Unitary Authority,392.63,719,186,25.87,101.57,0.39,183125
-S12000011,2020-08-12,East Renfrewshire,Council Area,390.45,373,0,0.0,0.0,0.39,95530
-E09000031,2020-08-12,Waltham Forest,London Borough,390.28,1081,223,20.63,80.51,0.39,276983
-E09000025,2020-08-12,Newham,London Borough,389.37,1375,227,16.51,64.28,0.39,353134
-E10000012,2020-08-12,Essex,County,388.06,5779,1313,22.72,88.17,0.39,1489189
-S12000005,2020-08-12,Clackmannanshire,Council Area,388.05,200,0,0.0,0.0,0.39,51540
-E09000017,2020-08-12,Hillingdon,London Borough,387.46,1189,233,19.6,75.93,0.39,306870
-E09000020,2020-08-12,Kensington and Chelsea,London Borough,386.22,603,102,16.92,65.33,0.39,156129
-E06000045,2020-08-12,Southampton,Unitary Authority,386.11,975,143,14.67,56.63,0.39,252520
-W06000020,2020-08-12,Torfaen,Unitary Authority,385.27,362,0,0.0,0.0,0.39,93961
-E10000024,2020-08-12,Nottinghamshire,County,383.23,3174,520,16.38,62.78,0.38,828224
-E09000032,2020-08-12,Wandsworth,London Borough,382.5,1261,204,16.18,61.88,0.38,329677
-E06000018,2020-08-12,Nottingham,Unitary Authority,377.59,1257,194,15.43,58.28,0.38,332900
-E09000010,2020-08-12,Enfield,London Borough,374.78,1251,275,21.98,82.39,0.37,333794
-S12000008,2020-08-12,East Ayrshire,Council Area,373.74,456,0,0.0,0.0,0.37,122010
-E10000014,2020-08-12,Hampshire,County,373.08,5158,839,16.27,60.69,0.37,1382542
-E10000015,2020-08-12,Hertfordshire,County,370.4,4406,948,21.52,79.7,0.37,1189519
-E09000002,2020-08-12,Barking and Dagenham,London Borough,369.18,786,131,16.67,61.53,0.37,212906
-E09000012,2020-08-12,Hackney and City of London,London Borough,364.26,1024,176,17.19,62.61,0.36,281120
-E10000003,2020-08-12,Cambridgeshire,County,361.88,2365,351,14.84,53.71,0.36,653537
-E06000020,2020-08-12,Telford and Wrekin,Unitary Authority,358.62,645,91,14.11,50.6,0.36,179854
-E06000041,2020-08-12,Wokingham,Unitary Authority,358.23,613,110,17.94,64.28,0.36,171119
-E10000029,2020-08-12,Suffolk,County,358.05,2726,513,18.82,67.38,0.36,761350
-S12000028,2020-08-12,South Ayrshire,Council Area,354.32,399,0,0.0,0.0,0.35,112610
-E09000011,2020-08-12,Greenwich,London Borough,351.46,1012,195,19.27,67.72,0.35,287942
-S12000036,2020-08-12,City of Edinburgh,Council Area,350.33,1839,0,0.0,0.0,0.35,524930
-E06000034,2020-08-12,Thurrock,Unitary Authority,340.71,594,142,23.91,81.45,0.34,174341
-E10000019,2020-08-12,Lincolnshire,County,339.19,2582,323,12.51,42.43,0.34,761224
-E06000042,2020-08-12,Milton Keynes,Unitary Authority,338.09,911,122,13.39,45.28,0.34,269457
-E09000033,2020-08-12,Westminster,London Borough,332.55,869,151,17.38,57.78,0.33,261317
-E10000032,2020-08-12,West Sussex,County,328.13,2835,487,17.18,56.37,0.33,863980
-E10000020,2020-08-12,Norfolk,County,324.76,2948,462,15.67,50.89,0.32,907760
-E06000036,2020-08-12,Bracknell Forest,Unitary Authority,319.87,392,60,15.31,48.96,0.32,122549
-E06000037,2020-08-12,West Berkshire,Unitary Authority,315.56,500,81,16.2,51.12,0.32,158450
-E09000014,2020-08-12,Haringey,London Borough,306.72,824,188,22.82,69.98,0.31,268647
-S12000021,2020-08-12,North Ayrshire,Council Area,304.29,410,0,0.0,0.0,0.3,134740
-S12000026,2020-08-12,Scottish Borders,Council Area,302.14,349,0,0.0,0.0,0.3,115510
-E10000013,2020-08-12,Gloucestershire,County,301.07,1918,439,22.89,68.91,0.3,637070
-E06000046,2020-08-12,Isle of Wight,Unitary Authority,300.48,426,88,20.66,62.07,0.3,141771
-E10000011,2020-08-12,East Sussex,County,295.57,1647,270,16.39,48.45,0.3,557229
-E06000023,2020-08-12,"Bristol, City of",Unitary Authority,295.22,1368,155,11.33,33.45,0.3,463377
-E09000027,2020-08-12,Richmond upon Thames,London Borough,287.85,570,130,22.81,65.65,0.29,198019
-E06000040,2020-08-12,Windsor and Maidenhead,Unitary Authority,285.3,432,86,19.91,56.79,0.29,151422
-E06000043,2020-08-12,Brighton and Hove,Unitary Authority,283.96,826,121,14.65,41.6,0.28,290885
-S12000040,2020-08-12,West Lothian,Council Area,281.27,515,0,0.0,0.0,0.28,183100
-E09000030,2020-08-12,Tower Hamlets,London Borough,278.68,905,129,14.25,39.72,0.28,324745
-E09000007,2020-08-12,Camden,London Borough,276.27,746,139,18.63,51.48,0.28,270029
-E06000025,2020-08-12,South Gloucestershire,Unitary Authority,272.89,778,133,17.1,46.65,0.27,285093
-W06000023,2020-08-12,Powys,Unitary Authority,268.81,356,0,0.0,0.0,0.27,132435
-E06000054,2020-08-12,Wiltshire,Unitary Authority,265.99,1330,239,17.97,47.8,0.27,500024
-E06000026,2020-08-12,Plymouth,Unitary Authority,260.97,684,92,13.45,35.1,0.26,262100
-S12000010,2020-08-12,East Lothian,Council Area,260.53,279,0,0.0,0.0,0.26,107090
-S12000047,2020-08-12,Fife,Council Area,256.19,957,0,0.0,0.0,0.26,373550
-E06000017,2020-08-12,Rutland,Unitary Authority,255.47,102,15,14.71,37.57,0.26,39927
-E09000019,2020-08-12,Islington,London Borough,249.93,606,124,20.46,51.14,0.25,242467
-S12000030,2020-08-12,Stirling,Council Area,249.44,235,0,0.0,0.0,0.25,94210
-S12000027,2020-08-12,Shetland Islands,Council Area,244.33,56,0,0.0,0.0,0.24,22920
-E06000044,2020-08-12,Portsmouth,Unitary Authority,241.97,520,85,16.35,39.55,0.24,214905
-W06000009,2020-08-12,Pembrokeshire,Unitary Authority,240.82,303,0,0.0,0.0,0.24,125818
-E10000027,2020-08-12,Somerset,County,236.2,1328,161,12.12,28.64,0.24,562225
-S12000048,2020-08-12,Perth and Kinross,Council Area,229.68,349,0,0.0,0.0,0.23,151950
-S12000034,2020-08-12,Aberdeenshire,Council Area,219.36,573,0,0.0,0.0,0.22,261210
-E06000058,2020-08-12,"Bournemouth, Christchurch and Poole",Unitary Authority,214.0,846,138,16.31,34.91,0.21,395331
-E06000027,2020-08-12,Torbay,Unitary Authority,209.15,285,52,18.25,38.16,0.21,136264
-S12000006,2020-08-12,Dumfries and Galloway,Council Area,204.89,305,0,0.0,0.0,0.2,148860
-S12000035,2020-08-12,Argyll and Bute,Council Area,195.64,168,0,0.0,0.0,0.2,85870
-E06000022,2020-08-12,Bath and North East Somerset,Unitary Authority,185.22,358,51,14.25,26.39,0.19,193282
-E06000052,2020-08-12,Cornwall and Isles of Scilly,Unitary Authority,166.44,948,158,16.67,27.74,0.17,569578
-E06000059,2020-08-12,Dorset,Unitary Authority,166.18,629,120,19.08,31.7,0.17,378508
-E10000008,2020-08-12,Devon,County,156.91,1259,176,13.98,21.93,0.16,802375
-E06000012,2020-08-12,North East Lincolnshire,Unitary Authority,137.88,220,36,16.36,22.56,0.14,159563
-W06000008,2020-08-12,Ceredigion,Unitary Authority,100.42,73,0,0.0,0.0,0.1,72695
-S12000020,2020-08-12,Moray,Council Area,98.1,94,0,0.0,0.0,0.1,95820
-S12000017,2020-08-12,Highland,Council Area,92.44,218,0,0.0,0.0,0.09,235830
-S12000023,2020-08-12,Orkney Islands,Council Area,40.41,9,0,0.0,0.0,0.04,22270
-S12000013,2020-08-12,Na h-Eileanan Siar,Council Area,26.2,7,0,0.0,0.0,0.03,26720
-E10000002,2020-08-12,Buckinghamshire,,,1788,303,16.95,,,
+,update_date,region,type,total_cases_100k,total_cases,total_deaths,cfr%,total_deaths_100k,%infected,population
+S12000033,2020-08-28,Aberdeen City,Council Area,502.47,1149,0,0.0,0.0,0.5,228670
+S12000041,2020-08-28,Angus,Council Area,439.76,511,0,0.0,0.0,0.44,116200
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,403.47,579,0,0.0,0.0,0.4,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,397.9,571,0,0.0,0.0,0.4,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,395.81,568,0,0.0,0.0,0.4,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,392.32,563,0,0.0,0.0,0.39,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,376.99,541,0,0.0,0.0,0.38,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,375.6,539,0,0.0,0.0,0.38,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,370.72,532,0,0.0,0.0,0.37,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,367.93,528,0,0.0,0.0,0.37,143504
+N09000011,2020-08-28,Ards and North Down,Local Government District,299.27,484,0,0.0,0.0,0.3,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,298.04,482,0,0.0,0.0,0.3,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,293.71,475,0,0.0,0.0,0.29,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,291.85,472,0,0.0,0.0,0.29,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,287.53,465,0,0.0,0.0,0.29,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,287.53,465,0,0.0,0.0,0.29,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,287.53,465,0,0.0,0.0,0.29,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,285.67,462,0,0.0,0.0,0.29,161725
+S12000034,2020-08-28,Aberdeenshire,Council Area,236.59,618,0,0.0,0.0,0.24,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000034,2020-08-28,Aberdeenshire,Council Area,0.0,0,0,0.0,0.0,0.0,261210
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000001,2020-08-28,Antrim and Newtownabbey,Local Government District,0.0,0,0,0.0,0.0,0.0,143504
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+N09000011,2020-08-28,Ards and North Down,Local Government District,0.0,0,0,0.0,0.0,0.0,161725
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000033,2020-08-28,Aberdeen City,Council Area,0.0,0,0,0.0,0.0,0.0,228670
+S12000041,2020-08-28,Angus,Council Area,0.0,0,0,0.0,0.0,0.0,116200
