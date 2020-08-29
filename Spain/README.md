@@ -1,9 +1,6 @@
 ## Spain COVID Data
 
 Includes data for Spain's provinces from the DataDista project: https://datadista.com/
-
-
-*** THIS  DATASET IS IN PROGRESS. DAILY UPDATES NOW OCCURRING***
  
  
 ### Files:
