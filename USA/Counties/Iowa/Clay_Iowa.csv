@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-08-28,Iowa,Clay,0.0,0,1,6.2,236,3,1.27,1462.75,18.59,1.46,16134,28.44,43.4,-18.59,421.48,0.0
 2020-08-27,Iowa,Clay,6.2,1,0,0.0,236,2,0.85,1462.75,12.4,1.46,16134,28.44,61.99,-12.39,421.48,6.2
 2020-08-26,Iowa,Clay,12.4,2,0,0.0,235,2,0.85,1456.55,12.4,1.46,16134,28.44,74.38,-18.59,415.28,6.2
 2020-08-25,Iowa,Clay,12.4,2,0,0.0,233,2,0.86,1444.16,12.4,1.44,16134,28.44,92.97,18.6,409.08,6.2

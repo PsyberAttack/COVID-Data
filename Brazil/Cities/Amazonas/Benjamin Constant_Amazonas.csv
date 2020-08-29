@@ -1,5 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-08-25,Amazonas,Benjamin Constant,0.0,0,0,0.0,1537,37,2.41,3575.75,86.08,3.58,42984,6.99,0.0,37.24,0.0
+2020-08-27,Amazonas,Benjamin Constant,2.33,1,0,0.0,1539,37,2.4,3580.4,86.08,3.58,42984,6.99,2.33,37.24,2.33
+2020-08-26,Amazonas,Benjamin Constant,2.33,1,0,0.0,1538,37,2.41,3578.08,86.08,3.58,42984,4.66,0.0,34.91,0.0
+2020-08-25,Amazonas,Benjamin Constant,0.0,0,0,0.0,1537,37,2.41,3575.75,86.08,3.58,42984,4.66,-2.33,34.91,-2.33
+2020-08-24,Amazonas,Benjamin Constant,0.0,0,0,0.0,1537,37,2.41,3575.75,86.08,3.58,42984,6.99,0.0,37.24,0.0
 2020-08-23,Amazonas,Benjamin Constant,0.0,0,0,0.0,1537,37,2.41,3575.75,86.08,3.58,42984,6.99,-2.33,37.24,0.0
 2020-08-22,Amazonas,Benjamin Constant,0.0,0,0,0.0,1537,37,2.41,3575.75,86.08,3.58,42984,9.32,0.0,37.24,-4.65
 2020-08-21,Amazonas,Benjamin Constant,2.33,1,0,0.0,1537,37,2.41,3575.75,86.08,3.58,42984,9.32,0.0,41.89,-11.63

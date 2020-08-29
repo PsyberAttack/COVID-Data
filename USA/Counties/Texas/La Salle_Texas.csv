@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-08-28,Texas,La Salle,0.0,0,0,0.0,366,3,0.82,4859.91,39.84,4.86,7531,5.07,-26.56,0.0,119.51,0.0
 2020-08-27,Texas,La Salle,0.0,0,1,13.28,366,3,0.82,4859.91,39.84,4.86,7531,5.07,-26.56,-13.28,119.51,-92.95
 2020-08-26,Texas,La Salle,13.28,1,0,0.0,366,2,0.55,4859.91,26.56,4.86,7531,5.07,-13.28,-26.56,212.46,-13.28
 2020-08-25,Texas,La Salle,-26.56,-2,0,0.0,365,2,0.55,4846.63,26.56,4.85,7531,5.07,13.28,-26.56,225.74,13.28
