@@ -1,9 +1,12 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-08-26,Nordrhein-Westfalen,Hochsauerlandkreis,0.77,2,0,0.0,814,18,2.21,313.35,6.93,0.31,259777,6.14,-1.15,38.82,0.39
-2020-08-25,Nordrhein-Westfalen,Hochsauerlandkreis,0.0,0,0,0.0,812,18,2.22,312.58,6.93,0.31,259777,7.29,-0.38,38.43,-0.38
-2020-08-24,Nordrhein-Westfalen,Hochsauerlandkreis,0.38,1,0,0.0,812,18,2.22,312.58,6.93,0.31,259777,7.67,-1.16,38.81,-1.16
-2020-08-23,Nordrhein-Westfalen,Hochsauerlandkreis,1.15,3,0,0.0,811,18,2.22,312.19,6.93,0.31,259777,8.83,0.38,39.97,0.0
-2020-08-22,Nordrhein-Westfalen,Hochsauerlandkreis,0.38,1,0,0.0,808,18,2.23,311.04,6.93,0.31,259777,8.45,0.38,39.97,-0.77
+2020-08-29,Nordrhein-Westfalen,Hochsauerlandkreis,0.77,2,0,0.0,818,18,2.2,314.89,6.93,0.31,259777,3.46,0.0,37.3,0.0
+2020-08-28,Nordrhein-Westfalen,Hochsauerlandkreis,0.0,0,0,0.0,816,18,2.21,314.12,6.93,0.31,259777,3.46,-1.54,37.3,-1.15
+2020-08-27,Nordrhein-Westfalen,Hochsauerlandkreis,0.0,0,0,0.0,816,18,2.21,314.12,6.93,0.31,259777,5.0,-1.92,38.45,-1.15
+2020-08-26,Nordrhein-Westfalen,Hochsauerlandkreis,0.77,2,0,0.0,816,18,2.21,314.12,6.93,0.31,259777,6.92,-1.15,39.6,0.39
+2020-08-25,Nordrhein-Westfalen,Hochsauerlandkreis,0.0,0,0,0.0,814,18,2.21,313.35,6.93,0.31,259777,8.07,-0.38,39.21,-0.38
+2020-08-24,Nordrhein-Westfalen,Hochsauerlandkreis,0.38,1,0,0.0,814,18,2.21,313.35,6.93,0.31,259777,8.45,-1.16,39.59,-1.16
+2020-08-23,Nordrhein-Westfalen,Hochsauerlandkreis,1.54,4,0,0.0,813,18,2.21,312.96,6.93,0.31,259777,9.61,0.77,40.75,0.39
+2020-08-22,Nordrhein-Westfalen,Hochsauerlandkreis,0.77,2,0,0.0,809,18,2.22,311.42,6.93,0.31,259777,8.84,0.77,40.36,-0.38
 2020-08-21,Nordrhein-Westfalen,Hochsauerlandkreis,1.54,4,0,0.0,807,18,2.23,310.65,6.93,0.31,259777,8.07,-0.77,40.74,1.54
 2020-08-20,Nordrhein-Westfalen,Hochsauerlandkreis,1.92,5,0,0.0,803,18,2.24,309.11,6.93,0.31,259777,8.84,1.54,39.2,1.92
 2020-08-19,Nordrhein-Westfalen,Hochsauerlandkreis,1.92,5,0,0.0,798,18,2.26,307.19,6.93,0.31,259777,7.3,-2.7,37.28,1.54
