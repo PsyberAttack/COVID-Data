@@ -5,7 +5,7 @@ Includes data for Japan's Prefectures from the COVID-19 Japan project: https://c
  
 ### Files:
 
-**Provinces** contains time series data for each Japanese Prefecture
+**Prefectures** contains time series data for each Japanese Prefecture
 
 
 ### Data Sources:
