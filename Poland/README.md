@@ -1,6 +1,6 @@
 ## Poland COVID Data
 
-Includes data for Polands's regions from the Polish Government: https://ghanahealthservice.org/covid19/
+Includes data for Polands's regions from the Polish Government: https://www.gov.pl/web/coronavirus
  
  
 ### Files:
