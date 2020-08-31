@@ -1,8 +1,8 @@
 ## ZOE COVID-19 Symptom Study App Data
 
-Includes data from the COVID Symptom Study App, as reported on: https://covid.joinzoe.com/data
+Includes data from the UK COVID Symptom Study App. Data is scraped daily, and is published here under fair use terms. If you find this data useful, you should consider supporting the project. 
 
-Data is scraped once daily, and published here under fair use terms. If you find this data useful, you should consider supporting the Symptom Study App project. UK residents can install the app and share health updates.  Non-UK residents could share news from the project and help raise awareness of the study. Fair is fair.
+------
 
 
 ### Syntax
@@ -13,14 +13,16 @@ Data is scraped once daily, and published here under fair use terms. If you find
 
 3. **Participant(%)** is the percentage of the population participating in the study.
 
+------
+
 
 ### Files:
 
 **Latest_Zoe_Full.csv** contains a timeseries of all scraped data, updated daily, beginning July 8th 2020.
 
-**zoe-csv-[DATE].csv** contains the scraped data for the day of upload listed in the file title.
+**Latest_Zoe_Day.csv** contains the scraped data for the most recent day.
 
-
+------
 
 ### Data Sources:
 
@@ -28,4 +30,4 @@ Data is scraped once daily, and published here under fair use terms. If you find
 
 
 
-_The dataset will be updated daily by an automated process, (exact update time to be confirmed)_
+_The dataset is updated daily by an automated process_
