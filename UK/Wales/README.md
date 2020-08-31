@@ -1,6 +1,26 @@
 ## Wales COVID-19 Data
 
-Includes data from the Welsh government' COVID-19 dashboards 
+Includes case data from the Welsh government's COVID-19 Dashboard
+
+
+------
+
+### Directories
+
+**Local Authorities** contains timeseries sheets for each Welsh Local Authority
+
+
+------
+
+
+### Files
+
+**Wales_Cases_Full.csv** provides timeseries case data for Welsh Local Authorities
+
+**Wales_Cases_Day.csv** provides the latest day's case data for Welsh Local Authorities
+
+
+------
 
 
 ### Data Sources:
@@ -8,4 +28,5 @@ Includes data from the Welsh government' COVID-19 dashboards
 **Welsh Government Covid Dashboard:** https://covid19-phwdata.nhs.wales/
 
 
-_The dataset will be updated daily by an automated process, (exact update time to be confirmed)_
+
+_The dataset is updated daily by an automated process_
