@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-08-30,Santa Catarina,Monte Carlo,0.0,0,0,0.0,201,5,2.49,2037.3,50.68,2.04,9866,141.9,0.0,668.97,-10.14
+2020-08-29,Santa Catarina,Monte Carlo,-10.14,-1,0,0.0,201,5,2.49,2037.3,50.68,2.04,9866,141.9,-10.14,679.11,-60.82
 2020-08-28,Santa Catarina,Monte Carlo,30.41,3,0,0.0,202,5,2.48,2047.44,50.68,2.05,9866,152.04,20.27,739.93,-10.13
 2020-08-27,Santa Catarina,Monte Carlo,40.54,4,1,10.14,199,5,2.51,2017.03,50.68,2.02,9866,131.77,20.27,750.06,10.13
 2020-08-26,Santa Catarina,Monte Carlo,30.41,3,0,0.0,195,4,2.05,1976.48,40.54,1.98,9866,111.5,-20.27,739.93,-40.54

@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-08-28,Espírito Santo,Ponto Belo,25.44,2,1,12.72,68,3,4.41,864.81,38.15,0.86,7863,101.75,0.0,317.96,25.44
+2020-08-28,Espírito Santo,Ponto Belo,-12.72,-1,0,0.0,68,3,4.41,864.81,38.15,0.86,7863,101.74,-12.72,305.23,-12.72
+2020-08-27,Espírito Santo,Ponto Belo,38.15,3,0,0.0,69,3,4.35,877.53,38.15,0.88,7863,114.46,38.15,317.95,25.43
+2020-08-26,Espírito Santo,Ponto Belo,0.0,0,1,12.72,66,3,4.55,839.37,38.15,0.84,7863,76.31,-25.44,292.52,0.0
 2020-08-25,Espírito Santo,Ponto Belo,12.72,1,0,0.0,66,2,3.03,839.37,25.44,0.84,7863,101.75,-25.43,292.52,-12.72
 2020-08-24,Espírito Santo,Ponto Belo,0.0,0,1,12.72,65,2,3.08,826.66,25.44,0.83,7863,127.18,0.0,305.24,0.0
 2020-08-23,Espírito Santo,Ponto Belo,0.0,0,0,0.0,65,1,1.54,826.66,12.72,0.83,7863,127.18,0.0,305.24,-38.15

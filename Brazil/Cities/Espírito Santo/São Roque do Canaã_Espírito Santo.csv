@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-08-28,Espírito Santo,São Roque do Canaã,40.27,5,0,0.0,181,7,3.87,1457.91,56.38,1.46,12415,80.54,32.22,523.51,16.11
+2020-08-28,Espírito Santo,São Roque do Canaã,32.22,4,0,0.0,181,7,3.87,1457.91,56.38,1.46,12415,40.27,8.06,370.47,-40.27
+2020-08-27,Espírito Santo,São Roque do Canaã,8.05,1,0,0.0,177,7,3.95,1425.69,56.38,1.43,12415,32.21,-8.06,410.74,-72.5
+2020-08-26,Espírito Santo,São Roque do Canaã,0.0,0,0,0.0,176,7,3.98,1417.64,56.38,1.42,12415,40.27,-8.05,483.24,-24.16
 2020-08-25,Espírito Santo,São Roque do Canaã,0.0,0,0,0.0,176,7,3.98,1417.64,56.38,1.42,12415,48.32,-24.16,507.4,-16.11
 2020-08-24,Espírito Santo,São Roque do Canaã,0.0,0,0,0.0,176,7,3.98,1417.64,56.38,1.42,12415,72.48,-16.11,523.51,-48.33
 2020-08-23,Espírito Santo,São Roque do Canaã,0.0,0,0,0.0,176,7,3.98,1417.64,56.38,1.42,12415,88.59,0.0,571.84,-8.05

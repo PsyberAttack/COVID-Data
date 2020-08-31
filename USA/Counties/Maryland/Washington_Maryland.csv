@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-08-30,Maryland,Washington,13.25,20,1,0.66,1308,33,2.52,866.65,21.87,0.87,150926,329.7,49.03,-4.64,218.66,5.96
 2020-08-29,Maryland,Washington,9.94,15,0,0.0,1288,32,2.48,853.4,21.2,0.85,150926,329.7,53.67,0.0,212.7,0.0
 2020-08-28,Maryland,Washington,3.98,6,0,0.0,1273,32,2.51,843.46,21.2,0.84,150926,329.7,53.67,-10.6,212.7,-6.62
 2020-08-27,Maryland,Washington,5.96,9,0,0.0,1267,32,2.53,839.48,21.2,0.84,150926,329.7,64.27,-0.67,219.32,2.65
