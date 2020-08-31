@@ -1,6 +1,6 @@
 ## Czechia COVID Data
 
-Includes data for Czechia's regions from the Portuguese Ministry of Health: https://onemocneni-aktualne.mzcr.cz/covid-19
+Includes data for Czechia's regions from Czechia's Ministry of Health: https://onemocneni-aktualne.mzcr.cz/covid-19
  
  
 ### Files:
