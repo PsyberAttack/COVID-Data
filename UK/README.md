@@ -30,7 +30,7 @@ Includes data from the UK Government, Office for National Statistics, National R
 
 **UK_Statistics_Agencies_Deaths.csv** includes 'suspected' and 'confirmed' COVID deaths from the Statistics Agencies of each of the four nations of the UK. The data is reported with a lag, but the number of deaths recorded is significantly higher than the official UK government figure because it includes people who have COVID-19 on their death certificates.
 
-The Office for National Statistics, (ONS), provides the data for England and Wales, whilst National Records of Scotland, (NRS), provides a separate for Scotland and Northern Ireland reports through Northern Ireland Statistics and Research Agency, (NISRA).
+The *Office for National Statistics*, (ONS), provides the data for England and Wales, whilst *National Records of Scotland*, (NRS), provides a separate report for Scotland and Northern Ireland reports through *Northern Ireland Statistics and Research Agency*, (NISRA).
 
 ------
 
