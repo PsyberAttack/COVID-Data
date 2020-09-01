@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-08-31,Mississippi,Smith,0.0,0,0,0.0,467,13,2.78,2918.39,81.24,2.92,16002,25.15,81.24,0.0,543.71,-18.75
 2020-08-30,Mississippi,Smith,25.0,4,0,0.0,467,13,2.78,2918.39,81.24,2.92,16002,25.15,81.24,6.25,562.46,6.25
 2020-08-29,Mississippi,Smith,6.25,1,0,0.0,463,13,2.81,2893.39,81.24,2.89,16002,25.15,74.99,-56.24,556.21,-37.49
 2020-08-28,Mississippi,Smith,-6.25,-1,0,0.0,462,13,2.81,2887.14,81.24,2.89,16002,25.15,131.23,-18.75,593.7,-12.5

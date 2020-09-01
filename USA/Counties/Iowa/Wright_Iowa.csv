@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-08-31,Iowa,Wright,7.88,1,0,0.0,520,1,0.19,4097.71,7.88,4.1,12690,21.86,197.0,0.0,606.76,-7.88
 2020-08-30,Iowa,Wright,23.64,3,0,0.0,519,1,0.19,4089.83,7.88,4.09,12690,21.86,197.0,7.88,614.64,15.76
 2020-08-29,Iowa,Wright,0.0,0,0,0.0,516,1,0.19,4066.19,7.88,4.07,12690,21.86,189.12,-15.76,598.88,-7.88
 2020-08-28,Iowa,Wright,23.64,3,0,0.0,516,1,0.19,4066.19,7.88,4.07,12690,21.86,204.88,23.64,606.76,23.64

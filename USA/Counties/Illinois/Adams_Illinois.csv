@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-08-31,Illinois,Adams,3.04,2,0,0.0,771,7,0.91,1173.68,10.66,1.17,65691,76.82,66.98,-18.27,496.27,-28.93
 2020-08-30,Illinois,Adams,10.66,7,0,0.0,769,7,0.91,1170.63,10.66,1.17,65691,76.82,85.25,-1.52,525.2,-10.65
 2020-08-29,Illinois,Adams,19.79,13,0,0.0,762,7,0.92,1159.98,10.66,1.16,65691,76.82,86.77,12.18,535.85,-6.09
 2020-08-28,Illinois,Adams,22.83,15,0,0.0,749,7,0.93,1140.19,10.66,1.14,65691,76.82,74.59,10.65,541.94,-22.84
