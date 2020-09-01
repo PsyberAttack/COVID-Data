@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-08-31,São Paulo,Vera Cruz,0.0,0,0,0.0,60,2,3.33,553.35,18.45,0.55,10843,267.46,0.0,461.14,0.0
+2020-08-30,São Paulo,Vera Cruz,27.67,3,0,0.0,60,2,3.33,553.35,18.45,0.55,10843,267.46,-27.67,461.14,9.22
 2020-08-28,São Paulo,Vera Cruz,46.11,5,0,0.0,57,2,3.51,525.68,18.45,0.53,10843,295.13,27.66,451.92,36.89
 2020-08-27,São Paulo,Vera Cruz,166.01,18,0,0.0,52,2,3.85,479.57,18.45,0.48,10843,267.47,147.56,415.03,166.01
 2020-08-26,São Paulo,Vera Cruz,9.22,1,0,0.0,34,2,5.88,313.57,18.45,0.31,10843,119.91,-18.45,249.02,9.22

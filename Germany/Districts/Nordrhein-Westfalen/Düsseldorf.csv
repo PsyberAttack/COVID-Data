@@ -1,5 +1,7 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-08-29,Nordrhein-Westfalen,Düsseldorf,0.97,6,0,0.0,2650,47,1.77,427.91,7.59,0.43,619294,17.28,-3.07,78.64,-1.29
+2020-08-31,Nordrhein-Westfalen,Düsseldorf,0.32,2,0,0.0,2672,47,1.76,431.46,7.59,0.43,619294,16.14,-1.94,79.12,-1.29
+2020-08-30,Nordrhein-Westfalen,Düsseldorf,2.58,16,0,0.0,2670,47,1.76,431.14,7.59,0.43,619294,18.08,0.16,80.41,1.13
+2020-08-29,Nordrhein-Westfalen,Düsseldorf,1.61,10,0,0.0,2654,47,1.77,428.55,7.59,0.43,619294,17.92,-2.43,79.28,-0.65
 2020-08-28,Nordrhein-Westfalen,Düsseldorf,2.42,15,0,0.0,2644,47,1.78,426.94,7.59,0.43,619294,20.35,-1.78,79.93,-1.94
 2020-08-27,Nordrhein-Westfalen,Düsseldorf,2.42,15,0,0.0,2629,47,1.79,424.52,7.59,0.42,619294,22.13,-0.65,81.87,0.0
 2020-08-26,Nordrhein-Westfalen,Düsseldorf,4.04,25,0,0.0,2614,47,1.8,422.09,7.59,0.42,619294,22.78,0.16,81.87,0.49
