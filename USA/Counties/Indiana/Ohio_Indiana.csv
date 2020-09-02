@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-01,Indiana,Ohio,0.0,0,0,0.0,73,7,9.59,1249.14,119.78,1.25,5844,67.84,51.33,0.0,376.45,0.0
 2020-08-31,Indiana,Ohio,0.0,0,0,0.0,73,7,9.59,1249.14,119.78,1.25,5844,67.84,51.33,0.0,376.45,-17.11
 2020-08-30,Indiana,Ohio,17.11,1,0,0.0,73,7,9.59,1249.14,119.78,1.25,5844,67.84,51.33,17.11,393.56,-68.45
 2020-08-29,Indiana,Ohio,17.11,1,0,0.0,72,7,9.72,1232.03,119.78,1.23,5844,67.84,34.22,34.22,462.01,-17.11

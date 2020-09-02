@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-01,Michigan,Ottawa,23.41,68,0,0.0,2245,63,2.81,772.82,21.69,0.77,290494,515.5,77.1,21.0,167.29,22.72
 2020-08-31,Michigan,Ottawa,15.15,44,0,0.0,2177,63,2.89,749.41,21.69,0.75,290494,515.5,56.1,13.43,144.57,11.71
 2020-08-30,Michigan,Ottawa,9.98,29,-1,-0.34,2133,63,2.95,734.27,21.69,0.73,290494,515.5,42.67,2.75,132.86,7.23
 2020-08-29,Michigan,Ottawa,5.85,17,1,0.34,2104,64,3.04,724.28,22.03,0.72,290494,515.5,39.92,2.75,125.63,-12.39

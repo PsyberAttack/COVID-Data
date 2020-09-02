@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-01,New Mexico,Lincoln,10.23,2,0,0.0,171,2,1.17,874.41,10.23,0.87,19556,4.05,35.8,10.23,311.91,5.12
 2020-08-31,New Mexico,Lincoln,5.11,1,0,0.0,169,2,1.18,864.18,10.23,0.86,19556,4.05,25.57,5.11,306.79,-15.34
 2020-08-30,New Mexico,Lincoln,10.23,2,0,0.0,168,2,1.19,859.07,10.23,0.86,19556,4.05,20.46,0.0,322.13,-20.45
 2020-08-29,New Mexico,Lincoln,0.0,0,0,0.0,166,2,1.2,848.84,10.23,0.85,19556,4.05,20.46,0.0,342.58,-10.23

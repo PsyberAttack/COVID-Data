@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-01,New York,Monroe,1.35,10,0,0.0,5463,257,4.7,735.78,34.61,0.74,742474,1130.32,15.35,-1.07,86.3,-2.83
 2020-08-31,New York,Monroe,1.21,9,0,0.0,5453,257,4.71,734.44,34.61,0.73,742474,1130.32,16.42,-0.54,89.13,-1.75
 2020-08-30,New York,Monroe,2.83,21,1,0.13,5444,257,4.72,733.22,34.61,0.73,742474,1130.32,16.96,0.14,90.88,-0.67
 2020-08-29,New York,Monroe,3.23,24,0,0.0,5423,256,4.72,730.4,34.48,0.73,742474,1130.32,16.82,0.0,91.55,-1.08

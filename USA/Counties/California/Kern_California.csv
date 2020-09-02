@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-01,California,Kern,15.05,135,6,0.67,29459,292,0.99,3285.03,32.56,3.29,896764,110.27,104.71,-16.84,911.49,1.33
 2020-08-31,California,Kern,10.48,94,0,0.0,29324,286,0.98,3269.98,31.89,3.27,896764,110.27,121.55,0.0,910.16,-30.33
 2020-08-30,California,Kern,13.94,125,0,0.0,29230,286,0.98,3259.5,31.89,3.26,896764,110.27,121.55,-11.15,940.49,-68.02
 2020-08-29,California,Kern,16.06,144,13,1.45,29105,286,0.98,3245.56,31.89,3.25,896764,110.27,132.7,-12.6,1008.51,-40.7

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-01,Tennessee,Campbell,0.0,0,1,2.53,328,3,0.91,828.64,7.58,0.83,39583,82.44,60.63,-5.05,270.35,-20.21
 2020-08-31,Tennessee,Campbell,7.58,3,0,0.0,328,2,0.61,828.64,5.05,0.83,39583,82.44,65.68,0.0,290.56,-7.58
 2020-08-30,Tennessee,Campbell,7.58,3,0,0.0,325,2,0.62,821.06,5.05,0.82,39583,82.44,65.68,-2.53,298.14,-2.53
 2020-08-29,Tennessee,Campbell,5.05,2,0,0.0,322,2,0.62,813.48,5.05,0.81,39583,82.44,68.21,-2.53,300.67,-27.79

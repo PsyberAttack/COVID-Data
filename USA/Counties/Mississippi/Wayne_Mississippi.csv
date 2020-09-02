@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-01,Mississippi,Wayne,9.85,2,0,0.0,849,21,2.47,4182.68,103.46,4.18,20298,25.04,44.34,-24.64,556.73,-4.93
 2020-08-31,Mississippi,Wayne,4.93,1,0,0.0,847,21,2.48,4172.82,103.46,4.17,20298,25.04,68.98,-4.92,561.66,0.0
 2020-08-30,Mississippi,Wayne,0.0,0,0,0.0,846,21,2.48,4167.9,103.46,4.17,20298,25.04,73.9,-4.93,561.66,-4.93
 2020-08-29,Mississippi,Wayne,14.78,3,-1,-4.93,846,21,2.48,4167.9,103.46,4.17,20298,25.04,78.83,-9.85,566.59,4.93

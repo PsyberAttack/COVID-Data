@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-01,Washington,Thurston,1.75,5,1,0.35,1007,16,1.59,351.58,5.59,0.35,286419,396.43,21.29,-1.39,107.17,-5.23
 2020-08-31,Washington,Thurston,3.14,9,1,0.35,1002,15,1.5,349.84,5.24,0.35,286419,396.43,22.68,-1.4,112.4,2.44
 2020-08-30,Washington,Thurston,2.44,7,0,0.0,993,14,1.41,346.69,4.89,0.35,286419,396.43,24.08,0.35,109.96,1.39
 2020-08-29,Washington,Thurston,2.09,6,0,0.0,986,14,1.42,344.25,4.89,0.34,286419,396.43,23.73,-1.05,108.57,-6.64

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-01,Texas,Harrison,8.99,6,0,0.0,806,35,4.34,1207.92,52.45,1.21,66726,74.14,40.46,5.99,256.27,-1.5
 2020-08-31,Texas,Harrison,5.99,4,0,0.0,800,35,4.38,1198.93,52.45,1.2,66726,74.14,34.47,2.99,257.77,4.49
 2020-08-30,Texas,Harrison,0.0,0,0,0.0,796,35,4.4,1192.94,52.45,1.19,66726,74.14,31.48,0.0,253.28,-4.5
 2020-08-29,Texas,Harrison,1.5,1,0,0.0,796,35,4.4,1192.94,52.45,1.19,66726,74.14,31.48,1.5,257.78,-16.48

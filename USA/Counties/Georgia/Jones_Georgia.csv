@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-01,Georgia,Jones,24.46,7,0,0.0,459,5,1.09,1604.0,17.47,1.6,28616,72.64,101.34,-3.5,642.99,6.99
 2020-08-31,Georgia,Jones,10.48,3,0,0.0,452,5,1.11,1579.54,17.47,1.58,28616,72.64,104.84,-132.8,636.0,-20.97
 2020-08-30,Georgia,Jones,-20.97,-6,0,0.0,449,5,1.11,1569.05,17.47,1.57,28616,72.64,237.64,-31.45,656.97,-31.45
 2020-08-29,Georgia,Jones,13.98,4,0,0.0,455,5,1.1,1590.02,17.47,1.59,28616,72.64,269.09,-6.99,688.42,-3.49

@@ -1,11 +1,12 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-08-30,Baden-Württemberg,Freiburg im Breisgau,1.3,3,0,0.0,1093,80,7.32,474.72,34.75,0.47,230241,9.12,0.0,38.65,0.87
-2020-08-29,Baden-Württemberg,Freiburg im Breisgau,0.87,2,0,0.0,1090,80,7.34,473.42,34.75,0.47,230241,9.12,-1.74,37.78,0.44
-2020-08-28,Baden-Württemberg,Freiburg im Breisgau,1.3,3,0,0.0,1088,80,7.35,472.55,34.75,0.47,230241,10.86,-0.44,37.34,0.43
-2020-08-27,Baden-Württemberg,Freiburg im Breisgau,0.43,1,0,0.0,1085,80,7.37,471.25,34.75,0.47,230241,11.3,-0.87,36.91,-0.87
-2020-08-26,Baden-Württemberg,Freiburg im Breisgau,0.87,2,0,0.0,1084,80,7.38,470.81,34.75,0.47,230241,12.17,-2.17,37.78,0.87
-2020-08-25,Baden-Württemberg,Freiburg im Breisgau,1.74,4,0,0.0,1082,80,7.39,469.94,34.75,0.47,230241,14.34,1.31,36.91,0.87
-2020-08-24,Baden-Württemberg,Freiburg im Breisgau,2.61,6,0,0.0,1078,80,7.42,468.21,34.75,0.47,230241,13.03,1.74,36.04,2.18
+2020-08-31,Baden-Württemberg,Freiburg im Breisgau,1.74,4,0,0.0,1100,80,7.27,477.76,34.75,0.48,230241,9.12,-1.3,41.26,1.31
+2020-08-30,Baden-Württemberg,Freiburg im Breisgau,1.74,4,0,0.0,1096,80,7.3,476.02,34.75,0.48,230241,10.42,0.44,39.95,1.31
+2020-08-29,Baden-Württemberg,Freiburg im Breisgau,0.43,1,0,0.0,1092,80,7.33,474.29,34.75,0.47,230241,9.98,-2.18,38.64,0.0
+2020-08-28,Baden-Württemberg,Freiburg im Breisgau,1.74,4,0,0.0,1091,80,7.33,473.85,34.75,0.47,230241,12.16,0.0,38.64,0.87
+2020-08-27,Baden-Württemberg,Freiburg im Breisgau,0.43,1,0,0.0,1087,80,7.36,472.11,34.75,0.47,230241,12.16,-0.87,37.77,-0.87
+2020-08-26,Baden-Württemberg,Freiburg im Breisgau,1.3,3,0,0.0,1086,80,7.37,471.68,34.75,0.47,230241,13.03,-1.74,38.64,1.3
+2020-08-25,Baden-Württemberg,Freiburg im Breisgau,1.74,4,0,0.0,1083,80,7.39,470.38,34.75,0.47,230241,14.77,1.31,37.34,0.87
+2020-08-24,Baden-Württemberg,Freiburg im Breisgau,3.04,7,0,0.0,1079,80,7.41,468.64,34.75,0.47,230241,13.46,2.17,36.47,2.61
 2020-08-23,Baden-Württemberg,Freiburg im Breisgau,1.3,3,0,0.0,1072,80,7.46,465.6,34.75,0.47,230241,11.29,0.43,33.86,1.3
 2020-08-22,Baden-Württemberg,Freiburg im Breisgau,2.61,6,0,0.0,1069,80,7.48,464.3,34.75,0.46,230241,10.86,2.18,32.56,2.61
 2020-08-21,Baden-Württemberg,Freiburg im Breisgau,1.74,4,0,0.0,1063,80,7.53,461.69,34.75,0.46,230241,8.68,0.87,29.95,0.87

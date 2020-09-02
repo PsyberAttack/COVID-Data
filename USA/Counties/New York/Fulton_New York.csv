@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-01,New York,Fulton,0.0,0,0,0.0,311,28,9.0,580.32,52.25,0.58,53591,108.16,3.74,0.0,48.53,0.0
 2020-08-31,New York,Fulton,0.0,0,0,0.0,311,28,9.0,580.32,52.25,0.58,53591,108.16,3.74,0.0,48.53,-3.73
 2020-08-30,New York,Fulton,0.0,0,0,0.0,311,28,9.0,580.32,52.25,0.58,53591,108.16,3.74,-1.87,52.26,-1.87
 2020-08-29,New York,Fulton,1.87,1,0,0.0,311,28,9.0,580.32,52.25,0.58,53591,108.16,5.61,-1.86,54.13,-11.19

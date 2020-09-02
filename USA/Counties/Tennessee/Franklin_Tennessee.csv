@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-01,Tennessee,Franklin,59.68,25,0,0.0,517,4,0.77,1234.18,9.55,1.23,41890,75.55,214.85,57.29,551.46,59.68
 2020-08-31,Tennessee,Franklin,9.55,4,0,0.0,492,4,0.81,1174.5,9.55,1.17,41890,75.55,157.56,0.0,491.78,7.16
 2020-08-30,Tennessee,Franklin,11.94,5,0,0.0,488,4,0.82,1164.96,9.55,1.16,41890,75.55,157.56,0.0,484.62,-21.48
 2020-08-29,Tennessee,Franklin,31.03,13,0,0.0,483,4,0.83,1153.02,9.55,1.15,41890,75.55,157.56,19.09,506.1,0.0
