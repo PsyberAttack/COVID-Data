@@ -1,4 +1,7 @@
 date,country,region,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-02,Honduras,Lempira,0.0,0,0,0.0,278,10,3.6,86.56,3.11,0.09,321179,16.2,0.0,36.11,0.0
+2020-09-01,Honduras,Lempira,0.31,1,2,0.62,278,10,3.6,86.56,3.11,0.09,321179,16.2,-0.31,36.11,-3.43
+2020-08-31,Honduras,Lempira,0.0,0,0,0.0,277,8,2.89,86.24,2.49,0.09,321179,16.51,0.0,39.54,-6.23
 2020-08-30,Honduras,Lempira,6.54,21,0,0.0,277,8,2.89,86.24,2.49,0.09,321179,16.51,3.12,45.77,4.36
 2020-08-29,Honduras,Lempira,8.1,26,0,0.0,256,8,3.12,79.71,2.49,0.08,321179,13.39,4.99,41.41,5.92
 2020-08-28,Honduras,Lempira,0.0,0,0,0.0,230,8,3.48,71.61,2.49,0.07,321179,8.4,0.0,35.49,0.0

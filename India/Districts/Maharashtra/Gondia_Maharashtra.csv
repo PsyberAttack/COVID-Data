@@ -1,5 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-02,Maharashtra,Gondia,0.0,0,0,0.0,1569,18,1.15,118.65,1.36,0.12,1322331,31.84,-4.54,85.06,-3.48
+2020-09-03,Maharashtra,Gondia,13.23,175,0,0.0,1853,22,1.19,140.13,1.66,0.14,1322331,48.24,8.16,104.79,11.49
+2020-09-02,Maharashtra,Gondia,8.24,109,4,0.3,1678,22,1.31,126.9,1.66,0.13,1322331,40.08,3.7,93.3,4.76
 2020-09-01,Maharashtra,Gondia,7.64,101,1,0.08,1569,18,1.15,118.65,1.36,0.12,1322331,36.38,5.07,88.54,6.35
 2020-08-31,Maharashtra,Gondia,2.19,29,1,0.08,1468,17,1.16,111.02,1.29,0.11,1322331,31.31,-0.83,82.19,-2.42
 2020-08-30,Maharashtra,Gondia,3.63,48,0,0.0,1439,16,1.11,108.82,1.21,0.11,1322331,32.14,1.97,84.61,3.25

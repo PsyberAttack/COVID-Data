@@ -1,5 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-02,Maharashtra,Hingoli,0.0,0,0,0.0,1515,36,2.38,128.5,3.05,0.13,1178973,18.91,-1.53,71.26,-0.34
+2020-09-03,Maharashtra,Hingoli,2.8,33,3,0.25,1593,40,2.51,135.12,3.39,0.14,1178973,20.44,-2.29,76.69,1.61
+2020-09-02,Maharashtra,Hingoli,3.82,45,1,0.08,1560,37,2.37,132.32,3.14,0.13,1178973,22.73,2.29,75.08,3.48
 2020-09-01,Maharashtra,Hingoli,0.59,7,1,0.08,1515,36,2.38,128.5,3.05,0.13,1178973,20.44,0.08,71.6,0.34
 2020-08-31,Maharashtra,Hingoli,5.0,59,0,0.0,1508,35,2.32,127.91,2.97,0.13,1178973,20.36,4.58,71.26,-3.48
 2020-08-30,Maharashtra,Hingoli,0.85,10,0,0.0,1449,35,2.42,122.9,2.97,0.12,1178973,15.78,-4.58,74.74,-0.25
