@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-02,Texas,Bell,10.68,38,0,0.0,4896,65,1.33,1376.67,18.28,1.38,355642,338.29,61.01,-1.41,341.89,-12.38
 2020-09-01,Texas,Bell,25.31,90,1,0.28,4858,65,1.34,1365.98,18.28,1.37,355642,338.29,62.42,-3.37,354.27,-3.37
 2020-08-31,Texas,Bell,0.0,0,0,0.0,4768,64,1.34,1340.67,18.0,1.34,355642,338.29,65.79,0.0,357.64,0.0
 2020-08-30,Texas,Bell,0.0,0,1,0.28,4768,64,1.34,1340.67,18.0,1.34,355642,338.29,65.79,0.0,357.64,0.0

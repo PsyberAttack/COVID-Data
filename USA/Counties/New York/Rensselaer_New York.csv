@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-02,New York,Rensselaer,1.88,3,1,0.63,844,42,4.98,529.35,26.34,0.53,159442,244.37,13.8,0.0,55.82,-2.51
 2020-09-01,New York,Rensselaer,1.88,3,0,0.0,841,41,4.88,527.46,25.71,0.53,159442,244.37,13.8,1.25,58.33,-3.14
 2020-08-31,New York,Rensselaer,3.14,5,0,0.0,838,41,4.89,525.58,25.71,0.53,159442,244.37,12.55,2.51,61.47,0.63
 2020-08-30,New York,Rensselaer,1.88,3,0,0.0,833,41,4.92,522.45,25.71,0.52,159442,244.37,10.04,-0.63,60.84,0.63

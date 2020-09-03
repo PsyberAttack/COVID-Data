@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-01,Pará,Santa Izabel do Pará,8.47,6,0,0.0,552,34,6.16,779.65,48.02,0.78,70801,14.12,0.0,62.11,8.47
+2020-09-02,Pará,Santa Izabel do Pará,0.0,0,0,0.0,552,34,6.16,779.65,48.02,0.78,70801,9.88,0.0,60.7,-1.41
+2020-09-01,Pará,Santa Izabel do Pará,5.65,4,0,0.0,552,34,6.16,779.65,48.02,0.78,70801,9.88,1.41,62.11,5.65
+2020-08-31,Pará,Santa Izabel do Pará,2.82,2,0,0.0,548,34,6.2,774.0,48.02,0.77,70801,8.47,-5.65,56.46,2.82
 2020-08-30,Pará,Santa Izabel do Pará,0.0,0,0,0.0,546,34,6.23,771.18,48.02,0.77,70801,14.12,0.0,53.64,-1.41
 2020-08-29,Pará,Santa Izabel do Pará,1.41,1,0,0.0,546,34,6.23,771.18,48.02,0.77,70801,14.12,0.0,55.05,-18.36
 2020-08-28,Pará,Santa Izabel do Pará,0.0,0,0,0.0,545,34,6.24,769.76,48.02,0.77,70801,14.12,-5.65,73.41,0.0

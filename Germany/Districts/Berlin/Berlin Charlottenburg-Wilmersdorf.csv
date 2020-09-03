@@ -1,9 +1,10 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-08-31,Berlin,Berlin Charlottenburg-Wilmersdorf,1.53,5,0,0.0,1108,23,2.08,339.51,7.05,0.34,326354,9.49,0.3,45.64,-1.84
-2020-08-30,Berlin,Berlin Charlottenburg-Wilmersdorf,0.61,2,0,0.0,1103,23,2.09,337.98,7.05,0.34,326354,9.19,-0.31,47.48,-0.92
-2020-08-29,Berlin,Berlin Charlottenburg-Wilmersdorf,1.53,5,0,0.0,1101,23,2.09,337.36,7.05,0.34,326354,9.5,0.3,48.4,-0.61
-2020-08-28,Berlin,Berlin Charlottenburg-Wilmersdorf,0.92,3,0,0.0,1096,23,2.1,335.83,7.05,0.34,326354,9.2,-0.92,49.01,-1.22
-2020-08-27,Berlin,Berlin Charlottenburg-Wilmersdorf,0.92,3,0,0.0,1093,23,2.1,334.91,7.05,0.33,326354,10.12,-1.53,50.23,0.61
+2020-09-01,Berlin,Berlin Charlottenburg-Wilmersdorf,2.14,7,0,0.0,1117,23,2.06,342.27,7.05,0.34,326354,10.41,0.3,46.26,0.0
+2020-08-31,Berlin,Berlin Charlottenburg-Wilmersdorf,1.53,5,0,0.0,1110,23,2.07,340.12,7.05,0.34,326354,10.11,0.3,46.26,-1.84
+2020-08-30,Berlin,Berlin Charlottenburg-Wilmersdorf,0.61,2,0,0.0,1105,23,2.08,338.59,7.05,0.34,326354,9.81,-0.31,48.1,-0.92
+2020-08-29,Berlin,Berlin Charlottenburg-Wilmersdorf,0.92,3,0,0.0,1103,23,2.09,337.98,7.05,0.34,326354,10.12,-0.31,49.02,-1.22
+2020-08-28,Berlin,Berlin Charlottenburg-Wilmersdorf,1.84,6,0,0.0,1100,23,2.09,337.06,7.05,0.34,326354,10.43,0.0,50.24,-0.3
+2020-08-27,Berlin,Berlin Charlottenburg-Wilmersdorf,1.23,4,0,0.0,1094,23,2.1,335.22,7.05,0.34,326354,10.43,-1.22,50.54,0.92
 2020-08-26,Berlin,Berlin Charlottenburg-Wilmersdorf,2.14,7,0,0.0,1090,23,2.11,333.99,7.05,0.33,326354,11.65,0.61,49.62,0.0
 2020-08-25,Berlin,Berlin Charlottenburg-Wilmersdorf,1.84,6,0,0.0,1083,23,2.12,331.85,7.05,0.33,326354,11.04,0.92,49.62,0.0
 2020-08-24,Berlin,Berlin Charlottenburg-Wilmersdorf,1.23,4,0,0.0,1077,23,2.14,330.01,7.05,0.33,326354,10.12,-1.83,49.62,0.62

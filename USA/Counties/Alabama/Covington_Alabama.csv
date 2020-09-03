@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-02,Alabama,Covington,27.04,10,0,0.0,1114,27,2.42,3011.95,73.0,3.01,36986,35.89,173.04,-13.52,759.73,18.93
 2020-09-01,Alabama,Covington,21.63,8,1,2.7,1104,27,2.45,2984.91,73.0,2.98,36986,35.89,186.56,13.52,740.8,2.7
 2020-08-31,Alabama,Covington,13.52,5,0,0.0,1096,26,2.37,2963.28,70.3,2.96,36986,35.89,173.04,-59.48,738.1,-21.63
 2020-08-30,Alabama,Covington,8.11,3,0,0.0,1091,26,2.38,2949.76,70.3,2.95,36986,35.89,232.52,2.7,759.73,-54.08

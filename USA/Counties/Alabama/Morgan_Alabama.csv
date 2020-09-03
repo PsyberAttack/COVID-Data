@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-02,Alabama,Morgan,0.84,1,0,0.0,2935,24,0.82,2464.54,20.15,2.46,119089,205.54,123.43,-57.1,527.34,-24.35
 2020-09-01,Alabama,Morgan,20.15,24,0,0.0,2934,24,0.82,2463.7,20.15,2.46,119089,205.54,180.53,8.39,551.69,3.36
 2020-08-31,Alabama,Morgan,6.72,8,0,0.0,2910,24,0.82,2443.55,20.15,2.44,119089,205.54,172.14,-15.11,548.33,-8.39
 2020-08-30,Alabama,Morgan,23.51,28,0,0.0,2902,24,0.83,2436.83,20.15,2.44,119089,205.54,187.25,16.79,556.72,-18.48

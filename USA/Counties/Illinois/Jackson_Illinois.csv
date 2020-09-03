@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-02,Illinois,Jackson,38.31,22,0,0.0,973,22,2.26,1694.56,38.31,1.69,57419,98.31,167.17,12.19,517.23,6.96
 2020-09-01,Illinois,Jackson,38.31,22,1,1.74,951,22,2.31,1656.25,38.31,1.66,57419,98.31,154.98,19.15,510.27,24.38
 2020-08-31,Illinois,Jackson,24.38,14,0,0.0,929,21,2.26,1617.93,36.57,1.62,57419,98.31,135.83,-3.49,485.89,13.93
 2020-08-30,Illinois,Jackson,10.45,6,0,0.0,915,21,2.3,1593.55,36.57,1.59,57419,98.31,139.32,-1.74,471.96,-12.19

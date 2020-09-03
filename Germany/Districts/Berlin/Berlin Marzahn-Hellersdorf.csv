@@ -1,8 +1,11 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-08-29,Berlin,Berlin Marzahn-Hellersdorf,1.56,4,0,0.0,585,6,1.03,228.83,2.35,0.23,255643,4.29,0.0,21.09,0.78
-2020-08-28,Berlin,Berlin Marzahn-Hellersdorf,0.39,1,0,0.0,581,6,1.03,227.27,2.35,0.23,255643,4.29,0.0,20.31,0.0
-2020-08-27,Berlin,Berlin Marzahn-Hellersdorf,0.39,1,0,0.0,580,6,1.03,226.88,2.35,0.23,255643,4.29,-0.78,20.31,-0.78
-2020-08-26,Berlin,Berlin Marzahn-Hellersdorf,0.0,0,0,0.0,579,6,1.04,226.49,2.35,0.23,255643,5.07,-0.39,21.09,-1.17
+2020-09-01,Berlin,Berlin Marzahn-Hellersdorf,0.39,1,0,0.0,587,6,1.02,229.62,2.35,0.23,255643,3.12,0.39,18.35,-1.96
+2020-08-31,Berlin,Berlin Marzahn-Hellersdorf,0.0,0,0,0.0,586,6,1.02,229.23,2.35,0.23,255643,2.73,-0.39,20.31,-0.78
+2020-08-30,Berlin,Berlin Marzahn-Hellersdorf,0.0,0,0,0.0,586,6,1.02,229.23,2.35,0.23,255643,3.12,-1.56,21.09,-0.39
+2020-08-29,Berlin,Berlin Marzahn-Hellersdorf,1.56,4,0,0.0,586,6,1.02,229.23,2.35,0.23,255643,4.68,0.0,21.48,0.78
+2020-08-28,Berlin,Berlin Marzahn-Hellersdorf,0.39,1,0,0.0,582,6,1.03,227.66,2.35,0.23,255643,4.68,0.0,20.7,0.0
+2020-08-27,Berlin,Berlin Marzahn-Hellersdorf,0.39,1,0,0.0,581,6,1.03,227.27,2.35,0.23,255643,4.68,-0.78,20.7,-0.78
+2020-08-26,Berlin,Berlin Marzahn-Hellersdorf,0.39,1,0,0.0,580,6,1.03,226.88,2.35,0.23,255643,5.46,0.0,21.48,-0.78
 2020-08-25,Berlin,Berlin Marzahn-Hellersdorf,0.0,0,0,0.0,579,6,1.04,226.49,2.35,0.23,255643,5.46,-2.35,22.26,-1.56
 2020-08-24,Berlin,Berlin Marzahn-Hellersdorf,0.39,1,0,0.0,579,6,1.04,226.49,2.35,0.23,255643,7.81,0.39,23.82,0.0
 2020-08-23,Berlin,Berlin Marzahn-Hellersdorf,1.56,4,0,0.0,578,6,1.04,226.1,2.35,0.23,255643,7.42,1.56,23.82,1.17

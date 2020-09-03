@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-02,Texas,Brown,39.55,15,0,0.0,654,26,3.98,1724.5,68.56,1.72,37924,40.15,110.74,36.91,701.39,39.55
 2020-09-01,Texas,Brown,13.18,5,0,0.0,639,26,4.07,1684.95,68.56,1.68,37924,40.15,73.83,-18.46,661.84,13.18
 2020-08-31,Texas,Brown,36.92,14,0,0.0,634,26,4.1,1671.76,68.56,1.67,37924,40.15,92.29,-7.91,648.66,36.92
 2020-08-30,Texas,Brown,0.0,0,0,0.0,620,26,4.19,1634.85,68.56,1.63,37924,40.15,100.2,0.0,611.74,0.0

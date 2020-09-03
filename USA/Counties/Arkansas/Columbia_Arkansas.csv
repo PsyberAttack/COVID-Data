@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-02,Arkansas,Columbia,25.49,6,0,0.0,303,15,4.95,1287.33,63.73,1.29,23537,30.73,72.24,16.99,399.43,16.99
 2020-09-01,Arkansas,Columbia,8.5,2,0,0.0,297,15,5.05,1261.84,63.73,1.26,23537,30.73,55.25,-4.25,382.44,-12.74
 2020-08-31,Arkansas,Columbia,8.5,2,0,0.0,295,15,5.08,1253.35,63.73,1.25,23537,30.73,59.5,-21.24,395.18,-29.74
 2020-08-30,Arkansas,Columbia,8.5,2,1,4.25,293,15,5.12,1244.85,63.73,1.24,23537,30.73,80.74,4.25,424.92,-21.24

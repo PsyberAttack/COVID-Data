@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-02,Maryland,Kent,15.48,3,0,0.0,269,24,8.92,1387.81,123.82,1.39,19383,69.97,61.92,10.32,170.28,15.48
 2020-09-01,Maryland,Kent,5.16,1,0,0.0,266,24,9.02,1372.34,123.82,1.37,19383,69.97,51.6,0.0,154.8,5.16
 2020-08-31,Maryland,Kent,0.0,0,0,0.0,265,24,9.06,1367.18,123.82,1.37,19383,69.97,51.6,0.0,149.64,0.0
 2020-08-30,Maryland,Kent,15.48,3,1,5.16,265,24,9.06,1367.18,123.82,1.37,19383,69.97,51.6,15.48,149.64,15.48

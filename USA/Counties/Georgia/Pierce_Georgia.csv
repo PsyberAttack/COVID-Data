@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-02,Georgia,Pierce,15.47,3,0,0.0,523,13,2.49,2697.41,67.05,2.7,19389,56.95,108.31,0.0,706.6,-5.16
 2020-09-01,Georgia,Pierce,5.16,1,1,5.16,520,13,2.5,2681.93,67.05,2.68,19389,56.95,108.31,-15.47,711.76,-5.16
 2020-08-31,Georgia,Pierce,5.16,1,0,0.0,519,12,2.31,2676.78,61.89,2.68,19389,56.95,123.78,-10.31,716.92,-5.16
 2020-08-30,Georgia,Pierce,25.79,5,0,0.0,518,12,2.32,2671.62,61.89,2.67,19389,56.95,134.09,15.47,722.08,15.47

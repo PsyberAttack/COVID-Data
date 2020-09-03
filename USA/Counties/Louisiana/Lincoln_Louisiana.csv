@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-02,Louisiana,Lincoln,38.14,18,0,0.0,930,40,4.3,1970.51,84.75,1.97,47196,100.05,97.47,36.02,394.12,14.83
 2020-09-01,Louisiana,Lincoln,12.71,6,0,0.0,912,40,4.39,1932.37,84.75,1.93,47196,100.05,61.45,16.95,379.29,-14.83
 2020-08-31,Louisiana,Lincoln,2.12,1,0,0.0,906,40,4.42,1919.65,84.75,1.92,47196,100.05,44.5,-6.36,394.12,-6.36
 2020-08-30,Louisiana,Lincoln,19.07,9,1,2.12,905,40,4.42,1917.54,84.75,1.92,47196,100.05,50.86,-10.59,400.48,-25.43

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-02,Missouri,Butler,9.38,4,0,0.0,383,3,0.78,898.24,7.04,0.9,42639,61.38,58.65,0.0,304.92,0.0
 2020-09-01,Missouri,Butler,7.04,3,1,2.35,379,3,0.79,888.86,7.04,0.89,42639,61.38,58.65,7.04,304.92,2.35
 2020-08-31,Missouri,Butler,7.04,3,0,0.0,376,2,0.53,881.82,4.69,0.88,42639,61.38,51.61,0.0,302.57,-11.72
 2020-08-30,Missouri,Butler,0.0,0,0,0.0,373,2,0.54,874.79,4.69,0.87,42639,61.38,51.61,-14.07,314.29,0.0

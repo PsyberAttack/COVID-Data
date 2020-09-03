@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-02,Ohio,Allen,7.79,8,1,0.97,1170,55,4.7,1139.65,53.57,1.14,102663,255.06,114.94,-15.59,475.34,-6.82
 2020-09-01,Ohio,Allen,11.69,12,1,0.97,1162,54,4.65,1131.86,52.6,1.13,102663,255.06,130.53,-5.84,482.16,-0.97
 2020-08-31,Ohio,Allen,14.61,15,0,0.0,1150,53,4.61,1120.17,51.63,1.12,102663,255.06,136.37,5.84,483.13,6.82
 2020-08-30,Ohio,Allen,11.69,12,0,0.0,1135,53,4.67,1105.56,51.63,1.11,102663,255.06,130.53,0.0,476.31,0.98

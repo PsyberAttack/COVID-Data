@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-02,Georgia,Ben Hill,35.74,6,2,11.91,638,16,2.51,3800.56,95.31,3.8,16787,67.12,184.66,23.83,1590.48,-23.83
 2020-09-01,Georgia,Ben Hill,77.44,13,1,5.96,632,14,2.22,3764.82,83.4,3.76,16787,67.12,160.83,65.53,1614.31,17.87
 2020-08-31,Georgia,Ben Hill,-5.96,-1,0,0.0,619,13,2.1,3687.38,77.44,3.69,16787,67.12,95.3,-41.7,1596.44,-35.74
 2020-08-30,Georgia,Ben Hill,0.0,0,1,5.96,620,13,2.1,3693.33,77.44,3.69,16787,67.12,137.0,-101.27,1632.18,-17.87

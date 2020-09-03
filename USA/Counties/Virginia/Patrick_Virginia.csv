@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-02,Virginia,Patrick,45.27,8,2,11.32,237,13,5.49,1341.03,73.56,1.34,17673,36.59,158.43,22.64,667.71,39.61
 2020-09-01,Virginia,Patrick,28.29,5,0,0.0,229,11,4.8,1295.76,62.24,1.3,17673,36.59,135.79,-5.66,628.1,11.31
 2020-08-31,Virginia,Patrick,0.0,0,0,0.0,224,11,4.91,1267.47,62.24,1.27,17673,36.59,141.45,5.66,616.79,0.0
 2020-08-30,Virginia,Patrick,5.66,1,0,0.0,224,11,4.91,1267.47,62.24,1.27,17673,36.59,135.79,-22.63,616.79,-16.97

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-02,Pennsylvania,Cambria,4.55,6,0,0.0,473,5,1.06,359.07,3.8,0.36,131730,191.37,22.77,1.51,122.23,-18.22
 2020-09-01,Pennsylvania,Cambria,4.55,6,1,0.76,467,5,1.07,354.51,3.8,0.35,131730,191.37,21.26,-2.28,140.45,-1.52
 2020-08-31,Pennsylvania,Cambria,0.76,1,0,0.0,461,4,0.87,349.96,3.04,0.35,131730,191.37,23.54,-0.76,141.97,-4.55
 2020-08-30,Pennsylvania,Cambria,2.28,3,0,0.0,460,4,0.87,349.2,3.04,0.35,131730,191.37,24.3,-3.03,146.52,-3.79
