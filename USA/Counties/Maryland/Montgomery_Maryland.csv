@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-03,Maryland,Montgomery,8.65,91,0,0.0,20320,821,4.04,1930.52,78.0,1.93,1052567,2134.7,52.08,0.38,213.74,3.33
 2020-09-02,Maryland,Montgomery,8.27,87,0,0.0,20229,821,4.06,1921.87,78.0,1.92,1052567,2134.7,51.7,3.8,210.41,2.0
 2020-09-01,Maryland,Montgomery,9.22,97,0,0.0,20142,821,4.08,1913.61,78.0,1.91,1052567,2134.7,47.9,3.61,208.41,2.76
 2020-08-31,Maryland,Montgomery,5.7,60,1,0.1,20045,821,4.1,1904.39,78.0,1.9,1052567,2134.7,44.29,-1.14,205.65,-2.28

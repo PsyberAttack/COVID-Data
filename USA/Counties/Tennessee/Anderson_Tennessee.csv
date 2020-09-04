@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-03,Tennessee,Anderson,35.3,27,0,0.0,915,8,0.87,1196.36,10.46,1.2,76482,226.81,83.68,30.07,345.18,17.0
 2020-09-02,Tennessee,Anderson,11.77,9,0,0.0,888,8,0.9,1161.06,10.46,1.16,76482,226.81,53.61,3.93,328.18,2.62
 2020-09-01,Tennessee,Anderson,6.54,5,0,0.0,879,8,0.91,1149.29,10.46,1.15,76482,226.81,49.68,3.93,325.56,-23.53
 2020-08-31,Tennessee,Anderson,15.69,12,0,0.0,874,8,0.92,1142.75,10.46,1.14,76482,226.81,45.75,11.77,349.09,5.23

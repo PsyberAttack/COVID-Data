@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-03,New Jersey,Hunterdon,4.01,5,0,0.0,1276,125,9.8,1023.14,100.23,1.02,124714,291.51,12.84,0.8,60.94,4.01
 2020-09-02,New Jersey,Hunterdon,4.01,5,1,0.8,1271,125,9.83,1019.13,100.23,1.02,124714,291.51,12.04,0.0,56.93,0.0
 2020-09-01,New Jersey,Hunterdon,-0.8,-1,0,0.0,1266,124,9.79,1015.12,99.43,1.02,124714,291.51,12.04,-1.6,56.93,-1.6
 2020-08-31,New Jersey,Hunterdon,0.8,1,0,0.0,1267,124,9.79,1015.92,99.43,1.02,124714,291.51,13.64,-2.41,58.53,0.0

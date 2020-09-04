@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-03,Illinois,Crawford,15.95,3,0,0.0,84,1,1.19,446.64,5.32,0.45,18807,42.4,63.81,15.95,292.45,15.95
 2020-09-02,Illinois,Crawford,5.32,1,1,5.32,81,1,1.23,430.69,5.32,0.43,18807,42.4,47.86,-53.17,276.5,5.32
 2020-09-01,Illinois,Crawford,10.63,2,0,0.0,80,0,0.0,425.37,0.0,0.43,18807,42.4,101.03,-10.64,271.18,10.63
 2020-08-31,Illinois,Crawford,5.32,1,0,0.0,78,0,0.0,414.74,0.0,0.41,18807,42.4,111.67,-21.27,260.55,5.32

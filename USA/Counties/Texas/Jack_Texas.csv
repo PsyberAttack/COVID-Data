@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-03,Texas,Jack,11.31,1,0,0.0,128,1,0.78,1447.47,11.31,1.45,8843,9.71,90.47,0.0,870.77,-33.92
 2020-09-02,Texas,Jack,11.31,1,0,0.0,127,1,0.79,1436.16,11.31,1.44,8843,9.71,90.47,22.62,904.69,-33.92
 2020-09-01,Texas,Jack,56.54,5,1,11.31,126,1,0.79,1424.86,11.31,1.42,8843,9.71,67.85,11.31,938.61,22.61
 2020-08-31,Texas,Jack,0.0,0,0,0.0,121,0,0.0,1368.31,0.0,1.37,8843,9.71,56.54,0.0,916.0,0.0

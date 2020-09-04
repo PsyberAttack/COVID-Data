@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-03,Alabama,Henry,34.87,6,0,0.0,398,4,1.01,2312.74,23.24,2.31,17209,30.63,267.32,23.25,796.09,23.25
 2020-09-02,Alabama,Henry,52.3,9,0,0.0,392,4,1.02,2277.88,23.24,2.28,17209,30.63,244.07,29.06,772.84,46.49
 2020-09-01,Alabama,Henry,40.68,7,0,0.0,383,4,1.04,2225.58,23.24,2.23,17209,30.63,215.01,34.87,726.35,34.87
 2020-08-31,Alabama,Henry,63.92,11,0,0.0,376,4,1.06,2184.9,23.24,2.18,17209,30.63,180.14,-40.68,691.48,52.3

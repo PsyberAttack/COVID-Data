@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-03,Indiana,Newton,7.14,1,0,0.0,148,11,7.43,1056.31,78.51,1.06,14011,34.87,71.37,-14.27,235.53,7.14
 2020-09-02,Indiana,Newton,0.0,0,0,0.0,147,11,7.48,1049.18,78.51,1.05,14011,34.87,85.64,-7.14,228.39,-21.41
 2020-09-01,Indiana,Newton,7.14,1,0,0.0,147,11,7.48,1049.18,78.51,1.05,14011,34.87,92.78,7.14,249.8,0.0
 2020-08-31,Indiana,Newton,14.27,2,0,0.0,146,11,7.53,1042.04,78.51,1.04,14011,34.87,85.64,-21.42,249.8,7.13

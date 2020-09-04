@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-03,New Jersey,Salem,3.19,2,0,0.0,990,89,8.99,1581.29,142.16,1.58,62607,188.66,14.36,-11.19,156.52,-4.8
 2020-09-02,New Jersey,Salem,3.19,2,0,0.0,988,89,9.01,1578.1,142.16,1.58,62607,188.66,25.55,-6.39,161.32,0.0
 2020-09-01,New Jersey,Salem,-1.6,-1,0,0.0,986,89,9.03,1574.9,142.16,1.57,62607,188.66,31.94,-1.6,161.32,-6.39
 2020-08-31,New Jersey,Salem,1.6,1,0,0.0,987,89,9.02,1576.5,142.16,1.58,62607,188.66,33.54,-7.98,167.71,-7.98

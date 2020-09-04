@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-03,Illinois,Cumberland,18.5,2,0,0.0,148,3,2.03,1369.36,27.76,1.37,10808,31.24,194.29,-18.51,897.45,-18.51
 2020-09-02,Illinois,Cumberland,55.51,6,0,0.0,146,3,2.05,1350.85,27.76,1.35,10808,31.24,212.8,-27.76,915.96,55.51
 2020-09-01,Illinois,Cumberland,0.0,0,0,0.0,140,3,2.14,1295.34,27.76,1.3,10808,31.24,240.56,-46.26,860.45,0.0
 2020-08-31,Illinois,Cumberland,27.76,3,0,0.0,140,3,2.14,1295.34,27.76,1.3,10808,31.24,286.82,9.26,860.45,18.51

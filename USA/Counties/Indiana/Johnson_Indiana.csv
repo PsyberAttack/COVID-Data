@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-03,Indiana,Johnson,5.12,8,1,0.64,2097,130,6.2,1342.29,83.21,1.34,156225,487.53,43.52,-12.16,236.16,-7.68
 2020-09-02,Indiana,Johnson,8.32,13,0,0.0,2089,129,6.18,1337.17,82.57,1.34,156225,487.53,55.68,3.2,243.84,3.84
 2020-09-01,Indiana,Johnson,3.2,5,0,0.0,2076,129,6.21,1328.85,82.57,1.33,156225,487.53,52.48,-7.04,240.0,-6.4
 2020-08-31,Indiana,Johnson,6.4,10,0,0.0,2071,129,6.23,1325.65,82.57,1.33,156225,487.53,59.52,-9.6,246.4,3.84

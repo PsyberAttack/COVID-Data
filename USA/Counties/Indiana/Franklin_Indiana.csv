@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-03,Indiana,Franklin,13.19,3,0,0.0,289,26,9.0,1271.11,114.36,1.27,22736,59.14,39.58,-8.8,197.92,0.0
 2020-09-02,Indiana,Franklin,0.0,0,0,0.0,286,26,9.09,1257.92,114.36,1.26,22736,59.14,48.38,-4.4,197.92,-8.8
 2020-09-01,Indiana,Franklin,8.8,2,0,0.0,286,26,9.09,1257.92,114.36,1.26,22736,59.14,52.78,-4.39,206.72,-8.79
 2020-08-31,Indiana,Franklin,4.4,1,0,0.0,284,26,9.15,1249.12,114.36,1.25,22736,59.14,57.17,4.4,215.51,-79.17

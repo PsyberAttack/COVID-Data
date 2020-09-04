@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-02,Pernambuco,Olinda,16.05,63,1,0.25,5408,468,8.65,1377.9,119.24,1.38,392482,-36.17,11.97,85.61,8.66
+2020-09-01,Pernambuco,Olinda,-75.16,-295,0,0.0,5345,467,8.74,1361.85,118.99,1.36,392482,-48.14,-81.53,76.95,-76.69
 2020-08-31,Pernambuco,Olinda,4.33,17,0,0.0,5640,467,8.28,1437.01,118.99,1.44,392482,33.39,1.27,153.64,1.53
 2020-08-30,Pernambuco,Olinda,3.06,12,1,0.25,5623,467,8.31,1432.68,118.99,1.43,392482,32.12,-4.33,152.11,-2.29
 2020-08-29,Pernambuco,Olinda,4.08,16,0,0.0,5611,466,8.31,1429.62,118.73,1.43,392482,36.45,1.79,154.4,-11.46

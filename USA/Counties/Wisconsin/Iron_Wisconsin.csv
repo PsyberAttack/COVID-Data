@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-03,Wisconsin,Iron,35.24,2,0,0.0,128,1,0.78,2255.11,17.62,2.26,5676,7.49,176.19,-17.61,969.03,35.24
 2020-09-02,Wisconsin,Iron,52.85,3,0,0.0,126,1,0.79,2219.87,17.62,2.22,5676,7.49,193.8,-17.62,933.79,35.23
 2020-09-01,Wisconsin,Iron,17.62,1,0,0.0,123,1,0.81,2167.02,17.62,2.17,5676,7.49,211.42,0.0,898.56,17.62
 2020-08-31,Wisconsin,Iron,0.0,0,0,0.0,122,1,0.82,2149.4,17.62,2.15,5676,7.49,211.42,-35.24,880.94,0.0

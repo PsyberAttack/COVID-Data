@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-02,Pernambuco,Floresta,15.21,5,0,0.0,179,3,1.68,544.52,9.13,0.54,32873,45.62,3.04,145.99,15.21
+2020-09-01,Pernambuco,Floresta,12.17,4,0,0.0,174,3,1.72,529.31,9.13,0.53,32873,42.58,12.17,130.78,12.17
 2020-08-31,Pernambuco,Floresta,3.04,1,0,0.0,170,3,1.76,517.14,9.13,0.52,32873,30.41,3.04,118.61,3.04
 2020-08-30,Pernambuco,Floresta,6.08,2,0,0.0,169,3,1.78,514.1,9.13,0.51,32873,27.37,3.04,115.57,3.04
 2020-08-29,Pernambuco,Floresta,3.04,1,0,0.0,167,3,1.8,508.02,9.13,0.51,32873,24.33,3.04,112.53,-24.34

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-03,Washington,Pierce,7.74,69,1,0.11,7667,191,2.49,860.21,21.43,0.86,891299,534.41,34.54,2.02,188.35,-7.63
 2020-09-02,Washington,Pierce,4.71,42,3,0.34,7598,190,2.5,852.46,21.32,0.85,891299,534.41,32.52,-0.11,195.98,-6.96
 2020-09-01,Washington,Pierce,6.28,56,6,0.67,7556,187,2.47,847.75,20.98,0.85,891299,534.41,32.63,1.46,202.94,-7.97
 2020-08-31,Washington,Pierce,3.59,32,2,0.22,7500,181,2.41,841.47,20.31,0.84,891299,534.41,31.17,0.79,210.91,-6.84

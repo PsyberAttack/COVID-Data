@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-03,Virginia,Frederick,2.26,2,0,0.0,774,11,1.42,876.01,12.45,0.88,88355,213.85,18.1,-1.14,112.04,0.0
 2020-09-02,Virginia,Frederick,6.79,6,0,0.0,772,11,1.42,873.75,12.45,0.87,88355,213.85,19.24,4.53,112.04,5.66
 2020-09-01,Virginia,Frederick,2.26,2,1,1.13,766,11,1.44,866.96,12.45,0.87,88355,213.85,14.71,-7.93,106.38,0.0
 2020-08-31,Virginia,Frederick,1.13,1,0,0.0,764,10,1.31,864.69,11.32,0.86,88355,213.85,22.64,-5.66,106.38,-6.79

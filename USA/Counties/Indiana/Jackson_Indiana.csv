@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-03,Indiana,Jackson,13.6,6,0,0.0,715,10,1.4,1620.91,22.67,1.62,44111,86.5,68.02,0.0,337.8,0.0
 2020-09-02,Indiana,Jackson,11.34,5,0,0.0,709,10,1.41,1607.31,22.67,1.61,44111,86.5,68.02,6.81,337.8,6.81
 2020-09-01,Indiana,Jackson,2.27,1,0,0.0,704,10,1.42,1595.97,22.67,1.6,44111,86.5,61.21,0.0,330.99,-2.26
 2020-08-31,Indiana,Jackson,6.8,3,1,2.27,703,10,1.42,1593.71,22.67,1.59,44111,86.5,61.21,-36.27,333.25,4.53

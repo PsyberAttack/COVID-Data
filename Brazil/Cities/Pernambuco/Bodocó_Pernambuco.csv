@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-02,Pernambuco,Bodocó,28.84,11,0,0.0,192,8,4.17,503.33,20.97,0.5,38146,49.8,28.84,120.56,23.6
+2020-09-01,Pernambuco,Bodocó,-15.73,-6,0,0.0,181,8,4.42,474.49,20.97,0.47,38146,20.96,-28.84,96.96,-20.97
 2020-08-31,Pernambuco,Bodocó,5.24,2,0,0.0,187,8,4.28,490.22,20.97,0.49,38146,49.8,5.24,117.93,5.24
 2020-08-30,Pernambuco,Bodocó,7.86,3,0,0.0,185,8,4.32,484.98,20.97,0.48,38146,44.56,5.24,112.69,2.62
 2020-08-29,Pernambuco,Bodocó,13.11,5,0,0.0,182,8,4.4,477.11,20.97,0.48,38146,39.32,13.11,110.07,5.25
