@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-04,Minnesota,Brown,3.98,1,0,0.0,136,2,1.47,541.6,7.96,0.54,25111,41.09,75.66,-11.95,195.13,0.0
 2020-09-03,Minnesota,Brown,7.96,2,0,0.0,135,2,1.48,537.61,7.96,0.54,25111,41.09,87.61,7.96,195.13,3.98
 2020-09-02,Minnesota,Brown,7.96,2,0,0.0,133,2,1.5,529.65,7.96,0.53,25111,41.09,79.65,-3.99,191.15,7.96
 2020-09-01,Minnesota,Brown,11.95,3,0,0.0,131,2,1.53,521.68,7.96,0.52,25111,41.09,83.64,11.95,183.19,11.95

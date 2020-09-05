@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-04,São Paulo,São Francisco,0.0,0,0,0.0,51,3,5.88,1807.87,106.35,1.81,2821,-0.0,-141.79,1134.36,0.0
+2020-09-03,São Paulo,São Francisco,-35.45,-1,0,0.0,51,3,5.88,1807.87,106.35,1.81,2821,141.79,-283.59,1134.36,-70.9
 2020-09-02,São Paulo,São Francisco,0.0,0,0,0.0,52,3,5.77,1843.32,106.35,1.84,2821,425.38,0.0,1205.26,-35.45
 2020-09-01,São Paulo,São Francisco,35.45,1,0,0.0,52,3,5.77,1843.32,106.35,1.84,2821,425.38,35.45,1240.71,35.45
 2020-08-31,São Paulo,São Francisco,0.0,0,1,35.45,51,3,5.88,1807.87,106.35,1.81,2821,389.93,0.0,1205.26,-141.79

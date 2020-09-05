@@ -1,4 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-04,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,0.71,2,0,0.0,642,22,3.43,226.64,7.77,0.23,283271,7.06,0.71,31.45,0.36
+2020-09-03,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.06,3,0,0.0,640,22,3.44,225.93,7.77,0.23,283271,6.35,1.06,31.09,0.71
 2020-09-02,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.41,4,0,0.0,637,22,3.45,224.87,7.77,0.22,283271,5.29,0.7,30.38,-0.36
 2020-09-01,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,0.35,1,0,0.0,633,22,3.48,223.46,7.77,0.22,283271,4.59,-0.36,30.74,-2.12
 2020-08-31,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.77,5,0,0.0,632,22,3.48,223.11,7.77,0.22,283271,4.95,1.77,32.86,-1.41

@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-03,Paraná,Santa Helena,0.0,0,0,0.0,356,8,2.25,1343.9,30.2,1.34,26490,83.06,-3.78,230.33,0.0
+2020-09-02,Paraná,Santa Helena,0.0,0,1,3.78,356,8,2.25,1343.9,30.2,1.34,26490,86.84,-3.78,230.33,-11.33
+2020-09-01,Paraná,Santa Helena,15.1,4,0,0.0,356,7,1.97,1343.9,26.43,1.34,26490,90.62,11.32,241.66,-11.33
 2020-08-31,Paraná,Santa Helena,30.2,8,0,0.0,352,7,1.99,1328.8,26.43,1.33,26490,79.3,22.65,252.99,3.77
 2020-08-28,Paraná,Santa Helena,26.43,7,0,0.0,344,7,2.03,1298.6,26.43,1.3,26490,56.65,-3.77,249.22,-79.27
 2020-08-27,Paraná,Santa Helena,0.0,0,0,0.0,337,7,2.08,1272.18,26.43,1.27,26490,60.42,-3.78,328.49,-26.43

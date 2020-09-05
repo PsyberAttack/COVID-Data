@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-04,New York,Essex,10.72,4,0,0.0,153,7,4.58,410.19,18.77,0.41,37300,20.79,50.93,-8.05,241.26,-10.73
 2020-09-03,New York,Essex,16.09,6,1,2.68,149,7,4.7,399.46,18.77,0.4,37300,20.79,58.98,-21.44,251.99,37.54
 2020-09-02,New York,Essex,10.72,4,0,0.0,143,6,4.2,383.38,16.09,0.38,37300,20.79,80.42,0.0,214.45,10.72
 2020-09-01,New York,Essex,5.36,2,0,0.0,139,6,4.32,372.65,16.09,0.37,37300,20.79,80.42,2.68,203.73,5.36

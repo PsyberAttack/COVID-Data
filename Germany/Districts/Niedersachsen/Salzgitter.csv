@@ -1,6 +1,8 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-01,Niedersachsen,Salzgitter,1.91,2,0,0.0,225,10,4.44,214.39,9.53,0.21,104948,9.55,-0.95,52.44,1.91
-2020-08-31,Niedersachsen,Salzgitter,1.91,2,0,0.0,223,10,4.48,212.49,9.53,0.21,104948,10.5,-0.95,50.53,1.91
+2020-09-03,Niedersachsen,Salzgitter,2.86,3,0,0.0,231,10,4.33,220.11,9.53,0.22,104948,11.44,0.95,54.34,0.0
+2020-09-02,Niedersachsen,Salzgitter,0.0,0,0,0.0,228,10,4.39,217.25,9.53,0.22,104948,10.49,-1.91,54.34,-0.95
+2020-09-01,Niedersachsen,Salzgitter,1.91,2,0,0.0,228,10,4.39,217.25,9.53,0.22,104948,12.4,-0.95,55.29,1.91
+2020-08-31,Niedersachsen,Salzgitter,4.76,5,0,0.0,226,10,4.42,215.34,9.53,0.22,104948,13.35,1.9,53.38,4.76
 2020-08-30,Niedersachsen,Salzgitter,0.0,0,0,0.0,221,10,4.52,210.58,9.53,0.21,104948,11.45,0.0,48.62,-1.91
 2020-08-29,Niedersachsen,Salzgitter,1.91,2,0,0.0,221,10,4.52,210.58,9.53,0.21,104948,11.45,-0.95,50.53,1.91
 2020-08-28,Niedersachsen,Salzgitter,0.0,0,0,0.0,219,10,4.57,208.67,9.53,0.21,104948,12.4,-1.91,48.62,-0.95

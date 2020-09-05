@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-04,Tennessee,Coffee,12.57,7,0,0.0,790,6,0.76,1418.31,10.77,1.42,55700,129.85,68.23,-5.38,508.09,-32.31
 2020-09-03,Tennessee,Coffee,-3.59,-2,0,0.0,783,6,0.77,1405.75,10.77,1.41,55700,129.85,73.61,-34.11,540.4,-64.63
 2020-09-02,Tennessee,Coffee,23.34,13,0,0.0,785,6,0.76,1409.34,10.77,1.41,55700,129.85,107.72,-21.54,605.03,-25.13
 2020-09-01,Tennessee,Coffee,14.36,8,0,0.0,772,6,0.78,1386.0,10.77,1.39,55700,129.85,129.26,5.38,630.16,7.18

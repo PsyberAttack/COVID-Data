@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-04,Illinois,Clark,6.41,1,0,0.0,120,2,1.67,769.43,12.82,0.77,15596,31.1,32.06,-12.83,262.87,-12.83
 2020-09-03,Illinois,Clark,0.0,0,0,0.0,119,2,1.68,763.02,12.82,0.76,15596,31.1,44.89,6.41,275.7,-19.24
 2020-09-02,Illinois,Clark,19.24,3,0,0.0,119,2,1.68,763.02,12.82,0.76,15596,31.1,38.48,12.83,294.94,0.0
 2020-09-01,Illinois,Clark,0.0,0,0,0.0,116,2,1.72,743.78,12.82,0.74,15596,31.1,25.65,0.0,294.94,-12.82
