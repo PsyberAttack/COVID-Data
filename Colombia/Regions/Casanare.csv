@@ -1,5 +1,6 @@
 date,country,region,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-02,Colombia,Casanare,9.75,41,0,0.0,1129,27,2.39,268.49,6.42,0.27,420504,47.08,5.71,175.5,3.8
+2020-09-03,Colombia,Casanare,4.28,18,0,0.0,1147,30,2.62,272.77,7.13,0.27,420504,45.41,-1.67,173.83,-1.67
+2020-09-02,Colombia,Casanare,9.75,41,3,0.71,1129,30,2.66,268.49,7.13,0.27,420504,47.08,5.71,175.5,3.8
 2020-09-01,Colombia,Casanare,6.18,26,0,0.0,1088,27,2.48,258.74,6.42,0.26,420504,41.37,0.23,171.7,2.61
 2020-08-31,Colombia,Casanare,7.85,33,0,0.0,1062,27,2.54,252.55,6.42,0.25,420504,41.14,0.24,169.09,2.38
 2020-08-30,Colombia,Casanare,4.99,21,0,0.0,1029,27,2.62,244.71,6.42,0.24,420504,40.9,-0.24,166.71,1.9
