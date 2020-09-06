@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-05,Texas,Jackson,0.0,0,0,0.0,505,14,2.77,3395.19,94.12,3.4,14874,17.93,26.89,-33.62,665.59,-40.34
 2020-09-04,Texas,Jackson,0.0,0,0,0.0,505,14,2.77,3395.19,94.12,3.4,14874,17.93,60.51,-6.72,705.93,-114.29
 2020-09-03,Texas,Jackson,13.45,2,0,0.0,505,14,2.77,3395.19,94.12,3.4,14874,17.93,67.23,-6.72,820.22,-6.72
 2020-09-02,Texas,Jackson,6.72,1,0,0.0,503,14,2.78,3381.74,94.12,3.38,14874,17.93,73.95,-33.62,826.94,-235.31

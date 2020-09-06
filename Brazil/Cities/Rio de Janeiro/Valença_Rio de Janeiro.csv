@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-04,Rio de Janeiro,Valença,13.07,10,0,0.0,496,12,2.42,648.17,15.68,0.65,76523,49.65,3.92,186.84,-2.61
+2020-09-03,Rio de Janeiro,Valença,7.84,6,0,0.0,486,12,2.47,635.1,15.68,0.64,76523,45.73,1.31,189.45,-3.92
+2020-09-02,Rio de Janeiro,Valença,15.68,12,1,1.31,480,12,2.5,627.26,15.68,0.63,76523,44.42,5.23,193.37,15.68
 2020-09-01,Rio de Janeiro,Valença,3.92,3,0,0.0,468,11,2.35,611.58,14.37,0.61,76523,39.19,3.92,177.69,3.92
 2020-08-31,Rio de Janeiro,Valença,-1.31,-1,0,0.0,465,11,2.37,607.66,14.37,0.61,76523,35.27,-1.31,173.77,-1.31
 2020-08-30,Rio de Janeiro,Valença,2.61,2,0,0.0,466,11,2.36,608.97,14.37,0.61,76523,36.58,-7.84,175.08,-5.23

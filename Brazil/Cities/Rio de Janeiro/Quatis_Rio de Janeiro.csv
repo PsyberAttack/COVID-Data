@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-04,Rio de Janeiro,Quatis,0.0,0,0,0.0,138,2,1.45,964.9,13.98,0.96,14302,62.92,-6.99,538.37,-13.98
+2020-09-03,Rio de Janeiro,Quatis,6.99,1,0,0.0,138,2,1.45,964.9,13.98,0.96,14302,69.91,6.99,552.35,-6.99
+2020-09-02,Rio de Janeiro,Quatis,6.99,1,1,6.99,137,2,1.46,957.91,13.98,0.96,14302,62.92,-27.97,559.34,6.99
 2020-09-01,Rio de Janeiro,Quatis,6.99,1,0,0.0,136,1,0.74,950.92,6.99,0.95,14302,90.89,6.99,552.35,6.99
 2020-08-31,Rio de Janeiro,Quatis,0.0,0,0,0.0,135,1,0.74,943.92,6.99,0.94,14302,83.9,0.0,545.36,0.0
 2020-08-30,Rio de Janeiro,Quatis,0.0,0,0,0.0,135,1,0.74,943.92,6.99,0.94,14302,83.9,-6.99,545.36,0.0

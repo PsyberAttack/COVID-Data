@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-05,Ohio,Hancock,7.9,6,-1,-1.32,562,7,1.25,740.16,9.22,0.74,75930,142.91,65.85,6.58,250.26,-14.49
 2020-09-04,Ohio,Hancock,9.22,7,1,1.32,556,8,1.44,732.25,10.54,0.73,75930,142.91,59.27,0.0,264.75,6.59
 2020-09-03,Ohio,Hancock,17.12,13,0,0.0,549,7,1.28,723.03,9.22,0.72,75930,142.91,59.27,-5.27,258.16,5.27
 2020-09-02,Ohio,Hancock,11.85,9,0,0.0,536,7,1.31,705.91,9.22,0.71,75930,142.91,64.54,14.48,252.89,-2.64

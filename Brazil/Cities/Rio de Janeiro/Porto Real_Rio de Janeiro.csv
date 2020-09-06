@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-04,Rio de Janeiro,Porto Real,20.32,4,0,0.0,335,13,3.88,1701.98,66.05,1.7,19683,289.58,20.32,624.88,0.0
+2020-09-03,Rio de Janeiro,Porto Real,15.24,3,1,5.08,331,13,3.93,1681.65,66.05,1.68,19683,269.26,10.16,624.88,-15.24
+2020-09-02,Rio de Janeiro,Porto Real,10.16,2,1,5.08,328,12,3.66,1666.41,60.97,1.67,19683,259.1,-106.69,640.12,5.08
 2020-09-01,Rio de Janeiro,Porto Real,45.72,9,0,0.0,326,11,3.37,1656.25,55.89,1.66,19683,365.79,45.72,635.04,-25.41
 2020-08-31,Rio de Janeiro,Porto Real,0.0,0,0,0.0,317,11,3.47,1610.53,55.89,1.61,19683,320.07,0.0,660.45,0.0
 2020-08-30,Rio de Janeiro,Porto Real,0.0,0,0,0.0,317,11,3.47,1610.53,55.89,1.61,19683,320.07,-30.48,660.45,-10.16

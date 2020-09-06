@@ -1,4 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-04,Bayern,Miltenberg,0.78,1,0,0.0,370,5,1.35,287.37,3.88,0.29,128756,5.44,-0.77,24.87,0.0
+2020-09-03,Bayern,Miltenberg,0.0,0,0,0.0,369,5,1.36,286.59,3.88,0.29,128756,6.21,-1.55,24.87,-0.78
 2020-09-02,Bayern,Miltenberg,3.88,5,0,0.0,369,5,1.36,286.59,3.88,0.29,128756,7.76,-0.78,25.65,3.1
 2020-09-01,Bayern,Miltenberg,0.0,0,0,0.0,364,5,1.37,282.71,3.88,0.28,128756,8.54,-1.55,22.55,-0.78
 2020-08-31,Bayern,Miltenberg,0.0,0,0,0.0,364,5,1.37,282.71,3.88,0.28,128756,10.09,0.0,23.33,-0.78

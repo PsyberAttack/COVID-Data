@@ -1,4 +1,7 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-04,Bayern,Forchheim,0.86,1,0,0.0,269,4,1.49,231.7,3.45,0.23,116099,7.76,-0.86,34.44,-1.72
+2020-09-03,Bayern,Forchheim,0.0,0,0,0.0,268,4,1.49,230.84,3.45,0.23,116099,8.62,-0.86,36.16,0.0
+2020-09-02,Bayern,Forchheim,0.0,0,0,0.0,268,4,1.49,230.84,3.45,0.23,116099,9.48,-3.45,36.16,-5.17
 2020-09-01,Bayern,Forchheim,3.45,4,0,0.0,268,4,1.49,230.84,3.45,0.23,116099,12.93,1.73,41.33,0.87
 2020-08-31,Bayern,Forchheim,0.0,0,0,0.0,264,4,1.52,227.39,3.45,0.23,116099,11.2,-3.45,40.46,-0.86
 2020-08-30,Bayern,Forchheim,3.45,4,0,0.0,264,4,1.52,227.39,3.45,0.23,116099,14.65,0.87,41.32,3.45

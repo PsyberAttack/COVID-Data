@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-05,Paraíba,Lagoa Seca,3.64,1,0,0.0,712,16,2.25,2588.81,58.18,2.59,27503,25.45,-10.9,316.33,0.0
+2020-09-04,Paraíba,Lagoa Seca,-3.64,-1,0,0.0,711,16,2.25,2585.17,58.18,2.59,27503,36.35,-29.09,316.33,-21.82
 2020-09-03,Paraíba,Lagoa Seca,0.0,0,0,0.0,712,16,2.25,2588.81,58.18,2.59,27503,65.44,-14.54,338.15,0.0
 2020-09-02,Paraíba,Lagoa Seca,18.18,5,0,0.0,712,16,2.25,2588.81,58.18,2.59,27503,79.98,14.54,338.15,18.18
 2020-09-01,Paraíba,Lagoa Seca,7.27,2,0,0.0,707,16,2.26,2570.63,58.18,2.57,27503,65.44,-10.91,319.97,-3.64

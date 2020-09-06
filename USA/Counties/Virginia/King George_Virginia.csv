@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-05,Virginia,King George,15.05,4,0,0.0,210,4,1.9,790.22,15.05,0.79,26575,147.98,33.86,18.81,259.64,0.0
 2020-09-04,Virginia,King George,3.76,1,0,0.0,206,4,1.94,775.16,15.05,0.78,26575,147.98,15.05,-3.77,259.64,-41.4
 2020-09-03,Virginia,King George,3.76,1,0,0.0,205,4,1.95,771.4,15.05,0.77,26575,147.98,18.82,-11.29,301.04,0.0
 2020-09-02,Virginia,King George,7.53,2,0,0.0,204,4,1.96,767.64,15.05,0.77,26575,147.98,30.11,0.0,301.04,7.53

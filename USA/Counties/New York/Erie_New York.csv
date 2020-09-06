@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-05,New York,Erie,6.09,56,0,0.0,10212,607,5.94,1110.34,66.0,1.11,919719,882.03,51.21,3.05,148.09,-0.33
 2020-09-04,New York,Erie,7.61,70,0,0.0,10156,607,5.98,1104.25,66.0,1.1,919719,882.03,48.16,2.72,148.42,1.74
 2020-09-03,New York,Erie,7.5,69,0,0.0,10086,607,6.02,1096.64,66.0,1.1,919719,882.03,45.44,-1.09,146.68,3.69
 2020-09-02,New York,Erie,7.61,70,0,0.0,10017,607,6.06,1089.14,66.0,1.09,919719,882.03,46.53,2.93,142.99,3.8
