@@ -1,6 +1,8 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-03,Baden-Württemberg,Konstanz,1.05,3,0,0.0,641,17,2.65,224.66,5.96,0.22,285325,5.6,0.35,31.51,0.0
-2020-09-02,Baden-Württemberg,Konstanz,0.7,2,0,0.0,638,17,2.66,223.6,5.96,0.22,285325,5.25,-1.75,31.51,-0.35
+2020-09-05,Baden-Württemberg,Konstanz,0.7,2,0,0.0,648,17,2.62,227.11,5.96,0.23,285325,5.95,-0.35,31.51,0.7
+2020-09-04,Baden-Württemberg,Konstanz,0.7,2,0,0.0,646,17,2.63,226.41,5.96,0.23,285325,6.3,-0.35,30.81,-1.75
+2020-09-03,Baden-Württemberg,Konstanz,1.4,4,0,0.0,644,17,2.64,225.71,5.96,0.23,285325,6.65,0.7,32.56,0.35
+2020-09-02,Baden-Württemberg,Konstanz,1.4,4,0,0.0,640,17,2.66,224.31,5.96,0.22,285325,5.95,-1.05,32.21,0.35
 2020-09-01,Baden-Württemberg,Konstanz,1.05,3,0,0.0,636,17,2.67,222.9,5.96,0.22,285325,7.0,0.0,31.86,0.0
 2020-08-31,Baden-Württemberg,Konstanz,0.0,0,0,0.0,633,17,2.69,221.85,5.96,0.22,285325,7.0,-1.05,31.86,-0.7
 2020-08-30,Baden-Württemberg,Konstanz,0.7,2,0,0.0,633,17,2.69,221.85,5.96,0.22,285325,8.05,0.0,32.56,0.7

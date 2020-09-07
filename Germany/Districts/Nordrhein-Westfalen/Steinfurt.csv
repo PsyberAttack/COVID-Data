@@ -1,5 +1,7 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-04,Nordrhein-Westfalen,Steinfurt,0.67,3,0,0.0,1595,90,5.64,356.33,20.11,0.36,447614,2.68,0.0,27.7,0.0
+2020-09-06,Nordrhein-Westfalen,Steinfurt,0.22,1,0,0.0,1599,90,5.63,357.23,20.11,0.36,447614,2.9,0.0,24.79,-0.9
+2020-09-05,Nordrhein-Westfalen,Steinfurt,0.45,2,0,0.0,1598,90,5.63,357.0,20.11,0.36,447614,2.9,0.0,25.69,-2.23
+2020-09-04,Nordrhein-Westfalen,Steinfurt,0.89,4,0,0.0,1596,90,5.64,356.56,20.11,0.36,447614,2.9,0.22,27.92,0.22
 2020-09-03,Nordrhein-Westfalen,Steinfurt,0.45,2,0,0.0,1592,90,5.65,355.66,20.11,0.36,447614,2.68,0.45,27.7,-3.12
 2020-09-02,Nordrhein-Westfalen,Steinfurt,0.45,2,0,0.0,1590,90,5.66,355.22,20.11,0.36,447614,2.23,0.23,30.82,-0.89
 2020-09-01,Nordrhein-Westfalen,Steinfurt,0.22,1,0,0.0,1588,90,5.67,354.77,20.11,0.35,447614,2.0,-1.57,31.71,-2.24

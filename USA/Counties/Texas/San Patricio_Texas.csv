@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-06,Texas,San Patricio,0.0,0,1,1.49,1351,62,4.59,2019.64,92.69,2.02,66893,96.47,140.51,0.0,621.87,0.0
 2020-09-05,Texas,San Patricio,26.91,18,1,1.49,1351,61,4.52,2019.64,91.19,2.02,66893,96.47,140.51,-13.45,621.87,-17.94
 2020-09-04,Texas,San Patricio,10.46,7,0,0.0,1333,60,4.5,1992.73,89.7,1.99,66893,96.47,153.96,4.48,639.81,-23.92
 2020-09-03,Texas,San Patricio,19.43,13,0,0.0,1326,60,4.52,1982.27,89.7,1.98,66893,96.47,149.48,19.43,663.73,-2.99

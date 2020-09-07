@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-06,Illinois,Bond,24.05,4,0,0.0,206,4,1.94,1238.73,24.05,1.24,16630,43.72,378.82,-48.11,877.93,24.05
 2020-09-05,Illinois,Bond,66.15,11,0,0.0,202,4,1.98,1214.67,24.05,1.21,16630,43.72,426.93,30.07,853.88,60.14
 2020-09-04,Illinois,Bond,174.38,29,1,6.01,191,4,2.09,1148.53,24.05,1.15,16630,43.72,396.86,162.35,793.74,174.38
 2020-09-03,Illinois,Bond,6.01,1,0,0.0,162,3,1.85,974.14,18.04,0.97,16630,43.72,234.51,-18.04,619.36,6.01

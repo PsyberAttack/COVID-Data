@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-06,Texas,Howard,0.0,0,1,2.74,364,9,2.47,998.38,24.69,1.0,36459,40.47,230.39,-5.49,529.36,0.0
 2020-09-05,Texas,Howard,170.05,62,0,0.0,364,8,2.2,998.38,21.94,1.0,36459,40.47,235.88,164.56,529.36,161.82
 2020-09-04,Texas,Howard,46.63,17,0,0.0,302,8,2.65,828.33,21.94,0.83,36459,40.47,71.32,19.2,367.54,35.66
 2020-09-03,Texas,Howard,13.71,5,0,0.0,285,8,2.81,781.7,21.94,0.78,36459,40.47,52.12,-2.75,331.88,8.22
