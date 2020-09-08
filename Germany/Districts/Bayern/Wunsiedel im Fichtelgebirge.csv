@@ -1,15 +1,16 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-05,Bayern,Wunsiedel im Fichtelgebirge,1.37,1,0,0.0,691,41,5.93,944.27,56.03,0.94,73178,10.94,1.37,23.25,1.37
-2020-09-04,Bayern,Wunsiedel im Fichtelgebirge,0.0,0,0,0.0,690,41,5.94,942.91,56.03,0.94,73178,9.57,0.0,21.88,0.0
-2020-09-03,Bayern,Wunsiedel im Fichtelgebirge,1.37,1,0,0.0,690,41,5.94,942.91,56.03,0.94,73178,9.57,1.37,21.88,0.0
-2020-09-02,Bayern,Wunsiedel im Fichtelgebirge,1.37,1,0,0.0,689,41,5.95,941.54,56.03,0.94,73178,8.2,1.37,21.88,1.37
-2020-09-01,Bayern,Wunsiedel im Fichtelgebirge,1.37,1,0,0.0,688,41,5.96,940.17,56.03,0.94,73178,6.83,1.37,20.51,0.0
-2020-08-31,Bayern,Wunsiedel im Fichtelgebirge,2.73,2,0,0.0,687,41,5.97,938.81,56.03,0.94,73178,5.46,2.73,20.51,2.73
-2020-08-30,Bayern,Wunsiedel im Fichtelgebirge,2.73,2,0,0.0,685,41,5.99,936.07,56.03,0.94,73178,2.73,2.73,17.78,2.73
-2020-08-29,Bayern,Wunsiedel im Fichtelgebirge,0.0,0,0,0.0,683,41,6.0,933.34,56.03,0.93,73178,0.0,0.0,15.05,0.0
-2020-08-28,Bayern,Wunsiedel im Fichtelgebirge,0.0,0,0,0.0,683,41,6.0,933.34,56.03,0.93,73178,0.0,0.0,15.05,0.0
-2020-08-27,Bayern,Wunsiedel im Fichtelgebirge,0.0,0,0,0.0,683,41,6.0,933.34,56.03,0.93,73178,0.0,-1.37,15.05,0.0
-2020-08-26,Bayern,Wunsiedel im Fichtelgebirge,0.0,0,0,0.0,683,41,6.0,933.34,56.03,0.93,73178,1.37,-1.37,15.05,0.0
+2020-09-06,Bayern,Wunsiedel im Fichtelgebirge,1.37,1,0,0.0,694,41,5.91,948.37,56.03,0.95,73178,10.94,0.0,24.63,-1.36
+2020-09-05,Bayern,Wunsiedel im Fichtelgebirge,1.37,1,0,0.0,693,41,5.92,947.01,56.03,0.95,73178,10.94,0.0,25.99,1.37
+2020-09-04,Bayern,Wunsiedel im Fichtelgebirge,2.73,2,0,0.0,692,41,5.92,945.64,56.03,0.95,73178,10.94,2.73,24.62,2.73
+2020-09-03,Bayern,Wunsiedel im Fichtelgebirge,1.37,1,0,0.0,690,41,5.94,942.91,56.03,0.94,73178,8.21,1.37,21.89,0.0
+2020-09-02,Bayern,Wunsiedel im Fichtelgebirge,0.0,0,0,0.0,689,41,5.95,941.54,56.03,0.94,73178,6.84,-1.37,21.89,0.0
+2020-09-01,Bayern,Wunsiedel im Fichtelgebirge,1.37,1,0,0.0,689,41,5.95,941.54,56.03,0.94,73178,8.21,1.37,21.89,0.0
+2020-08-31,Bayern,Wunsiedel im Fichtelgebirge,2.73,2,0,0.0,688,41,5.96,940.17,56.03,0.94,73178,6.84,2.73,21.89,2.73
+2020-08-30,Bayern,Wunsiedel im Fichtelgebirge,1.37,1,0,0.0,686,41,5.98,937.44,56.03,0.94,73178,4.11,1.37,19.16,1.37
+2020-08-29,Bayern,Wunsiedel im Fichtelgebirge,1.37,1,0,0.0,685,41,5.99,936.07,56.03,0.94,73178,2.74,1.37,17.79,1.37
+2020-08-28,Bayern,Wunsiedel im Fichtelgebirge,0.0,0,0,0.0,684,41,5.99,934.71,56.03,0.93,73178,1.37,0.0,16.42,0.0
+2020-08-27,Bayern,Wunsiedel im Fichtelgebirge,0.0,0,0,0.0,684,41,5.99,934.71,56.03,0.93,73178,1.37,-1.37,16.42,0.0
+2020-08-26,Bayern,Wunsiedel im Fichtelgebirge,1.37,1,0,0.0,684,41,5.99,934.71,56.03,0.93,73178,2.74,0.0,16.42,1.37
 2020-08-25,Bayern,Wunsiedel im Fichtelgebirge,0.0,0,0,0.0,683,41,6.0,933.34,56.03,0.93,73178,2.74,0.0,15.05,-4.1
 2020-08-24,Bayern,Wunsiedel im Fichtelgebirge,0.0,0,0,0.0,683,41,6.0,933.34,56.03,0.93,73178,2.74,0.0,19.15,0.0
 2020-08-23,Bayern,Wunsiedel im Fichtelgebirge,0.0,0,0,0.0,683,41,6.0,933.34,56.03,0.93,73178,2.74,-4.1,19.15,-1.37

@@ -1,5 +1,9 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-03,Nordrhein-Westfalen,Lippe,1.15,4,0,0.0,904,31,3.43,259.48,8.9,0.26,348391,3.16,1.15,24.4,0.58
+2020-09-07,Nordrhein-Westfalen,Lippe,0.86,3,0,0.0,909,31,3.41,260.91,8.9,0.26,348391,2.88,0.0,21.24,-1.44
+2020-09-06,Nordrhein-Westfalen,Lippe,0.0,0,0,0.0,906,31,3.42,260.05,8.9,0.26,348391,2.88,0.0,22.68,-0.86
+2020-09-05,Nordrhein-Westfalen,Lippe,0.0,0,0,0.0,906,31,3.42,260.05,8.9,0.26,348391,2.88,0.0,23.54,-0.29
+2020-09-04,Nordrhein-Westfalen,Lippe,0.29,1,0,0.0,906,31,3.42,260.05,8.9,0.26,348391,2.88,-0.57,23.83,-0.86
+2020-09-03,Nordrhein-Westfalen,Lippe,1.44,5,0,0.0,905,31,3.43,259.77,8.9,0.26,348391,3.45,1.44,24.69,0.87
 2020-09-02,Nordrhein-Westfalen,Lippe,0.0,0,0,0.0,900,31,3.44,258.33,8.9,0.26,348391,2.01,-0.86,23.82,-1.44
 2020-09-01,Nordrhein-Westfalen,Lippe,0.29,1,0,0.0,900,31,3.44,258.33,8.9,0.26,348391,2.87,-0.57,25.26,-0.57
 2020-08-31,Nordrhein-Westfalen,Lippe,0.86,3,0,0.0,899,31,3.45,258.04,8.9,0.26,348391,3.44,0.0,25.83,0.57

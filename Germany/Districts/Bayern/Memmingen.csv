@@ -1,4 +1,7 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-07,Bayern,Memmingen,2.28,1,0,0.0,114,0,0.0,260.05,0.0,0.26,43837,61.59,0.0,114.03,0.0
+2020-09-06,Bayern,Memmingen,0.0,0,0,0.0,113,0,0.0,257.77,0.0,0.26,43837,61.59,0.0,114.03,-2.28
+2020-09-05,Bayern,Memmingen,22.81,10,0,0.0,113,0,0.0,257.77,0.0,0.26,43837,61.59,15.97,116.31,22.81
 2020-09-04,Bayern,Memmingen,11.41,5,0,0.0,103,0,0.0,234.96,0.0,0.23,43837,45.62,11.41,93.5,6.85
 2020-09-03,Bayern,Memmingen,6.84,3,0,0.0,98,0,0.0,223.56,0.0,0.22,43837,34.21,4.56,86.65,4.56
 2020-09-02,Bayern,Memmingen,0.0,0,0,0.0,95,0,0.0,216.71,0.0,0.22,43837,29.65,-2.28,82.09,0.0
