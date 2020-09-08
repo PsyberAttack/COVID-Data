@@ -1,4 +1,7 @@
 date,country,region,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-07,Honduras,Santa Barbara,0.0,0,1,0.24,1613,46,2.85,382.83,10.92,0.38,421337,33.22,0.0,176.1,-0.24
+2020-09-06,Honduras,Santa Barbara,7.36,31,0,0.0,1613,45,2.79,382.83,10.68,0.38,421337,33.22,2.85,176.34,6.65
+2020-09-05,Honduras,Santa Barbara,0.47,2,0,0.0,1582,45,2.84,375.47,10.68,0.38,421337,30.37,-35.84,169.69,0.0
 2020-09-04,Honduras,Santa Barbara,4.03,17,2,0.47,1580,45,2.85,375.0,10.68,0.37,421337,66.21,4.03,169.69,3.79
 2020-09-03,Honduras,Santa Barbara,2.85,12,2,0.47,1563,43,2.75,370.96,10.21,0.37,421337,62.18,-3.8,165.9,1.9
 2020-09-02,Honduras,Santa Barbara,0.0,0,0,0.0,1551,41,2.64,368.11,9.73,0.37,421337,65.98,-2.61,164.0,-14.0
