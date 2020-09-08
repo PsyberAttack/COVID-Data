@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-07,Iowa,Cherokee,8.83,1,0,0.0,147,2,1.36,1298.47,17.67,1.3,11321,19.62,61.82,8.83,344.48,8.83
 2020-09-06,Iowa,Cherokee,8.83,1,0,0.0,146,2,1.37,1289.64,17.67,1.29,11321,19.62,52.99,-8.84,335.65,0.0
 2020-09-05,Iowa,Cherokee,-8.83,-1,0,0.0,145,2,1.38,1280.81,17.67,1.28,11321,19.62,61.83,-26.5,335.65,-35.33
 2020-09-04,Iowa,Cherokee,8.83,1,0,0.0,146,2,1.37,1289.64,17.67,1.29,11321,19.62,88.33,0.0,370.98,0.0

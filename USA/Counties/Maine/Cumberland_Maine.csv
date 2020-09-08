@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-07,Maine,Cumberland,1.02,3,0,0.0,2221,70,3.15,756.58,23.85,0.76,293557,351.27,10.21,-0.34,44.92,0.68
 2020-09-06,Maine,Cumberland,0.68,2,0,0.0,2218,70,3.16,755.56,23.85,0.76,293557,351.27,10.55,-0.68,44.24,-1.36
 2020-09-05,Maine,Cumberland,1.36,4,0,0.0,2216,70,3.16,754.88,23.85,0.75,293557,351.27,11.23,-0.68,45.6,-1.02
 2020-09-04,Maine,Cumberland,2.04,6,0,0.0,2212,70,3.16,753.52,23.85,0.75,293557,351.27,11.91,0.0,46.62,0.34
