@@ -1,15 +1,15 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-06,Nordrhein-Westfalen,Rhein-Kreis Neuss,1.33,6,0,0.0,1187,24,2.02,262.77,5.31,0.26,451730,5.98,0.89,41.2,0.67
-2020-09-05,Nordrhein-Westfalen,Rhein-Kreis Neuss,0.66,3,0,0.0,1181,24,2.03,261.44,5.31,0.26,451730,5.09,-0.45,40.53,-0.45
-2020-09-04,Nordrhein-Westfalen,Rhein-Kreis Neuss,0.66,3,0,0.0,1178,24,2.04,260.78,5.31,0.26,451730,5.54,-0.67,40.98,-1.11
-2020-09-03,Nordrhein-Westfalen,Rhein-Kreis Neuss,0.89,4,0,0.0,1175,24,2.04,260.11,5.31,0.26,451730,6.21,-1.55,42.09,-0.44
-2020-09-02,Nordrhein-Westfalen,Rhein-Kreis Neuss,0.22,1,0,0.0,1171,24,2.05,259.23,5.31,0.26,451730,7.76,-0.44,42.53,-1.11
-2020-09-01,Nordrhein-Westfalen,Rhein-Kreis Neuss,1.33,6,0,0.0,1170,24,2.05,259.0,5.31,0.26,451730,8.2,-1.11,43.64,0.0
-2020-08-31,Nordrhein-Westfalen,Rhein-Kreis Neuss,0.89,4,0,0.0,1164,24,2.06,257.68,5.31,0.26,451730,9.31,0.89,43.64,-0.22
-2020-08-30,Nordrhein-Westfalen,Rhein-Kreis Neuss,0.44,2,0,0.0,1160,24,2.07,256.79,5.31,0.26,451730,8.42,-1.33,43.86,-1.55
-2020-08-29,Nordrhein-Westfalen,Rhein-Kreis Neuss,1.11,5,0,0.0,1158,24,2.07,256.35,5.31,0.26,451730,9.75,-0.66,45.41,-1.77
-2020-08-28,Nordrhein-Westfalen,Rhein-Kreis Neuss,1.33,6,0,0.0,1153,24,2.08,255.24,5.31,0.26,451730,10.41,-0.22,47.18,0.44
-2020-08-27,Nordrhein-Westfalen,Rhein-Kreis Neuss,2.44,11,0,0.0,1147,24,2.09,253.91,5.31,0.25,451730,10.63,1.11,46.74,1.11
+2020-09-06,Nordrhein-Westfalen,Rhein-Kreis Neuss,1.33,6,0,0.0,1189,24,2.02,263.21,5.31,0.26,451730,6.2,0.89,41.64,0.67
+2020-09-05,Nordrhein-Westfalen,Rhein-Kreis Neuss,0.66,3,0,0.0,1183,24,2.03,261.88,5.31,0.26,451730,5.31,-0.45,40.97,-0.45
+2020-09-04,Nordrhein-Westfalen,Rhein-Kreis Neuss,0.66,3,0,0.0,1180,24,2.03,261.22,5.31,0.26,451730,5.76,-0.67,41.42,-1.11
+2020-09-03,Nordrhein-Westfalen,Rhein-Kreis Neuss,1.11,5,0,0.0,1177,24,2.04,260.55,5.31,0.26,451730,6.43,-1.55,42.53,-0.22
+2020-09-02,Nordrhein-Westfalen,Rhein-Kreis Neuss,0.22,1,0,0.0,1172,24,2.05,259.45,5.31,0.26,451730,7.98,-0.44,42.75,-1.11
+2020-09-01,Nordrhein-Westfalen,Rhein-Kreis Neuss,1.33,6,0,0.0,1171,24,2.05,259.23,5.31,0.26,451730,8.42,-1.11,43.86,0.0
+2020-08-31,Nordrhein-Westfalen,Rhein-Kreis Neuss,0.89,4,0,0.0,1165,24,2.06,257.9,5.31,0.26,451730,9.53,0.89,43.86,-0.22
+2020-08-30,Nordrhein-Westfalen,Rhein-Kreis Neuss,0.44,2,0,0.0,1161,24,2.07,257.01,5.31,0.26,451730,8.64,-1.33,44.08,-1.55
+2020-08-29,Nordrhein-Westfalen,Rhein-Kreis Neuss,1.11,5,0,0.0,1159,24,2.07,256.57,5.31,0.26,451730,9.97,-0.66,45.63,-1.77
+2020-08-28,Nordrhein-Westfalen,Rhein-Kreis Neuss,1.33,6,0,0.0,1154,24,2.08,255.46,5.31,0.26,451730,10.63,-0.22,47.4,0.44
+2020-08-27,Nordrhein-Westfalen,Rhein-Kreis Neuss,2.66,12,0,0.0,1148,24,2.09,254.13,5.31,0.25,451730,10.85,1.33,46.96,1.33
 2020-08-26,Nordrhein-Westfalen,Rhein-Kreis Neuss,0.66,3,0,0.0,1136,24,2.11,251.48,5.31,0.25,451730,9.52,-2.22,45.63,-2.44
 2020-08-25,Nordrhein-Westfalen,Rhein-Kreis Neuss,2.44,11,0,0.0,1133,24,2.12,250.81,5.31,0.25,451730,11.74,2.0,48.07,0.67
 2020-08-24,Nordrhein-Westfalen,Rhein-Kreis Neuss,0.0,0,0,0.0,1122,24,2.14,248.38,5.31,0.25,451730,9.74,-1.11,47.4,-2.21

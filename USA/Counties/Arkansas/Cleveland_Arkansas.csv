@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-08,Arkansas,Cleveland,12.47,1,0,0.0,143,7,4.9,1783.49,87.3,1.78,8018,13.41,74.82,0.0,498.86,0.0
 2020-09-07,Arkansas,Cleveland,0.0,0,0,0.0,142,7,4.93,1771.02,87.3,1.77,8018,13.41,74.82,0.0,498.86,-62.36
 2020-09-06,Arkansas,Cleveland,12.47,1,1,12.47,142,7,4.93,1771.02,87.3,1.77,8018,13.41,74.82,0.0,561.22,12.47
 2020-09-05,Arkansas,Cleveland,12.47,1,0,0.0,141,6,4.26,1758.54,74.83,1.76,8018,13.41,74.82,12.47,548.75,-37.42

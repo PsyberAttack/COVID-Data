@@ -1,6 +1,9 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-05,Nordrhein-Westfalen,Hochsauerlandkreis,0.77,2,0,0.0,837,18,2.15,322.2,6.93,0.32,259777,5.38,0.0,35.37,0.39
-2020-09-04,Nordrhein-Westfalen,Hochsauerlandkreis,0.77,2,0,0.0,835,18,2.16,321.43,6.93,0.32,259777,5.38,0.39,34.98,0.0
+2020-09-08,Nordrhein-Westfalen,Hochsauerlandkreis,1.15,3,0,0.0,842,18,2.14,324.12,6.93,0.32,259777,4.6,0.38,28.81,-1.16
+2020-09-07,Nordrhein-Westfalen,Hochsauerlandkreis,0.0,0,0,0.0,839,18,2.15,322.97,6.93,0.32,259777,4.22,-0.77,29.97,-2.31
+2020-09-06,Nordrhein-Westfalen,Hochsauerlandkreis,0.0,0,0,0.0,839,18,2.15,322.97,6.93,0.32,259777,4.99,-1.15,32.28,-3.85
+2020-09-05,Nordrhein-Westfalen,Hochsauerlandkreis,1.15,3,0,0.0,839,18,2.15,322.97,6.93,0.32,259777,6.14,0.38,36.13,0.77
+2020-09-04,Nordrhein-Westfalen,Hochsauerlandkreis,1.15,3,0,0.0,836,18,2.15,321.81,6.93,0.32,259777,5.76,0.77,35.36,0.38
 2020-09-03,Nordrhein-Westfalen,Hochsauerlandkreis,0.38,1,0,0.0,833,18,2.16,320.66,6.93,0.32,259777,4.99,-0.77,34.98,-0.77
 2020-09-02,Nordrhein-Westfalen,Hochsauerlandkreis,0.77,2,0,0.0,832,18,2.16,320.27,6.93,0.32,259777,5.76,0.0,35.75,-1.15
 2020-09-01,Nordrhein-Westfalen,Hochsauerlandkreis,0.77,2,0,0.0,830,18,2.17,319.5,6.93,0.32,259777,5.76,0.77,36.9,-1.15

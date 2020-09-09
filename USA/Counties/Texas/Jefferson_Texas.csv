@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-08,Texas,Jefferson,15.29,39,1,0.39,6811,113,1.66,2670.97,44.31,2.67,255001,290.97,66.28,4.7,327.06,-22.75
 2020-09-07,Texas,Jefferson,0.0,0,0,0.0,6772,112,1.65,2655.68,43.92,2.66,255001,290.97,61.58,0.0,349.81,0.0
 2020-09-06,Texas,Jefferson,0.0,0,1,0.39,6772,112,1.65,2655.68,43.92,2.66,255001,290.97,61.58,-1.96,349.81,-3.92
 2020-09-05,Texas,Jefferson,19.61,50,2,0.78,6772,111,1.64,2655.68,43.53,2.66,255001,290.97,63.54,11.77,353.73,3.14
