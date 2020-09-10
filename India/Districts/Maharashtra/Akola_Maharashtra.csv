@@ -1,5 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-09,Maharashtra,Akola,0.0,0,0,0.0,4649,166,3.57,255.63,9.13,0.26,1818617,32.0,-2.86,84.97,-2.42
+2020-09-10,Maharashtra,Akola,7.97,145,1,0.05,4937,168,3.4,271.47,9.24,0.27,1818617,43.76,3.9,98.99,6.16
+2020-09-09,Maharashtra,Akola,7.86,143,1,0.05,4792,167,3.48,263.5,9.18,0.26,1818617,39.86,5.0,92.83,5.44
 2020-09-08,Maharashtra,Akola,7.04,128,0,0.0,4649,166,3.57,255.63,9.13,0.26,1818617,34.86,-0.99,87.39,4.4
 2020-09-07,Maharashtra,Akola,6.49,118,2,0.11,4521,166,3.67,248.6,9.13,0.25,1818617,35.85,5.94,82.99,4.84
 2020-09-06,Maharashtra,Akola,4.34,79,0,0.0,4403,164,3.72,242.11,9.02,0.24,1818617,29.91,-0.11,78.15,0.6
