@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-08,Rio de Janeiro,Itaocara,0.0,0,0,0.0,331,22,6.65,1424.64,94.69,1.42,23234,0.0,-30.13,228.1,-34.43
+2020-09-07,Rio de Janeiro,Itaocara,-4.3,-1,0,0.0,331,22,6.65,1424.64,94.69,1.42,23234,30.13,-4.3,262.53,-12.91
+2020-09-06,Rio de Janeiro,Itaocara,4.3,1,0,0.0,332,22,6.63,1428.94,94.69,1.43,23234,34.43,4.3,275.44,-12.92
+2020-09-05,Rio de Janeiro,Itaocara,-4.3,-1,-1,-4.3,331,22,6.65,1424.64,94.69,1.42,23234,30.13,-17.21,288.36,-25.82
 2020-09-04,Rio de Janeiro,Itaocara,0.0,0,0,0.0,332,23,6.93,1428.94,98.99,1.43,23234,47.34,-12.91,314.18,-8.61
 2020-09-03,Rio de Janeiro,Itaocara,4.3,1,0,0.0,332,23,6.93,1428.94,98.99,1.43,23234,60.25,-4.31,322.79,-77.48
 2020-09-02,Rio de Janeiro,Itaocara,0.0,0,0,0.0,331,23,6.95,1424.64,98.99,1.42,23234,64.56,-21.52,400.27,0.0

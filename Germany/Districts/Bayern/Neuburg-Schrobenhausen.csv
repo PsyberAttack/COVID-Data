@@ -1,6 +1,10 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-04,Bayern,Neuburg-Schrobenhausen,6.21,6,0,0.0,400,18,4.5,413.74,18.62,0.41,96680,14.47,5.18,59.95,4.14
-2020-09-03,Bayern,Neuburg-Schrobenhausen,2.07,2,0,0.0,394,18,4.57,407.53,18.62,0.41,96680,9.29,-1.03,55.81,2.07
+2020-09-08,Bayern,Neuburg-Schrobenhausen,1.03,1,0,0.0,403,18,4.47,416.84,18.62,0.42,96680,13.44,0.0,55.81,1.03
+2020-09-07,Bayern,Neuburg-Schrobenhausen,0.0,0,0,0.0,402,18,4.48,415.8,18.62,0.42,96680,13.44,-1.03,54.78,-1.03
+2020-09-06,Bayern,Neuburg-Schrobenhausen,1.03,1,0,0.0,402,18,4.48,415.8,18.62,0.42,96680,14.47,0.0,55.81,-2.07
+2020-09-05,Bayern,Neuburg-Schrobenhausen,0.0,0,0,0.0,401,18,4.49,414.77,18.62,0.41,96680,14.47,-1.03,57.88,-3.1
+2020-09-04,Bayern,Neuburg-Schrobenhausen,6.21,6,0,0.0,401,18,4.49,414.77,18.62,0.41,96680,15.5,5.18,60.98,4.14
+2020-09-03,Bayern,Neuburg-Schrobenhausen,3.1,3,0,0.0,395,18,4.56,408.56,18.62,0.41,96680,10.32,0.0,56.84,3.1
 2020-09-02,Bayern,Neuburg-Schrobenhausen,2.07,2,0,0.0,392,18,4.59,405.46,18.62,0.41,96680,10.32,-3.1,53.74,1.04
 2020-09-01,Bayern,Neuburg-Schrobenhausen,1.03,1,0,0.0,390,18,4.62,403.39,18.62,0.4,96680,13.42,-2.07,52.7,0.0
 2020-08-31,Bayern,Neuburg-Schrobenhausen,1.03,1,0,0.0,389,18,4.63,402.36,18.62,0.4,96680,15.49,-1.04,52.7,0.0

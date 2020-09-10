@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-09,Iowa,Floyd,12.69,2,0,0.0,245,3,1.22,1554.47,19.03,1.55,15761,31.48,158.61,6.35,520.24,-19.03
 2020-09-08,Iowa,Floyd,12.69,2,0,0.0,243,3,1.23,1541.78,19.03,1.54,15761,31.48,152.26,-12.69,539.27,6.35
 2020-09-07,Iowa,Floyd,6.34,1,0,0.0,241,3,1.24,1529.09,19.03,1.53,15761,31.48,164.95,6.34,532.92,-6.35
 2020-09-06,Iowa,Floyd,19.03,3,0,0.0,240,3,1.25,1522.75,19.03,1.52,15761,31.48,158.61,6.34,539.27,-25.38

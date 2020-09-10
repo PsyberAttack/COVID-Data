@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-08,Rio de Janeiro,Nova Iguaçu,0.73,6,5,0.61,5609,535,9.54,683.08,65.15,0.68,821128,22.04,-6.21,139.8,-1.46
+2020-09-07,Rio de Janeiro,Nova Iguaçu,0.61,5,1,0.12,5603,530,9.46,682.35,64.55,0.68,821128,28.25,-0.85,141.26,-0.12
+2020-09-06,Rio de Janeiro,Nova Iguaçu,0.0,0,1,0.12,5598,529,9.45,681.75,64.42,0.68,821128,29.1,-3.9,141.38,-7.06
+2020-09-05,Rio de Janeiro,Nova Iguaçu,0.12,1,1,0.12,5598,528,9.43,681.75,64.3,0.68,821128,33.0,-7.19,148.44,-5.85
 2020-09-04,Rio de Janeiro,Nova Iguaçu,6.82,56,4,0.49,5597,527,9.42,681.62,64.18,0.68,821128,40.19,2.31,154.29,1.34
 2020-09-03,Rio de Janeiro,Nova Iguaçu,6.21,51,0,0.0,5541,523,9.44,674.8,63.69,0.67,821128,37.88,-1.58,152.95,-3.29
 2020-09-02,Rio de Janeiro,Nova Iguaçu,7.55,62,2,0.24,5490,523,9.53,668.59,63.69,0.67,821128,39.46,0.0,156.24,6.45

@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-08,Rio de Janeiro,Volta Redonda,0.0,0,0,0.0,5756,195,3.39,2108.33,71.43,2.11,273012,58.24,-36.63,610.25,-13.19
+2020-09-07,Rio de Janeiro,Volta Redonda,0.37,1,0,0.0,5756,195,3.39,2108.33,71.43,2.11,273012,94.87,-4.03,623.44,-6.22
+2020-09-06,Rio de Janeiro,Volta Redonda,0.0,0,0,0.0,5755,195,3.39,2107.97,71.43,2.11,273012,98.9,-10.99,629.66,-25.64
+2020-09-05,Rio de Janeiro,Volta Redonda,0.37,1,1,0.37,5755,195,3.39,2107.97,71.43,2.11,273012,109.89,-52.37,655.3,-35.89
 2020-09-04,Rio de Janeiro,Volta Redonda,22.71,62,6,2.2,5754,194,3.37,2107.6,71.06,2.11,273012,162.26,-1.83,691.19,-0.73
 2020-09-03,Rio de Janeiro,Volta Redonda,16.48,45,-1,-0.37,5692,188,3.3,2084.89,68.86,2.08,273012,164.09,-26.74,691.92,-46.89
 2020-09-02,Rio de Janeiro,Volta Redonda,18.31,50,1,0.37,5647,189,3.35,2068.41,69.23,2.07,273012,190.83,-13.19,738.81,7.69

@@ -1,9 +1,11 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-07,Nordrhein-Westfalen,Rhein-Erft-Kreis,0.21,1,0,0.0,1529,78,5.1,324.89,16.57,0.32,470615,6.15,-1.28,49.46,-3.19
-2020-09-06,Nordrhein-Westfalen,Rhein-Erft-Kreis,0.21,1,0,0.0,1528,78,5.1,324.68,16.57,0.32,470615,7.43,-1.06,52.65,-0.85
-2020-09-05,Nordrhein-Westfalen,Rhein-Erft-Kreis,0.85,4,0,0.0,1527,78,5.11,324.47,16.57,0.32,470615,8.49,-2.97,53.5,-0.42
-2020-09-04,Nordrhein-Westfalen,Rhein-Erft-Kreis,1.06,5,0,0.0,1523,78,5.12,323.62,16.57,0.32,470615,11.46,-1.28,53.92,-0.21
-2020-09-03,Nordrhein-Westfalen,Rhein-Erft-Kreis,1.06,5,0,0.0,1518,78,5.14,322.56,16.57,0.32,470615,12.74,-1.7,54.13,-0.43
+2020-09-09,Nordrhein-Westfalen,Rhein-Erft-Kreis,0.21,1,0,0.0,1536,78,5.08,326.38,16.57,0.33,470615,4.86,-1.91,46.47,-1.7
+2020-09-08,Nordrhein-Westfalen,Rhein-Erft-Kreis,0.0,0,0,0.0,1535,78,5.08,326.17,16.57,0.33,470615,6.77,-0.64,48.17,-2.55
+2020-09-07,Nordrhein-Westfalen,Rhein-Erft-Kreis,0.42,2,0,0.0,1535,78,5.08,326.17,16.57,0.33,470615,7.41,-1.07,50.72,-2.98
+2020-09-06,Nordrhein-Westfalen,Rhein-Erft-Kreis,0.42,2,0,0.0,1533,78,5.09,325.74,16.57,0.33,470615,8.48,-0.85,53.7,-0.64
+2020-09-05,Nordrhein-Westfalen,Rhein-Erft-Kreis,1.27,6,0,0.0,1531,78,5.09,325.32,16.57,0.33,470615,9.33,-2.55,54.34,0.0
+2020-09-04,Nordrhein-Westfalen,Rhein-Erft-Kreis,1.27,6,0,0.0,1525,78,5.11,324.04,16.57,0.32,470615,11.88,-1.07,54.34,0.0
+2020-09-03,Nordrhein-Westfalen,Rhein-Erft-Kreis,1.27,6,0,0.0,1519,78,5.13,322.77,16.57,0.32,470615,12.95,-1.49,54.34,-0.22
 2020-09-02,Nordrhein-Westfalen,Rhein-Erft-Kreis,2.12,10,0,0.0,1513,78,5.16,321.49,16.57,0.32,470615,14.44,-0.85,54.56,1.27
 2020-09-01,Nordrhein-Westfalen,Rhein-Erft-Kreis,0.64,3,0,0.0,1503,78,5.19,319.37,16.57,0.32,470615,15.29,-2.12,53.29,-2.12
 2020-08-31,Nordrhein-Westfalen,Rhein-Erft-Kreis,1.49,7,0,0.0,1500,78,5.2,318.73,16.57,0.32,470615,17.41,-1.27,55.41,0.43

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-09,Minnesota,Houston,5.38,1,0,0.0,89,0,0.0,479.06,0.0,0.48,18578,33.65,48.45,-10.77,242.24,-5.39
 2020-09-08,Minnesota,Houston,-5.38,-1,0,0.0,88,0,0.0,473.68,0.0,0.47,18578,33.65,59.22,-5.38,247.63,-16.15
 2020-09-07,Minnesota,Houston,16.15,3,0,0.0,89,0,0.0,479.06,0.0,0.48,18578,33.65,64.6,10.77,263.78,26.92
 2020-09-06,Minnesota,Houston,10.77,2,0,0.0,86,0,0.0,462.91,0.0,0.46,18578,33.65,53.83,0.0,236.86,-5.38

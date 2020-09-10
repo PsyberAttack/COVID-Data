@@ -1,12 +1,13 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-08,Berlin,Berlin Charlottenburg-Wilmersdorf,0.92,3,0,0.0,1159,23,1.98,355.14,7.05,0.36,326354,7.37,-1.22,49.65,-0.61
-2020-09-07,Berlin,Berlin Charlottenburg-Wilmersdorf,1.23,4,0,0.0,1156,23,1.99,354.22,7.05,0.35,326354,8.59,-0.91,50.26,-0.91
-2020-09-06,Berlin,Berlin Charlottenburg-Wilmersdorf,0.0,0,0,0.0,1152,23,2.0,352.99,7.05,0.35,326354,9.5,-0.92,51.17,-1.23
-2020-09-05,Berlin,Berlin Charlottenburg-Wilmersdorf,0.31,1,0,0.0,1152,23,2.0,352.99,7.05,0.35,326354,10.42,-1.22,52.4,-0.3
-2020-09-04,Berlin,Berlin Charlottenburg-Wilmersdorf,1.84,6,0,0.0,1151,23,2.0,352.68,7.05,0.35,326354,11.64,-0.92,52.7,1.23
-2020-09-03,Berlin,Berlin Charlottenburg-Wilmersdorf,1.23,4,0,0.0,1145,23,2.01,350.85,7.05,0.35,326354,12.56,0.0,51.47,0.0
-2020-09-02,Berlin,Berlin Charlottenburg-Wilmersdorf,1.84,6,0,0.0,1141,23,2.02,349.62,7.05,0.35,326354,12.56,-0.92,51.47,-0.3
-2020-09-01,Berlin,Berlin Charlottenburg-Wilmersdorf,2.14,7,0,0.0,1135,23,2.03,347.78,7.05,0.35,326354,13.48,-0.62,51.77,0.0
+2020-09-09,Berlin,Berlin Charlottenburg-Wilmersdorf,0.31,1,0,0.0,1164,23,1.98,356.67,7.05,0.36,326354,6.74,-1.53,48.41,-2.45
+2020-09-08,Berlin,Berlin Charlottenburg-Wilmersdorf,0.61,2,0,0.0,1163,23,1.98,356.36,7.05,0.36,326354,8.27,-1.84,50.86,-0.92
+2020-09-07,Berlin,Berlin Charlottenburg-Wilmersdorf,2.14,7,0,0.0,1161,23,1.98,355.75,7.05,0.36,326354,10.11,0.0,51.78,0.0
+2020-09-06,Berlin,Berlin Charlottenburg-Wilmersdorf,0.31,1,0,0.0,1154,23,1.99,353.6,7.05,0.35,326354,10.11,-0.61,51.78,-0.92
+2020-09-05,Berlin,Berlin Charlottenburg-Wilmersdorf,0.31,1,0,0.0,1153,23,1.99,353.3,7.05,0.35,326354,10.72,-1.22,52.7,-0.3
+2020-09-04,Berlin,Berlin Charlottenburg-Wilmersdorf,1.53,5,0,0.0,1152,23,2.0,352.99,7.05,0.35,326354,11.94,-1.23,53.0,0.92
+2020-09-03,Berlin,Berlin Charlottenburg-Wilmersdorf,1.53,5,0,0.0,1147,23,2.01,351.46,7.05,0.35,326354,13.17,0.3,52.08,0.3
+2020-09-02,Berlin,Berlin Charlottenburg-Wilmersdorf,1.84,6,0,0.0,1142,23,2.01,349.93,7.05,0.35,326354,12.87,-0.92,51.78,-0.3
+2020-09-01,Berlin,Berlin Charlottenburg-Wilmersdorf,2.45,8,0,0.0,1136,23,2.02,348.09,7.05,0.35,326354,13.79,-0.31,52.08,0.31
 2020-08-31,Berlin,Berlin Charlottenburg-Wilmersdorf,2.14,7,0,0.0,1128,23,2.04,345.64,7.05,0.35,326354,14.1,0.3,51.77,-1.23
 2020-08-30,Berlin,Berlin Charlottenburg-Wilmersdorf,0.92,3,0,0.0,1121,23,2.05,343.49,7.05,0.34,326354,13.8,0.0,53.0,-0.61
 2020-08-29,Berlin,Berlin Charlottenburg-Wilmersdorf,1.53,5,0,0.0,1118,23,2.06,342.57,7.05,0.34,326354,13.8,0.0,53.61,-0.61
