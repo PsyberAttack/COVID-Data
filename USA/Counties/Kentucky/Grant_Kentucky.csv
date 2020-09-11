@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-10,Kentucky,Grant,3.98,1,0,0.0,148,6,4.05,589.15,23.88,0.59,25121,97.38,23.88,-3.98,83.58,0.0
 2020-09-09,Kentucky,Grant,-3.98,-1,0,0.0,147,6,4.08,585.17,23.88,0.59,25121,97.38,27.86,-7.96,83.58,-11.94
 2020-09-08,Kentucky,Grant,19.9,5,0,0.0,148,6,4.05,589.15,23.88,0.59,25121,97.38,35.82,15.92,95.52,19.9
 2020-09-07,Kentucky,Grant,0.0,0,0,0.0,143,6,4.2,569.24,23.88,0.57,25121,97.38,19.9,0.0,75.62,-15.92

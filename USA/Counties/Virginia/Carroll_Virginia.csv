@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-10,Virginia,Carroll,6.75,2,0,0.0,450,19,4.22,1518.42,64.11,1.52,29636,62.43,124.84,0.0,388.02,0.0
 2020-09-09,Virginia,Carroll,6.75,2,0,0.0,448,19,4.24,1511.67,64.11,1.51,29636,62.43,124.84,3.38,388.02,3.38
 2020-09-08,Virginia,Carroll,10.12,3,0,0.0,446,19,4.26,1504.93,64.11,1.5,29636,62.43,121.46,-37.12,384.64,16.87
 2020-09-07,Virginia,Carroll,13.5,4,0,0.0,443,19,4.29,1494.8,64.11,1.49,29636,62.43,158.58,10.13,367.77,13.5
