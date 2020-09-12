@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-11,Kansas,Jackson,15.06,2,0,0.0,223,1,0.45,1679.22,7.53,1.68,13280,20.24,75.3,15.06,444.27,7.53
 2020-09-10,Kansas,Jackson,0.0,0,0,0.0,221,1,0.45,1664.16,7.53,1.66,13280,20.24,60.24,-22.59,436.74,0.0
 2020-09-09,Kansas,Jackson,22.59,3,0,0.0,221,1,0.45,1664.16,7.53,1.66,13280,20.24,82.83,7.53,436.74,-37.65
 2020-09-08,Kansas,Jackson,0.0,0,0,0.0,218,1,0.46,1641.57,7.53,1.64,13280,20.24,75.3,0.0,474.39,0.0

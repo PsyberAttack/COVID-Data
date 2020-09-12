@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-11,Tennessee,Johnson,61.87,11,0,0.0,534,2,0.37,3003.71,11.25,3.0,17778,59.57,584.97,50.62,1209.31,56.25
 2020-09-10,Tennessee,Johnson,50.62,9,1,5.62,523,2,0.38,2941.84,11.25,2.94,17778,59.57,534.35,45.0,1153.06,-11.25
 2020-09-09,Tennessee,Johnson,28.12,5,0,0.0,514,1,0.19,2891.21,5.62,2.89,17778,59.57,489.35,-33.75,1164.31,-78.75
 2020-09-08,Tennessee,Johnson,-11.25,-2,0,0.0,509,1,0.2,2863.09,5.62,2.86,17778,59.57,523.1,-61.87,1243.06,-28.12

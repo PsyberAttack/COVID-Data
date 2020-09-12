@@ -1,5 +1,9 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-07,Niedersachsen,Wesermarsch,1.13,1,0,0.0,127,5,3.94,143.3,5.64,0.14,88624,4.52,1.13,35.01,0.0
+2020-09-11,Niedersachsen,Wesermarsch,1.13,1,0,0.0,130,5,3.85,146.69,5.64,0.15,88624,6.78,1.13,30.49,-2.26
+2020-09-10,Niedersachsen,Wesermarsch,0.0,0,0,0.0,129,5,3.88,145.56,5.64,0.15,88624,5.65,0.0,32.75,0.0
+2020-09-09,Niedersachsen,Wesermarsch,1.13,1,0,0.0,129,5,3.88,145.56,5.64,0.15,88624,5.65,1.13,32.75,0.0
+2020-09-08,Niedersachsen,Wesermarsch,0.0,0,0,0.0,128,5,3.91,144.43,5.64,0.14,88624,4.52,-1.13,32.75,-3.39
+2020-09-07,Niedersachsen,Wesermarsch,2.26,2,0,0.0,128,5,3.91,144.43,5.64,0.14,88624,5.65,2.26,36.14,1.13
 2020-09-06,Niedersachsen,Wesermarsch,2.26,2,0,0.0,126,5,3.97,142.17,5.64,0.14,88624,3.39,2.26,35.01,0.0
 2020-09-05,Niedersachsen,Wesermarsch,0.0,0,0,0.0,124,5,4.03,139.92,5.64,0.14,88624,1.13,-1.13,35.01,-2.26
 2020-09-04,Niedersachsen,Wesermarsch,0.0,0,0,0.0,124,5,4.03,139.92,5.64,0.14,88624,2.26,0.0,37.27,-7.9

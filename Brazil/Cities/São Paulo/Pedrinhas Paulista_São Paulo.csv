@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-09,São Paulo,Pedrinhas Paulista,96.99,3,0,0.0,21,1,4.76,678.95,32.33,0.68,3093,161.65,96.99,323.3,96.99
+2020-09-10,São Paulo,Pedrinhas Paulista,0.0,0,0,0.0,21,1,4.76,678.95,32.33,0.68,3093,129.32,0.0,323.3,0.0
+2020-09-09,São Paulo,Pedrinhas Paulista,64.66,2,0,0.0,21,1,4.76,678.95,32.33,0.68,3093,129.32,32.33,323.3,64.66
+2020-09-08,São Paulo,Pedrinhas Paulista,32.33,1,0,0.0,19,1,5.26,614.29,32.33,0.61,3093,96.99,32.33,258.64,32.33
 2020-09-04,São Paulo,Pedrinhas Paulista,0.0,0,0,0.0,18,1,5.56,581.96,32.33,0.58,3093,64.66,0.0,226.31,0.0
 2020-09-03,São Paulo,Pedrinhas Paulista,0.0,0,0,0.0,18,1,5.56,581.96,32.33,0.58,3093,64.66,0.0,226.31,0.0
 2020-09-02,São Paulo,Pedrinhas Paulista,32.33,1,0,0.0,18,1,5.56,581.96,32.33,0.58,3093,64.66,32.33,226.31,32.33

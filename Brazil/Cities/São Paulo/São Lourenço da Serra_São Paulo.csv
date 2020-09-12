@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-09,São Paulo,São Lourenço da Serra,31.6,5,0,0.0,199,6,3.02,1257.5,37.91,1.26,15825,50.56,12.64,322.29,18.96
+2020-09-10,São Paulo,São Lourenço da Serra,0.0,0,0,0.0,199,6,3.02,1257.5,37.91,1.26,15825,44.24,0.0,315.97,-6.32
+2020-09-09,São Paulo,São Lourenço da Serra,12.64,2,0,0.0,199,6,3.02,1257.5,37.91,1.26,15825,44.24,6.32,322.29,12.64
+2020-09-08,São Paulo,São Lourenço da Serra,18.96,3,0,0.0,197,6,3.05,1244.87,37.91,1.24,15825,37.92,0.0,309.65,6.32
 2020-09-04,São Paulo,São Lourenço da Serra,6.32,1,0,0.0,194,6,3.09,1225.91,37.91,1.23,15825,37.92,-6.32,303.33,6.32
 2020-09-03,São Paulo,São Lourenço da Serra,0.0,0,0,0.0,193,6,3.11,1219.59,37.91,1.22,15825,44.24,-56.87,297.01,-37.91
 2020-09-02,São Paulo,São Lourenço da Serra,0.0,0,0,0.0,193,6,3.11,1219.59,37.91,1.22,15825,101.11,0.0,334.92,-18.96

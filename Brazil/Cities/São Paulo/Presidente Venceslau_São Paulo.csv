@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-09,São Paulo,Presidente Venceslau,32.9,13,1,2.53,383,13,3.39,969.23,32.9,0.97,39516,70.85,20.25,298.58,-2.53
+2020-09-10,São Paulo,Presidente Venceslau,22.78,9,0,0.0,392,13,3.32,992.0,32.9,0.99,39516,93.63,22.78,318.83,20.25
+2020-09-09,São Paulo,Presidente Venceslau,2.53,1,0,0.0,383,13,3.39,969.23,32.9,0.97,39516,70.85,2.53,298.58,2.53
+2020-09-08,São Paulo,Presidente Venceslau,30.37,12,1,2.53,382,13,3.4,966.7,32.9,0.97,39516,68.32,17.72,296.05,-5.06
 2020-09-04,São Paulo,Presidente Venceslau,5.06,2,0,0.0,370,12,3.24,936.33,30.37,0.94,39516,50.6,-20.25,301.11,2.53
 2020-09-03,São Paulo,Presidente Venceslau,5.06,2,0,0.0,368,12,3.26,931.27,30.37,0.93,39516,70.85,-7.59,298.58,-5.06
 2020-09-02,São Paulo,Presidente Venceslau,10.12,4,0,0.0,366,12,3.28,926.21,30.37,0.93,39516,78.44,2.53,303.64,-15.19

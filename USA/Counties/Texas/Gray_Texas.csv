@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-11,Texas,Gray,13.7,3,0,0.0,254,5,1.97,1160.08,22.84,1.16,21895,23.65,22.84,0.0,150.72,13.7
 2020-09-10,Texas,Gray,0.0,0,0,0.0,251,5,1.99,1146.38,22.84,1.15,21895,23.65,22.84,-9.13,137.02,-13.7
 2020-09-09,Texas,Gray,4.57,1,0,0.0,251,5,1.99,1146.38,22.84,1.15,21895,23.65,31.97,0.0,150.72,4.57
 2020-09-08,Texas,Gray,0.0,0,0,0.0,250,5,2.0,1141.81,22.84,1.14,21895,23.65,31.97,-4.57,146.15,-13.7

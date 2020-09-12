@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-11,Texas,Bosque,26.75,5,0,0.0,250,6,2.4,1337.54,32.1,1.34,18691,19.01,53.5,-16.05,379.85,21.4
 2020-09-10,Texas,Bosque,0.0,0,0,0.0,245,6,2.45,1310.79,32.1,1.31,18691,19.01,69.55,-16.05,358.45,-21.4
 2020-09-09,Texas,Bosque,21.4,4,1,5.35,245,6,2.45,1310.79,32.1,1.31,18691,19.01,85.6,-16.05,379.85,-21.4
 2020-09-08,Texas,Bosque,0.0,0,0,0.0,241,5,2.07,1289.39,26.75,1.29,18691,19.01,101.65,-32.1,401.25,-21.4

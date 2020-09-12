@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-09,São Paulo,Sebastianópolis do Sul,28.47,1,0,0.0,45,0,0.0,1280.96,0.0,1.28,3513,113.88,28.47,256.23,28.47
+2020-09-10,São Paulo,Sebastianópolis do Sul,0.0,0,0,0.0,45,0,0.0,1280.96,0.0,1.28,3513,85.41,0.0,227.76,-28.47
+2020-09-09,São Paulo,Sebastianópolis do Sul,0.0,0,0,0.0,45,0,0.0,1280.96,0.0,1.28,3513,85.41,-28.47,256.23,0.0
+2020-09-08,São Paulo,Sebastianópolis do Sul,28.47,1,0,0.0,45,0,0.0,1280.96,0.0,1.28,3513,113.88,28.47,256.23,28.47
 2020-09-04,São Paulo,Sebastianópolis do Sul,28.47,1,0,0.0,44,0,0.0,1252.49,0.0,1.25,3513,85.41,0.0,227.76,0.0
 2020-09-03,São Paulo,Sebastianópolis do Sul,0.0,0,0,0.0,43,0,0.0,1224.03,0.0,1.22,3513,85.41,0.0,227.76,-28.47
 2020-09-02,São Paulo,Sebastianópolis do Sul,28.47,1,0,0.0,43,0,0.0,1224.03,0.0,1.22,3513,85.41,28.47,256.23,-56.93

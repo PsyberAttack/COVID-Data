@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-11,Illinois,Montgomery,20.98,6,0,0.0,279,11,3.94,975.49,38.46,0.98,28601,40.65,55.94,3.5,349.64,6.99
 2020-09-10,Illinois,Montgomery,-3.5,-1,1,3.5,273,11,4.03,954.51,38.46,0.95,28601,40.65,52.44,-17.49,342.65,-7.0
 2020-09-09,Illinois,Montgomery,13.99,4,0,0.0,274,10,3.65,958.01,34.96,0.96,28601,40.65,69.93,3.5,349.65,3.5
 2020-09-08,Illinois,Montgomery,6.99,2,1,3.5,270,10,3.7,944.02,34.96,0.94,28601,40.65,66.43,10.49,346.15,0.0

@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-09,São Paulo,São Sebastião da Grama,82.09,10,0,0.0,154,4,2.6,1264.16,32.84,1.26,12182,246.27,49.25,467.94,65.67
+2020-09-10,São Paulo,São Sebastião da Grama,16.42,2,0,0.0,156,4,2.56,1280.58,32.84,1.28,12182,221.65,16.42,443.31,0.0
+2020-09-09,São Paulo,São Sebastião da Grama,0.0,0,0,0.0,154,4,2.6,1264.16,32.84,1.26,12182,205.23,-41.04,443.31,-24.63
+2020-09-08,São Paulo,São Sebastião da Grama,82.09,10,0,0.0,154,4,2.6,1264.16,32.84,1.26,12182,246.27,49.25,467.94,65.67
 2020-09-04,São Paulo,São Sebastião da Grama,32.84,4,0,0.0,144,4,2.78,1182.07,32.84,1.18,12182,197.02,8.21,402.27,32.84
 2020-09-03,São Paulo,São Sebastião da Grama,24.63,3,0,0.0,140,4,2.86,1149.24,32.84,1.15,12182,188.81,24.63,369.43,-8.21
 2020-09-02,São Paulo,São Sebastião da Grama,8.21,1,0,0.0,137,4,2.92,1124.61,32.84,1.12,12182,164.18,0.0,377.64,8.21

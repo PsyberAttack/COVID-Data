@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-09,São Paulo,São José do Barreiro,72.34,3,0,0.0,19,1,5.26,458.16,24.11,0.46,4147,72.34,48.23,458.17,72.34
+2020-09-10,São Paulo,São José do Barreiro,24.11,1,1,24.11,20,2,10.0,482.28,48.23,0.48,4147,96.45,24.11,482.28,24.11
+2020-09-09,São Paulo,São José do Barreiro,72.34,3,0,0.0,19,1,5.26,458.16,24.11,0.46,4147,72.34,72.34,458.17,72.34
+2020-09-08,São Paulo,São José do Barreiro,0.0,0,0,0.0,16,1,6.25,385.82,24.11,0.39,4147,0.0,-24.11,385.83,0.0
 2020-09-04,São Paulo,São José do Barreiro,0.0,0,0,0.0,16,1,6.25,385.82,24.11,0.39,4147,24.11,-96.46,385.83,0.0
 2020-09-03,São Paulo,São José do Barreiro,0.0,0,0,0.0,16,1,6.25,385.82,24.11,0.39,4147,120.57,0.0,385.83,0.0
 2020-09-02,São Paulo,São José do Barreiro,0.0,0,0,0.0,16,1,6.25,385.82,24.11,0.39,4147,120.57,0.0,385.83,24.11

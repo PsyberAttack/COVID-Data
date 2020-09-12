@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-09,São Paulo,Ribeirão Corrente,105.98,5,0,0.0,28,0,0.0,593.47,0.0,0.59,4718,445.11,84.78,593.49,105.98
+2020-09-10,São Paulo,Ribeirão Corrente,0.0,0,1,21.2,28,1,3.57,593.47,21.2,0.59,4718,402.72,0.0,593.49,0.0
+2020-09-09,São Paulo,Ribeirão Corrente,0.0,0,0,0.0,28,0,0.0,593.47,0.0,0.59,4718,402.72,-42.39,593.49,0.0
+2020-09-08,São Paulo,Ribeirão Corrente,105.98,5,0,0.0,28,0,0.0,593.47,0.0,0.59,4718,445.11,84.78,593.49,105.98
 2020-09-04,São Paulo,Ribeirão Corrente,0.0,0,0,0.0,23,0,0.0,487.49,0.0,0.49,4718,360.33,0.0,487.51,0.0
 2020-09-03,São Paulo,Ribeirão Corrente,21.2,1,0,0.0,23,0,0.0,487.49,0.0,0.49,4718,360.33,-63.58,487.51,21.2
 2020-09-02,São Paulo,Ribeirão Corrente,42.39,2,0,0.0,22,0,0.0,466.3,0.0,0.47,4718,423.91,42.39,466.31,42.39

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-11,Iowa,Franklin,19.76,2,0,0.0,318,17,5.35,3141.05,167.92,3.14,10124,17.4,98.79,-19.75,582.83,0.0
 2020-09-10,Iowa,Franklin,19.76,2,0,0.0,316,17,5.38,3121.3,167.92,3.12,10124,17.4,118.54,9.88,582.83,-69.14
 2020-09-09,Iowa,Franklin,9.88,1,0,0.0,314,17,5.41,3101.54,167.92,3.1,10124,17.4,108.66,-49.39,651.97,-19.75
 2020-09-08,Iowa,Franklin,29.63,3,0,0.0,313,17,5.43,3091.66,167.92,3.09,10124,17.4,158.05,9.87,671.72,-9.88

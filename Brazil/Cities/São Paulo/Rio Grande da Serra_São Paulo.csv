@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-09,São Paulo,Rio Grande da Serra,35.4,18,1,1.97,611,22,3.6,1201.67,43.27,1.2,50846,98.34,17.7,330.42,29.5
+2020-09-10,São Paulo,Rio Grande da Serra,3.93,2,1,1.97,613,23,3.75,1205.6,45.23,1.21,50846,94.4,3.93,295.01,-3.94
+2020-09-09,São Paulo,Rio Grande da Serra,11.8,6,1,1.97,611,22,3.6,1201.67,43.27,1.2,50846,90.47,3.93,298.95,-19.67
+2020-09-08,São Paulo,Rio Grande da Serra,23.6,12,0,0.0,605,21,3.47,1189.87,41.3,1.19,50846,86.54,5.9,318.62,17.7
 2020-09-04,São Paulo,Rio Grande da Serra,5.9,3,0,0.0,593,21,3.54,1166.27,41.3,1.17,50846,80.64,-9.83,300.92,1.97
 2020-09-03,São Paulo,Rio Grande da Serra,5.9,3,0,0.0,590,21,3.56,1160.37,41.3,1.16,50846,90.47,-7.87,298.95,-1.97
 2020-09-02,São Paulo,Rio Grande da Serra,37.37,19,0,0.0,587,21,3.58,1154.47,41.3,1.15,50846,98.34,21.64,300.92,9.84

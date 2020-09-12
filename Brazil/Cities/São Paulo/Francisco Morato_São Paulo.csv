@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-09,São Paulo,Francisco Morato,30.14,53,1,0.57,2545,113,4.44,1447.31,64.26,1.45,175844,85.3,12.51,366.22,14.22
+2020-09-10,São Paulo,Francisco Morato,18.2,32,0,0.0,2577,113,4.38,1465.5,64.26,1.47,175844,91.56,17.63,352.01,15.36
+2020-09-09,São Paulo,Francisco Morato,13.65,24,1,0.57,2545,113,4.44,1447.31,64.26,1.45,175844,73.93,2.28,336.65,-15.92
+2020-09-08,São Paulo,Francisco Morato,16.49,29,0,0.0,2521,112,4.44,1433.66,63.69,1.43,175844,71.65,-1.14,352.57,0.57
 2020-09-04,São Paulo,Francisco Morato,6.82,12,0,0.0,2492,112,4.49,1417.17,63.69,1.42,175844,72.79,-7.97,352.0,-2.28
 2020-09-03,São Paulo,Francisco Morato,5.69,10,0,0.0,2480,112,4.52,1410.34,63.69,1.41,175844,80.76,-15.92,354.28,-1.13
 2020-09-02,São Paulo,Francisco Morato,15.92,28,1,0.57,2470,112,4.53,1404.65,63.69,1.4,175844,96.68,6.82,355.41,-7.4

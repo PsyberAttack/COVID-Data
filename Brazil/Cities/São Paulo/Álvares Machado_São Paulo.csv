@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-09,São Paulo,Álvares Machado,12.04,3,0,0.0,185,5,2.7,742.52,20.07,0.74,24915,96.33,0.0,228.77,8.03
+2020-09-10,São Paulo,Álvares Machado,0.0,0,0,0.0,185,5,2.7,742.52,20.07,0.74,24915,76.26,0.0,204.69,0.0
+2020-09-09,São Paulo,Álvares Machado,8.03,2,0,0.0,185,5,2.7,742.52,20.07,0.74,24915,76.26,-12.04,204.69,-16.05
+2020-09-08,São Paulo,Álvares Machado,4.01,1,0,0.0,183,5,2.73,734.5,20.07,0.73,24915,88.3,-8.03,220.74,0.0
 2020-09-04,São Paulo,Álvares Machado,8.03,2,0,0.0,182,5,2.75,730.48,20.07,0.73,24915,96.33,0.0,220.74,4.02
 2020-09-03,São Paulo,Álvares Machado,32.11,8,0,0.0,180,5,2.78,722.46,20.07,0.72,24915,96.33,20.07,216.72,32.11
 2020-09-02,São Paulo,Álvares Machado,16.05,4,0,0.0,172,5,2.91,690.35,20.07,0.69,24915,76.26,12.04,184.61,4.01

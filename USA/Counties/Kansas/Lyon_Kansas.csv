@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-11,Kansas,Lyon,35.92,12,0,0.0,971,19,1.96,2906.66,56.88,2.91,33406,39.42,173.62,-8.98,709.44,26.94
 2020-09-10,Kansas,Lyon,23.95,8,0,0.0,959,19,1.98,2870.74,56.88,2.87,33406,39.42,182.6,0.0,682.5,8.98
 2020-09-09,Kansas,Lyon,17.96,6,0,0.0,951,19,2.0,2846.79,56.88,2.85,33406,39.42,182.6,-17.96,673.52,-11.97
 2020-09-08,Kansas,Lyon,95.79,32,0,0.0,945,19,2.01,2828.83,56.88,2.83,33406,39.42,200.56,71.84,685.49,77.83
