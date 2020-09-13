@@ -1,8 +1,9 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-11,Nordrhein-Westfalen,Duisburg,1.0,5,0,0.0,2532,69,2.73,507.83,13.84,0.51,498590,7.01,-1.21,58.14,-1.81
-2020-09-10,Nordrhein-Westfalen,Duisburg,1.2,6,0,0.0,2527,69,2.73,506.83,13.84,0.51,498590,8.22,0.6,59.95,-2.81
-2020-09-09,Nordrhein-Westfalen,Duisburg,0.8,4,0,0.0,2521,69,2.74,505.63,13.84,0.51,498590,7.62,-0.8,62.76,-6.02
-2020-09-08,Nordrhein-Westfalen,Duisburg,0.2,1,0,0.0,2517,69,2.74,504.82,13.84,0.5,498590,8.42,-0.6,68.78,-3.21
+2020-09-12,Nordrhein-Westfalen,Duisburg,5.01,25,0,0.0,2557,69,2.7,512.85,13.84,0.51,498590,11.62,4.61,61.55,3.41
+2020-09-11,Nordrhein-Westfalen,Duisburg,0.8,4,0,0.0,2532,69,2.73,507.83,13.84,0.51,498590,7.01,-1.41,58.14,-2.01
+2020-09-10,Nordrhein-Westfalen,Duisburg,1.2,6,0,0.0,2528,69,2.73,507.03,13.84,0.51,498590,8.42,0.6,60.15,-2.81
+2020-09-09,Nordrhein-Westfalen,Duisburg,0.8,4,0,0.0,2522,69,2.74,505.83,13.84,0.51,498590,7.82,-0.8,62.96,-6.02
+2020-09-08,Nordrhein-Westfalen,Duisburg,0.4,2,0,0.0,2518,69,2.74,505.02,13.84,0.51,498590,8.62,-0.4,68.98,-3.01
 2020-09-07,Nordrhein-Westfalen,Duisburg,2.61,13,0,0.0,2516,69,2.74,504.62,13.84,0.5,498590,9.02,1.01,71.99,0.0
 2020-09-06,Nordrhein-Westfalen,Duisburg,0.8,4,0,0.0,2503,69,2.76,502.02,13.84,0.5,498590,8.01,-0.2,71.99,-2.41
 2020-09-05,Nordrhein-Westfalen,Duisburg,0.4,2,0,0.0,2499,69,2.76,501.21,13.84,0.5,498590,8.21,-2.21,74.4,-3.21

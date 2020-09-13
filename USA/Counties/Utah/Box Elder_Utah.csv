@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-12,Utah,Box Elder,7.28,4,0,0.0,474,5,1.05,862.6,9.1,0.86,54950,9.56,41.86,7.28,141.96,-3.64
 2020-09-11,Utah,Box Elder,7.28,4,0,0.0,470,5,1.06,855.32,9.1,0.86,54950,9.56,34.58,5.46,145.6,7.28
 2020-09-10,Utah,Box Elder,10.92,6,0,0.0,466,5,1.07,848.04,9.1,0.85,54950,9.56,29.12,7.28,138.32,3.64
 2020-09-09,Utah,Box Elder,3.64,2,0,0.0,460,5,1.09,837.12,9.1,0.84,54950,9.56,21.84,1.82,134.68,-10.92

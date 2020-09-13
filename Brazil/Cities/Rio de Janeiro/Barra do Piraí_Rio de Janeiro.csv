@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-12,Rio de Janeiro,Barra do Piraí,1.0,1,1,1.0,1001,51,5.09,997.27,50.81,1.0,100374,33.88,0.0,201.27,0.0
+2020-09-11,Rio de Janeiro,Barra do Piraí,26.9,27,1,1.0,1000,50,5.0,996.27,49.81,1.0,100374,33.88,22.91,201.27,12.95
 2020-09-10,Rio de Janeiro,Barra do Piraí,1.0,1,0,0.0,973,49,5.04,969.37,48.82,0.97,100374,10.97,-10.96,188.32,-12.95
 2020-09-09,Rio de Janeiro,Barra do Piraí,0.0,0,0,0.0,972,49,5.04,968.38,48.82,0.97,100374,21.93,-7.97,201.27,-7.97
 2020-09-08,Rio de Janeiro,Barra do Piraí,0.0,0,0,0.0,972,49,5.04,968.38,48.82,0.97,100374,29.9,-3.99,209.24,-4.98

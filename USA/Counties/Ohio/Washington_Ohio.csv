@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-12,Ohio,Washington,1.66,1,0,0.0,240,23,9.58,398.97,38.23,0.4,60155,95.19,11.63,-4.99,46.52,1.66
 2020-09-11,Ohio,Washington,1.66,1,0,0.0,239,23,9.62,397.31,38.23,0.4,60155,95.19,16.62,0.0,44.86,1.66
 2020-09-10,Ohio,Washington,4.99,3,0,0.0,238,23,9.66,395.64,38.23,0.4,60155,95.19,16.62,3.33,43.2,3.33
 2020-09-09,Ohio,Washington,-1.66,-1,0,0.0,235,23,9.79,390.66,38.23,0.39,60155,95.19,13.29,-1.66,39.87,-4.98

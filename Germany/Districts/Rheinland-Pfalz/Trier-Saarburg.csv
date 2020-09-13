@@ -1,7 +1,10 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-08,Rheinland-Pfalz,Trier-Saarburg,1.34,2,0,0.0,364,10,2.75,244.39,6.71,0.24,148945,10.73,0.0,67.1,0.67
-2020-09-07,Rheinland-Pfalz,Trier-Saarburg,5.37,8,0,0.0,362,10,2.76,243.04,6.71,0.24,148945,10.73,2.68,66.43,5.37
-2020-09-06,Rheinland-Pfalz,Trier-Saarburg,0.67,1,0,0.0,354,10,2.82,237.67,6.71,0.24,148945,8.05,0.0,61.06,0.0
+2020-09-11,Rheinland-Pfalz,Trier-Saarburg,4.03,6,0,0.0,373,10,2.68,250.43,6.71,0.25,148945,14.76,2.69,69.79,3.36
+2020-09-10,Rheinland-Pfalz,Trier-Saarburg,0.0,0,0,0.0,367,10,2.72,246.4,6.71,0.25,148945,12.07,0.0,66.43,-1.34
+2020-09-09,Rheinland-Pfalz,Trier-Saarburg,0.0,0,0,0.0,367,10,2.72,246.4,6.71,0.25,148945,12.07,-0.67,67.77,-1.34
+2020-09-08,Rheinland-Pfalz,Trier-Saarburg,2.01,3,0,0.0,367,10,2.72,246.4,6.71,0.25,148945,12.74,0.67,69.11,1.34
+2020-09-07,Rheinland-Pfalz,Trier-Saarburg,6.04,9,0,0.0,364,10,2.75,244.39,6.71,0.24,148945,12.07,3.35,67.77,6.04
+2020-09-06,Rheinland-Pfalz,Trier-Saarburg,1.34,2,0,0.0,355,10,2.82,238.34,6.71,0.24,148945,8.72,0.67,61.73,0.67
 2020-09-05,Rheinland-Pfalz,Trier-Saarburg,1.34,2,0,0.0,353,10,2.83,237.0,6.71,0.24,148945,8.05,-15.44,61.06,0.0
 2020-09-04,Rheinland-Pfalz,Trier-Saarburg,1.34,2,1,0.67,351,10,2.85,235.66,6.71,0.24,148945,23.49,-17.46,61.06,0.0
 2020-09-03,Rheinland-Pfalz,Trier-Saarburg,0.0,0,0,0.0,349,9,2.58,234.31,6.04,0.23,148945,40.95,-2.01,61.06,-1.34

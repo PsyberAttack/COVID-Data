@@ -1,6 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-09,Paraná,Nova Esperança do Sudoeste,0.0,0,0,0.0,72,1,1.39,1426.87,19.82,1.43,5046,198.18,-39.64,1010.74,-19.82
-2020-09-08,Paraná,Nova Esperança do Sudoeste,19.82,1,1,19.82,72,1,1.39,1426.87,19.82,1.43,5046,237.82,-99.09,1030.56,-19.82
+2020-09-11,Paraná,Nova Esperança do Sudoeste,19.82,1,0,0.0,75,1,1.33,1486.33,19.82,1.49,5046,198.18,0.0,931.47,19.82
+2020-09-10,Paraná,Nova Esperança do Sudoeste,39.64,2,0,0.0,74,1,1.35,1466.51,19.82,1.47,5046,198.18,0.0,911.65,-59.45
+2020-09-09,Paraná,Nova Esperança do Sudoeste,0.0,0,0,0.0,72,1,1.39,1426.87,19.82,1.43,5046,198.18,0.0,971.1,-39.64
+2020-09-08,Paraná,Nova Esperança do Sudoeste,19.82,1,0,0.0,72,1,1.39,1426.87,19.82,1.43,5046,198.18,-19.82,1010.74,0.0
+2020-09-07,Paraná,Nova Esperança do Sudoeste,0.0,0,1,19.82,71,1,1.41,1407.06,19.82,1.41,5046,218.0,-118.91,1010.74,-39.64
 2020-09-06,Paraná,Nova Esperança do Sudoeste,59.45,3,0,0.0,71,0,0.0,1407.06,0.0,1.41,5046,336.91,-39.64,1050.38,39.63
 2020-09-05,Paraná,Nova Esperança do Sudoeste,59.45,3,0,0.0,68,0,0.0,1347.6,0.0,1.35,5046,376.55,59.45,1010.75,59.45
 2020-09-04,Paraná,Nova Esperança do Sudoeste,19.82,1,0,0.0,65,0,0.0,1288.15,0.0,1.29,5046,317.1,19.82,951.3,0.0

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-12,Virginia,Greene,0.0,0,0,0.0,207,3,1.45,1046.56,15.17,1.05,19779,126.84,35.4,-5.06,156.77,-15.17
 2020-09-11,Virginia,Greene,15.17,3,0,0.0,207,3,1.45,1046.56,15.17,1.05,19779,126.84,40.46,15.17,171.94,10.11
 2020-09-10,Virginia,Greene,5.06,1,0,0.0,204,3,1.47,1031.4,15.17,1.03,19779,126.84,25.29,5.06,161.83,-10.11
 2020-09-09,Virginia,Greene,-5.06,-1,0,0.0,203,3,1.48,1026.34,15.17,1.03,19779,126.84,20.23,-5.06,171.94,-15.17

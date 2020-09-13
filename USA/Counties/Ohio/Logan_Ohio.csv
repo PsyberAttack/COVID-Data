@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-12,Ohio,Logan,15.43,7,0,0.0,270,3,1.11,595.26,6.61,0.6,45358,98.94,41.88,11.02,196.18,0.0
 2020-09-11,Ohio,Logan,0.0,0,0,0.0,263,3,1.14,579.83,6.61,0.58,45358,98.94,30.86,-6.61,196.18,-11.02
 2020-09-10,Ohio,Logan,8.82,4,1,2.2,263,3,1.14,579.83,6.61,0.58,45358,98.94,37.47,2.21,207.2,4.41
 2020-09-09,Ohio,Logan,8.82,4,0,0.0,259,2,0.77,571.01,4.41,0.57,45358,98.94,35.26,6.62,202.79,-6.61

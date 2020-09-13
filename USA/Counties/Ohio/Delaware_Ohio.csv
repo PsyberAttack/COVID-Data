@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-12,Ohio,Delaware,20.02,41,-1,-0.49,1946,20,1.03,950.07,9.76,0.95,204826,462.19,85.43,8.79,264.62,14.16
 2020-09-11,Ohio,Delaware,23.43,48,1,0.49,1905,21,1.1,930.06,10.25,0.93,204826,462.19,76.64,12.2,250.46,16.59
 2020-09-10,Ohio,Delaware,16.11,33,0,0.0,1857,20,1.08,906.62,9.76,0.91,204826,462.19,64.44,-1.95,233.87,9.76
 2020-09-09,Ohio,Delaware,10.74,22,0,0.0,1824,20,1.1,890.51,9.76,0.89,204826,462.19,66.39,3.9,224.11,0.49

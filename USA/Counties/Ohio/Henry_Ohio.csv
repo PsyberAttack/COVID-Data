@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-12,Ohio,Henry,33.23,9,0,0.0,272,10,3.68,1004.21,36.92,1.0,27086,65.11,155.07,18.46,531.62,22.15
 2020-09-11,Ohio,Henry,11.08,3,0,0.0,263,10,3.8,970.98,36.92,0.97,27086,65.11,136.61,-7.38,509.47,7.39
 2020-09-10,Ohio,Henry,18.46,5,2,7.38,260,10,3.85,959.91,36.92,0.96,27086,65.11,143.99,7.38,502.08,11.08
 2020-09-09,Ohio,Henry,33.23,9,0,0.0,255,8,3.14,941.45,29.54,0.94,27086,65.11,136.61,25.85,491.0,33.23
