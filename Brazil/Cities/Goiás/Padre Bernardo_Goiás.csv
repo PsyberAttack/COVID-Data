@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-13,Goiás,Padre Bernardo,0.0,0,0,0.0,523,9,1.72,1545.74,26.6,1.55,33835,118.21,5.91,558.59,0.0
+2020-09-12,Goiás,Padre Bernardo,0.0,0,-1,-2.96,523,9,1.72,1545.74,26.6,1.55,33835,112.3,-35.47,558.59,-47.29
 2020-09-11,Goiás,Padre Bernardo,20.69,7,0,0.0,523,10,1.91,1545.74,29.56,1.55,33835,147.77,-5.91,605.88,5.91
 2020-09-10,Goiás,Padre Bernardo,23.64,8,1,2.96,516,10,1.94,1525.05,29.56,1.53,33835,153.68,23.64,599.97,-5.92
 2020-09-09,Goiás,Padre Bernardo,17.73,6,0,0.0,508,9,1.77,1501.4,26.6,1.5,33835,130.04,-23.65,605.89,14.77

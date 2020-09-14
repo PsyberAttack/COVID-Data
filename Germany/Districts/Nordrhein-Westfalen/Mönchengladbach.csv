@@ -1,8 +1,10 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-11,Nordrhein-Westfalen,Mönchengladbach,1.15,3,0,0.0,1011,50,4.95,386.68,19.12,0.39,261454,4.58,-2.29,33.25,-3.44
-2020-09-10,Nordrhein-Westfalen,Mönchengladbach,0.0,0,0,0.0,1008,50,4.96,385.54,19.12,0.39,261454,6.87,-1.53,36.69,-2.29
-2020-09-09,Nordrhein-Westfalen,Mönchengladbach,0.76,2,0,0.0,1008,50,4.96,385.54,19.12,0.39,261454,8.4,0.0,38.98,-2.68
-2020-09-08,Nordrhein-Westfalen,Mönchengladbach,0.38,1,0,0.0,1006,50,4.97,384.77,19.12,0.38,261454,8.4,-0.77,41.66,-3.06
+2020-09-13,Nordrhein-Westfalen,Mönchengladbach,0.76,2,0,0.0,1014,50,4.93,387.83,19.12,0.39,261454,3.81,-0.39,33.24,-0.39
+2020-09-12,Nordrhein-Westfalen,Mönchengladbach,0.0,0,0,0.0,1012,50,4.94,387.07,19.12,0.39,261454,4.2,-0.76,33.63,0.0
+2020-09-11,Nordrhein-Westfalen,Mönchengladbach,1.15,3,0,0.0,1012,50,4.94,387.07,19.12,0.39,261454,4.96,-2.29,33.63,-3.44
+2020-09-10,Nordrhein-Westfalen,Mönchengladbach,0.0,0,0,0.0,1009,50,4.96,385.92,19.12,0.39,261454,7.25,-1.53,37.07,-2.29
+2020-09-09,Nordrhein-Westfalen,Mönchengladbach,0.76,2,0,0.0,1009,50,4.96,385.92,19.12,0.39,261454,8.78,0.0,39.36,-2.68
+2020-09-08,Nordrhein-Westfalen,Mönchengladbach,0.76,2,0,0.0,1007,50,4.97,385.15,19.12,0.39,261454,8.78,-0.39,42.04,-2.68
 2020-09-07,Nordrhein-Westfalen,Mönchengladbach,0.38,1,0,0.0,1005,50,4.98,384.39,19.12,0.38,261454,9.17,0.38,44.72,-3.44
 2020-09-06,Nordrhein-Westfalen,Mönchengladbach,1.15,3,0,0.0,1004,50,4.98,384.01,19.12,0.38,261454,8.79,0.0,48.16,0.0
 2020-09-05,Nordrhein-Westfalen,Mönchengladbach,0.76,2,0,0.0,1001,50,5.0,382.86,19.12,0.38,261454,8.79,0.38,48.16,-1.53

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-13,West Virginia,Wyoming,19.24,4,0,0.0,80,3,3.75,384.87,14.43,0.38,20786,41.62,43.29,19.24,158.74,14.43
 2020-09-12,West Virginia,Wyoming,14.43,3,0,0.0,76,3,3.95,365.63,14.43,0.37,20786,41.62,24.05,9.62,144.31,14.43
 2020-09-11,West Virginia,Wyoming,-9.62,-2,-1,-4.81,73,3,4.11,351.2,14.43,0.35,20786,41.62,14.43,-19.24,129.88,-24.05
 2020-09-10,West Virginia,Wyoming,9.62,2,1,4.81,75,4,5.33,360.82,19.24,0.36,20786,41.62,33.67,4.81,153.93,-19.25

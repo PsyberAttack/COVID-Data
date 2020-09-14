@@ -1,5 +1,7 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-10,Baden-Württemberg,Rottweil,0.72,1,0,0.0,736,26,3.53,527.77,18.64,0.53,139455,5.75,0.72,30.85,0.0
+2020-09-12,Baden-Württemberg,Rottweil,0.72,1,0,0.0,738,26,3.52,529.2,18.64,0.53,139455,6.46,0.72,31.56,0.0
+2020-09-11,Baden-Württemberg,Rottweil,0.0,0,0,0.0,737,26,3.53,528.49,18.64,0.53,139455,5.74,-0.72,31.56,0.0
+2020-09-10,Baden-Württemberg,Rottweil,1.43,2,0,0.0,737,26,3.53,528.49,18.64,0.53,139455,6.46,1.43,31.56,0.71
 2020-09-09,Baden-Württemberg,Rottweil,0.72,1,0,0.0,735,26,3.54,527.05,18.64,0.53,139455,5.03,0.72,30.85,0.0
 2020-09-08,Baden-Württemberg,Rottweil,2.15,3,0,0.0,734,26,3.54,526.33,18.64,0.53,139455,4.31,-1.44,30.85,2.15
 2020-09-07,Baden-Württemberg,Rottweil,0.72,1,0,0.0,731,26,3.56,524.18,18.64,0.52,139455,5.75,-2.87,28.7,0.0

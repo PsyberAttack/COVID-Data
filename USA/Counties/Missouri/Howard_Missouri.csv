@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-13,Missouri,Howard,39.46,4,0,0.0,149,2,1.34,1469.86,19.73,1.47,10137,21.86,98.65,0.0,789.17,29.6
 2020-09-12,Missouri,Howard,78.92,8,0,0.0,145,2,1.38,1430.4,19.73,1.43,10137,21.86,98.65,39.46,759.57,49.33
 2020-09-11,Missouri,Howard,59.19,6,0,0.0,137,2,1.46,1351.48,19.73,1.35,10137,21.86,59.19,49.33,710.24,9.87
 2020-09-10,Missouri,Howard,0.0,0,0,0.0,131,2,1.53,1292.3,19.73,1.29,10137,21.86,9.86,-19.73,700.37,-49.32
