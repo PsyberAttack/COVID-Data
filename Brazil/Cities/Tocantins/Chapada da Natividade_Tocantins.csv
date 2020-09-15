@@ -1,8 +1,12 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-09,Tocantins,Chapada da Natividade,120.01,4,1,30.0,48,1,2.08,1440.14,30.0,1.44,3333,180.01,120.01,750.06,90.01
-2020-09-08,Tocantins,Chapada da Natividade,30.0,1,0,0.0,44,0,0.0,1320.13,0.0,1.32,3333,60.0,-60.01,660.05,30.0
-2020-09-07,Tocantins,Chapada da Natividade,0.0,0,0,0.0,43,0,0.0,1290.13,0.0,1.29,3333,120.01,-120.01,630.05,0.0
-2020-09-06,Tocantins,Chapada da Natividade,0.0,0,0,0.0,43,0,0.0,1290.13,0.0,1.29,3333,240.02,-30.0,630.05,-30.0
+2020-09-13,Tocantins,Chapada da Natividade,0.0,0,0,0.0,52,1,1.92,1560.16,30.0,1.56,3333,270.02,0.0,840.07,-30.0
+2020-09-11,Tocantins,Chapada da Natividade,120.01,4,0,0.0,52,1,1.92,1560.16,30.0,1.56,3333,270.02,90.01,870.07,120.01
+2020-09-10,Tocantins,Chapada da Natividade,0.0,0,0,0.0,48,1,2.08,1440.14,30.0,1.44,3333,180.01,0.0,750.06,0.0
+2020-09-09,Tocantins,Chapada da Natividade,120.01,4,1,30.0,48,1,2.08,1440.14,30.0,1.44,3333,180.01,120.01,750.06,120.01
+2020-09-08,Tocantins,Chapada da Natividade,30.0,1,0,0.0,44,0,0.0,1320.13,0.0,1.32,3333,60.0,30.0,630.05,0.0
+2020-09-07,Tocantins,Chapada da Natividade,0.0,0,0,0.0,43,0,0.0,1290.13,0.0,1.29,3333,30.0,-90.01,630.05,0.0
+2020-09-06,Tocantins,Chapada da Natividade,0.0,0,0,0.0,43,0,0.0,1290.13,0.0,1.29,3333,120.01,-120.01,630.05,0.0
+2020-09-05,Tocantins,Chapada da Natividade,0.0,0,0,0.0,43,0,0.0,1290.13,0.0,1.29,3333,240.02,-30.0,630.05,-30.0
 2020-09-04,Tocantins,Chapada da Natividade,30.0,1,0,0.0,43,0,0.0,1290.13,0.0,1.29,3333,270.02,30.0,660.05,-30.01
 2020-09-03,Tocantins,Chapada da Natividade,0.0,0,0,0.0,42,0,0.0,1260.13,0.0,1.26,3333,240.02,-30.0,690.06,-30.0
 2020-09-02,Tocantins,Chapada da Natividade,0.0,0,0,0.0,42,0,0.0,1260.13,0.0,1.26,3333,270.02,0.0,720.06,-120.01

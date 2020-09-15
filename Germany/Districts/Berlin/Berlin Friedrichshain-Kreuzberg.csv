@@ -1,11 +1,13 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-12,Berlin,Berlin Friedrichshain-Kreuzberg,1.08,3,0,0.0,1163,9,0.77,417.48,3.23,0.42,278579,15.44,-1.43,95.45,-0.71
-2020-09-11,Berlin,Berlin Friedrichshain-Kreuzberg,0.36,1,0,0.0,1160,9,0.78,416.4,3.23,0.42,278579,16.87,-4.31,96.16,-3.59
-2020-09-10,Berlin,Berlin Friedrichshain-Kreuzberg,4.67,13,0,0.0,1159,9,0.78,416.04,3.23,0.42,278579,21.18,0.36,99.75,1.08
-2020-09-09,Berlin,Berlin Friedrichshain-Kreuzberg,2.51,7,0,0.0,1146,9,0.79,411.37,3.23,0.41,278579,20.82,-2.87,98.67,-2.87
-2020-09-08,Berlin,Berlin Friedrichshain-Kreuzberg,1.08,3,0,0.0,1139,9,0.79,408.86,3.23,0.41,278579,23.69,-6.82,101.54,-2.87
-2020-09-07,Berlin,Berlin Friedrichshain-Kreuzberg,2.87,8,0,0.0,1136,9,0.79,407.78,3.23,0.41,278579,30.51,-6.46,104.41,-3.59
-2020-09-06,Berlin,Berlin Friedrichshain-Kreuzberg,2.87,8,0,0.0,1128,9,0.8,404.91,3.23,0.4,278579,36.97,0.36,108.0,1.43
+2020-09-14,Berlin,Berlin Friedrichshain-Kreuzberg,0.72,2,0,0.0,1166,9,0.77,418.55,3.23,0.42,278579,10.42,-2.15,90.79,-2.87
+2020-09-13,Berlin,Berlin Friedrichshain-Kreuzberg,0.0,0,0,0.0,1164,9,0.77,417.83,3.23,0.42,278579,12.57,-3.23,93.66,-2.15
+2020-09-12,Berlin,Berlin Friedrichshain-Kreuzberg,1.08,3,0,0.0,1164,9,0.77,417.83,3.23,0.42,278579,15.8,-1.43,95.81,-0.71
+2020-09-11,Berlin,Berlin Friedrichshain-Kreuzberg,0.36,1,0,0.0,1161,9,0.78,416.76,3.23,0.42,278579,17.23,-4.31,96.52,-3.59
+2020-09-10,Berlin,Berlin Friedrichshain-Kreuzberg,4.67,13,0,0.0,1160,9,0.78,416.4,3.23,0.42,278579,21.54,0.36,100.11,1.08
+2020-09-09,Berlin,Berlin Friedrichshain-Kreuzberg,2.51,7,0,0.0,1147,9,0.78,411.73,3.23,0.41,278579,21.18,-2.87,99.03,-2.87
+2020-09-08,Berlin,Berlin Friedrichshain-Kreuzberg,1.08,3,0,0.0,1140,9,0.79,409.22,3.23,0.41,278579,24.05,-6.82,101.9,-2.87
+2020-09-07,Berlin,Berlin Friedrichshain-Kreuzberg,2.87,8,0,0.0,1137,9,0.79,408.14,3.23,0.41,278579,30.87,-6.46,104.77,-3.59
+2020-09-06,Berlin,Berlin Friedrichshain-Kreuzberg,3.23,9,0,0.0,1129,9,0.8,405.27,3.23,0.41,278579,37.33,0.72,108.36,1.79
 2020-09-05,Berlin,Berlin Friedrichshain-Kreuzberg,2.51,7,0,0.0,1120,9,0.8,402.04,3.23,0.4,278579,36.61,0.0,106.57,2.15
 2020-09-04,Berlin,Berlin Friedrichshain-Kreuzberg,4.67,13,0,0.0,1113,9,0.81,399.53,3.23,0.4,278579,36.61,2.88,104.42,1.08
 2020-09-03,Berlin,Berlin Friedrichshain-Kreuzberg,4.31,12,0,0.0,1100,9,0.82,394.86,3.23,0.39,278579,33.73,0.72,103.34,2.16

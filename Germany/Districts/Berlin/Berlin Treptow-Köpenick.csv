@@ -1,4 +1,8 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-14,Berlin,Berlin Treptow-Köpenick,1.24,3,0,0.0,514,11,2.14,212.98,4.56,0.21,241335,4.55,0.41,17.37,0.83
+2020-09-13,Berlin,Berlin Treptow-Köpenick,0.0,0,0,0.0,511,11,2.15,211.74,4.56,0.21,241335,4.14,0.0,16.54,-0.41
+2020-09-12,Berlin,Berlin Treptow-Köpenick,0.0,0,0,0.0,511,11,2.15,211.74,4.56,0.21,241335,4.14,0.0,16.95,-0.41
+2020-09-11,Berlin,Berlin Treptow-Köpenick,0.0,0,0,0.0,511,11,2.15,211.74,4.56,0.21,241335,4.14,-2.07,17.36,-0.83
 2020-09-10,Berlin,Berlin Treptow-Köpenick,0.83,2,0,0.0,511,11,2.15,211.74,4.56,0.21,241335,6.21,0.42,18.19,0.0
 2020-09-09,Berlin,Berlin Treptow-Köpenick,1.24,3,0,0.0,509,11,2.16,210.91,4.56,0.21,241335,5.79,0.0,18.19,-0.83
 2020-09-08,Berlin,Berlin Treptow-Köpenick,1.24,3,0,0.0,506,11,2.17,209.67,4.56,0.21,241335,5.79,0.83,19.02,0.41

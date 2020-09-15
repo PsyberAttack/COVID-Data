@@ -1,5 +1,8 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-11,Berlin,Berlin Lichtenberg,0.37,1,0,0.0,700,12,1.71,260.74,4.47,0.26,268466,5.58,-1.86,42.03,0.37
+2020-09-14,Berlin,Berlin Lichtenberg,1.86,5,0,0.0,704,12,1.7,262.23,4.47,0.26,268466,5.58,0.74,40.55,-0.37
+2020-09-13,Berlin,Berlin Lichtenberg,0.0,0,0,0.0,699,12,1.72,260.37,4.47,0.26,268466,4.84,0.0,40.92,-0.74
+2020-09-12,Berlin,Berlin Lichtenberg,0.0,0,0,0.0,699,12,1.72,260.37,4.47,0.26,268466,4.84,-0.37,41.66,0.0
+2020-09-11,Berlin,Berlin Lichtenberg,0.0,0,0,0.0,699,12,1.72,260.37,4.47,0.26,268466,5.21,-2.23,41.66,0.0
 2020-09-10,Berlin,Berlin Lichtenberg,2.98,8,0,0.0,699,12,1.72,260.37,4.47,0.26,268466,7.44,-0.74,41.66,1.49
 2020-09-09,Berlin,Berlin Lichtenberg,0.37,1,0,0.0,691,12,1.74,257.39,4.47,0.26,268466,8.18,-1.49,40.17,-1.86
 2020-09-08,Berlin,Berlin Lichtenberg,0.37,1,0,0.0,690,12,1.74,257.02,4.47,0.26,268466,9.67,-0.37,42.03,0.0

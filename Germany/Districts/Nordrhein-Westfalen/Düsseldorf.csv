@@ -1,7 +1,10 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-11,Nordrhein-Westfalen,Düsseldorf,1.13,7,0,0.0,2828,47,1.66,456.65,7.59,0.46,619294,15.67,0.16,71.38,-1.94
-2020-09-10,Nordrhein-Westfalen,Düsseldorf,4.52,28,0,0.0,2821,47,1.67,455.52,7.59,0.46,619294,15.51,0.97,73.32,0.16
-2020-09-09,Nordrhein-Westfalen,Düsseldorf,2.1,13,0,0.0,2793,47,1.68,451.0,7.59,0.45,619294,14.54,-0.16,73.16,-3.55
+2020-09-14,Nordrhein-Westfalen,Düsseldorf,1.61,10,0,0.0,2869,47,1.64,463.27,7.59,0.46,619294,16.31,0.48,71.22,-0.65
+2020-09-13,Nordrhein-Westfalen,Düsseldorf,0.81,5,0,0.0,2859,47,1.64,461.65,7.59,0.46,619294,15.83,-1.13,71.87,-2.58
+2020-09-12,Nordrhein-Westfalen,Düsseldorf,2.75,17,0,0.0,2854,47,1.65,460.85,7.59,0.46,619294,16.96,-0.16,74.45,1.62
+2020-09-11,Nordrhein-Westfalen,Düsseldorf,2.26,14,0,0.0,2837,47,1.66,458.1,7.59,0.46,619294,17.12,1.29,72.83,-0.81
+2020-09-10,Nordrhein-Westfalen,Düsseldorf,4.52,28,0,0.0,2823,47,1.66,455.84,7.59,0.46,619294,15.83,0.97,73.64,0.16
+2020-09-09,Nordrhein-Westfalen,Düsseldorf,2.42,15,0,0.0,2795,47,1.68,451.32,7.59,0.45,619294,14.86,0.16,73.48,-3.23
 2020-09-08,Nordrhein-Westfalen,Düsseldorf,1.94,12,0,0.0,2780,47,1.69,448.9,7.59,0.45,619294,14.7,-0.48,76.71,0.16
 2020-09-07,Nordrhein-Westfalen,Düsseldorf,1.13,7,0,0.0,2768,47,1.7,446.96,7.59,0.45,619294,15.18,0.48,76.55,0.32
 2020-09-06,Nordrhein-Westfalen,Düsseldorf,1.94,12,0,0.0,2761,47,1.7,445.83,7.59,0.45,619294,14.7,-0.48,76.23,0.49

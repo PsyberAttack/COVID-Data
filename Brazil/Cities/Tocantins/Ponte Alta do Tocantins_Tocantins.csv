@@ -1,8 +1,12 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-09,Tocantins,Ponte Alta do Tocantins,62.2,5,0,0.0,130,1,0.77,1617.12,12.44,1.62,8039,248.8,62.2,1107.12,62.2
-2020-09-08,Tocantins,Ponte Alta do Tocantins,74.64,6,0,0.0,125,1,0.8,1554.92,12.44,1.55,8039,186.6,62.2,1044.92,12.44
-2020-09-07,Tocantins,Ponte Alta do Tocantins,0.0,0,0,0.0,119,1,0.84,1480.28,12.44,1.48,8039,124.4,0.0,1032.48,-12.44
-2020-09-06,Tocantins,Ponte Alta do Tocantins,0.0,0,0,0.0,119,1,0.84,1480.28,12.44,1.48,8039,124.4,-12.44,1044.92,-49.76
+2020-09-13,Tocantins,Ponte Alta do Tocantins,0.0,0,0,0.0,136,1,0.74,1691.75,12.44,1.69,8039,211.48,0.0,1069.8,-74.64
+2020-09-11,Tocantins,Ponte Alta do Tocantins,0.0,0,0,0.0,136,1,0.74,1691.75,12.44,1.69,8039,211.48,-74.64,1144.44,0.0
+2020-09-10,Tocantins,Ponte Alta do Tocantins,74.64,6,0,0.0,136,1,0.74,1691.75,12.44,1.69,8039,286.12,62.2,1144.44,37.32
+2020-09-09,Tocantins,Ponte Alta do Tocantins,62.2,5,0,0.0,130,1,0.77,1617.12,12.44,1.62,8039,223.92,37.32,1107.12,62.2
+2020-09-08,Tocantins,Ponte Alta do Tocantins,74.64,6,0,0.0,125,1,0.8,1554.92,12.44,1.55,8039,186.6,74.64,1044.92,74.64
+2020-09-07,Tocantins,Ponte Alta do Tocantins,0.0,0,0,0.0,119,1,0.84,1480.28,12.44,1.48,8039,111.96,-12.44,970.28,-62.2
+2020-09-06,Tocantins,Ponte Alta do Tocantins,0.0,0,0,0.0,119,1,0.84,1480.28,12.44,1.48,8039,124.4,0.0,1032.48,-12.44
+2020-09-05,Tocantins,Ponte Alta do Tocantins,0.0,0,0,0.0,119,1,0.84,1480.28,12.44,1.48,8039,124.4,-12.44,1044.92,-49.76
 2020-09-04,Tocantins,Ponte Alta do Tocantins,74.64,6,0,0.0,119,1,0.84,1480.28,12.44,1.48,8039,136.84,-87.07,1094.68,74.64
 2020-09-03,Tocantins,Ponte Alta do Tocantins,12.44,1,0,0.0,113,1,0.88,1405.65,12.44,1.41,8039,223.91,-223.91,1020.04,12.44
 2020-09-02,Tocantins,Ponte Alta do Tocantins,24.88,2,0,0.0,112,1,0.89,1393.21,12.44,1.39,8039,447.82,24.88,1007.6,24.88

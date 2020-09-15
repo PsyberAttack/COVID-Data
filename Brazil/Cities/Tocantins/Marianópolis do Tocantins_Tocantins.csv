@@ -1,8 +1,12 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-09,Tocantins,Marianópolis do Tocantins,0.0,0,0,0.0,73,3,4.11,1410.63,57.97,1.41,5175,154.58,0.0,579.68,0.0
-2020-09-08,Tocantins,Marianópolis do Tocantins,19.32,1,0,0.0,73,3,4.11,1410.63,57.97,1.41,5175,154.58,0.0,579.68,-38.65
-2020-09-07,Tocantins,Marianópolis do Tocantins,0.0,0,0,0.0,72,3,4.17,1391.3,57.97,1.39,5175,154.58,-38.65,618.33,0.0
-2020-09-06,Tocantins,Marianópolis do Tocantins,0.0,0,0,0.0,72,3,4.17,1391.3,57.97,1.39,5175,193.23,19.32,618.33,0.0
+2020-09-13,Tocantins,Marianópolis do Tocantins,0.0,0,0,0.0,78,3,3.85,1507.25,57.97,1.51,5175,115.94,0.0,599.01,-19.32
+2020-09-11,Tocantins,Marianópolis do Tocantins,38.65,2,0,0.0,78,3,3.85,1507.25,57.97,1.51,5175,115.94,19.33,618.33,19.33
+2020-09-10,Tocantins,Marianópolis do Tocantins,57.97,3,0,0.0,76,3,3.95,1468.6,57.97,1.47,5175,96.61,-19.32,599.0,19.32
+2020-09-09,Tocantins,Marianópolis do Tocantins,0.0,0,0,0.0,73,3,4.11,1410.63,57.97,1.41,5175,115.93,-38.65,579.68,0.0
+2020-09-08,Tocantins,Marianópolis do Tocantins,19.32,1,0,0.0,73,3,4.11,1410.63,57.97,1.41,5175,154.58,19.32,579.68,19.32
+2020-09-07,Tocantins,Marianópolis do Tocantins,0.0,0,0,0.0,72,3,4.17,1391.3,57.97,1.39,5175,135.26,-19.32,560.36,-57.97
+2020-09-06,Tocantins,Marianópolis do Tocantins,0.0,0,0,0.0,72,3,4.17,1391.3,57.97,1.39,5175,154.58,-38.65,618.33,0.0
+2020-09-05,Tocantins,Marianópolis do Tocantins,0.0,0,0,0.0,72,3,4.17,1391.3,57.97,1.39,5175,193.23,19.32,618.33,0.0
 2020-09-04,Tocantins,Marianópolis do Tocantins,19.32,1,0,0.0,72,3,4.17,1391.3,57.97,1.39,5175,173.91,0.0,618.33,19.32
 2020-09-03,Tocantins,Marianópolis do Tocantins,77.29,4,0,0.0,71,3,4.23,1371.98,57.97,1.37,5175,173.91,57.97,599.01,38.64
 2020-09-02,Tocantins,Marianópolis do Tocantins,38.65,2,0,0.0,67,3,4.48,1294.69,57.97,1.29,5175,115.94,57.97,560.37,19.33

@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-13,Paraíba,Nova Floresta,0.0,0,0,0.0,105,1,0.95,987.03,9.4,0.99,10638,75.2,0.0,385.4,-9.4
+2020-09-12,Paraíba,Nova Floresta,37.6,4,0,0.0,105,1,0.95,987.03,9.4,0.99,10638,75.2,-18.8,394.8,37.6
 2020-09-11,Paraíba,Nova Floresta,0.0,0,1,9.4,101,1,0.99,949.43,9.4,0.95,10638,94.0,-37.6,357.2,-9.4
 2020-09-10,Paraíba,Nova Floresta,9.4,1,0,0.0,101,0,0.0,949.43,0.0,0.95,10638,131.6,-65.8,366.6,0.0
 2020-09-09,Paraíba,Nova Floresta,28.2,3,0,0.0,100,0,0.0,940.03,0.0,0.94,10638,197.4,-28.2,366.6,28.2
