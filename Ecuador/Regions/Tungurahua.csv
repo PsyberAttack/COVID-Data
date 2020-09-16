@@ -1,4 +1,7 @@
 date,country,region,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-14,Ecuador,Tungurahua,1.02,6,0,0.0,2036,49,2.41,344.73,8.3,0.34,590600,11.02,1.02,55.39,0.85
+2020-09-13,Ecuador,Tungurahua,0.51,3,0,0.0,2030,49,2.41,343.72,8.3,0.34,590600,10.0,0.0,54.54,0.0
+2020-09-12,Ecuador,Tungurahua,3.39,20,0,0.0,2027,49,2.42,343.21,8.3,0.34,590600,10.0,1.87,54.54,-3.89
 2020-09-11,Ecuador,Tungurahua,1.69,10,1,0.17,2007,49,2.44,339.82,8.3,0.34,590600,8.13,0.0,58.43,1.69
 2020-09-10,Ecuador,Tungurahua,0.34,2,0,0.0,1997,48,2.4,338.13,8.13,0.34,590600,8.13,0.34,56.74,-2.54
 2020-09-09,Ecuador,Tungurahua,3.73,22,0,0.0,1995,48,2.41,337.79,8.13,0.34,590600,7.79,2.04,59.28,-11.85
