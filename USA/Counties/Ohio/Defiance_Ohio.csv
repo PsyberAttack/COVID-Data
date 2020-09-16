@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Ohio,Defiance,5.24,2,0,0.0,260,9,3.46,681.25,23.58,0.68,38165,92.76,60.26,-5.24,214.84,-10.48
+2020-09-14,Ohio,Defiance,13.1,5,0,0.0,258,9,3.49,676.01,23.58,0.68,38165,92.76,65.5,13.1,225.32,5.24
 2020-09-13,Ohio,Defiance,7.86,3,0,0.0,253,9,3.56,662.91,23.58,0.66,38165,92.76,52.4,-7.86,220.08,-5.24
 2020-09-12,Ohio,Defiance,5.24,2,0,0.0,250,9,3.6,655.05,23.58,0.66,38165,92.76,60.26,-5.24,225.32,-13.1
 2020-09-11,Ohio,Defiance,5.24,2,1,2.62,248,9,3.63,649.81,23.58,0.65,38165,92.76,65.5,-15.72,238.42,0.0

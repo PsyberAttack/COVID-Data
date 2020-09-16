@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,New York,Ontario,0.91,1,0,0.0,444,28,6.31,404.14,25.49,0.4,109864,170.58,28.21,-3.64,66.43,-0.91
+2020-09-14,New York,Ontario,3.64,4,0,0.0,443,28,6.32,403.23,25.49,0.4,109864,170.58,31.85,0.91,67.34,2.73
 2020-09-13,New York,Ontario,3.64,4,0,0.0,439,28,6.38,399.58,25.49,0.4,109864,170.58,30.94,0.0,64.61,2.73
 2020-09-12,New York,Ontario,7.28,8,0,0.0,435,28,6.44,395.94,25.49,0.4,109864,170.58,30.94,4.55,61.88,6.37
 2020-09-11,New York,Ontario,3.64,4,0,0.0,427,28,6.56,388.66,25.49,0.39,109864,170.58,26.39,1.82,55.51,2.73

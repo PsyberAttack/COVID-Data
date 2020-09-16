@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Kentucky,Casey,0.0,0,0,0.0,265,16,6.04,1667.93,100.7,1.67,15888,35.76,18.88,-6.29,276.93,-6.29
+2020-09-14,Kentucky,Casey,-6.29,-1,0,0.0,265,16,6.04,1667.93,100.7,1.67,15888,35.76,25.17,-12.58,283.22,-31.47
 2020-09-13,Kentucky,Casey,0.0,0,0,0.0,266,16,6.02,1674.22,100.7,1.67,15888,35.76,37.75,-18.88,314.69,0.0
 2020-09-12,Kentucky,Casey,0.0,0,0,0.0,266,16,6.02,1674.22,100.7,1.67,15888,35.76,56.63,0.0,314.69,0.0
 2020-09-11,Kentucky,Casey,18.88,3,0,0.0,266,16,6.02,1674.22,100.7,1.67,15888,35.76,56.63,18.88,314.69,12.59

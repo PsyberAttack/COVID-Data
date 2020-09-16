@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Pennsylvania,Huntingdon,2.21,1,0,0.0,393,6,1.53,870.09,13.28,0.87,45168,51.64,11.07,0.0,117.33,-6.65
+2020-09-14,Pennsylvania,Huntingdon,-2.21,-1,0,0.0,392,6,1.53,867.87,13.28,0.87,45168,51.64,11.07,-4.42,123.98,-8.85
 2020-09-13,Pennsylvania,Huntingdon,0.0,0,0,0.0,393,6,1.53,870.09,13.28,0.87,45168,51.64,15.49,-6.64,132.83,-13.28
 2020-09-12,Pennsylvania,Huntingdon,2.21,1,0,0.0,393,6,1.53,870.09,13.28,0.87,45168,51.64,22.13,0.0,146.11,-13.29
 2020-09-11,Pennsylvania,Huntingdon,6.64,3,0,0.0,392,6,1.53,867.87,13.28,0.87,45168,51.64,22.13,-4.43,159.4,-8.86

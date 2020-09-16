@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,North Carolina,Mecklenburg,9.05,99,1,0.09,27271,340,1.25,2493.0,31.08,2.49,1093901,2089.3,62.81,3.2,348.04,-5.21
+2020-09-14,North Carolina,Mecklenburg,7.77,85,0,0.0,27172,339,1.25,2483.95,30.99,2.48,1093901,2089.3,59.61,-4.02,353.25,-1.83
 2020-09-13,North Carolina,Mecklenburg,6.86,75,3,0.27,27087,339,1.25,2476.18,30.99,2.48,1093901,2089.3,63.63,-8.5,355.08,-1.55
 2020-09-12,North Carolina,Mecklenburg,8.41,92,0,0.0,27012,336,1.24,2469.33,30.72,2.47,1093901,2089.3,72.13,8.41,356.63,-4.21
 2020-09-11,North Carolina,Mecklenburg,12.43,136,0,0.0,26920,336,1.25,2460.92,30.72,2.46,1093901,2089.3,63.72,-2.38,360.84,-0.28

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Iowa,Fremont,28.6,2,0,0.0,68,0,0.0,972.4,0.0,0.97,6993,13.68,71.5,28.6,314.6,28.6
+2020-09-14,Iowa,Fremont,-14.3,-1,0,0.0,66,0,0.0,943.8,0.0,0.94,6993,13.68,42.9,-14.3,286.0,-14.3
 2020-09-13,Iowa,Fremont,-14.3,-1,0,0.0,67,0,0.0,958.1,0.0,0.96,6993,13.68,57.2,-14.3,300.3,-28.6
 2020-09-12,Iowa,Fremont,57.2,4,0,0.0,68,0,0.0,972.4,0.0,0.97,6993,13.68,71.5,42.9,328.9,57.2
 2020-09-11,Iowa,Fremont,14.3,1,0,0.0,64,0,0.0,915.2,0.0,0.92,6993,13.68,28.6,0.0,271.7,14.3

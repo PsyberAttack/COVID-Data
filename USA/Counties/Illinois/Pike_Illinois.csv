@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Illinois,Pike,0.0,0,0,0.0,101,1,0.99,646.98,6.41,0.65,15611,18.78,121.71,-12.81,403.58,-19.22
+2020-09-14,Illinois,Pike,12.81,2,0,0.0,101,1,0.99,646.98,6.41,0.65,15611,18.78,134.52,12.81,422.8,6.4
 2020-09-13,Illinois,Pike,0.0,0,0,0.0,99,1,1.01,634.17,6.41,0.63,15611,18.78,121.71,-6.41,416.4,-6.41
 2020-09-12,Illinois,Pike,25.62,4,0,0.0,99,1,1.01,634.17,6.41,0.63,15611,18.78,128.12,19.21,422.81,19.21
 2020-09-11,Illinois,Pike,12.81,2,0,0.0,95,1,1.05,608.55,6.41,0.61,15611,18.78,108.91,-6.41,403.6,0.0

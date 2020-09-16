@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Texas,Freestone,15.15,3,0,0.0,396,1,0.25,1999.19,5.05,2.0,19808,22.57,50.49,20.2,1055.14,5.05
+2020-09-14,Texas,Freestone,-5.05,-1,0,0.0,393,1,0.25,1984.05,5.05,1.98,19808,22.57,30.29,-5.05,1050.09,-20.2
 2020-09-13,Texas,Freestone,5.05,1,0,0.0,394,1,0.25,1989.1,5.05,1.99,19808,22.57,35.34,0.0,1070.29,0.0
 2020-09-12,Texas,Freestone,20.19,4,0,0.0,393,1,0.25,1984.05,5.05,1.98,19808,22.57,35.34,35.34,1070.29,-15.15
 2020-09-11,Texas,Freestone,10.1,2,0,0.0,389,1,0.26,1963.85,5.05,1.96,19808,22.57,0.0,5.05,1085.44,0.0

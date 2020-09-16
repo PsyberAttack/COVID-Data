@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Arizona,La Paz,4.74,1,0,0.0,527,15,2.85,2497.87,71.1,2.5,21098,4.69,47.4,4.74,165.9,-4.74
+2020-09-14,Arizona,La Paz,0.0,0,0,0.0,526,15,2.85,2493.13,71.1,2.49,21098,4.69,42.66,0.0,170.64,0.0
 2020-09-13,Arizona,La Paz,4.74,1,0,0.0,526,15,2.85,2493.13,71.1,2.49,21098,4.69,42.66,4.74,170.64,4.74
 2020-09-12,Arizona,La Paz,4.74,1,0,0.0,525,15,2.86,2488.39,71.1,2.49,21098,4.69,37.92,-9.48,165.9,0.0
 2020-09-11,Arizona,La Paz,-4.74,-1,0,0.0,524,15,2.86,2483.65,71.1,2.48,21098,4.69,47.4,-14.22,165.9,-9.48

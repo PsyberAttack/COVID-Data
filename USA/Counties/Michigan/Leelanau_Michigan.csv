@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Michigan,Leelanau,0.0,0,0,0.0,102,1,0.98,468.66,4.59,0.47,21764,62.68,27.57,0.0,119.43,0.0
+2020-09-14,Michigan,Leelanau,-4.59,-1,0,0.0,102,1,0.98,468.66,4.59,0.47,21764,62.68,27.57,-4.59,119.43,-9.18
 2020-09-13,Michigan,Leelanau,0.0,0,0,0.0,103,1,0.97,473.26,4.59,0.47,21764,62.68,32.16,0.0,128.61,-4.59
 2020-09-12,Michigan,Leelanau,18.38,4,0,0.0,103,1,0.97,473.26,4.59,0.47,21764,62.68,32.16,13.79,133.2,18.38
 2020-09-11,Michigan,Leelanau,0.0,0,0,0.0,99,1,1.01,454.88,4.59,0.45,21764,62.68,18.37,0.0,114.82,0.0

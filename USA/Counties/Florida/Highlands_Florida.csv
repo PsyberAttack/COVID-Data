@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Florida,Highlands,12.33,13,1,0.95,2018,79,3.91,1914.18,74.94,1.91,105424,103.63,78.74,-0.95,359.51,5.69
+2020-09-14,Florida,Highlands,8.54,9,1,0.95,2005,78,3.89,1901.84,73.99,1.9,105424,103.63,79.69,-2.84,353.82,-14.23
 2020-09-13,Florida,Highlands,9.49,10,0,0.0,1996,77,3.86,1893.31,73.04,1.89,105424,103.63,82.53,-10.43,368.05,-16.12
 2020-09-12,Florida,Highlands,11.38,12,7,6.64,1986,77,3.88,1883.82,73.04,1.88,105424,103.63,92.96,-2.85,384.17,-19.92
 2020-09-11,Florida,Highlands,25.61,27,1,0.95,1974,70,3.55,1872.44,66.4,1.87,105424,103.63,95.81,7.59,404.09,1.9

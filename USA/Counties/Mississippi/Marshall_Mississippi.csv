@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Mississippi,Marshall,0.0,0,0,0.0,1052,14,1.33,2967.48,39.49,2.97,35451,50.2,121.29,-11.28,724.93,-70.52
+2020-09-14,Mississippi,Marshall,-2.82,-1,0,0.0,1052,14,1.33,2967.48,39.49,2.97,35451,50.2,132.57,-22.57,795.45,-8.46
 2020-09-13,Mississippi,Marshall,2.82,1,0,0.0,1053,14,1.33,2970.3,39.49,2.97,35451,50.2,155.14,-2.82,803.91,-2.82
 2020-09-12,Mississippi,Marshall,5.64,2,0,0.0,1052,14,1.33,2967.48,39.49,2.97,35451,50.2,157.96,-16.93,806.73,-19.75
 2020-09-11,Mississippi,Marshall,45.13,16,0,0.0,1050,14,1.33,2961.83,39.49,2.96,35451,50.2,174.89,28.21,826.48,-2.82

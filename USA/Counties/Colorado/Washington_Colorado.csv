@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Colorado,Washington,20.37,1,0,0.0,56,0,0.0,1140.76,0.0,1.14,4909,1.95,40.74,20.37,101.85,20.37
+2020-09-14,Colorado,Washington,-40.74,-2,0,0.0,55,0,0.0,1120.39,0.0,1.12,4909,1.95,20.37,-40.74,81.48,-40.74
 2020-09-13,Colorado,Washington,40.74,2,0,0.0,57,0,0.0,1161.13,0.0,1.16,4909,1.95,61.11,40.74,122.22,20.37
 2020-09-12,Colorado,Washington,0.0,0,0,0.0,55,0,0.0,1120.39,0.0,1.12,4909,1.95,20.37,0.0,101.85,0.0
 2020-09-11,Colorado,Washington,20.37,1,0,0.0,55,0,0.0,1120.39,0.0,1.12,4909,1.95,20.37,20.37,101.85,20.37

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Texas,McCulloch,12.52,1,0,0.0,134,3,2.24,1677.73,37.56,1.68,7987,7.5,137.72,-12.52,888.93,-50.08
+2020-09-14,Texas,McCulloch,0.0,0,0,0.0,133,3,2.26,1665.21,37.56,1.67,7987,7.5,150.24,0.0,939.01,-12.52
 2020-09-13,Texas,McCulloch,12.52,1,0,0.0,133,3,2.26,1665.21,37.56,1.67,7987,7.5,150.24,12.52,951.53,-12.52
 2020-09-12,Texas,McCulloch,37.56,3,2,25.04,132,3,2.27,1652.69,37.56,1.65,7987,7.5,137.72,25.04,964.05,37.56
 2020-09-11,Texas,McCulloch,37.56,3,0,0.0,129,1,0.78,1615.12,12.52,1.62,7987,7.5,112.68,-37.56,926.49,25.04

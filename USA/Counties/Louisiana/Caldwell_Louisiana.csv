@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Louisiana,Caldwell,0.0,0,0,0.0,298,3,1.01,2991.97,30.12,2.99,9960,18.81,50.2,-20.08,532.12,0.0
+2020-09-14,Louisiana,Caldwell,30.12,3,0,0.0,298,3,1.01,2991.97,30.12,2.99,9960,18.81,70.28,10.04,532.12,0.0
 2020-09-13,Louisiana,Caldwell,10.04,1,0,0.0,295,3,1.02,2961.85,30.12,2.96,9960,18.81,60.24,-20.08,532.12,-70.28
 2020-09-12,Louisiana,Caldwell,0.0,0,0,0.0,294,3,1.02,2951.81,30.12,2.95,9960,18.81,80.32,0.0,602.4,0.0
 2020-09-11,Louisiana,Caldwell,-10.04,-1,0,0.0,294,3,1.02,2951.81,30.12,2.95,9960,18.81,80.32,-20.08,602.4,-50.2

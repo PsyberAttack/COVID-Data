@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Illinois,Monroe,11.65,4,0,0.0,585,15,2.56,1703.8,43.69,1.7,34335,89.11,151.44,0.0,629.08,-20.39
+2020-09-14,Illinois,Monroe,0.0,0,0,0.0,581,15,2.58,1692.15,43.69,1.69,34335,89.11,151.44,-14.56,649.47,-11.65
 2020-09-13,Illinois,Monroe,20.39,7,0,0.0,581,15,2.58,1692.15,43.69,1.69,34335,89.11,166.0,-23.3,661.12,17.48
 2020-09-12,Illinois,Monroe,29.12,10,0,0.0,574,15,2.61,1671.76,43.69,1.67,34335,89.11,189.3,0.0,643.64,-11.65
 2020-09-11,Illinois,Monroe,17.47,6,0,0.0,564,15,2.66,1642.64,43.69,1.64,34335,89.11,189.3,-46.6,655.29,2.91

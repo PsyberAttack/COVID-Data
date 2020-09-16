@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Kentucky,Marshall,6.41,2,0,0.0,239,2,0.84,766.25,6.41,0.77,31191,103.53,60.92,-32.06,262.91,0.0
+2020-09-14,Kentucky,Marshall,3.21,1,0,0.0,237,2,0.84,759.83,6.41,0.76,31191,103.53,92.98,-3.2,262.91,3.21
 2020-09-13,Kentucky,Marshall,3.21,1,0,0.0,236,2,0.85,756.63,6.41,0.76,31191,103.53,96.18,-3.2,259.7,3.21
 2020-09-12,Kentucky,Marshall,-3.21,-1,0,0.0,235,2,0.85,753.42,6.41,0.75,31191,103.53,99.38,-9.62,256.49,-28.86
 2020-09-11,Kentucky,Marshall,35.27,11,0,0.0,236,2,0.85,756.63,6.41,0.76,31191,103.53,109.0,28.86,285.35,19.24

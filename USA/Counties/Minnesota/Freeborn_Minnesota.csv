@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Minnesota,Freeborn,6.57,2,1,3.28,463,3,0.65,1520.83,9.85,1.52,30444,43.04,124.82,0.0,292.31,-6.57
+2020-09-14,Minnesota,Freeborn,22.99,7,0,0.0,461,2,0.43,1514.26,6.57,1.51,30444,43.04,124.82,22.99,298.88,13.14
 2020-09-13,Minnesota,Freeborn,39.42,12,1,3.28,454,2,0.44,1491.26,6.57,1.49,30444,43.04,101.83,29.57,285.74,36.14
 2020-09-12,Minnesota,Freeborn,6.57,2,0,0.0,442,1,0.23,1451.85,3.28,1.45,30444,43.04,72.26,-16.42,249.6,3.29
 2020-09-11,Minnesota,Freeborn,-3.28,-1,0,0.0,440,1,0.23,1445.28,3.28,1.45,30444,43.04,88.68,-9.85,246.31,-16.42

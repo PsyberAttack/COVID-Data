@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Mississippi,Jefferson Davis,17.8,2,1,8.9,317,11,3.47,2821.79,97.92,2.82,11234,27.5,71.2,8.9,551.87,17.8
+2020-09-14,Mississippi,Jefferson Davis,17.8,2,0,0.0,315,10,3.17,2803.99,89.02,2.8,11234,27.5,62.3,17.8,534.07,8.9
 2020-09-13,Mississippi,Jefferson Davis,0.0,0,0,0.0,313,10,3.19,2786.18,89.02,2.79,11234,27.5,44.5,0.0,525.17,-8.9
 2020-09-12,Mississippi,Jefferson Davis,8.9,1,0,0.0,313,10,3.19,2786.18,89.02,2.79,11234,27.5,44.5,8.9,534.07,0.0
 2020-09-11,Mississippi,Jefferson Davis,8.9,1,0,0.0,312,10,3.21,2777.28,89.02,2.78,11234,27.5,35.6,-8.9,534.07,-71.21

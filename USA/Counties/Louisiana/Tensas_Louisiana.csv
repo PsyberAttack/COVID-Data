@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Louisiana,Tensas,0.0,0,1,22.41,158,2,1.27,3541.01,44.82,3.54,4462,7.4,89.64,-44.82,918.84,0.0
+2020-09-14,Louisiana,Tensas,0.0,0,0,0.0,158,1,0.63,3541.01,22.41,3.54,4462,7.4,134.46,0.0,918.84,-22.41
 2020-09-13,Louisiana,Tensas,67.23,3,0,0.0,158,1,0.63,3541.01,22.41,3.54,4462,7.4,134.46,44.82,941.25,-425.82
 2020-09-12,Louisiana,Tensas,0.0,0,0,0.0,155,1,0.65,3473.78,22.41,3.47,4462,7.4,89.64,0.0,1367.07,0.0
 2020-09-11,Louisiana,Tensas,0.0,0,0,0.0,155,1,0.65,3473.78,22.41,3.47,4462,7.4,89.64,0.0,1367.07,-67.23

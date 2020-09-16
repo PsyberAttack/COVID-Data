@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Mississippi,Warren,12.99,6,0,0.0,1360,48,3.53,2945.25,103.95,2.95,46176,78.46,41.15,12.99,337.87,-34.65
+2020-09-14,Mississippi,Warren,0.0,0,1,2.17,1354,48,3.55,2932.26,103.95,2.93,46176,78.46,28.16,0.0,372.52,-6.5
 2020-09-13,Mississippi,Warren,4.33,2,0,0.0,1354,47,3.47,2932.26,101.78,2.93,46176,78.46,28.16,2.16,379.02,-8.66
 2020-09-12,Mississippi,Warren,8.66,4,0,0.0,1352,47,3.48,2927.93,101.78,2.93,46176,78.46,26.0,-2.17,387.68,-6.5
 2020-09-11,Mississippi,Warren,2.17,1,1,2.17,1348,47,3.49,2919.27,101.78,2.92,46176,78.46,28.17,-12.99,394.18,-30.31

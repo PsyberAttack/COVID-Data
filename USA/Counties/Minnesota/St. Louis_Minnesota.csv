@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Minnesota,St. Louis,6.01,12,0,0.0,1173,28,2.39,587.22,14.02,0.59,199754,31.97,66.59,2.01,246.31,4.01
+2020-09-14,Minnesota,St. Louis,8.01,16,0,0.0,1161,28,2.41,581.21,14.02,0.58,199754,31.97,64.58,-7.51,242.3,4.51
 2020-09-13,Minnesota,St. Louis,13.52,27,2,1.0,1145,28,2.45,573.21,14.02,0.57,199754,31.97,72.09,-1.0,237.79,3.51
 2020-09-12,Minnesota,St. Louis,14.02,28,1,0.5,1118,26,2.33,559.69,13.02,0.56,199754,31.97,73.09,1.5,234.28,7.01
 2020-09-11,Minnesota,St. Louis,8.51,17,0,0.0,1090,25,2.29,545.67,12.52,0.55,199754,31.97,71.59,-4.01,227.27,1.0

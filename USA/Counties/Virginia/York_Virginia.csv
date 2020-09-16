@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Virginia,York,2.95,2,0,0.0,509,6,1.18,750.23,8.84,0.75,67846,648.61,25.05,-2.95,145.92,1.48
+2020-09-14,Virginia,York,1.47,1,0,0.0,507,6,1.18,747.28,8.84,0.75,67846,648.61,28.0,-1.48,144.44,-2.95
 2020-09-13,Virginia,York,4.42,3,0,0.0,506,6,1.19,745.81,8.84,0.75,67846,648.61,29.48,-1.48,147.39,-4.42
 2020-09-12,Virginia,York,8.84,6,0,0.0,503,6,1.19,741.38,8.84,0.74,67846,648.61,30.96,5.89,151.81,0.0
 2020-09-11,Virginia,York,0.0,0,0,0.0,497,6,1.21,732.54,8.84,0.73,67846,648.61,25.07,-8.84,151.81,-16.21

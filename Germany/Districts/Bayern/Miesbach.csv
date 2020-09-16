@@ -1,4 +1,7 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Bayern,Miesbach,2.01,2,0,0.0,711,11,1.55,712.95,11.03,0.71,99726,27.08,-4.01,65.19,-11.03
+2020-09-14,Bayern,Miesbach,0.0,0,0,0.0,709,11,1.55,710.95,11.03,0.71,99726,31.09,-1.0,76.22,-1.0
+2020-09-13,Bayern,Miesbach,0.0,0,0,0.0,709,11,1.55,710.95,11.03,0.71,99726,32.09,0.0,77.22,-2.01
 2020-09-12,Bayern,Miesbach,7.02,7,0,0.0,709,11,1.55,710.95,11.03,0.71,99726,32.09,5.01,79.23,6.02
 2020-09-11,Bayern,Miesbach,4.01,4,0,0.0,702,11,1.57,703.93,11.03,0.7,99726,27.08,3.01,73.21,2.0
 2020-09-10,Bayern,Miesbach,8.02,8,0,0.0,698,11,1.58,699.92,11.03,0.7,99726,24.07,7.02,71.21,5.01

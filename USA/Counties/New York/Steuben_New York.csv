@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,New York,Steuben,5.22,5,0,0.0,331,39,11.78,345.53,40.71,0.35,95796,68.89,8.35,2.09,25.02,5.22
+2020-09-14,New York,Steuben,0.0,0,0,0.0,326,39,11.96,340.31,40.71,0.34,95796,68.89,6.26,0.0,19.8,-1.04
 2020-09-13,New York,Steuben,0.0,0,0,0.0,326,39,11.96,340.31,40.71,0.34,95796,68.89,6.26,-1.04,20.84,0.0
 2020-09-12,New York,Steuben,0.0,0,0,0.0,326,39,11.96,340.31,40.71,0.34,95796,68.89,7.3,0.0,20.84,-3.13
 2020-09-11,New York,Steuben,1.04,1,0,0.0,326,39,11.96,340.31,40.71,0.34,95796,68.89,7.3,-2.09,23.97,-1.05

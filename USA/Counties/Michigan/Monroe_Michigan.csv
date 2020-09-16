@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Michigan,Monroe,3.32,5,-1,-0.66,1443,28,1.94,959.19,18.61,0.96,150439,273.85,28.57,0.0,231.98,-9.97
+2020-09-14,Michigan,Monroe,7.31,11,0,0.0,1438,29,2.02,955.87,19.28,0.96,150439,273.85,28.57,-4.65,241.95,0.66
 2020-09-13,Michigan,Monroe,0.0,0,0,0.0,1427,29,2.03,948.56,19.28,0.95,150439,273.85,33.22,0.0,241.29,-5.32
 2020-09-12,Michigan,Monroe,2.66,4,0,0.0,1427,29,2.03,948.56,19.28,0.95,150439,273.85,33.22,-3.99,246.61,-1.33
 2020-09-11,Michigan,Monroe,3.32,5,0,0.0,1423,29,2.04,945.9,19.28,0.95,150439,273.85,37.21,-3.33,247.94,-8.64

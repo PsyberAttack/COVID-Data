@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Texas,Montgomery,28.09,166,2,0.34,10182,147,1.44,1723.06,24.88,1.72,590925,566.77,136.23,-7.96,483.16,-0.17
+2020-09-14,Texas,Montgomery,38.25,226,0,0.0,10016,145,1.45,1694.97,24.54,1.69,590925,566.77,144.19,38.25,483.33,3.9
 2020-09-13,Texas,Montgomery,0.0,0,1,0.17,9790,145,1.48,1656.72,24.54,1.66,590925,566.77,105.94,0.0,479.43,0.0
 2020-09-12,Texas,Montgomery,0.0,0,4,0.68,9790,144,1.47,1656.72,24.37,1.66,590925,566.77,105.94,0.0,479.43,0.0
 2020-09-11,Texas,Montgomery,34.52,204,3,0.51,9790,140,1.43,1656.72,23.69,1.66,590925,566.77,105.94,14.55,479.43,18.78

@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-14,Paraná,Jardim Alegre,0.0,0,0,0.0,79,5,6.33,697.39,44.14,0.7,11328,35.32,0.0,203.08,-8.83
+2020-09-13,Paraná,Jardim Alegre,8.83,1,0,0.0,79,5,6.33,697.39,44.14,0.7,11328,35.32,-8.83,211.91,8.83
 2020-09-12,Paraná,Jardim Alegre,0.0,0,1,8.83,78,5,6.41,688.56,44.14,0.69,11328,44.15,-8.83,203.08,0.0
 2020-09-11,Paraná,Jardim Alegre,8.83,1,1,8.83,78,4,5.13,688.56,35.31,0.69,11328,52.98,8.83,203.08,8.83
 2020-09-10,Paraná,Jardim Alegre,8.83,1,1,8.83,77,3,3.9,679.73,26.48,0.68,11328,44.15,-8.83,194.25,0.0

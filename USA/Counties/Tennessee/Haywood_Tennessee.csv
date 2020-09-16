@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Tennessee,Haywood,17.31,3,0,0.0,866,15,1.73,4995.67,86.53,5.0,17335,32.52,282.68,-23.07,1390.27,-17.3
+2020-09-14,Tennessee,Haywood,86.53,15,0,0.0,863,15,1.74,4978.37,86.53,4.98,17335,32.52,305.75,63.46,1407.57,23.07
 2020-09-13,Tennessee,Haywood,5.77,1,0,0.0,848,15,1.77,4891.84,86.53,4.89,17335,32.52,242.29,-40.38,1384.5,-74.99
 2020-09-12,Tennessee,Haywood,11.54,2,2,11.54,847,15,1.77,4886.07,86.53,4.89,17335,32.52,282.67,-51.92,1459.49,-63.45
 2020-09-11,Tennessee,Haywood,63.46,11,0,0.0,845,13,1.54,4874.53,74.99,4.87,17335,32.52,334.59,17.31,1522.94,-132.67

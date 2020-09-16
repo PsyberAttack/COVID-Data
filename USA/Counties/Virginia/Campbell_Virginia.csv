@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Virginia,Campbell,1.82,1,0,0.0,385,3,0.78,700.34,5.46,0.7,54973,109.25,54.57,0.0,227.38,-10.91
+2020-09-14,Virginia,Campbell,1.82,1,0,0.0,384,3,0.78,698.52,5.46,0.7,54973,109.25,54.57,-1.82,238.29,-1.82
 2020-09-13,Virginia,Campbell,10.91,6,0,0.0,383,3,0.78,696.71,5.46,0.7,54973,109.25,56.39,3.63,240.11,-1.82
 2020-09-12,Virginia,Campbell,20.01,11,0,0.0,377,3,0.8,685.79,5.46,0.69,54973,109.25,52.76,9.1,241.93,7.28
 2020-09-11,Virginia,Campbell,12.73,7,0,0.0,366,3,0.82,665.78,5.46,0.67,54973,109.25,43.66,12.73,234.65,-3.64

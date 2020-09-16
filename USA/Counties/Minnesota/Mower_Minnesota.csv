@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Minnesota,Mower,17.5,7,0,0.0,1245,4,0.32,3111.64,10.0,3.11,40011,56.25,77.5,15.0,292.47,12.5
+2020-09-14,Minnesota,Mower,10.0,4,0,0.0,1238,4,0.32,3094.15,10.0,3.09,40011,56.25,62.5,5.0,279.97,10.0
 2020-09-13,Minnesota,Mower,15.0,6,0,0.0,1234,4,0.32,3084.15,10.0,3.08,40011,56.25,57.5,2.5,269.97,12.5
 2020-09-12,Minnesota,Mower,15.0,6,1,2.5,1228,4,0.33,3069.16,10.0,3.07,40011,56.25,55.0,-4.99,257.47,-4.99
 2020-09-11,Minnesota,Mower,7.5,3,0,0.0,1222,3,0.25,3054.16,7.5,3.05,40011,56.25,59.99,-7.5,262.46,-7.5

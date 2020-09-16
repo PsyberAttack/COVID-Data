@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,California,San Mateo,9.88,76,3,0.39,9242,142,1.54,1200.97,18.45,1.2,769545,1715.3,63.95,-7.4,261.75,-0.26
+2020-09-14,California,San Mateo,11.57,89,0,0.0,9166,139,1.52,1191.09,18.06,1.19,769545,1715.3,71.35,11.57,262.01,-14.16
 2020-09-13,California,San Mateo,0.0,0,0,0.0,9077,139,1.53,1179.53,18.06,1.18,769545,1715.3,59.78,0.0,276.17,0.0
 2020-09-12,California,San Mateo,14.42,111,0,0.0,9077,139,1.53,1179.53,18.06,1.18,769545,1715.3,59.78,-7.02,276.17,-4.94
 2020-09-11,California,San Mateo,9.23,71,3,0.39,8966,139,1.55,1165.1,18.06,1.17,769545,1715.3,66.8,1.17,281.11,-11.95

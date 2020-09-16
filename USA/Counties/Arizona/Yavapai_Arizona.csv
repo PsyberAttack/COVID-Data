@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Arizona,Yavapai,0.86,2,0,0.0,2429,80,3.29,1047.01,34.48,1.05,231993,28.56,25.86,0.86,107.32,-4.74
+2020-09-14,Arizona,Yavapai,1.72,4,0,0.0,2427,80,3.3,1046.15,34.48,1.05,231993,28.56,25.0,0.0,112.06,-7.33
 2020-09-13,Arizona,Yavapai,2.16,5,1,0.43,2423,80,3.3,1044.43,34.48,1.04,231993,28.56,25.0,-2.58,119.39,-3.01
 2020-09-12,Arizona,Yavapai,4.31,10,0,0.0,2418,79,3.27,1042.27,34.05,1.04,231993,28.56,27.58,0.43,122.4,-3.02
 2020-09-11,Arizona,Yavapai,7.76,18,0,0.0,2408,79,3.28,1037.96,34.05,1.04,231993,28.56,27.15,6.47,125.42,-4.31

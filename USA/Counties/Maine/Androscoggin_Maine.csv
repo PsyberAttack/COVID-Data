@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Maine,Androscoggin,0.93,1,0,0.0,653,10,1.53,606.43,9.29,0.61,107679,230.11,26.0,0.0,66.87,0.0
+2020-09-14,Maine,Androscoggin,10.22,11,0,0.0,652,10,1.53,605.5,9.29,0.61,107679,230.11,26.0,9.29,66.87,7.43
 2020-09-13,Maine,Androscoggin,6.5,7,0,0.0,641,10,1.56,595.29,9.29,0.6,107679,230.11,16.71,6.5,59.44,4.64
 2020-09-12,Maine,Androscoggin,-0.93,-1,0,0.0,634,10,1.58,588.79,9.29,0.59,107679,230.11,10.21,-3.72,54.8,-0.93
 2020-09-11,Maine,Androscoggin,3.71,4,0,0.0,635,10,1.57,589.72,9.29,0.59,107679,230.11,13.93,3.71,55.73,-0.93

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Florida,Gilchrist,21.91,4,0,0.0,490,12,2.45,2684.05,65.73,2.68,18256,52.21,49.31,16.43,405.38,-38.34
+2020-09-14,Florida,Gilchrist,5.48,1,0,0.0,486,12,2.47,2662.14,65.73,2.66,18256,52.21,32.88,5.48,443.72,-10.95
 2020-09-13,Florida,Gilchrist,0.0,0,0,0.0,485,12,2.47,2656.66,65.73,2.66,18256,52.21,27.4,-5.48,454.67,-16.43
 2020-09-12,Florida,Gilchrist,-5.48,-1,0,0.0,485,12,2.47,2656.66,65.73,2.66,18256,52.21,32.88,-32.87,471.1,-10.96
 2020-09-11,Florida,Gilchrist,5.48,1,1,5.48,486,12,2.47,2662.14,65.73,2.66,18256,52.21,65.75,-5.48,482.06,-54.77

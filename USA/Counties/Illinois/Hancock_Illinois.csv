@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Illinois,Hancock,28.02,5,0,0.0,175,2,1.14,980.72,11.21,0.98,17844,22.48,89.66,28.02,409.09,-11.21
+2020-09-14,Illinois,Hancock,0.0,0,0,0.0,170,2,1.18,952.7,11.21,0.95,17844,22.48,61.64,-5.6,420.3,-16.81
 2020-09-13,Illinois,Hancock,-5.6,-1,0,0.0,170,2,1.18,952.7,11.21,0.95,17844,22.48,67.24,-5.6,437.11,-44.83
 2020-09-12,Illinois,Hancock,5.6,1,0,0.0,171,2,1.17,958.31,11.21,0.96,17844,22.48,72.84,-11.21,481.94,-44.84
 2020-09-11,Illinois,Hancock,16.81,3,0,0.0,170,2,1.18,952.7,11.21,0.95,17844,22.48,84.05,-11.21,526.78,-5.61

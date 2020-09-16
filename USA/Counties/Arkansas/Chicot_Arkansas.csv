@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Arkansas,Chicot,9.58,1,1,9.58,977,17,1.74,9360.03,162.87,9.36,10438,16.2,67.06,0.0,488.58,0.0
+2020-09-14,Arkansas,Chicot,0.0,0,2,19.16,976,16,1.64,9350.45,153.29,9.35,10438,16.2,67.06,0.0,488.58,-38.32
 2020-09-13,Arkansas,Chicot,0.0,0,3,28.74,976,14,1.43,9350.45,134.13,9.35,10438,16.2,67.06,0.0,526.9,-19.16
 2020-09-12,Arkansas,Chicot,28.74,3,0,0.0,976,11,1.13,9350.45,105.38,9.35,10438,16.2,67.06,19.16,546.06,-277.83
 2020-09-11,Arkansas,Chicot,28.74,3,0,0.0,973,11,1.13,9321.71,105.38,9.32,10438,16.2,47.9,-9.58,823.89,-1322.09

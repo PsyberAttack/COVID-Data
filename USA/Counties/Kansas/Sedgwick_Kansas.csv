@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Kansas,Sedgwick,0.0,0,1,0.19,8040,69,0.86,1565.4,13.43,1.57,513607,514.9,63.47,0.0,377.33,0.0
+2020-09-14,Kansas,Sedgwick,39.13,201,0,0.0,8040,68,0.85,1565.4,13.24,1.57,513607,514.9,63.47,7.2,377.33,-35.64
 2020-09-13,Kansas,Sedgwick,0.0,0,0,0.0,7839,68,0.87,1526.26,13.24,1.53,513607,514.9,56.27,0.0,412.97,0.0
 2020-09-12,Kansas,Sedgwick,0.0,0,5,0.97,7839,68,0.87,1526.26,13.24,1.53,513607,514.9,56.27,0.0,412.97,0.0
 2020-09-11,Kansas,Sedgwick,14.8,76,7,1.36,7839,63,0.8,1526.26,12.27,1.53,513607,514.9,56.27,-14.6,412.97,-59.97

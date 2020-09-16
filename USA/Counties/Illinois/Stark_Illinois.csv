@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Illinois,Stark,0.0,0,1,18.43,46,2,4.35,847.61,36.85,0.85,5427,18.84,92.13,18.43,718.64,0.0
+2020-09-14,Illinois,Stark,18.43,1,0,0.0,46,1,2.17,847.61,18.43,0.85,5427,18.84,73.7,-55.28,718.64,18.43
 2020-09-13,Illinois,Stark,36.85,2,0,0.0,45,1,2.22,829.19,18.43,0.83,5427,18.84,128.98,18.42,700.21,36.85
 2020-09-12,Illinois,Stark,36.85,2,0,0.0,43,1,2.33,792.33,18.43,0.79,5427,18.84,110.56,36.85,663.36,36.85
 2020-09-11,Illinois,Stark,18.43,1,0,0.0,41,1,2.44,755.48,18.43,0.76,5427,18.84,73.71,-147.41,626.51,18.43

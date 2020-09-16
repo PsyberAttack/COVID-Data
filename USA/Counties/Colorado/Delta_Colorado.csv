@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Colorado,Delta,3.23,1,0,0.0,176,3,1.7,568.6,9.69,0.57,30953,27.1,12.92,0.0,122.74,-12.92
+2020-09-14,Colorado,Delta,3.23,1,1,3.23,175,3,1.71,565.37,9.69,0.57,30953,27.1,12.92,3.23,135.66,3.23
 2020-09-13,Colorado,Delta,0.0,0,0,0.0,174,2,1.15,562.14,6.46,0.56,30953,27.1,9.69,-6.46,132.43,-3.23
 2020-09-12,Colorado,Delta,-3.23,-1,0,0.0,174,2,1.15,562.14,6.46,0.56,30953,27.1,16.15,-6.46,135.66,-3.23
 2020-09-11,Colorado,Delta,9.69,3,0,0.0,175,2,1.14,565.37,6.46,0.57,30953,27.1,22.61,3.23,138.89,3.23

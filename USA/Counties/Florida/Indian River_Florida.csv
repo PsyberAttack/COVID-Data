@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Florida,Indian River,6.35,10,1,0.64,3000,107,3.57,1905.81,67.97,1.91,157413,313.08,50.19,0.0,210.91,1.9
+2020-09-14,Florida,Indian River,4.45,7,0,0.0,2990,106,3.55,1899.46,67.34,1.9,157413,313.08,50.19,-1.27,209.01,-1.27
 2020-09-13,Florida,Indian River,7.62,12,1,0.64,2983,106,3.55,1895.02,67.34,1.9,157413,313.08,51.46,2.54,210.28,0.0
 2020-09-12,Florida,Indian River,5.72,9,1,0.64,2971,105,3.53,1887.39,66.7,1.89,157413,313.08,48.92,-0.63,210.28,-8.26
 2020-09-11,Florida,Indian River,12.71,20,0,0.0,2962,104,3.51,1881.67,66.07,1.88,157413,313.08,49.55,4.45,218.54,-8.89

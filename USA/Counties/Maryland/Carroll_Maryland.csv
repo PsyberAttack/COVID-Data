@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Maryland,Carroll,4.75,8,0,0.0,1874,123,6.56,1112.63,73.03,1.11,168429,376.27,44.53,0.0,147.82,-0.59
+2020-09-14,Maryland,Carroll,6.53,11,0,0.0,1866,123,6.59,1107.89,73.03,1.11,168429,376.27,44.53,1.78,148.41,3.56
 2020-09-13,Maryland,Carroll,5.94,10,0,0.0,1855,123,6.63,1101.35,73.03,1.1,168429,376.27,42.75,-0.59,144.85,2.97
 2020-09-12,Maryland,Carroll,13.06,22,0,0.0,1845,123,6.67,1095.42,73.03,1.1,168429,376.27,43.34,-1.78,141.88,8.9
 2020-09-11,Maryland,Carroll,2.97,5,0,0.0,1823,123,6.75,1082.36,73.03,1.08,168429,376.27,45.12,-6.53,132.98,-4.75

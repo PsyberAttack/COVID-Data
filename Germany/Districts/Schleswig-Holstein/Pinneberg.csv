@@ -1,6 +1,11 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-10,Schleswig-Holstein,Pinneberg,0.95,3,0,0.0,779,47,6.03,247.78,14.95,0.25,314391,5.73,-0.64,21.97,-1.28
-2020-09-09,Schleswig-Holstein,Pinneberg,0.95,3,0,0.0,776,47,6.06,246.83,14.95,0.25,314391,6.37,0.31,23.25,0.0
+2020-09-15,Schleswig-Holstein,Pinneberg,0.64,2,0,0.0,785,47,5.99,249.69,14.95,0.25,314391,3.82,-1.27,21.34,0.0
+2020-09-14,Schleswig-Holstein,Pinneberg,0.0,0,0,0.0,783,47,6.0,249.05,14.95,0.25,314391,5.09,-0.32,21.34,-1.27
+2020-09-13,Schleswig-Holstein,Pinneberg,0.32,1,0,0.0,783,47,6.0,249.05,14.95,0.25,314391,5.41,0.0,22.61,0.32
+2020-09-12,Schleswig-Holstein,Pinneberg,0.0,0,0,0.0,782,47,6.01,248.73,14.95,0.25,314391,5.41,-0.64,22.29,-0.32
+2020-09-11,Schleswig-Holstein,Pinneberg,0.32,1,0,0.0,782,47,6.01,248.73,14.95,0.25,314391,6.05,-0.32,22.61,0.0
+2020-09-10,Schleswig-Holstein,Pinneberg,1.27,4,0,0.0,781,47,6.02,248.42,14.95,0.25,314391,6.37,-0.32,22.61,-0.96
+2020-09-09,Schleswig-Holstein,Pinneberg,1.27,4,0,0.0,777,47,6.05,247.14,14.95,0.25,314391,6.69,0.63,23.57,0.32
 2020-09-08,Schleswig-Holstein,Pinneberg,1.91,6,0,0.0,773,47,6.08,245.87,14.95,0.25,314391,6.06,0.0,23.25,-1.91
 2020-09-07,Schleswig-Holstein,Pinneberg,0.32,1,0,0.0,767,47,6.13,243.96,14.95,0.24,314391,6.06,0.32,25.16,-0.95
 2020-09-06,Schleswig-Holstein,Pinneberg,0.32,1,0,0.0,766,47,6.14,243.65,14.95,0.24,314391,5.74,-0.32,26.11,-0.63

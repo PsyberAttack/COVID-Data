@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-15,Montana,Hill,12.23,2,0,0.0,115,3,2.61,703.49,18.35,0.7,16347,5.64,97.86,12.23,409.84,12.23
+2020-09-14,Montana,Hill,12.23,2,0,0.0,113,3,2.65,691.26,18.35,0.69,16347,5.64,85.63,6.11,397.61,12.23
 2020-09-13,Montana,Hill,6.12,1,1,6.12,111,3,2.7,679.02,18.35,0.68,16347,5.64,79.52,6.12,385.38,6.12
 2020-09-12,Montana,Hill,24.47,4,0,0.0,110,2,1.82,672.91,12.23,0.67,16347,5.64,73.4,12.24,379.26,24.47
 2020-09-11,Montana,Hill,12.23,2,0,0.0,106,2,1.89,648.44,12.23,0.65,16347,5.64,61.16,-6.12,354.79,0.0
