@@ -1,14 +1,16 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-14,Nordrhein-Westfalen,Städteregion Aachen,1.26,7,0,0.0,2467,103,4.18,444.13,18.54,0.44,555465,8.82,-0.9,34.56,-0.9
-2020-09-13,Nordrhein-Westfalen,Städteregion Aachen,0.18,1,0,0.0,2460,103,4.19,442.87,18.54,0.44,555465,9.72,-1.62,35.46,-0.72
-2020-09-12,Nordrhein-Westfalen,Städteregion Aachen,0.9,5,0,0.0,2459,103,4.19,442.69,18.54,0.44,555465,11.34,0.0,36.18,0.0
-2020-09-11,Nordrhein-Westfalen,Städteregion Aachen,1.44,8,0,0.0,2454,103,4.2,441.79,18.54,0.44,555465,11.34,0.9,36.18,-1.26
-2020-09-10,Nordrhein-Westfalen,Städteregion Aachen,1.08,6,0,0.0,2446,103,4.21,440.35,18.54,0.44,555465,10.44,0.36,37.44,-1.8
-2020-09-09,Nordrhein-Westfalen,Städteregion Aachen,2.16,12,0,0.0,2440,103,4.22,439.27,18.54,0.44,555465,10.08,1.08,39.24,0.0
-2020-09-08,Nordrhein-Westfalen,Städteregion Aachen,1.8,10,0,0.0,2428,103,4.24,437.11,18.54,0.44,555465,9.0,0.54,39.24,0.18
-2020-09-07,Nordrhein-Westfalen,Städteregion Aachen,2.16,12,0,0.0,2418,103,4.26,435.31,18.54,0.44,555465,8.46,1.08,39.06,0.54
-2020-09-06,Nordrhein-Westfalen,Städteregion Aachen,1.8,10,0,0.0,2406,103,4.28,433.15,18.54,0.43,555465,7.38,1.08,38.52,1.44
-2020-09-05,Nordrhein-Westfalen,Städteregion Aachen,0.9,5,0,0.0,2396,103,4.3,431.35,18.54,0.43,555465,6.3,0.18,37.08,-0.72
+2020-09-16,Nordrhein-Westfalen,Städteregion Aachen,1.26,7,0,0.0,2494,103,4.13,448.99,18.54,0.45,555465,8.82,-1.44,35.64,-0.54
+2020-09-15,Nordrhein-Westfalen,Städteregion Aachen,1.62,9,0,0.0,2487,103,4.14,447.73,18.54,0.45,555465,10.26,-0.36,36.18,-0.36
+2020-09-14,Nordrhein-Westfalen,Städteregion Aachen,0.9,5,0,0.0,2478,103,4.16,446.11,18.54,0.45,555465,10.62,-1.26,36.54,-1.26
+2020-09-13,Nordrhein-Westfalen,Städteregion Aachen,0.36,2,0,0.0,2473,103,4.16,445.21,18.54,0.45,555465,11.88,-1.44,37.8,-0.54
+2020-09-12,Nordrhein-Westfalen,Städteregion Aachen,1.44,8,0,0.0,2471,103,4.17,444.85,18.54,0.44,555465,13.32,0.36,38.34,0.54
+2020-09-11,Nordrhein-Westfalen,Städteregion Aachen,1.8,10,0,0.0,2463,103,4.18,443.41,18.54,0.44,555465,12.96,1.26,37.8,-0.9
+2020-09-10,Nordrhein-Westfalen,Städteregion Aachen,1.44,8,0,0.0,2453,103,4.2,441.61,18.54,0.44,555465,11.7,0.72,38.7,-1.44
+2020-09-09,Nordrhein-Westfalen,Städteregion Aachen,2.7,15,0,0.0,2445,103,4.21,440.17,18.54,0.44,555465,10.98,1.62,40.14,0.54
+2020-09-08,Nordrhein-Westfalen,Städteregion Aachen,1.98,11,0,0.0,2430,103,4.24,437.47,18.54,0.44,555465,9.36,0.72,39.6,0.36
+2020-09-07,Nordrhein-Westfalen,Städteregion Aachen,2.16,12,0,0.0,2419,103,4.26,435.49,18.54,0.44,555465,8.64,1.08,39.24,0.54
+2020-09-06,Nordrhein-Westfalen,Städteregion Aachen,1.8,10,0,0.0,2407,103,4.28,433.33,18.54,0.43,555465,7.56,1.08,38.7,1.44
+2020-09-05,Nordrhein-Westfalen,Städteregion Aachen,1.08,6,0,0.0,2397,103,4.3,431.53,18.54,0.43,555465,6.48,0.36,37.26,-0.54
 2020-09-04,Nordrhein-Westfalen,Städteregion Aachen,0.54,3,0,0.0,2391,103,4.31,430.45,18.54,0.43,555465,6.12,-0.36,37.8,-1.62
 2020-09-03,Nordrhein-Westfalen,Städteregion Aachen,0.72,4,0,0.0,2388,103,4.31,429.91,18.54,0.43,555465,6.48,-0.72,39.42,-0.18
 2020-09-02,Nordrhein-Westfalen,Städteregion Aachen,1.08,6,0,0.0,2384,103,4.32,429.19,18.54,0.43,555465,7.2,0.18,39.6,-0.18
