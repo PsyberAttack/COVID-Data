@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-16,São Paulo,Campo Limpo Paulista,120.5,102,1,1.18,1158,65,5.61,1367.99,76.79,1.37,84650,200.83,114.59,359.13,115.77
+2020-09-17,São Paulo,Campo Limpo Paulista,11.81,10,0,0.0,1168,65,5.57,1379.8,76.79,1.38,84650,161.84,-20.09,341.41,-5.91
+2020-09-16,São Paulo,Campo Limpo Paulista,86.24,73,0,0.0,1158,65,5.61,1367.99,76.79,1.37,84650,181.93,67.34,347.32,74.43
+2020-09-15,São Paulo,Campo Limpo Paulista,34.26,29,1,1.18,1085,65,5.99,1281.75,76.79,1.28,84650,114.59,28.35,272.89,29.53
 2020-09-14,São Paulo,Campo Limpo Paulista,0.0,0,0,0.0,1056,64,6.06,1247.49,75.61,1.25,84650,86.24,-3.54,243.36,-9.45
 2020-09-13,São Paulo,Campo Limpo Paulista,3.54,3,0,0.0,1056,64,6.06,1247.49,75.61,1.25,84650,89.78,3.54,252.81,-1.19
 2020-09-12,São Paulo,Campo Limpo Paulista,10.63,9,1,1.18,1053,64,6.08,1243.95,75.61,1.24,84650,86.24,5.9,254.0,-2.36

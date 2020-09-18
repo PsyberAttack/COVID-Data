@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-16,São Paulo,Presidente Epitácio,45.25,20,0,0.0,495,13,2.63,1119.91,29.41,1.12,44200,142.53,45.25,386.85,45.25
+2020-09-17,São Paulo,Presidente Epitácio,0.0,0,0,0.0,495,13,2.63,1119.91,29.41,1.12,44200,92.76,-20.36,375.54,-11.31
+2020-09-16,São Paulo,Presidente Epitácio,42.99,19,0,0.0,495,13,2.63,1119.91,29.41,1.12,44200,113.12,13.58,386.85,42.99
+2020-09-15,São Paulo,Presidente Epitácio,2.26,1,0,0.0,476,13,2.73,1076.92,29.41,1.08,44200,99.54,2.26,343.86,2.26
 2020-09-14,São Paulo,Presidente Epitácio,0.0,0,0,0.0,475,13,2.74,1074.66,29.41,1.07,44200,97.28,0.0,341.6,-20.36
 2020-09-13,São Paulo,Presidente Epitácio,0.0,0,0,0.0,475,13,2.74,1074.66,29.41,1.07,44200,97.28,-29.41,361.96,-22.62
 2020-09-12,São Paulo,Presidente Epitácio,2.26,1,1,2.26,475,13,2.74,1074.66,29.41,1.07,44200,126.69,-24.89,384.58,-52.04

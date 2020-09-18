@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-16,São Paulo,Santa Rita d'Oeste,0.0,0,0,0.0,24,0,0.0,960.77,0.0,0.96,2498,120.09,0.0,440.33,0.0
+2020-09-17,São Paulo,Santa Rita d'Oeste,80.06,2,0,0.0,26,0,0.0,1040.83,0.0,1.04,2498,200.15,80.06,480.36,80.06
+2020-09-16,São Paulo,Santa Rita d'Oeste,-40.03,-1,0,0.0,24,0,0.0,960.77,0.0,0.96,2498,120.09,-40.03,400.3,-80.06
+2020-09-15,São Paulo,Santa Rita d'Oeste,40.03,1,0,0.0,25,0,0.0,1000.8,0.0,1.0,2498,160.12,40.03,480.36,40.03
 2020-09-14,São Paulo,Santa Rita d'Oeste,0.0,0,0,0.0,24,0,0.0,960.77,0.0,0.96,2498,120.09,0.0,440.33,-40.03
 2020-09-13,São Paulo,Santa Rita d'Oeste,40.03,1,0,0.0,24,0,0.0,960.77,0.0,0.96,2498,120.09,40.03,480.36,0.0
 2020-09-12,São Paulo,Santa Rita d'Oeste,0.0,0,0,0.0,23,0,0.0,920.74,0.0,0.92,2498,80.06,0.0,480.36,0.0

@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-16,São Paulo,Santa Ernestina,107.16,6,0,0.0,136,1,0.74,2429.01,17.86,2.43,5599,321.48,107.16,964.44,107.16
+2020-09-17,São Paulo,Santa Ernestina,0.0,0,0,0.0,136,1,0.74,2429.01,17.86,2.43,5599,267.9,-53.58,910.86,-53.58
+2020-09-16,São Paulo,Santa Ernestina,53.58,3,0,0.0,136,1,0.74,2429.01,17.86,2.43,5599,321.48,53.58,964.44,53.58
+2020-09-15,São Paulo,Santa Ernestina,53.58,3,0,0.0,133,1,0.75,2375.42,17.86,2.38,5599,267.9,53.58,910.86,53.58
 2020-09-14,São Paulo,Santa Ernestina,0.0,0,0,0.0,130,1,0.77,2321.84,17.86,2.32,5599,214.32,-35.72,857.28,-35.72
 2020-09-13,São Paulo,Santa Ernestina,0.0,0,0,0.0,130,1,0.77,2321.84,17.86,2.32,5599,250.04,-35.72,893.0,0.0
 2020-09-12,São Paulo,Santa Ernestina,142.88,8,0,0.0,130,1,0.77,2321.84,17.86,2.32,5599,285.76,107.16,893.0,89.3

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-17,Florida,Holmes,30.81,6,0,0.0,717,5,0.7,3681.27,25.67,3.68,19477,40.67,128.36,25.68,795.8,5.14
 2020-09-16,Florida,Holmes,0.0,0,0,0.0,711,5,0.7,3650.46,25.67,3.65,19477,40.67,102.68,-5.13,790.66,-5.13
 2020-09-15,Florida,Holmes,20.54,4,0,0.0,711,5,0.7,3650.46,25.67,3.65,19477,40.67,107.81,15.41,795.79,-92.41
 2020-09-14,Florida,Holmes,25.67,5,0,0.0,707,5,0.71,3629.92,25.67,3.63,19477,40.67,92.4,10.27,888.2,20.54

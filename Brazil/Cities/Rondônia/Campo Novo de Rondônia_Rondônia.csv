@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-15,Rondônia,Campo Novo de Rondônia,0.0,0,0,0.0,147,5,3.4,1039.68,35.36,1.04,14139,14.15,0.0,311.19,0.0
+2020-09-16,Rondônia,Campo Novo de Rondônia,0.0,0,0,0.0,147,5,3.4,1039.68,35.36,1.04,14139,-28.29,-42.44,289.97,0.0
+2020-09-15,Rondônia,Campo Novo de Rondônia,0.0,0,0,0.0,147,5,3.4,1039.68,35.36,1.04,14139,14.15,0.0,289.97,-21.22
 2020-09-14,Rondônia,Campo Novo de Rondônia,-7.07,-1,0,0.0,147,5,3.4,1039.68,35.36,1.04,14139,14.15,-7.07,311.19,-7.07
+2020-09-13,Rondônia,Campo Novo de Rondônia,0.0,0,0,0.0,148,5,3.38,1046.75,35.36,1.05,14139,21.22,0.0,318.26,0.0
 2020-09-12,Rondônia,Campo Novo de Rondônia,7.07,1,0,0.0,148,5,3.38,1046.75,35.36,1.05,14139,21.22,7.07,318.26,-7.08
 2020-09-11,Rondônia,Campo Novo de Rondônia,-7.07,-1,0,0.0,147,5,3.4,1039.68,35.36,1.04,14139,14.15,-35.36,325.34,0.0
 2020-09-10,Rondônia,Campo Novo de Rondônia,-21.22,-3,0,0.0,148,5,3.38,1046.75,35.36,1.05,14139,49.51,-21.22,325.34,-28.29

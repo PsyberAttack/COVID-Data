@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-16,São Paulo,General Salgado,0.0,0,0,0.0,186,2,1.08,1711.29,18.4,1.71,10869,27.6,0.0,358.8,0.0
+2020-09-17,São Paulo,General Salgado,18.4,2,0,0.0,188,2,1.06,1729.69,18.4,1.73,10869,46.0,18.4,340.4,0.0
+2020-09-16,São Paulo,General Salgado,9.2,1,0,0.0,186,2,1.08,1711.29,18.4,1.71,10869,27.6,9.2,340.4,-9.2
+2020-09-15,São Paulo,General Salgado,-9.2,-1,0,0.0,185,2,1.08,1702.09,18.4,1.7,10869,18.4,-9.2,349.6,-9.2
 2020-09-14,São Paulo,General Salgado,0.0,0,0,0.0,186,2,1.08,1711.29,18.4,1.71,10869,27.6,0.0,358.8,-55.2
 2020-09-13,São Paulo,General Salgado,18.4,2,0,0.0,186,2,1.08,1711.29,18.4,1.71,10869,27.6,18.4,414.0,18.4
 2020-09-12,São Paulo,General Salgado,0.0,0,0,0.0,184,2,1.09,1692.89,18.4,1.69,10869,9.2,0.0,395.6,-18.4

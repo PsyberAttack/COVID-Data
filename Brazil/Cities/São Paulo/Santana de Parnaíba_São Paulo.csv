@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-16,São Paulo,Santana de Parnaíba,29.4,41,1,0.72,3000,95,3.17,2151.35,68.13,2.15,139447,125.49,23.66,533.52,15.06
+2020-09-17,São Paulo,Santana de Parnaíba,14.34,20,0,0.0,3020,95,3.15,2165.7,68.13,2.17,139447,102.54,-9.32,512.72,-4.31
+2020-09-16,São Paulo,Santana de Parnaíba,17.93,25,1,0.72,3000,95,3.17,2151.35,68.13,2.15,139447,111.86,4.3,517.03,1.44
+2020-09-15,São Paulo,Santana de Parnaíba,11.47,16,0,0.0,2975,94,3.16,2133.43,67.41,2.13,139447,107.56,5.73,515.59,-2.87
 2020-09-14,São Paulo,Santana de Parnaíba,2.87,4,0,0.0,2959,94,3.18,2121.95,67.41,2.12,139447,101.83,-4.3,518.46,-17.93
 2020-09-13,São Paulo,Santana de Parnaíba,9.32,13,0,0.0,2955,94,3.18,2119.08,67.41,2.12,139447,106.13,-12.91,536.39,-12.19
 2020-09-12,São Paulo,Santana de Parnaíba,25.1,35,1,0.72,2942,94,3.2,2109.76,67.41,2.11,139447,119.04,3.59,548.58,-6.45

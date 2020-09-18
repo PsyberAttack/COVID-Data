@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-16,São Paulo,Cachoeira Paulista,36.01,12,3,9.0,320,11,3.44,960.18,33.01,0.96,33327,96.01,33.01,360.05,36.01
+2020-09-17,São Paulo,Cachoeira Paulista,9.0,3,1,3.0,323,12,3.72,969.18,36.01,0.97,33327,81.01,6.0,354.05,-6.0
+2020-09-16,São Paulo,Cachoeira Paulista,9.0,3,0,0.0,320,11,3.44,960.18,33.01,0.96,33327,75.01,-12.0,360.05,9.0
+2020-09-15,São Paulo,Cachoeira Paulista,27.01,9,3,9.0,317,11,3.47,951.18,33.01,0.95,33327,87.01,24.01,351.05,27.01
 2020-09-14,São Paulo,Cachoeira Paulista,0.0,0,0,0.0,308,8,2.6,924.18,24.0,0.92,33327,63.0,0.0,324.04,0.0
 2020-09-13,São Paulo,Cachoeira Paulista,0.0,0,0,0.0,308,8,2.6,924.18,24.0,0.92,33327,63.0,-9.0,324.04,-3.0
 2020-09-12,São Paulo,Cachoeira Paulista,21.0,7,0,0.0,308,8,2.6,924.18,24.0,0.92,33327,72.0,9.0,327.04,9.0

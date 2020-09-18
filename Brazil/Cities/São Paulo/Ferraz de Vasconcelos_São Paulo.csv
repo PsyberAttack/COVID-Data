@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-16,São Paulo,Ferraz de Vasconcelos,57.65,112,1,0.51,3002,118,3.93,1545.22,60.74,1.55,194276,129.2,56.62,469.97,56.11
+2020-09-17,São Paulo,Ferraz de Vasconcelos,22.13,43,0,0.0,3045,118,3.88,1567.36,60.74,1.57,194276,120.96,5.66,480.78,10.81
+2020-09-16,São Paulo,Ferraz de Vasconcelos,32.43,63,0,0.0,3002,118,3.93,1545.22,60.74,1.55,194276,115.3,18.53,469.97,32.43
+2020-09-15,São Paulo,Ferraz de Vasconcelos,25.22,49,1,0.51,2939,118,4.01,1512.8,60.74,1.51,194276,96.77,24.19,437.54,23.68
 2020-09-14,São Paulo,Ferraz de Vasconcelos,1.03,2,0,0.0,2890,117,4.05,1487.57,60.22,1.49,194276,72.58,-7.72,413.86,-7.21
 2020-09-13,São Paulo,Ferraz de Vasconcelos,2.06,4,0,0.0,2888,117,4.05,1486.54,60.22,1.49,194276,80.3,-19.56,421.07,-17.5
 2020-09-12,São Paulo,Ferraz de Vasconcelos,16.99,33,-2,-1.03,2884,117,4.06,1484.49,60.22,1.48,194276,99.86,-5.66,438.57,-28.31

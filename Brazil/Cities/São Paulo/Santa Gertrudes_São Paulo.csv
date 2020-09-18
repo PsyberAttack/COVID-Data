@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-16,São Paulo,Santa Gertrudes,7.44,2,0,0.0,853,14,1.64,3171.24,52.05,3.17,26898,193.32,0.0,959.18,3.72
+2020-09-17,São Paulo,Santa Gertrudes,0.0,0,0,0.0,853,14,1.64,3171.24,52.05,3.17,26898,63.2,-104.1,858.8,-92.94
+2020-09-16,São Paulo,Santa Gertrudes,0.0,0,0,0.0,853,14,1.64,3171.24,52.05,3.17,26898,167.3,-26.02,951.74,-7.44
+2020-09-15,São Paulo,Santa Gertrudes,7.44,2,0,0.0,853,14,1.64,3171.24,52.05,3.17,26898,193.32,0.0,959.18,3.72
 2020-09-14,São Paulo,Santa Gertrudes,0.0,0,0,0.0,851,14,1.65,3163.8,52.05,3.16,26898,193.32,-3.72,955.46,-26.02
 2020-09-13,São Paulo,Santa Gertrudes,0.0,0,0,0.0,851,14,1.65,3163.8,52.05,3.16,26898,197.04,-104.1,981.48,-18.59
 2020-09-12,São Paulo,Santa Gertrudes,29.74,8,0,0.0,851,14,1.65,3163.8,52.05,3.16,26898,301.14,29.74,1000.07,11.15

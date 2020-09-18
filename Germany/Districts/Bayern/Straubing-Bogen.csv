@@ -1,6 +1,7 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-16,Bayern,Straubing-Bogen,3.97,4,0,0.0,611,29,4.75,607.06,28.81,0.61,100649,14.9,1.98,37.75,3.97
-2020-09-15,Bayern,Straubing-Bogen,1.99,2,0,0.0,607,29,4.78,603.09,28.81,0.6,100649,12.92,1.99,33.78,1.0
+2020-09-17,Bayern,Straubing-Bogen,0.99,1,0,0.0,612,29,4.74,608.05,28.81,0.61,100649,14.9,0.0,35.76,-1.99
+2020-09-16,Bayern,Straubing-Bogen,2.98,3,0,0.0,611,29,4.75,607.06,28.81,0.61,100649,14.9,0.99,37.75,2.98
+2020-09-15,Bayern,Straubing-Bogen,2.98,3,0,0.0,608,29,4.77,604.08,28.81,0.6,100649,13.91,2.98,34.77,1.99
 2020-09-14,Bayern,Straubing-Bogen,0.0,0,0,0.0,605,29,4.79,601.1,28.81,0.6,100649,10.93,0.0,32.78,0.0
 2020-09-13,Bayern,Straubing-Bogen,4.97,5,0,0.0,605,29,4.79,601.1,28.81,0.6,100649,10.93,2.98,32.78,2.98
 2020-09-12,Bayern,Straubing-Bogen,0.99,1,0,0.0,600,29,4.83,596.13,28.81,0.6,100649,7.95,0.99,29.8,0.99
