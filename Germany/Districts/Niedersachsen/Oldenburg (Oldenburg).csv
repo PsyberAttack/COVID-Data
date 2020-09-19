@@ -1,9 +1,12 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-14,Niedersachsen,Oldenburg (Oldenburg),1.19,2,0,0.0,248,2,0.81,147.43,1.19,0.15,168210,6.53,-3.57,21.96,-0.59
-2020-09-13,Niedersachsen,Oldenburg (Oldenburg),0.0,0,0,0.0,246,2,0.81,146.25,1.19,0.15,168210,10.1,0.0,22.55,0.0
-2020-09-12,Niedersachsen,Oldenburg (Oldenburg),0.59,1,0,0.0,246,2,0.81,146.25,1.19,0.15,168210,10.1,0.0,22.55,-1.79
-2020-09-11,Niedersachsen,Oldenburg (Oldenburg),0.0,0,0,0.0,245,2,0.82,145.65,1.19,0.15,168210,10.1,0.0,24.34,0.0
-2020-09-10,Niedersachsen,Oldenburg (Oldenburg),1.19,2,0,0.0,245,2,0.82,145.65,1.19,0.15,168210,10.1,0.6,24.34,0.6
+2020-09-17,Niedersachsen,Oldenburg (Oldenburg),0.59,1,0,0.0,256,2,0.78,152.19,1.19,0.15,168210,5.94,-1.19,22.55,-1.19
+2020-09-16,Niedersachsen,Oldenburg (Oldenburg),0.59,1,0,0.0,255,2,0.78,151.6,1.19,0.15,168210,7.13,-1.19,23.74,-1.79
+2020-09-15,Niedersachsen,Oldenburg (Oldenburg),1.19,2,0,0.0,254,2,0.79,151.0,1.19,0.15,168210,8.32,-0.59,25.53,1.19
+2020-09-14,Niedersachsen,Oldenburg (Oldenburg),2.38,4,0,0.0,252,2,0.79,149.81,1.19,0.15,168210,8.91,-2.38,24.34,0.6
+2020-09-13,Niedersachsen,Oldenburg (Oldenburg),0.0,0,0,0.0,248,2,0.81,147.43,1.19,0.15,168210,11.29,0.0,23.74,0.0
+2020-09-12,Niedersachsen,Oldenburg (Oldenburg),1.19,2,0,0.0,248,2,0.81,147.43,1.19,0.15,168210,11.29,0.6,23.74,-1.19
+2020-09-11,Niedersachsen,Oldenburg (Oldenburg),0.0,0,0,0.0,246,2,0.81,146.25,1.19,0.15,168210,10.69,0.0,24.93,0.0
+2020-09-10,Niedersachsen,Oldenburg (Oldenburg),1.78,3,0,0.0,246,2,0.81,146.25,1.19,0.15,168210,10.69,1.19,24.93,1.19
 2020-09-09,Niedersachsen,Oldenburg (Oldenburg),1.78,3,0,0.0,243,2,0.82,144.46,1.19,0.14,168210,9.5,1.78,23.74,1.78
 2020-09-08,Niedersachsen,Oldenburg (Oldenburg),1.78,3,0,0.0,240,2,0.83,142.68,1.19,0.14,168210,7.72,1.78,21.96,1.19
 2020-09-07,Niedersachsen,Oldenburg (Oldenburg),4.76,8,0,0.0,237,2,0.84,140.9,1.19,0.14,168210,5.94,4.76,20.77,4.76

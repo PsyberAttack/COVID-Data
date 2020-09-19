@@ -1,9 +1,12 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-14,Brandenburg,Potsdam-Mittelmark,0.47,1,0,0.0,636,38,5.97,296.28,17.7,0.3,214664,3.28,-0.93,10.77,0.47
-2020-09-13,Brandenburg,Potsdam-Mittelmark,0.0,0,0,0.0,635,38,5.98,295.81,17.7,0.3,214664,4.21,0.0,10.3,0.0
-2020-09-12,Brandenburg,Potsdam-Mittelmark,0.47,1,0,0.0,635,38,5.98,295.81,17.7,0.3,214664,4.21,0.47,10.3,0.47
-2020-09-11,Brandenburg,Potsdam-Mittelmark,0.47,1,0,0.0,634,38,5.99,295.35,17.7,0.3,214664,3.74,0.0,9.83,-0.93
-2020-09-10,Brandenburg,Potsdam-Mittelmark,0.0,0,0,0.0,633,38,6.0,294.88,17.7,0.29,214664,3.74,0.0,10.76,-0.93
+2020-09-17,Brandenburg,Potsdam-Mittelmark,0.47,1,0,0.0,639,38,5.95,297.67,17.7,0.3,214664,2.34,0.0,11.23,0.0
+2020-09-16,Brandenburg,Potsdam-Mittelmark,0.0,0,0,0.0,638,38,5.96,297.21,17.7,0.3,214664,2.34,-1.4,11.23,0.0
+2020-09-15,Brandenburg,Potsdam-Mittelmark,0.0,0,0,0.0,638,38,5.96,297.21,17.7,0.3,214664,3.74,-0.47,11.23,-0.47
+2020-09-14,Brandenburg,Potsdam-Mittelmark,0.47,1,0,0.0,638,38,5.96,297.21,17.7,0.3,214664,4.21,-0.93,11.7,0.47
+2020-09-13,Brandenburg,Potsdam-Mittelmark,0.0,0,0,0.0,637,38,5.97,296.74,17.7,0.3,214664,5.14,0.0,11.23,0.0
+2020-09-12,Brandenburg,Potsdam-Mittelmark,0.47,1,0,0.0,637,38,5.97,296.74,17.7,0.3,214664,5.14,0.47,11.23,0.47
+2020-09-11,Brandenburg,Potsdam-Mittelmark,0.93,2,0,0.0,636,38,5.97,296.28,17.7,0.3,214664,4.67,0.46,10.76,-0.47
+2020-09-10,Brandenburg,Potsdam-Mittelmark,0.47,1,0,0.0,634,38,5.99,295.35,17.7,0.3,214664,4.21,0.47,11.23,-0.46
 2020-09-09,Brandenburg,Potsdam-Mittelmark,1.4,3,0,0.0,633,38,6.0,294.88,17.7,0.29,214664,3.74,0.93,11.69,-0.93
 2020-09-08,Brandenburg,Potsdam-Mittelmark,0.47,1,0,0.0,630,38,6.03,293.48,17.7,0.29,214664,2.81,0.0,12.62,-0.46
 2020-09-07,Brandenburg,Potsdam-Mittelmark,1.4,3,0,0.0,629,38,6.04,293.02,17.7,0.29,214664,2.81,0.93,13.08,0.47

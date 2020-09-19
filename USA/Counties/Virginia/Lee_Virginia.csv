@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-18,Virginia,Lee,4.25,1,0,0.0,255,6,2.35,1083.22,25.49,1.08,23541,54.07,46.73,-21.24,433.3,4.25
 2020-09-17,Virginia,Lee,12.74,3,0,0.0,254,6,2.36,1078.97,25.49,1.08,23541,54.07,67.97,-4.25,429.05,12.74
 2020-09-16,Virginia,Lee,12.74,3,0,0.0,251,6,2.39,1066.22,25.49,1.07,23541,54.07,72.22,4.24,416.31,8.49
 2020-09-15,Virginia,Lee,4.25,1,1,4.25,248,6,2.42,1053.48,25.49,1.05,23541,54.07,67.98,0.0,407.82,-4.25
