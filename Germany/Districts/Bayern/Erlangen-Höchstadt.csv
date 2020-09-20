@@ -1,6 +1,8 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-16,Bayern,Erlangen-Höchstadt,1.47,2,0,0.0,363,11,3.03,266.38,8.07,0.27,136271,9.54,-0.73,33.73,0.0
-2020-09-15,Bayern,Erlangen-Höchstadt,1.47,2,0,0.0,361,11,3.05,264.91,8.07,0.26,136271,10.27,-0.73,33.73,0.0
+2020-09-18,Bayern,Erlangen-Höchstadt,1.47,2,0,0.0,367,11,3.0,269.32,8.07,0.27,136271,10.27,0.0,35.93,0.74
+2020-09-17,Bayern,Erlangen-Höchstadt,0.73,1,0,0.0,365,11,3.01,267.85,8.07,0.27,136271,10.27,0.0,35.19,0.73
+2020-09-16,Bayern,Erlangen-Höchstadt,1.47,2,0,0.0,364,11,3.02,267.11,8.07,0.27,136271,10.27,-0.73,34.46,0.0
+2020-09-15,Bayern,Erlangen-Höchstadt,2.2,3,0,0.0,362,11,3.04,265.65,8.07,0.27,136271,11.0,0.0,34.46,0.73
 2020-09-14,Bayern,Erlangen-Höchstadt,2.2,3,0,0.0,359,11,3.06,263.45,8.07,0.26,136271,11.0,1.47,33.73,1.47
 2020-09-13,Bayern,Erlangen-Höchstadt,1.47,2,0,0.0,356,11,3.09,261.24,8.07,0.26,136271,9.53,1.47,32.26,0.74
 2020-09-12,Bayern,Erlangen-Höchstadt,0.73,1,0,0.0,354,11,3.11,259.78,8.07,0.26,136271,8.06,0.0,31.52,0.0
