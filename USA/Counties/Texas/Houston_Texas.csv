@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-20,Texas,Houston,0.0,0,0,0.0,361,10,2.77,1558.12,43.16,1.56,23169,18.82,38.84,-4.32,138.13,0.0
 2020-09-19,Texas,Houston,0.0,0,1,4.32,361,10,2.77,1558.12,43.16,1.56,23169,18.82,43.16,0.0,138.13,-25.9
 2020-09-18,Texas,Houston,8.63,2,0,0.0,361,9,2.49,1558.12,38.85,1.56,23169,18.82,43.16,0.0,164.03,17.26
 2020-09-17,Texas,Houston,-4.32,-1,0,0.0,359,9,2.51,1549.48,38.85,1.55,23169,18.82,43.16,-4.32,146.77,-8.64

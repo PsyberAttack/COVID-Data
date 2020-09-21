@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-20,Virginia,Gloucester,5.35,2,0,0.0,228,2,0.88,610.46,5.35,0.61,37349,171.48,13.38,2.67,112.45,8.03
 2020-09-19,Virginia,Gloucester,2.68,1,0,0.0,226,2,0.88,605.1,5.35,0.61,37349,171.48,10.71,-8.03,104.42,-5.35
 2020-09-18,Virginia,Gloucester,-2.68,-1,0,0.0,225,2,0.89,602.43,5.35,0.6,37349,171.48,18.74,-8.03,109.77,-10.71
 2020-09-17,Virginia,Gloucester,0.0,0,0,0.0,226,2,0.88,605.1,5.35,0.61,37349,171.48,26.77,-13.39,120.48,-5.35

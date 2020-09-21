@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-20,Illinois,Wayne,0.0,0,0,0.0,240,5,2.08,1469.51,30.61,1.47,16332,22.88,134.69,-251.04,942.92,-6.12
 2020-09-19,Illinois,Wayne,36.74,6,0,0.0,240,5,2.08,1469.51,30.61,1.47,16332,22.88,385.73,0.0,949.04,30.62
 2020-09-18,Illinois,Wayne,24.49,4,0,0.0,234,5,2.14,1432.77,30.61,1.43,16332,22.88,385.73,-18.37,918.42,12.24
 2020-09-17,Illinois,Wayne,30.61,5,0,0.0,230,5,2.17,1408.28,30.61,1.41,16332,22.88,404.1,-42.87,906.18,18.36

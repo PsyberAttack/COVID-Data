@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-20,New York,Warren,6.22,4,0,0.0,360,30,8.33,560.18,46.68,0.56,64265,74.1,18.67,6.22,70.04,6.22
 2020-09-19,New York,Warren,3.11,2,0,0.0,356,30,8.43,553.96,46.68,0.55,64265,74.1,12.45,-7.78,63.82,1.55
 2020-09-18,New York,Warren,3.11,2,0,0.0,354,30,8.47,550.84,46.68,0.55,64265,74.1,20.23,-10.89,62.27,1.55
 2020-09-17,New York,Warren,1.56,1,0,0.0,352,30,8.52,547.73,46.68,0.55,64265,74.1,31.12,0.0,60.72,1.56

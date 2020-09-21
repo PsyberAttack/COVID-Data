@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-20,Oregon,Washington,4.18,25,0,0.0,4289,58,1.35,717.59,9.7,0.72,597695,825.24,30.45,-1.51,124.81,0.0
 2020-09-19,Oregon,Washington,3.85,23,0,0.0,4264,58,1.36,713.41,9.7,0.71,597695,825.24,31.96,-0.67,124.81,-3.01
 2020-09-18,Oregon,Washington,5.52,33,0,0.0,4241,58,1.37,709.56,9.7,0.71,597695,825.24,32.63,2.68,127.82,1.34
 2020-09-17,Oregon,Washington,4.68,28,0,0.0,4208,58,1.38,704.04,9.7,0.7,597695,825.24,29.95,0.16,126.48,-3.52
