@@ -1,11 +1,239 @@
 date,new_deaths,total_deaths,hospital,region,code
+2020-09-21,1,987,University Hospitals Birmingham NHS Foundation Trust,Midlands,RRK
+2020-09-21,1,120,Northern Lincolnshire And Goole NHS Foundation Trust,North East and Yorkshire,RJL
+2020-09-21,0,4,Anglian Community Enterprise CIC - Clacton Hospital,East Of England,NQ108
+2020-09-21,0,25,Anglian Community Enterprise CIC - Fryatt Hospital,East Of England,NQ106
+2020-09-21,0,308,Basildon And Thurrock University Hospitals NHS Foundation Trust,East Of England,RDD
+2020-09-21,0,229,Bedford Hospital NHS Trust,East Of England,RC1
+2020-09-21,0,125,Cambridge University Hospitals NHS Foundation Trust,East Of England,RGT
+2020-09-21,0,1,Cambridgeshire And Peterborough NHS Foundation Trust,East Of England,RT1
+2020-09-21,0,166,East And North Hertfordshire NHS Trust,East Of England,RWH
+2020-09-21,0,3,East Coast Community Healthcare - Beccles Hospital,East Of England,NAX03
+2020-09-21,0,357,East Suffolk And North Essex NHS Foundation Trust,East Of England,RDE
+2020-09-21,0,1,Elysium Healthcare Limited,East Of England,DE8
+2020-09-21,0,17,Essex Partnership University NHS Foundation Trust,East Of England,R1L
+2020-09-21,0,8,Hertfordshire Community NHS Trust,East Of England,RY4
+2020-09-21,0,10,Hertfordshire Partnership University NHS Foundation Trust,East Of England,RWR
+2020-09-21,0,117,James Paget University Hospitals NHS Foundation Trust,East Of England,RGP
+2020-09-21,0,283,Luton And Dunstable University Hospital NHS Foundation Trust,East Of England,RC9
+2020-09-21,0,197,Mid Essex Hospital Services NHS Trust,East Of England,RQ8
+2020-09-21,0,104,Milton Keynes University Hospital NHS Foundation Trust,East Of England,RD8
+2020-09-21,0,124,Norfolk And Norwich University Hospitals NHS Foundation Trust,East Of England,RM1
+2020-09-21,0,2,Norfolk And Suffolk NHS Foundation Trust,East Of England,RMY
+2020-09-21,0,28,Norfolk Community Health And Care NHS Trust,East Of England,RY3
+2020-09-21,0,242,North West Anglia NHS Foundation Trust,East Of England,RGN
+2020-09-21,0,6,Provide - Braintree Community Hospital,East Of England,NQA20
+2020-09-21,0,1,Provide - Halstead Hospital,East Of England,NQA64
+2020-09-21,0,2,Provide - St Peters Hospital,East Of England,NQA31
+2020-09-21,0,22,Royal Papworth Hospital NHS Foundation Trust,East Of England,RGM
+2020-09-21,0,250,Southend University Hospital NHS Foundation Trust,East Of England,RAJ
+2020-09-21,0,201,The Princess Alexandra Hospital NHS Trust,East Of England,RQW
+2020-09-21,0,148,"The Queen Elizabeth Hospital, King'S Lynn, NHS Foundation Trust",East Of England,RCX
+2020-09-21,0,374,West Hertfordshire Hospitals NHS Trust,East Of England,RWG
+2020-09-21,0,83,West Suffolk NHS Foundation Trust,East Of England,RGR
+2020-09-21,0,431,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
+2020-09-21,0,631,Barts Health NHS Trust,London,R1H
+2020-09-21,0,6,Central And North West London NHS Foundation Trust,London,RV3
+2020-09-21,0,10,Central London Community Healthcare NHS Trust,London,RYX
+2020-09-21,0,312,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-09-21,0,301,Croydon Health Services NHS Trust,London,RJ6
+2020-09-21,0,17,East London NHS Foundation Trust,London,RWK
+2020-09-21,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
+2020-09-21,0,234,Guy'S And St Thomas' NHS Foundation Trust,London,RJ1
+2020-09-21,0,2,Hca UK - London Bridge,London,NW605
+2020-09-21,0,1,Hca UK - The Lister,London,NW603
+2020-09-21,0,2,Hca UK - The Princess Grace,London,NW601
+2020-09-21,0,9,Hca UK - The Wellington Hospital North Building,London,NW602
+2020-09-21,0,150,Homerton University Hospital NHS Foundation Trust,London,RQX
+2020-09-21,0,9,Hospital Of St John & St Elizabeth - Hospital Of St John & St Elizabeth,London,NMM01
+2020-09-21,0,430,Imperial College Healthcare NHS Trust,London,RYJ
+2020-09-21,0,512,King'S College Hospital NHS Foundation Trust,London,RJZ
+2020-09-21,0,164,Kingston Hospital NHS Foundation Trust,London,RAX
+2020-09-21,0,415,Lewisham And Greenwich NHS Trust,London,RJ2
+2020-09-21,0,617,London North West University Healthcare NHS Trust,London,R1K
+2020-09-21,0,4,Nhs Nightingale Hospital London,London,R1H0A
+2020-09-21,0,46,North East London NHS Foundation Trust,London,RAT
+2020-09-21,0,269,North Middlesex University Hospital NHS Trust,London,RAP
+2020-09-21,0,3,Oxleas NHS Foundation Trust,London,RPG
+2020-09-21,0,49,Royal Brompton & Harefield NHS Foundation Trust,London,RT3
+2020-09-21,0,487,Royal Free London NHS Foundation Trust,London,RAL
+2020-09-21,0,10,Royal Hospital For Neuro-Disability – West Hill,London,NN101
+2020-09-21,0,4,Royal National Orthopaedic Hospital NHS Trust,London,RAN
+2020-09-21,0,2,South London And Maudsley NHS Foundation Trust,London,RV5
+2020-09-21,0,295,St George'S University Hospitals NHS Foundation Trust,London,RJ7
+2020-09-21,0,165,The Hillingdon Hospitals NHS Foundation Trust,London,RAS
+2020-09-21,0,6,The London Clinic - 20 Devonshire Place,London,E8770
+2020-09-21,0,19,The Royal Marsden NHS Foundation Trust,London,RPY
+2020-09-21,0,176,University College London Hospitals NHS Foundation Trust,London,RRV
+2020-09-21,0,4,West London NHS Trust,London,RKL
+2020-09-21,0,111,Whittington Health NHS Trust,London,RKE
+2020-09-21,0,38,Birmingham Community Healthcare NHS Foundation Trust,Midlands,RYW
+2020-09-21,0,133,Chesterfield Royal Hospital NHS Foundation Trust,Midlands,RFS
+2020-09-21,0,18,Derbyshire Community Health Services NHS Foundation Trust,Midlands,RY8
+2020-09-21,0,2,Derbyshire Healthcare NHS Foundation Trust,Midlands,RXM
+2020-09-21,0,178,George Eliot Hospital NHS Trust,Midlands,RLT
+2020-09-21,0,220,Kettering General Hospital NHS Foundation Trust,Midlands,RNQ
+2020-09-21,0,21,Leicestershire Partnership NHS Trust,Midlands,RT5
+2020-09-21,0,4,Lincolnshire Community Health Services NHS Trust,Midlands,RY5
+2020-09-21,0,1,Lincolnshire Partnership NHS Foundation Trust,Midlands,RP7
+2020-09-21,0,12,Midlands Partnership NHS Foundation Trust,Midlands,RRE
+2020-09-21,0,6,North Staffordshire Combined Healthcare NHS Trust,Midlands,RLY
+2020-09-21,0,311,Northampton General Hospital NHS Trust,Midlands,RNS
+2020-09-21,0,15,Northamptonshire Healthcare NHS Foundation Trust,Midlands,RP1
+2020-09-21,0,275,Nottingham University Hospitals NHS Trust,Midlands,RX1
+2020-09-21,0,13,Nottinghamshire Healthcare NHS Foundation Trust,Midlands,RHA
+2020-09-21,0,1,Ramsay Health UK - Nottingham Woodthorpe,Midlands,NVC40
+2020-09-21,0,384,Sandwell And West Birmingham Hospitals NHS Trust,Midlands,RXK
+2020-09-21,0,125,Sherwood Forest Hospitals NHS Foundation Trust,Midlands,RK5
+2020-09-21,0,169,Shrewsbury And Telford Hospital NHS Trust,Midlands,RXW
+2020-09-21,0,15,Shropshire Community Health NHS Trust,Midlands,R1D
+2020-09-21,0,119,South Warwickshire NHS Foundation Trust,Midlands,RJC
+2020-09-21,0,265,The Dudley Group NHS Foundation Trust,Midlands,RNA
+2020-09-21,0,5,The Robert Jones And Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,Midlands,RL1
+2020-09-21,0,15,The Royal Orthopaedic Hospital NHS Foundation Trust,Midlands,RRJ
+2020-09-21,0,288,The Royal Wolverhampton NHS Trust,Midlands,RL4
+2020-09-21,0,144,United Lincolnshire Hospitals NHS Trust,Midlands,RWD
+2020-09-21,0,240,University Hospitals Coventry And Warwickshire NHS Trust,Midlands,RKB
+2020-09-21,0,530,University Hospitals Of Derby And Burton NHS Foundation Trust,Midlands,RTG
+2020-09-21,0,444,University Hospitals Of Leicester NHS Trust,Midlands,RWE
+2020-09-21,0,355,University Hospitals Of North Midlands NHS Trust,Midlands,RJE
+2020-09-21,0,230,Walsall Healthcare NHS Trust,Midlands,RBK
+2020-09-21,0,280,Worcestershire Acute Hospitals NHS Trust,Midlands,RWP
+2020-09-21,0,28,Worcestershire Health And Care NHS Trust,Midlands,R1A
+2020-09-21,0,57,Wye Valley NHS Trust,Midlands,RLQ
+2020-09-21,0,110,Airedale NHS Foundation Trust,North East and Yorkshire,RCF
+2020-09-21,0,149,Barnsley Hospital NHS Foundation Trust,North East and Yorkshire,RFF
+2020-09-21,0,2,Bradford District Care NHS Foundation Trust,North East and Yorkshire,TAD
+2020-09-21,0,252,Bradford Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RAE
+2020-09-21,0,165,Calderdale And Huddersfield NHS Foundation Trust,North East and Yorkshire,RWY
+2020-09-21,0,15,City Health Care Partnership CIC - East Riding Community Hospital,North East and Yorkshire,NNF94
+2020-09-21,0,253,County Durham And Darlington NHS Foundation Trust,North East and Yorkshire,RXP
+2020-09-21,0,7,"Cumbria, Northumberland, Tyne And Wear NHS Foundation Trust",North East and Yorkshire,RX4
+2020-09-21,0,233,Doncaster And Bassetlaw Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RP5
+2020-09-21,0,137,Gateshead Health NHS Foundation Trust,North East and Yorkshire,RR7
+2020-09-21,0,82,Harrogate And District NHS Foundation Trust,North East and Yorkshire,RCD
+2020-09-21,0,210,Hull University Teaching Hospitals NHS Trust,North East and Yorkshire,RWA
+2020-09-21,0,1,Humber Teaching NHS Foundation Trust,North East and Yorkshire,RV9
+2020-09-21,0,4,Leeds And York Partnership NHS Foundation Trust,North East and Yorkshire,RGD
+2020-09-21,0,338,Leeds Teaching Hospitals NHS Trust,North East and Yorkshire,RR8
+2020-09-21,0,343,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
+2020-09-21,0,181,North Cumbria Integrated Care NHS Foundation Trust,North East and Yorkshire,RNN
+2020-09-21,0,142,North Tees And Hartlepool NHS Foundation Trust,North East and Yorkshire,RVW
+2020-09-21,0,205,Northumbria Healthcare NHS Foundation Trust,North East and Yorkshire,RTF
+2020-09-21,0,4,Rotherham Doncaster And South Humber NHS Foundation Trust,North East and Yorkshire,RXE
+2020-09-21,0,1,Sheffield Children'S NHS Foundation Trust,North East and Yorkshire,RCU
+2020-09-21,0,3,Sheffield Health And Social Care NHS Foundation Trust,North East and Yorkshire,TAH
+2020-09-21,0,291,Sheffield Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RHQ
+2020-09-21,0,257,South Tees Hospitals NHS Foundation Trust,North East and Yorkshire,RTR
+2020-09-21,0,329,South Tyneside And Sunderland NHS Foundation Trust,North East and Yorkshire,R0B
+2020-09-21,0,7,"Tees, Esk And Wear Valleys NHS Foundation Trust",North East and Yorkshire,RX3
+2020-09-21,0,121,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,North East and Yorkshire,RTD
+2020-09-21,0,208,The Rotherham NHS Foundation Trust,North East and Yorkshire,RFR
+2020-09-21,0,214,York Teaching Hospital NHS Foundation Trust,North East and Yorkshire,RCB
+2020-09-21,0,4,Alder Hey Children'S NHS Foundation Trust,North West,RBS
+2020-09-21,0,246,Blackpool Teaching Hospitals NHS Foundation Trust,North West,RXL
+2020-09-21,0,235,Bolton NHS Foundation Trust,North West,RMC
+2020-09-21,0,4,Cheshire And Wirral Partnership NHS Foundation Trust,North West,RXA
+2020-09-21,0,227,Countess Of Chester Hospital NHS Foundation Trust,North West,RJR
+2020-09-21,0,146,East Cheshire NHS Trust,North West,RJN
+2020-09-21,0,213,East Lancashire Hospitals NHS Trust,North West,RXR
+2020-09-21,0,9,Greater Manchester Mental Health NHS Foundation Trust,North West,RXV
+2020-09-21,0,252,Lancashire Teaching Hospitals NHS Foundation Trust,North West,RXN
+2020-09-21,0,19,Liverpool Heart And Chest Hospital NHS Foundation Trust,North West,RBQ
+2020-09-21,0,487,Liverpool University Hospitals NHS Foundation Trust,North West,REM
+2020-09-21,0,461,Manchester University NHS Foundation Trust,North West,R0A
+2020-09-21,0,3,Mersey Care NHS Foundation Trust,North West,RW4
+2020-09-21,0,214,Mid Cheshire Hospitals NHS Foundation Trust,North West,RBT
+2020-09-21,0,6,Nhs Nightingale Hospital North West,North West,R0A90
+2020-09-21,0,1,North West Boroughs Healthcare NHS Foundation Trust,North West,RTV
+2020-09-21,0,574,Pennine Acute Hospitals NHS Trust,North West,RW6
+2020-09-21,0,6,Pennine Care NHS Foundation Trust,North West,RT2
+2020-09-21,0,191,Salford Royal NHS Foundation Trust,North West,RM3
+2020-09-21,0,151,Southport And Ormskirk Hospital NHS Trust,North West,RVY
+2020-09-21,0,210,St Helens And Knowsley Teaching Hospitals NHS Trust,North West,RBN
+2020-09-21,0,236,Stockport NHS Foundation Trust,North West,RWJ
+2020-09-21,0,266,Tameside And Glossop Integrated Care NHS Foundation Trust,North West,RMP
+2020-09-21,0,13,The Christie NHS Foundation Trust,North West,RBV
+2020-09-21,0,10,The Walton Centre NHS Foundation Trust,North West,RET
+2020-09-21,0,171,University Hospitals Of Morecambe Bay NHS Foundation Trust,North West,RTX
+2020-09-21,0,141,Warrington And Halton Teaching Hospitals NHS Foundation Trust,North West,RWW
+2020-09-21,0,241,Wirral University Teaching Hospital NHS Foundation Trust,North West,RBL
+2020-09-21,0,253,"Wrightington, Wigan And Leigh NHS Foundation Trust",North West,RRF
+2020-09-21,0,191,Ashford And St Peter'S Hospitals NHS Foundation Trust,South East,RTK
+2020-09-21,0,20,Berkshire Healthcare NHS Foundation Trust,South East,RWX
+2020-09-21,0,2,Bmi Healthcare - Mount Alvernia,South East,NT455
+2020-09-21,0,149,Brighton And Sussex University Hospitals NHS Trust,South East,RXH
+2020-09-21,0,136,Buckinghamshire Healthcare NHS Trust,South East,RXQ
+2020-09-21,0,4,Central Surrey Health - Walton Community Hospital,South East,NTV0S
+2020-09-21,0,1,Central Surrey Health - Woking Community Hospital,South East,NTV0O
+2020-09-21,0,236,Dartford And Gravesham NHS Trust,South East,RN7
+2020-09-21,0,463,East Kent Hospitals University NHS Foundation Trust,South East,RVV
+2020-09-21,0,100,East Sussex Healthcare NHS Trust,South East,RXC
+2020-09-21,0,368,Frimley Health NHS Foundation Trust,South East,RDU
+2020-09-21,0,162,Hampshire Hospitals NHS Foundation Trust,South East,RN5
+2020-09-21,0,40,Isle Of Wight NHS Trust,South East,R1F
+2020-09-21,0,1,Kent And Medway NHS And Social Care Partnership Trust,South East,RXY
+2020-09-21,0,48,Kent Community Health NHS Foundation Trust,South East,RYY
+2020-09-21,0,131,Maidstone And Tunbridge Wells NHS Trust,South East,RWF
+2020-09-21,0,186,Medway NHS Foundation Trust,South East,RPA
+2020-09-21,0,1,Nuffield Health - Woking,South East,NT241
+2020-09-21,0,2,Oldercare (Haslemere) Limited - St Magnus Hospital,South East,8CM63
+2020-09-21,0,23,Oxford Health NHS Foundation Trust,South East,RNU
+2020-09-21,0,182,Oxford University Hospitals NHS Foundation Trust,South East,RTH
+2020-09-21,0,231,Portsmouth Hospitals NHS Trust,South East,RHU
+2020-09-21,0,190,Royal Berkshire NHS Foundation Trust,South East,RHW
+2020-09-21,0,98,Royal Surrey County Hospital NHS Foundation Trust,South East,RA2
+2020-09-21,0,2,Solent NHS Trust,South East,R1C
+2020-09-21,0,17,Southern Health NHS Foundation Trust,South East,RW1
+2020-09-21,0,260,Surrey And Sussex Healthcare NHS Trust,South East,RTP
+2020-09-21,0,18,Sussex Community NHS Foundation Trust,South East,RDR
+2020-09-21,0,199,University Hospital Southampton NHS Foundation Trust,South East,RHM
+2020-09-21,0,1,Virgin Care Services Ltd - Livingstone Community Hospital,South East,NDAJ0
+2020-09-21,0,2,Virgin Care Services Ltd - Sheppey Community Hospital,South East,NDAJ1
+2020-09-21,0,116,Western Sussex Hospitals NHS Foundation Trust,South East,RYR
+2020-09-21,0,26,Cornwall Partnership NHS Foundation Trust,South West,RJ8
+2020-09-21,0,1,Cygnet Health Care Limited,South West,NMJ
+2020-09-21,0,24,Dorset County Hospital NHS Foundation Trust,South West,RBD
+2020-09-21,0,16,Dorset Healthcare University NHS Foundation Trust,South West,RDY
+2020-09-21,0,35,Gloucestershire Health And Care NHS Foundation Trust,South West,RTQ
+2020-09-21,0,195,Gloucestershire Hospitals NHS Foundation Trust,South West,RTE
+2020-09-21,0,129,Great Western Hospitals NHS Foundation Trust,South West,RN3
+2020-09-21,0,2,Livewell Southwest - Mount Gould Hospital,South West,NR527
+2020-09-21,0,120,North Bristol NHS Trust,South West,RVJ
+2020-09-21,0,21,Northern Devon Healthcare NHS Trust,South West,RBZ
+2020-09-21,0,49,Poole Hospital NHS Foundation Trust,South West,RD3
+2020-09-21,0,67,Royal Cornwall Hospitals NHS Trust,South West,REF
+2020-09-21,0,46,Royal Devon And Exeter NHS Foundation Trust,South West,RH8
+2020-09-21,0,68,Royal United Hospitals Bath NHS Foundation Trust,South West,RD1
+2020-09-21,0,56,Salisbury NHS Foundation Trust,South West,RNZ
+2020-09-21,0,43,Somerset NHS Foundation Trust,South West,RBA
+2020-09-21,0,6,Taunton And Somerset NHS Foundation Trust,South West,RBA
+2020-09-21,0,68,The Royal Bournemouth And Christchurch Hospitals NHS Foundation Trust,South West,RDZ
+2020-09-21,0,39,Torbay And South Devon NHS Foundation Trust,South West,RA9
+2020-09-21,0,151,University Hospitals Bristol NHS Foundation Trust,South West,RA7
+2020-09-21,0,81,University Hospitals Plymouth NHS Trust,South West,RK9
+2020-09-21,0,4,Virgin Care Ltd - Paulton Memorial Hospital,South West,NQT5H
+2020-09-21,0,1,Virgin Care Ltd - St Martins Hospital,South West,NQT5K
+2020-09-21,0,2,Weston Area Health NHS Trust,South West,RA3
+2020-09-21,0,2,Wiltshire Health & Care - Chippenham Community Hospital,South West,AXG01
+2020-09-21,0,5,Wiltshire Health & Care - Savernake Community Hospital,South West,AXG02
+2020-09-21,0,2,Wiltshire Health & Care - Warminster Community Hospital,South West,AXG03
+2020-09-21,0,26,Yeovil District Hospital NHS Foundation Trust,South West,RA4
+2020-09-20,3,986,University Hospitals Birmingham NHS Foundation Trust,Midlands,RRK
+2020-09-20,2,343,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
+2020-09-20,1,229,Bedford Hospital NHS Trust,East Of England,RC1
 2020-09-20,1,242,North West Anglia NHS Foundation Trust,East Of England,RGN
+2020-09-20,1,265,The Dudley Group NHS Foundation Trust,Midlands,RNA
+2020-09-20,1,252,Bradford Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RAE
+2020-09-20,1,338,Leeds Teaching Hospitals NHS Trust,North East and Yorkshire,RR8
+2020-09-20,1,121,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,North East and Yorkshire,RTD
 2020-09-20,1,208,The Rotherham NHS Foundation Trust,North East and Yorkshire,RFR
+2020-09-20,1,461,Manchester University NHS Foundation Trust,North West,R0A
 2020-09-20,1,266,Tameside And Glossop Integrated Care NHS Foundation Trust,North West,RMP
+2020-09-20,1,67,Royal Cornwall Hospitals NHS Trust,South West,REF
 2020-09-20,0,4,Anglian Community Enterprise CIC - Clacton Hospital,East Of England,NQ108
 2020-09-20,0,25,Anglian Community Enterprise CIC - Fryatt Hospital,East Of England,NQ106
 2020-09-20,0,308,Basildon And Thurrock University Hospitals NHS Foundation Trust,East Of England,RDD
-2020-09-20,0,228,Bedford Hospital NHS Trust,East Of England,RC1
 2020-09-20,0,125,Cambridge University Hospitals NHS Foundation Trust,East Of England,RGT
 2020-09-20,0,1,Cambridgeshire And Peterborough NHS Foundation Trust,East Of England,RT1
 2020-09-20,0,166,East And North Hertfordshire NHS Trust,East Of England,RWH
@@ -31,12 +259,12 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-20,0,148,"The Queen Elizabeth Hospital, King'S Lynn, NHS Foundation Trust",East Of England,RCX
 2020-09-20,0,374,West Hertfordshire Hospitals NHS Trust,East Of England,RWG
 2020-09-20,0,83,West Suffolk NHS Foundation Trust,East Of England,RGR
-2020-09-20,0,430,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
-2020-09-20,0,630,Barts Health NHS Trust,London,R1H
+2020-09-20,0,431,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
+2020-09-20,0,631,Barts Health NHS Trust,London,R1H
 2020-09-20,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-09-20,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-09-20,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
-2020-09-20,0,300,Croydon Health Services NHS Trust,London,RJ6
+2020-09-20,0,312,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-09-20,0,301,Croydon Health Services NHS Trust,London,RJ6
 2020-09-20,0,17,East London NHS Foundation Trust,London,RWK
 2020-09-20,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
 2020-09-20,0,234,Guy'S And St Thomas' NHS Foundation Trust,London,RJ1
@@ -88,24 +316,21 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-20,0,169,Shrewsbury And Telford Hospital NHS Trust,Midlands,RXW
 2020-09-20,0,15,Shropshire Community Health NHS Trust,Midlands,R1D
 2020-09-20,0,119,South Warwickshire NHS Foundation Trust,Midlands,RJC
-2020-09-20,0,264,The Dudley Group NHS Foundation Trust,Midlands,RNA
 2020-09-20,0,5,The Robert Jones And Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,Midlands,RL1
 2020-09-20,0,15,The Royal Orthopaedic Hospital NHS Foundation Trust,Midlands,RRJ
 2020-09-20,0,288,The Royal Wolverhampton NHS Trust,Midlands,RL4
 2020-09-20,0,144,United Lincolnshire Hospitals NHS Trust,Midlands,RWD
-2020-09-20,0,983,University Hospitals Birmingham NHS Foundation Trust,Midlands,RRK
 2020-09-20,0,240,University Hospitals Coventry And Warwickshire NHS Trust,Midlands,RKB
 2020-09-20,0,530,University Hospitals Of Derby And Burton NHS Foundation Trust,Midlands,RTG
 2020-09-20,0,444,University Hospitals Of Leicester NHS Trust,Midlands,RWE
 2020-09-20,0,355,University Hospitals Of North Midlands NHS Trust,Midlands,RJE
 2020-09-20,0,230,Walsall Healthcare NHS Trust,Midlands,RBK
-2020-09-20,0,279,Worcestershire Acute Hospitals NHS Trust,Midlands,RWP
+2020-09-20,0,280,Worcestershire Acute Hospitals NHS Trust,Midlands,RWP
 2020-09-20,0,28,Worcestershire Health And Care NHS Trust,Midlands,R1A
 2020-09-20,0,57,Wye Valley NHS Trust,Midlands,RLQ
 2020-09-20,0,110,Airedale NHS Foundation Trust,North East and Yorkshire,RCF
 2020-09-20,0,149,Barnsley Hospital NHS Foundation Trust,North East and Yorkshire,RFF
 2020-09-20,0,2,Bradford District Care NHS Foundation Trust,North East and Yorkshire,TAD
-2020-09-20,0,251,Bradford Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RAE
 2020-09-20,0,165,Calderdale And Huddersfield NHS Foundation Trust,North East and Yorkshire,RWY
 2020-09-20,0,15,City Health Care Partnership CIC - East Riding Community Hospital,North East and Yorkshire,NNF94
 2020-09-20,0,253,County Durham And Darlington NHS Foundation Trust,North East and Yorkshire,RXP
@@ -116,8 +341,6 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-20,0,210,Hull University Teaching Hospitals NHS Trust,North East and Yorkshire,RWA
 2020-09-20,0,1,Humber Teaching NHS Foundation Trust,North East and Yorkshire,RV9
 2020-09-20,0,4,Leeds And York Partnership NHS Foundation Trust,North East and Yorkshire,RGD
-2020-09-20,0,337,Leeds Teaching Hospitals NHS Trust,North East and Yorkshire,RR8
-2020-09-20,0,339,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
 2020-09-20,0,181,North Cumbria Integrated Care NHS Foundation Trust,North East and Yorkshire,RNN
 2020-09-20,0,142,North Tees And Hartlepool NHS Foundation Trust,North East and Yorkshire,RVW
 2020-09-20,0,119,Northern Lincolnshire And Goole NHS Foundation Trust,North East and Yorkshire,RJL
@@ -129,29 +352,27 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-20,0,257,South Tees Hospitals NHS Foundation Trust,North East and Yorkshire,RTR
 2020-09-20,0,329,South Tyneside And Sunderland NHS Foundation Trust,North East and Yorkshire,R0B
 2020-09-20,0,7,"Tees, Esk And Wear Valleys NHS Foundation Trust",North East and Yorkshire,RX3
-2020-09-20,0,120,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,North East and Yorkshire,RTD
 2020-09-20,0,214,York Teaching Hospital NHS Foundation Trust,North East and Yorkshire,RCB
 2020-09-20,0,4,Alder Hey Children'S NHS Foundation Trust,North West,RBS
-2020-09-20,0,245,Blackpool Teaching Hospitals NHS Foundation Trust,North West,RXL
-2020-09-20,0,234,Bolton NHS Foundation Trust,North West,RMC
+2020-09-20,0,246,Blackpool Teaching Hospitals NHS Foundation Trust,North West,RXL
+2020-09-20,0,235,Bolton NHS Foundation Trust,North West,RMC
 2020-09-20,0,4,Cheshire And Wirral Partnership NHS Foundation Trust,North West,RXA
 2020-09-20,0,227,Countess Of Chester Hospital NHS Foundation Trust,North West,RJR
 2020-09-20,0,146,East Cheshire NHS Trust,North West,RJN
-2020-09-20,0,212,East Lancashire Hospitals NHS Trust,North West,RXR
+2020-09-20,0,213,East Lancashire Hospitals NHS Trust,North West,RXR
 2020-09-20,0,9,Greater Manchester Mental Health NHS Foundation Trust,North West,RXV
 2020-09-20,0,252,Lancashire Teaching Hospitals NHS Foundation Trust,North West,RXN
 2020-09-20,0,19,Liverpool Heart And Chest Hospital NHS Foundation Trust,North West,RBQ
 2020-09-20,0,487,Liverpool University Hospitals NHS Foundation Trust,North West,REM
-2020-09-20,0,459,Manchester University NHS Foundation Trust,North West,R0A
 2020-09-20,0,3,Mersey Care NHS Foundation Trust,North West,RW4
 2020-09-20,0,214,Mid Cheshire Hospitals NHS Foundation Trust,North West,RBT
 2020-09-20,0,6,Nhs Nightingale Hospital North West,North West,R0A90
 2020-09-20,0,1,North West Boroughs Healthcare NHS Foundation Trust,North West,RTV
-2020-09-20,0,573,Pennine Acute Hospitals NHS Trust,North West,RW6
+2020-09-20,0,574,Pennine Acute Hospitals NHS Trust,North West,RW6
 2020-09-20,0,6,Pennine Care NHS Foundation Trust,North West,RT2
 2020-09-20,0,191,Salford Royal NHS Foundation Trust,North West,RM3
 2020-09-20,0,151,Southport And Ormskirk Hospital NHS Trust,North West,RVY
-2020-09-20,0,209,St Helens And Knowsley Teaching Hospitals NHS Trust,North West,RBN
+2020-09-20,0,210,St Helens And Knowsley Teaching Hospitals NHS Trust,North West,RBN
 2020-09-20,0,236,Stockport NHS Foundation Trust,North West,RWJ
 2020-09-20,0,13,The Christie NHS Foundation Trust,North West,RBV
 2020-09-20,0,10,The Walton Centre NHS Foundation Trust,North West,RET
@@ -197,12 +418,11 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-20,0,16,Dorset Healthcare University NHS Foundation Trust,South West,RDY
 2020-09-20,0,35,Gloucestershire Health And Care NHS Foundation Trust,South West,RTQ
 2020-09-20,0,195,Gloucestershire Hospitals NHS Foundation Trust,South West,RTE
-2020-09-20,0,128,Great Western Hospitals NHS Foundation Trust,South West,RN3
+2020-09-20,0,129,Great Western Hospitals NHS Foundation Trust,South West,RN3
 2020-09-20,0,2,Livewell Southwest - Mount Gould Hospital,South West,NR527
 2020-09-20,0,120,North Bristol NHS Trust,South West,RVJ
 2020-09-20,0,21,Northern Devon Healthcare NHS Trust,South West,RBZ
 2020-09-20,0,49,Poole Hospital NHS Foundation Trust,South West,RD3
-2020-09-20,0,66,Royal Cornwall Hospitals NHS Trust,South West,REF
 2020-09-20,0,46,Royal Devon And Exeter NHS Foundation Trust,South West,RH8
 2020-09-20,0,68,Royal United Hospitals Bath NHS Foundation Trust,South West,RD1
 2020-09-20,0,56,Salisbury NHS Foundation Trust,South West,RNZ
@@ -219,7 +439,8 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-20,0,5,Wiltshire Health & Care - Savernake Community Hospital,South West,AXG02
 2020-09-20,0,2,Wiltshire Health & Care - Warminster Community Hospital,South West,AXG03
 2020-09-20,0,26,Yeovil District Hospital NHS Foundation Trust,South West,RA4
-2020-09-19,1,630,Barts Health NHS Trust,London,R1H
+2020-09-19,2,631,Barts Health NHS Trust,London,R1H
+2020-09-19,1,431,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
 2020-09-19,1,384,Sandwell And West Birmingham Hospitals NHS Trust,Midlands,RXK
 2020-09-19,1,251,Bradford Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RAE
 2020-09-19,1,329,South Tyneside And Sunderland NHS Foundation Trust,North East and Yorkshire,R0B
@@ -255,11 +476,10 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-19,0,148,"The Queen Elizabeth Hospital, King'S Lynn, NHS Foundation Trust",East Of England,RCX
 2020-09-19,0,374,West Hertfordshire Hospitals NHS Trust,East Of England,RWG
 2020-09-19,0,83,West Suffolk NHS Foundation Trust,East Of England,RGR
-2020-09-19,0,430,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
 2020-09-19,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-09-19,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-09-19,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
-2020-09-19,0,300,Croydon Health Services NHS Trust,London,RJ6
+2020-09-19,0,312,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-09-19,0,301,Croydon Health Services NHS Trust,London,RJ6
 2020-09-19,0,17,East London NHS Foundation Trust,London,RWK
 2020-09-19,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
 2020-09-19,0,234,Guy'S And St Thomas' NHS Foundation Trust,London,RJ1
@@ -321,7 +541,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-19,0,444,University Hospitals Of Leicester NHS Trust,Midlands,RWE
 2020-09-19,0,355,University Hospitals Of North Midlands NHS Trust,Midlands,RJE
 2020-09-19,0,230,Walsall Healthcare NHS Trust,Midlands,RBK
-2020-09-19,0,279,Worcestershire Acute Hospitals NHS Trust,Midlands,RWP
+2020-09-19,0,280,Worcestershire Acute Hospitals NHS Trust,Midlands,RWP
 2020-09-19,0,28,Worcestershire Health And Care NHS Trust,Midlands,R1A
 2020-09-19,0,57,Wye Valley NHS Trust,Midlands,RLQ
 2020-09-19,0,110,Airedale NHS Foundation Trust,North East and Yorkshire,RCF
@@ -338,7 +558,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-19,0,1,Humber Teaching NHS Foundation Trust,North East and Yorkshire,RV9
 2020-09-19,0,4,Leeds And York Partnership NHS Foundation Trust,North East and Yorkshire,RGD
 2020-09-19,0,337,Leeds Teaching Hospitals NHS Trust,North East and Yorkshire,RR8
-2020-09-19,0,339,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
+2020-09-19,0,341,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
 2020-09-19,0,181,North Cumbria Integrated Care NHS Foundation Trust,North East and Yorkshire,RNN
 2020-09-19,0,142,North Tees And Hartlepool NHS Foundation Trust,North East and Yorkshire,RVW
 2020-09-19,0,119,Northern Lincolnshire And Goole NHS Foundation Trust,North East and Yorkshire,RJL
@@ -353,26 +573,26 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-19,0,207,The Rotherham NHS Foundation Trust,North East and Yorkshire,RFR
 2020-09-19,0,214,York Teaching Hospital NHS Foundation Trust,North East and Yorkshire,RCB
 2020-09-19,0,4,Alder Hey Children'S NHS Foundation Trust,North West,RBS
-2020-09-19,0,245,Blackpool Teaching Hospitals NHS Foundation Trust,North West,RXL
-2020-09-19,0,234,Bolton NHS Foundation Trust,North West,RMC
+2020-09-19,0,246,Blackpool Teaching Hospitals NHS Foundation Trust,North West,RXL
+2020-09-19,0,235,Bolton NHS Foundation Trust,North West,RMC
 2020-09-19,0,4,Cheshire And Wirral Partnership NHS Foundation Trust,North West,RXA
 2020-09-19,0,227,Countess Of Chester Hospital NHS Foundation Trust,North West,RJR
 2020-09-19,0,146,East Cheshire NHS Trust,North West,RJN
-2020-09-19,0,212,East Lancashire Hospitals NHS Trust,North West,RXR
+2020-09-19,0,213,East Lancashire Hospitals NHS Trust,North West,RXR
 2020-09-19,0,9,Greater Manchester Mental Health NHS Foundation Trust,North West,RXV
 2020-09-19,0,252,Lancashire Teaching Hospitals NHS Foundation Trust,North West,RXN
 2020-09-19,0,19,Liverpool Heart And Chest Hospital NHS Foundation Trust,North West,RBQ
 2020-09-19,0,487,Liverpool University Hospitals NHS Foundation Trust,North West,REM
-2020-09-19,0,459,Manchester University NHS Foundation Trust,North West,R0A
+2020-09-19,0,460,Manchester University NHS Foundation Trust,North West,R0A
 2020-09-19,0,3,Mersey Care NHS Foundation Trust,North West,RW4
 2020-09-19,0,214,Mid Cheshire Hospitals NHS Foundation Trust,North West,RBT
 2020-09-19,0,6,Nhs Nightingale Hospital North West,North West,R0A90
 2020-09-19,0,1,North West Boroughs Healthcare NHS Foundation Trust,North West,RTV
-2020-09-19,0,573,Pennine Acute Hospitals NHS Trust,North West,RW6
+2020-09-19,0,574,Pennine Acute Hospitals NHS Trust,North West,RW6
 2020-09-19,0,6,Pennine Care NHS Foundation Trust,North West,RT2
 2020-09-19,0,191,Salford Royal NHS Foundation Trust,North West,RM3
 2020-09-19,0,151,Southport And Ormskirk Hospital NHS Trust,North West,RVY
-2020-09-19,0,209,St Helens And Knowsley Teaching Hospitals NHS Trust,North West,RBN
+2020-09-19,0,210,St Helens And Knowsley Teaching Hospitals NHS Trust,North West,RBN
 2020-09-19,0,236,Stockport NHS Foundation Trust,North West,RWJ
 2020-09-19,0,13,The Christie NHS Foundation Trust,North West,RBV
 2020-09-19,0,10,The Walton Centre NHS Foundation Trust,North West,RET
@@ -417,7 +637,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-19,0,16,Dorset Healthcare University NHS Foundation Trust,South West,RDY
 2020-09-19,0,35,Gloucestershire Health And Care NHS Foundation Trust,South West,RTQ
 2020-09-19,0,195,Gloucestershire Hospitals NHS Foundation Trust,South West,RTE
-2020-09-19,0,128,Great Western Hospitals NHS Foundation Trust,South West,RN3
+2020-09-19,0,129,Great Western Hospitals NHS Foundation Trust,South West,RN3
 2020-09-19,0,2,Livewell Southwest - Mount Gould Hospital,South West,NR527
 2020-09-19,0,120,North Bristol NHS Trust,South West,RVJ
 2020-09-19,0,21,Northern Devon Healthcare NHS Trust,South West,RBZ
@@ -441,13 +661,17 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-19,0,26,Yeovil District Hospital NHS Foundation Trust,South West,RA4
 2020-09-18,1,629,Barts Health NHS Trust,London,R1H
 2020-09-18,1,983,University Hospitals Birmingham NHS Foundation Trust,Midlands,RRK
+2020-09-18,1,280,Worcestershire Acute Hospitals NHS Trust,Midlands,RWP
 2020-09-18,1,165,Calderdale And Huddersfield NHS Foundation Trust,North East and Yorkshire,RWY
 2020-09-18,1,205,Northumbria Healthcare NHS Foundation Trust,North East and Yorkshire,RTF
 2020-09-18,1,3,Sheffield Health And Social Care NHS Foundation Trust,North East and Yorkshire,TAH
 2020-09-18,1,328,South Tyneside And Sunderland NHS Foundation Trust,North East and Yorkshire,R0B
 2020-09-18,1,120,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,North East and Yorkshire,RTD
+2020-09-18,1,235,Bolton NHS Foundation Trust,North West,RMC
 2020-09-18,1,487,Liverpool University Hospitals NHS Foundation Trust,North West,REM
-2020-09-18,1,573,Pennine Acute Hospitals NHS Trust,North West,RW6
+2020-09-18,1,460,Manchester University NHS Foundation Trust,North West,R0A
+2020-09-18,1,574,Pennine Acute Hospitals NHS Trust,North West,RW6
+2020-09-18,1,210,St Helens And Knowsley Teaching Hospitals NHS Trust,North West,RBN
 2020-09-18,0,4,Anglian Community Enterprise CIC - Clacton Hospital,East Of England,NQ108
 2020-09-18,0,25,Anglian Community Enterprise CIC - Fryatt Hospital,East Of England,NQ106
 2020-09-18,0,308,Basildon And Thurrock University Hospitals NHS Foundation Trust,East Of England,RDD
@@ -481,8 +705,8 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-18,0,430,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
 2020-09-18,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-09-18,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-09-18,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
-2020-09-18,0,300,Croydon Health Services NHS Trust,London,RJ6
+2020-09-18,0,312,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-09-18,0,301,Croydon Health Services NHS Trust,London,RJ6
 2020-09-18,0,17,East London NHS Foundation Trust,London,RWK
 2020-09-18,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
 2020-09-18,0,234,Guy'S And St Thomas' NHS Foundation Trust,London,RJ1
@@ -544,7 +768,6 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-18,0,444,University Hospitals Of Leicester NHS Trust,Midlands,RWE
 2020-09-18,0,355,University Hospitals Of North Midlands NHS Trust,Midlands,RJE
 2020-09-18,0,230,Walsall Healthcare NHS Trust,Midlands,RBK
-2020-09-18,0,279,Worcestershire Acute Hospitals NHS Trust,Midlands,RWP
 2020-09-18,0,28,Worcestershire Health And Care NHS Trust,Midlands,R1A
 2020-09-18,0,57,Wye Valley NHS Trust,Midlands,RLQ
 2020-09-18,0,110,Airedale NHS Foundation Trust,North East and Yorkshire,RCF
@@ -561,7 +784,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-18,0,1,Humber Teaching NHS Foundation Trust,North East and Yorkshire,RV9
 2020-09-18,0,4,Leeds And York Partnership NHS Foundation Trust,North East and Yorkshire,RGD
 2020-09-18,0,337,Leeds Teaching Hospitals NHS Trust,North East and Yorkshire,RR8
-2020-09-18,0,339,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
+2020-09-18,0,341,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
 2020-09-18,0,181,North Cumbria Integrated Care NHS Foundation Trust,North East and Yorkshire,RNN
 2020-09-18,0,142,North Tees And Hartlepool NHS Foundation Trust,North East and Yorkshire,RVW
 2020-09-18,0,119,Northern Lincolnshire And Goole NHS Foundation Trust,North East and Yorkshire,RJL
@@ -573,16 +796,14 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-18,0,207,The Rotherham NHS Foundation Trust,North East and Yorkshire,RFR
 2020-09-18,0,214,York Teaching Hospital NHS Foundation Trust,North East and Yorkshire,RCB
 2020-09-18,0,4,Alder Hey Children'S NHS Foundation Trust,North West,RBS
-2020-09-18,0,245,Blackpool Teaching Hospitals NHS Foundation Trust,North West,RXL
-2020-09-18,0,234,Bolton NHS Foundation Trust,North West,RMC
+2020-09-18,0,246,Blackpool Teaching Hospitals NHS Foundation Trust,North West,RXL
 2020-09-18,0,4,Cheshire And Wirral Partnership NHS Foundation Trust,North West,RXA
 2020-09-18,0,227,Countess Of Chester Hospital NHS Foundation Trust,North West,RJR
 2020-09-18,0,146,East Cheshire NHS Trust,North West,RJN
-2020-09-18,0,212,East Lancashire Hospitals NHS Trust,North West,RXR
+2020-09-18,0,213,East Lancashire Hospitals NHS Trust,North West,RXR
 2020-09-18,0,9,Greater Manchester Mental Health NHS Foundation Trust,North West,RXV
 2020-09-18,0,252,Lancashire Teaching Hospitals NHS Foundation Trust,North West,RXN
 2020-09-18,0,19,Liverpool Heart And Chest Hospital NHS Foundation Trust,North West,RBQ
-2020-09-18,0,459,Manchester University NHS Foundation Trust,North West,R0A
 2020-09-18,0,3,Mersey Care NHS Foundation Trust,North West,RW4
 2020-09-18,0,214,Mid Cheshire Hospitals NHS Foundation Trust,North West,RBT
 2020-09-18,0,6,Nhs Nightingale Hospital North West,North West,R0A90
@@ -590,7 +811,6 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-18,0,6,Pennine Care NHS Foundation Trust,North West,RT2
 2020-09-18,0,191,Salford Royal NHS Foundation Trust,North West,RM3
 2020-09-18,0,151,Southport And Ormskirk Hospital NHS Trust,North West,RVY
-2020-09-18,0,209,St Helens And Knowsley Teaching Hospitals NHS Trust,North West,RBN
 2020-09-18,0,236,Stockport NHS Foundation Trust,North West,RWJ
 2020-09-18,0,264,Tameside And Glossop Integrated Care NHS Foundation Trust,North West,RMP
 2020-09-18,0,13,The Christie NHS Foundation Trust,North West,RBV
@@ -637,7 +857,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-18,0,16,Dorset Healthcare University NHS Foundation Trust,South West,RDY
 2020-09-18,0,35,Gloucestershire Health And Care NHS Foundation Trust,South West,RTQ
 2020-09-18,0,195,Gloucestershire Hospitals NHS Foundation Trust,South West,RTE
-2020-09-18,0,128,Great Western Hospitals NHS Foundation Trust,South West,RN3
+2020-09-18,0,129,Great Western Hospitals NHS Foundation Trust,South West,RN3
 2020-09-18,0,2,Livewell Southwest - Mount Gould Hospital,South West,NR527
 2020-09-18,0,120,North Bristol NHS Trust,South West,RVJ
 2020-09-18,0,21,Northern Devon Healthcare NHS Trust,South West,RBZ
@@ -663,12 +883,16 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-17,2,119,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,North East and Yorkshire,RTD
 2020-09-17,2,264,Tameside And Glossop Integrated Care NHS Foundation Trust,North West,RMP
 2020-09-17,1,430,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
+2020-09-17,1,301,Croydon Health Services NHS Trust,London,RJ6
 2020-09-17,1,982,University Hospitals Birmingham NHS Foundation Trust,Midlands,RRK
 2020-09-17,1,327,South Tyneside And Sunderland NHS Foundation Trust,North East and Yorkshire,R0B
+2020-09-17,1,213,East Lancashire Hospitals NHS Trust,North West,RXR
 2020-09-17,1,486,Liverpool University Hospitals NHS Foundation Trust,North West,REM
 2020-09-17,1,459,Manchester University NHS Foundation Trust,North West,R0A
+2020-09-17,1,573,Pennine Acute Hospitals NHS Trust,North West,RW6
 2020-09-17,1,236,Stockport NHS Foundation Trust,North West,RWJ
 2020-09-17,1,368,Frimley Health NHS Foundation Trust,South East,RDU
+2020-09-17,1,129,Great Western Hospitals NHS Foundation Trust,South West,RN3
 2020-09-17,0,4,Anglian Community Enterprise CIC - Clacton Hospital,East Of England,NQ108
 2020-09-17,0,25,Anglian Community Enterprise CIC - Fryatt Hospital,East Of England,NQ106
 2020-09-17,0,308,Basildon And Thurrock University Hospitals NHS Foundation Trust,East Of England,RDD
@@ -702,8 +926,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-17,0,628,Barts Health NHS Trust,London,R1H
 2020-09-17,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-09-17,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-09-17,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
-2020-09-17,0,300,Croydon Health Services NHS Trust,London,RJ6
+2020-09-17,0,312,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-09-17,0,17,East London NHS Foundation Trust,London,RWK
 2020-09-17,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
 2020-09-17,0,234,Guy'S And St Thomas' NHS Foundation Trust,London,RJ1
@@ -782,7 +1005,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-17,0,1,Humber Teaching NHS Foundation Trust,North East and Yorkshire,RV9
 2020-09-17,0,4,Leeds And York Partnership NHS Foundation Trust,North East and Yorkshire,RGD
 2020-09-17,0,337,Leeds Teaching Hospitals NHS Trust,North East and Yorkshire,RR8
-2020-09-17,0,339,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
+2020-09-17,0,341,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
 2020-09-17,0,181,North Cumbria Integrated Care NHS Foundation Trust,North East and Yorkshire,RNN
 2020-09-17,0,142,North Tees And Hartlepool NHS Foundation Trust,North East and Yorkshire,RVW
 2020-09-17,0,119,Northern Lincolnshire And Goole NHS Foundation Trust,North East and Yorkshire,RJL
@@ -796,12 +1019,11 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-17,0,207,The Rotherham NHS Foundation Trust,North East and Yorkshire,RFR
 2020-09-17,0,214,York Teaching Hospital NHS Foundation Trust,North East and Yorkshire,RCB
 2020-09-17,0,4,Alder Hey Children'S NHS Foundation Trust,North West,RBS
-2020-09-17,0,245,Blackpool Teaching Hospitals NHS Foundation Trust,North West,RXL
+2020-09-17,0,246,Blackpool Teaching Hospitals NHS Foundation Trust,North West,RXL
 2020-09-17,0,234,Bolton NHS Foundation Trust,North West,RMC
 2020-09-17,0,4,Cheshire And Wirral Partnership NHS Foundation Trust,North West,RXA
 2020-09-17,0,227,Countess Of Chester Hospital NHS Foundation Trust,North West,RJR
 2020-09-17,0,146,East Cheshire NHS Trust,North West,RJN
-2020-09-17,0,212,East Lancashire Hospitals NHS Trust,North West,RXR
 2020-09-17,0,9,Greater Manchester Mental Health NHS Foundation Trust,North West,RXV
 2020-09-17,0,252,Lancashire Teaching Hospitals NHS Foundation Trust,North West,RXN
 2020-09-17,0,19,Liverpool Heart And Chest Hospital NHS Foundation Trust,North West,RBQ
@@ -809,7 +1031,6 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-17,0,214,Mid Cheshire Hospitals NHS Foundation Trust,North West,RBT
 2020-09-17,0,6,Nhs Nightingale Hospital North West,North West,R0A90
 2020-09-17,0,1,North West Boroughs Healthcare NHS Foundation Trust,North West,RTV
-2020-09-17,0,572,Pennine Acute Hospitals NHS Trust,North West,RW6
 2020-09-17,0,6,Pennine Care NHS Foundation Trust,North West,RT2
 2020-09-17,0,191,Salford Royal NHS Foundation Trust,North West,RM3
 2020-09-17,0,151,Southport And Ormskirk Hospital NHS Trust,North West,RVY
@@ -857,7 +1078,6 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-17,0,16,Dorset Healthcare University NHS Foundation Trust,South West,RDY
 2020-09-17,0,35,Gloucestershire Health And Care NHS Foundation Trust,South West,RTQ
 2020-09-17,0,195,Gloucestershire Hospitals NHS Foundation Trust,South West,RTE
-2020-09-17,0,128,Great Western Hospitals NHS Foundation Trust,South West,RN3
 2020-09-17,0,2,Livewell Southwest - Mount Gould Hospital,South West,NR527
 2020-09-17,0,120,North Bristol NHS Trust,South West,RVJ
 2020-09-17,0,21,Northern Devon Healthcare NHS Trust,South West,RBZ
@@ -926,7 +1146,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-16,0,628,Barts Health NHS Trust,London,R1H
 2020-09-16,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-09-16,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-09-16,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-09-16,0,312,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-09-16,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-09-16,0,17,East London NHS Foundation Trust,London,RWK
 2020-09-16,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -1003,7 +1223,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-16,0,1,Humber Teaching NHS Foundation Trust,North East and Yorkshire,RV9
 2020-09-16,0,4,Leeds And York Partnership NHS Foundation Trust,North East and Yorkshire,RGD
 2020-09-16,0,337,Leeds Teaching Hospitals NHS Trust,North East and Yorkshire,RR8
-2020-09-16,0,339,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
+2020-09-16,0,341,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
 2020-09-16,0,181,North Cumbria Integrated Care NHS Foundation Trust,North East and Yorkshire,RNN
 2020-09-16,0,142,North Tees And Hartlepool NHS Foundation Trust,North East and Yorkshire,RVW
 2020-09-16,0,119,Northern Lincolnshire And Goole NHS Foundation Trust,North East and Yorkshire,RJL
@@ -1018,7 +1238,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-16,0,207,The Rotherham NHS Foundation Trust,North East and Yorkshire,RFR
 2020-09-16,0,214,York Teaching Hospital NHS Foundation Trust,North East and Yorkshire,RCB
 2020-09-16,0,4,Alder Hey Children'S NHS Foundation Trust,North West,RBS
-2020-09-16,0,245,Blackpool Teaching Hospitals NHS Foundation Trust,North West,RXL
+2020-09-16,0,246,Blackpool Teaching Hospitals NHS Foundation Trust,North West,RXL
 2020-09-16,0,4,Cheshire And Wirral Partnership NHS Foundation Trust,North West,RXA
 2020-09-16,0,227,Countess Of Chester Hospital NHS Foundation Trust,North West,RJR
 2020-09-16,0,146,East Cheshire NHS Trust,North West,RJN
@@ -1145,7 +1365,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-15,0,628,Barts Health NHS Trust,London,R1H
 2020-09-15,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-09-15,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-09-15,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-09-15,0,312,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-09-15,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-09-15,0,17,East London NHS Foundation Trust,London,RWK
 2020-09-15,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -1223,7 +1443,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-15,0,1,Humber Teaching NHS Foundation Trust,North East and Yorkshire,RV9
 2020-09-15,0,4,Leeds And York Partnership NHS Foundation Trust,North East and Yorkshire,RGD
 2020-09-15,0,337,Leeds Teaching Hospitals NHS Trust,North East and Yorkshire,RR8
-2020-09-15,0,339,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
+2020-09-15,0,341,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
 2020-09-15,0,181,North Cumbria Integrated Care NHS Foundation Trust,North East and Yorkshire,RNN
 2020-09-15,0,142,North Tees And Hartlepool NHS Foundation Trust,North East and Yorkshire,RVW
 2020-09-15,0,119,Northern Lincolnshire And Goole NHS Foundation Trust,North East and Yorkshire,RJL
@@ -1237,7 +1457,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-15,0,117,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,North East and Yorkshire,RTD
 2020-09-15,0,214,York Teaching Hospital NHS Foundation Trust,North East and Yorkshire,RCB
 2020-09-15,0,4,Alder Hey Children'S NHS Foundation Trust,North West,RBS
-2020-09-15,0,245,Blackpool Teaching Hospitals NHS Foundation Trust,North West,RXL
+2020-09-15,0,246,Blackpool Teaching Hospitals NHS Foundation Trust,North West,RXL
 2020-09-15,0,233,Bolton NHS Foundation Trust,North West,RMC
 2020-09-15,0,4,Cheshire And Wirral Partnership NHS Foundation Trust,North West,RXA
 2020-09-15,0,227,Countess Of Chester Hospital NHS Foundation Trust,North West,RJR
@@ -1323,7 +1543,9 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-14,1,529,University Hospitals Of Derby And Burton NHS Foundation Trust,Midlands,RTG
 2020-09-14,1,247,Bradford Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RAE
 2020-09-14,1,210,Hull University Teaching Hospitals NHS Trust,North East and Yorkshire,RWA
+2020-09-14,1,341,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
 2020-09-14,1,257,South Tees Hospitals NHS Foundation Trust,North East and Yorkshire,RTR
+2020-09-14,1,246,Blackpool Teaching Hospitals NHS Foundation Trust,North West,RXL
 2020-09-14,1,235,Stockport NHS Foundation Trust,North West,RWJ
 2020-09-14,1,261,Tameside And Glossop Integrated Care NHS Foundation Trust,North West,RMP
 2020-09-14,1,140,Warrington And Halton Teaching Hospitals NHS Foundation Trust,North West,RWW
@@ -1361,7 +1583,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-14,0,628,Barts Health NHS Trust,London,R1H
 2020-09-14,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-09-14,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-09-14,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-09-14,0,312,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-09-14,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-09-14,0,17,East London NHS Foundation Trust,London,RWK
 2020-09-14,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -1440,7 +1662,6 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-14,0,1,Humber Teaching NHS Foundation Trust,North East and Yorkshire,RV9
 2020-09-14,0,4,Leeds And York Partnership NHS Foundation Trust,North East and Yorkshire,RGD
 2020-09-14,0,337,Leeds Teaching Hospitals NHS Trust,North East and Yorkshire,RR8
-2020-09-14,0,339,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
 2020-09-14,0,181,North Cumbria Integrated Care NHS Foundation Trust,North East and Yorkshire,RNN
 2020-09-14,0,142,North Tees And Hartlepool NHS Foundation Trust,North East and Yorkshire,RVW
 2020-09-14,0,119,Northern Lincolnshire And Goole NHS Foundation Trust,North East and Yorkshire,RJL
@@ -1455,7 +1676,6 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-14,0,206,The Rotherham NHS Foundation Trust,North East and Yorkshire,RFR
 2020-09-14,0,214,York Teaching Hospital NHS Foundation Trust,North East and Yorkshire,RCB
 2020-09-14,0,4,Alder Hey Children'S NHS Foundation Trust,North West,RBS
-2020-09-14,0,245,Blackpool Teaching Hospitals NHS Foundation Trust,North West,RXL
 2020-09-14,0,233,Bolton NHS Foundation Trust,North West,RMC
 2020-09-14,0,4,Cheshire And Wirral Partnership NHS Foundation Trust,North West,RXA
 2020-09-14,0,227,Countess Of Chester Hospital NHS Foundation Trust,North West,RJR
@@ -1584,7 +1804,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-13,0,628,Barts Health NHS Trust,London,R1H
 2020-09-13,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-09-13,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-09-13,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-09-13,0,312,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-09-13,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-09-13,0,17,East London NHS Foundation Trust,London,RWK
 2020-09-13,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -1662,7 +1882,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-13,0,1,Humber Teaching NHS Foundation Trust,North East and Yorkshire,RV9
 2020-09-13,0,4,Leeds And York Partnership NHS Foundation Trust,North East and Yorkshire,RGD
 2020-09-13,0,337,Leeds Teaching Hospitals NHS Trust,North East and Yorkshire,RR8
-2020-09-13,0,339,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
+2020-09-13,0,340,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
 2020-09-13,0,181,North Cumbria Integrated Care NHS Foundation Trust,North East and Yorkshire,RNN
 2020-09-13,0,142,North Tees And Hartlepool NHS Foundation Trust,North East and Yorkshire,RVW
 2020-09-13,0,119,Northern Lincolnshire And Goole NHS Foundation Trust,North East and Yorkshire,RJL
@@ -1798,7 +2018,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-12,0,628,Barts Health NHS Trust,London,R1H
 2020-09-12,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-09-12,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-09-12,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-09-12,0,312,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-09-12,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-09-12,0,17,East London NHS Foundation Trust,London,RWK
 2020-09-12,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -1877,7 +2097,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-12,0,1,Humber Teaching NHS Foundation Trust,North East and Yorkshire,RV9
 2020-09-12,0,4,Leeds And York Partnership NHS Foundation Trust,North East and Yorkshire,RGD
 2020-09-12,0,337,Leeds Teaching Hospitals NHS Trust,North East and Yorkshire,RR8
-2020-09-12,0,339,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
+2020-09-12,0,340,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
 2020-09-12,0,181,North Cumbria Integrated Care NHS Foundation Trust,North East and Yorkshire,RNN
 2020-09-12,0,142,North Tees And Hartlepool NHS Foundation Trust,North East and Yorkshire,RVW
 2020-09-12,0,119,Northern Lincolnshire And Goole NHS Foundation Trust,North East and Yorkshire,RJL
@@ -2018,7 +2238,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-11,0,628,Barts Health NHS Trust,London,R1H
 2020-09-11,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-09-11,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-09-11,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-09-11,0,312,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-09-11,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-09-11,0,17,East London NHS Foundation Trust,London,RWK
 2020-09-11,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -2097,7 +2317,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-11,0,1,Humber Teaching NHS Foundation Trust,North East and Yorkshire,RV9
 2020-09-11,0,4,Leeds And York Partnership NHS Foundation Trust,North East and Yorkshire,RGD
 2020-09-11,0,337,Leeds Teaching Hospitals NHS Trust,North East and Yorkshire,RR8
-2020-09-11,0,339,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
+2020-09-11,0,340,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
 2020-09-11,0,181,North Cumbria Integrated Care NHS Foundation Trust,North East and Yorkshire,RNN
 2020-09-11,0,142,North Tees And Hartlepool NHS Foundation Trust,North East and Yorkshire,RVW
 2020-09-11,0,119,Northern Lincolnshire And Goole NHS Foundation Trust,North East and Yorkshire,RJL
@@ -2238,7 +2458,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-10,0,628,Barts Health NHS Trust,London,R1H
 2020-09-10,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-09-10,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-09-10,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-09-10,0,312,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-09-10,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-09-10,0,17,East London NHS Foundation Trust,London,RWK
 2020-09-10,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -2319,7 +2539,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-10,0,1,Humber Teaching NHS Foundation Trust,North East and Yorkshire,RV9
 2020-09-10,0,4,Leeds And York Partnership NHS Foundation Trust,North East and Yorkshire,RGD
 2020-09-10,0,337,Leeds Teaching Hospitals NHS Trust,North East and Yorkshire,RR8
-2020-09-10,0,339,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
+2020-09-10,0,340,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
 2020-09-10,0,181,North Cumbria Integrated Care NHS Foundation Trust,North East and Yorkshire,RNN
 2020-09-10,0,142,North Tees And Hartlepool NHS Foundation Trust,North East and Yorkshire,RVW
 2020-09-10,0,119,Northern Lincolnshire And Goole NHS Foundation Trust,North East and Yorkshire,RJL
@@ -2459,7 +2679,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-09,0,628,Barts Health NHS Trust,London,R1H
 2020-09-09,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-09-09,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-09-09,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-09-09,0,312,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-09-09,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-09-09,0,17,East London NHS Foundation Trust,London,RWK
 2020-09-09,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -2539,7 +2759,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-09,0,209,Hull University Teaching Hospitals NHS Trust,North East and Yorkshire,RWA
 2020-09-09,0,1,Humber Teaching NHS Foundation Trust,North East and Yorkshire,RV9
 2020-09-09,0,4,Leeds And York Partnership NHS Foundation Trust,North East and Yorkshire,RGD
-2020-09-09,0,339,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
+2020-09-09,0,340,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
 2020-09-09,0,181,North Cumbria Integrated Care NHS Foundation Trust,North East and Yorkshire,RNN
 2020-09-09,0,142,North Tees And Hartlepool NHS Foundation Trust,North East and Yorkshire,RVW
 2020-09-09,0,119,Northern Lincolnshire And Goole NHS Foundation Trust,North East and Yorkshire,RJL
@@ -2680,7 +2900,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-08,0,628,Barts Health NHS Trust,London,R1H
 2020-09-08,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-09-08,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-09-08,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-09-08,0,312,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-09-08,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-09-08,0,17,East London NHS Foundation Trust,London,RWK
 2020-09-08,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -2759,7 +2979,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-08,0,1,Humber Teaching NHS Foundation Trust,North East and Yorkshire,RV9
 2020-09-08,0,4,Leeds And York Partnership NHS Foundation Trust,North East and Yorkshire,RGD
 2020-09-08,0,336,Leeds Teaching Hospitals NHS Trust,North East and Yorkshire,RR8
-2020-09-08,0,339,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
+2020-09-08,0,340,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
 2020-09-08,0,181,North Cumbria Integrated Care NHS Foundation Trust,North East and Yorkshire,RNN
 2020-09-08,0,142,North Tees And Hartlepool NHS Foundation Trust,North East and Yorkshire,RVW
 2020-09-08,0,119,Northern Lincolnshire And Goole NHS Foundation Trust,North East and Yorkshire,RJL
@@ -2897,7 +3117,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-07,0,628,Barts Health NHS Trust,London,R1H
 2020-09-07,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-09-07,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-09-07,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-09-07,0,312,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-09-07,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-09-07,0,17,East London NHS Foundation Trust,London,RWK
 2020-09-07,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -2978,7 +3198,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-07,0,1,Humber Teaching NHS Foundation Trust,North East and Yorkshire,RV9
 2020-09-07,0,4,Leeds And York Partnership NHS Foundation Trust,North East and Yorkshire,RGD
 2020-09-07,0,336,Leeds Teaching Hospitals NHS Trust,North East and Yorkshire,RR8
-2020-09-07,0,339,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
+2020-09-07,0,340,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
 2020-09-07,0,181,North Cumbria Integrated Care NHS Foundation Trust,North East and Yorkshire,RNN
 2020-09-07,0,142,North Tees And Hartlepool NHS Foundation Trust,North East and Yorkshire,RVW
 2020-09-07,0,119,Northern Lincolnshire And Goole NHS Foundation Trust,North East and Yorkshire,RJL
@@ -3117,7 +3337,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-06,0,628,Barts Health NHS Trust,London,R1H
 2020-09-06,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-09-06,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-09-06,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-09-06,0,312,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-09-06,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-09-06,0,17,East London NHS Foundation Trust,London,RWK
 2020-09-06,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -3197,7 +3417,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-06,0,1,Humber Teaching NHS Foundation Trust,North East and Yorkshire,RV9
 2020-09-06,0,4,Leeds And York Partnership NHS Foundation Trust,North East and Yorkshire,RGD
 2020-09-06,0,336,Leeds Teaching Hospitals NHS Trust,North East and Yorkshire,RR8
-2020-09-06,0,339,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
+2020-09-06,0,340,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
 2020-09-06,0,181,North Cumbria Integrated Care NHS Foundation Trust,North East and Yorkshire,RNN
 2020-09-06,0,142,North Tees And Hartlepool NHS Foundation Trust,North East and Yorkshire,RVW
 2020-09-06,0,119,Northern Lincolnshire And Goole NHS Foundation Trust,North East and Yorkshire,RJL
@@ -3338,7 +3558,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-05,0,628,Barts Health NHS Trust,London,R1H
 2020-09-05,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-09-05,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-09-05,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-09-05,0,312,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-09-05,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-09-05,0,17,East London NHS Foundation Trust,London,RWK
 2020-09-05,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -3419,7 +3639,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-05,0,1,Humber Teaching NHS Foundation Trust,North East and Yorkshire,RV9
 2020-09-05,0,4,Leeds And York Partnership NHS Foundation Trust,North East and Yorkshire,RGD
 2020-09-05,0,336,Leeds Teaching Hospitals NHS Trust,North East and Yorkshire,RR8
-2020-09-05,0,339,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
+2020-09-05,0,340,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
 2020-09-05,0,181,North Cumbria Integrated Care NHS Foundation Trust,North East and Yorkshire,RNN
 2020-09-05,0,142,North Tees And Hartlepool NHS Foundation Trust,North East and Yorkshire,RVW
 2020-09-05,0,202,Northumbria Healthcare NHS Foundation Trust,North East and Yorkshire,RTF
@@ -3520,6 +3740,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-05,0,2,Wiltshire Health & Care - Warminster Community Hospital,South West,AXG03
 2020-09-05,0,26,Yeovil District Hospital NHS Foundation Trust,South West,RA4
 2020-09-04,1,82,West Suffolk NHS Foundation Trust,East Of England,RGR
+2020-09-04,1,340,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
 2020-09-04,1,454,Manchester University NHS Foundation Trust,North West,R0A
 2020-09-04,1,184,Salford Royal NHS Foundation Trust,North West,RM3
 2020-09-04,1,240,Tameside And Glossop Integrated Care NHS Foundation Trust,North West,RMP
@@ -3557,7 +3778,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-04,0,628,Barts Health NHS Trust,London,R1H
 2020-09-04,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-09-04,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-09-04,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-09-04,0,312,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-09-04,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-09-04,0,17,East London NHS Foundation Trust,London,RWK
 2020-09-04,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -3639,7 +3860,6 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-04,0,1,Humber Teaching NHS Foundation Trust,North East and Yorkshire,RV9
 2020-09-04,0,4,Leeds And York Partnership NHS Foundation Trust,North East and Yorkshire,RGD
 2020-09-04,0,336,Leeds Teaching Hospitals NHS Trust,North East and Yorkshire,RR8
-2020-09-04,0,339,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
 2020-09-04,0,181,North Cumbria Integrated Care NHS Foundation Trust,North East and Yorkshire,RNN
 2020-09-04,0,142,North Tees And Hartlepool NHS Foundation Trust,North East and Yorkshire,RVW
 2020-09-04,0,118,Northern Lincolnshire And Goole NHS Foundation Trust,North East and Yorkshire,RJL
@@ -3740,7 +3960,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-04,0,2,Wiltshire Health & Care - Warminster Community Hospital,South West,AXG03
 2020-09-04,0,26,Yeovil District Hospital NHS Foundation Trust,South West,RA4
 2020-09-03,1,373,West Hertfordshire Hospitals NHS Trust,East Of England,RWG
-2020-09-03,1,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-09-03,1,312,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-09-03,1,239,Tameside And Glossop Integrated Care NHS Foundation Trust,North West,RMP
 2020-09-03,0,4,Anglian Community Enterprise CIC - Clacton Hospital,East Of England,NQ108
 2020-09-03,0,25,Anglian Community Enterprise CIC - Fryatt Hospital,East Of England,NQ106
@@ -4002,7 +4222,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-02,0,628,Barts Health NHS Trust,London,R1H
 2020-09-02,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-09-02,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-09-02,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-09-02,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-09-02,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-09-02,0,17,East London NHS Foundation Trust,London,RWK
 2020-09-02,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -4216,7 +4436,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-09-01,0,628,Barts Health NHS Trust,London,R1H
 2020-09-01,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-09-01,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-09-01,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-09-01,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-09-01,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-09-01,0,17,East London NHS Foundation Trust,London,RWK
 2020-09-01,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -4440,7 +4660,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-08-31,0,628,Barts Health NHS Trust,London,R1H
 2020-08-31,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-08-31,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-08-31,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-08-31,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-08-31,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-08-31,0,17,East London NHS Foundation Trust,London,RWK
 2020-08-31,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -4656,7 +4876,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-08-30,0,628,Barts Health NHS Trust,London,R1H
 2020-08-30,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-08-30,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-08-30,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-08-30,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-08-30,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-08-30,0,17,East London NHS Foundation Trust,London,RWK
 2020-08-30,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -4875,7 +5095,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-08-29,0,628,Barts Health NHS Trust,London,R1H
 2020-08-29,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-08-29,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-08-29,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-08-29,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-08-29,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-08-29,0,17,East London NHS Foundation Trust,London,RWK
 2020-08-29,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -5096,7 +5316,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-08-28,0,628,Barts Health NHS Trust,London,R1H
 2020-08-28,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-08-28,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-08-28,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-08-28,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-08-28,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-08-28,0,17,East London NHS Foundation Trust,London,RWK
 2020-08-28,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -5319,7 +5539,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-08-27,0,628,Barts Health NHS Trust,London,R1H
 2020-08-27,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-08-27,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-08-27,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-08-27,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-08-27,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-08-27,0,17,East London NHS Foundation Trust,London,RWK
 2020-08-27,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -5540,7 +5760,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-08-26,0,628,Barts Health NHS Trust,London,R1H
 2020-08-26,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-08-26,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-08-26,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-08-26,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-08-26,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-08-26,0,17,East London NHS Foundation Trust,London,RWK
 2020-08-26,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -5762,7 +5982,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-08-25,0,628,Barts Health NHS Trust,London,R1H
 2020-08-25,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-08-25,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-08-25,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-08-25,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-08-25,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-08-25,0,17,East London NHS Foundation Trust,London,RWK
 2020-08-25,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -5978,7 +6198,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-08-24,0,628,Barts Health NHS Trust,London,R1H
 2020-08-24,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-08-24,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-08-24,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-08-24,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-08-24,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-08-24,0,17,East London NHS Foundation Trust,London,RWK
 2020-08-24,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -6199,7 +6419,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-08-23,0,628,Barts Health NHS Trust,London,R1H
 2020-08-23,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-08-23,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-08-23,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-08-23,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-08-23,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-08-23,0,17,East London NHS Foundation Trust,London,RWK
 2020-08-23,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -6417,7 +6637,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-08-22,0,628,Barts Health NHS Trust,London,R1H
 2020-08-22,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-08-22,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-08-22,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-08-22,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-08-22,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-08-22,0,17,East London NHS Foundation Trust,London,RWK
 2020-08-22,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -6638,7 +6858,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-08-21,0,628,Barts Health NHS Trust,London,R1H
 2020-08-21,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-08-21,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-08-21,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-08-21,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-08-21,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-08-21,0,17,East London NHS Foundation Trust,London,RWK
 2020-08-21,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -6855,7 +7075,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-08-20,0,628,Barts Health NHS Trust,London,R1H
 2020-08-20,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-08-20,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-08-20,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-08-20,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-08-20,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-08-20,0,17,East London NHS Foundation Trust,London,RWK
 2020-08-20,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -7075,7 +7295,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-08-19,0,628,Barts Health NHS Trust,London,R1H
 2020-08-19,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-08-19,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-08-19,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-08-19,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-08-19,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-08-19,0,17,East London NHS Foundation Trust,London,RWK
 2020-08-19,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -7299,7 +7519,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-08-18,0,628,Barts Health NHS Trust,London,R1H
 2020-08-18,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-08-18,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-08-18,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-08-18,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-08-18,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-08-18,0,17,East London NHS Foundation Trust,London,RWK
 2020-08-18,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -7519,7 +7739,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-08-17,0,424,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
 2020-08-17,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-08-17,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-08-17,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-08-17,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-08-17,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-08-17,0,17,East London NHS Foundation Trust,London,RWK
 2020-08-17,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -7736,7 +7956,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-08-16,0,627,Barts Health NHS Trust,London,R1H
 2020-08-16,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-08-16,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-08-16,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-08-16,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-08-16,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-08-16,0,17,East London NHS Foundation Trust,London,RWK
 2020-08-16,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -7962,7 +8182,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-08-15,0,627,Barts Health NHS Trust,London,R1H
 2020-08-15,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-08-15,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-08-15,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-08-15,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-08-15,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-08-15,0,17,East London NHS Foundation Trust,London,RWK
 2020-08-15,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -8177,7 +8397,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-08-14,0,627,Barts Health NHS Trust,London,R1H
 2020-08-14,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-08-14,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-08-14,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-08-14,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-08-14,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-08-14,0,17,East London NHS Foundation Trust,London,RWK
 2020-08-14,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -8397,7 +8617,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-08-13,0,627,Barts Health NHS Trust,London,R1H
 2020-08-13,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-08-13,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-08-13,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-08-13,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-08-13,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-08-13,0,17,East London NHS Foundation Trust,London,RWK
 2020-08-13,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -8616,7 +8836,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-08-12,0,627,Barts Health NHS Trust,London,R1H
 2020-08-12,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-08-12,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-08-12,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-08-12,0,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-08-12,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-08-12,0,17,East London NHS Foundation Trust,London,RWK
 2020-08-12,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -8800,7 +9020,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-08-12,0,2,Wiltshire Health & Care - Warminster Community Hospital,South West,AXG03
 2020-08-12,0,26,Yeovil District Hospital NHS Foundation Trust,South West,RA4
 2020-08-11,2,239,North West Anglia NHS Foundation Trust,East Of England,RGN
-2020-08-11,1,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-08-11,1,311,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-08-11,1,287,The Royal Wolverhampton NHS Trust,Midlands,RL4
 2020-08-11,1,972,University Hospitals Birmingham NHS Foundation Trust,Midlands,RRK
 2020-08-11,1,175,North Cumbria Integrated Care NHS Foundation Trust,North East and Yorkshire,RNN
@@ -9058,7 +9278,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-08-10,0,627,Barts Health NHS Trust,London,R1H
 2020-08-10,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-08-10,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-08-10,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-08-10,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-08-10,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-08-10,0,17,East London NHS Foundation Trust,London,RWK
 2020-08-10,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -9278,7 +9498,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-08-09,0,627,Barts Health NHS Trust,London,R1H
 2020-08-09,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-08-09,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-08-09,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-08-09,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-08-09,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-08-09,0,17,East London NHS Foundation Trust,London,RWK
 2020-08-09,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -9500,7 +9720,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-08-08,0,627,Barts Health NHS Trust,London,R1H
 2020-08-08,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-08-08,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-08-08,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-08-08,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-08-08,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-08-08,0,17,East London NHS Foundation Trust,London,RWK
 2020-08-08,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -9715,7 +9935,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-08-07,0,627,Barts Health NHS Trust,London,R1H
 2020-08-07,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-08-07,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-08-07,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-08-07,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-08-07,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-08-07,0,17,East London NHS Foundation Trust,London,RWK
 2020-08-07,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -9940,7 +10160,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-08-06,0,627,Barts Health NHS Trust,London,R1H
 2020-08-06,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-08-06,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-08-06,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-08-06,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-08-06,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-08-06,0,17,East London NHS Foundation Trust,London,RWK
 2020-08-06,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -10157,7 +10377,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-08-05,0,627,Barts Health NHS Trust,London,R1H
 2020-08-05,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-08-05,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-08-05,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-08-05,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-08-05,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-08-05,0,17,East London NHS Foundation Trust,London,RWK
 2020-08-05,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -10379,7 +10599,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-08-04,0,627,Barts Health NHS Trust,London,R1H
 2020-08-04,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-08-04,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-08-04,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-08-04,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-08-04,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-08-04,0,17,East London NHS Foundation Trust,London,RWK
 2020-08-04,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -10600,7 +10820,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-08-03,0,627,Barts Health NHS Trust,London,R1H
 2020-08-03,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-08-03,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-08-03,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-08-03,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-08-03,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-08-03,0,17,East London NHS Foundation Trust,London,RWK
 2020-08-03,0,277,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -10823,7 +11043,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-08-02,0,627,Barts Health NHS Trust,London,R1H
 2020-08-02,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-08-02,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-08-02,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-08-02,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-08-02,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-08-02,0,17,East London NHS Foundation Trust,London,RWK
 2020-08-02,0,233,Guy'S And St Thomas' NHS Foundation Trust,London,RJ1
@@ -11039,7 +11259,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-08-01,0,627,Barts Health NHS Trust,London,R1H
 2020-08-01,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-08-01,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-08-01,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-08-01,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-08-01,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-08-01,0,17,East London NHS Foundation Trust,London,RWK
 2020-08-01,0,276,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -11257,7 +11477,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-31,0,627,Barts Health NHS Trust,London,R1H
 2020-07-31,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-07-31,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-07-31,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-07-31,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-07-31,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-07-31,0,17,East London NHS Foundation Trust,London,RWK
 2020-07-31,0,276,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -11480,7 +11700,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-30,0,627,Barts Health NHS Trust,London,R1H
 2020-07-30,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-07-30,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-07-30,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-07-30,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-07-30,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-07-30,0,17,East London NHS Foundation Trust,London,RWK
 2020-07-30,0,276,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -11699,7 +11919,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-29,0,627,Barts Health NHS Trust,London,R1H
 2020-07-29,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-07-29,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-07-29,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-07-29,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-07-29,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-07-29,0,17,East London NHS Foundation Trust,London,RWK
 2020-07-29,0,276,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -11919,7 +12139,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-28,0,627,Barts Health NHS Trust,London,R1H
 2020-07-28,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-07-28,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-07-28,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-07-28,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-07-28,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-07-28,0,17,East London NHS Foundation Trust,London,RWK
 2020-07-28,0,276,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -12141,7 +12361,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-27,0,627,Barts Health NHS Trust,London,R1H
 2020-07-27,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-07-27,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-07-27,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-07-27,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-07-27,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-07-27,0,17,East London NHS Foundation Trust,London,RWK
 2020-07-27,0,276,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -12360,7 +12580,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-26,0,627,Barts Health NHS Trust,London,R1H
 2020-07-26,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-07-26,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-07-26,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-07-26,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-07-26,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-07-26,0,17,East London NHS Foundation Trust,London,RWK
 2020-07-26,0,276,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -12582,7 +12802,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-25,0,627,Barts Health NHS Trust,London,R1H
 2020-07-25,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-07-25,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-07-25,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-07-25,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-07-25,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-07-25,0,17,East London NHS Foundation Trust,London,RWK
 2020-07-25,0,276,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -12797,7 +13017,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-24,0,627,Barts Health NHS Trust,London,R1H
 2020-07-24,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-07-24,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-07-24,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-07-24,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-07-24,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-07-24,0,17,East London NHS Foundation Trust,London,RWK
 2020-07-24,0,276,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -13024,7 +13244,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-23,0,627,Barts Health NHS Trust,London,R1H
 2020-07-23,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-07-23,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-07-23,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-07-23,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-07-23,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-07-23,0,17,East London NHS Foundation Trust,London,RWK
 2020-07-23,0,276,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -13244,7 +13464,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-22,0,627,Barts Health NHS Trust,London,R1H
 2020-07-22,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-07-22,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-07-22,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-07-22,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-07-22,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-07-22,0,17,East London NHS Foundation Trust,London,RWK
 2020-07-22,0,276,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -13460,7 +13680,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-21,0,423,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
 2020-07-21,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-07-21,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-07-21,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-07-21,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-07-21,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-07-21,0,17,East London NHS Foundation Trust,London,RWK
 2020-07-21,0,276,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -13680,7 +13900,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-20,0,626,Barts Health NHS Trust,London,R1H
 2020-07-20,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-07-20,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-07-20,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-07-20,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-07-20,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-07-20,0,17,East London NHS Foundation Trust,London,RWK
 2020-07-20,0,276,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -13901,7 +14121,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-19,0,626,Barts Health NHS Trust,London,R1H
 2020-07-19,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-07-19,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-07-19,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-07-19,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-07-19,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-07-19,0,17,East London NHS Foundation Trust,London,RWK
 2020-07-19,0,276,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -14125,7 +14345,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-18,0,626,Barts Health NHS Trust,London,R1H
 2020-07-18,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-07-18,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-07-18,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-07-18,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-07-18,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-07-18,0,17,East London NHS Foundation Trust,London,RWK
 2020-07-18,0,276,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -14343,7 +14563,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-17,0,626,Barts Health NHS Trust,London,R1H
 2020-07-17,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-07-17,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-07-17,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-07-17,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-07-17,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-07-17,0,17,East London NHS Foundation Trust,London,RWK
 2020-07-17,0,276,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -14561,7 +14781,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-16,0,626,Barts Health NHS Trust,London,R1H
 2020-07-16,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-07-16,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-07-16,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-07-16,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-07-16,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-07-16,0,17,East London NHS Foundation Trust,London,RWK
 2020-07-16,0,276,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -14791,7 +15011,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-15,0,626,Barts Health NHS Trust,London,R1H
 2020-07-15,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-07-15,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-07-15,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-07-15,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-07-15,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-07-15,0,17,East London NHS Foundation Trust,London,RWK
 2020-07-15,0,276,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -15001,7 +15221,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-14,0,626,Barts Health NHS Trust,London,R1H
 2020-07-14,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-07-14,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-07-14,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-07-14,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-07-14,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-07-14,0,17,East London NHS Foundation Trust,London,RWK
 2020-07-14,0,276,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -15224,7 +15444,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-13,0,626,Barts Health NHS Trust,London,R1H
 2020-07-13,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-07-13,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-07-13,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-07-13,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-07-13,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-07-13,0,17,East London NHS Foundation Trust,London,RWK
 2020-07-13,0,276,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -15443,7 +15663,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-12,0,421,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
 2020-07-12,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-07-12,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-07-12,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-07-12,0,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-07-12,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-07-12,0,17,East London NHS Foundation Trust,London,RWK
 2020-07-12,0,276,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -15622,7 +15842,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-11,3,215,Dartford And Gravesham NHS Trust,South East,RN7
 2020-07-11,1,352,East Suffolk And North Essex NHS Foundation Trust,East Of England,RDE
 2020-07-11,1,234,North West Anglia NHS Foundation Trust,East Of England,RGN
-2020-07-11,1,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-07-11,1,310,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-07-11,1,327,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
 2020-07-11,1,224,Countess Of Chester Hospital NHS Foundation Trust,North West,RJR
 2020-07-11,1,249,Lancashire Teaching Hospitals NHS Foundation Trust,North West,RXN
@@ -15883,7 +16103,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-10,0,625,Barts Health NHS Trust,London,R1H
 2020-07-10,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-07-10,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-07-10,0,308,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-07-10,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-07-10,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-07-10,0,17,East London NHS Foundation Trust,London,RWK
 2020-07-10,0,276,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -16116,7 +16336,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-09,0,421,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
 2020-07-09,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-07-09,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-07-09,0,308,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-07-09,0,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-07-09,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-07-09,0,17,East London NHS Foundation Trust,London,RWK
 2020-07-09,0,2,Hca UK - London Bridge,London,NW605
@@ -16283,7 +16503,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-08,2,230,Bradford Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RAE
 2020-07-08,2,220,Countess Of Chester Hospital NHS Foundation Trust,North West,RJR
 2020-07-08,2,415,East Kent Hospitals University NHS Foundation Trust,South East,RVV
-2020-07-08,1,308,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-07-08,1,309,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-07-08,1,230,Guy'S And St Thomas' NHS Foundation Trust,London,RJ1
 2020-07-08,1,511,King'S College Hospital NHS Foundation Trust,London,RJZ
 2020-07-08,1,167,Shrewsbury And Telford Hospital NHS Trust,Midlands,RXW
@@ -16550,7 +16770,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-07,0,624,Barts Health NHS Trust,London,R1H
 2020-07-07,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-07-07,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-07-07,0,307,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-07-07,0,308,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-07-07,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-07-07,0,17,East London NHS Foundation Trust,London,RWK
 2020-07-07,0,275,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -16724,7 +16944,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-06,2,551,Pennine Acute Hospitals NHS Trust,North West,RW6
 2020-07-06,1,218,Bedford Hospital NHS Trust,East Of England,RC1
 2020-07-06,1,280,Luton And Dunstable University Hospital NHS Foundation Trust,East Of England,RC9
-2020-07-06,1,307,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-07-06,1,308,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-07-06,1,510,King'S College Hospital NHS Foundation Trust,London,RJZ
 2020-07-06,1,173,George Eliot Hospital NHS Trust,Midlands,RLT
 2020-07-06,1,959,University Hospitals Birmingham NHS Foundation Trust,Midlands,RRK
@@ -16993,7 +17213,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-05,0,624,Barts Health NHS Trust,London,R1H
 2020-07-05,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-07-05,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-07-05,0,306,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-07-05,0,307,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-07-05,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-07-05,0,17,East London NHS Foundation Trust,London,RWK
 2020-07-05,0,275,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -17208,7 +17428,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-04,0,624,Barts Health NHS Trust,London,R1H
 2020-07-04,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-07-04,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-07-04,0,306,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-07-04,0,307,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-07-04,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-07-04,0,17,East London NHS Foundation Trust,London,RWK
 2020-07-04,0,275,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -17428,7 +17648,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-03,0,624,Barts Health NHS Trust,London,R1H
 2020-07-03,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-07-03,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-07-03,0,306,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-07-03,0,307,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-07-03,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-07-03,0,17,East London NHS Foundation Trust,London,RWK
 2020-07-03,0,275,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -17658,7 +17878,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-02,0,624,Barts Health NHS Trust,London,R1H
 2020-07-02,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-07-02,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-07-02,0,306,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-07-02,0,307,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-07-02,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-07-02,0,17,East London NHS Foundation Trust,London,RWK
 2020-07-02,0,228,Guy'S And St Thomas' NHS Foundation Trust,London,RJ1
@@ -17865,7 +18085,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-07-01,0,624,Barts Health NHS Trust,London,R1H
 2020-07-01,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-07-01,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-07-01,0,306,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-07-01,0,307,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-07-01,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-07-01,0,17,East London NHS Foundation Trust,London,RWK
 2020-07-01,0,2,Hca UK - London Bridge,London,NW605
@@ -18095,7 +18315,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-06-30,0,624,Barts Health NHS Trust,London,R1H
 2020-06-30,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-06-30,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-06-30,0,306,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-06-30,0,307,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-06-30,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-06-30,0,17,East London NHS Foundation Trust,London,RWK
 2020-06-30,0,273,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -18314,7 +18534,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-06-29,0,624,Barts Health NHS Trust,London,R1H
 2020-06-29,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-06-29,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-06-29,0,306,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-06-29,0,307,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-06-29,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-06-29,0,17,East London NHS Foundation Trust,London,RWK
 2020-06-29,0,273,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -18535,7 +18755,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-06-28,0,624,Barts Health NHS Trust,London,R1H
 2020-06-28,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-06-28,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-06-28,0,306,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-06-28,0,307,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-06-28,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-06-28,0,17,East London NHS Foundation Trust,London,RWK
 2020-06-28,0,273,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -18750,7 +18970,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-06-27,0,421,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
 2020-06-27,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-06-27,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-06-27,0,306,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-06-27,0,307,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-06-27,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-06-27,0,17,East London NHS Foundation Trust,London,RWK
 2020-06-27,0,273,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -18980,7 +19200,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-06-26,0,623,Barts Health NHS Trust,London,R1H
 2020-06-26,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-06-26,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-06-26,0,306,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-06-26,0,307,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-06-26,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-06-26,0,17,East London NHS Foundation Trust,London,RWK
 2020-06-26,0,227,Guy'S And St Thomas' NHS Foundation Trust,London,RJ1
@@ -19201,7 +19421,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-06-25,0,623,Barts Health NHS Trust,London,R1H
 2020-06-25,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-06-25,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-06-25,0,306,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-06-25,0,307,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-06-25,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-06-25,0,17,East London NHS Foundation Trust,London,RWK
 2020-06-25,0,227,Guy'S And St Thomas' NHS Foundation Trust,London,RJ1
@@ -19372,7 +19592,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-06-24,2,241,Lancashire Teaching Hospitals NHS Foundation Trust,North West,RXN
 2020-06-24,1,206,Bedford Hospital NHS Trust,East Of England,RC1
 2020-06-24,1,231,North West Anglia NHS Foundation Trust,East Of England,RGN
-2020-06-24,1,306,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-06-24,1,307,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-06-24,1,422,Imperial College Healthcare NHS Trust,London,RYJ
 2020-06-24,1,40,North East London NHS Foundation Trust,London,RAT
 2020-06-24,1,267,North Middlesex University Hospital NHS Trust,London,RAP
@@ -19640,7 +19860,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-06-23,0,623,Barts Health NHS Trust,London,R1H
 2020-06-23,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-06-23,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-06-23,0,305,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-06-23,0,306,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-06-23,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-06-23,0,17,East London NHS Foundation Trust,London,RWK
 2020-06-23,0,271,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -19858,7 +20078,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-06-22,0,623,Barts Health NHS Trust,London,R1H
 2020-06-22,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-06-22,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-06-22,0,305,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-06-22,0,306,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-06-22,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-06-22,0,17,East London NHS Foundation Trust,London,RWK
 2020-06-22,0,227,Guy'S And St Thomas' NHS Foundation Trust,London,RJ1
@@ -20078,7 +20298,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-06-21,0,623,Barts Health NHS Trust,London,R1H
 2020-06-21,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-06-21,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-06-21,0,305,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-06-21,0,306,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-06-21,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-06-21,0,17,East London NHS Foundation Trust,London,RWK
 2020-06-21,0,270,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -20301,7 +20521,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-06-20,0,420,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
 2020-06-20,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-06-20,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-06-20,0,305,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-06-20,0,306,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-06-20,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-06-20,0,17,East London NHS Foundation Trust,London,RWK
 2020-06-20,0,270,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -20470,7 +20690,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-06-19,1,349,East Suffolk And North Essex NHS Foundation Trust,East Of England,RDE
 2020-06-19,1,224,Southend University Hospital NHS Foundation Trust,East Of England,RAJ
 2020-06-19,1,620,Barts Health NHS Trust,London,R1H
-2020-06-19,1,305,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-06-19,1,306,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-06-19,1,270,Epsom And St Helier University Hospitals NHS Trust,London,RVR
 2020-06-19,1,610,London North West University Healthcare NHS Trust,London,R1K
 2020-06-19,1,38,North East London NHS Foundation Trust,London,RAT
@@ -20744,7 +20964,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-06-18,0,619,Barts Health NHS Trust,London,R1H
 2020-06-18,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-06-18,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-06-18,0,304,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-06-18,0,305,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-06-18,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-06-18,0,17,East London NHS Foundation Trust,London,RWK
 2020-06-18,0,269,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -20964,7 +21184,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-06-17,0,619,Barts Health NHS Trust,London,R1H
 2020-06-17,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-06-17,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-06-17,0,304,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-06-17,0,305,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-06-17,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-06-17,0,17,East London NHS Foundation Trust,London,RWK
 2020-06-17,0,269,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -21196,7 +21416,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-06-16,0,619,Barts Health NHS Trust,London,R1H
 2020-06-16,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-06-16,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-06-16,0,304,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-06-16,0,305,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-06-16,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-06-16,0,17,East London NHS Foundation Trust,London,RWK
 2020-06-16,0,269,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -21404,7 +21624,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-06-15,0,619,Barts Health NHS Trust,London,R1H
 2020-06-15,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-06-15,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-06-15,0,304,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-06-15,0,305,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-06-15,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-06-15,0,17,East London NHS Foundation Trust,London,RWK
 2020-06-15,0,269,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -21627,7 +21847,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-06-14,0,419,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
 2020-06-14,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-06-14,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-06-14,0,304,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-06-14,0,305,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-06-14,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-06-14,0,17,East London NHS Foundation Trust,London,RWK
 2020-06-14,0,269,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -21841,7 +22061,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-06-13,0,618,Barts Health NHS Trust,London,R1H
 2020-06-13,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-06-13,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-06-13,0,304,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-06-13,0,305,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-06-13,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-06-13,0,17,East London NHS Foundation Trust,London,RWK
 2020-06-13,0,226,Guy'S And St Thomas' NHS Foundation Trust,London,RJ1
@@ -22016,7 +22236,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-06-12,1,197,Bedford Hospital NHS Trust,East Of England,RC1
 2020-06-12,1,346,East Suffolk And North Essex NHS Foundation Trust,East Of England,RDE
 2020-06-12,1,618,Barts Health NHS Trust,London,R1H
-2020-06-12,1,304,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-06-12,1,305,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-06-12,1,294,St George'S University Hospitals NHS Foundation Trust,London,RJ7
 2020-06-12,1,211,Kettering General Hospital NHS Foundation Trust,Midlands,RNQ
 2020-06-12,1,160,Shrewsbury And Telford Hospital NHS Trust,Midlands,RXW
@@ -22285,7 +22505,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-06-11,0,617,Barts Health NHS Trust,London,R1H
 2020-06-11,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-06-11,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-06-11,0,303,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-06-11,0,304,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-06-11,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-06-11,0,17,East London NHS Foundation Trust,London,RWK
 2020-06-11,0,226,Guy'S And St Thomas' NHS Foundation Trust,London,RJ1
@@ -22462,7 +22682,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-06-10,1,271,Luton And Dunstable University Hospital NHS Foundation Trust,East Of England,RC9
 2020-06-10,1,226,North West Anglia NHS Foundation Trust,East Of England,RGN
 2020-06-10,1,219,Southend University Hospital NHS Foundation Trust,East Of England,RAJ
-2020-06-10,1,303,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-06-10,1,304,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-06-10,1,267,Epsom And St Helier University Hospitals NHS Trust,London,RVR
 2020-06-10,1,412,Lewisham And Greenwich NHS Trust,London,RJ2
 2020-06-10,1,605,London North West University Healthcare NHS Trust,London,R1K
@@ -22730,7 +22950,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-06-09,0,614,Barts Health NHS Trust,London,R1H
 2020-06-09,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-06-09,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-06-09,0,302,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-06-09,0,303,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-06-09,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-06-09,0,17,East London NHS Foundation Trust,London,RWK
 2020-06-09,0,266,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -22953,7 +23173,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-06-08,0,614,Barts Health NHS Trust,London,R1H
 2020-06-08,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-06-08,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-06-08,0,302,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-06-08,0,303,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-06-08,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-06-08,0,17,East London NHS Foundation Trust,London,RWK
 2020-06-08,0,266,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -23106,7 +23326,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-06-07,3,202,St Helens And Knowsley Teaching Hospitals NHS Trust,North West,RBN
 2020-06-07,3,333,East Kent Hospitals University NHS Foundation Trust,South East,RVV
 2020-06-07,2,194,Bedford Hospital NHS Trust,East Of England,RC1
-2020-06-07,2,302,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-06-07,2,303,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-06-07,2,201,Kettering General Hospital NHS Foundation Trust,Midlands,RNQ
 2020-06-07,2,257,Nottingham University Hospitals NHS Trust,Midlands,RX1
 2020-06-07,2,366,Sandwell And West Birmingham Hospitals NHS Trust,Midlands,RXK
@@ -23396,7 +23616,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-06-06,0,614,Barts Health NHS Trust,London,R1H
 2020-06-06,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-06-06,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-06-06,0,300,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-06-06,0,301,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-06-06,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-06-06,0,17,East London NHS Foundation Trust,London,RWK
 2020-06-06,0,266,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -23617,7 +23837,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-06-05,0,614,Barts Health NHS Trust,London,R1H
 2020-06-05,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-06-05,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-06-05,0,300,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-06-05,0,301,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-06-05,0,300,Croydon Health Services NHS Trust,London,RJ6
 2020-06-05,0,17,East London NHS Foundation Trust,London,RWK
 2020-06-05,0,266,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -23839,7 +24059,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-06-04,0,76,West Suffolk NHS Foundation Trust,East Of England,RGR
 2020-06-04,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-06-04,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-06-04,0,300,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-06-04,0,301,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-06-04,0,17,East London NHS Foundation Trust,London,RWK
 2020-06-04,0,266,Epsom And St Helier University Hospitals NHS Trust,London,RVR
 2020-06-04,0,226,Guy'S And St Thomas' NHS Foundation Trust,London,RJ1
@@ -24069,7 +24289,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-06-03,0,415,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
 2020-06-03,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-06-03,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-06-03,0,300,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-06-03,0,301,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-06-03,0,299,Croydon Health Services NHS Trust,London,RJ6
 2020-06-03,0,17,East London NHS Foundation Trust,London,RWK
 2020-06-03,0,226,Guy'S And St Thomas' NHS Foundation Trust,London,RJ1
@@ -24285,7 +24505,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-06-02,0,611,Barts Health NHS Trust,London,R1H
 2020-06-02,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-06-02,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-06-02,0,300,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-06-02,0,301,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-06-02,0,299,Croydon Health Services NHS Trust,London,RJ6
 2020-06-02,0,17,East London NHS Foundation Trust,London,RWK
 2020-06-02,0,226,Guy'S And St Thomas' NHS Foundation Trust,London,RJ1
@@ -24443,7 +24663,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-06-01,1,113,James Paget University Hospitals NHS Foundation Trust,East Of England,RGP
 2020-06-01,1,191,Mid Essex Hospital Services NHS Trust,East Of England,RQ8
 2020-06-01,1,352,West Hertfordshire Hospitals NHS Trust,East Of England,RWG
-2020-06-01,1,300,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-06-01,1,301,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-06-01,1,226,Guy'S And St Thomas' NHS Foundation Trust,London,RJ1
 2020-06-01,1,485,Royal Free London NHS Foundation Trust,London,RAL
 2020-06-01,1,11,Midlands Partnership NHS Foundation Trust,Midlands,RRE
@@ -24725,7 +24945,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-05-31,0,608,Barts Health NHS Trust,London,R1H
 2020-05-31,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-05-31,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-05-31,0,299,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-05-31,0,300,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-05-31,0,299,Croydon Health Services NHS Trust,London,RJ6
 2020-05-31,0,17,East London NHS Foundation Trust,London,RWK
 2020-05-31,0,225,Guy'S And St Thomas' NHS Foundation Trust,London,RJ1
@@ -24942,7 +25162,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-05-30,0,415,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
 2020-05-30,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-05-30,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-05-30,0,299,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-05-30,0,300,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-05-30,0,17,East London NHS Foundation Trust,London,RWK
 2020-05-30,0,225,Guy'S And St Thomas' NHS Foundation Trust,London,RJ1
 2020-05-30,0,1,Hca UK - London Bridge,London,NW605
@@ -25169,7 +25389,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-05-29,0,606,Barts Health NHS Trust,London,R1H
 2020-05-29,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-05-29,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-05-29,0,299,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-05-29,0,300,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-05-29,0,298,Croydon Health Services NHS Trust,London,RJ6
 2020-05-29,0,17,East London NHS Foundation Trust,London,RWK
 2020-05-29,0,261,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -25394,7 +25614,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-05-28,0,606,Barts Health NHS Trust,London,R1H
 2020-05-28,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-05-28,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-05-28,0,299,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-05-28,0,300,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-05-28,0,298,Croydon Health Services NHS Trust,London,RJ6
 2020-05-28,0,17,East London NHS Foundation Trust,London,RWK
 2020-05-28,0,261,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -25614,7 +25834,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-05-27,0,68,West Suffolk NHS Foundation Trust,East Of England,RGR
 2020-05-27,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-05-27,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-05-27,0,299,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-05-27,0,300,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-05-27,0,298,Croydon Health Services NHS Trust,London,RJ6
 2020-05-27,0,17,East London NHS Foundation Trust,London,RWK
 2020-05-27,0,261,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -25779,7 +25999,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-05-26,1,189,Mid Essex Hospital Services NHS Trust,East Of England,RQ8
 2020-05-26,1,103,Milton Keynes University Hospital NHS Foundation Trust,East Of England,RD8
 2020-05-26,1,68,West Suffolk NHS Foundation Trust,East Of England,RGR
-2020-05-26,1,299,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-05-26,1,300,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-05-26,1,298,Croydon Health Services NHS Trust,London,RJ6
 2020-05-26,1,413,Imperial College Healthcare NHS Trust,London,RYJ
 2020-05-26,1,493,King'S College Hospital NHS Foundation Trust,London,RJZ
@@ -26056,7 +26276,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-05-25,0,603,Barts Health NHS Trust,London,R1H
 2020-05-25,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-05-25,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-05-25,0,298,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-05-25,0,299,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-05-25,0,17,East London NHS Foundation Trust,London,RWK
 2020-05-25,0,222,Guy'S And St Thomas' NHS Foundation Trust,London,RJ1
 2020-05-25,0,1,Hca UK - London Bridge,London,NW605
@@ -26213,7 +26433,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-05-24,1,117,Norfolk And Norwich University Hospitals NHS Foundation Trust,East Of England,RM1
 2020-05-24,1,348,West Hertfordshire Hospitals NHS Trust,East Of England,RWG
 2020-05-24,1,66,West Suffolk NHS Foundation Trust,East Of England,RGR
-2020-05-24,1,298,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-05-24,1,299,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-05-24,1,296,Croydon Health Services NHS Trust,London,RJ6
 2020-05-24,1,492,King'S College Hospital NHS Foundation Trust,London,RJZ
 2020-05-24,1,398,Lewisham And Greenwich NHS Trust,London,RJ2
@@ -26495,7 +26715,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-05-23,0,411,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
 2020-05-23,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-05-23,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-05-23,0,297,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-05-23,0,298,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-05-23,0,295,Croydon Health Services NHS Trust,London,RJ6
 2020-05-23,0,17,East London NHS Foundation Trust,London,RWK
 2020-05-23,0,257,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -26634,7 +26854,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-05-22,3,118,University Hospitals Bristol NHS Foundation Trust,South West,RA7
 2020-05-22,2,191,North West Anglia NHS Foundation Trust,East Of England,RGN
 2020-05-22,2,602,Barts Health NHS Trust,London,R1H
-2020-05-22,2,297,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-05-22,2,298,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-05-22,2,129,United Lincolnshire Hospitals NHS Trust,Midlands,RWD
 2020-05-22,2,903,University Hospitals Birmingham NHS Foundation Trust,Midlands,RRK
 2020-05-22,2,63,Harrogate And District NHS Foundation Trust,North East and Yorkshire,RCD
@@ -26938,7 +27158,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-05-21,0,600,Barts Health NHS Trust,London,R1H
 2020-05-21,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-05-21,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-05-21,0,295,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-05-21,0,296,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-05-21,0,295,Croydon Health Services NHS Trust,London,RJ6
 2020-05-21,0,17,East London NHS Foundation Trust,London,RWK
 2020-05-21,0,1,Hca UK - London Bridge,London,NW605
@@ -27102,7 +27322,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-05-20,1,199,Southend University Hospital NHS Foundation Trust,East Of England,RAJ
 2020-05-20,1,199,The Princess Alexandra Hospital NHS Trust,East Of England,RQW
 2020-05-20,1,63,West Suffolk NHS Foundation Trust,East Of England,RGR
-2020-05-20,1,295,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-05-20,1,296,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-05-20,1,295,Croydon Health Services NHS Trust,London,RJ6
 2020-05-20,1,255,Epsom And St Helier University Hospitals NHS Trust,London,RVR
 2020-05-20,1,409,Imperial College Healthcare NHS Trust,London,RYJ
@@ -27376,7 +27596,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-05-19,0,598,Barts Health NHS Trust,London,R1H
 2020-05-19,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-05-19,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-05-19,0,294,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-05-19,0,295,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-05-19,0,294,Croydon Health Services NHS Trust,London,RJ6
 2020-05-19,0,17,East London NHS Foundation Trust,London,RWK
 2020-05-19,0,220,Guy'S And St Thomas' NHS Foundation Trust,London,RJ1
@@ -27600,7 +27820,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-05-18,0,404,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
 2020-05-18,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-05-18,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-05-18,0,294,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-05-18,0,295,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-05-18,0,294,Croydon Health Services NHS Trust,London,RJ6
 2020-05-18,0,17,East London NHS Foundation Trust,London,RWK
 2020-05-18,0,252,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -27759,7 +27979,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-05-17,1,310,East Suffolk And North Essex NHS Foundation Trust,East Of England,RDE
 2020-05-17,1,104,James Paget University Hospitals NHS Foundation Trust,East Of England,RGP
 2020-05-17,1,239,Luton And Dunstable University Hospital NHS Foundation Trust,East Of England,RC9
-2020-05-17,1,294,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-05-17,1,295,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-05-17,1,294,Croydon Health Services NHS Trust,London,RJ6
 2020-05-17,1,154,Kingston Hospital NHS Foundation Trust,London,RAX
 2020-05-17,1,287,St George'S University Hospitals NHS Foundation Trust,London,RJ7
@@ -28043,7 +28263,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-05-16,0,197,The Princess Alexandra Hospital NHS Trust,East Of England,RQW
 2020-05-16,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-05-16,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-05-16,0,293,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-05-16,0,294,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-05-16,0,293,Croydon Health Services NHS Trust,London,RJ6
 2020-05-16,0,17,East London NHS Foundation Trust,London,RWK
 2020-05-16,0,252,Epsom And St Helier University Hospitals NHS Trust,London,RVR
@@ -28268,7 +28488,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-05-15,0,197,The Princess Alexandra Hospital NHS Trust,East Of England,RQW
 2020-05-15,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-05-15,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-05-15,0,293,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-05-15,0,294,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-05-15,0,1,Hca UK - London Bridge,London,NW605
 2020-05-15,0,1,Hca UK - The Lister,London,NW603
 2020-05-15,0,2,Hca UK - The Princess Grace,London,NW601
@@ -28495,7 +28715,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-05-14,0,400,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
 2020-05-14,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-05-14,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-05-14,0,293,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-05-14,0,294,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-05-14,0,1,Hca UK - London Bridge,London,NW605
 2020-05-14,0,1,Hca UK - The Lister,London,NW603
 2020-05-14,0,2,Hca UK - The Princess Grace,London,NW601
@@ -28700,7 +28920,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-05-13,0,585,Barts Health NHS Trust,London,R1H
 2020-05-13,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-05-13,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-05-13,0,293,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-05-13,0,294,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-05-13,0,15,East London NHS Foundation Trust,London,RWK
 2020-05-13,0,1,Hca UK - London Bridge,London,NW605
 2020-05-13,0,1,Hca UK - The Lister,London,NW603
@@ -28831,7 +29051,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-05-12,3,151,North West Anglia NHS Foundation Trust,East Of England,RGN
 2020-05-12,3,185,Southend University Hospital NHS Foundation Trust,East Of England,RAJ
 2020-05-12,3,585,Barts Health NHS Trust,London,R1H
-2020-05-12,3,293,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-05-12,3,294,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-05-12,3,140,Kettering General Hospital NHS Foundation Trust,Midlands,RNQ
 2020-05-12,3,119,Shrewsbury And Telford Hospital NHS Trust,Midlands,RXW
 2020-05-12,3,238,The Dudley Group NHS Foundation Trust,Midlands,RNA
@@ -29085,7 +29305,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-05-11,1,146,Bedford Hospital NHS Trust,East Of England,RC1
 2020-05-11,1,109,Cambridge University Hospitals NHS Foundation Trust,East Of England,RGT
 2020-05-11,1,398,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
-2020-05-11,1,290,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-05-11,1,291,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-05-11,1,246,Epsom And St Helier University Hospitals NHS Trust,London,RVR
 2020-05-11,1,142,Homerton University Hospital NHS Foundation Trust,London,RQX
 2020-05-11,1,470,King'S College Hospital NHS Foundation Trust,London,RJZ
@@ -29284,7 +29504,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-05-10,2,137,East And North Hertfordshire NHS Trust,East Of England,RWH
 2020-05-10,2,98,James Paget University Hospitals NHS Foundation Trust,East Of England,RGP
 2020-05-10,2,229,Luton And Dunstable University Hospital NHS Foundation Trust,East Of England,RC9
-2020-05-10,2,289,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-05-10,2,290,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-05-10,2,282,Croydon Health Services NHS Trust,London,RJ6
 2020-05-10,2,216,Guy'S And St Thomas' NHS Foundation Trust,London,RJ1
 2020-05-10,2,400,Imperial College Healthcare NHS Trust,London,RYJ
@@ -29596,7 +29816,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-05-09,0,126,"The Queen Elizabeth Hospital, King'S Lynn, NHS Foundation Trust",East Of England,RCX
 2020-05-09,0,6,Central And North West London NHS Foundation Trust,London,RV3
 2020-05-09,0,9,Central London Community Healthcare NHS Trust,London,RYX
-2020-05-09,0,287,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-05-09,0,288,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-05-09,0,245,Epsom And St Helier University Hospitals NHS Trust,London,RVR
 2020-05-09,0,1,Hca UK - London Bridge,London,NW605
 2020-05-09,0,1,Hca UK - The Lister,London,NW603
@@ -29728,7 +29948,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-05-08,2,192,The Princess Alexandra Hospital NHS Trust,East Of England,RQW
 2020-05-08,2,126,"The Queen Elizabeth Hospital, King'S Lynn, NHS Foundation Trust",East Of England,RCX
 2020-05-08,2,51,West Suffolk NHS Foundation Trust,East Of England,RGR
-2020-05-08,2,287,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-05-08,2,288,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-05-08,2,138,Homerton University Hospital NHS Foundation Trust,London,RQX
 2020-05-08,2,398,Imperial College Healthcare NHS Trust,London,RYJ
 2020-05-08,2,572,London North West University Healthcare NHS Trust,London,R1K
@@ -29946,7 +30166,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-05-07,4,98,Great Western Hospitals NHS Foundation Trust,South West,RN3
 2020-05-07,3,136,North West Anglia NHS Foundation Trust,East Of England,RGN
 2020-05-07,3,323,West Hertfordshire Hospitals NHS Trust,East Of England,RWG
-2020-05-07,3,285,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-05-07,3,286,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-05-07,3,277,Croydon Health Services NHS Trust,London,RJ6
 2020-05-07,3,457,King'S College Hospital NHS Foundation Trust,London,RJZ
 2020-05-07,3,127,Kettering General Hospital NHS Foundation Trust,Midlands,RNQ
@@ -30184,7 +30404,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-05-06,2,133,North West Anglia NHS Foundation Trust,East Of England,RGN
 2020-05-06,2,179,Southend University Hospital NHS Foundation Trust,East Of England,RAJ
 2020-05-06,2,320,West Hertfordshire Hospitals NHS Trust,East Of England,RWG
-2020-05-06,2,282,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-05-06,2,283,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-05-06,2,274,Croydon Health Services NHS Trust,London,RJ6
 2020-05-06,2,392,Imperial College Healthcare NHS Trust,London,RYJ
 2020-05-06,2,255,North Middlesex University Hospital NHS Trust,London,RAP
@@ -30436,7 +30656,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-05-05,1,13,Norfolk Community Health And Care NHS Trust,East Of England,RY3
 2020-05-05,1,131,North West Anglia NHS Foundation Trust,East Of England,RGN
 2020-05-05,1,18,Royal Papworth Hospital NHS Foundation Trust,East Of England,RGM
-2020-05-05,1,280,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-05-05,1,281,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-05-05,1,134,Homerton University Hospital NHS Foundation Trust,London,RQX
 2020-05-05,1,4,Nhs Nightingale Hospital London,London,R1H0A
 2020-05-05,1,276,St George'S University Hospitals NHS Foundation Trust,London,RJ7
@@ -30655,7 +30875,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-05-04,1,12,Norfolk Community Health And Care NHS Trust,East Of England,RY3
 2020-05-04,1,45,West Suffolk NHS Foundation Trust,East Of England,RGR
 2020-05-04,1,9,Central London Community Healthcare NHS Trust,London,RYX
-2020-05-04,1,279,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-05-04,1,280,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-05-04,1,242,Epsom And St Helier University Hospitals NHS Trust,London,RVR
 2020-05-04,1,133,Homerton University Hospital NHS Foundation Trust,London,RQX
 2020-05-04,1,143,Kingston Hospital NHS Foundation Trust,London,RAX
@@ -30868,7 +31088,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-05-03,1,110,"The Queen Elizabeth Hospital, King'S Lynn, NHS Foundation Trust",East Of England,RCX
 2020-05-03,1,44,West Suffolk NHS Foundation Trust,East Of England,RGR
 2020-05-03,1,567,Barts Health NHS Trust,London,R1H
-2020-05-03,1,278,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-05-03,1,279,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-05-03,1,268,Croydon Health Services NHS Trust,London,RJ6
 2020-05-03,1,132,Homerton University Hospital NHS Foundation Trust,London,RQX
 2020-05-03,1,370,Lewisham And Greenwich NHS Trust,London,RJ2
@@ -31147,7 +31367,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-05-02,0,1,Provide - Halstead Hospital,East Of England,NQA64
 2020-05-02,0,2,Provide - St Peters Hospital,East Of England,NQA31
 2020-05-02,0,6,Central And North West London NHS Foundation Trust,London,RV3
-2020-05-02,0,277,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-05-02,0,278,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-05-02,0,267,Croydon Health Services NHS Trust,London,RJ6
 2020-05-02,0,13,East London NHS Foundation Trust,London,RWK
 2020-05-02,0,1,Hca UK - London Bridge,London,NW605
@@ -31321,7 +31541,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-05-01,1,97,Milton Keynes University Hospital NHS Foundation Trust,East Of England,RD8
 2020-05-01,1,92,Norfolk And Norwich University Hospitals NHS Foundation Trust,East Of England,RM1
 2020-05-01,1,42,West Suffolk NHS Foundation Trust,East Of England,RGR
-2020-05-01,1,277,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-05-01,1,278,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-05-01,1,267,Croydon Health Services NHS Trust,London,RJ6
 2020-05-01,1,13,East London NHS Foundation Trust,London,RWK
 2020-05-01,1,138,Kingston Hospital NHS Foundation Trust,London,RAX
@@ -31540,7 +31760,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-04-30,1,186,The Princess Alexandra Hospital NHS Trust,East Of England,RQW
 2020-04-30,1,41,West Suffolk NHS Foundation Trust,East Of England,RGR
 2020-04-30,1,7,Central London Community Healthcare NHS Trust,London,RYX
-2020-04-30,1,276,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-04-30,1,277,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-04-30,1,232,Epsom And St Helier University Hospitals NHS Trust,London,RVR
 2020-04-30,1,198,Guy'S And St Thomas' NHS Foundation Trust,London,RJ1
 2020-04-30,1,248,North Middlesex University Hospital NHS Trust,London,RAP
@@ -31713,7 +31933,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-04-29,4,90,North Bristol NHS Trust,South West,RVJ
 2020-04-29,3,256,East Suffolk And North Essex NHS Foundation Trust,East Of England,RDE
 2020-04-29,3,553,Barts Health NHS Trust,London,R1H
-2020-04-29,3,275,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-04-29,3,276,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-04-29,3,231,Epsom And St Helier University Hospitals NHS Trust,London,RVR
 2020-04-29,3,130,Homerton University Hospital NHS Foundation Trust,London,RQX
 2020-04-29,3,159,Northampton General Hospital NHS Trust,Midlands,RNS
@@ -31953,7 +32173,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-04-28,2,184,The Princess Alexandra Hospital NHS Trust,East Of England,RQW
 2020-04-28,2,98,"The Queen Elizabeth Hospital, King'S Lynn, NHS Foundation Trust",East Of England,RCX
 2020-04-28,2,550,Barts Health NHS Trust,London,R1H
-2020-04-28,2,272,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-04-28,2,273,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-04-28,2,197,Guy'S And St Thomas' NHS Foundation Trust,London,RJ1
 2020-04-28,2,127,Homerton University Hospital NHS Foundation Trust,London,RQX
 2020-04-28,2,136,Kingston Hospital NHS Foundation Trust,London,RAX
@@ -32179,7 +32399,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-04-27,2,86,Cambridge University Hospitals NHS Foundation Trust,East Of England,RGT
 2020-04-27,2,189,Luton And Dunstable University Hospital NHS Foundation Trust,East Of England,RC9
 2020-04-27,2,360,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
-2020-04-27,2,270,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-04-27,2,271,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-04-27,2,418,King'S College Hospital NHS Foundation Trust,London,RJZ
 2020-04-27,2,243,North Middlesex University Hospital NHS Trust,London,RAP
 2020-04-27,2,37,Royal Brompton & Harefield NHS Foundation Trust,London,RT3
@@ -32376,7 +32596,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-04-26,4,352,Pennine Acute Hospitals NHS Trust,North West,RW6
 2020-04-26,4,110,Southport And Ormskirk Hospital NHS Trust,North West,RVY
 2020-04-26,4,148,Dartford And Gravesham NHS Trust,South East,RN7
-2020-04-26,3,268,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-04-26,3,269,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-04-26,3,131,Kingston Hospital NHS Foundation Trust,London,RAX
 2020-04-26,3,187,Nottingham University Hospitals NHS Trust,Midlands,RX1
 2020-04-26,3,283,Sandwell And West Birmingham Hospitals NHS Trust,Midlands,RXK
@@ -32653,7 +32873,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-04-25,1,91,Milton Keynes University Hospital NHS Foundation Trust,East Of England,RD8
 2020-04-25,1,2,Norfolk And Suffolk NHS Foundation Trust,East Of England,RMY
 2020-04-25,1,6,Central London Community Healthcare NHS Trust,London,RYX
-2020-04-25,1,265,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-04-25,1,266,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-04-25,1,189,Guy'S And St Thomas' NHS Foundation Trust,London,RJ1
 2020-04-25,1,3,Royal National Orthopaedic Hospital NHS Trust,London,RAN
 2020-04-25,1,152,The Hillingdon Hospitals NHS Foundation Trust,London,RAS
@@ -32873,7 +33093,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-04-24,2,57,University Hospitals Plymouth NHS Trust,South West,RK9
 2020-04-24,1,7,Hertfordshire Partnership University NHS Foundation Trust,East Of England,RWR
 2020-04-24,1,15,Royal Papworth Hospital NHS Foundation Trust,East Of England,RGM
-2020-04-24,1,264,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-04-24,1,265,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-04-24,1,16,North East London NHS Foundation Trust,London,RAT
 2020-04-24,1,33,Royal Brompton & Harefield NHS Foundation Trust,London,RT3
 2020-04-24,1,443,Royal Free London NHS Foundation Trust,London,RAL
@@ -33004,7 +33224,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-04-23,10,393,King'S College Hospital NHS Foundation Trust,London,RJZ
 2020-04-23,10,340,University Hospitals Of Derby And Burton NHS Foundation Trust,Midlands,RTG
 2020-04-23,9,265,West Hertfordshire Hospitals NHS Trust,East Of England,RWG
-2020-04-23,9,263,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-04-23,9,264,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-04-23,9,206,University Hospitals Of Leicester NHS Trust,Midlands,RWE
 2020-04-23,9,339,Liverpool University Hospitals NHS Foundation Trust,North West,REM
 2020-04-23,8,528,Barts Health NHS Trust,London,R1H
@@ -33276,7 +33496,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-04-22,3,131,Mid Essex Hospital Services NHS Trust,East Of England,RQ8
 2020-04-22,3,77,Norfolk And Norwich University Hospitals NHS Foundation Trust,East Of England,RM1
 2020-04-22,3,174,The Princess Alexandra Hospital NHS Trust,East Of England,RQW
-2020-04-22,3,254,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-04-22,3,255,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-04-22,3,14,North East London NHS Foundation Trust,London,RAT
 2020-04-22,3,80,George Eliot Hospital NHS Trust,Midlands,RLT
 2020-04-22,3,182,University Hospitals Coventry And Warwickshire NHS Trust,Midlands,RKB
@@ -33520,7 +33740,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-04-21,3,67,University Hospitals Bristol NHS Foundation Trust,South West,RA7
 2020-04-21,2,14,Royal Papworth Hospital NHS Foundation Trust,East Of England,RGM
 2020-04-21,2,26,West Suffolk NHS Foundation Trust,East Of England,RGR
-2020-04-21,2,251,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-04-21,2,252,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-04-21,2,233,Croydon Health Services NHS Trust,London,RJ6
 2020-04-21,2,122,Homerton University Hospital NHS Foundation Trust,London,RQX
 2020-04-21,2,118,Kingston Hospital NHS Foundation Trust,London,RAX
@@ -33727,7 +33947,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-04-20,4,114,Royal Berkshire NHS Foundation Trust,South East,RHW
 2020-04-20,3,66,Cambridge University Hospitals NHS Foundation Trust,East Of England,RGT
 2020-04-20,3,72,"The Queen Elizabeth Hospital, King'S Lynn, NHS Foundation Trust",East Of England,RCX
-2020-04-20,3,249,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-04-20,3,250,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-04-20,3,116,Kingston Hospital NHS Foundation Trust,London,RAX
 2020-04-20,3,145,The Hillingdon Hospitals NHS Foundation Trust,London,RAS
 2020-04-20,3,78,Sherwood Forest Hospitals NHS Foundation Trust,Midlands,RK5
@@ -33910,7 +34130,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-04-19,6,216,South Tyneside And Sunderland NHS Foundation Trust,North East and Yorkshire,R0B
 2020-04-19,6,77,Buckinghamshire Healthcare NHS Trust,South East,RXQ
 2020-04-19,6,107,University Hospital Southampton NHS Foundation Trust,South East,RHM
-2020-04-19,5,246,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-04-19,5,247,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-04-19,5,232,St George'S University Hospitals NHS Foundation Trust,London,RJ7
 2020-04-19,5,74,Kettering General Hospital NHS Foundation Trust,Midlands,RNQ
 2020-04-19,5,119,Northampton General Hospital NHS Trust,Midlands,RNS
@@ -34169,7 +34389,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-04-18,3,86,Bedford Hospital NHS Trust,East Of England,RC1
 2020-04-18,3,57,James Paget University Hospitals NHS Foundation Trust,East Of England,RGP
 2020-04-18,3,124,Southend University Hospital NHS Foundation Trust,East Of England,RAJ
-2020-04-18,3,241,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-04-18,3,242,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-04-18,3,163,Guy'S And St Thomas' NHS Foundation Trust,London,RJ1
 2020-04-18,3,15,Worcestershire Health And Care NHS Trust,Midlands,R1A
 2020-04-18,3,89,Bradford Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RAE
@@ -34324,7 +34544,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-04-17,14,208,West Hertfordshire Hospitals NHS Trust,East Of England,RWG
 2020-04-17,14,198,Manchester University NHS Foundation Trust,North West,R0A
 2020-04-17,13,463,Barts Health NHS Trust,London,R1H
-2020-04-17,13,238,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-04-17,13,239,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-04-17,13,281,University Hospitals Of Derby And Burton NHS Foundation Trust,Midlands,RTG
 2020-04-17,12,153,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
 2020-04-17,11,160,Leeds Teaching Hospitals NHS Trust,North East and Yorkshire,RR8
@@ -34580,7 +34800,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-04-16,6,217,Frimley Health NHS Foundation Trust,South East,RDU
 2020-04-16,6,132,Surrey And Sussex Healthcare NHS Trust,South East,RTP
 2020-04-16,5,58,"The Queen Elizabeth Hospital, King'S Lynn, NHS Foundation Trust",East Of England,RCX
-2020-04-16,5,225,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-04-16,5,226,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-04-16,5,156,Guy'S And St Thomas' NHS Foundation Trust,London,RJ1
 2020-04-16,5,126,University College London Hospitals NHS Foundation Trust,London,RRV
 2020-04-16,5,105,Northampton General Hospital NHS Trust,Midlands,RNS
@@ -34795,7 +35015,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-04-15,6,156,East Suffolk And North Essex NHS Foundation Trust,East Of England,RDE
 2020-04-15,6,130,Luton And Dunstable University Hospital NHS Foundation Trust,East Of England,RC9
 2020-04-15,6,184,West Hertfordshire Hospitals NHS Trust,East Of England,RWG
-2020-04-15,6,220,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-04-15,6,221,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-04-15,6,207,Croydon Health Services NHS Trust,London,RJ6
 2020-04-15,6,101,Homerton University Hospital NHS Foundation Trust,London,RQX
 2020-04-15,6,96,Kingston Hospital NHS Foundation Trust,London,RAX
@@ -34984,7 +35204,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-04-14,15,260,Pennine Acute Hospitals NHS Trust,North West,RW6
 2020-04-14,14,371,Royal Free London NHS Foundation Trust,London,RAL
 2020-04-14,13,275,Lewisham And Greenwich NHS Trust,London,RJ2
-2020-04-14,12,214,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-04-14,12,215,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-04-14,12,248,University Hospitals Of Derby And Burton NHS Foundation Trust,Midlands,RTG
 2020-04-14,11,122,Sheffield Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RHQ
 2020-04-14,11,186,South Tyneside And Sunderland NHS Foundation Trust,North East and Yorkshire,R0B
@@ -35206,7 +35426,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-04-13,15,269,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
 2020-04-13,14,263,Imperial College Healthcare NHS Trust,London,RYJ
 2020-04-13,14,357,Royal Free London NHS Foundation Trust,London,RAL
-2020-04-13,13,202,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-04-13,13,203,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-04-13,13,117,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
 2020-04-13,12,303,King'S College Hospital NHS Foundation Trust,London,RJZ
 2020-04-13,11,157,Basildon And Thurrock University Hospitals NHS Foundation Trust,East Of England,RDD
@@ -35452,7 +35672,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-04-12,8,122,University Hospitals Coventry And Warwickshire NHS Trust,Midlands,RKB
 2020-04-12,8,230,University Hospitals Of Derby And Burton NHS Foundation Trust,Midlands,RTG
 2020-04-12,7,108,Southend University Hospital NHS Foundation Trust,East Of England,RAJ
-2020-04-12,7,189,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-04-12,7,190,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-04-12,7,97,County Durham And Darlington NHS Foundation Trust,North East and Yorkshire,RXP
 2020-04-12,7,105,South Tees Hospitals NHS Foundation Trust,North East and Yorkshire,RTR
 2020-04-12,7,80,Bolton NHS Foundation Trust,North West,RMC
@@ -35653,7 +35873,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-04-11,13,118,The Princess Alexandra Hospital NHS Trust,East Of England,RQW
 2020-04-11,13,208,Liverpool University Hospitals NHS Foundation Trust,North West,REM
 2020-04-11,13,131,Manchester University NHS Foundation Trust,North West,R0A
-2020-04-11,12,182,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-04-11,12,183,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-04-11,12,110,Wirral University Teaching Hospital NHS Foundation Trust,North West,RBL
 2020-04-11,12,131,Portsmouth Hospitals NHS Trust,South East,RHU
 2020-04-11,11,244,Lewisham And Greenwich NHS Trust,London,RJ2
@@ -35878,7 +36098,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-04-10,10,162,Frimley Health NHS Foundation Trust,South East,RDU
 2020-04-10,10,74,Medway NHS Foundation Trust,South East,RPA
 2020-04-10,9,227,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
-2020-04-10,9,170,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-04-10,9,171,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-04-10,9,156,Epsom And St Helier University Hospitals NHS Trust,London,RVR
 2020-04-10,9,100,Nottingham University Hospitals NHS Trust,Midlands,RX1
 2020-04-10,9,109,Worcestershire Acute Hospitals NHS Trust,Midlands,RWP
@@ -36090,7 +36310,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-04-09,16,109,Manchester University NHS Foundation Trust,North West,R0A
 2020-04-09,15,294,Royal Free London NHS Foundation Trust,London,RAL
 2020-04-09,14,258,King'S College Hospital NHS Foundation Trust,London,RJZ
-2020-04-09,12,161,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-04-09,12,162,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-04-09,12,64,Calderdale And Huddersfield NHS Foundation Trust,North East and Yorkshire,RWY
 2020-04-09,12,97,Surrey And Sussex Healthcare NHS Trust,South East,RTP
 2020-04-09,11,113,Basildon And Thurrock University Hospitals NHS Foundation Trust,East Of England,RDD
@@ -36311,7 +36531,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-04-08,16,99,East Suffolk And North Essex NHS Foundation Trust,East Of England,RDE
 2020-04-08,16,198,Imperial College Healthcare NHS Trust,London,RYJ
 2020-04-08,15,200,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
-2020-04-08,15,149,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-04-08,15,150,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-04-08,15,165,Pennine Acute Hospitals NHS Trust,North West,RW6
 2020-04-08,13,81,Southend University Hospital NHS Foundation Trust,East Of England,RAJ
 2020-04-08,13,130,West Hertfordshire Hospitals NHS Trust,East Of England,RWG
@@ -36537,7 +36757,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-04-07,12,64,Dartford And Gravesham NHS Trust,South East,RN7
 2020-04-07,11,65,County Durham And Darlington NHS Foundation Trust,North East and Yorkshire,RXP
 2020-04-07,11,111,South Tyneside And Sunderland NHS Foundation Trust,North East and Yorkshire,R0B
-2020-04-07,10,134,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-04-07,10,135,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-04-07,10,76,Leeds Teaching Hospitals NHS Trust,North East and Yorkshire,RR8
 2020-04-07,10,137,Frimley Health NHS Foundation Trust,South East,RDU
 2020-04-07,9,83,East Suffolk And North Essex NHS Foundation Trust,East Of England,RDE
@@ -36770,7 +36990,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-04-06,8,51,Royal Berkshire NHS Foundation Trust,South East,RHW
 2020-04-06,8,71,Surrey And Sussex Healthcare NHS Trust,South East,RTP
 2020-04-06,8,53,Gloucestershire Hospitals NHS Foundation Trust,South West,RTE
-2020-04-06,7,124,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-04-06,7,125,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-04-06,7,108,The Dudley Group NHS Foundation Trust,Midlands,RNA
 2020-04-06,7,31,Doncaster And Bassetlaw Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RP5
 2020-04-06,7,67,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
@@ -36967,7 +37187,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-04-05,15,104,Liverpool University Hospitals NHS Foundation Trust,North West,REM
 2020-04-05,14,160,Imperial College Healthcare NHS Trust,London,RYJ
 2020-04-05,13,151,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
-2020-04-05,13,117,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-04-05,13,118,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-04-05,12,199,King'S College Hospital NHS Foundation Trust,London,RJZ
 2020-04-05,12,130,St George'S University Hospitals NHS Foundation Trust,London,RJ7
 2020-04-05,12,121,Sandwell And West Birmingham Hospitals NHS Trust,Midlands,RXK
@@ -37200,7 +37420,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-04-04,11,51,Surrey And Sussex Healthcare NHS Trust,South East,RTP
 2020-04-04,10,102,North Middlesex University Hospital NHS Trust,London,RAP
 2020-04-04,9,67,Basildon And Thurrock University Hospitals NHS Foundation Trust,East Of England,RDD
-2020-04-04,9,104,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-04-04,9,105,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-04-04,9,108,The Royal Wolverhampton NHS Trust,Midlands,RL4
 2020-04-04,9,76,University Hospitals Of Leicester NHS Trust,Midlands,RWE
 2020-04-04,9,74,Walsall Healthcare NHS Trust,Midlands,RBK
@@ -37440,7 +37660,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-04-03,7,31,Dartford And Gravesham NHS Trust,South East,RN7
 2020-04-03,6,42,Luton And Dunstable University Hospital NHS Foundation Trust,East Of England,RC9
 2020-04-03,6,40,Southend University Hospital NHS Foundation Trust,East Of England,RAJ
-2020-04-03,6,95,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-04-03,6,96,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-04-03,6,96,Sandwell And West Birmingham Hospitals NHS Trust,Midlands,RXK
 2020-04-03,6,32,Tameside And Glossop Integrated Care NHS Foundation Trust,North West,RMP
 2020-04-03,6,56,University Hospitals Of Morecambe Bay NHS Foundation Trust,North West,RTX
@@ -37631,7 +37851,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-04-02,13,47,South Tyneside And Sunderland NHS Foundation Trust,North East and Yorkshire,R0B
 2020-04-02,13,65,Liverpool University Hospitals NHS Foundation Trust,North West,REM
 2020-04-02,13,50,University Hospitals Of Morecambe Bay NHS Foundation Trust,North West,RTX
-2020-04-02,12,89,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-04-02,12,90,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-04-02,12,58,University Hospitals Of Leicester NHS Trust,Midlands,RWE
 2020-04-02,11,91,The Royal Wolverhampton NHS Trust,Midlands,RL4
 2020-04-02,10,67,West Hertfordshire Hospitals NHS Trust,East Of England,RWG
@@ -37858,7 +38078,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-04-01,10,85,Sandwell And West Birmingham Hospitals NHS Trust,Midlands,RXK
 2020-04-01,10,50,University Hospitals Coventry And Warwickshire NHS Trust,Midlands,RKB
 2020-04-01,10,34,South Tees Hospitals NHS Foundation Trust,North East and Yorkshire,RTR
-2020-04-01,9,77,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-04-01,9,78,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-04-01,9,72,Frimley Health NHS Foundation Trust,South East,RDU
 2020-04-01,8,30,Southend University Hospital NHS Foundation Trust,East Of England,RAJ
 2020-04-01,8,88,St George'S University Hospitals NHS Foundation Trust,London,RJ7
@@ -38066,9 +38286,9 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-03-31,15,133,Barts Health NHS Trust,London,R1H
 2020-03-31,14,88,Lewisham And Greenwich NHS Trust,London,RJ2
 2020-03-31,13,47,West Hertfordshire Hospitals NHS Trust,East Of England,RWG
+2020-03-31,13,69,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-03-31,13,92,Imperial College Healthcare NHS Trust,London,RYJ
 2020-03-31,13,111,Royal Free London NHS Foundation Trust,London,RAL
-2020-03-31,12,68,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-03-31,12,75,Sandwell And West Birmingham Hospitals NHS Trust,Midlands,RXK
 2020-03-31,11,38,Basildon And Thurrock University Hospitals NHS Foundation Trust,East Of England,RDD
 2020-03-31,11,60,North Middlesex University Hospital NHS Trust,London,RAP
