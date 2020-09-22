@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-20,Rio de Janeiro,Carmo,10.58,2,0,0.0,175,4,2.29,926.17,21.17,0.93,18895,105.83,-15.88,338.69,5.29
+2020-09-19,Rio de Janeiro,Carmo,10.58,2,0,0.0,173,4,2.31,915.59,21.17,0.92,18895,121.71,10.58,333.4,10.58
+2020-09-18,Rio de Janeiro,Carmo,63.51,12,0,0.0,171,4,2.34,905.0,21.17,0.91,18895,111.13,0.0,322.82,52.93
 2020-09-17,Rio de Janeiro,Carmo,0.0,0,0,0.0,159,4,2.52,841.49,21.17,0.84,18895,111.13,0.0,269.89,-10.58
 2020-09-16,Rio de Janeiro,Carmo,5.29,1,0,0.0,159,4,2.52,841.49,21.17,0.84,18895,111.13,5.29,280.47,-5.29
 2020-09-15,Rio de Janeiro,Carmo,10.58,2,1,5.29,158,4,2.53,836.2,21.17,0.84,18895,105.84,10.58,285.76,10.58

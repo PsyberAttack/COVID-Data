@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-20,Rio de Janeiro,Mendes,0.0,0,0,0.0,185,2,1.08,993.88,10.74,0.99,18614,107.44,-21.49,354.55,-26.86
+2020-09-19,Rio de Janeiro,Mendes,26.86,5,0,0.0,185,2,1.08,993.88,10.74,0.99,18614,128.93,26.86,381.41,26.86
+2020-09-18,Rio de Janeiro,Mendes,64.47,12,0,0.0,180,2,1.11,967.01,10.74,0.97,18614,102.07,-32.23,354.55,59.1
 2020-09-17,Rio de Janeiro,Mendes,0.0,0,0,0.0,168,2,1.19,902.55,10.74,0.9,18614,134.3,0.0,295.45,0.0
 2020-09-16,Rio de Janeiro,Mendes,5.37,1,0,0.0,168,2,1.19,902.55,10.74,0.9,18614,134.3,5.37,295.45,0.0
 2020-09-15,Rio de Janeiro,Mendes,10.74,2,0,0.0,167,2,1.2,897.17,10.74,0.9,18614,128.93,10.74,295.45,10.74

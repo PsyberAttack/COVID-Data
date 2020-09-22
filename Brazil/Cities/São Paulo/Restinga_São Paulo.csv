@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-21,São Paulo,Restinga,0.0,0,0,0.0,46,0,0.0,605.82,0.0,0.61,7593,92.19,0.0,368.76,0.0
+2020-09-20,São Paulo,Restinga,0.0,0,0,0.0,46,0,0.0,605.82,0.0,0.61,7593,92.19,0.0,368.76,-26.34
+2020-09-19,São Paulo,Restinga,-13.17,-1,0,0.0,46,0,0.0,605.82,0.0,0.61,7593,92.19,-39.51,395.1,-13.17
 2020-09-18,São Paulo,Restinga,39.51,3,0,0.0,47,0,0.0,618.99,0.0,0.62,7593,131.7,39.51,408.27,39.51
 2020-09-17,São Paulo,Restinga,26.34,2,0,0.0,44,0,0.0,579.48,0.0,0.58,7593,92.19,-13.17,368.76,26.34
 2020-09-16,São Paulo,Restinga,13.17,1,0,0.0,42,0,0.0,553.14,0.0,0.55,7593,105.36,-13.17,342.42,13.17
