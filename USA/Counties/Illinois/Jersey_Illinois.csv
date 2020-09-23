@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Illinois,Jersey,18.31,4,1,4.58,385,14,3.64,1762.26,64.08,1.76,21847,59.16,109.86,13.73,668.28,-27.46
+2020-09-21,Illinois,Jersey,4.58,1,0,0.0,381,13,3.41,1743.95,59.5,1.74,21847,59.16,96.13,-13.73,695.74,-22.88
 2020-09-20,Illinois,Jersey,9.15,2,0,0.0,380,13,3.42,1739.37,59.5,1.74,21847,59.16,109.86,-4.58,718.62,-36.62
 2020-09-19,Illinois,Jersey,22.89,5,0,0.0,378,13,3.44,1730.21,59.5,1.73,21847,59.16,114.44,4.58,755.24,-9.15
 2020-09-18,Illinois,Jersey,50.35,11,0,0.0,373,13,3.49,1707.33,59.5,1.71,21847,59.16,109.86,-22.89,764.39,18.31

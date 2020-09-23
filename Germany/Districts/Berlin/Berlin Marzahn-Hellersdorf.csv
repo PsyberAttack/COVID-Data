@@ -1,11 +1,11 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
 2020-09-20,Berlin,Berlin Marzahn-Hellersdorf,0.39,1,0,0.0,664,6,0.9,259.74,2.35,0.26,255643,12.92,0.0,33.25,-1.17
-2020-09-19,Berlin,Berlin Marzahn-Hellersdorf,2.35,6,0,0.0,663,6,0.9,259.35,2.35,0.26,255643,12.92,2.35,34.42,0.79
-2020-09-18,Berlin,Berlin Marzahn-Hellersdorf,0.39,1,0,0.0,657,6,0.91,257.0,2.35,0.26,255643,10.57,-1.17,33.63,0.0
-2020-09-17,Berlin,Berlin Marzahn-Hellersdorf,1.96,5,0,0.0,656,6,0.91,256.61,2.35,0.26,255643,11.74,-0.39,33.63,0.79
-2020-09-16,Berlin,Berlin Marzahn-Hellersdorf,2.35,6,0,0.0,651,6,0.92,254.65,2.35,0.25,255643,12.13,1.57,32.84,1.96
-2020-09-15,Berlin,Berlin Marzahn-Hellersdorf,1.96,5,0,0.0,645,6,0.93,252.3,2.35,0.25,255643,10.56,-0.39,30.88,-0.39
-2020-09-14,Berlin,Berlin Marzahn-Hellersdorf,3.52,9,0,0.0,640,6,0.94,250.35,2.35,0.25,255643,10.95,0.78,31.27,3.52
+2020-09-19,Berlin,Berlin Marzahn-Hellersdorf,1.96,5,0,0.0,663,6,0.9,259.35,2.35,0.26,255643,12.92,1.96,34.42,0.4
+2020-09-18,Berlin,Berlin Marzahn-Hellersdorf,0.39,1,0,0.0,658,6,0.91,257.39,2.35,0.26,255643,10.96,-1.17,34.02,0.0
+2020-09-17,Berlin,Berlin Marzahn-Hellersdorf,1.96,5,0,0.0,657,6,0.91,257.0,2.35,0.26,255643,12.13,-0.39,34.02,0.79
+2020-09-16,Berlin,Berlin Marzahn-Hellersdorf,2.35,6,0,0.0,652,6,0.92,255.04,2.35,0.26,255643,12.52,1.57,33.23,1.96
+2020-09-15,Berlin,Berlin Marzahn-Hellersdorf,1.96,5,0,0.0,646,6,0.93,252.7,2.35,0.25,255643,10.95,-0.39,31.27,-0.39
+2020-09-14,Berlin,Berlin Marzahn-Hellersdorf,3.91,10,0,0.0,641,6,0.94,250.74,2.35,0.25,255643,11.34,1.17,31.66,3.91
 2020-09-13,Berlin,Berlin Marzahn-Hellersdorf,0.39,1,0,0.0,631,6,0.95,246.83,2.35,0.25,255643,10.17,-1.57,27.75,0.39
 2020-09-12,Berlin,Berlin Marzahn-Hellersdorf,0.0,0,0,0.0,630,6,0.95,246.44,2.35,0.25,255643,11.74,-0.39,27.36,-0.78
 2020-09-11,Berlin,Berlin Marzahn-Hellersdorf,1.56,4,0,0.0,630,6,0.95,246.44,2.35,0.25,255643,12.13,1.17,28.14,1.56

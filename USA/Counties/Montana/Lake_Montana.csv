@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Montana,Lake,3.31,1,0,0.0,255,1,0.39,842.98,3.31,0.84,30250,20.3,39.67,-3.3,204.97,3.31
+2020-09-21,Montana,Lake,9.92,3,0,0.0,254,1,0.39,839.67,3.31,0.84,30250,20.3,42.97,9.92,201.66,6.61
 2020-09-20,Montana,Lake,0.0,0,0,0.0,251,1,0.4,829.75,3.31,0.83,30250,20.3,33.05,-29.75,195.05,0.0
 2020-09-19,Montana,Lake,-9.92,-3,0,0.0,251,1,0.4,829.75,3.31,0.83,30250,20.3,62.8,-9.92,195.05,-6.61
 2020-09-18,Montana,Lake,6.61,2,0,0.0,254,1,0.39,839.67,3.31,0.84,30250,20.3,72.72,-9.92,201.66,0.0

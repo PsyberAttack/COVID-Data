@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,New York,Westchester,3.0,29,0,0.0,37865,1454,3.84,3913.24,150.27,3.91,967612,2247.29,27.38,-0.1,116.15,-0.31
+2020-09-21,New York,Westchester,3.72,36,0,0.0,37836,1454,3.84,3910.25,150.27,3.91,967612,2247.29,27.48,-0.41,116.46,1.55
 2020-09-20,New York,Westchester,4.75,46,0,0.0,37800,1454,3.85,3906.52,150.27,3.91,967612,2247.29,27.89,0.1,114.91,0.82
 2020-09-19,New York,Westchester,3.82,37,0,0.0,37754,1454,3.85,3901.77,150.27,3.9,967612,2247.29,27.79,0.51,114.09,0.72
 2020-09-18,New York,Westchester,4.75,46,0,0.0,37717,1454,3.86,3897.95,150.27,3.9,967612,2247.29,27.28,-0.31,113.37,1.13

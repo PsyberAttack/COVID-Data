@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Indiana,Fulton,0.0,0,0,0.0,236,2,0.85,1174.6,9.95,1.17,20092,54.54,39.82,-9.95,179.19,-9.95
+2020-09-21,Indiana,Fulton,-4.98,-1,0,0.0,236,2,0.85,1174.6,9.95,1.17,20092,54.54,49.77,-9.96,189.14,-24.89
 2020-09-20,Indiana,Fulton,24.89,5,0,0.0,237,2,0.84,1179.57,9.95,1.18,20092,54.54,59.73,4.98,214.03,19.91
 2020-09-19,Indiana,Fulton,4.98,1,0,0.0,232,2,0.86,1154.69,9.95,1.15,20092,54.54,54.75,-4.97,194.12,-9.95
 2020-09-18,Indiana,Fulton,0.0,0,0,0.0,231,2,0.87,1149.71,9.95,1.15,20092,54.54,59.72,-4.98,204.07,-9.95

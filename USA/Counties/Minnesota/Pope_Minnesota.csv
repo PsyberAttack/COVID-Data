@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Minnesota,Pope,0.0,0,0,0.0,89,0,0.0,802.02,0.0,0.8,11097,16.57,135.17,0.0,270.32,-9.01
+2020-09-21,Minnesota,Pope,9.01,1,0,0.0,89,0,0.0,802.02,0.0,0.8,11097,16.57,135.17,9.01,279.33,0.0
 2020-09-20,Minnesota,Pope,18.02,2,0,0.0,88,0,0.0,793.01,0.0,0.79,11097,16.57,126.16,18.02,279.33,9.01
 2020-09-19,Minnesota,Pope,36.05,4,0,0.0,86,0,0.0,774.98,0.0,0.77,11097,16.57,108.14,36.05,270.32,27.04
 2020-09-18,Minnesota,Pope,9.01,1,0,0.0,82,0,0.0,738.94,0.0,0.74,11097,16.57,72.09,-9.01,243.28,9.01

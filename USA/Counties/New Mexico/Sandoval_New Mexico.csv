@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,New Mexico,Sandoval,0.69,1,0,0.0,1315,41,3.12,905.78,28.24,0.91,145179,39.13,12.41,-2.75,77.87,-1.38
+2020-09-21,New Mexico,Sandoval,0.69,1,1,0.69,1314,41,3.12,905.09,28.24,0.91,145179,39.13,15.16,-1.38,79.25,-2.75
 2020-09-20,New Mexico,Sandoval,0.0,0,0,0.0,1313,40,3.05,904.4,27.55,0.9,145179,39.13,16.54,-5.51,82.0,-12.4
 2020-09-19,New Mexico,Sandoval,1.38,2,0,0.0,1313,40,3.05,904.4,27.55,0.9,145179,39.13,22.05,-1.38,94.4,4.82
 2020-09-18,New Mexico,Sandoval,1.38,2,0,0.0,1311,40,3.05,903.02,27.55,0.9,145179,39.13,23.43,-2.75,89.58,-2.06

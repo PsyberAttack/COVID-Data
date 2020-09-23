@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Indiana,Harrison,-2.48,-1,0,0.0,563,26,4.62,1395.29,64.44,1.4,40350,83.28,54.51,-14.87,275.08,-32.22
+2020-09-21,Indiana,Harrison,2.48,1,0,0.0,564,26,4.61,1397.77,64.44,1.4,40350,83.28,69.38,-7.43,307.3,-2.48
 2020-09-20,Indiana,Harrison,9.91,4,0,0.0,563,26,4.62,1395.29,64.44,1.4,40350,83.28,76.81,7.43,309.78,-17.35
 2020-09-19,Indiana,Harrison,12.39,5,0,0.0,559,26,4.65,1385.38,64.44,1.39,40350,83.28,69.38,7.43,327.13,-4.96
 2020-09-18,Indiana,Harrison,7.43,3,0,0.0,554,26,4.69,1372.99,64.44,1.37,40350,83.28,61.95,2.47,332.09,-24.79

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Missouri,Bates,0.0,0,0,0.0,101,1,0.99,618.87,6.13,0.62,16320,19.51,104.16,-6.13,238.97,-6.13
+2020-09-21,Missouri,Bates,12.25,2,0,0.0,101,1,0.99,618.87,6.13,0.62,16320,19.51,110.29,6.12,245.1,6.12
 2020-09-20,Missouri,Bates,6.13,1,0,0.0,99,1,1.01,606.62,6.13,0.61,16320,19.51,104.17,6.13,238.98,6.13
 2020-09-19,Missouri,Bates,24.51,4,0,0.0,98,1,1.02,600.49,6.13,0.6,16320,19.51,98.04,18.38,232.85,6.13
 2020-09-18,Missouri,Bates,12.25,2,0,0.0,94,1,1.06,575.98,6.13,0.58,16320,19.51,79.66,6.12,226.72,6.12

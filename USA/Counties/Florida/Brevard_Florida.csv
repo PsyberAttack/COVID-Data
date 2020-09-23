@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Florida,Brevard,12.23,73,4,0.67,8502,281,3.31,1424.48,47.08,1.42,596849,587.92,75.72,3.01,256.33,7.87
+2020-09-21,Florida,Brevard,5.7,34,0,0.0,8429,277,3.29,1412.25,46.41,1.41,596849,587.92,72.71,-0.16,248.46,0.0
 2020-09-20,Florida,Brevard,7.2,43,1,0.17,8395,277,3.3,1406.55,46.41,1.41,596849,587.92,72.87,1.5,248.46,3.35
 2020-09-19,Florida,Brevard,14.74,88,2,0.34,8352,276,3.3,1399.35,46.24,1.4,596849,587.92,71.37,3.85,245.11,-0.67
 2020-09-18,Florida,Brevard,11.9,71,4,0.67,8264,274,3.32,1384.6,45.91,1.38,596849,587.92,67.52,-0.5,245.78,4.53

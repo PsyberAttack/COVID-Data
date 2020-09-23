@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Oregon,Multnomah,7.27,59,0,0.0,6912,136,1.97,851.36,16.75,0.85,811880,1883.25,36.21,3.08,141.78,1.97
+2020-09-21,Oregon,Multnomah,4.31,35,4,0.49,6853,136,1.98,844.09,16.75,0.84,811880,1883.25,33.13,0.86,139.81,-2.71
 2020-09-20,Oregon,Multnomah,4.8,39,0,0.0,6818,132,1.94,839.78,16.26,0.84,811880,1883.25,32.27,0.61,142.52,-3.08
 2020-09-19,Oregon,Multnomah,4.43,36,0,0.0,6779,132,1.95,834.98,16.26,0.83,811880,1883.25,31.66,-3.45,145.6,-2.22
 2020-09-18,Oregon,Multnomah,6.53,53,3,0.37,6743,132,1.96,830.54,16.26,0.83,811880,1883.25,35.11,-0.74,147.82,1.85

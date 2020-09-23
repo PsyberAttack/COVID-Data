@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,West Virginia,Berkeley,0.85,1,0,0.0,948,13,1.37,809.41,11.1,0.81,117123,364.7,49.51,-4.27,152.82,-0.86
+2020-09-21,West Virginia,Berkeley,2.56,3,1,0.85,947,13,1.37,808.55,11.1,0.81,117123,364.7,53.78,-7.69,153.68,1.71
 2020-09-20,West Virginia,Berkeley,5.12,6,-1,-0.85,944,12,1.27,805.99,10.25,0.81,117123,364.7,61.47,0.0,151.97,3.41
 2020-09-19,West Virginia,Berkeley,7.68,9,0,0.0,938,13,1.39,800.87,11.1,0.8,117123,364.7,61.47,-0.86,148.56,1.7
 2020-09-18,West Virginia,Berkeley,5.98,7,0,0.0,929,13,1.4,793.18,11.1,0.79,117123,364.7,62.33,1.71,146.86,2.56

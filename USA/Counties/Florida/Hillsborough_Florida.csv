@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Florida,Hillsborough,8.21,118,1,0.07,41016,605,1.48,2854.5,42.1,2.85,1436888,1406.17,88.02,-2.3,352.35,-1.46
+2020-09-21,Florida,Hillsborough,10.23,147,0,0.0,40898,604,1.48,2846.29,42.04,2.85,1436888,1406.17,90.32,-0.21,353.81,3.76
 2020-09-20,Florida,Hillsborough,11.41,164,0,0.0,40751,604,1.48,2836.06,42.04,2.84,1436888,1406.17,90.53,0.83,350.05,1.18
 2020-09-19,Florida,Hillsborough,16.56,238,0,0.0,40587,604,1.49,2824.65,42.04,2.82,1436888,1406.17,89.7,5.42,348.87,-3.0
 2020-09-18,Florida,Hillsborough,15.52,223,3,0.21,40349,604,1.5,2808.08,42.04,2.81,1436888,1406.17,84.28,0.14,351.87,-0.63

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Ohio,Champaign,0.0,0,0,0.0,294,3,1.02,758.63,7.74,0.76,38754,90.34,33.54,0.0,147.06,-7.74
+2020-09-21,Ohio,Champaign,2.58,1,0,0.0,294,3,1.02,758.63,7.74,0.76,38754,90.34,33.54,-5.16,154.8,-2.58
 2020-09-20,Ohio,Champaign,15.48,6,0,0.0,293,3,1.02,756.05,7.74,0.76,38754,90.34,38.7,-2.58,157.38,10.32
 2020-09-19,Ohio,Champaign,5.16,2,0,0.0,287,3,1.05,740.57,7.74,0.74,38754,90.34,41.28,-2.58,147.06,-2.58
 2020-09-18,Ohio,Champaign,5.16,2,0,0.0,285,3,1.05,735.41,7.74,0.74,38754,90.34,43.86,-5.16,149.64,-5.16

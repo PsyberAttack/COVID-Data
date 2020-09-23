@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Florida,Jefferson,14.0,2,0,0.0,548,8,1.46,3835.39,55.99,3.84,14288,23.89,98.0,14.0,391.98,7.0
+2020-09-21,Florida,Jefferson,0.0,0,0,0.0,546,8,1.47,3821.39,55.99,3.82,14288,23.89,84.0,-14.0,384.98,0.0
 2020-09-20,Florida,Jefferson,14.0,2,0,0.0,546,8,1.47,3821.39,55.99,3.82,14288,23.89,98.0,0.0,384.98,-7.0
 2020-09-19,Florida,Jefferson,14.0,2,0,0.0,544,8,1.47,3807.39,55.99,3.81,14288,23.89,98.0,7.0,391.98,-34.99
 2020-09-18,Florida,Jefferson,14.0,2,0,0.0,542,8,1.48,3793.39,55.99,3.79,14288,23.89,91.0,-14.0,426.97,-14.0

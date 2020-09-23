@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Iowa,Jefferson,0.0,0,0,0.0,134,1,0.75,729.01,5.44,0.73,18381,42.2,27.2,-16.32,146.88,-10.88
+2020-09-21,Iowa,Jefferson,0.0,0,0,0.0,134,1,0.75,729.01,5.44,0.73,18381,42.2,43.52,0.0,157.76,-10.88
 2020-09-20,Iowa,Jefferson,5.44,1,0,0.0,134,1,0.75,729.01,5.44,0.73,18381,42.2,43.52,5.44,168.64,5.44
 2020-09-19,Iowa,Jefferson,5.44,1,0,0.0,133,1,0.75,723.57,5.44,0.72,18381,42.2,38.08,5.44,163.2,-10.88
 2020-09-18,Iowa,Jefferson,10.88,2,0,0.0,132,1,0.76,718.13,5.44,0.72,18381,42.2,32.64,0.0,174.08,0.0

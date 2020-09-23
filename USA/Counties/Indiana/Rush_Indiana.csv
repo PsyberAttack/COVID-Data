@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Indiana,Rush,6.0,1,0,0.0,195,4,2.05,1170.26,24.01,1.17,16663,40.83,36.0,12.0,168.01,0.0
+2020-09-21,Indiana,Rush,0.0,0,0,0.0,194,4,2.06,1164.26,24.01,1.16,16663,40.83,24.0,-6.0,168.01,-6.0
 2020-09-20,Indiana,Rush,12.0,2,0,0.0,194,4,2.06,1164.26,24.01,1.16,16663,40.83,30.0,6.0,174.01,6.0
 2020-09-19,Indiana,Rush,0.0,0,0,0.0,192,4,2.08,1152.25,24.01,1.15,16663,40.83,24.0,-6.0,168.01,-12.0
 2020-09-18,Indiana,Rush,6.0,1,0,0.0,192,4,2.08,1152.25,24.01,1.15,16663,40.83,30.0,-6.0,180.01,-18.01

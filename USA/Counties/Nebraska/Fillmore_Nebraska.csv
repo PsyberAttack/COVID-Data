@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Nebraska,Fillmore,0.0,0,0,0.0,53,1,1.89,958.93,18.09,0.96,5527,9.61,90.45,0.0,416.13,0.0
+2020-09-21,Nebraska,Fillmore,18.09,1,0,0.0,53,1,1.89,958.93,18.09,0.96,5527,9.61,90.45,-18.1,416.13,18.09
 2020-09-20,Nebraska,Fillmore,18.09,1,0,0.0,52,1,1.92,940.84,18.09,0.94,5527,9.61,108.55,18.09,398.04,18.09
 2020-09-19,Nebraska,Fillmore,18.09,1,0,0.0,51,1,1.96,922.74,18.09,0.92,5527,9.61,90.46,-18.1,379.95,18.09
 2020-09-18,Nebraska,Fillmore,18.09,1,0,0.0,50,1,2.0,904.65,18.09,0.9,5527,9.61,108.56,-36.19,361.86,0.0

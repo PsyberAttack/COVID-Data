@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,South Carolina,Charleston,14.78,60,1,0.25,15560,258,1.66,3833.41,63.56,3.83,405905,442.2,90.91,8.87,522.29,6.16
+2020-09-21,South Carolina,Charleston,2.71,11,1,0.25,15500,257,1.66,3818.63,63.32,3.82,405905,442.2,82.04,-7.88,516.13,-18.23
 2020-09-20,South Carolina,Charleston,8.38,34,0,0.0,15489,256,1.65,3815.92,63.07,3.82,405905,442.2,89.92,-96.32,534.36,-7.14
 2020-09-19,South Carolina,Charleston,18.97,77,1,0.25,15455,256,1.66,3807.54,63.07,3.81,405905,442.2,186.24,9.61,541.5,-5.91
 2020-09-18,South Carolina,Charleston,11.33,46,0,0.0,15378,255,1.66,3788.57,62.82,3.79,405905,442.2,176.63,-16.02,547.41,0.24

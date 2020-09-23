@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,California,Solano,4.25,19,2,0.45,6199,57,0.92,1388.01,12.76,1.39,446610,543.49,46.34,-6.95,215.63,-1.35
+2020-09-21,California,Solano,20.15,90,0,0.0,6180,55,0.89,1383.76,12.31,1.38,446610,543.49,53.29,-6.05,216.98,-15.23
 2020-09-20,California,Solano,0.0,0,0,0.0,6090,55,0.9,1363.61,12.31,1.36,446610,543.49,59.34,0.0,232.21,0.0
 2020-09-19,California,Solano,0.0,0,0,0.0,6090,55,0.9,1363.61,12.31,1.36,446610,543.49,59.34,0.0,232.21,0.0
 2020-09-18,California,Solano,6.94,31,0,0.0,6090,55,0.9,1363.61,12.31,1.36,446610,543.49,59.34,3.58,232.21,-2.46

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Kentucky,Mercer,22.96,5,0,0.0,200,2,1.0,918.53,9.19,0.92,21774,87.42,133.19,-4.6,431.74,13.77
+2020-09-21,Kentucky,Mercer,0.0,0,0,0.0,195,2,1.03,895.56,9.19,0.9,21774,87.42,137.79,0.0,417.97,4.59
 2020-09-20,Kentucky,Mercer,9.19,2,0,0.0,195,2,1.03,895.56,9.19,0.9,21774,87.42,137.79,-4.59,413.38,9.19
 2020-09-19,Kentucky,Mercer,36.74,8,1,4.59,193,2,1.04,886.38,9.19,0.89,21774,87.42,142.38,-9.19,404.19,36.74
 2020-09-18,Kentucky,Mercer,50.52,11,0,0.0,185,1,0.54,849.64,4.59,0.85,21774,87.42,151.57,41.33,367.45,22.96

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Pennsylvania,Pike,7.15,4,0,0.0,570,22,3.86,1019.08,39.33,1.02,55933,102.64,23.25,3.57,62.61,7.15
+2020-09-21,Pennsylvania,Pike,0.0,0,0,0.0,566,22,3.89,1011.92,39.33,1.01,55933,102.64,19.68,-1.79,55.46,-3.58
 2020-09-20,Pennsylvania,Pike,1.79,1,1,1.79,566,22,3.89,1011.92,39.33,1.01,55933,102.64,21.47,1.79,59.04,1.79
 2020-09-19,Pennsylvania,Pike,1.79,1,0,0.0,565,21,3.72,1010.14,37.54,1.01,55933,102.64,19.68,0.0,57.25,0.0
 2020-09-18,Pennsylvania,Pike,5.36,3,0,0.0,564,21,3.72,1008.35,37.54,1.01,55933,102.64,19.68,-1.79,57.25,3.57

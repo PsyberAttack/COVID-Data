@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Nebraska,Rock,0.0,0,0,0.0,39,1,2.56,2867.65,73.53,2.87,1360,1.35,367.65,0.0,2500.01,0.0
+2020-09-21,Nebraska,Rock,147.06,2,1,73.53,39,1,2.56,2867.65,73.53,2.87,1360,1.35,367.65,73.53,2500.01,147.06
 2020-09-20,Nebraska,Rock,0.0,0,0,0.0,37,0,0.0,2720.59,0.0,2.72,1360,1.35,294.12,0.0,2352.95,-73.53
 2020-09-19,Nebraska,Rock,0.0,0,0,0.0,37,0,0.0,2720.59,0.0,2.72,1360,1.35,294.12,0.0,2426.48,0.0
 2020-09-18,Nebraska,Rock,147.06,2,0,0.0,37,0,0.0,2720.59,0.0,2.72,1360,1.35,294.12,-588.23,2426.48,73.53

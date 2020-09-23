@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,New York,Columbia,0.0,0,0,0.0,582,47,8.08,971.36,78.44,0.97,59916,94.41,8.35,0.0,30.06,-3.34
+2020-09-21,New York,Columbia,1.67,1,0,0.0,582,47,8.08,971.36,78.44,0.97,59916,94.41,8.35,1.67,33.4,1.67
 2020-09-20,New York,Columbia,1.67,1,0,0.0,581,47,8.09,969.69,78.44,0.97,59916,94.41,6.68,1.67,31.73,0.0
 2020-09-19,New York,Columbia,0.0,0,0,0.0,580,47,8.1,968.02,78.44,0.97,59916,94.41,5.01,0.0,31.73,0.0
 2020-09-18,New York,Columbia,1.67,1,0,0.0,580,47,8.1,968.02,78.44,0.97,59916,94.41,5.01,0.0,31.73,0.0

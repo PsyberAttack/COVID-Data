@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Maryland,Dorchester,9.38,3,0,0.0,578,10,1.73,1806.36,31.25,1.81,31998,59.17,125.02,-15.62,462.57,9.38
+2020-09-21,Maryland,Dorchester,12.5,4,0,0.0,575,10,1.74,1796.99,31.25,1.8,31998,59.17,140.64,3.12,453.19,9.37
 2020-09-20,Maryland,Dorchester,9.38,3,0,0.0,571,10,1.75,1784.49,31.25,1.78,31998,59.17,137.52,-31.25,443.82,3.13
 2020-09-19,Maryland,Dorchester,34.38,11,0,0.0,568,10,1.76,1775.11,31.25,1.78,31998,59.17,168.77,18.75,440.69,28.13
 2020-09-18,Maryland,Dorchester,9.38,3,0,0.0,557,10,1.8,1740.73,31.25,1.74,31998,59.17,150.02,-3.12,412.56,-18.75

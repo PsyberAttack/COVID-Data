@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Oklahoma,Major,52.33,4,0,0.0,80,1,1.25,1046.57,13.08,1.05,7644,8.0,143.9,26.17,484.03,52.33
+2020-09-21,Oklahoma,Major,78.49,6,0,0.0,76,1,1.32,994.24,13.08,0.99,7644,8.0,117.73,65.41,431.7,78.49
 2020-09-20,Oklahoma,Major,0.0,0,0,0.0,70,1,1.43,915.75,13.08,0.92,7644,8.0,52.32,-13.08,353.21,0.0
 2020-09-19,Oklahoma,Major,13.08,1,0,0.0,70,1,1.43,915.75,13.08,0.92,7644,8.0,65.4,-26.17,353.21,0.0
 2020-09-18,Oklahoma,Major,-13.08,-1,0,0.0,69,1,1.45,902.67,13.08,0.9,7644,8.0,91.57,-65.41,353.21,-65.41

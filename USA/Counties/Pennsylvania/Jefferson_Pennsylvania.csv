@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Pennsylvania,Jefferson,0.0,0,0,0.0,109,3,2.75,249.77,6.87,0.25,43641,66.89,11.45,-6.87,34.35,0.0
+2020-09-21,Pennsylvania,Jefferson,0.0,0,1,2.29,109,3,2.75,249.77,6.87,0.25,43641,66.89,18.32,0.0,34.35,-2.29
 2020-09-20,Pennsylvania,Jefferson,4.58,2,0,0.0,109,2,1.83,249.77,4.58,0.25,43641,66.89,18.32,4.58,36.64,-6.88
 2020-09-19,Pennsylvania,Jefferson,2.29,1,0,0.0,107,2,1.87,245.18,4.58,0.25,43641,66.89,13.74,2.29,43.52,-9.17
 2020-09-18,Pennsylvania,Jefferson,-2.29,-1,0,0.0,106,2,1.89,242.89,4.58,0.24,43641,66.89,11.45,-2.29,52.69,-9.16

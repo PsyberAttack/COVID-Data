@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Mississippi,Webster,10.22,1,0,0.0,332,13,3.92,3391.91,132.82,3.39,9788,23.25,81.73,0.0,408.66,-91.95
+2020-09-21,Mississippi,Webster,0.0,0,0,0.0,331,13,3.93,3381.69,132.82,3.38,9788,23.25,81.73,-20.43,500.61,0.0
 2020-09-20,Mississippi,Webster,0.0,0,0,0.0,331,13,3.93,3381.69,132.82,3.38,9788,23.25,102.16,0.0,500.61,-20.43
 2020-09-19,Mississippi,Webster,30.65,3,0,0.0,331,13,3.93,3381.69,132.82,3.38,9788,23.25,102.16,20.43,521.04,20.43
 2020-09-18,Mississippi,Webster,0.0,0,0,0.0,328,13,3.96,3351.04,132.82,3.35,9788,23.25,81.73,-30.65,500.61,-10.22

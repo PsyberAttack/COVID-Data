@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Virginia,Roanoke,0.0,0,0,0.0,784,7,0.89,833.4,7.44,0.83,94073,375.48,73.35,-5.32,239.2,-2.13
+2020-09-21,Virginia,Roanoke,-2.13,-2,0,0.0,784,7,0.89,833.4,7.44,0.83,94073,375.48,78.67,-10.63,241.33,-7.45
 2020-09-20,Virginia,Roanoke,12.76,12,0,0.0,786,7,0.89,835.52,7.44,0.84,94073,375.48,89.3,6.38,248.78,11.7
 2020-09-19,Virginia,Roanoke,10.63,10,1,1.06,774,7,0.9,822.77,7.44,0.82,94073,375.48,82.92,1.06,237.08,1.06
 2020-09-18,Virginia,Roanoke,20.2,19,0,0.0,764,6,0.79,812.14,6.38,0.81,94073,375.48,81.86,9.57,236.02,20.2

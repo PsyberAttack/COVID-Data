@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Louisiana,Catahoula,31.22,3,0,0.0,432,10,2.31,4496.25,104.08,4.5,9608,13.57,114.49,20.81,811.82,0.0
+2020-09-21,Louisiana,Catahoula,-10.41,-1,0,0.0,429,10,2.33,4465.03,104.08,4.47,9608,13.57,93.68,-20.82,811.82,-62.45
 2020-09-20,Louisiana,Catahoula,41.63,4,0,0.0,430,10,2.33,4475.44,104.08,4.48,9608,13.57,114.5,-114.49,874.27,-41.63
 2020-09-19,Louisiana,Catahoula,0.0,0,0,0.0,426,10,2.35,4433.81,104.08,4.43,9608,13.57,228.99,0.0,915.9,0.0
 2020-09-18,Louisiana,Catahoula,20.82,2,1,10.41,426,10,2.35,4433.81,104.08,4.43,9608,13.57,228.99,-10.4,915.9,-72.85

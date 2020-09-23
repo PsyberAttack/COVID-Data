@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Nebraska,Cedar,23.68,2,0,0.0,76,0,0.0,899.83,0.0,0.9,8446,11.41,47.36,11.84,378.88,0.0
+2020-09-21,Nebraska,Cedar,11.84,1,0,0.0,74,0,0.0,876.15,0.0,0.88,8446,11.41,35.52,23.68,378.88,11.84
 2020-09-20,Nebraska,Cedar,0.0,0,0,0.0,73,0,0.0,864.31,0.0,0.86,8446,11.41,11.84,0.0,367.04,-23.68
 2020-09-19,Nebraska,Cedar,-11.84,-1,0,0.0,73,0,0.0,864.31,0.0,0.86,8446,11.41,11.84,-23.68,390.72,-23.68
 2020-09-18,Nebraska,Cedar,11.84,1,0,0.0,74,0,0.0,876.15,0.0,0.88,8446,11.41,35.52,-82.88,414.4,-47.36

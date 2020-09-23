@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Colorado,Logan,32.52,7,0,0.0,846,5,0.59,3929.77,23.23,3.93,21528,11.71,250.85,18.58,808.29,0.0
+2020-09-21,Colorado,Logan,23.23,5,0,0.0,839,5,0.6,3897.25,23.23,3.9,21528,11.71,232.27,-37.16,808.29,18.58
 2020-09-20,Colorado,Logan,27.87,6,0,0.0,834,5,0.6,3874.02,23.23,3.87,21528,11.71,269.43,-125.42,789.71,23.22
 2020-09-19,Colorado,Logan,60.39,13,0,0.0,828,5,0.6,3846.15,23.23,3.85,21528,11.71,394.85,4.65,766.49,46.45
 2020-09-18,Colorado,Logan,9.29,2,0,0.0,815,5,0.61,3785.77,23.23,3.79,21528,11.71,390.2,0.0,720.04,4.64

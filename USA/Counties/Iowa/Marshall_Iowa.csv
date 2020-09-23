@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Iowa,Marshall,5.0,2,0,0.0,1764,34,1.93,4412.1,85.04,4.41,39981,69.84,52.52,0.0,472.7,-7.51
+2020-09-21,Iowa,Marshall,2.5,1,0,0.0,1762,34,1.93,4407.09,85.04,4.41,39981,69.84,52.52,2.5,480.21,-5.0
 2020-09-20,Iowa,Marshall,5.0,2,0,0.0,1761,34,1.93,4404.59,85.04,4.4,39981,69.84,50.02,-2.5,485.21,0.0
 2020-09-19,Iowa,Marshall,7.5,3,0,0.0,1759,34,1.93,4399.59,85.04,4.4,39981,69.84,52.52,5.0,485.21,-17.51
 2020-09-18,Iowa,Marshall,5.0,2,0,0.0,1756,34,1.94,4392.09,85.04,4.39,39981,69.84,47.52,-7.51,502.72,-20.01

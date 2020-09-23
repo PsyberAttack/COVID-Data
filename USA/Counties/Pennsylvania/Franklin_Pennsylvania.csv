@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Pennsylvania,Franklin,12.27,19,0,0.0,1738,50,2.88,1122.49,32.29,1.12,154835,200.51,39.39,0.0,164.68,5.17
+2020-09-21,Pennsylvania,Franklin,3.23,5,1,0.65,1719,50,2.91,1110.21,32.29,1.11,154835,200.51,39.39,-7.1,159.51,1.29
 2020-09-20,Pennsylvania,Franklin,2.58,4,0,0.0,1714,49,2.86,1106.98,31.65,1.11,154835,200.51,46.49,2.58,158.22,-5.17
 2020-09-19,Pennsylvania,Franklin,5.81,9,0,0.0,1710,49,2.87,1104.4,31.65,1.1,154835,200.51,43.91,0.0,163.39,0.0
 2020-09-18,Pennsylvania,Franklin,6.46,10,0,0.0,1701,49,2.88,1098.59,31.65,1.1,154835,200.51,43.91,-1.94,163.39,0.65

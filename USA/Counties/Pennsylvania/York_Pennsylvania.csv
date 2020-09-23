@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Pennsylvania,York,7.58,34,1,0.22,4554,143,3.14,1015.9,31.9,1.02,448273,495.76,66.02,-1.79,311.39,2.67
+2020-09-21,Pennsylvania,York,6.69,30,0,0.0,4520,142,3.14,1008.31,31.68,1.01,448273,495.76,67.81,-13.83,308.72,2.9
 2020-09-20,Pennsylvania,York,8.25,37,1,0.22,4490,142,3.16,1001.62,31.68,1.0,448273,495.76,81.64,8.25,305.82,0.89
 2020-09-19,Pennsylvania,York,13.83,62,3,0.67,4453,141,3.17,993.37,31.45,0.99,448273,495.76,73.39,-14.95,304.93,3.12
 2020-09-18,Pennsylvania,York,6.69,30,2,0.45,4391,138,3.14,979.54,30.78,0.98,448273,495.76,88.34,-8.03,301.81,0.67

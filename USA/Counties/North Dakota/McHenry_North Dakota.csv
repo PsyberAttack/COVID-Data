@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,North Dakota,McHenry,0.0,0,0,0.0,56,1,1.79,962.86,17.19,0.96,5816,3.1,17.19,0.0,481.41,0.0
+2020-09-21,North Dakota,McHenry,0.0,0,0,0.0,56,1,1.79,962.86,17.19,0.96,5816,3.1,17.19,0.0,481.41,-17.19
 2020-09-20,North Dakota,McHenry,0.0,0,0,0.0,56,1,1.79,962.86,17.19,0.96,5816,3.1,17.19,-34.39,498.6,0.0
 2020-09-19,North Dakota,McHenry,-17.19,-1,0,0.0,56,1,1.79,962.86,17.19,0.96,5816,3.1,51.58,-34.38,498.6,-51.58
 2020-09-18,North Dakota,McHenry,17.19,1,0,0.0,57,1,1.75,980.06,17.19,0.98,5816,3.1,85.96,17.19,550.18,17.19

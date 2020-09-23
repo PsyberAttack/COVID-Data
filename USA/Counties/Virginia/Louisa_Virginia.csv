@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Virginia,Louisa,0.0,0,1,2.72,280,6,2.14,761.32,16.31,0.76,36778,74.13,19.04,-2.72,127.84,0.0
+2020-09-21,Virginia,Louisa,0.0,0,0,0.0,280,5,1.79,761.32,13.6,0.76,36778,74.13,21.76,-5.44,127.84,-5.44
 2020-09-20,Virginia,Louisa,0.0,0,0,0.0,280,5,1.79,761.32,13.6,0.76,36778,74.13,27.2,0.0,133.28,-2.72
 2020-09-19,Virginia,Louisa,5.44,2,0,0.0,280,5,1.79,761.32,13.6,0.76,36778,74.13,27.2,-2.72,136.0,-8.16
 2020-09-18,Virginia,Louisa,8.16,3,1,2.72,278,5,1.8,755.89,13.6,0.76,36778,74.13,29.92,5.44,144.16,2.72

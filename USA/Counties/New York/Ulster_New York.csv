@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,New York,Ulster,1.12,2,0,0.0,2244,84,3.74,1256.45,47.03,1.26,178599,158.86,10.64,-2.24,59.92,-0.56
+2020-09-21,New York,Ulster,0.0,0,0,0.0,2242,84,3.75,1255.33,47.03,1.26,178599,158.86,12.88,-0.56,60.48,-3.92
 2020-09-20,New York,Ulster,1.68,3,0,0.0,2242,84,3.75,1255.33,47.03,1.26,178599,158.86,13.44,0.0,64.4,1.12
 2020-09-19,New York,Ulster,2.24,4,0,0.0,2239,84,3.75,1253.65,47.03,1.25,178599,158.86,13.44,-1.12,63.28,-3.92
 2020-09-18,New York,Ulster,2.24,4,0,0.0,2235,84,3.76,1251.41,47.03,1.25,178599,158.86,14.56,-0.56,67.2,1.12

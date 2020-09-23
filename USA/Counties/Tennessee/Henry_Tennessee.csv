@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Tennessee,Henry,15.45,5,0,0.0,607,9,1.48,1875.89,27.81,1.88,32358,57.59,142.16,12.36,602.62,9.27
+2020-09-21,Tennessee,Henry,3.09,1,0,0.0,602,9,1.5,1860.44,27.81,1.86,32358,57.59,129.8,-40.18,593.35,-3.09
 2020-09-20,Tennessee,Henry,21.63,7,0,0.0,601,9,1.5,1857.35,27.81,1.86,32358,57.59,169.98,18.54,596.44,-30.91
 2020-09-19,Tennessee,Henry,12.36,4,0,0.0,594,9,1.52,1835.71,27.81,1.84,32358,57.59,151.44,-3.09,627.35,-43.27
 2020-09-18,Tennessee,Henry,46.36,15,0,0.0,590,9,1.53,1823.35,27.81,1.82,32358,57.59,154.53,34.0,670.62,30.91

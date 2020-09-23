@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Illinois,White,0.0,0,0,0.0,159,0,0.0,1163.56,0.0,1.16,13665,27.62,65.86,-7.32,336.64,0.0
+2020-09-21,Illinois,White,21.95,3,0,0.0,159,0,0.0,1163.56,0.0,1.16,13665,27.62,73.18,21.95,336.64,14.63
 2020-09-20,Illinois,White,0.0,0,0,0.0,156,0,0.0,1141.6,0.0,1.14,13665,27.62,51.23,-14.64,322.01,-29.27
 2020-09-19,Illinois,White,7.32,1,0,0.0,156,0,0.0,1141.6,0.0,1.14,13665,27.62,65.87,-14.63,351.28,-36.59
 2020-09-18,Illinois,White,7.32,1,0,0.0,155,0,0.0,1134.28,0.0,1.13,13665,27.62,80.5,14.64,387.87,0.0

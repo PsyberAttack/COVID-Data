@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,West Virginia,Clay,11.58,1,0,0.0,35,2,5.71,405.47,23.17,0.41,8632,25.24,57.91,0.0,185.33,11.58
+2020-09-21,West Virginia,Clay,-11.58,-1,0,0.0,34,2,5.88,393.88,23.17,0.39,8632,25.24,57.91,0.0,173.75,-11.58
 2020-09-20,West Virginia,Clay,11.58,1,0,0.0,35,2,5.71,405.47,23.17,0.41,8632,25.24,57.91,11.58,185.33,11.58
 2020-09-19,West Virginia,Clay,11.58,1,0,0.0,34,2,5.88,393.88,23.17,0.39,8632,25.24,46.33,11.58,173.75,11.58
 2020-09-18,West Virginia,Clay,0.0,0,0,0.0,33,2,6.06,382.3,23.17,0.38,8632,25.24,34.75,0.0,162.17,0.0

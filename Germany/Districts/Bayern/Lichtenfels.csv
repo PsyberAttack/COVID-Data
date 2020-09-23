@@ -1,4 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Bayern,Lichtenfels,1.5,1,0,0.0,365,17,4.66,546.1,25.43,0.55,66838,14.97,0.0,43.43,-1.49
+2020-09-21,Bayern,Lichtenfels,0.0,0,0,0.0,364,17,4.67,544.6,25.43,0.54,66838,14.97,-1.5,44.92,0.0
 2020-09-20,Bayern,Lichtenfels,1.5,1,0,0.0,364,17,4.67,544.6,25.43,0.54,66838,16.47,-2.99,44.92,1.5
 2020-09-19,Bayern,Lichtenfels,2.99,2,0,0.0,363,17,4.68,543.1,25.43,0.54,66838,19.46,1.49,43.42,2.99
 2020-09-18,Bayern,Lichtenfels,4.49,3,0,0.0,361,17,4.71,540.11,25.43,0.54,66838,17.97,2.99,40.43,4.49

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Ohio,Richland,3.3,4,0,0.0,808,19,2.35,667.22,15.69,0.67,121099,244.55,43.76,0.82,106.52,-0.83
+2020-09-21,Ohio,Richland,16.52,20,0,0.0,804,19,2.36,663.92,15.69,0.66,121099,244.55,42.94,10.74,107.35,13.22
 2020-09-20,Ohio,Richland,2.48,3,0,0.0,784,19,2.42,647.4,15.69,0.65,121099,244.55,32.2,-0.82,94.13,0.0
 2020-09-19,Ohio,Richland,4.95,6,1,0.83,781,19,2.43,644.93,15.69,0.64,121099,244.55,33.02,0.82,94.13,3.3
 2020-09-18,Ohio,Richland,4.95,6,0,0.0,775,18,2.32,639.97,14.86,0.64,121099,244.55,32.2,0.82,90.83,1.65
