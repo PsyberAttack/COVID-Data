@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-23,Virginia,Washington,0.0,0,0,0.0,544,17,3.12,999.96,31.25,1.0,54402,96.95,95.57,-5.51,400.71,-9.19
 2020-09-22,Virginia,Washington,9.19,5,1,1.84,544,17,3.12,999.96,31.25,1.0,54402,96.95,101.08,-16.54,409.9,-9.19
 2020-09-21,Virginia,Washington,5.51,3,0,0.0,539,16,2.97,990.77,29.41,0.99,54402,96.95,117.62,-3.68,419.09,5.51
 2020-09-20,Virginia,Washington,5.51,3,0,0.0,536,16,2.99,985.26,29.41,0.99,54402,96.95,121.3,-9.2,413.58,-3.68

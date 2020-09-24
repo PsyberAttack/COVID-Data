@@ -1,5 +1,9 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-19,Nordrhein-Westfalen,Soest,0.66,2,0,0.0,528,9,1.7,174.89,2.98,0.17,301902,3.3,0.33,13.54,0.0
+2020-09-23,Nordrhein-Westfalen,Soest,0.33,1,0,0.0,531,9,1.69,175.88,2.98,0.18,301902,2.31,0.0,13.87,0.33
+2020-09-22,Nordrhein-Westfalen,Soest,0.0,0,0,0.0,530,9,1.7,175.55,2.98,0.18,301902,2.31,0.0,13.54,-0.33
+2020-09-21,Nordrhein-Westfalen,Soest,0.33,1,0,0.0,530,9,1.7,175.55,2.98,0.18,301902,2.31,-0.99,13.87,0.0
+2020-09-20,Nordrhein-Westfalen,Soest,0.0,0,0,0.0,529,9,1.7,175.22,2.98,0.18,301902,3.3,-0.33,13.87,0.0
+2020-09-19,Nordrhein-Westfalen,Soest,0.99,3,0,0.0,529,9,1.7,175.22,2.98,0.18,301902,3.63,0.66,13.87,0.33
 2020-09-18,Nordrhein-Westfalen,Soest,0.66,2,0,0.0,526,9,1.71,174.23,2.98,0.17,301902,2.97,-0.33,13.54,0.33
 2020-09-17,Nordrhein-Westfalen,Soest,0.0,0,0,0.0,524,9,1.72,173.57,2.98,0.17,301902,3.3,0.0,13.21,0.0
 2020-09-16,Nordrhein-Westfalen,Soest,0.33,1,0,0.0,524,9,1.72,173.57,2.98,0.17,301902,3.3,-0.99,13.21,-0.33

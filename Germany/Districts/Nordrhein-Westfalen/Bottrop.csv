@@ -1,7 +1,10 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-19,Nordrhein-Westfalen,Bottrop,1.7,2,0,0.0,334,7,2.1,284.54,5.96,0.28,117383,7.66,0.85,26.37,1.7
-2020-09-18,Nordrhein-Westfalen,Bottrop,0.85,1,0,0.0,332,7,2.11,282.83,5.96,0.28,117383,6.81,0.0,24.67,0.85
-2020-09-17,Nordrhein-Westfalen,Bottrop,0.85,1,0,0.0,331,7,2.11,281.98,5.96,0.28,117383,6.81,0.0,23.82,0.85
+2020-09-22,Nordrhein-Westfalen,Bottrop,0.85,1,0,0.0,335,7,2.09,285.39,5.96,0.29,117383,4.25,0.0,22.12,-0.85
+2020-09-21,Nordrhein-Westfalen,Bottrop,0.0,0,0,0.0,334,7,2.1,284.54,5.96,0.28,117383,4.25,-3.41,22.97,-1.7
+2020-09-20,Nordrhein-Westfalen,Bottrop,0.0,0,0,0.0,334,7,2.1,284.54,5.96,0.28,117383,7.66,0.0,24.67,-1.7
+2020-09-19,Nordrhein-Westfalen,Bottrop,0.85,1,0,0.0,334,7,2.1,284.54,5.96,0.28,117383,7.66,0.0,26.37,0.85
+2020-09-18,Nordrhein-Westfalen,Bottrop,0.85,1,0,0.0,333,7,2.1,283.69,5.96,0.28,117383,7.66,0.0,25.52,0.85
+2020-09-17,Nordrhein-Westfalen,Bottrop,1.7,2,0,0.0,332,7,2.11,282.83,5.96,0.28,117383,7.66,0.85,24.67,1.7
 2020-09-16,Nordrhein-Westfalen,Bottrop,0.0,0,0,0.0,330,7,2.12,281.13,5.96,0.28,117383,6.81,0.0,22.97,-2.56
 2020-09-15,Nordrhein-Westfalen,Bottrop,0.85,1,0,0.0,330,7,2.12,281.13,5.96,0.28,117383,6.81,-0.85,25.53,-0.85
 2020-09-14,Nordrhein-Westfalen,Bottrop,3.41,4,0,0.0,329,7,2.13,280.28,5.96,0.28,117383,7.66,1.71,26.38,1.71

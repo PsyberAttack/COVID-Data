@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-23,New York,New York City,17.25,281,0,0.0,245776,23780,9.68,15090.26,1460.05,15.09,1628706,0.0,151.16,1.72,506.58,1.16
 2020-09-22,New York,New York City,21.37,348,-2,-0.12,245495,23780,9.69,15073.01,1460.05,15.07,1628706,0.0,149.44,2.52,505.42,7.19
 2020-09-21,New York,New York City,16.09,262,5,0.31,245147,23782,9.7,15051.64,1460.18,15.05,1628706,0.0,146.92,-0.36,498.23,3.2
 2020-09-20,New York,New York City,24.62,401,6,0.37,244885,23777,9.71,15035.56,1459.87,15.04,1628706,0.0,147.28,9.64,495.03,6.94

@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Bahia,Vera Cruz,2.31,1,0,0.0,366,16,4.37,846.77,37.02,0.85,43223,4.62,0.0,85.59,0.0
+2020-09-21,Bahia,Vera Cruz,0.0,0,1,2.31,365,16,4.38,844.46,37.02,0.84,43223,4.62,0.0,85.59,-18.51
 2020-09-20,Bahia,Vera Cruz,0.0,0,0,0.0,365,15,4.11,844.46,34.7,0.84,43223,4.62,-2.31,104.1,-4.63
 2020-09-19,Bahia,Vera Cruz,2.31,1,0,0.0,365,15,4.11,844.46,34.7,0.84,43223,6.93,-4.63,108.73,0.0
 2020-09-18,Bahia,Vera Cruz,0.0,0,0,0.0,364,15,4.12,842.14,34.7,0.84,43223,11.56,4.63,108.73,-9.25

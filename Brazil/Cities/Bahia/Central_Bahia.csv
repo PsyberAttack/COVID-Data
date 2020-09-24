@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-22,Bahia,Central,0.0,0,0,0.0,56,1,1.79,324.34,5.79,0.32,17266,52.13,0.0,150.59,0.0
+2020-09-21,Bahia,Central,5.79,1,0,0.0,56,1,1.79,324.34,5.79,0.32,17266,52.13,5.79,150.59,5.79
 2020-09-20,Bahia,Central,0.0,0,1,5.79,55,1,1.82,318.55,5.79,0.32,17266,46.34,-17.38,144.8,0.0
 2020-09-19,Bahia,Central,23.17,4,0,0.0,55,0,0.0,318.55,0.0,0.32,17266,63.72,0.0,144.8,23.17
 2020-09-18,Bahia,Central,5.79,1,0,0.0,51,0,0.0,295.38,0.0,0.3,17266,63.72,0.0,121.63,0.0

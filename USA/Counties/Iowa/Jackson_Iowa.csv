@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-23,Iowa,Jackson,36.02,7,0,0.0,317,3,0.95,1631.33,15.44,1.63,19432,30.55,205.83,-20.59,668.98,10.29
 2020-09-22,Iowa,Jackson,30.88,6,0,0.0,310,3,0.97,1595.31,15.44,1.6,19432,30.55,226.42,25.73,658.69,20.59
 2020-09-21,Iowa,Jackson,20.58,4,0,0.0,304,3,0.99,1564.43,15.44,1.56,19432,30.55,200.69,15.43,638.1,20.58
 2020-09-20,Iowa,Jackson,20.58,4,0,0.0,300,3,1.0,1543.85,15.44,1.54,19432,30.55,185.26,0.0,617.52,20.58
