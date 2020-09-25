@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-24,Pennsylvania,Adams,4.86,5,1,0.97,815,26,3.19,792.72,25.29,0.79,102811,198.19,48.63,-1.95,223.73,0.0
 2020-09-23,Pennsylvania,Adams,10.7,11,0,0.0,810,25,3.09,787.85,24.32,0.79,102811,198.19,50.58,1.95,223.73,4.86
 2020-09-22,Pennsylvania,Adams,2.92,3,0,0.0,799,25,3.13,777.15,24.32,0.78,102811,198.19,48.63,-3.89,218.87,-0.97
 2020-09-21,Pennsylvania,Adams,7.78,8,0,0.0,796,25,3.14,774.24,24.32,0.77,102811,198.19,52.52,0.0,219.84,5.83

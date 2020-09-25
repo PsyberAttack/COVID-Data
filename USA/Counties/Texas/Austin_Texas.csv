@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-24,Texas,Austin,10.0,3,0,0.0,488,9,1.84,1627.26,30.01,1.63,29989,46.39,23.33,-36.68,290.06,10.0
 2020-09-23,Texas,Austin,6.67,2,0,0.0,485,9,1.86,1617.26,30.01,1.62,29989,46.39,60.01,-16.67,280.06,-3.33
 2020-09-22,Texas,Austin,-26.68,-8,0,0.0,483,9,1.86,1610.59,30.01,1.61,29989,46.39,76.68,-26.68,283.39,-26.68
 2020-09-21,Texas,Austin,0.0,0,0,0.0,491,9,1.83,1637.27,30.01,1.64,29989,46.39,103.36,0.0,310.07,-23.34

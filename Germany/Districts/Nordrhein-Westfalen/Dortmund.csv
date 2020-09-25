@@ -1,6 +1,7 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-23,Nordrhein-Westfalen,Dortmund,2.73,16,0,0.0,1936,20,1.03,329.81,3.41,0.33,587010,10.73,0.35,50.21,1.88
-2020-09-22,Nordrhein-Westfalen,Dortmund,1.7,10,0,0.0,1920,20,1.04,327.08,3.41,0.33,587010,10.38,-1.2,48.33,-1.03
+2020-09-24,Nordrhein-Westfalen,Dortmund,2.56,15,0,0.0,1951,20,1.03,332.36,3.41,0.33,587010,10.73,0.0,51.92,1.71
+2020-09-23,Nordrhein-Westfalen,Dortmund,2.56,15,0,0.0,1936,20,1.03,329.81,3.41,0.33,587010,10.73,0.18,50.21,1.71
+2020-09-22,Nordrhein-Westfalen,Dortmund,1.87,11,0,0.0,1921,20,1.04,327.25,3.41,0.33,587010,10.55,-1.03,48.5,-0.86
 2020-09-21,Nordrhein-Westfalen,Dortmund,1.19,7,0,0.0,1910,20,1.05,325.38,3.41,0.33,587010,11.58,-0.51,49.36,-1.37
 2020-09-20,Nordrhein-Westfalen,Dortmund,0.17,1,0,0.0,1903,20,1.05,324.19,3.41,0.32,587010,12.09,-1.19,50.73,-0.85
 2020-09-19,Nordrhein-Westfalen,Dortmund,1.19,7,0,0.0,1902,20,1.05,324.01,3.41,0.32,587010,13.28,-1.02,51.58,-0.34

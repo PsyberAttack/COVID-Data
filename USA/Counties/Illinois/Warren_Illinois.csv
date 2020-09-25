@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-24,Illinois,Warren,29.36,5,0,0.0,319,2,0.63,1872.95,11.74,1.87,17032,31.4,176.15,23.49,457.96,11.75
 2020-09-23,Illinois,Warren,41.1,7,0,0.0,314,2,0.64,1843.59,11.74,1.84,17032,31.4,152.66,41.1,446.21,0.0
 2020-09-22,Illinois,Warren,11.74,2,0,0.0,307,2,0.65,1802.49,11.74,1.8,17032,31.4,111.56,-23.49,446.21,5.87
 2020-09-21,Illinois,Warren,5.87,1,0,0.0,305,2,0.66,1790.75,11.74,1.79,17032,31.4,135.05,5.87,440.34,-5.87

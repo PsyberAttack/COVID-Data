@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-24,Ohio,Mahoning,6.97,16,1,0.44,3030,281,9.27,1319.45,122.36,1.32,229642,558.05,27.01,8.28,89.27,1.31
 2020-09-23,Ohio,Mahoning,5.23,12,1,0.44,3014,280,9.29,1312.48,121.93,1.31,229642,558.05,18.73,3.05,87.96,-2.17
 2020-09-22,Ohio,Mahoning,-0.44,-1,0,0.0,3002,279,9.29,1307.25,121.49,1.31,229642,558.05,15.68,-3.05,90.13,-3.49
 2020-09-21,Ohio,Mahoning,5.23,12,0,0.0,3003,279,9.29,1307.69,121.49,1.31,229642,558.05,18.73,-1.3,93.62,-6.53

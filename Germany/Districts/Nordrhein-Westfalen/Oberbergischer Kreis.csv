@@ -1,15 +1,16 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-23,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,778,19,2.44,285.97,6.98,0.29,272057,15.8,-2.21,59.92,0.73
-2020-09-22,Nordrhein-Westfalen,Oberbergischer Kreis,2.57,7,0,0.0,774,19,2.45,284.5,6.98,0.28,272057,18.01,0.0,59.19,1.1
-2020-09-21,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,767,19,2.48,281.93,6.98,0.28,272057,18.01,-4.41,58.09,1.1
-2020-09-20,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,763,19,2.49,280.46,6.98,0.28,272057,22.42,-1.84,56.99,-1.1
-2020-09-19,Nordrhein-Westfalen,Oberbergischer Kreis,4.04,11,0,0.0,762,19,2.49,280.09,6.98,0.28,272057,24.26,0.73,58.09,4.04
-2020-09-18,Nordrhein-Westfalen,Oberbergischer Kreis,2.94,8,0,0.0,751,19,2.53,276.05,6.98,0.28,272057,23.53,-1.84,54.05,1.1
-2020-09-17,Nordrhein-Westfalen,Oberbergischer Kreis,2.94,8,0,0.0,743,19,2.56,273.1,6.98,0.27,272057,25.37,0.37,52.95,1.1
-2020-09-16,Nordrhein-Westfalen,Oberbergischer Kreis,3.68,10,0,0.0,735,19,2.59,270.16,6.98,0.27,272057,25.0,0.74,51.85,1.84
-2020-09-15,Nordrhein-Westfalen,Oberbergischer Kreis,2.57,7,0,0.0,725,19,2.62,266.49,6.98,0.27,272057,24.26,-0.74,50.01,2.2
-2020-09-14,Nordrhein-Westfalen,Oberbergischer Kreis,5.88,16,0,0.0,718,19,2.65,263.92,6.98,0.26,272057,25.0,4.41,47.81,2.57
-2020-09-13,Nordrhein-Westfalen,Oberbergischer Kreis,2.21,6,0,0.0,702,19,2.71,258.03,6.98,0.26,272057,20.59,2.21,45.24,1.11
+2020-09-24,Nordrhein-Westfalen,Oberbergischer Kreis,3.68,10,0,0.0,789,19,2.41,290.01,6.98,0.29,272057,15.45,0.37,62.88,2.58
+2020-09-23,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,779,19,2.44,286.34,6.98,0.29,272057,15.08,-2.94,60.3,0.0
+2020-09-22,Nordrhein-Westfalen,Oberbergischer Kreis,2.21,6,0,0.0,777,19,2.45,285.6,6.98,0.29,272057,18.02,-0.36,60.3,0.74
+2020-09-21,Nordrhein-Westfalen,Oberbergischer Kreis,1.84,5,0,0.0,771,19,2.46,283.4,6.98,0.28,272057,18.38,-4.78,59.56,1.47
+2020-09-20,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,766,19,2.48,281.56,6.98,0.28,272057,23.16,-2.57,58.09,-1.47
+2020-09-19,Nordrhein-Westfalen,Oberbergischer Kreis,4.04,11,0,0.0,766,19,2.48,281.56,6.98,0.28,272057,25.73,0.73,59.56,4.04
+2020-09-18,Nordrhein-Westfalen,Oberbergischer Kreis,2.94,8,0,0.0,755,19,2.52,277.52,6.98,0.28,272057,25.0,-1.84,55.52,1.1
+2020-09-17,Nordrhein-Westfalen,Oberbergischer Kreis,3.31,9,0,0.0,747,19,2.54,274.57,6.98,0.27,272057,26.84,0.74,54.42,1.47
+2020-09-16,Nordrhein-Westfalen,Oberbergischer Kreis,3.68,10,0,0.0,738,19,2.57,271.27,6.98,0.27,272057,26.1,0.74,52.95,1.84
+2020-09-15,Nordrhein-Westfalen,Oberbergischer Kreis,2.57,7,0,0.0,728,19,2.61,267.59,6.98,0.27,272057,25.36,-0.74,51.11,2.2
+2020-09-14,Nordrhein-Westfalen,Oberbergischer Kreis,6.62,18,0,0.0,721,19,2.64,265.02,6.98,0.27,272057,26.1,5.15,48.91,3.31
+2020-09-13,Nordrhein-Westfalen,Oberbergischer Kreis,2.57,7,0,0.0,703,19,2.7,258.4,6.98,0.26,272057,20.95,2.57,45.6,1.47
 2020-09-12,Nordrhein-Westfalen,Oberbergischer Kreis,3.31,9,0,0.0,696,19,2.73,255.83,6.98,0.26,272057,18.38,2.21,44.13,1.84
 2020-09-11,Nordrhein-Westfalen,Oberbergischer Kreis,4.78,13,0,0.0,687,19,2.77,252.52,6.98,0.25,272057,16.17,4.41,42.29,3.31
 2020-09-10,Nordrhein-Westfalen,Oberbergischer Kreis,2.57,7,0,0.0,674,19,2.82,247.74,6.98,0.25,272057,11.76,0.36,38.98,0.73
