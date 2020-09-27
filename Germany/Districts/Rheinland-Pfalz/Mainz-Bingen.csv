@@ -1,7 +1,8 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-24,Rheinland-Pfalz,Mainz-Bingen,0.47,1,0,0.0,592,25,4.22,280.72,11.85,0.28,210889,3.31,0.0,27.94,0.0
-2020-09-23,Rheinland-Pfalz,Mainz-Bingen,0.95,2,0,0.0,591,25,4.23,280.24,11.85,0.28,210889,3.31,0.48,27.94,0.0
-2020-09-22,Rheinland-Pfalz,Mainz-Bingen,0.47,1,0,0.0,589,25,4.24,279.29,11.85,0.28,210889,2.83,0.47,27.94,-0.95
+2020-09-25,Rheinland-Pfalz,Mainz-Bingen,0.47,1,0,0.0,595,25,4.2,282.14,11.85,0.28,210889,3.78,-0.48,28.89,0.0
+2020-09-24,Rheinland-Pfalz,Mainz-Bingen,0.47,1,0,0.0,594,25,4.21,281.66,11.85,0.28,210889,4.26,0.0,28.89,0.0
+2020-09-23,Rheinland-Pfalz,Mainz-Bingen,1.42,3,0,0.0,593,25,4.22,281.19,11.85,0.28,210889,4.26,0.95,28.89,0.47
+2020-09-22,Rheinland-Pfalz,Mainz-Bingen,0.95,2,0,0.0,590,25,4.24,279.77,11.85,0.28,210889,3.31,0.95,28.42,-0.47
 2020-09-21,Rheinland-Pfalz,Mainz-Bingen,0.0,0,0,0.0,588,25,4.25,278.82,11.85,0.28,210889,2.36,-2.37,28.89,-0.95
 2020-09-20,Rheinland-Pfalz,Mainz-Bingen,0.0,0,0,0.0,588,25,4.25,278.82,11.85,0.28,210889,4.73,-0.95,29.84,-1.42
 2020-09-19,Rheinland-Pfalz,Mainz-Bingen,0.47,1,0,0.0,588,25,4.25,278.82,11.85,0.28,210889,5.68,-0.95,31.26,-0.48

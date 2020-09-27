@@ -1,5 +1,9 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-21,Sachsen-Anhalt,Saalekreis,1.63,3,0,0.0,181,7,3.87,98.47,3.81,0.1,183815,4.88,1.09,14.1,1.63
+2020-09-25,Sachsen-Anhalt,Saalekreis,1.09,2,0,0.0,185,7,3.78,100.64,3.81,0.1,183815,5.44,0.55,13.02,0.0
+2020-09-24,Sachsen-Anhalt,Saalekreis,0.0,0,0,0.0,183,7,3.83,99.56,3.81,0.1,183815,4.89,0.0,13.02,-0.54
+2020-09-23,Sachsen-Anhalt,Saalekreis,0.54,1,0,0.0,183,7,3.83,99.56,3.81,0.1,183815,4.89,0.0,13.56,0.0
+2020-09-22,Sachsen-Anhalt,Saalekreis,0.0,0,0,0.0,182,7,3.85,99.01,3.81,0.1,183815,4.89,-0.54,13.56,-1.09
+2020-09-21,Sachsen-Anhalt,Saalekreis,2.18,4,0,0.0,182,7,3.85,99.01,3.81,0.1,183815,5.43,1.64,14.65,2.18
 2020-09-20,Sachsen-Anhalt,Saalekreis,0.54,1,0,0.0,178,7,3.93,96.84,3.81,0.1,183815,3.79,-0.55,12.47,0.54
 2020-09-19,Sachsen-Anhalt,Saalekreis,1.09,2,0,0.0,177,7,3.95,96.29,3.81,0.1,183815,4.34,1.09,11.93,1.09
 2020-09-18,Sachsen-Anhalt,Saalekreis,0.54,1,0,0.0,175,7,4.0,95.2,3.81,0.1,183815,3.25,0.0,10.84,0.54

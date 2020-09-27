@@ -1,8 +1,9 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-25,Nordrhein-Westfalen,Warendorf,1.44,4,0,0.0,1024,21,2.05,368.63,7.56,0.37,277783,6.84,1.08,26.64,0.0
-2020-09-24,Nordrhein-Westfalen,Warendorf,2.16,6,0,0.0,1020,21,2.06,367.19,7.56,0.37,277783,5.76,1.08,26.64,2.16
-2020-09-23,Nordrhein-Westfalen,Warendorf,0.72,2,0,0.0,1014,21,2.07,365.03,7.56,0.37,277783,4.68,-1.08,24.48,0.72
-2020-09-22,Nordrhein-Westfalen,Warendorf,0.0,0,0,0.0,1012,21,2.08,364.31,7.56,0.36,277783,5.76,0.0,23.76,0.0
+2020-09-26,Nordrhein-Westfalen,Warendorf,0.72,2,0,0.0,1029,21,2.04,370.43,7.56,0.37,277783,8.28,0.36,28.08,0.36
+2020-09-25,Nordrhein-Westfalen,Warendorf,1.44,4,0,0.0,1027,21,2.04,369.71,7.56,0.37,277783,7.92,1.08,27.72,0.0
+2020-09-24,Nordrhein-Westfalen,Warendorf,2.88,8,0,0.0,1023,21,2.05,368.27,7.56,0.37,277783,6.84,1.8,27.72,2.88
+2020-09-23,Nordrhein-Westfalen,Warendorf,0.72,2,0,0.0,1015,21,2.07,365.39,7.56,0.37,277783,5.04,-1.08,24.84,0.72
+2020-09-22,Nordrhein-Westfalen,Warendorf,0.36,1,0,0.0,1013,21,2.07,364.67,7.56,0.36,277783,6.12,0.36,24.12,0.36
 2020-09-21,Nordrhein-Westfalen,Warendorf,1.08,3,0,0.0,1012,21,2.08,364.31,7.56,0.36,277783,5.76,-1.8,23.76,-0.36
 2020-09-20,Nordrhein-Westfalen,Warendorf,1.08,3,0,0.0,1009,21,2.08,363.23,7.56,0.36,277783,7.56,1.08,24.12,0.0
 2020-09-19,Nordrhein-Westfalen,Warendorf,0.36,1,0,0.0,1006,21,2.09,362.15,7.56,0.36,277783,6.48,-1.44,24.12,0.36
