@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-27,Minnesota,Marshall,10.65,1,0,0.0,53,1,1.89,564.43,10.65,0.56,9390,5.29,42.6,0.0,191.7,-10.65
+2020-09-26,Minnesota,Marshall,10.65,1,0,0.0,52,1,1.92,553.78,10.65,0.55,9390,5.29,42.6,10.65,202.35,10.65
 2020-09-25,Minnesota,Marshall,10.65,1,0,0.0,51,1,1.96,543.13,10.65,0.54,9390,5.29,31.95,10.65,191.7,-21.3
 2020-09-24,Minnesota,Marshall,0.0,0,0,0.0,50,1,2.0,532.48,10.65,0.53,9390,5.29,21.3,0.0,213.0,0.0
 2020-09-23,Minnesota,Marshall,0.0,0,0,0.0,50,1,2.0,532.48,10.65,0.53,9390,5.29,21.3,10.65,213.0,0.0

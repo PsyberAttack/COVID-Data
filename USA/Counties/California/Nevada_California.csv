@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-27,California,Nevada,1.0,1,0,0.0,534,7,1.31,535.63,7.02,0.54,99696,104.09,28.08,1.0,92.29,-3.01
+2020-09-26,California,Nevada,0.0,0,0,0.0,533,7,1.31,534.63,7.02,0.53,99696,104.09,27.08,0.0,95.3,-3.01
 2020-09-25,California,Nevada,2.01,2,0,0.0,533,7,1.31,534.63,7.02,0.53,99696,104.09,27.08,-1.0,98.31,-1.0
 2020-09-24,California,Nevada,3.01,3,1,1.0,531,7,1.32,532.62,7.02,0.53,99696,104.09,28.08,-3.01,99.31,1.0
 2020-09-23,California,Nevada,3.01,3,0,0.0,528,6,1.14,529.61,6.02,0.53,99696,104.09,31.09,2.01,98.31,-3.01

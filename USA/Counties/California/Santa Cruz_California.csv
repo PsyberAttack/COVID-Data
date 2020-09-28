@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-27,California,Santa Cruz,0.73,2,0,0.0,2360,9,0.38,860.51,3.28,0.86,274255,616.13,51.78,0.73,223.87,1.09
+2020-09-26,California,Santa Cruz,10.21,28,0,0.0,2358,9,0.38,859.78,3.28,0.86,274255,616.13,51.05,-0.36,222.78,5.83
 2020-09-25,California,Santa Cruz,4.01,11,0,0.0,2330,9,0.39,849.57,3.28,0.85,274255,616.13,51.41,-1.09,216.95,0.73
 2020-09-24,California,Santa Cruz,9.12,25,0,0.0,2319,9,0.39,845.56,3.28,0.85,274255,616.13,52.5,-15.31,216.22,4.74
 2020-09-23,California,Santa Cruz,4.01,11,1,0.36,2294,9,0.39,836.45,3.28,0.84,274255,616.13,67.81,-0.37,211.48,-1.82

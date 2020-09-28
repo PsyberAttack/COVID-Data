@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-27,Georgia,Wilkinson,11.07,1,0,0.0,336,18,5.36,3718.46,199.2,3.72,9036,20.12,44.26,11.07,509.08,0.0
+2020-09-26,Georgia,Wilkinson,-11.07,-1,0,0.0,335,18,5.37,3707.39,199.2,3.71,9036,20.12,33.19,-55.34,509.08,-33.2
 2020-09-25,Georgia,Wilkinson,22.13,2,0,0.0,336,18,5.36,3718.46,199.2,3.72,9036,20.12,88.53,-88.54,542.28,-22.14
 2020-09-24,Georgia,Wilkinson,11.07,1,0,0.0,334,18,5.39,3696.33,199.2,3.7,9036,20.12,177.07,-22.13,564.42,-22.13
 2020-09-23,Georgia,Wilkinson,22.13,2,0,0.0,333,18,5.41,3685.26,199.2,3.69,9036,20.12,199.2,11.06,586.55,55.33

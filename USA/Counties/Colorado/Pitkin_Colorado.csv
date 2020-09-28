@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-27,Colorado,Pitkin,0.0,0,0,0.0,223,2,0.9,1242.34,11.14,1.24,17950,18.49,22.27,0.0,144.82,0.0
+2020-09-26,Colorado,Pitkin,5.57,1,0,0.0,223,2,0.9,1242.34,11.14,1.24,17950,18.49,22.27,-5.57,144.82,0.0
 2020-09-25,Colorado,Pitkin,5.57,1,0,0.0,222,2,0.9,1236.77,11.14,1.24,17950,18.49,27.84,-5.57,144.82,5.57
 2020-09-24,Colorado,Pitkin,0.0,0,0,0.0,221,2,0.9,1231.2,11.14,1.23,17950,18.49,33.41,-11.14,139.25,-5.57
 2020-09-23,Colorado,Pitkin,22.28,4,0,0.0,221,2,0.9,1231.2,11.14,1.23,17950,18.49,44.55,-5.58,144.82,22.28

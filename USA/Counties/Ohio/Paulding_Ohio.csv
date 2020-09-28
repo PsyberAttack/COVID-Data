@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-27,Ohio,Paulding,0.0,0,0,0.0,110,0,0.0,586.35,0.0,0.59,18760,45.05,47.97,0.0,154.57,-10.66
+2020-09-26,Ohio,Paulding,10.66,2,0,0.0,110,0,0.0,586.35,0.0,0.59,18760,45.05,47.97,10.66,165.23,10.66
 2020-09-25,Ohio,Paulding,5.33,1,0,0.0,108,0,0.0,575.69,0.0,0.58,18760,45.05,37.31,-21.32,154.57,5.33
 2020-09-24,Ohio,Paulding,5.33,1,0,0.0,107,0,0.0,570.36,0.0,0.57,18760,45.05,58.63,5.33,149.24,5.33
 2020-09-23,Ohio,Paulding,5.33,1,0,0.0,106,0,0.0,565.03,0.0,0.57,18760,45.05,53.3,0.0,143.91,-5.33

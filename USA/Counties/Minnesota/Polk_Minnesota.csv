@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-27,Minnesota,Polk,34.89,11,0,0.0,316,4,1.27,1002.25,12.69,1.0,31529,16.0,136.38,25.37,371.1,28.55
+2020-09-26,Minnesota,Polk,0.0,0,0,0.0,305,4,1.31,967.36,12.69,0.97,31529,16.0,111.01,-25.37,342.55,-9.52
 2020-09-25,Minnesota,Polk,22.2,7,0,0.0,305,4,1.31,967.36,12.69,0.97,31529,16.0,136.38,6.34,352.07,6.34
 2020-09-24,Minnesota,Polk,12.69,4,0,0.0,298,4,1.34,945.16,12.69,0.95,31529,16.0,130.04,0.0,345.73,3.17
 2020-09-23,Minnesota,Polk,53.92,17,0,0.0,294,4,1.36,932.47,12.69,0.93,31529,16.0,130.04,44.4,342.56,34.89

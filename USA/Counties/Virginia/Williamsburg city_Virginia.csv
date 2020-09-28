@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-27,Virginia,Williamsburg city,20.14,3,0,0.0,181,7,3.87,1215.09,46.99,1.22,14896,1666.16,40.27,0.0,181.24,13.43
+2020-09-26,Virginia,Williamsburg city,6.71,1,0,0.0,178,7,3.93,1194.95,46.99,1.19,14896,1666.16,40.27,-6.72,167.81,-26.86
 2020-09-25,Virginia,Williamsburg city,-6.71,-1,0,0.0,177,7,3.95,1188.24,46.99,1.19,14896,1666.16,46.99,-6.71,194.67,-6.71
 2020-09-24,Virginia,Williamsburg city,6.71,1,0,0.0,178,7,3.93,1194.95,46.99,1.19,14896,1666.16,53.7,0.0,201.38,-6.72
 2020-09-23,Virginia,Williamsburg city,6.71,1,0,0.0,177,7,3.95,1188.24,46.99,1.19,14896,1666.16,53.7,-6.72,208.1,6.71

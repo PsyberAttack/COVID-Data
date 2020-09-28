@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-27,Texas,Anderson,0.0,0,0,0.0,2840,31,1.09,4891.74,53.4,4.89,58057,54.64,1892.97,0.0,582.19,0.0
+2020-09-26,Texas,Anderson,25.84,15,0,0.0,2840,31,1.09,4891.74,53.4,4.89,58057,54.64,1892.97,31.01,582.19,13.78
 2020-09-25,Texas,Anderson,0.0,0,0,0.0,2825,31,1.1,4865.91,53.4,4.87,58057,54.64,1861.96,1839.57,568.41,-22.39
 2020-09-24,Texas,Anderson,5.17,3,0,0.0,2825,31,1.1,4865.91,53.4,4.87,58057,54.64,22.39,-17.22,590.8,-44.78
 2020-09-23,Texas,Anderson,36.17,21,0,0.0,2822,31,1.1,4860.74,53.4,4.86,58057,54.64,39.61,-3.45,635.58,29.28

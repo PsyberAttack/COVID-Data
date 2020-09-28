@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-27,Georgia,Echols,0.0,0,0,0.0,240,2,0.83,6000.0,50.0,6.0,4000,9.51,25.0,0.0,150.0,-25.0
+2020-09-26,Georgia,Echols,0.0,0,0,0.0,240,2,0.83,6000.0,50.0,6.0,4000,9.51,25.0,-25.0,175.0,-25.0
 2020-09-25,Georgia,Echols,25.0,1,0,0.0,240,2,0.83,6000.0,50.0,6.0,4000,9.51,50.0,25.0,200.0,0.0
 2020-09-24,Georgia,Echols,0.0,0,0,0.0,239,2,0.84,5975.0,50.0,5.98,4000,9.51,25.0,0.0,200.0,0.0
 2020-09-23,Georgia,Echols,0.0,0,0,0.0,239,2,0.84,5975.0,50.0,5.98,4000,9.51,25.0,0.0,200.0,0.0

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-27,Kentucky,Montgomery,3.55,1,0,0.0,282,3,1.06,999.89,10.64,1.0,28203,142.91,148.92,-7.09,326.21,3.55
+2020-09-26,Kentucky,Montgomery,14.18,4,0,0.0,281,3,1.07,996.35,10.64,1.0,28203,142.91,156.01,-10.64,322.66,-14.19
 2020-09-25,Kentucky,Montgomery,17.73,5,0,0.0,277,3,1.08,982.17,10.64,0.98,28203,142.91,166.65,10.64,336.85,3.55
 2020-09-24,Kentucky,Montgomery,17.73,5,0,0.0,272,3,1.1,964.44,10.64,0.96,28203,142.91,156.01,14.18,333.3,14.18
 2020-09-23,Kentucky,Montgomery,42.55,12,0,0.0,267,3,1.12,946.71,10.64,0.95,28203,142.91,141.83,21.28,319.12,31.91

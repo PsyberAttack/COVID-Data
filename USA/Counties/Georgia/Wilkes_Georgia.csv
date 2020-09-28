@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-27,Georgia,Wilkes,0.0,0,0,0.0,266,5,1.88,2693.4,50.63,2.69,9876,21.04,60.76,-10.13,445.56,-20.25
+2020-09-26,Georgia,Wilkes,20.25,2,0,0.0,266,5,1.88,2693.4,50.63,2.69,9876,21.04,70.89,0.0,465.81,10.12
 2020-09-25,Georgia,Wilkes,10.13,1,0,0.0,264,5,1.89,2673.15,50.63,2.67,9876,21.04,70.89,-10.12,455.69,-20.25
 2020-09-24,Georgia,Wilkes,20.25,2,0,0.0,263,5,1.9,2663.02,50.63,2.66,9876,21.04,81.01,10.12,475.94,20.25
 2020-09-23,Georgia,Wilkes,10.13,1,1,10.13,261,5,1.92,2642.77,50.63,2.64,9876,21.04,70.89,10.13,455.69,10.13

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-27,Michigan,Van Buren,0.0,0,0,0.0,763,17,2.23,1011.29,22.53,1.01,75448,124.13,33.13,0.0,184.22,-3.98
+2020-09-26,Michigan,Van Buren,13.25,10,0,0.0,763,17,2.23,1011.29,22.53,1.01,75448,124.13,33.13,1.32,188.2,-18.56
 2020-09-25,Michigan,Van Buren,5.3,4,0,0.0,753,17,2.26,998.04,22.53,1.0,75448,124.13,31.81,0.0,206.76,-5.3
 2020-09-24,Michigan,Van Buren,6.63,5,0,0.0,749,17,2.27,992.74,22.53,0.99,75448,124.13,31.81,-3.97,212.06,2.65
 2020-09-23,Michigan,Van Buren,1.33,1,0,0.0,744,17,2.28,986.11,22.53,0.99,75448,124.13,35.78,-2.65,209.41,-3.97

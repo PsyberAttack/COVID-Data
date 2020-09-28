@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-27,Indiana,Whitley,8.8,3,0,0.0,279,6,2.15,818.81,17.61,0.82,34074,101.54,79.23,-5.87,199.52,0.0
+2020-09-26,Indiana,Whitley,17.61,6,-1,-2.93,276,6,2.17,810.0,17.61,0.81,34074,101.54,85.1,8.81,199.52,0.0
 2020-09-25,Indiana,Whitley,26.41,9,0,0.0,270,7,2.59,792.39,20.54,0.79,34074,101.54,76.29,29.34,199.52,20.54
 2020-09-24,Indiana,Whitley,17.61,6,1,2.93,261,7,2.68,765.98,20.54,0.77,34074,101.54,46.95,5.87,178.98,2.94
 2020-09-23,Indiana,Whitley,8.8,3,0,0.0,255,6,2.35,748.37,17.61,0.75,34074,101.54,41.08,8.8,176.04,5.87

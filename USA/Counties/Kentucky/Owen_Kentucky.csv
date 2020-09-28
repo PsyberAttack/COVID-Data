@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-27,Kentucky,Owen,0.0,0,0,0.0,101,2,1.98,928.31,18.38,0.93,10880,30.99,91.91,0.0,193.0,0.0
+2020-09-26,Kentucky,Owen,18.38,2,0,0.0,101,2,1.98,928.31,18.38,0.93,10880,30.99,91.91,9.19,193.0,18.38
 2020-09-25,Kentucky,Owen,9.19,1,0,0.0,99,2,2.02,909.93,18.38,0.91,10880,30.99,82.72,9.19,174.62,0.0
 2020-09-24,Kentucky,Owen,9.19,1,0,0.0,98,2,2.04,900.74,18.38,0.9,10880,30.99,73.53,0.0,174.62,-27.57
 2020-09-23,Kentucky,Owen,45.96,5,0,0.0,97,2,2.06,891.54,18.38,0.89,10880,30.99,73.53,45.96,202.19,45.96

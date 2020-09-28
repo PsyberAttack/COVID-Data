@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-27,Pennsylvania,Union,0.0,0,0,0.0,472,6,1.27,1053.92,13.4,1.05,44785,141.74,44.65,-2.23,225.51,-8.93
+2020-09-26,Pennsylvania,Union,17.86,8,0,0.0,472,6,1.27,1053.92,13.4,1.05,44785,141.74,46.88,17.86,234.44,29.02
 2020-09-25,Pennsylvania,Union,22.33,10,0,0.0,464,6,1.29,1036.06,13.4,1.04,44785,141.74,29.02,15.63,205.42,-6.7
 2020-09-24,Pennsylvania,Union,2.23,1,0,0.0,454,6,1.32,1013.73,13.4,1.01,44785,141.74,13.39,-20.1,212.12,2.23
 2020-09-23,Pennsylvania,Union,-20.1,-9,0,0.0,453,6,1.32,1011.5,13.4,1.01,44785,141.74,33.49,-17.87,209.89,-20.1

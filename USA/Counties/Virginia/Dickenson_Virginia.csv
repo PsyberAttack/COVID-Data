@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-27,Virginia,Dickenson,0.0,0,0,0.0,101,1,0.99,695.45,6.89,0.7,14523,43.95,89.51,-6.89,247.9,-6.89
+2020-09-26,Virginia,Dickenson,13.77,2,0,0.0,101,1,0.99,695.45,6.89,0.7,14523,43.95,96.4,0.0,254.79,6.88
 2020-09-25,Virginia,Dickenson,13.77,2,0,0.0,99,1,1.01,681.68,6.89,0.68,14523,43.95,96.4,-13.77,247.91,-13.77
 2020-09-24,Virginia,Dickenson,27.54,4,0,0.0,97,1,1.03,667.91,6.89,0.67,14523,43.95,110.17,13.77,261.68,20.65
 2020-09-23,Virginia,Dickenson,13.77,2,0,0.0,93,1,1.08,640.36,6.89,0.64,14523,43.95,96.4,13.77,241.03,0.0

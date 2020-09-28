@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-27,Tennessee,Clay,90.71,7,0,0.0,233,5,2.15,3019.31,64.79,3.02,7717,32.63,596.08,25.92,1580.91,77.75
+2020-09-26,Tennessee,Clay,25.92,2,0,0.0,226,5,2.21,2928.6,64.79,2.93,7717,32.63,570.16,-51.83,1503.16,12.96
 2020-09-25,Tennessee,Clay,51.83,4,0,0.0,224,5,2.23,2902.68,64.79,2.9,7717,32.63,621.99,-51.84,1490.2,12.95
 2020-09-24,Tennessee,Clay,64.79,5,0,0.0,220,5,2.27,2850.85,64.79,2.85,7717,32.63,673.83,-25.92,1477.25,25.91
 2020-09-23,Tennessee,Clay,51.83,4,0,0.0,215,5,2.33,2786.06,64.79,2.79,7717,32.63,699.75,-77.75,1451.34,51.83

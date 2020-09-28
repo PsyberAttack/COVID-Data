@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-27,Kentucky,Shelby,6.18,3,0,0.0,1061,24,2.26,2186.82,49.47,2.19,48518,127.76,63.88,-2.06,331.82,-2.06
+2020-09-26,Kentucky,Shelby,6.18,3,-1,-2.06,1058,24,2.27,2180.63,49.47,2.18,48518,127.76,65.94,-10.31,333.88,-6.19
 2020-09-25,Kentucky,Shelby,22.67,11,1,2.06,1055,25,2.37,2174.45,51.53,2.17,48518,127.76,76.25,8.24,340.07,6.18
 2020-09-24,Kentucky,Shelby,8.24,4,0,0.0,1044,24,2.3,2151.78,49.47,2.15,48518,127.76,68.01,-8.25,333.89,-2.07
 2020-09-23,Kentucky,Shelby,8.24,4,0,0.0,1040,24,2.31,2143.53,49.47,2.14,48518,127.76,76.26,-10.31,335.96,-2.07

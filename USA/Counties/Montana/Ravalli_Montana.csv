@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-27,Montana,Ravalli,0.0,0,0,0.0,140,2,1.43,324.28,4.63,0.32,43172,18.06,32.43,0.0,76.45,0.0
+2020-09-26,Montana,Ravalli,11.58,5,0,0.0,140,2,1.43,324.28,4.63,0.32,43172,18.06,32.43,2.31,76.45,4.63
 2020-09-25,Montana,Ravalli,6.95,3,0,0.0,135,2,1.48,312.7,4.63,0.31,43172,18.06,30.12,2.32,71.82,-4.63
 2020-09-24,Montana,Ravalli,6.95,3,0,0.0,132,2,1.52,305.75,4.63,0.31,43172,18.06,27.8,4.63,76.45,6.95
 2020-09-23,Montana,Ravalli,0.0,0,0,0.0,129,2,1.55,298.8,4.63,0.3,43172,18.06,23.17,-4.63,69.5,-2.32

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-27,Kentucky,Webster,7.63,1,0,0.0,164,3,1.83,1250.86,22.88,1.25,13111,39.48,122.04,0.0,373.75,7.63
+2020-09-26,Kentucky,Webster,15.25,2,0,0.0,163,3,1.84,1243.23,22.88,1.24,13111,39.48,122.04,-15.26,366.12,0.0
 2020-09-25,Kentucky,Webster,30.51,4,0,0.0,161,3,1.86,1227.98,22.88,1.23,13111,39.48,137.3,30.51,366.12,7.63
 2020-09-24,Kentucky,Webster,0.0,0,0,0.0,157,3,1.91,1197.47,22.88,1.2,13111,39.48,106.79,-7.63,358.49,-7.63
 2020-09-23,Kentucky,Webster,53.39,7,0,0.0,157,3,1.91,1197.47,22.88,1.2,13111,39.48,114.42,45.76,366.12,53.39

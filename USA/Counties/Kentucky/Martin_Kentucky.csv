@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-27,Kentucky,Martin,0.0,0,0,0.0,78,3,3.85,688.86,26.49,0.69,11323,49.31,35.32,0.0,203.11,0.0
+2020-09-26,Kentucky,Martin,8.83,1,0,0.0,78,3,3.85,688.86,26.49,0.69,11323,49.31,35.32,8.83,203.11,-8.83
 2020-09-25,Kentucky,Martin,8.83,1,0,0.0,77,3,3.9,680.03,26.49,0.68,11323,49.31,26.49,8.83,211.94,-8.83
 2020-09-24,Kentucky,Martin,8.83,1,0,0.0,76,3,3.95,671.2,26.49,0.67,11323,49.31,17.66,-8.83,220.77,8.83
 2020-09-23,Kentucky,Martin,8.83,1,0,0.0,75,3,4.0,662.37,26.49,0.66,11323,49.31,26.49,-79.49,211.94,-8.83

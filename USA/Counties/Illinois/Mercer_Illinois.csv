@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-27,Illinois,Mercer,12.82,2,0,0.0,139,5,3.6,890.97,32.05,0.89,15601,27.8,83.33,19.23,256.4,6.41
+2020-09-26,Illinois,Mercer,0.0,0,0,0.0,137,5,3.65,878.15,32.05,0.88,15601,27.8,64.1,-19.23,249.99,-6.41
 2020-09-25,Illinois,Mercer,25.64,4,0,0.0,137,5,3.65,878.15,32.05,0.88,15601,27.8,83.33,0.0,256.4,6.41
 2020-09-24,Illinois,Mercer,25.64,4,0,0.0,133,5,3.76,852.51,32.05,0.85,15601,27.8,83.33,19.23,249.99,32.05
 2020-09-23,Illinois,Mercer,12.82,2,0,0.0,129,5,3.88,826.87,32.05,0.83,15601,27.8,64.1,6.41,217.94,-12.82

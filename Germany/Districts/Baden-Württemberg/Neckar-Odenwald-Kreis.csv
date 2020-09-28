@@ -1,9 +1,11 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-23,Baden-Württemberg,Neckar-Odenwald-Kreis,0.7,1,0,0.0,517,23,4.45,359.95,16.01,0.36,143633,2.1,-0.69,22.3,0.7
-2020-09-22,Baden-Württemberg,Neckar-Odenwald-Kreis,0.0,0,0,0.0,516,23,4.46,359.25,16.01,0.36,143633,2.79,-1.39,21.6,-1.39
-2020-09-21,Baden-Württemberg,Neckar-Odenwald-Kreis,0.7,1,0,0.0,516,23,4.46,359.25,16.01,0.36,143633,4.18,0.0,22.99,0.0
-2020-09-20,Baden-Württemberg,Neckar-Odenwald-Kreis,0.0,0,0,0.0,515,23,4.47,358.55,16.01,0.36,143633,4.18,0.0,22.99,0.0
-2020-09-19,Baden-Württemberg,Neckar-Odenwald-Kreis,0.7,1,0,0.0,515,23,4.47,358.55,16.01,0.36,143633,4.18,-1.39,22.99,0.0
+2020-09-25,Baden-Württemberg,Neckar-Odenwald-Kreis,0.7,1,0,0.0,521,23,4.41,362.73,16.01,0.36,143633,4.88,0.7,22.99,0.0
+2020-09-24,Baden-Württemberg,Neckar-Odenwald-Kreis,1.39,2,0,0.0,520,23,4.42,362.03,16.01,0.36,143633,4.18,1.39,22.99,0.0
+2020-09-23,Baden-Württemberg,Neckar-Odenwald-Kreis,0.7,1,0,0.0,518,23,4.44,360.64,16.01,0.36,143633,2.79,-0.69,22.99,0.7
+2020-09-22,Baden-Württemberg,Neckar-Odenwald-Kreis,0.0,0,0,0.0,517,23,4.45,359.95,16.01,0.36,143633,3.48,-1.39,22.29,-1.39
+2020-09-21,Baden-Württemberg,Neckar-Odenwald-Kreis,0.7,1,0,0.0,517,23,4.45,359.95,16.01,0.36,143633,4.87,0.0,23.68,0.0
+2020-09-20,Baden-Württemberg,Neckar-Odenwald-Kreis,0.0,0,0,0.0,516,23,4.46,359.25,16.01,0.36,143633,4.87,0.0,23.68,0.0
+2020-09-19,Baden-Württemberg,Neckar-Odenwald-Kreis,1.39,2,0,0.0,516,23,4.46,359.25,16.01,0.36,143633,4.87,-0.7,23.68,0.69
 2020-09-18,Baden-Württemberg,Neckar-Odenwald-Kreis,0.0,0,0,0.0,514,23,4.47,357.86,16.01,0.36,143633,5.57,-1.39,22.99,-1.39
 2020-09-17,Baden-Württemberg,Neckar-Odenwald-Kreis,0.0,0,0,0.0,514,23,4.47,357.86,16.01,0.36,143633,6.96,0.0,24.38,-1.39
 2020-09-16,Baden-Württemberg,Neckar-Odenwald-Kreis,1.39,2,0,0.0,514,23,4.47,357.86,16.01,0.36,143633,6.96,-0.7,25.77,-2.79

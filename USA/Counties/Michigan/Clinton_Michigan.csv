@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-27,Michigan,Clinton,0.0,0,0,0.0,677,14,2.07,853.38,17.65,0.85,79332,140.06,71.85,0.0,238.24,-7.56
+2020-09-26,Michigan,Clinton,10.08,8,1,1.26,677,14,2.07,853.38,17.65,0.85,79332,140.06,71.85,5.04,245.8,2.52
 2020-09-25,Michigan,Clinton,10.08,8,0,0.0,669,13,1.94,843.29,16.39,0.84,79332,140.06,66.81,3.78,243.28,1.26
 2020-09-24,Michigan,Clinton,3.78,3,0,0.0,661,13,1.97,833.21,16.39,0.83,79332,140.06,63.03,-8.83,242.02,0.0
 2020-09-23,Michigan,Clinton,12.61,10,0,0.0,658,13,1.98,829.43,16.39,0.83,79332,140.06,71.86,3.79,242.02,6.31
