@@ -1,4 +1,8 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-28,Hessen,Schwalm-Eder-Kreis,0.56,1,0,0.0,679,39,5.74,377.91,21.71,0.38,179673,5.02,0.0,19.5,0.56
+2020-09-27,Hessen,Schwalm-Eder-Kreis,0.0,0,0,0.0,678,39,5.75,377.35,21.71,0.38,179673,5.02,-1.67,18.94,-0.56
+2020-09-26,Hessen,Schwalm-Eder-Kreis,0.0,0,0,0.0,678,39,5.75,377.35,21.71,0.38,179673,6.69,0.0,19.5,-0.56
+2020-09-25,Hessen,Schwalm-Eder-Kreis,0.0,0,0,0.0,678,39,5.75,377.35,21.71,0.38,179673,6.69,-1.67,20.06,0.0
 2020-09-24,Hessen,Schwalm-Eder-Kreis,0.56,1,0,0.0,678,39,5.75,377.35,21.71,0.38,179673,8.36,-1.11,20.06,0.56
 2020-09-23,Hessen,Schwalm-Eder-Kreis,2.23,4,0,0.0,677,39,5.76,376.8,21.71,0.38,179673,9.47,1.67,19.5,2.23
 2020-09-22,Hessen,Schwalm-Eder-Kreis,1.67,3,0,0.0,673,39,5.79,374.57,21.71,0.37,179673,7.8,1.67,17.27,0.0
