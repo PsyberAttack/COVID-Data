@@ -1,4 +1,7 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0335,2020-09-30,Utrecht,Montfoort,14.37,2,0,0.0,105,6,5.71,754.31,43.1,0.75,13920,86.21,0.0,237.03,0.0
+GM0335,2020-09-29,Utrecht,Montfoort,0.0,0,0,0.0,103,6,5.83,739.94,43.1,0.74,13920,86.21,-7.18,237.03,-28.74
+GM0335,2020-09-28,Utrecht,Montfoort,21.55,3,0,0.0,103,6,5.83,739.94,43.1,0.74,13920,93.39,14.37,265.77,0.0
 GM0335,2020-09-27,Utrecht,Montfoort,14.37,2,0,0.0,100,6,6.0,718.39,43.1,0.72,13920,79.02,14.37,265.77,7.19
 GM0335,2020-09-26,Utrecht,Montfoort,7.18,1,0,0.0,98,6,6.12,704.02,43.1,0.7,13920,64.65,0.0,258.58,-28.74
 GM0335,2020-09-25,Utrecht,Montfoort,14.37,2,0,0.0,97,6,6.19,696.84,43.1,0.7,13920,64.65,7.19,287.32,-7.18
