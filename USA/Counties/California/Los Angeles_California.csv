@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-29,California,Los Angeles,8.2,829,36,0.36,269284,6551,2.43,2664.72,64.83,2.66,10105518,2490.15,70.76,1.4,264.84,0.75
+2020-09-28,California,Los Angeles,6.47,654,1,0.01,268455,6515,2.43,2656.52,64.47,2.66,10105518,2490.15,69.36,0.05,264.09,-3.61
 2020-09-27,California,Los Angeles,8.05,813,10,0.1,267801,6514,2.43,2650.05,64.46,2.65,10105518,2490.15,69.31,-1.65,267.7,-1.78
 2020-09-26,California,Los Angeles,12.0,1213,16,0.16,266988,6504,2.44,2642.0,64.36,2.64,10105518,2490.15,70.96,-0.87,269.48,-0.84
 2020-09-25,California,Los Angeles,13.47,1361,33,0.33,265775,6488,2.44,2630.0,64.2,2.63,10105518,2490.15,71.83,1.15,270.32,-1.1

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-29,Missouri,Henry,0.0,0,0,0.0,205,5,2.44,940.71,22.94,0.94,21792,31.27,174.37,0.0,408.43,-4.59
+2020-09-28,Missouri,Henry,9.18,2,0,0.0,205,5,2.44,940.71,22.94,0.94,21792,31.27,174.37,-13.76,413.02,4.59
 2020-09-27,Missouri,Henry,32.12,7,0,0.0,203,5,2.46,931.53,22.94,0.93,21792,31.27,188.13,27.53,408.43,22.94
 2020-09-26,Missouri,Henry,22.94,5,1,4.59,196,5,2.55,899.41,22.94,0.9,21792,31.27,160.6,-4.59,385.49,22.94
 2020-09-25,Missouri,Henry,32.12,7,0,0.0,191,4,2.09,876.47,18.36,0.88,21792,31.27,165.19,13.76,362.55,32.12

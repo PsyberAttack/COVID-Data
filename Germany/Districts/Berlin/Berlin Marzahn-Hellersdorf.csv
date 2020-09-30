@@ -1,10 +1,11 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-28,Berlin,Berlin Marzahn-Hellersdorf,0.39,1,0,0.0,696,6,0.86,272.25,2.35,0.27,255643,5.07,-0.39,41.05,0.0
-2020-09-27,Berlin,Berlin Marzahn-Hellersdorf,0.0,0,0,0.0,695,6,0.86,271.86,2.35,0.27,255643,5.46,-1.96,41.05,-0.39
-2020-09-26,Berlin,Berlin Marzahn-Hellersdorf,1.17,3,0,0.0,695,6,0.86,271.86,2.35,0.27,255643,7.42,-1.96,41.44,-1.18
-2020-09-25,Berlin,Berlin Marzahn-Hellersdorf,0.39,1,0,0.0,692,6,0.87,270.69,2.35,0.27,255643,9.38,-0.78,42.62,0.0
-2020-09-24,Berlin,Berlin Marzahn-Hellersdorf,1.17,3,0,0.0,691,6,0.87,270.3,2.35,0.27,255643,10.16,-2.35,42.62,0.78
-2020-09-23,Berlin,Berlin Marzahn-Hellersdorf,1.56,4,0,0.0,688,6,0.87,269.13,2.35,0.27,255643,12.51,-1.18,41.84,1.17
+2020-09-29,Berlin,Berlin Marzahn-Hellersdorf,1.17,3,0,0.0,702,6,0.85,274.6,2.35,0.27,255643,7.03,0.78,42.23,0.0
+2020-09-28,Berlin,Berlin Marzahn-Hellersdorf,0.78,2,0,0.0,699,6,0.86,273.43,2.35,0.27,255643,6.25,0.0,42.23,0.39
+2020-09-27,Berlin,Berlin Marzahn-Hellersdorf,0.0,0,0,0.0,697,6,0.86,272.65,2.35,0.27,255643,6.25,-1.96,41.84,-0.39
+2020-09-26,Berlin,Berlin Marzahn-Hellersdorf,1.17,3,0,0.0,697,6,0.86,272.65,2.35,0.27,255643,8.21,-1.96,42.23,-1.18
+2020-09-25,Berlin,Berlin Marzahn-Hellersdorf,0.39,1,0,0.0,694,6,0.86,271.47,2.35,0.27,255643,10.17,-0.78,43.41,0.0
+2020-09-24,Berlin,Berlin Marzahn-Hellersdorf,1.17,3,0,0.0,693,6,0.87,271.08,2.35,0.27,255643,10.95,-2.35,43.41,0.78
+2020-09-23,Berlin,Berlin Marzahn-Hellersdorf,2.35,6,0,0.0,690,6,0.87,269.91,2.35,0.27,255643,13.3,-0.39,42.63,1.96
 2020-09-22,Berlin,Berlin Marzahn-Hellersdorf,0.39,1,0,0.0,684,6,0.88,267.56,2.35,0.27,255643,13.69,-1.57,40.67,0.39
 2020-09-21,Berlin,Berlin Marzahn-Hellersdorf,0.78,2,0,0.0,683,6,0.88,267.17,2.35,0.27,255643,15.26,-3.91,40.28,0.39
 2020-09-20,Berlin,Berlin Marzahn-Hellersdorf,1.96,5,0,0.0,681,6,0.88,266.39,2.35,0.27,255643,19.17,1.57,39.89,0.4

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-29,Wisconsin,Florence,46.29,2,0,0.0,96,2,2.08,2221.71,46.29,2.22,4321,8.85,624.87,46.29,1596.86,0.0
+2020-09-28,Wisconsin,Florence,69.43,3,0,0.0,94,2,2.13,2175.42,46.29,2.18,4321,8.85,578.58,-69.43,1596.86,69.43
 2020-09-27,Wisconsin,Florence,46.29,2,0,0.0,91,2,2.2,2105.99,46.29,2.11,4321,8.85,648.01,-69.42,1527.43,23.15
 2020-09-26,Wisconsin,Florence,46.29,2,1,23.14,89,2,2.25,2059.71,46.29,2.06,4321,8.85,717.43,-69.42,1504.28,23.15
 2020-09-25,Wisconsin,Florence,208.29,9,0,0.0,87,1,1.15,2013.42,23.14,2.01,4321,8.85,786.85,185.15,1481.13,208.29

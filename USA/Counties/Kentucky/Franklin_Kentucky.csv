@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-29,Kentucky,Franklin,25.58,13,0,0.0,667,12,1.8,1312.6,23.62,1.31,50815,244.49,123.98,11.8,366.05,-3.94
+2020-09-28,Kentucky,Franklin,3.94,2,0,0.0,654,12,1.83,1287.02,23.62,1.29,50815,244.49,112.18,0.0,369.99,3.94
 2020-09-27,Kentucky,Franklin,-1.97,-1,0,0.0,652,12,1.84,1283.09,23.62,1.28,50815,244.49,112.18,-3.94,366.05,-11.81
 2020-09-26,Kentucky,Franklin,35.42,18,1,1.97,653,12,1.84,1285.05,23.62,1.29,50815,244.49,116.12,27.55,377.86,27.55
 2020-09-25,Kentucky,Franklin,13.78,7,-1,-1.97,635,11,1.73,1249.63,21.65,1.25,50815,244.49,88.57,3.94,350.31,1.97

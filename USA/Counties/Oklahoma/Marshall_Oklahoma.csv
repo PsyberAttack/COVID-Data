@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-29,Oklahoma,Marshall,11.9,2,0,0.0,183,2,1.09,1088.9,11.9,1.09,16806,45.23,59.5,0.0,309.4,5.95
+2020-09-28,Oklahoma,Marshall,5.95,1,0,0.0,181,2,1.1,1077.0,11.9,1.08,16806,45.23,59.5,5.95,303.45,5.95
 2020-09-27,Oklahoma,Marshall,0.0,0,0,0.0,180,2,1.11,1071.05,11.9,1.07,16806,45.23,53.55,-5.95,297.5,0.0
 2020-09-26,Oklahoma,Marshall,0.0,0,0,0.0,180,2,1.11,1071.05,11.9,1.07,16806,45.23,59.5,-5.95,297.5,0.0
 2020-09-25,Oklahoma,Marshall,11.9,2,1,5.95,180,2,1.11,1071.05,11.9,1.07,16806,45.23,65.45,-5.95,297.5,5.95

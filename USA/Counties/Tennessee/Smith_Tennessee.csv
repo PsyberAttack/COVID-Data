@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-29,Tennessee,Smith,30.09,6,0,0.0,740,11,1.49,3710.76,55.16,3.71,19942,63.45,310.91,30.09,1123.29,30.09
+2020-09-28,Tennessee,Smith,15.04,3,0,0.0,734,11,1.5,3680.67,55.16,3.68,19942,63.45,280.82,-10.03,1093.2,10.03
 2020-09-27,Tennessee,Smith,40.12,8,0,0.0,731,11,1.5,3665.63,55.16,3.67,19942,63.45,290.85,20.06,1083.17,40.12
 2020-09-26,Tennessee,Smith,50.15,10,0,0.0,723,11,1.52,3625.51,55.16,3.63,19942,63.45,270.79,20.06,1043.05,40.12
 2020-09-25,Tennessee,Smith,75.22,15,1,5.01,713,11,1.54,3575.37,55.16,3.58,19942,63.45,250.73,35.1,1002.93,55.16

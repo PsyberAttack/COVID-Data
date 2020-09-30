@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-29,New York,Putnam,8.09,8,0,0.0,1612,63,3.91,1630.06,63.71,1.63,98892,429.37,29.32,2.02,108.17,4.05
+2020-09-28,New York,Putnam,5.06,5,0,0.0,1604,63,3.93,1621.97,63.71,1.62,98892,429.37,27.3,2.03,104.12,4.05
 2020-09-27,New York,Putnam,2.02,2,0,0.0,1599,63,3.94,1616.92,63.71,1.62,98892,429.37,25.27,1.01,100.07,-4.05
 2020-09-26,New York,Putnam,3.03,3,0,0.0,1597,63,3.94,1614.89,63.71,1.61,98892,429.37,24.26,-1.01,104.12,1.01
 2020-09-25,New York,Putnam,5.06,5,0,0.0,1594,63,3.95,1611.86,63.71,1.61,98892,429.37,25.27,3.04,103.11,0.0

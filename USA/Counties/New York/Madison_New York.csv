@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-29,New York,Madison,5.65,4,0,0.0,497,9,1.81,702.03,12.71,0.7,70795,108.11,11.3,4.24,50.86,5.65
+2020-09-28,New York,Madison,0.0,0,0,0.0,493,9,1.83,696.38,12.71,0.7,70795,108.11,7.06,-1.41,45.21,0.0
 2020-09-27,New York,Madison,0.0,0,0,0.0,493,9,1.83,696.38,12.71,0.7,70795,108.11,8.47,-1.41,45.21,-2.83
 2020-09-26,New York,Madison,1.41,1,0,0.0,493,9,1.83,696.38,12.71,0.7,70795,108.11,9.88,-1.42,48.04,-2.83
 2020-09-25,New York,Madison,0.0,0,0,0.0,492,9,1.83,694.96,12.71,0.69,70795,108.11,11.3,-5.65,50.87,-24.01

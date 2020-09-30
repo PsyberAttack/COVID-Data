@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-29,Minnesota,Watonwan,45.54,5,0,0.0,535,4,0.75,4872.5,36.43,4.87,10980,25.24,218.57,0.0,819.64,27.33
+2020-09-28,Minnesota,Watonwan,0.0,0,0,0.0,530,4,0.75,4826.96,36.43,4.83,10980,25.24,218.57,-9.11,792.31,-45.54
 2020-09-27,Minnesota,Watonwan,18.21,2,0,0.0,530,4,0.75,4826.96,36.43,4.83,10980,25.24,227.68,-45.54,837.85,-91.08
 2020-09-26,Minnesota,Watonwan,72.86,8,0,0.0,528,4,0.76,4808.74,36.43,4.81,10980,25.24,273.22,45.54,928.93,36.43
 2020-09-25,Minnesota,Watonwan,36.43,4,0,0.0,520,4,0.77,4735.88,36.43,4.74,10980,25.24,227.68,-63.75,892.5,0.0

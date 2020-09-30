@@ -1,5 +1,7 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-26,Niedersachsen,Rotenburg (Wümme),0.61,1,0,0.0,276,2,0.72,168.85,1.22,0.17,163455,20.18,0.0,43.42,0.0
+2020-09-28,Niedersachsen,Rotenburg (Wümme),0.61,1,0,0.0,278,2,0.72,170.08,1.22,0.17,163455,17.12,-3.06,42.81,-0.61
+2020-09-27,Niedersachsen,Rotenburg (Wümme),0.0,0,0,0.0,277,2,0.72,169.47,1.22,0.17,163455,20.18,-0.61,43.42,-0.61
+2020-09-26,Niedersachsen,Rotenburg (Wümme),1.22,2,0,0.0,277,2,0.72,169.47,1.22,0.17,163455,20.79,0.61,44.03,0.61
 2020-09-25,Niedersachsen,Rotenburg (Wümme),1.22,2,0,0.0,275,2,0.73,168.24,1.22,0.17,163455,20.18,-4.29,43.42,-1.23
 2020-09-24,Niedersachsen,Rotenburg (Wümme),6.73,11,0,0.0,273,2,0.73,167.02,1.22,0.17,163455,24.47,4.28,44.65,4.89
 2020-09-23,Niedersachsen,Rotenburg (Wümme),3.67,6,0,0.0,262,2,0.76,160.29,1.22,0.16,163455,20.19,1.22,39.76,3.06

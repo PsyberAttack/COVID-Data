@@ -1,7 +1,8 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-28,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,0.35,1,0,0.0,751,22,2.93,265.12,7.77,0.27,283271,13.07,-1.42,42.04,-1.42
-2020-09-27,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,0.71,2,0,0.0,750,22,2.93,264.76,7.77,0.26,283271,14.49,-0.35,43.46,-0.7
-2020-09-26,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,0.71,2,0,0.0,748,22,2.94,264.06,7.77,0.26,283271,14.84,-0.35,44.16,0.36
+2020-09-29,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.41,4,0,0.0,756,22,2.91,266.88,7.77,0.27,283271,12.71,-0.71,43.09,0.7
+2020-09-28,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,0.35,1,0,0.0,752,22,2.93,265.47,7.77,0.27,283271,13.42,-1.42,42.39,-1.42
+2020-09-27,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,0.71,2,0,0.0,751,22,2.93,265.12,7.77,0.27,283271,14.84,-0.35,43.81,-0.7
+2020-09-26,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.06,3,0,0.0,749,22,2.94,264.41,7.77,0.26,283271,15.19,0.0,44.51,0.71
 2020-09-25,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,2.47,7,0,0.0,746,22,2.95,263.35,7.77,0.26,283271,15.19,0.0,43.8,2.47
 2020-09-24,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,4.59,13,0,0.0,739,22,2.98,260.88,7.77,0.26,283271,15.19,2.82,41.33,4.59
 2020-09-23,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,2.12,6,0,0.0,726,22,3.03,256.29,7.77,0.26,283271,12.37,1.06,36.74,1.41
@@ -20,9 +21,9 @@ date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_c
 2020-09-10,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.06,3,0,0.0,667,22,3.3,235.46,7.77,0.24,283271,8.83,-0.35,30.03,-2.47
 2020-09-09,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,2.47,7,0,0.0,664,22,3.31,234.4,7.77,0.23,283271,9.18,1.06,32.5,0.7
 2020-09-08,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.06,3,0,0.0,657,22,3.35,231.93,7.77,0.23,283271,8.12,0.35,31.8,0.35
-2020-09-07,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.06,3,0,0.0,654,22,3.36,230.87,7.77,0.23,283271,7.77,-0.71,31.45,-1.06
-2020-09-06,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.06,3,0,0.0,651,22,3.38,229.82,7.77,0.23,283271,8.48,-0.35,32.51,0.0
-2020-09-05,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,0.71,2,0,0.0,648,22,3.4,228.76,7.77,0.23,283271,8.83,0.36,32.51,-0.35
+2020-09-07,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.06,3,0,0.0,654,22,3.36,230.87,7.77,0.23,283271,7.77,-0.71,31.45,-0.71
+2020-09-06,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.06,3,0,0.0,651,22,3.38,229.82,7.77,0.23,283271,8.48,-0.35,32.16,0.0
+2020-09-05,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,0.71,2,0,0.0,648,22,3.4,228.76,7.77,0.23,283271,8.83,0.36,32.16,-0.7
 2020-09-04,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.41,4,0,0.0,646,22,3.41,228.05,7.77,0.23,283271,8.47,1.41,32.86,1.06
 2020-09-03,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.41,4,0,0.0,642,22,3.43,226.64,7.77,0.23,283271,7.06,1.41,31.8,1.06
 2020-09-02,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.41,4,0,0.0,638,22,3.45,225.23,7.77,0.23,283271,5.65,0.7,30.74,-0.36
@@ -41,16 +42,16 @@ date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_c
 2020-08-20,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.06,3,0,0.0,612,22,3.59,216.05,7.77,0.22,283271,10.6,-2.47,33.91,-0.35
 2020-08-19,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.41,4,0,0.0,609,22,3.61,214.99,7.77,0.21,283271,13.07,-0.36,34.26,0.35
 2020-08-18,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,2.47,7,0,0.0,605,22,3.64,213.58,7.77,0.21,283271,13.43,1.76,33.91,1.76
-2020-08-17,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.41,4,0,0.0,598,22,3.68,211.11,7.77,0.21,283271,11.67,-0.71,32.15,0.7
-2020-08-16,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,0.71,2,0,0.0,594,22,3.7,209.69,7.77,0.21,283271,12.38,-0.35,31.45,0.36
-2020-08-15,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.77,5,0,0.0,592,22,3.72,208.99,7.77,0.21,283271,12.73,0.71,31.09,1.42
+2020-08-17,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.41,4,0,0.0,598,22,3.68,211.11,7.77,0.21,283271,11.67,-0.36,32.15,0.7
+2020-08-16,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,0.71,2,0,0.0,594,22,3.7,209.69,7.77,0.21,283271,12.03,-0.35,31.45,0.36
+2020-08-15,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.77,5,0,0.0,592,22,3.72,208.99,7.77,0.21,283271,12.38,0.36,31.09,1.42
 2020-08-14,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.77,5,0,0.0,587,22,3.75,207.22,7.77,0.21,283271,12.02,1.42,29.67,1.06
 2020-08-13,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,3.53,10,0,0.0,582,22,3.78,205.46,7.77,0.21,283271,10.6,3.18,28.61,2.47
 2020-08-12,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.77,5,0,0.0,572,22,3.85,201.93,7.77,0.2,283271,7.42,0.0,26.14,0.71
 2020-08-11,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,0.71,2,0,0.0,567,22,3.88,200.16,7.77,0.2,283271,7.42,-1.76,25.43,-0.35
-2020-08-10,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,2.12,6,0,0.0,565,22,3.89,199.46,7.77,0.2,283271,9.18,-1.06,25.78,1.41
-2020-08-09,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.06,3,0,0.0,559,22,3.94,197.34,7.77,0.2,283271,10.24,0.71,24.37,0.35
-2020-08-08,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.06,3,0,0.0,556,22,3.96,196.28,7.77,0.2,283271,9.53,1.06,24.02,1.06
+2020-08-10,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.77,5,0,0.0,565,22,3.89,199.46,7.77,0.2,283271,9.18,-1.41,25.78,1.06
+2020-08-09,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.06,3,0,0.0,560,22,3.93,197.69,7.77,0.2,283271,10.59,0.71,24.72,0.35
+2020-08-08,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.41,4,0,0.0,557,22,3.95,196.63,7.77,0.2,283271,9.88,1.41,24.37,1.41
 2020-08-07,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,0.35,1,0,0.0,553,22,3.98,195.22,7.77,0.2,283271,8.47,-0.36,22.96,-0.36
 2020-08-06,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,0.35,1,0,0.0,552,22,3.99,194.87,7.77,0.19,283271,8.83,-1.77,23.32,0.35
 2020-08-05,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.77,5,0,0.0,551,22,3.99,194.51,7.77,0.19,283271,10.6,1.77,22.97,1.06

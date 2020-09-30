@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-29,Louisiana,Concordia,-5.11,-1,0,0.0,511,14,2.74,2610.87,71.53,2.61,19572,28.08,20.44,-35.77,383.21,-20.44
+2020-09-28,Louisiana,Concordia,5.11,1,0,0.0,512,14,2.73,2615.98,71.53,2.62,19572,28.08,56.21,-5.11,403.65,5.11
 2020-09-27,Louisiana,Concordia,5.11,1,1,5.11,511,14,2.74,2610.87,71.53,2.61,19572,28.08,61.32,5.11,398.54,-25.55
 2020-09-26,Louisiana,Concordia,0.0,0,0,0.0,510,13,2.55,2605.76,66.42,2.61,19572,28.08,56.21,0.0,424.09,0.0
 2020-09-25,Louisiana,Concordia,-5.11,-1,0,0.0,510,13,2.55,2605.76,66.42,2.61,19572,28.08,56.21,0.0,424.09,-10.22

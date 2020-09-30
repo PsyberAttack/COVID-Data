@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-29,New Jersey,Middlesex,4.34,36,3,0.36,19741,1428,7.23,2379.34,172.11,2.38,829685,2683.17,45.92,-0.72,129.18,2.89
+2020-09-28,New Jersey,Middlesex,7.11,59,0,0.0,19705,1425,7.23,2375.0,171.75,2.37,829685,2683.17,46.64,3.86,126.29,4.22
 2020-09-27,New Jersey,Middlesex,7.83,65,0,0.0,19646,1425,7.25,2367.89,171.75,2.37,829685,2683.17,42.78,3.13,122.07,5.78
 2020-09-26,New Jersey,Middlesex,7.23,60,0,0.0,19581,1425,7.28,2360.05,171.75,2.36,829685,2683.17,39.65,3.13,116.29,2.65
 2020-09-25,New Jersey,Middlesex,7.11,59,0,0.0,19521,1425,7.3,2352.82,171.75,2.35,829685,2683.17,36.52,1.69,113.64,5.18

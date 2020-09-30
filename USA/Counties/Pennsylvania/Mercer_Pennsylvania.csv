@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-29,Pennsylvania,Mercer,5.42,6,1,0.9,741,18,2.43,669.48,16.26,0.67,110683,164.56,34.33,1.81,173.44,2.71
+2020-09-28,Pennsylvania,Mercer,6.32,7,0,0.0,735,17,2.31,664.06,15.36,0.66,110683,164.56,32.52,2.71,170.73,5.42
 2020-09-27,Pennsylvania,Mercer,2.71,3,0,0.0,728,17,2.34,657.73,15.36,0.66,110683,164.56,29.81,-3.61,165.31,0.9
 2020-09-26,Pennsylvania,Mercer,4.52,5,1,0.9,725,17,2.34,655.02,15.36,0.66,110683,164.56,33.42,0.91,164.41,2.71
 2020-09-25,Pennsylvania,Mercer,9.03,10,0,0.0,720,16,2.22,650.51,14.46,0.65,110683,164.56,32.51,-9.94,161.7,7.22

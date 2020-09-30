@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-29,North Carolina,Transylvania,11.69,4,0,0.0,333,7,2.1,973.26,20.46,0.97,34215,90.41,58.45,-17.54,210.42,-26.31
+2020-09-28,North Carolina,Transylvania,-2.92,-1,0,0.0,329,7,2.13,961.57,20.46,0.96,34215,90.41,75.99,-5.84,236.73,-14.61
 2020-09-27,North Carolina,Transylvania,0.0,0,0,0.0,330,7,2.12,964.49,20.46,0.96,34215,90.41,81.83,0.0,251.34,-2.92
 2020-09-26,North Carolina,Transylvania,2.92,1,0,0.0,330,7,2.12,964.49,20.46,0.96,34215,90.41,81.83,0.0,254.26,-26.31
 2020-09-25,North Carolina,Transylvania,14.61,5,0,0.0,329,7,2.13,961.57,20.46,0.96,34215,90.41,81.83,8.76,280.57,0.0

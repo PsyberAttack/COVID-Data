@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-29,Alabama,Perry,0.0,0,0,0.0,542,6,1.11,5929.98,65.65,5.93,9140,12.7,32.82,-10.94,251.62,-21.88
+2020-09-28,Alabama,Perry,10.94,1,0,0.0,542,6,1.11,5929.98,65.65,5.93,9140,12.7,43.76,0.0,273.5,0.0
 2020-09-27,Alabama,Perry,0.0,0,0,0.0,541,6,1.11,5919.04,65.65,5.92,9140,12.7,43.76,0.0,273.5,0.0
 2020-09-26,Alabama,Perry,0.0,0,0,0.0,541,6,1.11,5919.04,65.65,5.92,9140,12.7,43.76,-10.94,273.5,10.94
 2020-09-25,Alabama,Perry,10.94,1,-1,-10.94,541,6,1.11,5919.04,65.65,5.92,9140,12.7,54.7,0.0,262.56,-32.82

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-29,Kentucky,McLean,0.0,0,0,0.0,80,0,0.0,864.68,0.0,0.86,9252,36.64,43.24,-10.81,248.61,0.0
+2020-09-28,Kentucky,McLean,10.81,1,0,0.0,80,0,0.0,864.68,0.0,0.86,9252,36.64,54.05,10.81,248.61,0.0
 2020-09-27,Kentucky,McLean,0.0,0,0,0.0,79,0,0.0,853.87,0.0,0.85,9252,36.64,43.24,0.0,248.61,0.0
 2020-09-26,Kentucky,McLean,10.81,1,0,0.0,79,0,0.0,853.87,0.0,0.85,9252,36.64,43.24,-43.23,248.61,10.81
 2020-09-25,Kentucky,McLean,10.81,1,0,0.0,78,0,0.0,843.06,0.0,0.84,9252,36.64,86.47,10.81,237.8,-10.81

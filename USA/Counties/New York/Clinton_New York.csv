@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-29,New York,Clinton,1.24,1,0,0.0,162,5,3.09,200.76,6.2,0.2,80695,77.76,8.68,0.0,13.64,0.0
+2020-09-28,New York,Clinton,1.24,1,0,0.0,161,5,3.11,199.52,6.2,0.2,80695,77.76,8.68,1.24,13.64,1.24
 2020-09-27,New York,Clinton,1.24,1,0,0.0,160,5,3.12,198.28,6.2,0.2,80695,77.76,7.44,1.24,12.4,1.24
 2020-09-26,New York,Clinton,1.24,1,0,0.0,159,5,3.14,197.04,6.2,0.2,80695,77.76,6.2,1.24,11.16,0.0
 2020-09-25,New York,Clinton,1.24,1,0,0.0,158,5,3.16,195.8,6.2,0.2,80695,77.76,4.96,1.24,11.16,0.0

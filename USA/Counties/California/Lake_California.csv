@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-29,California,Lake,6.21,4,0,0.0,559,11,1.97,868.26,17.09,0.87,64382,51.24,79.22,-18.64,338.61,-4.66
+2020-09-28,California,Lake,9.32,6,0,0.0,555,11,1.98,862.04,17.09,0.86,64382,51.24,97.86,-32.62,343.27,1.55
 2020-09-27,California,Lake,15.53,10,0,0.0,549,11,2.0,852.72,17.09,0.85,64382,51.24,130.48,4.66,341.72,1.55
 2020-09-26,California,Lake,12.43,8,0,0.0,539,11,2.04,837.19,17.09,0.84,64382,51.24,125.82,-26.4,340.17,3.11
 2020-09-25,California,Lake,18.64,12,0,0.0,531,11,2.07,824.76,17.09,0.82,64382,51.24,152.22,-6.21,337.06,9.32

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-29,Maryland,Talbot,0.0,0,0,0.0,565,6,1.06,1528.35,16.23,1.53,36968,137.65,59.51,-2.71,248.91,0.0
+2020-09-28,Maryland,Talbot,16.23,6,0,0.0,565,6,1.06,1528.35,16.23,1.53,36968,137.65,62.22,8.11,248.91,13.52
 2020-09-27,Maryland,Talbot,10.82,4,0,0.0,559,6,1.07,1512.12,16.23,1.51,36968,137.65,54.11,-18.94,235.39,2.7
 2020-09-26,Maryland,Talbot,10.82,4,0,0.0,555,6,1.08,1501.3,16.23,1.5,36968,137.65,73.05,0.0,232.69,-5.41
 2020-09-25,Maryland,Talbot,5.41,2,0,0.0,551,6,1.09,1490.48,16.23,1.49,36968,137.65,73.05,-5.41,238.1,0.0

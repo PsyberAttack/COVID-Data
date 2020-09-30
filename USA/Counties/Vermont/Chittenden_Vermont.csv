@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-29,Vermont,Chittenden,0.61,1,0,0.0,837,39,4.66,508.59,23.7,0.51,164572,306.7,4.26,0.0,20.68,-3.04
+2020-09-28,Vermont,Chittenden,0.61,1,0,0.0,836,39,4.67,507.98,23.7,0.51,164572,306.7,4.26,0.61,23.72,-4.25
 2020-09-27,Vermont,Chittenden,0.0,0,0,0.0,835,39,4.67,507.38,23.7,0.51,164572,306.7,3.65,-0.61,27.97,-1.22
 2020-09-26,Vermont,Chittenden,0.0,0,0,0.0,835,39,4.67,507.38,23.7,0.51,164572,306.7,4.26,-0.61,29.19,-4.86
 2020-09-25,Vermont,Chittenden,1.82,3,0,0.0,835,39,4.67,507.38,23.7,0.51,164572,306.7,4.87,0.6,34.05,1.82

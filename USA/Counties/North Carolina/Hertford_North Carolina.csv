@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-29,North Carolina,Hertford,0.0,0,1,4.23,755,30,3.97,3191.17,126.8,3.19,23659,66.99,202.88,-59.17,841.1,-29.59
+2020-09-28,North Carolina,Hertford,4.23,1,-1,-4.23,755,29,3.84,3191.17,122.57,3.19,23659,66.99,262.05,-4.22,870.69,-25.36
 2020-09-27,North Carolina,Hertford,29.59,7,0,0.0,754,30,3.98,3186.95,126.8,3.19,23659,66.99,266.27,-12.68,896.05,-16.9
 2020-09-26,North Carolina,Hertford,12.68,3,1,4.23,747,30,4.02,3157.36,126.8,3.16,23659,66.99,278.95,-46.49,912.95,-59.17
 2020-09-25,North Carolina,Hertford,50.72,12,1,4.23,744,29,3.9,3144.68,122.57,3.14,23659,66.99,325.44,12.68,972.12,-46.49

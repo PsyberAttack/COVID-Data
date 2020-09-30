@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-29,Missouri,Jackson,0.0,0,1,0.14,7588,102,1.34,1083.52,14.57,1.08,700307,1158.46,58.54,-5.28,283.01,-12.14
+2020-09-28,Missouri,Jackson,10.85,76,2,0.29,7588,101,1.33,1083.52,14.42,1.08,700307,1158.46,63.82,-0.15,295.15,2.43
 2020-09-27,Missouri,Jackson,6.0,42,0,0.0,7512,99,1.32,1072.67,14.14,1.07,700307,1158.46,63.97,-5.0,292.72,-4.85
 2020-09-26,Missouri,Jackson,10.0,70,0,0.0,7470,99,1.33,1066.68,14.14,1.07,700307,1158.46,68.97,-0.71,297.57,1.15
 2020-09-25,Missouri,Jackson,15.56,109,0,0.0,7400,99,1.34,1056.68,14.14,1.06,700307,1158.46,69.68,-1.0,296.42,5.56

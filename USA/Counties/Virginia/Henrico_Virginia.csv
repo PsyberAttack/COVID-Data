@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-29,Virginia,Henrico,7.9,26,1,0.3,5478,212,3.87,1663.73,64.39,1.66,329261,1409.14,49.51,1.83,251.19,-5.16
+2020-09-28,Virginia,Henrico,-0.3,-1,0,0.0,5452,211,3.87,1655.83,64.08,1.66,329261,1409.14,47.68,-8.2,256.35,-9.11
 2020-09-27,Virginia,Henrico,5.77,19,0,0.0,5453,211,3.87,1656.13,64.08,1.66,329261,1409.14,55.88,-7.9,265.46,-2.13
 2020-09-26,Virginia,Henrico,10.63,35,0,0.0,5434,211,3.88,1650.36,64.08,1.65,329261,1409.14,63.78,-2.13,267.59,-2.43
 2020-09-25,Virginia,Henrico,8.5,28,1,0.3,5399,211,3.91,1639.73,64.08,1.64,329261,1409.14,65.91,0.3,270.02,-4.56
