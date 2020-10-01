@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-09-30,Illinois,Mason,51.6,7,0,0.0,161,1,0.62,1186.88,7.37,1.19,13565,25.15,235.89,44.23,538.12,44.23
 2020-09-29,Illinois,Mason,7.37,1,0,0.0,154,1,0.65,1135.27,7.37,1.14,13565,25.15,191.66,0.0,493.89,0.0
 2020-09-28,Illinois,Mason,44.23,6,0,0.0,153,1,0.65,1127.9,7.37,1.13,13565,25.15,191.66,44.23,493.89,29.49
 2020-09-27,Illinois,Mason,14.74,2,0,0.0,147,1,0.68,1083.67,7.37,1.08,13565,25.15,147.43,-22.12,464.4,-7.38

@@ -1,5 +1,8 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-26,Niedersachsen,Wittmund,1.76,1,0,0.0,67,0,0.0,117.79,0.0,0.12,56882,14.07,0.0,29.91,1.76
+2020-09-29,Niedersachsen,Wittmund,1.76,1,0,0.0,69,0,0.0,121.3,0.0,0.12,56882,14.07,1.76,33.43,1.76
+2020-09-28,Niedersachsen,Wittmund,0.0,0,0,0.0,68,0,0.0,119.55,0.0,0.12,56882,12.31,-3.52,31.67,0.0
+2020-09-27,Niedersachsen,Wittmund,0.0,0,0,0.0,68,0,0.0,119.55,0.0,0.12,56882,15.83,0.0,31.67,0.0
+2020-09-26,Niedersachsen,Wittmund,3.52,2,0,0.0,68,0,0.0,119.55,0.0,0.12,56882,15.83,1.76,31.67,3.52
 2020-09-25,Niedersachsen,Wittmund,0.0,0,0,0.0,66,0,0.0,116.03,0.0,0.12,56882,14.07,0.0,28.15,-1.76
 2020-09-24,Niedersachsen,Wittmund,8.79,5,0,0.0,66,0,0.0,116.03,0.0,0.12,56882,14.07,7.03,29.91,7.03
 2020-09-23,Niedersachsen,Wittmund,0.0,0,0,0.0,61,0,0.0,107.24,0.0,0.11,56882,7.04,0.0,22.88,0.0
