@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-01,Nebraska,Lincoln,28.42,10,0,0.0,449,4,0.89,1276.11,11.37,1.28,35185,13.72,244.43,25.58,329.65,-133.58
 2020-09-30,Nebraska,Lincoln,22.74,8,0,0.0,439,4,0.91,1247.69,11.37,1.25,35185,13.72,218.85,22.74,463.23,11.37
 2020-09-29,Nebraska,Lincoln,8.53,3,2,5.68,431,4,0.93,1224.95,11.37,1.22,35185,13.72,196.11,-2.84,451.86,2.85
 2020-09-28,Nebraska,Lincoln,159.16,56,0,0.0,428,2,0.47,1216.43,5.68,1.22,35185,13.72,198.95,156.32,449.01,156.32

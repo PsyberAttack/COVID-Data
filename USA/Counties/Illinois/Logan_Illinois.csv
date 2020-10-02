@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-01,Illinois,Logan,13.83,4,0,0.0,473,1,0.21,1635.26,3.46,1.64,28925,46.8,86.43,-13.83,643.04,-24.2
 2020-09-30,Illinois,Logan,10.37,3,0,0.0,469,1,0.21,1621.43,3.46,1.62,28925,46.8,100.26,-3.46,667.24,-27.66
 2020-09-29,Illinois,Logan,-6.91,-2,0,0.0,466,1,0.21,1611.06,3.46,1.61,28925,46.8,103.72,-24.2,694.9,-13.82
 2020-09-28,Illinois,Logan,13.83,4,0,0.0,468,1,0.21,1617.98,3.46,1.62,28925,46.8,127.92,10.37,708.72,3.46

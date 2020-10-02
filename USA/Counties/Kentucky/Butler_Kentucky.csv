@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-01,Kentucky,Butler,15.66,2,0,0.0,359,16,4.46,2810.84,125.27,2.81,12772,29.97,54.81,31.32,258.38,15.66
 2020-09-30,Kentucky,Butler,7.83,1,0,0.0,357,16,4.48,2795.18,125.27,2.8,12772,29.97,23.49,-140.93,242.72,-15.66
 2020-09-29,Kentucky,Butler,0.0,0,0,0.0,356,16,4.49,2787.35,125.27,2.79,12772,29.97,164.42,-7.83,258.38,-7.83
 2020-09-28,Kentucky,Butler,0.0,0,0,0.0,356,16,4.49,2787.35,125.27,2.79,12772,29.97,172.25,0.0,266.21,-7.83

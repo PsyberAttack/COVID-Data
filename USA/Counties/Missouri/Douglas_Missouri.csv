@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-01,Missouri,Douglas,37.39,5,0,0.0,219,3,1.37,1637.63,22.43,1.64,13373,16.44,306.59,7.48,747.79,0.0
 2020-09-30,Missouri,Douglas,44.87,6,0,0.0,214,3,1.4,1600.24,22.43,1.6,13373,16.44,299.11,7.48,747.79,29.91
 2020-09-29,Missouri,Douglas,0.0,0,0,0.0,208,3,1.44,1555.37,22.43,1.56,13373,16.44,291.63,-29.91,717.88,0.0
 2020-09-28,Missouri,Douglas,22.43,3,0,0.0,208,3,1.44,1555.37,22.43,1.56,13373,16.44,321.54,14.95,717.88,7.47

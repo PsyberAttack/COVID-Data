@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-01,Louisiana,Union,26.87,6,0,0.0,975,44,4.51,4366.32,197.04,4.37,22330,25.46,94.04,49.26,550.81,-4.48
 2020-09-30,Louisiana,Union,8.96,2,1,4.48,969,44,4.54,4339.45,197.04,4.34,22330,25.46,44.78,-17.91,555.29,-62.69
 2020-09-29,Louisiana,Union,-8.96,-2,0,0.0,967,43,4.45,4330.5,192.57,4.33,22330,25.46,62.69,-44.79,617.98,-26.87
 2020-09-28,Louisiana,Union,0.0,0,0,0.0,969,43,4.44,4339.45,192.57,4.34,22330,25.46,107.48,-13.43,644.85,-8.96

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-01,New Jersey,Camden,6.71,34,-1,-0.2,10049,611,6.08,1981.75,120.49,1.98,507078,2290.84,38.85,0.0,149.92,-0.98
 2020-09-30,New Jersey,Camden,6.9,35,1,0.2,10015,612,6.11,1975.04,120.69,1.98,507078,2290.84,38.85,3.55,150.9,2.96
 2020-09-29,New Jersey,Camden,3.94,20,1,0.2,9980,611,6.12,1968.14,120.49,1.97,507078,2290.84,35.3,0.19,147.94,-0.2
 2020-09-28,New Jersey,Camden,3.75,19,0,0.0,9960,610,6.12,1964.19,120.3,1.96,507078,2290.84,35.11,-0.59,148.14,0.79

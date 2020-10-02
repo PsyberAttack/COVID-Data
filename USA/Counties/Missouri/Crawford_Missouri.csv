@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-01,Missouri,Crawford,58.44,14,0,0.0,416,5,1.2,1736.44,20.87,1.74,23957,32.27,116.87,-20.87,864.04,12.52
 2020-09-30,Missouri,Crawford,-20.87,-5,1,4.17,402,5,1.24,1678.01,20.87,1.68,23957,32.27,137.74,-50.09,851.52,-41.74
 2020-09-29,Missouri,Crawford,0.0,0,0,0.0,407,4,0.98,1698.88,16.7,1.7,23957,32.27,187.83,-4.17,893.26,-29.22
 2020-09-28,Missouri,Crawford,20.87,5,0,0.0,407,4,0.98,1698.88,16.7,1.7,23957,32.27,192.0,-29.22,922.48,-8.35

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-01,Missouri,Knox,0.0,0,0,0.0,53,1,1.89,1342.79,25.34,1.34,3947,7.83,76.01,-25.34,354.74,0.0
 2020-09-30,Missouri,Knox,76.01,3,0,0.0,53,1,1.89,1342.79,25.34,1.34,3947,7.83,101.35,76.01,354.74,50.67
 2020-09-29,Missouri,Knox,0.0,0,0,0.0,50,1,2.0,1266.78,25.34,1.27,3947,7.83,25.34,-25.34,304.07,0.0
 2020-09-28,Missouri,Knox,0.0,0,0,0.0,50,1,2.0,1266.78,25.34,1.27,3947,7.83,50.68,0.0,304.07,0.0

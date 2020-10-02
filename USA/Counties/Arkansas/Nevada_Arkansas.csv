@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-01,Arkansas,Nevada,24.02,2,0,0.0,226,13,5.75,2714.39,156.14,2.71,8326,13.48,120.1,0.0,768.64,24.02
 2020-09-30,Arkansas,Nevada,12.01,1,0,0.0,224,13,5.8,2690.37,156.14,2.69,8326,13.48,120.1,-24.02,744.62,12.01
 2020-09-29,Arkansas,Nevada,24.02,2,0,0.0,223,13,5.83,2678.36,156.14,2.68,8326,13.48,144.12,0.0,732.61,24.02
 2020-09-28,Arkansas,Nevada,12.01,1,0,0.0,221,13,5.88,2654.34,156.14,2.65,8326,13.48,144.12,0.0,708.59,12.01

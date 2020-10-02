@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-01,Ohio,Jackson,9.26,3,0,0.0,278,7,2.52,858.45,21.62,0.86,32384,77.05,98.8,-6.18,308.8,3.08
 2020-09-30,Ohio,Jackson,27.79,9,0,0.0,275,7,2.55,849.18,21.62,0.85,32384,77.05,104.98,6.17,305.72,18.53
 2020-09-29,Ohio,Jackson,15.44,5,1,3.09,266,7,2.63,821.39,21.62,0.82,32384,77.05,98.81,12.35,287.19,6.18
 2020-09-28,Ohio,Jackson,-6.18,-2,0,0.0,261,6,2.3,805.95,18.53,0.81,32384,77.05,86.46,-12.36,281.01,-21.62

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-01,Indiana,Miami,8.43,3,0,0.0,447,4,0.89,1256.78,11.25,1.26,35567,95.14,33.73,5.62,295.18,-16.87
 2020-09-30,Indiana,Miami,2.81,1,0,0.0,444,4,0.9,1248.35,11.25,1.25,35567,95.14,28.11,-8.44,312.05,-25.31
 2020-09-29,Indiana,Miami,0.0,0,0,0.0,443,4,0.9,1245.54,11.25,1.25,35567,95.14,36.55,-2.81,337.36,-2.81
 2020-09-28,Indiana,Miami,2.81,1,1,2.81,443,4,0.9,1245.54,11.25,1.25,35567,95.14,39.36,0.0,340.17,-2.81

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-01,Missouri,Shannon,48.85,4,0,0.0,120,1,0.83,1465.38,12.21,1.47,8189,8.16,329.72,0.0,805.93,48.85
 2020-09-30,Missouri,Shannon,73.27,6,0,0.0,116,1,0.86,1416.53,12.21,1.42,8189,8.16,329.72,48.85,757.08,61.06
 2020-09-29,Missouri,Shannon,0.0,0,0,0.0,110,1,0.91,1343.27,12.21,1.34,8189,8.16,280.87,-12.21,696.02,-12.21
 2020-09-28,Missouri,Shannon,12.21,1,0,0.0,110,1,0.91,1343.27,12.21,1.34,8189,8.16,293.08,-12.21,708.23,12.21

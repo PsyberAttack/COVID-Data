@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-01,Washington,Clark,7.26,35,3,0.62,3511,71,2.02,728.64,14.73,0.73,481857,766.7,50.43,1.86,170.39,-0.83
 2020-09-30,Washington,Clark,3.53,17,0,0.0,3476,68,1.96,721.38,14.11,0.72,481857,766.7,48.57,-3.53,171.22,-0.21
 2020-09-29,Washington,Clark,6.64,32,4,0.83,3459,68,1.97,717.85,14.11,0.72,481857,766.7,52.1,-0.83,171.43,2.28
 2020-09-28,Washington,Clark,26.36,127,0,0.0,3427,64,1.87,711.21,13.28,0.71,481857,766.7,52.93,6.64,169.15,10.59

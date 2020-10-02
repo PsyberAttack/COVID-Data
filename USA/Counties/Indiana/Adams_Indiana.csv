@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-01,Indiana,Adams,11.22,4,0,0.0,288,4,1.39,808.17,11.22,0.81,35636,105.11,89.8,2.8,266.59,5.61
 2020-09-30,Indiana,Adams,16.84,6,0,0.0,284,4,1.41,796.95,11.22,0.8,35636,105.11,87.0,-2.8,260.98,16.84
 2020-09-29,Indiana,Adams,2.81,1,0,0.0,278,4,1.44,780.11,11.22,0.78,35636,105.11,89.8,0.0,244.14,-5.61
 2020-09-28,Indiana,Adams,-28.06,-10,0,0.0,277,4,1.44,777.3,11.22,0.78,35636,105.11,89.8,-28.06,249.75,-36.48

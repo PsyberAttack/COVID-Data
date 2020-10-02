@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-01,Ohio,Greene,16.67,28,0,0.0,1589,34,2.14,945.86,20.24,0.95,167995,406.15,100.6,2.98,329.77,7.74
 2020-09-30,Ohio,Greene,14.88,25,0,0.0,1561,34,2.18,929.19,20.24,0.93,167995,406.15,97.62,2.38,322.03,-1.79
 2020-09-29,Ohio,Greene,27.38,46,0,0.0,1536,34,2.21,914.31,20.24,0.91,167995,406.15,95.24,22.02,323.82,18.45
 2020-09-28,Ohio,Greene,14.88,25,1,0.6,1490,34,2.28,886.93,20.24,0.89,167995,406.15,73.22,5.95,305.37,10.12

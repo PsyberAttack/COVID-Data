@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-01,São Paulo,Palmares Paulista,30.13,4,1,7.53,360,12,3.33,2711.86,90.4,2.71,13275,113.0,37.66,602.63,-120.53
+2020-09-30,São Paulo,Palmares Paulista,-7.53,-1,0,0.0,356,11,3.09,2681.73,82.86,2.68,13275,75.34,-15.06,723.16,-30.13
 2020-09-29,São Paulo,Palmares Paulista,22.6,3,0,0.0,357,11,3.08,2689.27,82.86,2.69,13275,90.4,0.0,753.29,22.6
 2020-09-28,São Paulo,Palmares Paulista,0.0,0,0,0.0,354,11,3.11,2666.67,82.86,2.67,13275,90.4,-37.66,730.69,0.0
 2020-09-27,São Paulo,Palmares Paulista,-7.53,-1,0,0.0,354,11,3.11,2666.67,82.86,2.67,13275,128.06,-45.19,730.69,-37.66

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-01,Iowa,Jones,38.57,8,0,0.0,303,3,0.99,1460.66,14.46,1.46,20744,36.04,188.0,14.47,612.19,38.57
 2020-09-30,Iowa,Jones,28.92,6,0,0.0,295,3,1.02,1422.1,14.46,1.42,20744,36.04,173.53,-9.65,573.62,24.1
 2020-09-29,Iowa,Jones,24.1,5,0,0.0,289,3,1.04,1393.17,14.46,1.39,20744,36.04,183.18,9.64,549.52,0.0
 2020-09-28,Iowa,Jones,38.57,8,0,0.0,284,3,1.06,1369.07,14.46,1.37,20744,36.04,173.54,19.29,549.52,38.57

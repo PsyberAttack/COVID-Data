@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-01,São Paulo,Iaras,21.65,2,1,10.82,53,2,3.77,573.59,21.65,0.57,9240,32.47,21.65,108.23,0.0
+2020-09-30,São Paulo,Iaras,10.82,1,0,0.0,51,1,1.96,551.95,10.82,0.55,9240,10.82,0.0,108.23,-21.65
 2020-09-29,São Paulo,Iaras,0.0,0,0,0.0,50,1,2.0,541.13,10.82,0.54,9240,10.82,0.0,129.88,0.0
 2020-09-28,São Paulo,Iaras,0.0,0,0,0.0,50,1,2.0,541.13,10.82,0.54,9240,10.82,-21.65,129.88,0.0
 2020-09-27,São Paulo,Iaras,0.0,0,0,0.0,50,1,2.0,541.13,10.82,0.54,9240,32.47,0.0,129.88,-10.82

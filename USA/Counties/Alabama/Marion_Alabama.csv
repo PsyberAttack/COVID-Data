@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-01,Alabama,Marion,16.8,5,0,0.0,981,29,2.96,3296.04,97.44,3.3,29763,40.09,80.64,6.72,598.08,3.36
 2020-09-30,Alabama,Marion,3.36,1,0,0.0,976,29,2.97,3279.24,97.44,3.28,29763,40.09,73.92,-3.36,594.72,-13.44
 2020-09-29,Alabama,Marion,13.44,4,0,0.0,975,29,2.97,3275.88,97.44,3.28,29763,40.09,77.28,0.0,608.16,3.36
 2020-09-28,Alabama,Marion,10.08,3,0,0.0,971,29,2.99,3262.44,97.44,3.26,29763,40.09,77.28,-10.08,604.8,-6.72

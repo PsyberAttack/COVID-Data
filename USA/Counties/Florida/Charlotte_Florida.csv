@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-01,Florida,Charlotte,8.11,15,0,0.0,3097,136,4.39,1674.07,73.51,1.67,184998,271.61,51.89,-4.32,190.8,0.0
 2020-09-30,Florida,Charlotte,4.32,8,0,0.0,3082,136,4.41,1665.96,73.51,1.67,184998,271.61,56.21,-2.71,190.8,-4.33
 2020-09-29,Florida,Charlotte,15.14,28,1,0.54,3074,136,4.42,1661.64,73.51,1.66,184998,271.61,58.92,10.82,195.13,-4.32
 2020-09-28,Florida,Charlotte,3.78,7,0,0.0,3046,135,4.43,1646.5,72.97,1.65,184998,271.61,48.1,1.62,199.45,-7.57

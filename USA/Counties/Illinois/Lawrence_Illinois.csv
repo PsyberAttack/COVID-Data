@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-01,Illinois,Lawrence,25.37,4,0,0.0,267,3,1.12,1693.63,19.03,1.69,15765,42.36,95.15,19.03,792.9,25.37
 2020-09-30,Illinois,Lawrence,25.37,4,1,6.34,263,3,1.14,1668.25,19.03,1.67,15765,42.36,76.12,19.03,767.53,-12.69
 2020-09-29,Illinois,Lawrence,0.0,0,0,0.0,259,2,0.77,1642.88,12.69,1.64,15765,42.36,57.09,-6.34,780.22,6.34
 2020-09-28,Illinois,Lawrence,19.03,3,0,0.0,259,2,0.77,1642.88,12.69,1.64,15765,42.36,63.43,-6.34,773.88,6.34
