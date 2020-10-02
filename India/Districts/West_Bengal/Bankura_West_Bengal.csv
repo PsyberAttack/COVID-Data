@@ -1,5 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-01,West_Bengal,Bankura,0.0,0,0,0.0,5533,57,1.03,153.85,1.58,0.15,3596292,13.46,-2.75,74.63,-2.73
+2020-10-02,West_Bengal,Bankura,1.81,65,2,0.06,5660,59,1.04,157.38,1.64,0.16,3596292,15.43,0.25,75.43,-0.92
+2020-10-01,West_Bengal,Bankura,1.72,62,0,0.0,5595,57,1.02,155.58,1.58,0.16,3596292,15.18,-1.03,76.35,-1.01
 2020-09-30,West_Bengal,Bankura,2.25,81,0,0.0,5533,57,1.03,153.85,1.58,0.15,3596292,16.21,-0.06,77.36,-0.61
 2020-09-29,West_Bengal,Bankura,2.92,105,5,0.14,5452,57,1.05,151.6,1.58,0.15,3596292,16.27,-0.67,77.97,0.64
 2020-09-28,West_Bengal,Bankura,2.67,96,1,0.03,5347,52,0.97,148.68,1.45,0.15,3596292,16.94,-1.45,77.33,0.0
