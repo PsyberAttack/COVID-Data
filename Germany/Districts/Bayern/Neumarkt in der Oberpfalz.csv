@@ -1,9 +1,11 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-30,Bayern,Neumarkt in der Oberpfalz,0.75,1,0,0.0,561,17,3.03,420.03,12.73,0.42,133561,7.5,-0.75,59.93,-2.24
-2020-09-29,Bayern,Neumarkt in der Oberpfalz,0.75,1,0,0.0,560,17,3.04,419.28,12.73,0.42,133561,8.25,0.0,62.17,-4.49
-2020-09-28,Bayern,Neumarkt in der Oberpfalz,1.5,2,0,0.0,559,17,3.04,418.54,12.73,0.42,133561,8.25,-0.75,66.66,0.75
-2020-09-27,Bayern,Neumarkt in der Oberpfalz,0.0,0,0,0.0,557,17,3.05,417.04,12.73,0.42,133561,9.0,0.0,65.91,-2.25
-2020-09-26,Bayern,Neumarkt in der Oberpfalz,0.0,0,0,0.0,557,17,3.05,417.04,12.73,0.42,133561,9.0,-0.75,68.16,0.0
+2020-10-02,Bayern,Neumarkt in der Oberpfalz,4.49,6,0,0.0,574,17,2.96,429.77,12.73,0.43,133561,12.73,2.24,62.92,-2.25
+2020-10-01,Bayern,Neumarkt in der Oberpfalz,0.0,0,0,0.0,568,17,2.99,425.27,12.73,0.43,133561,10.49,-2.25,65.17,0.0
+2020-09-30,Bayern,Neumarkt in der Oberpfalz,2.99,4,0,0.0,568,17,2.99,425.27,12.73,0.43,133561,12.74,1.49,65.17,0.0
+2020-09-29,Bayern,Neumarkt in der Oberpfalz,2.25,3,0,0.0,564,17,3.01,422.28,12.73,0.42,133561,11.25,1.5,65.17,-2.99
+2020-09-28,Bayern,Neumarkt in der Oberpfalz,1.5,2,0,0.0,561,17,3.03,420.03,12.73,0.42,133561,9.75,-0.75,68.16,0.75
+2020-09-27,Bayern,Neumarkt in der Oberpfalz,0.75,1,0,0.0,559,17,3.04,418.54,12.73,0.42,133561,10.5,0.75,67.41,-1.5
+2020-09-26,Bayern,Neumarkt in der Oberpfalz,0.75,1,0,0.0,558,17,3.05,417.79,12.73,0.42,133561,9.75,0.0,68.91,0.75
 2020-09-25,Bayern,Neumarkt in der Oberpfalz,2.25,3,0,0.0,557,17,3.05,417.04,12.73,0.42,133561,9.75,0.0,68.16,-0.74
 2020-09-24,Bayern,Neumarkt in der Oberpfalz,2.25,3,0,0.0,554,17,3.07,414.79,12.73,0.41,133561,9.75,0.0,68.9,-1.49
 2020-09-23,Bayern,Neumarkt in der Oberpfalz,1.5,2,0,0.0,551,17,3.09,412.55,12.73,0.41,133561,9.75,-3.74,70.39,-6.74

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-02,Kentucky,Hopkins,17.75,8,0,0.0,671,40,5.96,1488.86,88.75,1.49,45068,83.14,97.64,0.0,310.67,11.09
 2020-10-01,Kentucky,Hopkins,22.19,10,0,0.0,663,40,6.03,1471.11,88.75,1.47,45068,83.14,97.64,8.88,299.58,13.31
 2020-09-30,Kentucky,Hopkins,24.41,11,0,0.0,653,40,6.13,1448.92,88.75,1.45,45068,83.14,88.76,17.75,286.27,13.32
 2020-09-29,Kentucky,Hopkins,17.75,8,0,0.0,642,40,6.23,1424.51,88.75,1.42,45068,83.14,71.01,2.22,272.95,8.87

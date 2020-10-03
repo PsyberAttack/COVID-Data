@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-02,Texas,Grimes,3.53,1,0,0.0,1089,32,2.94,3839.92,112.83,3.84,28360,36.01,0.0,3.53,320.85,10.58
 2020-10-01,Texas,Grimes,-7.05,-2,0,0.0,1088,32,2.94,3836.39,112.83,3.84,28360,36.01,-3.53,-42.31,310.27,-24.68
 2020-09-30,Texas,Grimes,-3.53,-1,0,0.0,1090,32,2.94,3843.44,112.83,3.84,28360,36.01,38.78,-17.63,334.95,-35.26
 2020-09-29,Texas,Grimes,14.1,4,0,0.0,1091,32,2.93,3846.97,112.83,3.85,28360,36.01,56.41,-14.11,370.21,3.52

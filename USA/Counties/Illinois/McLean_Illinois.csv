@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-02,Illinois,McLean,13.89,24,-1,-0.58,3370,23,0.68,1949.92,13.31,1.95,172828,146.06,72.33,1.16,530.02,-155.06
 2020-10-01,Illinois,McLean,12.15,21,1,0.58,3346,24,0.72,1936.03,13.89,1.94,172828,146.06,71.17,-1.16,685.08,-45.13
 2020-09-30,Illinois,McLean,11.57,20,0,0.0,3325,23,0.69,1923.88,13.31,1.92,172828,146.06,72.33,4.63,730.21,-100.68
 2020-09-29,Illinois,McLean,5.79,10,0,0.0,3305,23,0.7,1912.31,13.31,1.91,172828,146.06,67.7,-4.05,830.89,-41.08

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-02,Ohio,Madison,13.51,6,2,4.5,893,14,1.57,2010.67,31.52,2.01,44413,95.34,175.62,-15.76,394.02,0.0
 2020-10-01,Ohio,Madison,24.77,11,0,0.0,887,12,1.35,1997.16,27.02,2.0,44413,95.34,191.38,2.25,394.02,9.01
 2020-09-30,Ohio,Madison,47.28,21,0,0.0,876,12,1.37,1972.4,27.02,1.97,44413,95.34,189.13,36.02,385.01,45.03
 2020-09-29,Ohio,Madison,27.02,12,0,0.0,855,12,1.4,1925.11,27.02,1.93,44413,95.34,153.11,11.26,339.98,9.01

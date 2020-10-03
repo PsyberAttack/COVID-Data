@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-02,Colorado,Morgan,7.0,2,0,0.0,757,48,6.34,2650.75,168.08,2.65,28558,22.3,49.01,-7.01,136.51,3.5
 2020-10-01,Colorado,Morgan,-3.5,-1,0,0.0,755,48,6.36,2643.74,168.08,2.64,28558,22.3,56.02,-14.0,133.01,-7.0
 2020-09-30,Colorado,Morgan,3.5,1,0,0.0,756,48,6.35,2647.24,168.08,2.65,28558,22.3,70.02,3.5,140.01,3.5
 2020-09-29,Colorado,Morgan,17.51,5,0,0.0,755,48,6.36,2643.74,168.08,2.64,28558,22.3,66.52,7.01,136.51,7.01

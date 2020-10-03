@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-02,California,Merced,5.1,14,0,0.0,9033,145,1.61,3287.54,52.77,3.29,274765,141.95,58.6,-4.36,275.16,-22.2
 2020-10-01,California,Merced,9.46,26,0,0.0,9019,145,1.61,3282.44,52.77,3.28,274765,141.95,62.96,2.91,297.36,-19.66
 2020-09-30,California,Merced,11.65,32,2,0.73,8993,145,1.61,3272.98,52.77,3.27,274765,141.95,60.05,2.55,317.02,-3.27
 2020-09-29,California,Merced,8.01,22,0,0.0,8961,143,1.6,3261.33,52.04,3.26,274765,141.95,57.5,14.2,320.29,-9.82

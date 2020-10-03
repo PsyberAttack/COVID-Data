@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-02,Missouri,Harrison,47.54,4,0,0.0,124,1,0.81,1473.73,11.88,1.47,8414,11.65,202.04,35.66,511.01,11.89
 2020-10-01,Missouri,Harrison,35.65,3,0,0.0,120,1,0.83,1426.19,11.88,1.43,8414,11.65,166.38,0.0,499.12,35.65
 2020-09-30,Missouri,Harrison,23.77,2,0,0.0,117,1,0.85,1390.54,11.88,1.39,8414,11.65,166.38,0.0,463.47,-35.65
 2020-09-29,Missouri,Harrison,0.0,0,0,0.0,115,1,0.87,1366.77,11.88,1.37,8414,11.65,166.38,0.0,499.12,0.0

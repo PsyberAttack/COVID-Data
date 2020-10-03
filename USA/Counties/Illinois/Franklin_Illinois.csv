@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-02,Illinois,Franklin,10.34,4,0,0.0,560,4,0.71,1446.99,10.34,1.45,38701,94.64,103.38,-5.16,472.89,-38.75
 2020-10-01,Illinois,Franklin,10.34,4,1,2.58,556,4,0.72,1436.66,10.34,1.44,38701,94.64,108.54,-12.92,511.64,-12.92
 2020-09-30,Illinois,Franklin,10.34,4,0,0.0,552,3,0.54,1426.32,7.75,1.43,38701,94.64,121.46,-5.16,524.56,0.0
 2020-09-29,Illinois,Franklin,18.09,7,0,0.0,548,3,0.55,1415.98,7.75,1.42,38701,94.64,126.62,5.17,524.56,12.92

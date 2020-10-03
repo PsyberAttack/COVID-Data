@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-02,Ohio,Summit,10.15,55,0,0.0,5519,253,4.58,1018.42,46.69,1.02,541918,1312.74,46.87,4.98,166.83,4.06
 2020-10-01,Ohio,Summit,6.64,36,0,0.0,5464,253,4.63,1008.27,46.69,1.01,541918,1312.74,41.89,0.18,162.77,-0.74
 2020-09-30,Ohio,Summit,6.46,35,1,0.18,5428,253,4.66,1001.63,46.69,1.0,541918,1312.74,41.71,0.92,163.51,-0.37
 2020-09-29,Ohio,Summit,4.98,27,0,0.0,5393,252,4.67,995.17,46.5,1.0,541918,1312.74,40.79,0.74,163.88,-1.29

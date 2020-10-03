@@ -1,11 +1,12 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-01,Nordrhein-Westfalen,Märkischer Kreis,1.95,8,0,0.0,1116,32,2.87,272.05,7.8,0.27,410222,11.95,0.0,38.77,1.46
-2020-09-30,Nordrhein-Westfalen,Märkischer Kreis,1.22,5,0,0.0,1108,32,2.89,270.1,7.8,0.27,410222,11.95,-0.49,37.31,-0.24
-2020-09-29,Nordrhein-Westfalen,Märkischer Kreis,1.46,6,0,0.0,1103,32,2.9,268.88,7.8,0.27,410222,12.44,0.73,37.55,-0.25
-2020-09-28,Nordrhein-Westfalen,Märkischer Kreis,0.98,4,0,0.0,1097,32,2.92,267.42,7.8,0.27,410222,11.71,-0.97,37.8,0.25
-2020-09-27,Nordrhein-Westfalen,Märkischer Kreis,3.41,14,0,0.0,1093,32,2.93,266.44,7.8,0.27,410222,12.68,1.95,37.55,2.92
-2020-09-26,Nordrhein-Westfalen,Märkischer Kreis,1.22,5,0,0.0,1079,32,2.97,263.03,7.8,0.26,410222,10.73,-0.49,34.63,0.0
-2020-09-25,Nordrhein-Westfalen,Märkischer Kreis,1.71,7,0,0.0,1074,32,2.98,261.81,7.8,0.26,410222,11.22,1.22,34.63,0.49
+2020-10-02,Nordrhein-Westfalen,Märkischer Kreis,3.41,14,0,0.0,1134,32,2.82,276.44,7.8,0.28,410222,14.39,1.46,40.97,1.22
+2020-10-01,Nordrhein-Westfalen,Märkischer Kreis,1.71,7,0,0.0,1120,32,2.86,273.02,7.8,0.27,410222,12.93,-0.24,39.75,1.22
+2020-09-30,Nordrhein-Westfalen,Märkischer Kreis,1.46,6,0,0.0,1113,32,2.88,271.32,7.8,0.27,410222,13.17,-0.25,38.53,0.0
+2020-09-29,Nordrhein-Westfalen,Märkischer Kreis,1.71,7,0,0.0,1107,32,2.89,269.85,7.8,0.27,410222,13.42,0.98,38.53,0.0
+2020-09-28,Nordrhein-Westfalen,Märkischer Kreis,1.22,5,0,0.0,1100,32,2.91,268.15,7.8,0.27,410222,12.44,-0.73,38.53,0.49
+2020-09-27,Nordrhein-Westfalen,Märkischer Kreis,3.66,15,0,0.0,1095,32,2.92,266.93,7.8,0.27,410222,13.17,2.2,38.04,3.17
+2020-09-26,Nordrhein-Westfalen,Märkischer Kreis,1.22,5,0,0.0,1080,32,2.96,263.27,7.8,0.26,410222,10.97,-0.49,34.87,0.0
+2020-09-25,Nordrhein-Westfalen,Märkischer Kreis,1.95,8,0,0.0,1075,32,2.98,262.05,7.8,0.26,410222,11.46,1.46,34.87,0.73
 2020-09-24,Nordrhein-Westfalen,Märkischer Kreis,1.95,8,0,0.0,1067,32,3.0,260.1,7.8,0.26,410222,10.0,1.22,34.14,0.49
 2020-09-23,Nordrhein-Westfalen,Märkischer Kreis,1.71,7,0,0.0,1059,32,3.02,258.15,7.8,0.26,410222,8.78,0.73,33.65,-0.24
 2020-09-22,Nordrhein-Westfalen,Märkischer Kreis,0.73,3,0,0.0,1052,32,3.04,256.45,7.8,0.26,410222,8.05,-1.46,33.89,-1.22

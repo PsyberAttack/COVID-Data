@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-02,Indiana,Clinton,77.52,25,0,0.0,680,18,2.65,2108.53,55.81,2.11,32250,79.62,238.77,65.12,353.48,71.32
 2020-10-01,Indiana,Clinton,21.71,7,0,0.0,655,18,2.75,2031.01,55.81,2.03,32250,79.62,173.65,21.71,282.16,0.0
 2020-09-30,Indiana,Clinton,31.01,10,0,0.0,648,18,2.78,2009.3,55.81,2.01,32250,79.62,151.94,21.71,282.16,24.81
 2020-09-29,Indiana,Clinton,34.11,11,0,0.0,638,18,2.82,1978.29,55.81,1.98,32250,79.62,130.23,31.01,257.35,27.91

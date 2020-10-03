@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-02,Minnesota,Lake,65.68,7,0,0.0,68,0,0.0,638.02,0.0,0.64,10658,5.05,93.82,65.68,290.84,37.53
 2020-10-01,Minnesota,Lake,0.0,0,0,0.0,61,0,0.0,572.34,0.0,0.57,10658,5.05,28.14,-9.38,253.31,0.0
 2020-09-30,Minnesota,Lake,9.38,1,0,0.0,61,0,0.0,572.34,0.0,0.57,10658,5.05,37.52,0.0,253.31,9.38
 2020-09-29,Minnesota,Lake,0.0,0,0,0.0,60,0,0.0,562.96,0.0,0.56,10658,5.05,37.52,9.38,243.93,0.0

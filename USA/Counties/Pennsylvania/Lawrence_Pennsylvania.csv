@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-02,Pennsylvania,Lawrence,9.28,8,0,0.0,548,23,4.2,635.85,26.69,0.64,86184,240.62,44.08,8.12,90.48,6.96
 2020-10-01,Pennsylvania,Lawrence,10.44,9,0,0.0,540,23,4.26,626.57,26.69,0.63,86184,240.62,35.96,5.8,83.52,8.12
 2020-09-30,Pennsylvania,Lawrence,0.0,0,0,0.0,531,23,4.33,616.12,26.69,0.62,86184,240.62,30.16,-4.64,75.4,-2.32
 2020-09-29,Pennsylvania,Lawrence,0.0,0,0,0.0,531,23,4.33,616.12,26.69,0.62,86184,240.62,34.8,-2.32,77.72,-5.8
