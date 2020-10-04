@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-03,Santa Catarina,Orleans,91.66,21,0,0.0,995,12,1.21,4342.7,52.37,4.34,22912,458.27,69.84,995.1,-8.72
+2020-10-02,Santa Catarina,Orleans,30.55,7,0,0.0,974,12,1.23,4251.05,52.37,4.25,22912,388.43,0.0,1003.82,-13.1
+2020-10-01,Santa Catarina,Orleans,100.38,23,1,4.36,967,12,1.24,4220.5,52.37,4.22,22912,388.43,82.92,1016.92,52.37
 2020-09-30,Santa Catarina,Orleans,96.02,22,1,4.36,944,11,1.17,4120.11,48.01,4.12,22912,305.51,65.47,964.55,-34.92
 2020-09-29,Santa Catarina,Orleans,135.3,31,1,4.36,922,10,1.08,4024.09,43.65,4.02,22912,240.04,113.48,999.47,-261.87
 2020-09-28,Santa Catarina,Orleans,4.36,1,0,0.0,891,9,1.01,3888.79,39.28,3.89,22912,126.56,0.0,1261.34,4.36

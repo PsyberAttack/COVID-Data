@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-03,Indiana,Owen,0.0,0,0,0.0,175,2,1.14,839.53,9.59,0.84,20845,54.1,23.98,-4.8,95.94,0.0
 2020-10-02,Indiana,Owen,0.0,0,0,0.0,175,2,1.14,839.53,9.59,0.84,20845,54.1,28.78,0.0,95.94,-4.8
 2020-10-01,Indiana,Owen,9.59,2,0,0.0,175,2,1.14,839.53,9.59,0.84,20845,54.1,28.78,4.79,100.74,-4.8
 2020-09-30,Indiana,Owen,4.8,1,0,0.0,173,2,1.16,829.94,9.59,0.83,20845,54.1,23.99,-4.79,105.54,-14.39

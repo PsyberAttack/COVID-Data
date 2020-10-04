@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-03,Tennessee,White,73.78,20,0,0.0,896,10,1.12,3305.42,36.89,3.31,27107,71.96,217.65,47.96,1032.93,44.27
 2020-10-02,Tennessee,White,44.27,12,0,0.0,876,10,1.14,3231.64,36.89,3.23,27107,71.96,169.69,-18.44,988.66,11.07
 2020-10-01,Tennessee,White,29.51,8,0,0.0,864,10,1.16,3187.37,36.89,3.19,27107,71.96,188.13,3.69,977.59,-18.45
 2020-09-30,Tennessee,White,3.69,1,0,0.0,856,10,1.17,3157.86,36.89,3.16,27107,71.96,184.44,-62.71,996.04,-70.09

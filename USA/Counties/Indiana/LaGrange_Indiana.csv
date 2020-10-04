@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-03,Indiana,LaGrange,12.71,5,0,0.0,668,11,1.65,1698.45,27.97,1.7,39330,103.6,71.19,2.54,124.57,0.0
 2020-10-02,Indiana,LaGrange,7.63,3,0,0.0,663,11,1.66,1685.74,27.97,1.69,39330,103.6,68.65,7.63,124.57,7.63
 2020-10-01,Indiana,LaGrange,17.8,7,0,0.0,660,11,1.67,1678.11,27.97,1.68,39330,103.6,61.02,12.71,116.94,-5.08
 2020-09-30,Indiana,LaGrange,10.17,4,0,0.0,653,11,1.68,1660.31,27.97,1.66,39330,103.6,48.31,7.63,122.02,2.54

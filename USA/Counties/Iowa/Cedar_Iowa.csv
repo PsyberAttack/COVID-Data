@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-03,Iowa,Cedar,37.58,7,0,0.0,280,2,0.71,1503.19,10.74,1.5,18627,32.15,182.53,10.74,563.73,21.47
 2020-10-02,Iowa,Cedar,21.47,4,0,0.0,273,2,0.73,1465.61,10.74,1.47,18627,32.15,171.79,5.36,542.26,-37.58
 2020-10-01,Iowa,Cedar,69.79,13,1,5.37,269,2,0.74,1444.14,10.74,1.44,18627,32.15,166.43,48.32,579.84,37.58
 2020-09-30,Iowa,Cedar,16.11,3,0,0.0,256,1,0.39,1374.35,5.37,1.37,18627,32.15,118.11,-26.84,542.26,16.11

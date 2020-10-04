@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-03,Alabama,Sumter,0.0,0,0,0.0,437,21,4.81,3443.39,165.47,3.44,12691,14.04,-7.88,-23.64,204.88,-15.76
 2020-10-02,Alabama,Sumter,7.88,1,0,0.0,437,21,4.81,3443.39,165.47,3.44,12691,14.04,15.76,0.0,220.64,7.88
 2020-10-01,Alabama,Sumter,15.76,2,2,15.76,436,21,4.82,3435.51,165.47,3.44,12691,14.04,15.76,0.0,212.76,-7.88
 2020-09-30,Alabama,Sumter,-23.64,-3,0,0.0,434,19,4.38,3419.75,149.71,3.42,12691,14.04,15.76,-94.56,220.64,-23.64

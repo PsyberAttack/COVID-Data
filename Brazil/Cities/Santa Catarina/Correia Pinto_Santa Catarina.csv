@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-03,Santa Catarina,Correia Pinto,31.26,4,0,0.0,338,8,2.37,2641.66,62.52,2.64,12795,85.97,15.63,476.77,23.44
+2020-10-02,Santa Catarina,Correia Pinto,15.63,2,0,0.0,334,8,2.4,2610.39,62.52,2.61,12795,70.34,15.63,453.33,7.81
+2020-10-01,Santa Catarina,Correia Pinto,-15.63,-2,0,0.0,332,8,2.41,2594.76,62.52,2.59,12795,54.71,-54.71,445.52,-23.45
 2020-09-30,Santa Catarina,Correia Pinto,31.26,4,1,7.82,334,8,2.4,2610.39,62.52,2.61,12795,109.42,39.08,468.97,-23.45
 2020-09-29,Santa Catarina,Correia Pinto,7.82,1,0,0.0,330,7,2.12,2579.13,54.71,2.58,12795,70.34,-70.34,492.42,-414.22
 2020-09-28,Santa Catarina,Correia Pinto,15.63,2,0,0.0,329,7,2.13,2571.32,54.71,2.57,12795,140.68,-23.45,906.64,15.63

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-03,Virginia,Franklin,40.93,23,0,0.0,414,4,0.97,736.72,7.12,0.74,56195,81.37,140.59,37.37,309.68,32.03
 2020-10-02,Virginia,Franklin,21.35,12,0,0.0,391,4,1.02,695.79,7.12,0.7,56195,81.37,103.22,14.23,277.65,3.55
 2020-10-01,Virginia,Franklin,10.68,6,0,0.0,379,4,1.06,674.44,7.12,0.67,56195,81.37,88.99,3.56,274.1,-1.78
 2020-09-30,Virginia,Franklin,14.24,8,1,1.78,373,4,1.07,663.76,7.12,0.66,56195,81.37,85.43,5.34,275.88,10.68

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-03,Maryland,Somerset,23.37,6,-1,-3.89,295,4,1.36,1148.98,15.58,1.15,25675,80.3,89.57,-11.68,350.47,15.58
 2020-10-02,Maryland,Somerset,27.26,7,0,0.0,289,5,1.73,1125.61,19.47,1.13,25675,80.3,101.25,-15.58,334.89,19.47
 2020-10-01,Maryland,Somerset,19.47,5,0,0.0,282,5,1.77,1098.34,19.47,1.1,25675,80.3,116.83,15.58,315.42,7.79
 2020-09-30,Maryland,Somerset,3.89,1,0,0.0,277,5,1.81,1078.87,19.47,1.08,25675,80.3,101.25,-15.58,307.63,-3.9

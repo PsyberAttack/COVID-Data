@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-03,Kansas,Jefferson,0.0,0,0,0.0,202,4,1.98,1064.56,21.08,1.06,18975,35.63,84.32,0.0,384.71,0.0
 2020-10-02,Kansas,Jefferson,5.27,1,0,0.0,202,4,1.98,1064.56,21.08,1.06,18975,35.63,84.32,5.27,384.71,-15.81
 2020-10-01,Kansas,Jefferson,15.81,3,0,0.0,201,4,1.99,1059.29,21.08,1.06,18975,35.63,79.05,5.27,400.52,15.81
 2020-09-30,Kansas,Jefferson,10.54,2,0,0.0,198,4,2.02,1043.48,21.08,1.04,18975,35.63,73.78,-10.54,384.71,-5.27

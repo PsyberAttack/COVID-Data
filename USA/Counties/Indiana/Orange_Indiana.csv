@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-03,Indiana,Orange,5.13,1,0,0.0,296,26,8.78,1518.81,133.41,1.52,19489,48.92,30.78,5.13,184.69,-25.66
 2020-10-02,Indiana,Orange,15.39,3,0,0.0,295,26,8.81,1513.67,133.41,1.51,19489,48.92,25.65,15.39,210.35,-10.27
 2020-10-01,Indiana,Orange,5.13,1,0,0.0,292,26,8.9,1498.28,133.41,1.5,19489,48.92,10.26,-5.13,220.62,-20.53
 2020-09-30,Indiana,Orange,10.26,2,0,0.0,291,26,8.93,1493.15,133.41,1.49,19489,48.92,15.39,5.13,241.15,10.26
