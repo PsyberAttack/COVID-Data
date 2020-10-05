@@ -1,4 +1,6 @@
 date,country,region,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-04,Mexico,Morelos,0.21,4,0,0.0,5703,1105,19.38,299.56,58.04,0.3,1903811,6.46,0.26,32.04,-0.16
+2020-10-03,Mexico,Morelos,1.79,34,3,0.16,5699,1105,19.39,299.35,58.04,0.3,1903811,6.2,0.69,32.2,1.16
 2020-10-02,Mexico,Morelos,0.42,8,2,0.11,5665,1102,19.45,297.56,57.88,0.3,1903811,5.51,-1.21,31.04,-0.11
 2020-10-01,Mexico,Morelos,0.37,7,3,0.16,5657,1100,19.44,297.14,57.78,0.3,1903811,6.72,-1.15,31.15,-1.26
 2020-09-30,Mexico,Morelos,1.94,37,3,0.16,5650,1097,19.42,296.77,57.62,0.3,1903811,7.87,0.05,32.41,-0.32

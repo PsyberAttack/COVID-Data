@@ -1,4 +1,6 @@
 date,country,region,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-04,Mexico,Nuevo Leon,7.64,391,4,0.08,41950,3178,7.58,819.42,62.08,0.82,5119504,57.09,-0.33,200.01,0.82
+2020-10-03,Mexico,Nuevo Leon,7.34,376,26,0.51,41559,3174,7.64,811.78,62.0,0.81,5119504,57.42,-2.52,199.19,-1.35
 2020-10-02,Mexico,Nuevo Leon,7.6,389,17,0.33,41183,3148,7.64,804.43,61.49,0.8,5119504,59.94,-5.98,200.54,0.47
 2020-10-01,Mexico,Nuevo Leon,10.49,537,48,0.94,40794,3131,7.68,796.84,61.16,0.8,5119504,65.92,7.6,200.07,3.42
 2020-09-30,Mexico,Nuevo Leon,8.61,441,40,0.78,40257,3083,7.66,786.35,60.22,0.79,5119504,58.32,5.39,196.65,0.23

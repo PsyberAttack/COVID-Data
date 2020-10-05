@@ -1,5 +1,7 @@
 date,country,region,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-02,Ecuador,Zamora-Chinchipe,0.0,0,0,0.0,1495,51,3.41,1241.53,42.35,1.24,120416,34.04,0.0,119.56,-34.05
+2020-10-04,Ecuador,Zamora-Chinchipe,-2.49,-3,0,0.0,4,51,1275.0,3.32,42.35,0.0,120416,-1219.95,-12.46,-1119.48,-2.49
+2020-10-03,Ecuador,Zamora-Chinchipe,0.83,1,0,0.0,7,51,728.57,5.81,42.35,0.01,120416,-1207.49,-4.98,-1116.99,0.0
+2020-10-02,Ecuador,Zamora-Chinchipe,-1236.55,-1489,0,0.0,6,51,850.0,4.98,42.35,0.0,120416,-1202.51,-1236.55,-1116.99,-1270.6
 2020-10-01,Ecuador,Zamora-Chinchipe,4.98,6,1,0.83,1495,51,3.41,1241.53,42.35,1.24,120416,34.04,-2.49,153.61,-13.29
 2020-09-30,Ecuador,Zamora-Chinchipe,7.47,9,3,2.49,1489,50,3.36,1236.55,41.52,1.24,120416,36.53,7.47,166.9,-37.37
 2020-09-29,Ecuador,Zamora-Chinchipe,0.0,0,0,0.0,1480,47,3.18,1229.07,39.03,1.23,120416,29.06,0.0,204.27,-1.66

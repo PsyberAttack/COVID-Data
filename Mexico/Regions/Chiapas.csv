@@ -1,4 +1,6 @@
 date,country,region,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-04,Mexico,Chiapas,0.08,4,0,0.0,6249,1020,16.32,119.76,19.55,0.12,5217908,0.81,0.02,4.2,-0.13
+2020-10-03,Mexico,Chiapas,0.19,10,0,0.0,6245,1020,16.33,119.68,19.55,0.12,5217908,0.79,-0.15,4.33,0.04
 2020-10-02,Mexico,Chiapas,0.1,5,0,0.0,6235,1020,16.36,119.49,19.55,0.12,5217908,0.94,-0.03,4.29,-0.05
 2020-10-01,Mexico,Chiapas,0.11,6,0,0.0,6230,1020,16.37,119.4,19.55,0.12,5217908,0.97,-0.18,4.34,-0.06
 2020-09-30,Mexico,Chiapas,0.21,11,0,0.0,6224,1020,16.39,119.28,19.55,0.12,5217908,1.15,0.06,4.4,0.04
