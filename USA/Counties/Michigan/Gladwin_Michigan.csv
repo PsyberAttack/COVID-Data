@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-04,Michigan,Gladwin,0.0,0,0,0.0,109,2,1.83,430.2,7.89,0.43,25337,50.49,51.3,0.0,110.51,0.0
 2020-10-03,Michigan,Gladwin,3.95,1,0,0.0,109,2,1.83,430.2,7.89,0.43,25337,50.49,51.3,-7.89,110.51,3.95
 2020-10-02,Michigan,Gladwin,-3.95,-1,0,0.0,108,2,1.85,426.25,7.89,0.43,25337,50.49,59.19,-7.9,106.56,-7.9
 2020-10-01,Michigan,Gladwin,15.79,4,0,0.0,109,2,1.83,430.2,7.89,0.43,25337,50.49,67.09,11.84,114.46,11.84

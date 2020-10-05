@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-04,Alabama,Bibb,35.71,8,0,0.0,686,10,1.46,3062.5,44.64,3.06,22400,35.99,133.91,26.78,468.73,13.39
 2020-10-03,Alabama,Bibb,13.39,3,0,0.0,678,10,1.47,3026.79,44.64,3.03,22400,35.99,107.13,4.46,455.34,-13.4
 2020-10-02,Alabama,Bibb,13.39,3,0,0.0,675,10,1.48,3013.39,44.64,3.01,22400,35.99,102.67,-31.25,468.74,-13.4
 2020-10-01,Alabama,Bibb,35.71,8,-1,-4.46,672,10,1.49,3000.0,44.64,3.0,22400,35.99,133.92,17.85,482.14,26.78

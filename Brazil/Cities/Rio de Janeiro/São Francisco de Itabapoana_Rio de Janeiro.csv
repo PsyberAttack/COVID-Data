@@ -1,5 +1,14 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-25,Rio de Janeiro,São Francisco de Itabapoana,11.85,5,0,0.0,579,22,3.8,1371.88,52.13,1.37,42205,56.87,11.85,182.47,-2.37
+2020-10-03,Rio de Janeiro,São Francisco de Itabapoana,11.85,5,0,0.0,596,22,3.69,1412.15,52.13,1.41,42205,40.28,11.85,156.39,7.11
+2020-10-02,Rio de Janeiro,São Francisco de Itabapoana,0.0,0,0,0.0,591,22,3.72,1400.31,52.13,1.4,42205,28.43,-2.37,149.28,-4.74
+2020-10-01,Rio de Janeiro,São Francisco de Itabapoana,2.37,1,0,0.0,591,22,3.72,1400.31,52.13,1.4,42205,30.8,-7.11,154.02,-2.37
+2020-09-30,Rio de Janeiro,São Francisco de Itabapoana,0.0,0,0,0.0,590,22,3.73,1397.94,52.13,1.4,42205,37.91,-16.59,156.39,-9.48
+2020-09-29,Rio de Janeiro,São Francisco de Itabapoana,26.06,11,0,0.0,590,22,3.73,1397.94,52.13,1.4,42205,54.5,26.06,165.87,23.69
+2020-09-28,Rio de Janeiro,São Francisco de Itabapoana,0.0,0,0,0.0,579,22,3.8,1371.88,52.13,1.37,42205,28.44,0.0,142.18,-4.74
+2020-09-27,Rio de Janeiro,São Francisco de Itabapoana,0.0,0,0,0.0,579,22,3.8,1371.88,52.13,1.37,42205,28.44,-4.74,146.92,-7.11
+2020-09-26,Rio de Janeiro,São Francisco de Itabapoana,0.0,0,0,0.0,579,22,3.8,1371.88,52.13,1.37,42205,33.18,-23.69,154.03,-16.59
+2020-09-25,Rio de Janeiro,São Francisco de Itabapoana,2.37,1,0,0.0,579,22,3.8,1371.88,52.13,1.37,42205,56.87,2.37,170.62,-9.48
+2020-09-24,Rio de Janeiro,São Francisco de Itabapoana,9.48,4,0,0.0,578,22,3.81,1369.51,52.13,1.37,42205,54.5,9.48,180.1,-4.74
 2020-09-22,Rio de Janeiro,São Francisco de Itabapoana,16.59,7,0,0.0,574,22,3.83,1360.03,52.13,1.36,42205,45.02,9.48,184.84,16.59
 2020-09-21,Rio de Janeiro,São Francisco de Itabapoana,0.0,0,0,0.0,567,22,3.88,1343.44,52.13,1.34,42205,35.54,0.0,168.25,-2.37
 2020-09-20,Rio de Janeiro,São Francisco de Itabapoana,0.0,0,0,0.0,567,22,3.88,1343.44,52.13,1.34,42205,35.54,-18.96,170.62,-14.22

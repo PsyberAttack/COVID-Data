@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-04,Illinois,Douglas,41.07,8,0,0.0,345,7,2.03,1771.14,35.94,1.77,19479,46.75,169.42,20.54,528.78,15.4
 2020-10-03,Illinois,Douglas,35.94,7,0,0.0,337,7,2.08,1730.07,35.94,1.73,19479,46.75,148.88,10.27,513.38,25.67
 2020-10-02,Illinois,Douglas,20.53,4,0,0.0,330,7,2.12,1694.13,35.94,1.69,19479,46.75,138.61,-30.81,487.71,5.13
 2020-10-01,Illinois,Douglas,41.07,8,0,0.0,326,7,2.15,1673.6,35.94,1.67,19479,46.75,169.42,0.0,482.58,35.94

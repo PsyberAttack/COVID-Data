@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-04,Georgia,Clayton,6.56,19,0,0.0,7178,162,2.26,2478.46,55.94,2.48,289615,2044.26,34.53,12.08,177.47,0.69
 2020-10-03,Georgia,Clayton,13.12,38,0,0.0,7159,162,2.26,2471.9,55.94,2.47,289615,2044.26,22.45,1.73,176.78,3.11
 2020-10-02,Georgia,Clayton,2.42,7,1,0.35,7121,162,2.27,2458.78,55.94,2.46,289615,2044.26,20.72,-1.72,173.67,-5.18
 2020-10-01,Georgia,Clayton,2.42,7,-1,-0.35,7114,161,2.26,2456.36,55.59,2.46,289615,2044.26,22.44,15.2,178.85,-9.67

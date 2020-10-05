@@ -1,5 +1,14 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-09-25,Rio de Janeiro,Bom Jesus do Itabapoana,62.0,23,2,5.39,797,23,2.89,2148.48,62.0,2.15,37096,134.78,48.52,312.71,16.17
+2020-10-03,Rio de Janeiro,Bom Jesus do Itabapoana,13.48,5,0,0.0,800,23,2.88,2156.57,62.0,2.16,37096,8.09,13.48,210.26,8.09
+2020-10-02,Rio de Janeiro,Bom Jesus do Itabapoana,8.09,3,0,0.0,795,23,2.89,2143.09,62.0,2.14,37096,-5.39,-2.69,202.17,5.39
+2020-10-01,Rio de Janeiro,Bom Jesus do Itabapoana,0.0,0,0,0.0,792,23,2.9,2135.0,62.0,2.14,37096,-2.7,-51.22,196.78,-10.78
+2020-09-30,Rio de Janeiro,Bom Jesus do Itabapoana,-13.48,-5,0,0.0,792,23,2.9,2135.0,62.0,2.14,37096,48.52,-26.96,207.56,-53.92
+2020-09-29,Rio de Janeiro,Bom Jesus do Itabapoana,0.0,0,0,0.0,797,23,2.89,2148.48,62.0,2.15,37096,75.48,0.0,261.48,-2.7
+2020-09-28,Rio de Janeiro,Bom Jesus do Itabapoana,0.0,0,0,0.0,797,23,2.89,2148.48,62.0,2.15,37096,75.48,0.0,264.18,0.0
+2020-09-27,Rio de Janeiro,Bom Jesus do Itabapoana,0.0,0,0,0.0,797,23,2.89,2148.48,62.0,2.15,37096,75.48,-10.78,264.18,-18.87
+2020-09-26,Rio de Janeiro,Bom Jesus do Itabapoana,0.0,0,0,0.0,797,23,2.89,2148.48,62.0,2.15,37096,86.26,-48.52,283.05,-8.09
+2020-09-25,Rio de Janeiro,Bom Jesus do Itabapoana,10.78,4,1,2.7,797,23,2.89,2148.48,62.0,2.15,37096,134.78,10.78,291.14,-10.79
+2020-09-24,Rio de Janeiro,Bom Jesus do Itabapoana,51.22,19,1,2.7,793,22,2.77,2137.7,59.31,2.14,37096,124.0,37.74,301.93,5.39
 2020-09-22,Rio de Janeiro,Bom Jesus do Itabapoana,13.48,5,0,0.0,774,21,2.71,2086.48,56.61,2.09,37096,86.26,8.09,296.54,13.48
 2020-09-21,Rio de Janeiro,Bom Jesus do Itabapoana,0.0,0,0,0.0,769,21,2.73,2073.0,56.61,2.07,37096,78.17,0.0,283.06,0.0
 2020-09-20,Rio de Janeiro,Bom Jesus do Itabapoana,0.0,0,0,0.0,769,21,2.73,2073.0,56.61,2.07,37096,78.17,0.0,283.06,-45.83

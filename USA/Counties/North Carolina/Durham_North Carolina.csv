@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-04,North Carolina,Durham,0.0,0,0,0.0,7939,98,1.23,2506.48,30.94,2.51,316739,1105.73,62.51,-9.16,258.57,0.0
 2020-10-03,North Carolina,Durham,6.95,22,0,0.0,7939,98,1.23,2506.48,30.94,2.51,316739,1105.73,71.67,-2.52,258.57,-4.42
 2020-10-02,North Carolina,Durham,10.73,34,1,0.32,7917,98,1.24,2499.53,30.94,2.5,316739,1105.73,74.19,2.84,262.99,-1.27
 2020-10-01,North Carolina,Durham,12.63,40,1,0.32,7883,97,1.23,2488.8,30.62,2.49,316739,1105.73,71.35,-1.89,264.26,-0.63

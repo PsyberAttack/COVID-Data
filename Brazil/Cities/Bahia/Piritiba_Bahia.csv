@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-04,Bahia,Piritiba,0.0,0,0,0.0,62,2,3.23,250.45,8.08,0.25,24755,12.12,0.0,101.0,-16.16
+2020-10-03,Bahia,Piritiba,0.0,0,0,0.0,62,2,3.23,250.45,8.08,0.25,24755,12.12,-4.04,117.16,0.0
 2020-10-02,Bahia,Piritiba,4.04,1,0,0.0,62,2,3.23,250.45,8.08,0.25,24755,16.16,-4.04,117.16,4.04
 2020-10-01,Bahia,Piritiba,4.04,1,0,0.0,61,2,3.28,246.41,8.08,0.25,24755,20.2,4.04,113.12,4.04
 2020-09-30,Bahia,Piritiba,4.04,1,0,0.0,60,2,3.33,242.38,8.08,0.24,24755,16.16,0.0,109.08,4.04

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-04,Minnesota,Lyon,42.92,11,0,0.0,779,4,0.51,3039.53,15.61,3.04,25629,35.87,257.52,-27.31,823.28,19.51
 2020-10-03,Minnesota,Lyon,46.82,12,0,0.0,768,4,0.52,2996.61,15.61,3.0,25629,35.87,284.83,-19.51,803.77,23.41
 2020-10-02,Minnesota,Lyon,50.72,13,0,0.0,756,4,0.53,2949.78,15.61,2.95,25629,35.87,304.34,7.8,780.36,11.7
 2020-10-01,Minnesota,Lyon,19.51,5,0,0.0,743,4,0.54,2899.06,15.61,2.9,25629,35.87,296.54,-3.9,768.66,-3.9

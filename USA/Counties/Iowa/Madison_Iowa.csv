@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-04,Iowa,Madison,24.62,4,0,0.0,266,2,0.75,1637.02,12.31,1.64,16249,28.96,264.65,0.0,578.51,30.77
 2020-10-03,Iowa,Madison,12.31,2,0,0.0,262,2,0.76,1612.41,12.31,1.61,16249,28.96,264.65,-30.77,547.74,0.0
 2020-10-02,Iowa,Madison,36.93,6,0,0.0,260,2,0.77,1600.1,12.31,1.6,16249,28.96,295.42,36.93,547.74,12.31
 2020-10-01,Iowa,Madison,55.39,9,0,0.0,254,2,0.79,1563.17,12.31,1.56,16249,28.96,258.49,36.93,535.43,55.39

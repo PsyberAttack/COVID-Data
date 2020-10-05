@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-02,Minas Gerais,Vespasiano,0.0,0,0,0.0,1298,36,2.77,1017.23,28.21,1.02,127601,32.13,0.0,149.69,0.0
+2020-10-01,Minas Gerais,Vespasiano,0.0,0,1,0.78,1298,36,2.77,1017.23,28.21,1.02,127601,32.13,0.0,149.69,0.0
+2020-09-30,Minas Gerais,Vespasiano,0.0,0,1,0.78,1298,35,2.7,1017.23,27.43,1.02,127601,32.13,0.0,149.69,-35.27
 2020-09-29,Minas Gerais,Vespasiano,0.0,0,0,0.0,1298,34,2.62,1017.23,26.65,1.02,127601,32.13,-11.76,184.96,0.0
 2020-09-28,Minas Gerais,Vespasiano,32.13,41,1,0.78,1298,34,2.62,1017.23,26.65,1.02,127601,43.89,32.13,184.96,32.13
 2020-09-27,Minas Gerais,Vespasiano,0.0,0,0,0.0,1257,33,2.63,985.1,25.86,0.99,127601,11.76,0.0,152.83,0.0

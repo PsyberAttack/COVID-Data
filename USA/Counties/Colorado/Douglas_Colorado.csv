@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-04,Colorado,Douglas,5.54,19,0,0.0,2916,61,2.09,850.7,17.8,0.85,342776,407.95,60.68,-0.88,207.41,3.21
 2020-10-03,Colorado,Douglas,4.38,15,0,0.0,2897,61,2.11,845.16,17.8,0.85,342776,407.95,61.56,-3.79,204.2,-0.87
 2020-10-02,Colorado,Douglas,14.0,48,0,0.0,2882,61,2.12,840.78,17.8,0.84,342776,407.95,65.35,1.16,205.07,7.58
 2020-10-01,Colorado,Douglas,9.04,31,0,0.0,2834,61,2.15,826.78,17.8,0.83,342776,407.95,64.19,2.33,197.49,2.62
