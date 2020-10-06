@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0331,2020-10-06,Utrecht,Lopik,6.91,1,0,0.0,143,8,5.59,988.18,55.28,0.99,14471,138.2,0.0,449.15,6.91
+GM0331,2020-10-05,Utrecht,Lopik,6.91,1,0,0.0,142,8,5.63,981.27,55.28,0.98,14471,138.2,-6.91,442.24,6.91
 GM0331,2020-10-04,Utrecht,Lopik,20.73,3,0,0.0,141,8,5.67,974.36,55.28,0.97,14471,145.11,6.91,435.33,20.73
 GM0331,2020-10-03,Utrecht,Lopik,55.28,8,0,0.0,138,8,5.8,953.63,55.28,0.95,14471,138.2,34.55,414.6,55.28
 GM0331,2020-10-02,Utrecht,Lopik,13.82,2,0,0.0,130,8,6.15,898.35,55.28,0.9,14471,103.65,6.91,359.32,13.82
