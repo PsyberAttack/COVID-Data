@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-05,Mississippi,Jefferson,0.0,0,0,0.0,246,10,4.07,3461.86,140.73,3.46,7106,13.67,42.22,0.0,267.38,-28.15
 2020-10-04,Mississippi,Jefferson,28.15,2,0,0.0,246,10,4.07,3461.86,140.73,3.46,7106,13.67,42.22,28.15,295.53,14.08
 2020-10-03,Mississippi,Jefferson,0.0,0,0,0.0,244,10,4.1,3433.72,140.73,3.43,7106,13.67,14.07,0.0,281.45,0.0
 2020-10-02,Mississippi,Jefferson,14.07,1,1,14.07,244,10,4.1,3433.72,140.73,3.43,7106,13.67,14.07,28.14,281.45,-14.08

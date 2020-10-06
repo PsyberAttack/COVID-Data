@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-05,Ohio,Union,17.29,10,0,0.0,603,2,0.33,1042.62,3.46,1.04,57835,133.95,89.9,6.92,345.81,15.56
 2020-10-04,Ohio,Union,6.92,4,0,0.0,593,2,0.34,1025.33,3.46,1.03,57835,133.95,82.98,-5.18,330.25,-8.64
 2020-10-03,Ohio,Union,12.1,7,0,0.0,589,2,0.34,1018.41,3.46,1.02,57835,133.95,88.16,-3.46,338.89,-1.73
 2020-10-02,Ohio,Union,15.56,9,0,0.0,582,2,0.34,1006.31,3.46,1.01,57835,133.95,91.62,-8.65,340.62,5.19

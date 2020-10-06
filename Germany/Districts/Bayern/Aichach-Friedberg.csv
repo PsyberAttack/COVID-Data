@@ -1,5 +1,9 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-01,Bayern,Aichach-Friedberg,2.25,3,0,0.0,504,20,3.97,377.26,14.97,0.38,133596,5.25,-2.24,38.2,-0.74
+2020-10-05,Bayern,Aichach-Friedberg,2.25,3,0,0.0,509,20,3.93,381.0,14.97,0.38,133596,5.99,1.5,38.94,0.75
+2020-10-04,Bayern,Aichach-Friedberg,0.0,0,0,0.0,506,20,3.95,378.75,14.97,0.38,133596,4.49,-0.75,38.19,0.0
+2020-10-03,Bayern,Aichach-Friedberg,0.0,0,0,0.0,506,20,3.95,378.75,14.97,0.38,133596,5.24,0.0,38.19,-0.75
+2020-10-02,Bayern,Aichach-Friedberg,0.75,1,0,0.0,506,20,3.95,378.75,14.97,0.38,133596,5.24,-0.75,38.94,0.0
+2020-10-01,Bayern,Aichach-Friedberg,2.99,4,0,0.0,505,20,3.96,378.01,14.97,0.38,133596,5.99,-1.5,38.94,0.0
 2020-09-30,Bayern,Aichach-Friedberg,0.0,0,0,0.0,501,20,3.99,375.01,14.97,0.38,133596,7.49,-3.74,38.94,-2.25
 2020-09-29,Bayern,Aichach-Friedberg,0.0,0,0,0.0,501,20,3.99,375.01,14.97,0.38,133596,11.23,-2.25,41.19,-1.5
 2020-09-28,Bayern,Aichach-Friedberg,0.75,1,0,0.0,501,20,3.99,375.01,14.97,0.38,133596,13.48,-1.5,42.69,0.0

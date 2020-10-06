@@ -1,8 +1,10 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-02,Rheinland-Pfalz,Kaiserslautern,0.94,1,0,0.0,325,5,1.54,306.44,4.71,0.31,106057,4.82,0.0,41.0,-0.95
-2020-10-01,Rheinland-Pfalz,Kaiserslautern,1.0,1,0,0.0,324,5,1.54,324.5,5.01,0.32,99845,4.82,0.0,41.95,-2.0
-2020-09-30,Rheinland-Pfalz,Kaiserslautern,1.0,1,0,0.0,323,5,1.55,323.5,5.01,0.32,99845,4.82,-0.89,43.95,-0.89
-2020-09-29,Rheinland-Pfalz,Kaiserslautern,0.94,1,0,0.0,322,5,1.55,303.61,4.71,0.3,106057,5.71,-0.95,44.84,-0.95
+2020-10-04,Rheinland-Pfalz,Kaiserslautern,3.77,4,0,0.0,331,5,1.51,312.1,4.71,0.31,106057,10.48,3.77,45.72,3.77
+2020-10-03,Rheinland-Pfalz,Kaiserslautern,0.0,0,0,0.0,327,5,1.53,308.32,4.71,0.31,106057,6.71,0.0,41.95,-0.94
+2020-10-02,Rheinland-Pfalz,Kaiserslautern,0.94,1,0,0.0,327,5,1.53,308.32,4.71,0.31,106057,6.71,0.0,42.89,-0.95
+2020-10-01,Rheinland-Pfalz,Kaiserslautern,1.0,1,0,0.0,326,5,1.53,326.51,5.01,0.33,99845,6.71,0.0,43.84,-2.0
+2020-09-30,Rheinland-Pfalz,Kaiserslautern,1.0,1,0,0.0,325,5,1.54,325.5,5.01,0.33,99845,6.71,-0.89,45.84,-0.89
+2020-09-29,Rheinland-Pfalz,Kaiserslautern,2.83,3,0,0.0,324,5,1.54,305.5,4.71,0.31,106057,7.6,0.94,46.73,0.94
 2020-09-28,Rheinland-Pfalz,Kaiserslautern,0.94,1,0,0.0,321,5,1.56,302.67,4.71,0.3,106057,6.66,0.0,45.79,-1.06
 2020-09-27,Rheinland-Pfalz,Kaiserslautern,0.0,0,0,0.0,320,5,1.56,301.72,4.71,0.3,106057,6.66,-1.0,46.85,-1.0
 2020-09-26,Rheinland-Pfalz,Kaiserslautern,0.0,0,0,0.0,320,5,1.56,301.72,4.71,0.3,106057,7.66,0.0,47.85,0.0

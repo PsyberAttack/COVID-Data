@@ -1,4 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-05,Bayern,Ebersberg,2.81,4,0,0.0,786,6,0.76,552.97,4.22,0.55,142142,20.4,1.4,80.89,0.7
+2020-10-04,Bayern,Ebersberg,0.0,0,0,0.0,782,6,0.77,550.15,4.22,0.55,142142,19.0,0.0,80.19,-2.81
 2020-10-03,Bayern,Ebersberg,3.52,5,0,0.0,782,6,0.77,550.15,4.22,0.55,142142,19.0,1.41,83.0,2.11
 2020-10-02,Bayern,Ebersberg,2.11,3,1,0.7,777,6,0.77,546.64,4.22,0.55,142142,17.59,-1.41,80.89,-0.7
 2020-10-01,Bayern,Ebersberg,0.7,1,0,0.0,774,5,0.65,544.53,3.52,0.54,142142,19.0,-1.41,81.59,-2.11

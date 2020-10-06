@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-05,Maine,York,2.42,5,0,0.0,1243,17,1.37,602.73,8.24,0.6,206229,208.09,35.87,0.48,163.88,-2.43
 2020-10-04,Maine,York,4.36,9,0,0.0,1238,17,1.37,600.3,8.24,0.6,206229,208.09,35.39,-1.46,166.31,-0.97
 2020-10-03,Maine,York,2.91,6,1,0.48,1229,17,1.38,595.94,8.24,0.6,206229,208.09,36.85,-2.91,167.28,-3.39
 2020-10-02,Maine,York,5.82,12,0,0.0,1223,16,1.31,593.03,7.76,0.59,206229,208.09,39.76,1.94,170.67,3.88

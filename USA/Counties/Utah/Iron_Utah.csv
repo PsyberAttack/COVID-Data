@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-05,Utah,Iron,30.32,16,0,0.0,805,3,0.37,1525.34,5.68,1.53,52775,16.01,106.11,11.37,234.92,24.64
 2020-10-04,Utah,Iron,0.0,0,0,0.0,789,3,0.38,1495.03,5.68,1.5,52775,16.01,94.74,0.0,210.28,0.0
 2020-10-03,Utah,Iron,13.26,7,0,0.0,789,3,0.38,1495.03,5.68,1.5,52775,16.01,94.74,3.79,210.28,-7.58
 2020-10-02,Utah,Iron,24.63,13,0,0.0,782,3,0.38,1481.76,5.68,1.48,52775,16.01,90.95,18.95,217.86,11.37

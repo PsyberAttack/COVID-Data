@@ -1,6 +1,10 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-01,Nordrhein-Westfalen,Leverkusen,5.49,9,0,0.0,618,9,1.46,377.2,5.49,0.38,163838,31.73,1.22,109.2,3.05
-2020-09-30,Nordrhein-Westfalen,Leverkusen,6.1,10,0,0.0,609,9,1.48,371.71,5.49,0.37,163838,30.51,1.83,106.15,5.49
+2020-10-05,Nordrhein-Westfalen,Leverkusen,0.61,1,0,0.0,621,9,1.45,379.03,5.49,0.38,163838,15.86,-1.83,94.56,-3.05
+2020-10-04,Nordrhein-Westfalen,Leverkusen,0.0,0,0,0.0,620,9,1.45,378.42,5.49,0.38,163838,17.69,-4.27,97.61,-4.27
+2020-10-03,Nordrhein-Westfalen,Leverkusen,0.0,0,0,0.0,620,9,1.45,378.42,5.49,0.38,163838,21.96,-0.61,101.88,-3.05
+2020-10-02,Nordrhein-Westfalen,Leverkusen,0.61,1,0,0.0,620,9,1.45,378.42,5.49,0.38,163838,22.57,-9.77,104.93,-4.88
+2020-10-01,Nordrhein-Westfalen,Leverkusen,5.49,9,0,0.0,619,9,1.45,377.81,5.49,0.38,163838,32.34,1.22,109.81,3.05
+2020-09-30,Nordrhein-Westfalen,Leverkusen,6.71,11,0,0.0,610,9,1.48,372.32,5.49,0.37,163838,31.12,2.44,106.76,6.1
 2020-09-29,Nordrhein-Westfalen,Leverkusen,2.44,4,0,0.0,599,9,1.5,365.61,5.49,0.37,163838,28.68,0.0,100.66,1.22
 2020-09-28,Nordrhein-Westfalen,Leverkusen,2.44,4,0,0.0,595,9,1.51,363.16,5.49,0.36,163838,28.68,-3.05,99.44,-2.44
 2020-09-27,Nordrhein-Westfalen,Leverkusen,4.27,7,0,0.0,591,9,1.52,360.72,5.49,0.36,163838,31.73,-2.44,101.88,3.66

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-05,Mississippi,Clarke,6.41,1,0,0.0,626,48,7.67,4011.79,307.61,4.01,15604,22.56,147.4,6.41,865.16,0.0
 2020-10-04,Mississippi,Clarke,12.82,2,0,0.0,625,48,7.68,4005.38,307.61,4.01,15604,22.56,140.99,-6.41,865.16,6.41
 2020-10-03,Mississippi,Clarke,19.23,3,-4,-25.63,623,48,7.7,3992.57,307.61,3.99,15604,22.56,147.4,-64.08,858.75,-25.63
 2020-10-02,Mississippi,Clarke,32.04,5,3,19.23,620,52,8.39,3973.34,333.25,3.97,15604,22.56,211.48,-6.41,884.38,12.81

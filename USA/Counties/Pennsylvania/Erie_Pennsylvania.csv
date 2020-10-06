@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-05,Pennsylvania,Erie,4.78,13,0,0.0,1656,48,2.9,608.69,17.64,0.61,272061,340.47,38.22,1.84,96.67,3.68
 2020-10-04,Pennsylvania,Erie,14.7,40,0,0.0,1643,48,2.92,603.91,17.64,0.6,272061,340.47,36.38,12.13,92.99,13.6
 2020-10-03,Pennsylvania,Erie,0.0,0,0,0.0,1603,48,2.99,589.21,17.64,0.59,272061,340.47,24.25,-4.04,79.39,-4.04
 2020-10-02,Pennsylvania,Erie,8.82,24,0,0.0,1603,48,2.99,589.21,17.64,0.59,272061,340.47,28.29,4.41,83.43,6.61

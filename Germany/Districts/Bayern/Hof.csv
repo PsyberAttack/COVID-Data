@@ -1,4 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-05,Bayern,Hof,1.05,1,0,0.0,567,32,5.64,594.89,33.57,0.59,95311,4.2,1.05,48.46,1.05
+2020-10-04,Bayern,Hof,0.0,0,0,0.0,566,32,5.65,593.85,33.57,0.59,95311,3.15,-1.05,47.41,-1.05
 2020-10-03,Bayern,Hof,1.05,1,0,0.0,566,32,5.65,593.85,33.57,0.59,95311,4.2,-1.05,48.46,-3.3
 2020-10-02,Bayern,Hof,0.0,0,0,0.0,565,32,5.66,592.8,33.57,0.59,95311,5.25,-2.1,51.76,-2.1
 2020-10-01,Bayern,Hof,1.05,1,0,0.0,565,32,5.66,592.8,33.57,0.59,95311,7.35,-1.05,53.86,-3.3
