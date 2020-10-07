@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-06,California,Glenn,7.13,2,0,0.0,603,3,0.5,2149.96,10.7,2.15,28047,21.35,64.19,-24.96,410.03,-42.79
 2020-10-05,California,Glenn,0.0,0,0,0.0,601,3,0.5,2142.83,10.7,2.14,28047,21.35,89.15,0.0,452.82,0.0
 2020-10-04,California,Glenn,24.96,7,0,0.0,601,3,0.5,2142.83,10.7,2.14,28047,21.35,89.15,3.57,452.82,-14.26
 2020-10-03,California,Glenn,3.57,1,0,0.0,594,3,0.51,2117.87,10.7,2.12,28047,21.35,85.58,-7.13,467.08,-7.13

@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-05,Paraná,Doutor Camargo,0.0,0,0,0.0,45,2,4.44,752.63,33.45,0.75,5979,234.16,0.0,351.26,0.0
+2020-10-04,Paraná,Doutor Camargo,0.0,0,0,0.0,45,2,4.44,752.63,33.45,0.75,5979,234.16,-33.45,351.26,0.0
+2020-10-03,Paraná,Doutor Camargo,50.18,3,0,0.0,45,2,4.44,752.63,33.45,0.75,5979,267.61,50.18,351.26,50.18
 2020-10-02,Paraná,Doutor Camargo,66.9,4,0,0.0,42,2,4.76,702.46,33.45,0.7,5979,217.43,66.9,301.08,66.9
 2020-09-30,Paraná,Doutor Camargo,33.45,2,0,0.0,38,2,5.26,635.56,33.45,0.64,5979,150.53,33.45,234.18,33.45
 2020-09-29,Paraná,Doutor Camargo,50.18,3,0,0.0,36,2,5.56,602.11,33.45,0.6,5979,117.08,50.18,200.73,50.18
