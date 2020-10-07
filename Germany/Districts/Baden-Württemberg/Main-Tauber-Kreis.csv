@@ -1,5 +1,7 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-04,Baden-Württemberg,Main-Tauber-Kreis,2.27,3,0,0.0,570,11,1.93,430.52,8.31,0.43,132399,12.1,1.51,37.06,1.51
+2020-10-06,Baden-Württemberg,Main-Tauber-Kreis,0.76,1,0,0.0,573,11,1.92,432.78,8.31,0.43,132399,12.1,0.0,38.57,0.0
+2020-10-05,Baden-Württemberg,Main-Tauber-Kreis,0.0,0,0,0.0,572,11,1.92,432.03,8.31,0.43,132399,12.1,-1.51,38.57,0.0
+2020-10-04,Baden-Württemberg,Main-Tauber-Kreis,3.78,5,0,0.0,572,11,1.92,432.03,8.31,0.43,132399,13.61,3.02,38.57,3.02
 2020-10-03,Baden-Württemberg,Main-Tauber-Kreis,0.76,1,0,0.0,567,11,1.94,428.25,8.31,0.43,132399,10.59,-0.75,35.55,-2.26
 2020-10-02,Baden-Württemberg,Main-Tauber-Kreis,5.29,7,0,0.0,566,11,1.94,427.5,8.31,0.43,132399,11.34,3.78,37.81,3.02
 2020-10-01,Baden-Württemberg,Main-Tauber-Kreis,0.0,0,0,0.0,559,11,1.97,422.21,8.31,0.42,132399,7.56,-0.76,34.79,0.0
