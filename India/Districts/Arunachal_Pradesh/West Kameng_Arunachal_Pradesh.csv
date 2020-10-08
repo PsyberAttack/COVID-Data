@@ -1,5 +1,7 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-06,Arunachal_Pradesh,West Kameng,0.0,0,0,0.0,594,3,0.51,682.66,3.45,0.68,87013,41.37,0.0,212.62,0.0
+2020-10-08,Arunachal_Pradesh,West Kameng,0.0,0,0,0.0,600,3,0.5,689.55,3.45,0.69,87013,31.03,-2.3,205.73,-1.15
+2020-10-07,Arunachal_Pradesh,West Kameng,3.45,3,0,0.0,600,3,0.5,689.55,3.45,0.69,87013,33.33,-11.49,206.88,-9.19
+2020-10-06,Arunachal_Pradesh,West Kameng,3.45,3,0,0.0,597,3,0.5,686.1,3.45,0.69,87013,44.82,3.45,216.07,3.45
 2020-10-05,Arunachal_Pradesh,West Kameng,2.3,2,0,0.0,594,3,0.51,682.66,3.45,0.68,87013,41.37,-8.04,212.62,-1.15
 2020-10-04,Arunachal_Pradesh,West Kameng,8.04,7,0,0.0,592,3,0.51,680.36,3.45,0.68,87013,49.41,6.89,213.77,4.59
 2020-10-03,Arunachal_Pradesh,West Kameng,5.75,5,0,0.0,585,3,0.51,672.31,3.45,0.67,87013,42.52,-5.74,209.18,3.45
