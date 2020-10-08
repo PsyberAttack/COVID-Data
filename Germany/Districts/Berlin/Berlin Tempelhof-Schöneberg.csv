@@ -1,10 +1,11 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-06,Berlin,Berlin Tempelhof-Schöneberg,8.06,27,0,0.0,1597,26,1.63,476.63,7.76,0.48,335060,50.73,3.88,141.76,5.97
-2020-10-05,Berlin,Berlin Tempelhof-Schöneberg,6.86,23,0,0.0,1570,26,1.66,468.57,7.76,0.47,335060,46.85,2.68,135.79,4.17
-2020-10-04,Berlin,Berlin Tempelhof-Schöneberg,5.67,19,0,0.0,1547,26,1.68,461.71,7.76,0.46,335060,44.17,3.58,131.62,4.18
-2020-10-03,Berlin,Berlin Tempelhof-Schöneberg,2.39,8,0,0.0,1528,26,1.7,456.04,7.76,0.46,335060,40.59,-2.39,127.44,-0.59
-2020-10-02,Berlin,Berlin Tempelhof-Schöneberg,11.04,37,0,0.0,1520,26,1.71,453.65,7.76,0.45,335060,42.98,7.16,128.03,7.76
-2020-10-01,Berlin,Berlin Tempelhof-Schöneberg,10.74,36,0,0.0,1483,26,1.75,442.61,7.76,0.44,335060,35.82,5.96,120.27,8.95
+2020-10-07,Berlin,Berlin Tempelhof-Schöneberg,3.28,11,0,0.0,1629,26,1.6,486.18,7.76,0.49,335060,54.31,-2.69,148.92,0.89
+2020-10-06,Berlin,Berlin Tempelhof-Schöneberg,12.54,42,0,0.0,1618,26,1.61,482.9,7.76,0.48,335060,57.0,8.36,148.03,10.45
+2020-10-05,Berlin,Berlin Tempelhof-Schöneberg,7.16,24,0,0.0,1576,26,1.65,470.36,7.76,0.47,335060,48.64,2.98,137.58,4.47
+2020-10-04,Berlin,Berlin Tempelhof-Schöneberg,5.97,20,0,0.0,1552,26,1.68,463.2,7.76,0.46,335060,45.66,3.88,133.11,4.48
+2020-10-03,Berlin,Berlin Tempelhof-Schöneberg,2.98,10,0,0.0,1532,26,1.7,457.23,7.76,0.46,335060,41.78,-1.8,128.63,0.0
+2020-10-02,Berlin,Berlin Tempelhof-Schöneberg,11.34,38,0,0.0,1522,26,1.71,454.25,7.76,0.45,335060,43.58,7.46,128.63,8.06
+2020-10-01,Berlin,Berlin Tempelhof-Schöneberg,11.04,37,0,0.0,1484,26,1.75,442.91,7.76,0.44,335060,36.12,6.26,120.57,9.25
 2020-09-30,Berlin,Berlin Tempelhof-Schöneberg,5.97,20,0,0.0,1447,26,1.8,431.86,7.76,0.43,335060,29.86,-1.19,111.32,3.28
 2020-09-29,Berlin,Berlin Tempelhof-Schöneberg,4.18,14,0,0.0,1427,26,1.82,425.89,7.76,0.43,335060,31.05,-0.89,108.04,1.49
 2020-09-28,Berlin,Berlin Tempelhof-Schöneberg,4.18,14,0,0.0,1413,26,1.84,421.72,7.76,0.42,335060,31.94,0.0,106.55,2.99

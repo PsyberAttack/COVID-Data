@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-05,Paraíba,Riacho dos Cavalos,0.0,0,0,0.0,37,4,10.81,433.97,46.92,0.43,8526,70.38,0.0,199.41,0.0
-2020-10-04,Paraíba,Riacho dos Cavalos,23.46,2,0,0.0,37,4,10.81,433.97,46.92,0.43,8526,70.38,11.73,199.41,11.73
+2020-10-05,Paraíba,Riacho dos Cavalos,0.0,0,0,0.0,37,4,10.81,433.97,46.92,0.43,8526,46.92,-23.46,199.41,0.0
+2020-10-04,Paraíba,Riacho dos Cavalos,0.0,0,0,0.0,37,4,10.81,433.97,46.92,0.43,8526,70.38,0.0,199.41,0.0
+2020-10-03,Paraíba,Riacho dos Cavalos,23.46,2,0,0.0,37,4,10.81,433.97,46.92,0.43,8526,70.38,11.73,199.41,11.73
 2020-10-02,Paraíba,Riacho dos Cavalos,0.0,0,0,0.0,35,4,11.43,410.51,46.92,0.41,8526,58.65,-11.73,187.68,11.73
 2020-10-01,Paraíba,Riacho dos Cavalos,0.0,0,0,0.0,35,4,11.43,410.51,46.92,0.41,8526,70.38,0.0,175.95,0.0
 2020-09-30,Paraíba,Riacho dos Cavalos,11.73,1,0,0.0,35,4,11.43,410.51,46.92,0.41,8526,70.38,11.73,175.95,11.73

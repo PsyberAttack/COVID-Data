@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-07,Nebraska,Howard,30.92,2,0,0.0,110,5,4.55,1700.68,77.3,1.7,6468,11.36,154.6,0.0,618.41,-15.46
 2020-10-06,Nebraska,Howard,15.46,1,0,0.0,108,5,4.63,1669.76,77.3,1.67,6468,11.36,154.6,15.46,633.87,-15.46
 2020-10-05,Nebraska,Howard,-15.46,-1,0,0.0,107,5,4.67,1654.3,77.3,1.65,6468,11.36,139.14,-61.84,649.33,-15.46
 2020-10-04,Nebraska,Howard,46.38,3,0,0.0,108,5,4.63,1669.76,77.3,1.67,6468,11.36,200.98,46.38,664.79,46.38

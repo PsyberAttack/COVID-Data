@@ -1,10 +1,11 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-06,Baden-Württemberg,Hohenlohekreis,5.33,6,0,0.0,877,47,5.36,778.48,41.72,0.78,112655,7.11,2.67,41.75,1.78
-2020-10-05,Baden-Württemberg,Hohenlohekreis,0.0,0,0,0.0,871,47,5.4,773.16,41.72,0.77,112655,4.44,-5.33,39.97,-0.89
-2020-10-04,Baden-Württemberg,Hohenlohekreis,0.0,0,0,0.0,871,47,5.4,773.16,41.72,0.77,112655,9.77,0.0,40.86,0.0
-2020-10-03,Baden-Württemberg,Hohenlohekreis,0.0,0,0,0.0,871,47,5.4,773.16,41.72,0.77,112655,9.77,-4.44,40.86,-1.78
-2020-10-02,Baden-Württemberg,Hohenlohekreis,0.89,1,0,0.0,871,47,5.4,773.16,41.72,0.77,112655,14.21,-0.89,42.64,-1.77
-2020-10-01,Baden-Württemberg,Hohenlohekreis,0.0,0,0,0.0,870,47,5.4,772.27,41.72,0.77,112655,15.1,-1.78,44.41,-0.89
+2020-10-07,Baden-Württemberg,Hohenlohekreis,0.89,1,0,0.0,880,47,5.34,781.15,41.72,0.78,112655,8.89,0.0,41.76,-1.77
+2020-10-06,Baden-Württemberg,Hohenlohekreis,5.33,6,0,0.0,879,47,5.35,780.26,41.72,0.78,112655,8.89,2.67,43.53,1.78
+2020-10-05,Baden-Württemberg,Hohenlohekreis,0.0,0,0,0.0,873,47,5.38,774.93,41.72,0.77,112655,6.22,-5.33,41.75,-0.89
+2020-10-04,Baden-Württemberg,Hohenlohekreis,0.89,1,0,0.0,873,47,5.38,774.93,41.72,0.77,112655,11.55,0.89,42.64,0.89
+2020-10-03,Baden-Württemberg,Hohenlohekreis,0.0,0,0,0.0,872,47,5.39,774.04,41.72,0.77,112655,10.66,-4.44,41.75,-1.78
+2020-10-02,Baden-Württemberg,Hohenlohekreis,0.89,1,0,0.0,872,47,5.39,774.04,41.72,0.77,112655,15.1,-0.89,43.53,-1.77
+2020-10-01,Baden-Württemberg,Hohenlohekreis,0.89,1,0,0.0,871,47,5.4,773.16,41.72,0.77,112655,15.99,-0.89,45.3,0.0
 2020-09-30,Baden-Württemberg,Hohenlohekreis,0.89,1,0,0.0,870,47,5.4,772.27,41.72,0.77,112655,16.88,-0.89,45.3,-0.89
 2020-09-29,Baden-Württemberg,Hohenlohekreis,2.66,3,0,0.0,869,47,5.41,771.38,41.72,0.77,112655,17.77,1.77,46.19,1.77
 2020-09-28,Baden-Württemberg,Hohenlohekreis,5.33,6,0,0.0,866,47,5.43,768.72,41.72,0.77,112655,16.0,2.67,44.42,1.78

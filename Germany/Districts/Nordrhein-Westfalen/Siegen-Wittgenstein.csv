@@ -1,7 +1,9 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-04,Nordrhein-Westfalen,Siegen-Wittgenstein,0.72,2,0,0.0,762,8,1.05,273.89,2.88,0.27,278210,14.39,0.0,75.15,0.36
-2020-10-03,Nordrhein-Westfalen,Siegen-Wittgenstein,1.08,3,0,0.0,760,8,1.05,273.17,2.88,0.27,278210,14.39,-0.36,74.79,0.72
-2020-10-02,Nordrhein-Westfalen,Siegen-Wittgenstein,2.52,7,0,0.0,757,8,1.06,272.1,2.88,0.27,278210,14.75,0.0,74.07,1.8
+2020-10-06,Nordrhein-Westfalen,Siegen-Wittgenstein,5.03,14,0,0.0,791,8,1.01,284.32,2.88,0.28,278210,16.9,-0.36,84.49,3.95
+2020-10-05,Nordrhein-Westfalen,Siegen-Wittgenstein,5.03,14,0,0.0,777,8,1.03,279.29,2.88,0.28,278210,17.26,2.51,80.54,5.03
+2020-10-04,Nordrhein-Westfalen,Siegen-Wittgenstein,0.72,2,0,0.0,763,8,1.05,274.25,2.88,0.27,278210,14.75,0.0,75.51,0.36
+2020-10-03,Nordrhein-Westfalen,Siegen-Wittgenstein,1.08,3,0,0.0,761,8,1.05,273.53,2.88,0.27,278210,14.75,-0.36,75.15,0.72
+2020-10-02,Nordrhein-Westfalen,Siegen-Wittgenstein,2.88,8,0,0.0,758,8,1.06,272.46,2.88,0.27,278210,15.11,0.36,74.43,2.16
 2020-10-01,Nordrhein-Westfalen,Siegen-Wittgenstein,1.44,4,0,0.0,750,8,1.07,269.58,2.88,0.27,278210,14.75,-1.08,72.27,0.72
 2020-09-30,Nordrhein-Westfalen,Siegen-Wittgenstein,0.72,2,0,0.0,746,8,1.07,268.14,2.88,0.27,278210,15.83,-3.95,71.55,-0.36
 2020-09-29,Nordrhein-Westfalen,Siegen-Wittgenstein,5.39,15,0,0.0,744,8,1.08,267.42,2.88,0.27,278210,19.78,0.0,71.91,4.31

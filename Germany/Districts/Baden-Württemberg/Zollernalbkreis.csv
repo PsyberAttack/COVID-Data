@@ -1,6 +1,10 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-03,Baden-Württemberg,Zollernalbkreis,0.53,1,0,0.0,1427,78,5.47,753.58,41.19,0.75,189363,7.4,0.0,31.71,0.0
-2020-10-02,Baden-Württemberg,Zollernalbkreis,1.06,2,0,0.0,1426,78,5.47,753.05,41.19,0.75,189363,7.4,0.53,31.71,-1.05
+2020-10-07,Baden-Württemberg,Zollernalbkreis,1.06,2,0,0.0,1431,78,5.45,755.69,41.19,0.76,189363,4.76,-1.58,25.37,0.53
+2020-10-06,Baden-Württemberg,Zollernalbkreis,0.0,0,0,0.0,1429,78,5.46,754.64,41.19,0.75,189363,6.34,-0.53,24.84,-3.7
+2020-10-05,Baden-Württemberg,Zollernalbkreis,0.0,0,0,0.0,1429,78,5.46,754.64,41.19,0.75,189363,6.87,0.0,28.54,-2.64
+2020-10-04,Baden-Württemberg,Zollernalbkreis,0.0,0,0,0.0,1429,78,5.46,754.64,41.19,0.75,189363,6.87,-1.58,31.18,-1.58
+2020-10-03,Baden-Württemberg,Zollernalbkreis,0.53,1,0,0.0,1429,78,5.46,754.64,41.19,0.75,189363,8.45,0.0,32.76,0.0
+2020-10-02,Baden-Württemberg,Zollernalbkreis,2.11,4,0,0.0,1428,78,5.46,754.11,41.19,0.75,189363,8.45,1.58,32.76,0.0
 2020-10-01,Baden-Württemberg,Zollernalbkreis,1.06,2,0,0.0,1424,78,5.48,751.99,41.19,0.75,189363,6.87,0.53,32.76,-1.58
 2020-09-30,Baden-Württemberg,Zollernalbkreis,2.64,5,0,0.0,1422,78,5.49,750.94,41.19,0.75,189363,6.34,0.53,34.34,1.58
 2020-09-29,Baden-Württemberg,Zollernalbkreis,0.53,1,0,0.0,1417,78,5.5,748.3,41.19,0.75,189363,5.81,0.0,32.76,-3.17

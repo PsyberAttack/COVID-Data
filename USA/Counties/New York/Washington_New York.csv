@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-07,New York,Washington,1.63,1,0,0.0,311,14,4.5,508.19,22.88,0.51,61197,73.63,14.7,0.0,63.7,0.0
 2020-10-06,New York,Washington,4.9,3,0,0.0,310,14,4.52,506.56,22.88,0.51,61197,73.63,14.7,1.63,63.7,3.27
 2020-10-05,New York,Washington,0.0,0,0,0.0,307,14,4.56,501.66,22.88,0.5,61197,73.63,13.07,-4.9,60.43,0.0
 2020-10-04,New York,Washington,0.0,0,0,0.0,307,14,4.56,501.66,22.88,0.5,61197,73.63,17.97,0.0,60.43,-1.63

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-07,Ohio,Brown,2.29,1,0,0.0,302,3,0.99,692.63,6.88,0.69,43602,88.98,16.04,-4.59,137.59,-4.59
 2020-10-06,Ohio,Brown,2.29,1,0,0.0,301,3,1.0,690.34,6.88,0.69,43602,88.98,20.63,2.29,142.18,-4.59
 2020-10-05,Ohio,Brown,9.17,4,0,0.0,300,3,1.0,688.04,6.88,0.69,43602,88.98,18.34,4.58,146.77,6.88
 2020-10-04,Ohio,Brown,0.0,0,0,0.0,296,3,1.01,678.87,6.88,0.68,43602,88.98,13.76,-4.59,139.89,-2.29
