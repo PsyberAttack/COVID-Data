@@ -1,9 +1,11 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-06,Nordrhein-Westfalen,Paderborn,0.33,1,0,0.0,921,34,3.69,300.11,11.08,0.3,306890,2.29,-1.63,17.97,-1.95
-2020-10-05,Nordrhein-Westfalen,Paderborn,0.33,1,0,0.0,920,34,3.7,299.78,11.08,0.3,306890,3.92,0.0,19.92,-1.3
-2020-10-04,Nordrhein-Westfalen,Paderborn,0.0,0,0,0.0,919,34,3.7,299.46,11.08,0.3,306890,3.92,0.0,21.22,0.0
-2020-10-03,Nordrhein-Westfalen,Paderborn,0.0,0,0,0.0,919,34,3.7,299.46,11.08,0.3,306890,3.92,-0.33,21.22,-1.3
-2020-10-02,Nordrhein-Westfalen,Paderborn,0.33,1,0,0.0,919,34,3.7,299.46,11.08,0.3,306890,4.25,0.0,22.52,0.0
+2020-10-08,Nordrhein-Westfalen,Paderborn,0.33,1,0,0.0,927,34,3.67,302.06,11.08,0.3,306890,2.94,0.33,19.27,0.33
+2020-10-07,Nordrhein-Westfalen,Paderborn,0.65,2,0,0.0,926,34,3.67,301.74,11.08,0.3,306890,2.61,-0.65,18.94,0.0
+2020-10-06,Nordrhein-Westfalen,Paderborn,0.33,1,0,0.0,924,34,3.68,301.09,11.08,0.3,306890,3.26,-1.63,18.94,-1.95
+2020-10-05,Nordrhein-Westfalen,Paderborn,0.33,1,0,0.0,923,34,3.68,300.76,11.08,0.3,306890,4.89,0.0,20.89,-1.3
+2020-10-04,Nordrhein-Westfalen,Paderborn,0.65,2,0,0.0,922,34,3.69,300.43,11.08,0.3,306890,4.89,0.65,22.19,0.65
+2020-10-03,Nordrhein-Westfalen,Paderborn,0.0,0,0,0.0,920,34,3.7,299.78,11.08,0.3,306890,4.24,-0.33,21.54,-1.3
+2020-10-02,Nordrhein-Westfalen,Paderborn,0.65,2,0,0.0,920,34,3.7,299.78,11.08,0.3,306890,4.57,0.32,22.84,0.32
 2020-10-01,Nordrhein-Westfalen,Paderborn,0.0,0,0,0.0,918,34,3.7,299.13,11.08,0.3,306890,4.25,-1.63,22.52,-0.98
 2020-09-30,Nordrhein-Westfalen,Paderborn,1.3,4,0,0.0,918,34,3.7,299.13,11.08,0.3,306890,5.88,0.0,23.5,-0.33
 2020-09-29,Nordrhein-Westfalen,Paderborn,1.96,6,0,0.0,914,34,3.72,297.83,11.08,0.3,306890,5.88,-0.65,23.83,1.63

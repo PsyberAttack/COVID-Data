@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-08,Florida,Liberty,11.82,1,0,0.0,520,8,1.54,6148.75,94.6,6.15,8457,10.12,23.64,0.0,614.84,-212.85
 2020-10-07,Florida,Liberty,-11.82,-1,0,0.0,519,8,1.54,6136.93,94.6,6.14,8457,10.12,23.64,-11.82,827.69,-11.82
 2020-10-06,Florida,Liberty,0.0,0,0,0.0,520,8,1.54,6148.75,94.6,6.15,8457,10.12,35.46,-11.82,839.51,0.0
 2020-10-05,Florida,Liberty,11.82,1,0,0.0,520,8,1.54,6148.75,94.6,6.15,8457,10.12,47.28,11.82,839.51,-23.65

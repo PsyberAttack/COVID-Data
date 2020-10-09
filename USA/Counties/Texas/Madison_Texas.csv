@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-08,Texas,Madison,13.87,2,0,0.0,735,6,0.82,5096.38,41.6,5.1,14422,30.94,76.27,-6.93,249.62,13.87
 2020-10-07,Texas,Madison,0.0,0,0,0.0,733,6,0.82,5082.51,41.6,5.08,14422,30.94,83.2,-13.87,235.75,-20.8
 2020-10-06,Texas,Madison,34.67,5,0,0.0,733,6,0.82,5082.51,41.6,5.08,14422,30.94,97.07,55.47,256.55,34.67
 2020-10-05,Texas,Madison,0.0,0,0,0.0,728,6,0.82,5047.84,41.6,5.05,14422,30.94,41.6,-6.93,221.88,0.0

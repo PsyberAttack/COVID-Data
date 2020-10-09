@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-08,Massachusetts,Franklin,2.82,2,0,0.0,424,69,16.27,597.49,97.23,0.6,70963,101.49,16.92,2.82,39.48,2.82
 2020-10-07,Massachusetts,Franklin,2.82,2,0,0.0,422,69,16.35,594.68,97.23,0.59,70963,101.49,14.1,1.41,36.66,2.82
 2020-10-06,Massachusetts,Franklin,-1.41,-1,0,0.0,420,69,16.43,591.86,97.23,0.59,70963,101.49,12.69,-2.82,33.84,-1.41
 2020-10-05,Massachusetts,Franklin,0.0,0,1,1.41,421,69,16.39,593.27,97.23,0.59,70963,101.49,15.51,0.0,35.25,0.0

@@ -1,7 +1,9 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-06,Hessen,Waldeck-Frankenberg,2.55,4,0,0.0,277,5,1.81,176.49,3.19,0.18,156953,8.93,0.64,24.23,1.28
-2020-10-05,Hessen,Waldeck-Frankenberg,1.27,2,0,0.0,273,5,1.83,173.94,3.19,0.17,156953,8.29,-0.64,22.95,1.27
-2020-10-04,Hessen,Waldeck-Frankenberg,0.64,1,0,0.0,271,5,1.85,172.66,3.19,0.17,156953,8.93,0.64,21.68,0.64
+2020-10-08,Hessen,Waldeck-Frankenberg,0.64,1,0,0.0,279,5,1.79,177.76,3.19,0.18,156953,7.01,0.64,24.22,0.0
+2020-10-07,Hessen,Waldeck-Frankenberg,0.0,0,0,0.0,278,5,1.8,177.12,3.19,0.18,156953,6.37,-3.19,24.22,-0.64
+2020-10-06,Hessen,Waldeck-Frankenberg,2.55,4,0,0.0,278,5,1.8,177.12,3.19,0.18,156953,9.56,0.64,24.86,1.28
+2020-10-05,Hessen,Waldeck-Frankenberg,1.27,2,0,0.0,274,5,1.82,174.57,3.19,0.17,156953,8.92,-0.64,23.58,1.27
+2020-10-04,Hessen,Waldeck-Frankenberg,1.27,2,0,0.0,272,5,1.84,173.3,3.19,0.17,156953,9.56,1.27,22.31,1.27
 2020-10-03,Hessen,Waldeck-Frankenberg,0.64,1,0,0.0,270,5,1.85,172.03,3.19,0.17,156953,8.29,0.0,21.04,0.0
 2020-10-02,Hessen,Waldeck-Frankenberg,0.64,1,0,0.0,269,5,1.86,171.39,3.19,0.17,156953,8.29,0.0,21.04,0.0
 2020-10-01,Hessen,Waldeck-Frankenberg,0.0,0,0,0.0,268,5,1.87,170.75,3.19,0.17,156953,8.29,0.0,21.04,-0.64

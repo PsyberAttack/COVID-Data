@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-08,Virginia,Richmond,33.19,3,0,0.0,355,4,1.13,3927.86,44.26,3.93,9038,47.2,-11.07,11.06,232.34,33.19
 2020-10-07,Virginia,Richmond,-11.06,-1,0,0.0,352,4,1.14,3894.67,44.26,3.89,9038,47.2,-22.13,-11.06,199.15,-22.12
 2020-10-06,Virginia,Richmond,-44.26,-4,0,0.0,353,4,1.13,3905.73,44.26,3.91,9038,47.2,-11.07,-66.39,221.27,-55.32
 2020-10-05,Virginia,Richmond,-22.13,-2,0,0.0,357,4,1.12,3949.99,44.26,3.95,9038,47.2,55.32,-55.32,276.59,-33.19
