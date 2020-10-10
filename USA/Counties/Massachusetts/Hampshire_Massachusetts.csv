@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-09,Massachusetts,Hampshire,2.48,4,1,0.62,1349,149,11.05,836.04,92.34,0.84,161355,306.04,31.62,-13.01,96.08,1.86
 2020-10-08,Massachusetts,Hampshire,2.48,4,0,0.0,1345,148,11.0,833.57,91.72,0.83,161355,306.04,44.63,-11.15,94.22,1.24
 2020-10-07,Massachusetts,Hampshire,4.96,8,0,0.0,1341,148,11.04,831.09,91.72,0.83,161355,306.04,55.78,-4.96,92.98,4.96
 2020-10-06,Massachusetts,Hampshire,3.72,6,0,0.0,1333,148,11.1,826.13,91.72,0.83,161355,306.04,60.74,0.62,88.02,2.48

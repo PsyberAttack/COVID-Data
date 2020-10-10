@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-09,Texas,Camp,0.0,0,0,0.0,369,12,3.25,2831.27,92.07,2.83,13033,66.55,46.04,-23.02,291.57,-38.36
 2020-10-08,Texas,Camp,0.0,0,1,7.67,369,12,3.25,2831.27,92.07,2.83,13033,66.55,69.06,-7.67,329.93,0.0
 2020-10-07,Texas,Camp,23.02,3,0,0.0,369,11,2.98,2831.27,84.4,2.83,13033,66.55,76.73,15.35,329.93,-15.34
 2020-10-06,Texas,Camp,23.02,3,0,0.0,366,11,3.01,2808.26,84.4,2.81,13033,66.55,61.38,0.0,345.27,7.67

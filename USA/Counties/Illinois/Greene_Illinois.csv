@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-09,Illinois,Greene,7.67,1,0,0.0,242,15,6.2,1855.26,115.0,1.86,13044,24.02,23.0,0.0,460.0,-68.99
 2020-10-08,Illinois,Greene,0.0,0,1,7.67,241,15,6.22,1847.59,115.0,1.85,13044,24.02,23.0,-23.0,528.99,-84.33
 2020-10-07,Illinois,Greene,15.33,2,0,0.0,241,14,5.81,1847.59,107.33,1.85,13044,24.02,46.0,-23.0,613.32,7.66
 2020-10-06,Illinois,Greene,0.0,0,0,0.0,239,14,5.86,1832.26,107.33,1.83,13044,24.02,69.0,-7.67,605.66,-15.33
