@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-10,Illinois,Marion,34.56,13,1,2.66,736,7,0.95,1956.41,18.61,1.96,37620,65.72,297.72,-13.29,855.92,5.32
 2020-10-09,Illinois,Marion,61.14,23,1,2.66,723,6,0.83,1921.85,15.95,1.92,37620,65.72,311.01,31.9,850.6,18.61
 2020-10-08,Illinois,Marion,13.29,5,0,0.0,700,5,0.71,1860.71,13.29,1.86,37620,65.72,279.11,-45.19,831.99,-18.61
 2020-10-07,Illinois,Marion,106.33,40,2,5.32,695,5,0.72,1847.42,13.29,1.85,37620,65.72,324.3,95.7,850.6,87.72

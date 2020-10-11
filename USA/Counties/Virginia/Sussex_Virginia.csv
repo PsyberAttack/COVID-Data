@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-10,Virginia,Sussex,8.9,1,0,0.0,632,12,1.9,5624.28,106.79,5.62,11237,22.92,542.86,-17.8,2358.29,0.0
 2020-10-09,Virginia,Sussex,-8.9,-1,0,0.0,631,12,1.9,5615.38,106.79,5.62,11237,22.92,560.66,-409.36,2358.29,-35.6
 2020-10-08,Virginia,Sussex,177.98,20,0,0.0,632,12,1.9,5624.28,106.79,5.62,11237,22.92,970.02,115.69,2393.89,151.28
 2020-10-07,Virginia,Sussex,44.5,5,0,0.0,612,12,1.96,5446.29,106.79,5.45,11237,22.92,854.33,-17.79,2242.61,17.8
