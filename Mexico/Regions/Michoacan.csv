@@ -1,4 +1,6 @@
 date,country,region,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-10,Mexico,Michoacan,4.25,195,-26,-0.57,22089,1752,7.93,481.82,38.22,0.48,4584471,24.16,-2.34,100.7,0.08
+2020-10-09,Mexico,Michoacan,-6.37,-292,10,0.22,21894,1778,8.12,477.57,38.78,0.48,4584471,26.5,-8.9,100.62,-12.43
 2020-10-08,Mexico,Michoacan,3.05,140,12,0.26,22186,1768,7.97,483.94,38.56,0.48,4584471,35.4,-1.55,113.05,-0.51
 2020-10-07,Mexico,Michoacan,12.76,585,44,0.96,22046,1756,7.97,480.88,38.3,0.48,4584471,36.95,9.79,113.56,11.36
 2020-10-06,Mexico,Michoacan,1.85,85,18,0.39,21461,1712,7.98,468.12,37.34,0.47,4584471,27.16,-0.22,102.2,-3.56
