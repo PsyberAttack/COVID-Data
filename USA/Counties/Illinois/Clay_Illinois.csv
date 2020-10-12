@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-11,Illinois,Clay,22.64,3,0,0.0,246,1,0.41,1856.18,7.55,1.86,13253,28.3,415.01,0.0,882.86,7.55
 2020-10-10,Illinois,Clay,37.73,5,0,0.0,243,1,0.41,1833.55,7.55,1.83,13253,28.3,415.01,-37.72,875.31,-15.09
 2020-10-09,Illinois,Clay,15.09,2,0,0.0,238,1,0.42,1795.82,7.55,1.8,13253,28.3,452.73,-22.64,890.4,-15.09
 2020-10-08,Illinois,Clay,67.91,9,1,7.55,236,1,0.42,1780.73,7.55,1.78,13253,28.3,475.37,-37.73,905.49,52.82

@@ -1,11 +1,12 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-10,Berlin,Berlin Marzahn-Hellersdorf,1.96,5,0,0.0,797,7,0.88,311.76,2.74,0.31,255643,12.91,-1.17,64.92,1.96
-2020-10-09,Berlin,Berlin Marzahn-Hellersdorf,3.52,9,0,0.0,792,7,0.88,309.81,2.74,0.31,255643,14.08,-1.17,62.96,1.96
-2020-10-08,Berlin,Berlin Marzahn-Hellersdorf,1.17,3,0,0.0,783,7,0.89,306.29,2.74,0.31,255643,15.25,-1.57,61.0,-1.18
-2020-10-07,Berlin,Berlin Marzahn-Hellersdorf,2.35,6,0,0.0,780,7,0.9,305.11,2.74,0.31,255643,16.82,-1.56,62.18,1.57
-2020-10-06,Berlin,Berlin Marzahn-Hellersdorf,2.35,6,0,0.0,774,7,0.9,302.77,2.74,0.3,255643,18.38,-1.95,60.61,-0.39
-2020-10-05,Berlin,Berlin Marzahn-Hellersdorf,1.56,4,0,0.0,768,7,0.91,300.42,2.74,0.3,255643,20.33,-0.79,61.0,-1.18
-2020-10-04,Berlin,Berlin Marzahn-Hellersdorf,0.0,0,0,0.0,764,7,0.92,298.85,2.74,0.3,255643,21.12,-1.17,62.18,-1.96
+2020-10-11,Berlin,Berlin Marzahn-Hellersdorf,1.56,4,0,0.0,802,7,0.87,313.72,2.74,0.31,255643,14.47,1.17,66.48,1.17
+2020-10-10,Berlin,Berlin Marzahn-Hellersdorf,0.78,2,0,0.0,798,7,0.88,312.15,2.74,0.31,255643,13.3,-2.35,65.31,0.78
+2020-10-09,Berlin,Berlin Marzahn-Hellersdorf,3.52,9,0,0.0,796,7,0.88,311.37,2.74,0.31,255643,15.65,-1.17,64.53,1.96
+2020-10-08,Berlin,Berlin Marzahn-Hellersdorf,1.17,3,0,0.0,787,7,0.89,307.85,2.74,0.31,255643,16.82,-1.57,62.57,-1.18
+2020-10-07,Berlin,Berlin Marzahn-Hellersdorf,3.13,8,0,0.0,784,7,0.89,306.68,2.74,0.31,255643,18.39,-0.78,63.75,2.35
+2020-10-06,Berlin,Berlin Marzahn-Hellersdorf,2.35,6,0,0.0,776,7,0.9,303.55,2.74,0.3,255643,19.17,-1.95,61.4,-0.39
+2020-10-05,Berlin,Berlin Marzahn-Hellersdorf,1.96,5,0,0.0,770,7,0.91,301.2,2.74,0.3,255643,21.12,-0.39,61.79,-0.78
+2020-10-04,Berlin,Berlin Marzahn-Hellersdorf,0.39,1,0,0.0,765,7,0.92,299.25,2.74,0.3,255643,21.51,-0.78,62.57,-1.57
 2020-10-03,Berlin,Berlin Marzahn-Hellersdorf,3.13,8,0,0.0,764,7,0.92,298.85,2.74,0.3,255643,22.29,0.39,64.14,2.74
 2020-10-02,Berlin,Berlin Marzahn-Hellersdorf,4.69,12,0,0.0,756,7,0.93,295.72,2.74,0.3,255643,21.9,3.52,61.4,4.3
 2020-10-01,Berlin,Berlin Marzahn-Hellersdorf,2.74,7,0,0.0,744,7,0.94,291.03,2.74,0.29,255643,18.38,1.18,57.1,2.35

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-11,Virginia,Madison,0.0,0,0,0.0,117,3,2.56,880.03,22.56,0.88,13295,41.46,30.08,0.0,157.92,0.0
 2020-10-10,Virginia,Madison,7.52,1,0,0.0,117,3,2.56,880.03,22.56,0.88,13295,41.46,30.08,-15.04,157.92,0.0
 2020-10-09,Virginia,Madison,-7.52,-1,0,0.0,116,3,2.59,872.51,22.56,0.87,13295,41.46,45.12,-7.52,157.92,0.0
 2020-10-08,Virginia,Madison,15.04,2,0,0.0,117,3,2.56,880.03,22.56,0.88,13295,41.46,52.64,15.04,157.92,15.04

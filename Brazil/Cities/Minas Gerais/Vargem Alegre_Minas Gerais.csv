@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-11,Minas Gerais,Vargem Alegre,0.0,0,0,0.0,111,2,1.8,1712.96,30.86,1.71,6480,61.72,0.0,324.04,0.0
+2020-10-10,Minas Gerais,Vargem Alegre,0.0,0,0,0.0,111,2,1.8,1712.96,30.86,1.71,6480,61.72,-30.86,324.04,-15.43
+2020-10-09,Minas Gerais,Vargem Alegre,0.0,0,0,0.0,111,2,1.8,1712.96,30.86,1.71,6480,92.58,-15.43,339.47,0.0
+2020-10-08,Minas Gerais,Vargem Alegre,0.0,0,1,15.43,111,2,1.8,1712.96,30.86,1.71,6480,108.01,0.0,339.47,-30.86
 2020-10-07,Minas Gerais,Vargem Alegre,30.86,2,0,0.0,111,1,0.9,1712.96,15.43,1.71,6480,108.01,15.43,370.33,30.86
 2020-10-05,Minas Gerais,Vargem Alegre,30.86,2,0,0.0,109,1,0.92,1682.1,15.43,1.68,6480,92.58,-77.16,339.47,30.86
 2020-10-04,Minas Gerais,Vargem Alegre,0.0,0,0,0.0,107,1,0.93,1651.23,15.43,1.65,6480,169.74,0.0,308.61,-30.86

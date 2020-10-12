@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-11,Bahia,Quijingue,0.0,0,0,0.0,82,2,2.44,297.32,7.25,0.3,27580,39.89,0.0,105.15,0.0
+2020-10-10,Bahia,Quijingue,7.25,2,0,0.0,82,2,2.44,297.32,7.25,0.3,27580,39.89,-3.63,105.15,-7.25
 2020-10-09,Bahia,Quijingue,0.0,0,0,0.0,80,2,2.5,290.07,7.25,0.29,27580,43.52,-21.75,112.4,0.0
 2020-10-08,Bahia,Quijingue,3.63,1,0,0.0,80,2,2.5,290.07,7.25,0.29,27580,65.27,-7.25,112.4,3.63
 2020-10-07,Bahia,Quijingue,29.01,8,0,0.0,79,2,2.53,286.44,7.25,0.29,27580,72.52,14.51,108.77,25.38

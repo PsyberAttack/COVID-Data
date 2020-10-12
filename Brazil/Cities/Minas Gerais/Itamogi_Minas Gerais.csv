@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-11,Minas Gerais,Itamogi,0.0,0,0,0.0,70,1,1.43,686.81,9.81,0.69,10192,58.86,0.0,490.55,0.0
+2020-10-10,Minas Gerais,Itamogi,0.0,0,0,0.0,70,1,1.43,686.81,9.81,0.69,10192,58.86,0.0,490.55,0.0
+2020-10-09,Minas Gerais,Itamogi,0.0,0,-1,-9.81,70,1,1.43,686.81,9.81,0.69,10192,58.86,0.0,490.55,-9.81
+2020-10-08,Minas Gerais,Itamogi,9.81,1,0,0.0,70,2,2.86,686.81,19.62,0.69,10192,58.86,-19.62,500.36,-29.44
 2020-10-07,Minas Gerais,Itamogi,29.43,3,1,9.81,69,2,2.9,677.0,19.62,0.68,10192,78.48,29.43,529.8,29.43
 2020-10-05,Minas Gerais,Itamogi,19.62,2,0,0.0,66,1,1.52,647.57,9.81,0.65,10192,49.05,-58.87,500.37,19.62
 2020-10-04,Minas Gerais,Itamogi,0.0,0,0,0.0,64,1,1.56,627.94,9.81,0.63,10192,107.92,0.0,480.75,0.0

@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-11,Minas Gerais,Santos Dumont,0.0,0,0,0.0,250,7,2.8,537.78,15.06,0.54,46487,17.21,0.0,107.55,0.0
+2020-10-10,Minas Gerais,Santos Dumont,0.0,0,0,0.0,250,7,2.8,537.78,15.06,0.54,46487,17.21,-4.3,107.55,-4.3
+2020-10-09,Minas Gerais,Santos Dumont,0.0,0,1,2.15,250,7,2.8,537.78,15.06,0.54,46487,21.51,-2.15,111.85,0.0
+2020-10-08,Minas Gerais,Santos Dumont,0.0,0,0,0.0,250,6,2.4,537.78,12.91,0.54,46487,23.66,-6.45,111.85,-10.76
 2020-10-07,Minas Gerais,Santos Dumont,2.15,1,0,0.0,250,6,2.4,537.78,12.91,0.54,46487,30.11,2.15,122.61,2.15
 2020-10-05,Minas Gerais,Santos Dumont,15.06,7,0,0.0,249,6,2.41,535.63,12.91,0.54,46487,27.96,0.0,120.46,15.06
 2020-10-04,Minas Gerais,Santos Dumont,0.0,0,0,0.0,242,6,2.48,520.58,12.91,0.52,46487,27.96,0.0,105.4,-4.3

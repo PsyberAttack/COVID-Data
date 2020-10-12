@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-11,Minas Gerais,Carmo do Paranaíba,0.0,0,0,0.0,290,7,2.41,956.18,23.08,0.96,30329,-29.68,0.0,141.77,-13.19
+2020-10-10,Minas Gerais,Carmo do Paranaíba,0.0,0,0,0.0,290,7,2.41,956.18,23.08,0.96,30329,-29.68,0.0,154.96,-19.78
+2020-10-09,Minas Gerais,Carmo do Paranaíba,26.38,8,0,0.0,290,7,2.41,956.18,23.08,0.96,30329,-29.68,26.38,174.74,26.38
+2020-10-08,Minas Gerais,Carmo do Paranaíba,0.0,0,2,6.59,282,7,2.48,929.8,23.08,0.93,30329,-56.06,0.0,148.36,-19.78
 2020-10-07,Minas Gerais,Carmo do Paranaíba,29.67,9,0,0.0,282,5,1.77,929.8,16.49,0.93,30329,-56.06,-85.73,168.14,29.67
 2020-10-05,Minas Gerais,Carmo do Paranaíba,-85.73,-26,0,0.0,273,5,1.83,900.13,16.49,0.9,30329,29.67,-89.03,138.47,-85.73
 2020-10-04,Minas Gerais,Carmo do Paranaíba,0.0,0,0,0.0,299,5,1.67,985.86,16.49,0.99,30329,118.7,0.0,224.2,-6.59

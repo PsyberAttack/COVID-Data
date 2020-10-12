@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-11,Indiana,Jay,24.08,5,0,0.0,247,2,0.81,1189.56,9.63,1.19,20764,54.09,96.32,-33.71,423.81,14.45
 2020-10-10,Indiana,Jay,4.82,1,0,0.0,242,2,0.83,1165.48,9.63,1.17,20764,54.09,130.03,-9.63,409.36,-4.81
 2020-10-09,Indiana,Jay,24.08,5,1,4.82,241,2,0.83,1160.66,9.63,1.16,20764,54.09,139.66,-9.63,414.17,14.45
 2020-10-08,Indiana,Jay,19.26,4,0,0.0,236,1,0.42,1136.58,4.82,1.14,20764,54.09,149.29,-9.64,399.72,14.44

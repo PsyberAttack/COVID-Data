@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-11,Minas Gerais,Governador Valadares,0.0,0,0,0.0,7752,266,3.43,2769.71,95.04,2.77,279885,106.47,0.0,433.75,-20.01
+2020-10-10,Minas Gerais,Governador Valadares,0.0,0,0,0.0,7752,266,3.43,2769.71,95.04,2.77,279885,106.47,-28.23,453.76,-25.01
+2020-10-09,Minas Gerais,Governador Valadares,16.08,45,0,0.0,7752,266,3.43,2769.71,95.04,2.77,279885,134.7,-8.57,478.77,16.08
+2020-10-08,Minas Gerais,Governador Valadares,15.72,44,1,0.36,7707,266,3.45,2753.63,95.04,2.75,279885,143.27,-9.29,462.69,-25.73
 2020-10-07,Minas Gerais,Governador Valadares,26.08,73,4,1.43,7663,265,3.46,2737.91,94.68,2.74,279885,152.56,22.15,488.42,26.08
 2020-10-05,Minas Gerais,Governador Valadares,48.59,136,3,1.07,7590,261,3.44,2711.83,93.25,2.71,279885,130.41,20.36,462.34,48.59
 2020-10-04,Minas Gerais,Governador Valadares,0.0,0,0,0.0,7454,258,3.46,2663.24,92.18,2.66,279885,110.05,0.0,413.75,-30.37

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-11,Virginia,Floyd,6.33,1,0,0.0,224,16,7.14,1418.17,101.3,1.42,15795,41.47,69.63,0.0,272.2,-12.66
 2020-10-10,Virginia,Floyd,12.66,2,0,0.0,223,16,7.17,1411.84,101.3,1.41,15795,41.47,69.63,-12.66,284.86,-25.33
 2020-10-09,Virginia,Floyd,18.99,3,2,12.66,221,16,7.24,1399.18,101.3,1.4,15795,41.47,82.29,6.33,310.19,-19.0
 2020-10-08,Virginia,Floyd,12.66,2,1,6.33,218,14,6.42,1380.18,88.64,1.38,15795,41.47,75.96,6.33,329.19,-19.0

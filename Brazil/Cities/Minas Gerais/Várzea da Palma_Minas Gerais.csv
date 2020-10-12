@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-11,Minas Gerais,Várzea da Palma,0.0,0,0,0.0,452,8,1.77,1144.51,20.26,1.14,39493,86.09,0.0,638.1,0.0
+2020-10-10,Minas Gerais,Várzea da Palma,0.0,0,0,0.0,452,8,1.77,1144.51,20.26,1.14,39493,86.09,-20.26,638.1,0.0
+2020-10-09,Minas Gerais,Várzea da Palma,0.0,0,2,5.06,452,8,1.77,1144.51,20.26,1.14,39493,106.35,-32.92,638.1,0.0
+2020-10-08,Minas Gerais,Várzea da Palma,15.19,6,0,0.0,452,6,1.33,1144.51,15.19,1.14,39493,139.27,-12.66,638.1,-55.71
 2020-10-07,Minas Gerais,Várzea da Palma,20.26,8,0,0.0,446,6,1.35,1129.31,15.19,1.13,39493,151.93,20.26,693.81,20.26
 2020-10-05,Minas Gerais,Várzea da Palma,50.64,20,0,0.0,438,6,1.37,1109.06,15.19,1.11,39493,131.67,20.25,673.55,50.64
 2020-10-04,Minas Gerais,Várzea da Palma,0.0,0,0,0.0,418,6,1.44,1058.42,15.19,1.06,39493,111.42,0.0,622.91,-15.19

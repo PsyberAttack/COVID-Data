@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-11,Minas Gerais,Fervedouro,0.0,0,0,0.0,94,1,1.06,854.08,9.09,0.85,11006,18.18,0.0,318.02,0.0
+2020-10-10,Minas Gerais,Fervedouro,0.0,0,0,0.0,94,1,1.06,854.08,9.09,0.85,11006,18.18,-27.26,318.02,0.0
+2020-10-09,Minas Gerais,Fervedouro,9.09,1,0,0.0,94,1,1.06,854.08,9.09,0.85,11006,45.44,9.09,318.02,9.09
+2020-10-08,Minas Gerais,Fervedouro,-9.09,-1,0,0.0,93,1,1.08,844.99,9.09,0.84,11006,36.35,-9.09,308.93,-9.09
 2020-10-07,Minas Gerais,Fervedouro,9.09,1,0,0.0,94,1,1.06,854.08,9.09,0.85,11006,45.44,-9.08,318.02,9.09
 2020-10-05,Minas Gerais,Fervedouro,9.09,1,0,0.0,93,1,1.08,844.99,9.09,0.84,11006,54.52,0.0,308.93,9.09
 2020-10-04,Minas Gerais,Fervedouro,0.0,0,0,0.0,92,1,1.09,835.91,9.09,0.84,11006,54.52,0.0,299.84,0.0

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-11,Minnesota,Morrison,81.4,27,0,0.0,434,3,0.69,1308.45,9.04,1.31,33169,29.48,316.56,36.18,795.89,69.34
 2020-10-10,Minnesota,Morrison,30.15,10,0,0.0,407,3,0.74,1227.05,9.04,1.23,33169,29.48,280.38,-6.03,726.55,12.06
 2020-10-09,Minnesota,Morrison,54.27,18,0,0.0,397,3,0.76,1196.9,9.04,1.2,33169,29.48,286.41,27.14,714.49,30.15
 2020-10-08,Minnesota,Morrison,42.21,14,0,0.0,379,3,0.79,1142.63,9.04,1.14,33169,29.48,259.27,3.02,684.34,39.2

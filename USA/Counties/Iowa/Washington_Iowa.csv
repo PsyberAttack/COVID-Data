@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-11,Iowa,Washington,0.0,0,0,0.0,555,11,1.98,2506.66,49.68,2.51,22141,38.92,180.67,-4.52,745.25,-9.03
 2020-10-10,Iowa,Washington,31.62,7,0,0.0,555,11,1.98,2506.66,49.68,2.51,22141,38.92,185.19,4.52,754.28,27.1
 2020-10-09,Iowa,Washington,22.58,5,0,0.0,548,11,2.01,2475.05,49.68,2.48,22141,38.92,180.67,-9.04,727.18,-18.07
 2020-10-08,Iowa,Washington,13.55,3,0,0.0,543,11,2.03,2452.46,49.68,2.45,22141,38.92,189.71,-22.58,745.25,9.03
