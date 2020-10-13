@@ -1,4 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-12,Bayern,Ingolstadt,2.19,3,0,0.0,874,39,4.46,638.04,28.47,0.64,136981,22.63,0.0,93.44,0.73
+2020-10-11,Bayern,Ingolstadt,0.0,0,0,0.0,871,39,4.48,635.85,28.47,0.64,136981,22.63,-3.65,92.71,-3.65
 2020-10-10,Bayern,Ingolstadt,0.73,1,0,0.0,871,39,4.48,635.85,28.47,0.64,136981,26.28,-7.3,96.36,0.73
 2020-10-09,Bayern,Ingolstadt,5.84,8,0,0.0,870,39,4.48,635.12,28.47,0.64,136981,33.58,2.19,95.63,2.19
 2020-10-08,Bayern,Ingolstadt,5.11,7,0,0.0,862,39,4.52,629.28,28.47,0.63,136981,31.39,1.46,93.44,2.19

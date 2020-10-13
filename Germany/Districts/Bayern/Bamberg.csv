@@ -1,4 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-12,Bayern,Bamberg,0.68,1,0,0.0,587,38,6.47,399.09,25.84,0.4,147086,12.92,0.0,53.04,-2.04
+2020-10-11,Bayern,Bamberg,0.0,0,0,0.0,586,38,6.48,398.41,25.84,0.4,147086,12.92,-1.36,55.08,0.0
 2020-10-10,Bayern,Bamberg,0.68,1,0,0.0,586,38,6.48,398.41,25.84,0.4,147086,14.28,-2.72,55.08,0.0
 2020-10-09,Bayern,Bamberg,4.08,6,0,0.0,585,38,6.5,397.73,25.84,0.4,147086,17.0,2.04,55.08,4.08
 2020-10-08,Bayern,Bamberg,2.04,3,0,0.0,579,38,6.56,393.65,25.84,0.39,147086,14.96,0.0,51.0,0.68

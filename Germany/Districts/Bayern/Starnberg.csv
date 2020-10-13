@@ -1,5 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-10,Bayern,Starnberg,5.14,7,0,0.0,841,13,1.55,617.96,9.55,0.62,136092,28.64,4.41,76.36,0.0
+2020-10-11,Bayern,Starnberg,4.41,6,0,0.0,846,13,1.54,621.64,9.55,0.62,136092,30.12,2.21,77.84,2.21
+2020-10-10,Bayern,Starnberg,4.41,6,0,0.0,840,13,1.55,617.23,9.55,0.62,136092,27.91,3.68,75.63,-0.73
 2020-10-09,Bayern,Starnberg,5.88,8,0,0.0,834,13,1.56,612.82,9.55,0.61,136092,24.23,3.68,76.36,2.21
 2020-10-08,Bayern,Starnberg,8.08,11,0,0.0,826,13,1.57,606.94,9.55,0.61,136092,20.55,5.88,74.15,4.41
 2020-10-07,Bayern,Starnberg,2.2,3,0,0.0,815,13,1.6,598.86,9.55,0.6,136092,14.67,1.47,69.74,-1.47
