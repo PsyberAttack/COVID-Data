@@ -1,4 +1,6 @@
 date,country,region,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-12,Mexico,Chihuahua,1.91,68,0,0.0,13004,1483,11.4,365.63,41.7,0.37,3556574,34.53,0.05,112.44,1.01
+2020-10-11,Mexico,Chihuahua,0.9,32,2,0.06,12936,1483,11.46,363.72,41.7,0.36,3556574,34.48,-1.07,111.43,-0.08
 2020-10-10,Mexico,Chihuahua,4.75,169,6,0.17,12904,1481,11.48,362.82,41.64,0.36,3556574,35.55,-0.56,111.51,1.77
 2020-10-09,Mexico,Chihuahua,5.15,183,13,0.37,12735,1475,11.58,358.07,41.47,0.36,3556574,36.11,1.33,109.74,1.66
 2020-10-08,Mexico,Chihuahua,7.23,257,15,0.42,12552,1462,11.65,352.92,41.11,0.35,3556574,34.78,1.61,108.08,5.6

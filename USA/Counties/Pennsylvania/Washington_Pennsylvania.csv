@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-12,Pennsylvania,Washington,8.68,18,1,0.48,1538,31,2.02,741.76,14.95,0.74,207346,241.95,42.92,1.45,158.18,-0.97
 2020-10-11,Pennsylvania,Washington,6.27,13,0,0.0,1520,30,1.97,733.07,14.47,0.73,207346,241.95,41.47,-8.68,159.15,6.27
 2020-10-10,Pennsylvania,Washington,6.27,13,0,0.0,1507,30,1.99,726.8,14.47,0.73,207346,241.95,50.15,6.27,152.88,0.0
 2020-10-09,Pennsylvania,Washington,4.82,10,0,0.0,1494,30,2.01,720.53,14.47,0.72,207346,241.95,43.88,-2.41,152.88,-1.93

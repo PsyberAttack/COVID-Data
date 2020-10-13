@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-12,Tennessee,Meigs,8.13,1,0,0.0,258,4,1.55,2096.54,32.5,2.1,12306,63.06,146.27,0.0,438.81,-8.12
 2020-10-11,Tennessee,Meigs,24.38,3,0,0.0,257,4,1.56,2088.41,32.5,2.09,12306,63.06,146.27,-16.25,446.93,8.13
 2020-10-10,Tennessee,Meigs,16.25,2,1,8.13,254,4,1.57,2064.03,32.5,2.06,12306,63.06,162.52,16.25,438.8,16.25
 2020-10-09,Tennessee,Meigs,16.25,2,0,0.0,252,3,1.19,2047.78,24.38,2.05,12306,63.06,146.27,0.0,422.55,-56.89

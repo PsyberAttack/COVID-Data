@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-12,Indiana,Montgomery,2.61,1,0,0.0,535,23,4.3,1395.19,59.98,1.4,38346,75.99,52.16,5.22,104.32,0.0
 2020-10-11,Indiana,Montgomery,13.04,5,0,0.0,534,23,4.31,1392.58,59.98,1.39,38346,75.99,46.94,10.43,104.32,7.82
 2020-10-10,Indiana,Montgomery,23.47,9,0,0.0,529,23,4.35,1379.54,59.98,1.38,38346,75.99,36.51,23.47,96.5,10.43
 2020-10-09,Indiana,Montgomery,7.82,3,0,0.0,520,23,4.42,1356.07,59.98,1.36,38346,75.99,13.04,7.82,86.07,-20.87

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-12,California,Orange,3.64,116,0,0.0,57595,1341,2.33,1807.77,42.09,1.81,3185968,4018.72,39.2,-0.13,170.39,2.23
 2020-10-11,California,Orange,7.97,254,1,0.03,57479,1341,2.33,1804.13,42.09,1.8,3185968,4018.72,39.33,-2.17,168.16,2.16
 2020-10-10,California,Orange,7.03,224,24,0.75,57225,1340,2.34,1796.16,42.06,1.8,3185968,4018.72,41.5,-0.97,166.0,1.44
 2020-10-09,California,Orange,6.31,201,10,0.31,57001,1316,2.31,1789.13,41.31,1.79,3185968,4018.72,42.47,-0.31,164.56,1.32

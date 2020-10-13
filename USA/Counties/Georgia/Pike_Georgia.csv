@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-12,Georgia,Pike,10.73,2,0,0.0,365,11,3.01,1958.79,59.03,1.96,18634,86.23,80.51,0.0,364.97,10.73
 2020-10-11,Georgia,Pike,5.37,1,0,0.0,363,11,3.03,1948.05,59.03,1.95,18634,86.23,80.51,0.0,354.24,5.37
 2020-10-10,Georgia,Pike,0.0,0,-1,-5.37,362,11,3.04,1942.69,59.03,1.94,18634,86.23,80.51,0.0,348.87,-5.37
 2020-10-09,Georgia,Pike,21.47,4,1,5.37,362,12,3.31,1942.69,64.4,1.94,18634,86.23,80.51,0.0,354.24,-5.36
