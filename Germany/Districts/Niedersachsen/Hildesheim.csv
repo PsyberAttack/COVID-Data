@@ -1,6 +1,9 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-09,Niedersachsen,Hildesheim,1.45,4,0,0.0,635,10,1.57,229.58,3.62,0.23,276594,14.84,-1.08,42.3,0.73
-2020-10-08,Niedersachsen,Hildesheim,2.17,6,0,0.0,631,10,1.58,228.13,3.62,0.23,276594,15.92,0.72,41.57,1.45
+2020-10-12,Niedersachsen,Hildesheim,1.45,4,0,0.0,644,10,1.55,232.83,3.62,0.23,276594,10.49,0.0,41.94,0.37
+2020-10-11,Niedersachsen,Hildesheim,0.36,1,0,0.0,640,10,1.56,231.39,3.62,0.23,276594,10.49,-1.09,41.57,-1.45
+2020-10-10,Niedersachsen,Hildesheim,0.36,1,0,0.0,639,10,1.56,231.02,3.62,0.23,276594,11.58,-4.34,43.02,-0.36
+2020-10-09,Niedersachsen,Hildesheim,2.17,6,0,0.0,638,10,1.57,230.66,3.62,0.23,276594,15.92,-0.36,43.38,1.45
+2020-10-08,Niedersachsen,Hildesheim,2.53,7,0,0.0,632,10,1.58,228.49,3.62,0.23,276594,16.28,1.08,41.93,1.81
 2020-10-07,Niedersachsen,Hildesheim,1.45,4,0,0.0,625,10,1.6,225.96,3.62,0.23,276594,15.2,0.73,40.12,1.09
 2020-10-06,Niedersachsen,Hildesheim,2.17,6,0,0.0,621,10,1.61,224.52,3.62,0.22,276594,14.47,1.81,39.03,1.45
 2020-10-05,Niedersachsen,Hildesheim,1.45,4,0,0.0,615,10,1.63,222.35,3.62,0.22,276594,12.66,0.37,37.58,-1.44

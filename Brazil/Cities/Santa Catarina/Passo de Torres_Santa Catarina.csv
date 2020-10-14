@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-13,Santa Catarina,Passo de Torres,0.0,0,0,0.0,214,2,0.93,2425.48,22.67,2.43,8823,79.34,0.0,510.03,11.33
+2020-10-12,Santa Catarina,Passo de Torres,0.0,0,0,0.0,214,2,0.93,2425.48,22.67,2.43,8823,79.34,-34.0,498.7,0.0
+2020-10-11,Santa Catarina,Passo de Torres,0.0,0,0,0.0,214,2,0.93,2425.48,22.67,2.43,8823,113.34,0.0,498.7,-11.33
+2020-10-10,Santa Catarina,Passo de Torres,11.33,1,0,0.0,214,2,0.93,2425.48,22.67,2.43,8823,113.34,11.33,510.03,-11.34
 2020-10-09,Santa Catarina,Passo de Torres,22.67,2,0,0.0,213,2,0.94,2414.14,22.67,2.41,8823,102.01,22.67,521.37,22.67
 2020-10-08,Santa Catarina,Passo de Torres,22.67,2,0,0.0,211,2,0.95,2391.48,22.67,2.39,8823,79.34,22.67,498.7,-11.33
 2020-10-07,Santa Catarina,Passo de Torres,22.67,2,0,0.0,209,2,0.96,2368.81,22.67,2.37,8823,56.67,22.67,510.03,0.0
