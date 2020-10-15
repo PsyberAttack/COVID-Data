@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-12,Ceará,Deputado Irapuan Pinheiro,20.78,2,0,0.0,216,2,0.93,2244.16,20.78,2.24,9625,155.85,20.78,800.03,20.78
+2020-10-13,Ceará,Deputado Irapuan Pinheiro,0.0,0,1,10.39,216,3,1.39,2244.16,31.17,2.24,9625,93.51,-20.78,706.52,-93.51
+2020-10-12,Ceará,Deputado Irapuan Pinheiro,0.0,0,0,0.0,216,2,0.93,2244.16,20.78,2.24,9625,114.29,-41.56,800.03,0.0
+2020-10-11,Ceará,Deputado Irapuan Pinheiro,20.78,2,0,0.0,216,2,0.93,2244.16,20.78,2.24,9625,155.85,20.78,800.03,20.78
 2020-10-10,Ceará,Deputado Irapuan Pinheiro,0.0,0,0,0.0,214,2,0.93,2223.38,20.78,2.22,9625,135.07,0.0,779.25,-72.73
 2020-10-09,Ceará,Deputado Irapuan Pinheiro,0.0,0,0,0.0,214,2,0.93,2223.38,20.78,2.22,9625,135.07,0.0,851.98,-166.23
 2020-10-08,Ceará,Deputado Irapuan Pinheiro,51.95,5,0,0.0,214,2,0.93,2223.38,20.78,2.22,9625,135.07,31.17,1018.21,-31.17

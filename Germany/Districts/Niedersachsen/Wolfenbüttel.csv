@@ -1,5 +1,9 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-10,Niedersachsen,Wolfenbüttel,0.83,1,0,0.0,246,14,5.69,205.07,11.67,0.21,119960,5.83,0.0,21.65,0.83
+2020-10-14,Niedersachsen,Wolfenbüttel,0.83,1,0,0.0,248,14,5.65,206.74,11.67,0.21,119960,5.84,0.0,21.65,0.83
+2020-10-13,Niedersachsen,Wolfenbüttel,0.0,0,0,0.0,247,14,5.67,205.9,11.67,0.21,119960,5.84,-0.83,20.82,0.0
+2020-10-12,Niedersachsen,Wolfenbüttel,0.0,0,0,0.0,247,14,5.67,205.9,11.67,0.21,119960,6.67,0.0,20.82,-1.67
+2020-10-11,Niedersachsen,Wolfenbüttel,0.0,0,0,0.0,247,14,5.67,205.9,11.67,0.21,119960,6.67,0.0,22.49,0.0
+2020-10-10,Niedersachsen,Wolfenbüttel,1.67,2,0,0.0,247,14,5.67,205.9,11.67,0.21,119960,6.67,0.84,22.49,1.67
 2020-10-09,Niedersachsen,Wolfenbüttel,1.67,2,0,0.0,245,14,5.71,204.23,11.67,0.2,119960,5.83,1.67,20.82,0.84
 2020-10-08,Niedersachsen,Wolfenbüttel,1.67,2,0,0.0,243,14,5.76,202.57,11.67,0.2,119960,4.16,0.84,19.98,1.67
 2020-10-07,Niedersachsen,Wolfenbüttel,0.83,1,0,0.0,241,14,5.81,200.9,11.67,0.2,119960,3.32,0.83,18.31,0.83
