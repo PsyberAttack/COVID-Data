@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-13,Pernambuco,Ilha de Itamaracá,0.0,0,0,0.0,368,14,3.8,1401.48,53.32,1.4,26258,3.81,0.0,87.61,0.0
+2020-10-14,Pernambuco,Ilha de Itamaracá,0.0,0,0,0.0,368,14,3.8,1401.48,53.32,1.4,26258,3.81,0.0,64.76,0.0
+2020-10-13,Pernambuco,Ilha de Itamaracá,0.0,0,0,0.0,368,14,3.8,1401.48,53.32,1.4,26258,3.81,0.0,64.76,-22.85
+2020-10-12,Pernambuco,Ilha de Itamaracá,0.0,0,0,0.0,368,14,3.8,1401.48,53.32,1.4,26258,3.81,0.0,87.61,0.0
 2020-10-11,Pernambuco,Ilha de Itamaracá,3.81,1,0,0.0,368,14,3.8,1401.48,53.32,1.4,26258,3.81,3.81,87.61,3.81
 2020-10-10,Pernambuco,Ilha de Itamaracá,0.0,0,0,0.0,367,14,3.81,1397.67,53.32,1.4,26258,0.0,-3.81,83.8,0.0
 2020-10-09,Pernambuco,Ilha de Itamaracá,0.0,0,0,0.0,367,14,3.81,1397.67,53.32,1.4,26258,3.81,0.0,83.8,0.0

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-14,Mississippi,Montgomery,49.89,5,0,0.0,520,23,4.42,5188.07,229.47,5.19,10023,24.63,219.51,39.91,758.29,-9.97
 2020-10-13,Mississippi,Montgomery,39.91,4,0,0.0,515,23,4.47,5138.18,229.47,5.14,10023,24.63,179.6,-19.95,768.26,39.91
 2020-10-12,Mississippi,Montgomery,0.0,0,0,0.0,511,23,4.5,5098.27,229.47,5.1,10023,24.63,199.55,-9.98,728.35,-9.98
 2020-10-11,Mississippi,Montgomery,0.0,0,1,9.98,511,23,4.5,5098.27,229.47,5.1,10023,24.63,209.53,-59.86,738.33,0.0

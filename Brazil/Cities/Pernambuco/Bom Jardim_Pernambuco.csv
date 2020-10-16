@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-13,Pernambuco,Bom Jardim,2.55,1,0,0.0,713,31,4.35,1819.62,79.11,1.82,39184,20.41,2.55,61.23,2.55
+2020-10-14,Pernambuco,Bom Jardim,2.55,1,0,0.0,714,31,4.34,1822.17,79.11,1.82,39184,2.55,-15.31,79.1,-2.55
+2020-10-13,Pernambuco,Bom Jardim,2.55,1,0,0.0,713,31,4.35,1819.62,79.11,1.82,39184,17.86,0.0,81.65,22.97
+2020-10-12,Pernambuco,Bom Jardim,0.0,0,0,0.0,712,31,4.35,1817.07,79.11,1.82,39184,17.86,0.0,58.68,0.0
 2020-10-11,Pernambuco,Bom Jardim,-15.31,-6,0,0.0,712,31,4.35,1817.07,79.11,1.82,39184,17.86,-15.31,58.68,-5.1
 2020-10-10,Pernambuco,Bom Jardim,0.0,0,0,0.0,718,31,4.32,1832.38,79.11,1.83,39184,33.17,0.0,63.78,12.76
 2020-10-09,Pernambuco,Bom Jardim,12.76,5,0,0.0,718,31,4.32,1832.38,79.11,1.83,39184,33.17,-10.21,51.02,-43.39

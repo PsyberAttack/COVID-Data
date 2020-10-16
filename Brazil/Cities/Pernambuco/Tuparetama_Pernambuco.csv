@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-13,Pernambuco,Tuparetama,0.0,0,0,0.0,68,5,7.35,829.07,60.96,0.83,8202,36.57,0.0,121.91,0.0
+2020-10-14,Pernambuco,Tuparetama,85.35,7,0,0.0,75,5,6.67,914.41,60.96,0.91,8202,121.92,85.35,170.68,85.35
+2020-10-13,Pernambuco,Tuparetama,0.0,0,0,0.0,68,5,7.35,829.07,60.96,0.83,8202,36.57,0.0,85.33,-36.58
+2020-10-12,Pernambuco,Tuparetama,0.0,0,0,0.0,68,5,7.35,829.07,60.96,0.83,8202,36.57,0.0,121.91,0.0
 2020-10-11,Pernambuco,Tuparetama,0.0,0,0,0.0,68,5,7.35,829.07,60.96,0.83,8202,36.57,0.0,121.91,0.0
 2020-10-10,Pernambuco,Tuparetama,12.19,1,0,0.0,68,5,7.35,829.07,60.96,0.83,8202,36.57,12.19,121.91,12.19
 2020-10-09,Pernambuco,Tuparetama,12.19,1,0,0.0,67,5,7.46,816.87,60.96,0.82,8202,24.38,12.19,109.72,-12.19

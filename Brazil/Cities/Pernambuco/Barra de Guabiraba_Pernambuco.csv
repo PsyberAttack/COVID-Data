@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-13,Pernambuco,Barra de Guabiraba,0.0,0,0,0.0,190,11,5.79,1320.82,76.47,1.32,14385,0.0,0.0,41.71,0.0
+2020-10-14,Pernambuco,Barra de Guabiraba,13.9,2,0,0.0,192,11,5.73,1334.72,76.47,1.33,14385,20.85,13.9,55.61,13.9
+2020-10-13,Pernambuco,Barra de Guabiraba,0.0,0,0,0.0,190,11,5.79,1320.82,76.47,1.32,14385,6.95,6.95,41.71,0.0
+2020-10-12,Pernambuco,Barra de Guabiraba,0.0,0,0,0.0,190,11,5.79,1320.82,76.47,1.32,14385,0.0,0.0,41.71,0.0
 2020-10-11,Pernambuco,Barra de Guabiraba,0.0,0,0,0.0,190,11,5.79,1320.82,76.47,1.32,14385,0.0,0.0,41.71,0.0
 2020-10-10,Pernambuco,Barra de Guabiraba,6.95,1,0,0.0,190,11,5.79,1320.82,76.47,1.32,14385,0.0,6.95,41.71,6.95
 2020-10-09,Pernambuco,Barra de Guabiraba,0.0,0,0,0.0,189,11,5.82,1313.87,76.47,1.31,14385,-6.95,-13.9,34.76,-6.95
