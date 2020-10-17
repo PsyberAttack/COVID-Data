@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-16,Tennessee,Macon,12.36,3,-1,-4.12,1234,22,1.78,5085.51,90.67,5.09,24265,79.0,296.73,0.0,964.34,0.0
+2020-10-15,Tennessee,Macon,70.06,17,0,0.0,1231,23,1.87,5073.15,94.79,5.07,24265,79.0,296.73,-24.73,964.34,61.82
 2020-10-14,Tennessee,Macon,61.82,15,1,4.12,1214,23,1.89,5003.09,94.79,5.0,24265,79.0,321.46,-4.12,902.52,12.37
 2020-10-13,Tennessee,Macon,-4.12,-1,0,0.0,1199,22,1.83,4941.27,90.67,4.94,24265,79.0,325.58,-45.33,890.15,0.0
 2020-10-12,Tennessee,Macon,103.03,25,0,0.0,1200,22,1.83,4945.39,90.67,4.95,24265,79.0,370.91,90.67,890.15,61.82

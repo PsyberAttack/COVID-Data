@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-16,Minnesota,Renville,0.0,0,1,6.84,216,11,5.09,1478.24,75.28,1.48,14612,14.87,143.72,-27.37,656.98,-20.53
+2020-10-15,Minnesota,Renville,6.84,1,0,0.0,216,10,4.63,1478.24,68.44,1.48,14612,14.87,171.09,-41.07,677.51,-47.91
 2020-10-14,Minnesota,Renville,34.22,5,0,0.0,215,10,4.65,1471.39,68.44,1.47,14612,14.87,212.16,-20.53,725.42,20.53
 2020-10-13,Minnesota,Renville,13.69,2,0,0.0,210,10,4.76,1437.17,68.44,1.44,14612,14.87,232.69,13.69,704.89,13.69
 2020-10-12,Minnesota,Renville,13.69,2,0,0.0,208,10,4.81,1423.49,68.44,1.42,14612,14.87,219.0,6.85,691.2,13.69

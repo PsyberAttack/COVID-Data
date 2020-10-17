@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-16,Mississippi,Adams,41.68,13,-1,-3.21,1032,40,3.88,3308.54,128.24,3.31,31192,67.46,144.28,32.06,394.35,-16.03
+2020-10-15,Mississippi,Adams,35.27,11,0,0.0,1019,41,4.02,3266.86,131.44,3.27,31192,67.46,112.22,16.03,410.38,3.21
 2020-10-14,Mississippi,Adams,19.24,6,0,0.0,1008,41,4.07,3231.6,131.44,3.23,31192,67.46,96.19,3.21,407.17,6.42
 2020-10-13,Mississippi,Adams,16.03,5,1,3.21,1002,41,4.09,3212.36,131.44,3.21,31192,67.46,92.98,9.62,400.75,-28.85
 2020-10-12,Mississippi,Adams,9.62,3,0,0.0,997,40,4.01,3196.33,128.24,3.2,31192,67.46,83.36,-3.2,429.6,6.41

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-16,Minnesota,Lincoln,88.14,5,0,0.0,156,0,0.0,2749.87,0.0,2.75,5673,10.57,282.04,17.63,1075.26,52.89
+2020-10-15,Minnesota,Lincoln,17.63,1,0,0.0,151,0,0.0,2661.73,0.0,2.66,5673,10.57,264.41,-52.88,1022.37,-88.13
 2020-10-14,Minnesota,Lincoln,17.63,1,0,0.0,150,0,0.0,2644.1,0.0,2.64,5673,10.57,317.29,-35.25,1110.5,-35.25
 2020-10-13,Minnesota,Lincoln,35.25,2,0,0.0,149,0,0.0,2626.48,0.0,2.63,5673,10.57,352.54,0.0,1145.75,17.62
 2020-10-12,Minnesota,Lincoln,0.0,0,0,0.0,147,0,0.0,2591.22,0.0,2.59,5673,10.57,352.54,-52.88,1128.13,-35.25

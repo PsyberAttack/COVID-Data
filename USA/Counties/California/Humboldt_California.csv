@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-16,California,Humboldt,0.0,0,0,0.0,544,8,1.47,398.91,5.87,0.4,136373,38.22,11.0,-0.73,45.45,0.0
+2020-10-15,California,Humboldt,1.47,2,0,0.0,544,8,1.47,398.91,5.87,0.4,136373,38.22,11.73,0.74,45.45,0.74
 2020-10-14,California,Humboldt,5.87,8,0,0.0,542,8,1.48,397.44,5.87,0.4,136373,38.22,10.99,3.67,44.71,4.4
 2020-10-13,California,Humboldt,0.73,1,0,0.0,534,8,1.5,391.57,5.87,0.39,136373,38.22,7.32,-0.74,40.31,-3.67
 2020-10-12,California,Humboldt,2.93,4,0,0.0,533,8,1.5,390.84,5.87,0.39,136373,38.22,8.06,0.0,43.98,-16.14

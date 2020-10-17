@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-16,Michigan,Baraga,24.04,2,1,12.02,66,4,6.06,793.27,48.08,0.79,8320,9.26,144.24,12.02,625.04,24.04
+2020-10-15,Michigan,Baraga,24.04,2,-1,-12.02,64,3,4.69,769.23,36.06,0.77,8320,9.26,132.22,-12.02,601.0,24.04
 2020-10-14,Michigan,Baraga,48.08,4,1,12.02,62,4,6.45,745.19,48.08,0.75,8320,9.26,144.24,24.04,576.96,36.06
 2020-10-13,Michigan,Baraga,12.02,1,0,0.0,58,3,5.17,697.12,36.06,0.7,8320,9.26,120.2,-12.02,540.9,12.02
 2020-10-12,Michigan,Baraga,0.0,0,0,0.0,57,3,5.26,685.1,36.06,0.69,8320,9.26,132.22,0.0,528.88,-24.04

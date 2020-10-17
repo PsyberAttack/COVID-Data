@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-16,New Hampshire,Carroll,0.0,0,0,0.0,134,2,1.49,274.71,4.1,0.27,48779,52.35,2.05,-6.15,30.75,-2.05
+2020-10-15,New Hampshire,Carroll,2.05,1,0,0.0,134,2,1.49,274.71,4.1,0.27,48779,52.35,8.2,2.05,32.8,2.05
 2020-10-14,New Hampshire,Carroll,0.0,0,0,0.0,133,2,1.5,272.66,4.1,0.27,48779,52.35,6.15,-6.15,30.75,-2.05
 2020-10-13,New Hampshire,Carroll,2.05,1,0,0.0,133,2,1.5,272.66,4.1,0.27,48779,52.35,12.3,2.05,32.8,0.0
 2020-10-12,New Hampshire,Carroll,-2.05,-1,0,0.0,132,2,1.52,270.61,4.1,0.27,48779,52.35,10.25,-4.1,32.8,-2.05

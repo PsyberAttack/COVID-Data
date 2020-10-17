@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-16,California,Inyo,5.56,1,0,0.0,210,15,7.14,1167.51,83.39,1.17,17987,1.77,61.16,5.56,189.04,5.56
+2020-10-15,California,Inyo,11.12,2,0,0.0,209,15,7.18,1161.95,83.39,1.16,17987,1.77,55.6,5.56,183.48,11.12
 2020-10-14,California,Inyo,33.36,6,0,0.0,207,15,7.25,1150.83,83.39,1.15,17987,1.77,50.04,27.8,172.36,33.36
 2020-10-13,California,Inyo,0.0,0,0,0.0,201,15,7.46,1117.47,83.39,1.12,17987,1.77,22.24,-11.12,139.0,0.0
 2020-10-12,California,Inyo,0.0,0,0,0.0,201,15,7.46,1117.47,83.39,1.12,17987,1.77,33.36,-5.56,139.0,5.56

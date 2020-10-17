@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-16,Missouri,Johnson,16.77,9,0,0.0,1344,10,0.74,2505.03,18.64,2.51,53652,64.7,546.11,3.72,698.94,11.18
+2020-10-15,Missouri,Johnson,7.46,4,-2,-3.73,1335,10,0.75,2488.26,18.64,2.49,53652,64.7,542.39,-24.23,687.76,-95.05
 2020-10-14,Missouri,Johnson,109.97,59,2,3.73,1331,12,0.9,2480.8,22.37,2.48,53652,64.7,566.62,93.2,782.81,98.79
 2020-10-13,Missouri,Johnson,0.0,0,0,0.0,1272,10,0.79,2370.83,18.64,2.37,53652,64.7,473.42,-1.86,684.02,-31.69
 2020-10-12,Missouri,Johnson,0.0,0,0,0.0,1272,10,0.79,2370.83,18.64,2.37,53652,64.7,475.28,0.0,715.71,-65.24

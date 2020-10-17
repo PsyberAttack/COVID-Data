@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-16,Indiana,Warren,60.51,5,0,0.0,66,1,1.52,798.74,12.1,0.8,8263,22.66,181.53,36.31,326.74,60.51
+2020-10-15,Indiana,Warren,0.0,0,0,0.0,61,1,1.64,738.23,12.1,0.74,8263,22.66,145.22,-12.1,266.23,0.0
 2020-10-14,Indiana,Warren,12.1,1,0,0.0,61,1,1.64,738.23,12.1,0.74,8263,22.66,157.32,-36.31,266.23,12.1
 2020-10-13,Indiana,Warren,0.0,0,0,0.0,60,1,1.67,726.13,12.1,0.73,8263,22.66,193.63,0.0,254.13,0.0
 2020-10-12,Indiana,Warren,48.41,4,0,0.0,60,1,1.67,726.13,12.1,0.73,8263,22.66,193.63,48.41,254.13,48.41

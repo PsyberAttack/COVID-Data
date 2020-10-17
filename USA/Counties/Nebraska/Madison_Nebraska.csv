@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-16,Nebraska,Madison,0.0,0,0,0.0,1105,8,0.72,3122.17,22.6,3.12,35392,61.81,234.52,-81.94,895.68,0.0
+2020-10-15,Nebraska,Madison,0.0,0,1,2.83,1105,8,0.72,3122.17,22.6,3.12,35392,61.81,316.46,-101.72,895.68,-39.56
 2020-10-14,Nebraska,Madison,234.52,83,0,0.0,1105,7,0.63,3122.17,19.78,3.12,35392,61.81,418.18,234.52,935.24,175.18
 2020-10-13,Nebraska,Madison,0.0,0,0,0.0,1022,7,0.68,2887.66,19.78,2.89,35392,61.81,183.66,0.0,760.06,-59.34
 2020-10-12,Nebraska,Madison,0.0,0,0,0.0,1022,7,0.68,2887.66,19.78,2.89,35392,61.81,183.66,0.0,819.4,0.0

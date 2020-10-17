@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-16,Michigan,Emmet,0.0,0,0,0.0,182,4,2.2,546.42,12.01,0.55,33308,71.24,15.0,0.0,93.03,0.0
+2020-10-15,Michigan,Emmet,6.0,2,0,0.0,182,4,2.2,546.42,12.01,0.55,33308,71.24,15.0,0.0,93.03,-6.01
 2020-10-14,Michigan,Emmet,0.0,0,0,0.0,180,4,2.22,540.41,12.01,0.54,33308,71.24,15.0,0.0,99.04,-21.02
 2020-10-13,Michigan,Emmet,6.0,2,0,0.0,180,4,2.22,540.41,12.01,0.54,33308,71.24,15.0,0.0,120.06,3.0
 2020-10-12,Michigan,Emmet,3.0,1,0,0.0,178,4,2.25,534.41,12.01,0.53,33308,71.24,15.0,-15.01,117.06,-6.01

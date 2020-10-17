@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-16,Wisconsin,Clark,66.27,23,2,5.76,676,11,1.63,1947.62,31.69,1.95,34709,28.69,311.16,23.05,965.17,43.22
+2020-10-15,Wisconsin,Clark,72.03,25,0,0.0,653,9,1.38,1881.36,25.93,1.88,34709,28.69,288.11,43.22,921.95,66.27
 2020-10-14,Wisconsin,Clark,37.45,13,0,0.0,628,9,1.43,1809.33,25.93,1.81,34709,28.69,244.89,5.76,855.68,17.28
 2020-10-13,Wisconsin,Clark,34.57,12,0,0.0,615,9,1.46,1771.87,25.93,1.77,34709,28.69,239.13,-5.77,838.4,11.52
 2020-10-12,Wisconsin,Clark,28.81,10,0,0.0,603,9,1.49,1737.3,25.93,1.74,34709,28.69,244.9,14.4,826.88,17.29

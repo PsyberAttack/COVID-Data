@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-16,Indiana,Starke,30.52,7,0,0.0,364,8,2.2,1587.09,34.88,1.59,22935,74.19,204.92,-8.72,510.12,0.0
+2020-10-15,Indiana,Starke,4.36,1,0,0.0,357,8,2.24,1556.57,34.88,1.56,22935,74.19,213.64,-34.88,510.12,-34.88
 2020-10-14,Indiana,Starke,34.88,8,0,0.0,356,8,2.25,1552.21,34.88,1.55,22935,74.19,248.52,8.72,545.0,30.52
 2020-10-13,Indiana,Starke,26.16,6,0,0.0,348,8,2.3,1517.33,34.88,1.52,22935,74.19,239.8,17.44,514.48,34.88
 2020-10-12,Indiana,Starke,39.24,9,0,0.0,342,8,2.34,1491.17,34.88,1.49,22935,74.19,222.36,30.52,479.6,26.16

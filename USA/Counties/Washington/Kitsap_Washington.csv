@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-16,Washington,Kitsap,4.08,11,0,0.0,1398,20,1.43,518.15,7.41,0.52,269805,682.83,18.55,0.37,98.61,1.86
+2020-10-15,Washington,Kitsap,2.97,8,1,0.37,1387,20,1.44,514.07,7.41,0.51,269805,682.83,18.18,-1.48,96.75,-2.22
 2020-10-14,Washington,Kitsap,4.08,11,1,0.37,1379,19,1.38,511.11,7.04,0.51,269805,682.83,19.66,-5.19,98.97,2.6
 2020-10-13,Washington,Kitsap,4.08,11,1,0.37,1368,18,1.32,507.03,6.67,0.51,269805,682.83,24.85,-0.74,96.37,2.97
 2020-10-12,Washington,Kitsap,0.0,0,0,0.0,1357,17,1.25,502.96,6.3,0.5,269805,682.83,25.59,-3.34,93.4,0.37

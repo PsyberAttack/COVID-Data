@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-16,Delaware,New Castle,19.13,107,0,0.0,11958,330,2.76,2137.9,59.0,2.14,559335,1312.02,99.94,0.89,443.03,8.05
+2020-10-15,Delaware,New Castle,11.44,64,1,0.18,11851,330,2.78,2118.77,59.0,2.12,559335,1312.02,99.05,-3.04,434.98,-0.54
 2020-10-14,Delaware,New Castle,7.15,40,1,0.18,11787,329,2.79,2107.32,58.82,2.11,559335,1312.02,102.09,-3.04,435.52,-8.76
 2020-10-13,Delaware,New Castle,10.55,59,2,0.36,11747,328,2.79,2100.17,58.64,2.1,559335,1312.02,105.13,-2.32,444.28,-10.19
 2020-10-12,Delaware,New Castle,16.98,95,1,0.18,11688,326,2.79,2089.62,58.28,2.09,559335,1312.02,107.45,2.32,454.47,7.33

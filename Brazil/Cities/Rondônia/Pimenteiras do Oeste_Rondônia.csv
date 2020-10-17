@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-12,Rondônia,Pimenteiras do Oeste,0.0,0,0,0.0,199,6,3.02,9174.73,276.63,9.17,2169,230.52,-46.1,1198.67,0.0
-2020-10-11,Rondônia,Pimenteiras do Oeste,0.0,0,0,0.0,199,6,3.02,9174.73,276.63,9.17,2169,276.62,-46.1,1198.67,0.0
+2020-10-12,Rondônia,Pimenteiras do Oeste,0.0,0,0,0.0,199,6,3.02,9174.73,276.63,9.17,2169,0.0,-230.52,1060.36,-138.31
+2020-10-11,Rondônia,Pimenteiras do Oeste,0.0,0,0,0.0,199,6,3.02,9174.73,276.63,9.17,2169,230.52,0.0,1198.67,0.0
+2020-10-10,Rondônia,Pimenteiras do Oeste,0.0,0,0,0.0,199,6,3.02,9174.73,276.63,9.17,2169,230.52,-46.1,1198.67,0.0
+2020-10-09,Rondônia,Pimenteiras do Oeste,0.0,0,0,0.0,199,6,3.02,9174.73,276.63,9.17,2169,276.62,-46.1,1198.67,0.0
 2020-10-08,Rondônia,Pimenteiras do Oeste,46.1,1,0,0.0,199,6,3.02,9174.73,276.63,9.17,2169,322.72,46.1,1198.67,0.0
 2020-10-07,Rondônia,Pimenteiras do Oeste,-46.1,-1,0,0.0,198,6,3.03,9128.63,276.63,9.13,2169,276.62,-46.1,1198.67,-138.31
 2020-10-06,Rondônia,Pimenteiras do Oeste,0.0,0,0,0.0,199,6,3.02,9174.73,276.63,9.17,2169,322.72,-230.52,1336.98,0.0

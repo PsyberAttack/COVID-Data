@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-16,Virginia,Radford city,92.7,17,0,0.0,807,1,0.12,4400.46,5.45,4.4,18339,1895.23,223.58,76.34,561.67,43.62
+2020-10-15,Virginia,Radford city,21.81,4,-1,-5.45,790,1,0.13,4307.76,5.45,4.31,18339,1895.23,147.24,-16.36,518.05,16.36
 2020-10-14,Virginia,Radford city,32.72,6,0,0.0,786,2,0.25,4285.95,10.91,4.29,18339,1895.23,163.6,21.81,501.69,-16.36
 2020-10-13,Virginia,Radford city,38.17,7,0,0.0,780,2,0.26,4253.23,10.91,4.25,18339,1895.23,141.79,38.17,518.05,-49.08
 2020-10-12,Virginia,Radford city,10.91,2,0,0.0,773,2,0.26,4215.06,10.91,4.22,18339,1895.23,103.62,0.0,567.13,-32.71

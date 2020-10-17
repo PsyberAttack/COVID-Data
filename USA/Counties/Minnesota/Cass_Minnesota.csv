@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-16,Minnesota,Cass,50.81,15,0,0.0,289,4,1.38,979.03,13.55,0.98,29519,14.6,142.28,20.32,562.37,40.65
+2020-10-15,Minnesota,Cass,23.71,7,0,0.0,274,4,1.46,928.22,13.55,0.93,29519,14.6,121.96,-3.39,521.72,13.55
 2020-10-14,Minnesota,Cass,20.33,6,0,0.0,267,4,1.5,904.5,13.55,0.9,29519,14.6,125.35,-3.38,508.17,23.72
 2020-10-13,Minnesota,Cass,13.55,4,0,0.0,261,4,1.53,884.18,13.55,0.88,29519,14.6,128.73,0.0,484.45,16.94
 2020-10-12,Minnesota,Cass,10.16,3,0,0.0,257,4,1.56,870.63,13.55,0.87,29519,14.6,128.73,-10.17,467.51,6.77

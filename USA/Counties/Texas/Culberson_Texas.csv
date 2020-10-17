@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-16,Texas,Culberson,181.49,4,0,0.0,81,2,2.47,3675.14,90.74,3.68,2204,0.58,952.81,90.75,1406.52,90.75
+2020-10-15,Texas,Culberson,0.0,0,0,0.0,77,2,2.6,3493.65,90.74,3.49,2204,0.58,862.06,0.0,1315.77,-45.37
 2020-10-14,Texas,Culberson,90.74,2,0,0.0,77,2,2.6,3493.65,90.74,3.49,2204,0.58,862.06,-45.38,1361.14,-181.49
 2020-10-13,Texas,Culberson,544.46,12,0,0.0,75,2,2.67,3402.9,90.74,3.4,2204,0.58,907.44,544.46,1542.63,453.72
 2020-10-12,Texas,Culberson,0.0,0,0,0.0,63,2,3.17,2858.44,90.74,2.86,2204,0.58,362.98,0.0,1088.91,0.0

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-16,Tennessee,Wayne,12.08,2,0,0.0,1548,7,0.45,9348.96,42.28,9.35,16558,22.56,48.32,0.0,422.79,-18.12
+2020-10-15,Tennessee,Wayne,0.0,0,0,0.0,1546,7,0.45,9336.88,42.28,9.34,16558,22.56,48.32,-54.35,440.91,-12.08
 2020-10-14,Tennessee,Wayne,18.12,3,1,6.04,1546,7,0.45,9336.88,42.28,9.34,16558,22.56,102.67,6.04,452.99,54.36
 2020-10-13,Tennessee,Wayne,0.0,0,0,0.0,1543,6,0.39,9318.76,36.24,9.32,16558,22.56,96.63,-36.24,398.63,0.0
 2020-10-12,Tennessee,Wayne,6.04,1,0,0.0,1543,6,0.39,9318.76,36.24,9.32,16558,22.56,132.87,-6.04,398.63,-18.12

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-16,Texas,Morris,8.1,1,1,8.1,200,5,2.5,1620.88,40.52,1.62,12339,48.97,48.62,8.1,194.49,0.0
+2020-10-15,Texas,Morris,8.1,1,0,0.0,199,4,2.01,1612.77,32.42,1.61,12339,48.97,40.52,8.1,194.49,0.0
 2020-10-14,Texas,Morris,0.0,0,0,0.0,198,4,2.02,1604.67,32.42,1.6,12339,48.97,32.42,0.0,194.49,0.0
 2020-10-13,Texas,Morris,16.21,2,0,0.0,198,4,2.02,1604.67,32.42,1.6,12339,48.97,32.42,-8.1,194.49,16.21
 2020-10-12,Texas,Morris,16.21,2,0,0.0,196,4,2.04,1588.46,32.42,1.59,12339,48.97,40.52,16.21,178.28,16.21

@@ -1,5 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-15,Bayern,Unterallgäu,4.17,6,0,0.0,570,17,2.98,395.72,11.8,0.4,144041,29.86,1.39,101.38,0.0
+2020-10-16,Bayern,Unterallgäu,4.17,6,0,0.0,581,17,2.93,403.36,11.8,0.4,144041,35.42,2.09,104.16,-0.69
+2020-10-15,Bayern,Unterallgäu,7.64,11,0,0.0,575,17,2.96,399.19,11.8,0.4,144041,33.33,4.86,104.85,3.47
 2020-10-14,Bayern,Unterallgäu,11.8,17,0,0.0,564,17,3.01,391.56,11.8,0.39,144041,28.47,-10.42,101.38,6.25
 2020-10-13,Bayern,Unterallgäu,2.78,4,0,0.0,547,17,3.11,379.75,11.8,0.38,144041,38.89,0.7,95.13,-5.55
 2020-10-12,Bayern,Unterallgäu,9.03,13,0,0.0,543,17,3.13,376.98,11.8,0.38,144041,38.19,8.34,100.68,9.03

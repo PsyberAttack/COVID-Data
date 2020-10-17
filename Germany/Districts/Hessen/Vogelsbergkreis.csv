@@ -1,5 +1,7 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-13,Hessen,Vogelsbergkreis,0.95,1,0,0.0,212,6,2.83,200.68,5.68,0.2,105643,15.16,-0.94,31.26,0.0
+2020-10-15,Hessen,Vogelsbergkreis,0.95,1,0,0.0,215,6,2.79,203.52,5.68,0.2,105643,14.21,-1.89,34.1,0.95
+2020-10-14,Hessen,Vogelsbergkreis,0.0,0,0,0.0,214,6,2.8,202.57,5.68,0.2,105643,16.1,-0.95,33.15,0.0
+2020-10-13,Hessen,Vogelsbergkreis,2.84,3,0,0.0,214,6,2.8,202.57,5.68,0.2,105643,17.05,0.95,33.15,1.89
 2020-10-12,Hessen,Vogelsbergkreis,2.84,3,0,0.0,211,6,2.84,199.73,5.68,0.2,105643,16.1,1.89,31.26,2.84
 2020-10-11,Hessen,Vogelsbergkreis,0.95,1,0,0.0,208,6,2.88,196.89,5.68,0.2,105643,14.21,0.95,28.42,0.0
 2020-10-10,Hessen,Vogelsbergkreis,0.0,0,0,0.0,207,6,2.9,195.94,5.68,0.2,105643,13.26,0.0,28.42,0.0

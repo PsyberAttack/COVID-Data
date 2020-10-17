@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-16,Alabama,Dallas,0.0,0,0,0.0,1841,27,1.47,4805.53,70.48,4.81,38310,39.14,33.93,-28.71,284.49,-18.27
+2020-10-15,Alabama,Dallas,10.44,4,1,2.61,1841,27,1.47,4805.53,70.48,4.81,38310,39.14,62.64,5.22,302.76,10.44
 2020-10-14,Alabama,Dallas,2.61,1,0,0.0,1837,26,1.42,4795.09,67.87,4.8,38310,39.14,57.42,-13.05,292.32,5.22
 2020-10-13,Alabama,Dallas,10.44,4,0,0.0,1836,26,1.42,4792.48,67.87,4.79,38310,39.14,70.47,7.83,287.1,-2.61
 2020-10-12,Alabama,Dallas,5.22,2,0,0.0,1832,26,1.42,4782.04,67.87,4.78,38310,39.14,62.64,5.22,289.71,2.61
