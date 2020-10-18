@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-17,Missouri,Perry,67.89,13,0,0.0,744,7,0.94,3885.12,36.55,3.89,19150,40.37,193.22,0.0,908.64,5.23
 2020-10-16,Missouri,Perry,26.11,5,0,0.0,731,7,0.96,3817.23,36.55,3.82,19150,40.37,193.22,-15.67,903.41,5.22
 2020-10-15,Missouri,Perry,26.11,5,-1,-5.22,726,7,0.96,3791.12,36.55,3.79,19150,40.37,208.89,-36.55,898.19,-15.67
 2020-10-14,Missouri,Perry,73.11,14,0,0.0,721,8,1.11,3765.01,41.78,3.77,19150,40.37,245.44,57.44,913.86,5.22
