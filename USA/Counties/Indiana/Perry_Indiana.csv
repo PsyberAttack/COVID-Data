@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-18,Indiana,Perry,36.65,7,0,0.0,293,15,5.12,1533.87,78.53,1.53,19102,50.04,146.6,15.71,382.22,0.0
 2020-10-17,Indiana,Perry,31.41,6,0,0.0,286,15,5.24,1497.23,78.53,1.5,19102,50.04,130.89,15.7,382.22,15.7
 2020-10-16,Indiana,Perry,31.41,6,1,5.24,280,15,5.36,1465.82,78.53,1.47,19102,50.04,115.19,26.17,366.52,36.65
 2020-10-15,Indiana,Perry,20.94,4,0,0.0,274,14,5.11,1434.4,73.29,1.43,19102,50.04,89.02,-5.24,329.87,20.94

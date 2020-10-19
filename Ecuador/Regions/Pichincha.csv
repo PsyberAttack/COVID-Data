@@ -1,5 +1,6 @@
 date,country,region,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-17,Ecuador,Pichincha,0.0,0,0,0.0,32,2,6.25,0.99,0.06,0.0,3228233,-0.59,-1.42,-139.63,-0.84
+2020-10-18,Ecuador,Pichincha,0.09,3,0,0.0,4,1,25.0,0.12,0.03,0.0,3228233,0.09,1.64,-140.5,0.09
+2020-10-17,Ecuador,Pichincha,-0.96,-31,-1,-0.03,1,1,100.0,0.03,0.03,0.0,3228233,-1.55,-2.38,-140.59,-1.8
 2020-10-16,Ecuador,Pichincha,0.43,14,-261,-8.08,32,2,6.25,0.99,0.06,0.0,3228233,0.83,0.65,-138.79,-0.75
 2020-10-15,Ecuador,Pichincha,0.25,8,0,0.0,18,263,1461.11,0.56,8.15,0.0,3228233,0.18,0.16,-138.04,-2.85
 2020-10-14,Ecuador,Pichincha,-0.28,-9,0,0.0,10,263,2630.0,0.31,8.15,0.0,3228233,0.02,-0.47,-135.19,-8.64

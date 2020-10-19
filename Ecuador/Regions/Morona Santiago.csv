@@ -1,5 +1,6 @@
 date,country,region,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-17,Ecuador,Morona Santiago,0.0,0,0,0.0,14,1,7.14,7.12,0.51,0.01,196535,4.07,5.09,-1756.45,0.0
+2020-10-18,Ecuador,Morona Santiago,-2.54,-5,0,0.0,5,1,20.0,2.54,0.51,0.0,196535,-0.51,-2.54,-1761.03,-2.54
+2020-10-17,Ecuador,Morona Santiago,-2.04,-4,0,0.0,10,1,10.0,5.09,0.51,0.01,196535,2.03,3.05,-1758.49,-2.04
 2020-10-16,Ecuador,Morona Santiago,-5.09,-10,0,0.0,14,1,7.14,7.12,0.51,0.01,196535,-1.02,-11.7,-1756.45,-6.62
 2020-10-15,Ecuador,Morona Santiago,10.18,20,0,0.0,24,1,4.17,12.21,0.51,0.01,196535,10.68,10.69,-1749.83,8.65
 2020-10-14,Ecuador,Morona Santiago,-4.07,-8,0,0.0,4,1,25.0,2.04,0.51,0.0,196535,-0.01,2.04,-1758.48,-6.11
