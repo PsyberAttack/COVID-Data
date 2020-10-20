@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-19,Bahia,Aracatu,0.0,0,0,0.0,105,1,0.95,799.39,7.61,0.8,13135,129.43,0.0,510.09,0.0
+2020-10-18,Bahia,Aracatu,7.61,1,0,0.0,105,1,0.95,799.39,7.61,0.8,13135,129.43,7.61,510.09,0.0
 2020-10-17,Bahia,Aracatu,15.23,2,0,0.0,104,1,0.96,791.78,7.61,0.79,13135,121.82,7.62,510.09,15.23
 2020-10-16,Bahia,Aracatu,30.45,4,0,0.0,102,1,0.98,776.55,7.61,0.78,13135,114.2,15.22,494.86,-7.62
 2020-10-15,Bahia,Aracatu,38.07,5,0,0.0,98,1,1.02,746.1,7.61,0.75,13135,98.98,-7.61,502.48,30.46
