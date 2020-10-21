@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-20,Illinois,Henry,8.15,4,2,4.07,798,7,0.88,1625.59,14.26,1.63,49090,59.65,77.41,4.08,354.44,4.08
 2020-10-19,Illinois,Henry,8.15,4,0,0.0,794,5,0.63,1617.44,10.19,1.62,49090,59.65,73.33,-10.18,350.36,-4.07
 2020-10-18,Illinois,Henry,6.11,3,0,0.0,790,5,0.63,1609.29,10.19,1.61,49090,59.65,83.51,2.04,354.43,2.04
 2020-10-17,Illinois,Henry,4.07,2,0,0.0,787,5,0.64,1603.18,10.19,1.6,49090,59.65,81.47,-30.56,352.39,-4.08

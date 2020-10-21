@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-20,Minnesota,Stearns,45.84,73,1,0.63,5443,36,0.66,3417.77,22.61,3.42,159256,118.6,430.12,25.12,1010.94,32.65
 2020-10-19,Minnesota,Stearns,72.21,115,1,0.63,5370,35,0.65,3371.93,21.98,3.37,159256,118.6,405.0,52.12,978.29,45.84
 2020-10-18,Minnesota,Stearns,59.02,94,1,0.63,5255,34,0.65,3299.72,21.35,3.3,159256,118.6,352.88,21.97,932.45,24.48
 2020-10-17,Minnesota,Stearns,42.07,67,0,0.0,5161,33,0.64,3240.69,20.72,3.24,159256,118.6,330.91,1.88,907.97,13.81

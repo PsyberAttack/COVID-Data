@@ -1,8 +1,9 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-19,Rheinland-Pfalz,Bad Kreuznach,7.59,12,0,0.0,430,7,1.63,272.01,4.43,0.27,158080,19.61,3.16,65.81,5.69
-2020-10-18,Rheinland-Pfalz,Bad Kreuznach,0.0,0,0,0.0,418,7,1.67,264.42,4.43,0.26,158080,16.45,-0.63,60.12,0.0
-2020-10-17,Rheinland-Pfalz,Bad Kreuznach,0.0,0,0,0.0,418,7,1.67,264.42,4.43,0.26,158080,17.08,-1.27,60.12,0.0
-2020-10-16,Rheinland-Pfalz,Bad Kreuznach,3.16,5,0,0.0,418,7,1.67,264.42,4.43,0.26,158080,18.35,1.26,60.12,-0.64
+2020-10-20,Rheinland-Pfalz,Bad Kreuznach,3.8,6,0,0.0,438,7,1.6,277.07,4.43,0.28,158080,15.82,-5.06,70.25,3.17
+2020-10-19,Rheinland-Pfalz,Bad Kreuznach,7.59,12,0,0.0,432,7,1.62,273.28,4.43,0.27,158080,20.88,3.16,67.08,5.69
+2020-10-18,Rheinland-Pfalz,Bad Kreuznach,0.63,1,0,0.0,420,7,1.67,265.69,4.43,0.27,158080,17.72,0.0,61.39,0.63
+2020-10-17,Rheinland-Pfalz,Bad Kreuznach,0.0,0,0,0.0,419,7,1.67,265.06,4.43,0.27,158080,17.72,-1.27,60.76,0.0
+2020-10-16,Rheinland-Pfalz,Bad Kreuznach,3.8,6,0,0.0,419,7,1.67,265.06,4.43,0.27,158080,18.99,1.9,60.76,0.0
 2020-10-15,Rheinland-Pfalz,Bad Kreuznach,0.0,0,0,0.0,413,7,1.69,261.26,4.43,0.26,158080,17.09,-3.8,60.76,-1.27
 2020-10-14,Rheinland-Pfalz,Bad Kreuznach,0.0,0,0,0.0,413,7,1.69,261.26,4.43,0.26,158080,20.89,-7.59,62.03,-1.27
 2020-10-13,Rheinland-Pfalz,Bad Kreuznach,8.86,14,0,0.0,413,7,1.69,261.26,4.43,0.26,158080,28.48,2.53,63.3,6.33

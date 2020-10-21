@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-20,Missouri,Cedar,0.0,0,0,0.0,210,2,0.95,1482.53,14.12,1.48,14165,29.85,211.79,0.0,840.12,0.0
 2020-10-19,Missouri,Cedar,14.12,2,0,0.0,210,2,0.95,1482.53,14.12,1.48,14165,29.85,211.79,14.12,840.12,-14.12
 2020-10-18,Missouri,Cedar,7.06,1,0,0.0,208,2,0.96,1468.41,14.12,1.47,14165,29.85,197.67,7.06,854.24,7.06
 2020-10-17,Missouri,Cedar,14.12,2,0,0.0,207,2,0.97,1461.35,14.12,1.46,14165,29.85,190.61,-63.54,847.18,-28.24
