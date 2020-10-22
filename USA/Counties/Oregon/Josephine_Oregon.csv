@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-21,Oregon,Josephine,1.14,1,0,0.0,258,3,1.16,295.22,3.43,0.3,87393,53.33,10.29,-1.15,73.2,-3.44
 2020-10-20,Oregon,Josephine,0.0,0,1,1.14,257,3,1.17,294.07,3.43,0.29,87393,53.33,11.44,-3.43,76.64,-4.58
 2020-10-19,Oregon,Josephine,1.14,1,0,0.0,257,2,0.78,294.07,2.29,0.29,87393,53.33,14.87,0.0,81.22,-2.29
 2020-10-18,Oregon,Josephine,1.14,1,0,0.0,256,2,0.78,292.93,2.29,0.29,87393,53.33,14.87,-6.87,83.51,1.14

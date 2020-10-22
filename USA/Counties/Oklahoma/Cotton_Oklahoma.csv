@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-21,Oklahoma,Cotton,17.31,1,0,0.0,90,3,3.33,1558.17,51.94,1.56,5776,9.13,225.07,34.62,398.2,0.0
 2020-10-20,Oklahoma,Cotton,17.31,1,0,0.0,89,3,3.37,1540.86,51.94,1.54,5776,9.13,190.45,-17.32,398.2,0.0
 2020-10-19,Oklahoma,Cotton,-17.31,-1,0,0.0,88,3,3.41,1523.55,51.94,1.52,5776,9.13,207.77,-17.31,398.2,-17.31
 2020-10-18,Oklahoma,Cotton,34.63,2,0,0.0,89,3,3.37,1540.86,51.94,1.54,5776,9.13,225.08,34.63,415.51,17.32
