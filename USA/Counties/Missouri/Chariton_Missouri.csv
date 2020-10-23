@@ -1,5 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-21,Missouri,Chariton,0.0,0,0,0.0,55,1,1.82,738.16,13.42,0.74,7451,9.92,13.42,0.0,147.62,0.0
+2020-10-22,Missouri,Chariton,13.42,1,0,0.0,57,1,1.75,765.0,13.42,0.76,7451,9.92,40.26,13.42,134.2,-26.84
+2020-10-21,Missouri,Chariton,13.42,1,0,0.0,56,1,1.79,751.58,13.42,0.75,7451,9.92,26.84,13.42,161.04,13.42
 2020-10-20,Missouri,Chariton,0.0,0,0,0.0,55,1,1.82,738.16,13.42,0.74,7451,9.92,13.42,0.0,147.62,-13.42
 2020-10-19,Missouri,Chariton,0.0,0,0,0.0,55,1,1.82,738.16,13.42,0.74,7451,9.92,13.42,0.0,161.04,13.42
 2020-10-18,Missouri,Chariton,13.42,1,0,0.0,55,1,1.82,738.16,13.42,0.74,7451,9.92,13.42,13.42,147.62,13.42

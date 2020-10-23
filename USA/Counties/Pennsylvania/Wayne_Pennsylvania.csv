@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-22,Pennsylvania,Wayne,1.95,1,0,0.0,282,12,4.26,549.96,23.4,0.55,51276,70.67,17.55,-7.8,115.05,0.0
 2020-10-21,Pennsylvania,Wayne,0.0,0,0,0.0,281,12,4.27,548.01,23.4,0.55,51276,70.67,25.35,-3.9,115.05,-3.9
 2020-10-20,Pennsylvania,Wayne,3.9,2,0,0.0,281,12,4.27,548.01,23.4,0.55,51276,70.67,29.25,1.95,118.95,0.0
 2020-10-19,Pennsylvania,Wayne,-1.95,-1,0,0.0,279,12,4.3,544.11,23.4,0.54,51276,70.67,27.3,-1.95,118.95,-5.85

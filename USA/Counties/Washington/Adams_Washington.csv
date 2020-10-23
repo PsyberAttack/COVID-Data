@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-22,Washington,Adams,10.12,2,0,0.0,912,10,1.1,4615.62,50.61,4.62,19759,10.26,65.78,0.0,409.91,-55.67
 2020-10-21,Washington,Adams,10.12,2,0,0.0,910,10,1.1,4605.5,50.61,4.61,19759,10.26,65.78,10.12,465.58,-10.12
 2020-10-20,Washington,Adams,-5.06,-1,0,0.0,908,10,1.1,4595.37,50.61,4.6,19759,10.26,55.66,-55.67,475.7,-35.43
 2020-10-19,Washington,Adams,5.06,1,0,0.0,909,10,1.1,4600.44,50.61,4.6,19759,10.26,111.33,5.06,511.13,5.06

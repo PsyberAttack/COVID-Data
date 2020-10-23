@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-22,Oregon,Douglas,7.25,8,1,0.91,339,5,1.47,307.39,4.53,0.31,110283,21.9,34.45,2.72,104.26,4.53
 2020-10-21,Oregon,Douglas,6.35,7,0,0.0,331,4,1.21,300.14,3.63,0.3,110283,21.9,31.73,-0.9,99.73,6.35
 2020-10-20,Oregon,Douglas,7.25,8,0,0.0,324,4,1.23,293.79,3.63,0.29,110283,21.9,32.63,6.34,93.38,-1.82
 2020-10-19,Oregon,Douglas,1.81,2,0,0.0,316,4,1.27,286.54,3.63,0.29,110283,21.9,26.29,1.81,95.2,0.0
