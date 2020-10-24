@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-23,Georgia,Wheeler,50.77,4,0,0.0,363,16,4.41,4607.18,203.07,4.61,7879,26.66,38.07,0.0,431.51,12.69
 2020-10-22,Georgia,Wheeler,38.08,3,0,0.0,359,16,4.46,4556.42,203.07,4.56,7879,26.66,38.07,38.08,418.82,38.08
 2020-10-21,Georgia,Wheeler,12.69,1,0,0.0,356,16,4.49,4518.34,203.07,4.52,7879,26.66,-0.01,12.69,380.74,-12.69
 2020-10-20,Georgia,Wheeler,25.38,2,-1,-12.69,355,16,4.51,4505.65,203.07,4.51,7879,26.66,-12.7,25.38,393.43,0.0

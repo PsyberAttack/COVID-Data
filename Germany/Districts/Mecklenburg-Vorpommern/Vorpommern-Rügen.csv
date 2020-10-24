@@ -1,10 +1,11 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-22,Mecklenburg-Vorpommern,Vorpommern-Rügen,0.45,1,0,0.0,201,2,1.0,89.46,0.89,0.09,224684,15.6,-2.67,34.79,0.45
-2020-10-21,Mecklenburg-Vorpommern,Vorpommern-Rügen,2.23,5,0,0.0,200,2,1.0,89.01,0.89,0.09,224684,18.27,0.0,34.34,2.23
-2020-10-20,Mecklenburg-Vorpommern,Vorpommern-Rügen,2.23,5,0,0.0,195,2,1.03,86.79,0.89,0.09,224684,18.27,-0.89,32.11,1.78
-2020-10-19,Mecklenburg-Vorpommern,Vorpommern-Rügen,4.01,9,0,0.0,190,2,1.05,84.56,0.89,0.08,224684,19.16,3.56,30.33,4.01
-2020-10-18,Mecklenburg-Vorpommern,Vorpommern-Rügen,1.78,4,0,0.0,181,2,1.1,80.56,0.89,0.08,224684,15.6,0.0,26.32,1.78
-2020-10-17,Mecklenburg-Vorpommern,Vorpommern-Rügen,1.78,4,0,0.0,177,2,1.13,78.78,0.89,0.08,224684,15.6,-0.45,24.54,1.78
+2020-10-23,Mecklenburg-Vorpommern,Vorpommern-Rügen,0.45,1,0,0.0,207,2,0.97,92.13,0.89,0.09,224684,15.15,-2.67,37.46,0.45
+2020-10-22,Mecklenburg-Vorpommern,Vorpommern-Rügen,0.89,2,0,0.0,206,2,0.97,91.68,0.89,0.09,224684,17.82,-2.23,37.01,0.89
+2020-10-21,Mecklenburg-Vorpommern,Vorpommern-Rügen,3.12,7,0,0.0,204,2,0.98,90.79,0.89,0.09,224684,20.05,0.89,36.12,3.12
+2020-10-20,Mecklenburg-Vorpommern,Vorpommern-Rügen,3.12,7,0,0.0,197,2,1.02,87.68,0.89,0.09,224684,19.16,0.0,33.0,2.67
+2020-10-19,Mecklenburg-Vorpommern,Vorpommern-Rügen,3.56,8,0,0.0,190,2,1.05,84.56,0.89,0.08,224684,19.16,3.11,30.33,3.56
+2020-10-18,Mecklenburg-Vorpommern,Vorpommern-Rügen,1.78,4,0,0.0,182,2,1.1,81.0,0.89,0.08,224684,16.05,0.0,26.77,1.78
+2020-10-17,Mecklenburg-Vorpommern,Vorpommern-Rügen,2.23,5,0,0.0,178,2,1.12,79.22,0.89,0.08,224684,16.05,0.0,24.99,2.23
 2020-10-16,Mecklenburg-Vorpommern,Vorpommern-Rügen,3.12,7,0,0.0,173,2,1.16,77.0,0.89,0.08,224684,16.05,2.23,22.76,3.12
 2020-10-15,Mecklenburg-Vorpommern,Vorpommern-Rügen,3.12,7,0,0.0,166,2,1.2,73.88,0.89,0.07,224684,13.82,3.12,19.64,2.67
 2020-10-14,Mecklenburg-Vorpommern,Vorpommern-Rügen,2.23,5,0,0.0,159,2,1.26,70.77,0.89,0.07,224684,10.7,1.34,16.97,1.78

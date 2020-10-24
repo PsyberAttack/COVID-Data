@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-23,Texas,Walker,71.74,52,0,0.0,3906,62,1.59,5389.07,85.54,5.39,72480,92.42,88.3,78.64,299.4,71.74
 2020-10-22,Texas,Walker,0.0,0,0,0.0,3854,62,1.61,5317.33,85.54,5.32,72480,92.42,9.66,-15.18,227.66,1.38
 2020-10-21,Texas,Walker,-1.38,-1,0,0.0,3854,62,1.61,5317.33,85.54,5.32,72480,92.42,24.84,1.38,226.28,2.76
 2020-10-20,Texas,Walker,0.0,0,1,1.38,3855,62,1.61,5318.71,85.54,5.32,72480,92.42,23.46,-9.66,223.52,-48.29

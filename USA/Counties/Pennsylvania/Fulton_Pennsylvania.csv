@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-23,Pennsylvania,Fulton,-6.89,-1,0,0.0,64,3,4.69,440.68,20.66,0.44,14523,33.19,13.78,-6.89,117.08,-20.66
 2020-10-22,Pennsylvania,Fulton,6.89,1,0,0.0,65,3,4.62,447.57,20.66,0.45,14523,33.19,20.67,-6.88,137.74,6.89
 2020-10-21,Pennsylvania,Fulton,0.0,0,1,6.89,64,3,4.69,440.68,20.66,0.44,14523,33.19,27.55,0.0,130.85,-6.89
 2020-10-20,Pennsylvania,Fulton,6.89,1,0,0.0,64,2,3.12,440.68,13.77,0.44,14523,33.19,27.55,6.89,137.74,6.89

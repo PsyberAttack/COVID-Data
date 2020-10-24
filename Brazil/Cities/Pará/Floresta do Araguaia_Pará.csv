@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-21,Pará,Floresta do Araguaia,19.7,4,0,0.0,343,6,1.75,1689.32,29.55,1.69,20304,73.88,19.7,231.51,14.77
+2020-10-22,Pará,Floresta do Araguaia,4.93,1,0,0.0,344,6,1.74,1694.25,29.55,1.69,20304,59.11,-14.77,216.73,0.0
+2020-10-21,Pará,Floresta do Araguaia,9.85,2,0,0.0,343,6,1.75,1689.32,29.55,1.69,20304,73.88,9.85,216.73,-4.93
+2020-10-20,Pará,Floresta do Araguaia,9.85,2,0,0.0,341,6,1.76,1679.47,29.55,1.68,20304,64.03,9.85,221.66,4.92
 2020-10-19,Pará,Floresta do Araguaia,0.0,0,0,0.0,339,6,1.77,1669.62,29.55,1.67,20304,54.18,0.0,216.74,0.0
 2020-10-18,Pará,Floresta do Araguaia,0.0,0,0,0.0,339,6,1.77,1669.62,29.55,1.67,20304,54.18,0.0,216.74,0.0
 2020-10-17,Pará,Floresta do Araguaia,0.0,0,0,0.0,339,6,1.77,1669.62,29.55,1.67,20304,54.18,0.0,216.74,-9.85

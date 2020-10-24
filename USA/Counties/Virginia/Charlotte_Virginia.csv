@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-23,Virginia,Charlotte,8.38,1,0,0.0,203,1,0.49,1700.45,8.38,1.7,11938,25.12,83.78,0.0,812.55,8.38
 2020-10-22,Virginia,Charlotte,0.0,0,0,0.0,202,1,0.5,1692.08,8.38,1.69,11938,25.12,83.78,-41.88,804.17,-25.13
 2020-10-21,Virginia,Charlotte,8.38,1,0,0.0,202,1,0.5,1692.08,8.38,1.69,11938,25.12,125.66,0.0,829.3,0.0
 2020-10-20,Virginia,Charlotte,25.13,3,1,8.38,201,1,0.5,1683.7,8.38,1.68,11938,25.12,125.66,8.38,829.3,8.38
