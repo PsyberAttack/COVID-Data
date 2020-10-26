@@ -1,15 +1,16 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-24,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,3.88,11,0,0.0,1304,25,1.92,460.34,8.83,0.46,283271,81.19,-1.06,195.94,2.82
-2020-10-23,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,9.18,26,0,0.0,1293,25,1.93,456.45,8.83,0.46,283271,82.25,-7.06,193.12,6.71
-2020-10-22,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,21.89,62,0,0.0,1267,25,1.97,447.27,8.83,0.45,283271,89.31,8.12,186.41,17.3
-2020-10-21,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,22.24,63,0,0.0,1205,25,2.07,425.39,8.83,0.43,283271,81.19,10.59,169.11,20.12
-2020-10-20,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,13.41,38,1,0.35,1142,25,2.19,403.15,8.83,0.4,283271,70.6,8.47,148.99,11.29
-2020-10-19,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,4.59,13,0,0.0,1104,24,2.17,389.73,8.47,0.39,283271,62.13,2.47,137.7,3.18
-2020-10-18,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,6.0,17,0,0.0,1091,24,2.2,385.14,8.47,0.39,283271,59.66,1.76,134.52,4.59
-2020-10-17,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,4.94,14,0,0.0,1074,24,2.23,379.14,8.47,0.38,283271,57.9,-2.47,129.93,3.88
-2020-10-16,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,16.24,46,0,0.0,1060,24,2.26,374.2,8.47,0.37,283271,60.37,8.47,126.05,13.77
-2020-10-15,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,13.77,39,0,0.0,1014,24,2.37,357.96,8.47,0.36,283271,51.9,4.59,112.28,12.0
-2020-10-14,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,11.65,33,0,0.0,975,24,2.46,344.19,8.47,0.34,283271,47.31,7.77,100.28,10.24
+2020-10-25,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.41,4,0,0.0,1424,25,1.76,502.7,8.83,0.5,283271,117.9,-4.59,237.58,0.7
+2020-10-24,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,29.3,83,0,0.0,1420,25,1.76,501.29,8.83,0.5,283271,122.49,24.36,236.88,28.24
+2020-10-23,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,23.3,66,0,0.0,1337,25,1.87,471.99,8.83,0.47,283271,98.13,7.06,208.64,20.83
+2020-10-22,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,23.65,67,0,0.0,1271,25,1.97,448.69,8.83,0.45,283271,91.07,9.53,187.81,19.06
+2020-10-21,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,22.59,64,0,0.0,1204,25,2.08,425.03,8.83,0.43,283271,81.54,11.65,168.75,20.47
+2020-10-20,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,13.41,38,1,0.35,1140,25,2.19,402.44,8.83,0.4,283271,69.89,8.47,148.28,11.29
+2020-10-19,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,4.24,12,0,0.0,1102,24,2.18,389.03,8.47,0.39,283271,61.42,2.12,136.99,2.83
+2020-10-18,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,6.0,17,0,0.0,1090,24,2.2,384.79,8.47,0.38,283271,59.3,1.76,134.16,4.59
+2020-10-17,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,4.94,14,0,0.0,1073,24,2.24,378.79,8.47,0.38,283271,57.54,-2.47,129.57,3.88
+2020-10-16,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,16.24,46,0,0.0,1059,24,2.27,373.85,8.47,0.37,283271,60.01,8.47,125.69,13.77
+2020-10-15,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,14.12,40,0,0.0,1013,24,2.37,357.61,8.47,0.36,283271,51.54,4.94,111.92,12.35
+2020-10-14,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,10.94,31,0,0.0,973,24,2.47,343.49,8.47,0.34,283271,46.6,7.06,99.57,9.53
 2020-10-13,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,4.94,14,1,0.35,942,24,2.55,332.54,8.47,0.33,283271,39.54,2.47,90.04,3.17
 2020-10-12,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,2.12,6,0,0.0,928,23,2.48,327.6,8.12,0.33,283271,37.07,-1.06,86.87,1.41
 2020-10-11,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,4.24,12,0,0.0,922,23,2.49,325.48,8.12,0.33,283271,38.13,0.71,85.46,3.18

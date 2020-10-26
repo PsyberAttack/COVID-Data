@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-25,Tennessee,Lake,26.99,2,0,0.0,985,3,0.3,13291.05,40.48,13.29,7411,44.7,310.36,-40.48,809.61,-53.97
 2020-10-24,Tennessee,Lake,40.48,3,0,0.0,983,3,0.31,13264.07,40.48,13.26,7411,44.7,350.84,13.49,863.58,26.99
 2020-10-23,Tennessee,Lake,67.47,5,0,0.0,980,3,0.31,13223.59,40.48,13.22,7411,44.7,337.35,53.98,836.59,13.5
 2020-10-22,Tennessee,Lake,-13.49,-1,0,0.0,975,3,0.31,13156.12,40.48,13.16,7411,44.7,283.37,-40.48,823.09,53.98

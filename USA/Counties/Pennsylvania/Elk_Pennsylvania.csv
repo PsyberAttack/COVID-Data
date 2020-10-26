@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-25,Pennsylvania,Elk,9.94,3,0,0.0,154,2,1.3,510.46,6.63,0.51,30169,36.46,162.41,0.0,271.76,6.63
 2020-10-24,Pennsylvania,Elk,26.52,8,0,0.0,151,2,1.32,500.51,6.63,0.5,30169,36.46,162.41,16.58,265.13,29.83
 2020-10-23,Pennsylvania,Elk,29.83,9,0,0.0,143,2,1.4,474.0,6.63,0.47,30169,36.46,145.83,9.94,235.3,26.52
 2020-10-22,Pennsylvania,Elk,23.2,7,0,0.0,134,2,1.49,444.16,6.63,0.44,30169,36.46,135.89,16.57,208.78,16.57

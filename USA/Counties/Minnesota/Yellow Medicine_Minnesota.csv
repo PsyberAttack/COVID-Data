@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-25,Minnesota,Yellow Medicine,20.42,2,1,10.21,283,6,2.12,2889.23,61.26,2.89,9795,12.9,183.78,0.0,980.14,-30.63
 2020-10-24,Minnesota,Yellow Medicine,61.26,6,0,0.0,281,5,1.78,2868.81,51.05,2.87,9795,12.9,183.78,30.63,1010.77,0.0
 2020-10-23,Minnesota,Yellow Medicine,40.84,4,0,0.0,275,5,1.82,2807.55,51.05,2.81,9795,12.9,153.15,0.0,1010.77,30.63
 2020-10-22,Minnesota,Yellow Medicine,30.63,3,0,0.0,271,5,1.85,2766.72,51.05,2.77,9795,12.9,153.15,-40.84,980.14,-30.63

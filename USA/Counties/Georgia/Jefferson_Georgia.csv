@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-25,Georgia,Jefferson,0.0,0,0,0.0,887,32,3.61,5748.54,207.39,5.75,15430,29.3,142.56,0.0,609.17,-19.44
 2020-10-24,Georgia,Jefferson,19.44,3,0,0.0,887,32,3.61,5748.54,207.39,5.75,15430,29.3,142.56,19.44,628.61,0.0
 2020-10-23,Georgia,Jefferson,32.4,5,0,0.0,884,32,3.62,5729.1,207.39,5.73,15430,29.3,123.12,19.44,628.61,19.44
 2020-10-22,Georgia,Jefferson,25.92,4,0,0.0,879,32,3.64,5696.69,207.39,5.7,15430,29.3,103.68,12.96,609.17,-25.93
