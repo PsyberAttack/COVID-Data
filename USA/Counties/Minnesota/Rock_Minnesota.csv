@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-26,Minnesota,Rock,127.47,12,0,0.0,340,4,1.18,3611.64,42.49,3.61,9414,19.51,456.77,10.62,1742.06,127.47
 2020-10-25,Minnesota,Rock,42.49,4,0,0.0,328,4,1.22,3484.17,42.49,3.48,9414,19.51,446.15,0.0,1614.59,10.62
 2020-10-24,Minnesota,Rock,95.6,9,0,0.0,324,4,1.23,3441.68,42.49,3.44,9414,19.51,446.15,84.98,1603.97,21.24
 2020-10-23,Minnesota,Rock,42.49,4,1,10.62,315,4,1.27,3346.08,42.49,3.35,9414,19.51,361.17,-10.62,1582.73,21.25

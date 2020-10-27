@@ -1,10 +1,11 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-25,Berlin,Berlin Steglitz-Zehlendorf,11.91,35,0,0.0,1654,14,0.85,562.61,4.76,0.56,293989,92.53,7.49,238.07,9.87
-2020-10-24,Berlin,Berlin Steglitz-Zehlendorf,0.0,0,0,0.0,1619,14,0.86,550.7,4.76,0.55,293989,85.04,-7.82,228.2,-2.04
-2020-10-23,Berlin,Berlin Steglitz-Zehlendorf,30.61,90,0,0.0,1619,14,0.86,550.7,4.76,0.55,293989,92.86,17.68,230.24,28.91
-2020-10-22,Berlin,Berlin Steglitz-Zehlendorf,12.25,36,0,0.0,1529,14,0.92,520.09,4.76,0.52,293989,75.18,-2.38,201.33,9.87
-2020-10-21,Berlin,Berlin Steglitz-Zehlendorf,10.88,32,0,0.0,1493,14,0.94,507.84,4.76,0.51,293989,77.56,5.44,191.46,6.12
-2020-10-20,Berlin,Berlin Steglitz-Zehlendorf,13.27,39,0,0.0,1461,14,0.96,496.96,4.76,0.5,293989,72.12,2.39,185.34,9.87
+2020-10-26,Berlin,Berlin Steglitz-Zehlendorf,12.93,38,0,0.0,1720,15,0.87,585.06,5.1,0.59,293989,101.37,-0.68,255.42,7.83
+2020-10-25,Berlin,Berlin Steglitz-Zehlendorf,21.09,62,0,0.0,1682,15,0.89,572.13,5.1,0.57,293989,102.05,16.67,247.59,19.05
+2020-10-24,Berlin,Berlin Steglitz-Zehlendorf,0.0,0,0,0.0,1620,15,0.93,551.04,5.1,0.55,293989,85.38,-7.82,228.54,-2.04
+2020-10-23,Berlin,Berlin Steglitz-Zehlendorf,30.61,90,1,0.34,1620,15,0.93,551.04,5.1,0.55,293989,93.2,17.68,230.58,28.91
+2020-10-22,Berlin,Berlin Steglitz-Zehlendorf,12.25,36,0,0.0,1530,14,0.92,520.43,4.76,0.52,293989,75.52,-2.38,201.67,9.87
+2020-10-21,Berlin,Berlin Steglitz-Zehlendorf,10.88,32,0,0.0,1494,14,0.94,508.18,4.76,0.51,293989,77.9,5.44,191.8,6.12
+2020-10-20,Berlin,Berlin Steglitz-Zehlendorf,13.61,40,0,0.0,1462,14,0.96,497.3,4.76,0.5,293989,72.46,2.73,185.68,10.21
 2020-10-19,Berlin,Berlin Steglitz-Zehlendorf,13.61,40,0,0.0,1422,14,0.98,483.69,4.76,0.48,293989,69.73,2.39,175.47,8.17
 2020-10-18,Berlin,Berlin Steglitz-Zehlendorf,4.42,13,0,0.0,1382,14,1.01,470.09,4.76,0.47,293989,67.34,-3.06,167.3,2.04
 2020-10-17,Berlin,Berlin Steglitz-Zehlendorf,7.82,23,0,0.0,1369,14,1.02,465.66,4.76,0.47,293989,70.4,3.06,165.26,6.12
