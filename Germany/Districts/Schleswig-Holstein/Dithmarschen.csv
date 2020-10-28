@@ -1,10 +1,11 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-10-26,Schleswig-Holstein,Dithmarschen,1.5,2,0,0.0,351,8,2.28,263.49,6.01,0.26,133210,34.52,-7.51,102.81,0.0
-2020-10-25,Schleswig-Holstein,Dithmarschen,1.5,2,0,0.0,349,8,2.29,261.99,6.01,0.26,133210,42.03,-0.75,102.81,0.0
-2020-10-24,Schleswig-Holstein,Dithmarschen,4.5,6,0,0.0,347,8,2.31,260.49,6.01,0.26,133210,42.78,3.0,102.81,3.75
-2020-10-23,Schleswig-Holstein,Dithmarschen,9.01,12,0,0.0,341,8,2.35,255.99,6.01,0.26,133210,39.78,6.01,99.06,8.26
-2020-10-22,Schleswig-Holstein,Dithmarschen,4.5,6,0,0.0,329,8,2.43,246.98,6.01,0.25,133210,33.77,-6.76,90.8,-0.75
-2020-10-21,Schleswig-Holstein,Dithmarschen,5.25,7,0,0.0,323,8,2.48,242.47,6.01,0.24,133210,40.53,1.5,91.55,-0.76
+2020-10-27,Schleswig-Holstein,Dithmarschen,7.51,10,0,0.0,365,8,2.19,274.0,6.01,0.27,133210,36.78,-0.75,112.58,6.76
+2020-10-26,Schleswig-Holstein,Dithmarschen,3.0,4,0,0.0,355,8,2.25,266.5,6.01,0.27,133210,37.53,-6.01,105.82,1.5
+2020-10-25,Schleswig-Holstein,Dithmarschen,2.25,3,0,0.0,351,8,2.28,263.49,6.01,0.26,133210,43.54,0.0,104.32,0.75
+2020-10-24,Schleswig-Holstein,Dithmarschen,4.5,6,0,0.0,348,8,2.3,261.24,6.01,0.26,133210,43.54,3.0,103.57,3.75
+2020-10-23,Schleswig-Holstein,Dithmarschen,9.01,12,0,0.0,342,8,2.34,256.74,6.01,0.26,133210,40.54,6.01,99.82,8.26
+2020-10-22,Schleswig-Holstein,Dithmarschen,4.5,6,0,0.0,330,8,2.42,247.73,6.01,0.25,133210,34.53,-6.76,91.56,-0.75
+2020-10-21,Schleswig-Holstein,Dithmarschen,6.01,8,0,0.0,324,8,2.47,243.22,6.01,0.24,133210,41.29,2.26,92.31,0.0
 2020-10-20,Schleswig-Holstein,Dithmarschen,8.26,11,2,1.5,316,8,2.53,237.22,6.01,0.24,133210,39.03,6.76,92.31,7.51
 2020-10-19,Schleswig-Holstein,Dithmarschen,9.01,12,0,0.0,305,6,1.97,228.96,4.5,0.23,133210,32.27,7.51,84.8,7.51
 2020-10-18,Schleswig-Holstein,Dithmarschen,2.25,3,0,0.0,293,6,2.05,219.95,4.5,0.22,133210,24.76,0.0,77.29,-0.75

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-27,Colorado,Park,16.17,3,0,0.0,95,1,1.05,511.96,5.39,0.51,18556,8.46,70.07,10.78,199.42,10.78
 2020-10-26,Colorado,Park,0.0,0,0,0.0,92,1,1.09,495.8,5.39,0.5,18556,8.46,59.29,-5.39,188.64,0.0
 2020-10-25,Colorado,Park,-5.39,-1,0,0.0,92,1,1.09,495.8,5.39,0.5,18556,8.46,64.68,-10.78,188.64,-10.78
 2020-10-24,Colorado,Park,10.78,2,0,0.0,93,1,1.08,501.19,5.39,0.5,18556,8.46,75.46,-43.11,199.42,10.78

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-27,Pennsylvania,Bradford,73.97,45,0,0.0,701,14,2.0,1152.34,23.01,1.15,60833,53.02,327.12,41.09,879.47,57.53
 2020-10-26,Pennsylvania,Bradford,14.79,9,1,1.64,656,14,2.13,1078.36,23.01,1.08,60833,53.02,286.03,0.0,821.94,1.64
 2020-10-25,Pennsylvania,Bradford,23.01,14,3,4.93,647,13,2.01,1063.57,21.37,1.06,60833,53.02,286.03,1.64,820.3,8.22
 2020-10-24,Pennsylvania,Bradford,32.88,20,1,1.64,633,10,1.58,1040.55,16.44,1.04,60833,53.02,284.39,-8.22,812.08,26.3

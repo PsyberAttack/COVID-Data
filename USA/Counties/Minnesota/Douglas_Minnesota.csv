@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-27,Minnesota,Douglas,52.68,20,0,0.0,728,3,0.41,1917.61,7.9,1.92,37964,59.62,305.55,31.61,990.39,13.17
 2020-10-26,Minnesota,Douglas,31.61,12,0,0.0,708,3,0.42,1864.92,7.9,1.86,37964,59.62,273.94,0.0,977.22,2.64
 2020-10-25,Minnesota,Douglas,63.22,24,0,0.0,696,3,0.43,1833.32,7.9,1.83,37964,59.62,273.94,2.64,974.58,21.07
 2020-10-24,Minnesota,Douglas,65.85,25,0,0.0,672,3,0.45,1770.1,7.9,1.77,37964,59.62,271.3,31.61,953.51,31.61
