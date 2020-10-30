@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-29,Texas,Jones,25.23,5,0,0.0,600,2,0.33,3027.7,10.09,3.03,19817,21.34,45.41,25.23,176.61,85.78
 2020-10-28,Texas,Jones,25.23,5,0,0.0,595,2,0.34,3002.47,10.09,3.0,19817,21.34,20.18,0.0,90.83,25.23
 2020-10-27,Texas,Jones,25.23,5,0,0.0,590,2,0.34,2977.24,10.09,2.98,19817,21.34,20.18,25.23,65.6,15.14
 2020-10-26,Texas,Jones,0.0,0,0,0.0,585,2,0.34,2952.01,10.09,2.95,19817,21.34,-5.05,0.0,50.46,0.0
