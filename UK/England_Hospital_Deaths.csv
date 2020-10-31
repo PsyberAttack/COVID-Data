@@ -1,40 +1,301 @@
 date,new_deaths,total_deaths,hospital,region,code
-2020-10-29,4,261,Northumbria Healthcare NHS Foundation Trust,North East and Yorkshire,RTF
-2020-10-29,3,334,"Wrightington, Wigan And Leigh NHS Foundation Trust",North West,RRF
-2020-10-29,2,363,Nottingham University Hospitals NHS Trust,Midlands,RX1
+2020-10-30,4,695,Pennine Acute Hospitals NHS Trust,North West,RW6
+2020-10-30,3,368,Nottingham University Hospitals NHS Trust,Midlands,RX1
+2020-10-30,3,303,Blackpool Teaching Hospitals NHS Foundation Trust,North West,RXL
+2020-10-30,2,376,East Suffolk And North Essex NHS Foundation Trust,East Of England,RDE
+2020-10-30,2,286,The Dudley Group NHS Foundation Trust,Midlands,RNA
+2020-10-30,2,298,County Durham And Darlington NHS Foundation Trust,North East and Yorkshire,RXP
+2020-10-30,2,302,Doncaster And Bassetlaw Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RP5
+2020-10-30,2,230,Salford Royal NHS Foundation Trust,North West,RM3
+2020-10-30,2,258,Stockport NHS Foundation Trust,North West,RWJ
+2020-10-30,2,344,"Wrightington, Wigan And Leigh NHS Foundation Trust",North West,RRF
+2020-10-30,1,344,Basildon And Thurrock University Hospitals NHS Foundation Trust,East Of England,RDD
+2020-10-30,1,256,North West Anglia NHS Foundation Trust,East Of England,RGN
+2020-10-30,1,674,Barts Health NHS Trust,London,R1H
+2020-10-30,1,326,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-10-30,1,165,United Lincolnshire Hospitals NHS Trust,Midlands,RWD
+2020-10-30,1,208,Calderdale And Huddersfield NHS Foundation Trust,North East and Yorkshire,RWY
+2020-10-30,1,137,Northern Lincolnshire And Goole NHS Foundation Trust,North East and Yorkshire,RJL
+2020-10-30,1,264,Northumbria Healthcare NHS Foundation Trust,North East and Yorkshire,RTF
+2020-10-30,1,287,Bolton NHS Foundation Trust,North West,RMC
+2020-10-30,1,290,East Lancashire Hospitals NHS Trust,North West,RXR
+2020-10-30,1,691,Liverpool University Hospitals NHS Foundation Trust,North West,REM
+2020-10-30,1,532,Manchester University NHS Foundation Trust,North West,R0A
+2020-10-30,1,196,Southport And Ormskirk Hospital NHS Trust,North West,RVY
+2020-10-30,1,219,University Hospitals Of Morecambe Bay NHS Foundation Trust,North West,RTX
+2020-10-30,1,190,Warrington And Halton Teaching Hospitals NHS Foundation Trust,North West,RWW
+2020-10-30,1,158,Brighton And Sussex University Hospitals NHS Trust,South East,RXH
+2020-10-30,0,4,Anglian Community Enterprise CIC - Clacton Hospital,East Of England,NQ108
+2020-10-30,0,26,Anglian Community Enterprise CIC - Fryatt Hospital,East Of England,NQ106
+2020-10-30,0,236,Bedford Hospital NHS Trust,East Of England,RC1
+2020-10-30,0,128,Cambridge University Hospitals NHS Foundation Trust,East Of England,RGT
+2020-10-30,0,1,Cambridgeshire And Peterborough NHS Foundation Trust,East Of England,RT1
+2020-10-30,0,171,East And North Hertfordshire NHS Trust,East Of England,RWH
+2020-10-30,0,3,East Coast Community Healthcare - Beccles Hospital,East Of England,NAX03
+2020-10-30,0,1,Elysium Healthcare Limited,East Of England,DE8
+2020-10-30,0,17,Essex Partnership University NHS Foundation Trust,East Of England,R1L
+2020-10-30,0,8,Hertfordshire Community NHS Trust,East Of England,RY4
+2020-10-30,0,10,Hertfordshire Partnership University NHS Foundation Trust,East Of England,RWR
+2020-10-30,0,128,James Paget University Hospitals NHS Foundation Trust,East Of England,RGP
+2020-10-30,0,291,Luton And Dunstable University Hospital NHS Foundation Trust,East Of England,RC9
+2020-10-30,0,203,Mid Essex Hospital Services NHS Trust,East Of England,RQ8
+2020-10-30,0,104,Milton Keynes University Hospital NHS Foundation Trust,East Of England,RD8
+2020-10-30,0,125,Norfolk And Norwich University Hospitals NHS Foundation Trust,East Of England,RM1
+2020-10-30,0,2,Norfolk And Suffolk NHS Foundation Trust,East Of England,RMY
+2020-10-30,0,29,Norfolk Community Health And Care NHS Trust,East Of England,RY3
+2020-10-30,0,6,Provide - Braintree Community Hospital,East Of England,NQA20
+2020-10-30,0,1,Provide - Halstead Hospital,East Of England,NQA64
+2020-10-30,0,2,Provide - St Peters Hospital,East Of England,NQA31
+2020-10-30,0,22,Royal Papworth Hospital NHS Foundation Trust,East Of England,RGM
+2020-10-30,0,253,Southend University Hospital NHS Foundation Trust,East Of England,RAJ
+2020-10-30,0,206,The Princess Alexandra Hospital NHS Trust,East Of England,RQW
+2020-10-30,0,156,"The Queen Elizabeth Hospital, King'S Lynn, NHS Foundation Trust",East Of England,RCX
+2020-10-30,0,399,West Hertfordshire Hospitals NHS Trust,East Of England,RWG
+2020-10-30,0,87,West Suffolk NHS Foundation Trust,East Of England,RGR
+2020-10-30,0,516,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
+2020-10-30,0,7,Central And North West London NHS Foundation Trust,London,RV3
+2020-10-30,0,10,Central London Community Healthcare NHS Trust,London,RYX
+2020-10-30,0,306,Croydon Health Services NHS Trust,London,RJ6
+2020-10-30,0,17,East London NHS Foundation Trust,London,RWK
+2020-10-30,0,295,Epsom And St Helier University Hospitals NHS Trust,London,RVR
+2020-10-30,0,241,Guy'S And St Thomas' NHS Foundation Trust,London,RJ1
+2020-10-30,0,2,Hca UK - London Bridge,London,NW605
+2020-10-30,0,1,Hca UK - The Lister,London,NW603
+2020-10-30,0,2,Hca UK - The Princess Grace,London,NW601
+2020-10-30,0,9,Hca UK - The Wellington Hospital North Building,London,NW602
+2020-10-30,0,151,Homerton University Hospital NHS Foundation Trust,London,RQX
+2020-10-30,0,9,Hospital Of St John & St Elizabeth - Hospital Of St John & St Elizabeth,London,NMM01
+2020-10-30,0,1,Hounslow And Richmond Community Healthcare NHS Trust,London,RY9
+2020-10-30,0,446,Imperial College Healthcare NHS Trust,London,RYJ
+2020-10-30,0,519,King'S College Hospital NHS Foundation Trust,London,RJZ
+2020-10-30,0,166,Kingston Hospital NHS Foundation Trust,London,RAX
+2020-10-30,0,422,Lewisham And Greenwich NHS Trust,London,RJ2
+2020-10-30,0,637,London North West University Healthcare NHS Trust,London,R1K
+2020-10-30,0,4,Nhs Nightingale Hospital London,London,R1H0A
+2020-10-30,0,46,North East London NHS Foundation Trust,London,RAT
+2020-10-30,0,279,North Middlesex University Hospital NHS Trust,London,RAP
+2020-10-30,0,3,Oxleas NHS Foundation Trust,London,RPG
+2020-10-30,0,50,Royal Brompton & Harefield NHS Foundation Trust,London,RT3
+2020-10-30,0,498,Royal Free London NHS Foundation Trust,London,RAL
+2020-10-30,0,10,Royal Hospital For Neuro-Disability – West Hill,London,NN101
+2020-10-30,0,4,Royal National Orthopaedic Hospital NHS Trust,London,RAN
+2020-10-30,0,2,South London And Maudsley NHS Foundation Trust,London,RV5
+2020-10-30,0,301,St George'S University Hospitals NHS Foundation Trust,London,RJ7
+2020-10-30,0,169,The Hillingdon Hospitals NHS Foundation Trust,London,RAS
+2020-10-30,0,6,The London Clinic - 20 Devonshire Place,London,E8770
+2020-10-30,0,19,The Royal Marsden NHS Foundation Trust,London,RPY
+2020-10-30,0,180,University College London Hospitals NHS Foundation Trust,London,RRV
+2020-10-30,0,4,West London NHS Trust,London,RKL
+2020-10-30,0,114,Whittington Health NHS Trust,London,RKE
+2020-10-30,0,40,Birmingham Community Healthcare NHS Foundation Trust,Midlands,RYW
+2020-10-30,0,142,Chesterfield Royal Hospital NHS Foundation Trust,Midlands,RFS
+2020-10-30,0,19,Derbyshire Community Health Services NHS Foundation Trust,Midlands,RY8
+2020-10-30,0,2,Derbyshire Healthcare NHS Foundation Trust,Midlands,RXM
+2020-10-30,0,180,George Eliot Hospital NHS Trust,Midlands,RLT
+2020-10-30,0,225,Kettering General Hospital NHS Foundation Trust,Midlands,RNQ
+2020-10-30,0,21,Leicestershire Partnership NHS Trust,Midlands,RT5
+2020-10-30,0,6,Lincolnshire Community Health Services NHS Trust,Midlands,RY5
+2020-10-30,0,1,Lincolnshire Partnership NHS Foundation Trust,Midlands,RP7
+2020-10-30,0,12,Midlands Partnership NHS Foundation Trust,Midlands,RRE
+2020-10-30,0,6,North Staffordshire Combined Healthcare NHS Trust,Midlands,RLY
+2020-10-30,0,321,Northampton General Hospital NHS Trust,Midlands,RNS
+2020-10-30,0,15,Northamptonshire Healthcare NHS Foundation Trust,Midlands,RP1
+2020-10-30,0,15,Nottinghamshire Healthcare NHS Foundation Trust,Midlands,RHA
+2020-10-30,0,1,Ramsay Health UK - Nottingham Woodthorpe,Midlands,NVC40
+2020-10-30,0,426,Sandwell And West Birmingham Hospitals NHS Trust,Midlands,RXK
+2020-10-30,0,140,Sherwood Forest Hospitals NHS Foundation Trust,Midlands,RK5
+2020-10-30,0,185,Shrewsbury And Telford Hospital NHS Trust,Midlands,RXW
+2020-10-30,0,15,Shropshire Community Health NHS Trust,Midlands,R1D
+2020-10-30,0,121,South Warwickshire NHS Foundation Trust,Midlands,RJC
+2020-10-30,0,5,The Robert Jones And Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,Midlands,RL1
+2020-10-30,0,15,The Royal Orthopaedic Hospital NHS Foundation Trust,Midlands,RRJ
+2020-10-30,0,308,The Royal Wolverhampton NHS Trust,Midlands,RL4
+2020-10-30,0,1076,University Hospitals Birmingham NHS Foundation Trust,Midlands,RRK
+2020-10-30,0,257,University Hospitals Coventry And Warwickshire NHS Trust,Midlands,RKB
+2020-10-30,0,585,University Hospitals Of Derby And Burton NHS Foundation Trust,Midlands,RTG
+2020-10-30,0,477,University Hospitals Of Leicester NHS Trust,Midlands,RWE
+2020-10-30,0,398,University Hospitals Of North Midlands NHS Trust,Midlands,RJE
+2020-10-30,0,247,Walsall Healthcare NHS Trust,Midlands,RBK
+2020-10-30,0,291,Worcestershire Acute Hospitals NHS Trust,Midlands,RWP
+2020-10-30,0,29,Worcestershire Health And Care NHS Trust,Midlands,R1A
+2020-10-30,0,65,Wye Valley NHS Trust,Midlands,RLQ
+2020-10-30,0,125,Airedale NHS Foundation Trust,North East and Yorkshire,RCF
+2020-10-30,0,178,Barnsley Hospital NHS Foundation Trust,North East and Yorkshire,RFF
+2020-10-30,0,2,Bradford District Care NHS Foundation Trust,North East and Yorkshire,TAD
+2020-10-30,0,298,Bradford Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RAE
+2020-10-30,0,15,City Health Care Partnership CIC - East Riding Community Hospital,North East and Yorkshire,NNF94
+2020-10-30,0,7,"Cumbria, Northumberland, Tyne And Wear NHS Foundation Trust",North East and Yorkshire,RX4
+2020-10-30,0,167,Gateshead Health NHS Foundation Trust,North East and Yorkshire,RR7
+2020-10-30,0,87,Harrogate And District NHS Foundation Trust,North East and Yorkshire,RCD
+2020-10-30,0,234,Hull University Teaching Hospitals NHS Trust,North East and Yorkshire,RWA
+2020-10-30,0,1,Humber Teaching NHS Foundation Trust,North East and Yorkshire,RV9
+2020-10-30,0,4,Leeds And York Partnership NHS Foundation Trust,North East and Yorkshire,RGD
+2020-10-30,0,417,Leeds Teaching Hospitals NHS Trust,North East and Yorkshire,RR8
+2020-10-30,0,368,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
+2020-10-30,0,191,North Cumbria Integrated Care NHS Foundation Trust,North East and Yorkshire,RNN
+2020-10-30,0,174,North Tees And Hartlepool NHS Foundation Trust,North East and Yorkshire,RVW
+2020-10-30,0,4,Rotherham Doncaster And South Humber NHS Foundation Trust,North East and Yorkshire,RXE
+2020-10-30,0,1,Sheffield Children'S NHS Foundation Trust,North East and Yorkshire,RCU
+2020-10-30,0,3,Sheffield Health And Social Care NHS Foundation Trust,North East and Yorkshire,TAH
+2020-10-30,0,338,Sheffield Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RHQ
+2020-10-30,0,287,South Tees Hospitals NHS Foundation Trust,North East and Yorkshire,RTR
+2020-10-30,0,402,South Tyneside And Sunderland NHS Foundation Trust,North East and Yorkshire,R0B
+2020-10-30,0,8,"Tees, Esk And Wear Valleys NHS Foundation Trust",North East and Yorkshire,RX3
+2020-10-30,0,141,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,North East and Yorkshire,RTD
+2020-10-30,0,228,The Rotherham NHS Foundation Trust,North East and Yorkshire,RFR
+2020-10-30,0,231,York Teaching Hospital NHS Foundation Trust,North East and Yorkshire,RCB
+2020-10-30,0,4,Alder Hey Children'S NHS Foundation Trust,North West,RBS
+2020-10-30,0,4,Cheshire And Wirral Partnership NHS Foundation Trust,North West,RXA
+2020-10-30,0,237,Countess Of Chester Hospital NHS Foundation Trust,North West,RJR
+2020-10-30,0,155,East Cheshire NHS Trust,North West,RJN
+2020-10-30,0,9,Greater Manchester Mental Health NHS Foundation Trust,North West,RXV
+2020-10-30,0,298,Lancashire Teaching Hospitals NHS Foundation Trust,North West,RXN
+2020-10-30,0,20,Liverpool Heart And Chest Hospital NHS Foundation Trust,North West,RBQ
+2020-10-30,0,4,Mersey Care NHS Foundation Trust,North West,RW4
+2020-10-30,0,220,Mid Cheshire Hospitals NHS Foundation Trust,North West,RBT
+2020-10-30,0,6,Nhs Nightingale Hospital North West,North West,R0A90
+2020-10-30,0,1,North West Boroughs Healthcare NHS Foundation Trust,North West,RTV
+2020-10-30,0,6,Pennine Care NHS Foundation Trust,North West,RT2
+2020-10-30,0,284,St Helens And Knowsley Teaching Hospitals NHS Trust,North West,RBN
+2020-10-30,0,326,Tameside And Glossop Integrated Care NHS Foundation Trust,North West,RMP
+2020-10-30,0,15,The Christie NHS Foundation Trust,North West,RBV
+2020-10-30,0,10,The Walton Centre NHS Foundation Trust,North West,RET
+2020-10-30,0,294,Wirral University Teaching Hospital NHS Foundation Trust,North West,RBL
+2020-10-30,0,195,Ashford And St Peter'S Hospitals NHS Foundation Trust,South East,RTK
+2020-10-30,0,20,Berkshire Healthcare NHS Foundation Trust,South East,RWX
+2020-10-30,0,2,Bmi Healthcare - Mount Alvernia,South East,NT455
+2020-10-30,0,136,Buckinghamshire Healthcare NHS Trust,South East,RXQ
+2020-10-30,0,4,Central Surrey Health - Walton Community Hospital,South East,NTV0S
+2020-10-30,0,1,Central Surrey Health - Woking Community Hospital,South East,NTV0O
+2020-10-30,0,243,Dartford And Gravesham NHS Trust,South East,RN7
+2020-10-30,0,469,East Kent Hospitals University NHS Foundation Trust,South East,RVV
+2020-10-30,0,101,East Sussex Healthcare NHS Trust,South East,RXC
+2020-10-30,0,390,Frimley Health NHS Foundation Trust,South East,RDU
+2020-10-30,0,168,Hampshire Hospitals NHS Foundation Trust,South East,RN5
+2020-10-30,0,41,Isle Of Wight NHS Trust,South East,R1F
+2020-10-30,0,1,Kent And Medway NHS And Social Care Partnership Trust,South East,RXY
+2020-10-30,0,48,Kent Community Health NHS Foundation Trust,South East,RYY
+2020-10-30,0,133,Maidstone And Tunbridge Wells NHS Trust,South East,RWF
+2020-10-30,0,201,Medway NHS Foundation Trust,South East,RPA
+2020-10-30,0,1,Nuffield Health - Woking,South East,NT241
+2020-10-30,0,2,Oldercare (Haslemere) Limited - St Magnus Hospital,South East,8CM63
+2020-10-30,0,23,Oxford Health NHS Foundation Trust,South East,RNU
+2020-10-30,0,187,Oxford University Hospitals NHS Foundation Trust,South East,RTH
+2020-10-30,0,241,Portsmouth Hospitals NHS Trust,South East,RHU
+2020-10-30,0,223,Royal Berkshire NHS Foundation Trust,South East,RHW
+2020-10-30,0,101,Royal Surrey County Hospital NHS Foundation Trust,South East,RA2
+2020-10-30,0,2,Solent NHS Trust,South East,R1C
+2020-10-30,0,17,Southern Health NHS Foundation Trust,South East,RW1
+2020-10-30,0,263,Surrey And Sussex Healthcare NHS Trust,South East,RTP
+2020-10-30,0,18,Sussex Community NHS Foundation Trust,South East,RDR
+2020-10-30,0,214,University Hospital Southampton NHS Foundation Trust,South East,RHM
+2020-10-30,0,1,Virgin Care Services Ltd - Livingstone Community Hospital,South East,NDAJ0
+2020-10-30,0,2,Virgin Care Services Ltd - Sheppey Community Hospital,South East,NDAJ1
+2020-10-30,0,128,Western Sussex Hospitals NHS Foundation Trust,South East,RYR
+2020-10-30,0,26,Cornwall Partnership NHS Foundation Trust,South West,RJ8
+2020-10-30,0,1,Cygnet Health Care Limited,South West,NMJ
+2020-10-30,0,24,Dorset County Hospital NHS Foundation Trust,South West,RBD
+2020-10-30,0,17,Dorset Healthcare University NHS Foundation Trust,South West,RDY
+2020-10-30,0,35,Gloucestershire Health And Care NHS Foundation Trust,South West,RTQ
+2020-10-30,0,201,Gloucestershire Hospitals NHS Foundation Trust,South West,RTE
+2020-10-30,0,136,Great Western Hospitals NHS Foundation Trust,South West,RN3
+2020-10-30,0,2,Livewell Southwest - Mount Gould Hospital,South West,NR527
+2020-10-30,0,7,Nhs Trust University Hospitals Dorset NHS Foundation Trust,South West,R0D
+2020-10-30,0,127,North Bristol NHS Trust,South West,RVJ
+2020-10-30,0,24,Northern Devon Healthcare NHS Trust,South West,RBZ
+2020-10-30,0,68,Poole Hospital NHS Foundation Trust,South West,RD3
+2020-10-30,0,68,Royal Cornwall Hospitals NHS Trust,South West,REF
+2020-10-30,0,47,Royal Devon And Exeter NHS Foundation Trust,South West,RH8
+2020-10-30,0,70,Royal United Hospitals Bath NHS Foundation Trust,South West,RD1
+2020-10-30,0,57,Salisbury NHS Foundation Trust,South West,RNZ
+2020-10-30,0,46,Somerset NHS Foundation Trust,South West,RBA
+2020-10-30,0,6,Taunton And Somerset NHS Foundation Trust,South West,RBA
+2020-10-30,0,68,The Royal Bournemouth And Christchurch Hospitals NHS Foundation Trust,South West,RDZ
+2020-10-30,0,52,Torbay And South Devon NHS Foundation Trust,South West,RA9
+2020-10-30,0,155,University Hospitals Bristol NHS Foundation Trust,South West,RA7
+2020-10-30,0,88,University Hospitals Plymouth NHS Trust,South West,RK9
+2020-10-30,0,4,Virgin Care Ltd - Paulton Memorial Hospital,South West,NQT5H
+2020-10-30,0,1,Virgin Care Ltd - St Martins Hospital,South West,NQT5K
+2020-10-30,0,2,Weston Area Health NHS Trust,South West,RA3
+2020-10-30,0,2,Wiltshire Health & Care - Chippenham Community Hospital,South West,AXG01
+2020-10-30,0,5,Wiltshire Health & Care - Savernake Community Hospital,South West,AXG02
+2020-10-30,0,2,Wiltshire Health & Care - Warminster Community Hospital,South West,AXG03
+2020-10-30,0,26,Yeovil District Hospital NHS Foundation Trust,South West,RA4
+2020-10-29,11,342,"Wrightington, Wigan And Leigh NHS Foundation Trust",North West,RRF
+2020-10-29,8,289,East Lancashire Hospitals NHS Trust,North West,RXR
+2020-10-29,8,690,Liverpool University Hospitals NHS Foundation Trust,North West,REM
+2020-10-29,6,398,University Hospitals Of North Midlands NHS Trust,Midlands,RJE
+2020-10-29,6,263,Northumbria Healthcare NHS Foundation Trust,North East and Yorkshire,RTF
+2020-10-29,5,1076,University Hospitals Birmingham NHS Foundation Trust,Midlands,RRK
+2020-10-29,5,417,Leeds Teaching Hospitals NHS Trust,North East and Yorkshire,RR8
+2020-10-29,5,256,Stockport NHS Foundation Trust,North West,RWJ
+2020-10-29,4,365,Nottingham University Hospitals NHS Trust,Midlands,RX1
+2020-10-29,4,140,Sherwood Forest Hospitals NHS Foundation Trust,Midlands,RK5
+2020-10-29,4,296,County Durham And Darlington NHS Foundation Trust,North East and Yorkshire,RXP
+2020-10-29,4,338,Sheffield Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RHQ
+2020-10-29,3,374,East Suffolk And North Essex NHS Foundation Trust,East Of England,RDE
+2020-10-29,3,585,University Hospitals Of Derby And Burton NHS Foundation Trust,Midlands,RTG
+2020-10-29,3,286,Bolton NHS Foundation Trust,North West,RMC
+2020-10-29,3,691,Pennine Acute Hospitals NHS Trust,North West,RW6
+2020-10-29,3,228,Salford Royal NHS Foundation Trust,North West,RM3
+2020-10-29,2,516,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
+2020-10-29,2,426,Sandwell And West Birmingham Hospitals NHS Trust,Midlands,RXK
 2020-10-29,2,164,United Lincolnshire Hospitals NHS Trust,Midlands,RWD
-2020-10-29,2,294,County Durham And Darlington NHS Foundation Trust,North East and Yorkshire,RXP
-2020-10-29,2,336,Sheffield Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RHQ
-2020-10-29,2,283,East Lancashire Hospitals NHS Trust,North West,RXR
-2020-10-29,2,684,Liverpool University Hospitals NHS Foundation Trust,North West,REM
-2020-10-29,2,253,Stockport NHS Foundation Trust,North West,RWJ
+2020-10-29,2,477,University Hospitals Of Leicester NHS Trust,Midlands,RWE
+2020-10-29,2,178,Barnsley Hospital NHS Foundation Trust,North East and Yorkshire,RFF
+2020-10-29,2,300,Doncaster And Bassetlaw Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RP5
+2020-10-29,2,174,North Tees And Hartlepool NHS Foundation Trust,North East and Yorkshire,RVW
+2020-10-29,2,300,Blackpool Teaching Hospitals NHS Foundation Trust,North West,RXL
+2020-10-29,2,531,Manchester University NHS Foundation Trust,North West,R0A
+2020-10-29,2,326,Tameside And Glossop Integrated Care NHS Foundation Trust,North West,RMP
 2020-10-29,2,218,University Hospitals Of Morecambe Bay NHS Foundation Trust,North West,RTX
+2020-10-29,2,223,Royal Berkshire NHS Foundation Trust,South East,RHW
+2020-10-29,2,101,Royal Surrey County Hospital NHS Foundation Trust,South East,RA2
+2020-10-29,2,88,University Hospitals Plymouth NHS Trust,South West,RK9
 2020-10-29,1,343,Basildon And Thurrock University Hospitals NHS Foundation Trust,East Of England,RDD
+2020-10-29,1,236,Bedford Hospital NHS Trust,East Of England,RC1
 2020-10-29,1,203,Mid Essex Hospital Services NHS Trust,East Of England,RQ8
-2020-10-29,1,324,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-10-29,1,206,The Princess Alexandra Hospital NHS Trust,East Of England,RQW
+2020-10-29,1,156,"The Queen Elizabeth Hospital, King'S Lynn, NHS Foundation Trust",East Of England,RCX
+2020-10-29,1,325,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
+2020-10-29,1,422,Lewisham And Greenwich NHS Trust,London,RJ2
+2020-10-29,1,637,London North West University Healthcare NHS Trust,London,R1K
+2020-10-29,1,498,Royal Free London NHS Foundation Trust,London,RAL
+2020-10-29,1,169,The Hillingdon Hospitals NHS Foundation Trust,London,RAS
+2020-10-29,1,142,Chesterfield Royal Hospital NHS Foundation Trust,Midlands,RFS
+2020-10-29,1,185,Shrewsbury And Telford Hospital NHS Trust,Midlands,RXW
+2020-10-29,1,121,South Warwickshire NHS Foundation Trust,Midlands,RJC
 2020-10-29,1,284,The Dudley Group NHS Foundation Trust,Midlands,RNA
-2020-10-29,1,393,University Hospitals Of North Midlands NHS Trust,Midlands,RJE
-2020-10-29,1,177,Barnsley Hospital NHS Foundation Trust,North East and Yorkshire,RFF
-2020-10-29,1,173,North Tees And Hartlepool NHS Foundation Trust,North East and Yorkshire,RVW
-2020-10-29,1,284,Bolton NHS Foundation Trust,North West,RMC
-2020-10-29,1,678,Pennine Acute Hospitals NHS Trust,North West,RW6
-2020-10-29,1,224,Salford Royal NHS Foundation Trust,North West,RM3
-2020-10-29,1,325,Tameside And Glossop Integrated Care NHS Foundation Trust,North West,RMP
-2020-10-29,1,222,Royal Berkshire NHS Foundation Trust,South East,RHW
-2020-10-29,1,87,University Hospitals Plymouth NHS Trust,South West,RK9
+2020-10-29,1,308,The Royal Wolverhampton NHS Trust,Midlands,RL4
+2020-10-29,1,65,Wye Valley NHS Trust,Midlands,RLQ
+2020-10-29,1,125,Airedale NHS Foundation Trust,North East and Yorkshire,RCF
+2020-10-29,1,298,Bradford Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RAE
+2020-10-29,1,87,Harrogate And District NHS Foundation Trust,North East and Yorkshire,RCD
+2020-10-29,1,234,Hull University Teaching Hospitals NHS Trust,North East and Yorkshire,RWA
+2020-10-29,1,368,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
+2020-10-29,1,136,Northern Lincolnshire And Goole NHS Foundation Trust,North East and Yorkshire,RJL
+2020-10-29,1,231,York Teaching Hospital NHS Foundation Trust,North East and Yorkshire,RCB
+2020-10-29,1,237,Countess Of Chester Hospital NHS Foundation Trust,North West,RJR
+2020-10-29,1,195,Southport And Ormskirk Hospital NHS Trust,North West,RVY
+2020-10-29,1,284,St Helens And Knowsley Teaching Hospitals NHS Trust,North West,RBN
+2020-10-29,1,133,Maidstone And Tunbridge Wells NHS Trust,South East,RWF
+2020-10-29,1,187,Oxford University Hospitals NHS Foundation Trust,South East,RTH
+2020-10-29,1,136,Great Western Hospitals NHS Foundation Trust,South West,RN3
+2020-10-29,1,7,Nhs Trust University Hospitals Dorset NHS Foundation Trust,South West,R0D
+2020-10-29,1,68,Poole Hospital NHS Foundation Trust,South West,RD3
+2020-10-29,1,70,Royal United Hospitals Bath NHS Foundation Trust,South West,RD1
+2020-10-29,1,155,University Hospitals Bristol NHS Foundation Trust,South West,RA7
 2020-10-29,0,4,Anglian Community Enterprise CIC - Clacton Hospital,East Of England,NQ108
 2020-10-29,0,26,Anglian Community Enterprise CIC - Fryatt Hospital,East Of England,NQ106
-2020-10-29,0,234,Bedford Hospital NHS Trust,East Of England,RC1
 2020-10-29,0,128,Cambridge University Hospitals NHS Foundation Trust,East Of England,RGT
 2020-10-29,0,1,Cambridgeshire And Peterborough NHS Foundation Trust,East Of England,RT1
 2020-10-29,0,171,East And North Hertfordshire NHS Trust,East Of England,RWH
 2020-10-29,0,3,East Coast Community Healthcare - Beccles Hospital,East Of England,NAX03
-2020-10-29,0,369,East Suffolk And North Essex NHS Foundation Trust,East Of England,RDE
 2020-10-29,0,1,Elysium Healthcare Limited,East Of England,DE8
 2020-10-29,0,17,Essex Partnership University NHS Foundation Trust,East Of England,R1L
 2020-10-29,0,8,Hertfordshire Community NHS Trust,East Of England,RY4
 2020-10-29,0,10,Hertfordshire Partnership University NHS Foundation Trust,East Of England,RWR
-2020-10-29,0,127,James Paget University Hospitals NHS Foundation Trust,East Of England,RGP
+2020-10-29,0,128,James Paget University Hospitals NHS Foundation Trust,East Of England,RGP
 2020-10-29,0,291,Luton And Dunstable University Hospital NHS Foundation Trust,East Of England,RC9
 2020-10-29,0,104,Milton Keynes University Hospital NHS Foundation Trust,East Of England,RD8
 2020-10-29,0,125,Norfolk And Norwich University Hospitals NHS Foundation Trust,East Of England,RM1
@@ -46,17 +307,14 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-29,0,2,Provide - St Peters Hospital,East Of England,NQA31
 2020-10-29,0,22,Royal Papworth Hospital NHS Foundation Trust,East Of England,RGM
 2020-10-29,0,253,Southend University Hospital NHS Foundation Trust,East Of England,RAJ
-2020-10-29,0,205,The Princess Alexandra Hospital NHS Trust,East Of England,RQW
-2020-10-29,0,155,"The Queen Elizabeth Hospital, King'S Lynn, NHS Foundation Trust",East Of England,RCX
 2020-10-29,0,399,West Hertfordshire Hospitals NHS Trust,East Of England,RWG
 2020-10-29,0,87,West Suffolk NHS Foundation Trust,East Of England,RGR
-2020-10-29,0,508,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
-2020-10-29,0,671,Barts Health NHS Trust,London,R1H
+2020-10-29,0,673,Barts Health NHS Trust,London,R1H
 2020-10-29,0,7,Central And North West London NHS Foundation Trust,London,RV3
 2020-10-29,0,10,Central London Community Healthcare NHS Trust,London,RYX
 2020-10-29,0,306,Croydon Health Services NHS Trust,London,RJ6
 2020-10-29,0,17,East London NHS Foundation Trust,London,RWK
-2020-10-29,0,293,Epsom And St Helier University Hospitals NHS Trust,London,RVR
+2020-10-29,0,295,Epsom And St Helier University Hospitals NHS Trust,London,RVR
 2020-10-29,0,241,Guy'S And St Thomas' NHS Foundation Trust,London,RJ1
 2020-10-29,0,2,Hca UK - London Bridge,London,NW605
 2020-10-29,0,1,Hca UK - The Lister,London,NW603
@@ -68,26 +326,21 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-29,0,446,Imperial College Healthcare NHS Trust,London,RYJ
 2020-10-29,0,519,King'S College Hospital NHS Foundation Trust,London,RJZ
 2020-10-29,0,166,Kingston Hospital NHS Foundation Trust,London,RAX
-2020-10-29,0,420,Lewisham And Greenwich NHS Trust,London,RJ2
-2020-10-29,0,636,London North West University Healthcare NHS Trust,London,R1K
 2020-10-29,0,4,Nhs Nightingale Hospital London,London,R1H0A
 2020-10-29,0,46,North East London NHS Foundation Trust,London,RAT
 2020-10-29,0,279,North Middlesex University Hospital NHS Trust,London,RAP
 2020-10-29,0,3,Oxleas NHS Foundation Trust,London,RPG
 2020-10-29,0,50,Royal Brompton & Harefield NHS Foundation Trust,London,RT3
-2020-10-29,0,497,Royal Free London NHS Foundation Trust,London,RAL
 2020-10-29,0,10,Royal Hospital For Neuro-Disability – West Hill,London,NN101
 2020-10-29,0,4,Royal National Orthopaedic Hospital NHS Trust,London,RAN
 2020-10-29,0,2,South London And Maudsley NHS Foundation Trust,London,RV5
 2020-10-29,0,301,St George'S University Hospitals NHS Foundation Trust,London,RJ7
-2020-10-29,0,168,The Hillingdon Hospitals NHS Foundation Trust,London,RAS
 2020-10-29,0,6,The London Clinic - 20 Devonshire Place,London,E8770
 2020-10-29,0,19,The Royal Marsden NHS Foundation Trust,London,RPY
 2020-10-29,0,180,University College London Hospitals NHS Foundation Trust,London,RRV
 2020-10-29,0,4,West London NHS Trust,London,RKL
 2020-10-29,0,114,Whittington Health NHS Trust,London,RKE
 2020-10-29,0,40,Birmingham Community Healthcare NHS Foundation Trust,Midlands,RYW
-2020-10-29,0,141,Chesterfield Royal Hospital NHS Foundation Trust,Midlands,RFS
 2020-10-29,0,19,Derbyshire Community Health Services NHS Foundation Trust,Midlands,RY8
 2020-10-29,0,2,Derbyshire Healthcare NHS Foundation Trust,Midlands,RXM
 2020-10-29,0,180,George Eliot Hospital NHS Trust,Midlands,RLT
@@ -101,38 +354,21 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-29,0,15,Northamptonshire Healthcare NHS Foundation Trust,Midlands,RP1
 2020-10-29,0,15,Nottinghamshire Healthcare NHS Foundation Trust,Midlands,RHA
 2020-10-29,0,1,Ramsay Health UK - Nottingham Woodthorpe,Midlands,NVC40
-2020-10-29,0,424,Sandwell And West Birmingham Hospitals NHS Trust,Midlands,RXK
-2020-10-29,0,136,Sherwood Forest Hospitals NHS Foundation Trust,Midlands,RK5
-2020-10-29,0,184,Shrewsbury And Telford Hospital NHS Trust,Midlands,RXW
 2020-10-29,0,15,Shropshire Community Health NHS Trust,Midlands,R1D
-2020-10-29,0,120,South Warwickshire NHS Foundation Trust,Midlands,RJC
 2020-10-29,0,5,The Robert Jones And Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,Midlands,RL1
 2020-10-29,0,15,The Royal Orthopaedic Hospital NHS Foundation Trust,Midlands,RRJ
-2020-10-29,0,307,The Royal Wolverhampton NHS Trust,Midlands,RL4
-2020-10-29,0,1071,University Hospitals Birmingham NHS Foundation Trust,Midlands,RRK
 2020-10-29,0,257,University Hospitals Coventry And Warwickshire NHS Trust,Midlands,RKB
-2020-10-29,0,582,University Hospitals Of Derby And Burton NHS Foundation Trust,Midlands,RTG
-2020-10-29,0,474,University Hospitals Of Leicester NHS Trust,Midlands,RWE
 2020-10-29,0,247,Walsall Healthcare NHS Trust,Midlands,RBK
-2020-10-29,0,290,Worcestershire Acute Hospitals NHS Trust,Midlands,RWP
+2020-10-29,0,291,Worcestershire Acute Hospitals NHS Trust,Midlands,RWP
 2020-10-29,0,29,Worcestershire Health And Care NHS Trust,Midlands,R1A
-2020-10-29,0,64,Wye Valley NHS Trust,Midlands,RLQ
-2020-10-29,0,124,Airedale NHS Foundation Trust,North East and Yorkshire,RCF
 2020-10-29,0,2,Bradford District Care NHS Foundation Trust,North East and Yorkshire,TAD
-2020-10-29,0,297,Bradford Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RAE
-2020-10-29,0,205,Calderdale And Huddersfield NHS Foundation Trust,North East and Yorkshire,RWY
+2020-10-29,0,207,Calderdale And Huddersfield NHS Foundation Trust,North East and Yorkshire,RWY
 2020-10-29,0,15,City Health Care Partnership CIC - East Riding Community Hospital,North East and Yorkshire,NNF94
 2020-10-29,0,7,"Cumbria, Northumberland, Tyne And Wear NHS Foundation Trust",North East and Yorkshire,RX4
-2020-10-29,0,297,Doncaster And Bassetlaw Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RP5
-2020-10-29,0,165,Gateshead Health NHS Foundation Trust,North East and Yorkshire,RR7
-2020-10-29,0,86,Harrogate And District NHS Foundation Trust,North East and Yorkshire,RCD
-2020-10-29,0,233,Hull University Teaching Hospitals NHS Trust,North East and Yorkshire,RWA
+2020-10-29,0,167,Gateshead Health NHS Foundation Trust,North East and Yorkshire,RR7
 2020-10-29,0,1,Humber Teaching NHS Foundation Trust,North East and Yorkshire,RV9
 2020-10-29,0,4,Leeds And York Partnership NHS Foundation Trust,North East and Yorkshire,RGD
-2020-10-29,0,410,Leeds Teaching Hospitals NHS Trust,North East and Yorkshire,RR8
-2020-10-29,0,367,Mid Yorkshire Hospitals NHS Trust,North East and Yorkshire,RXF
 2020-10-29,0,191,North Cumbria Integrated Care NHS Foundation Trust,North East and Yorkshire,RNN
-2020-10-29,0,135,Northern Lincolnshire And Goole NHS Foundation Trust,North East and Yorkshire,RJL
 2020-10-29,0,4,Rotherham Doncaster And South Humber NHS Foundation Trust,North East and Yorkshire,RXE
 2020-10-29,0,1,Sheffield Children'S NHS Foundation Trust,North East and Yorkshire,RCU
 2020-10-29,0,3,Sheffield Health And Social Care NHS Foundation Trust,North East and Yorkshire,TAH
@@ -141,27 +377,21 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-29,0,8,"Tees, Esk And Wear Valleys NHS Foundation Trust",North East and Yorkshire,RX3
 2020-10-29,0,141,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,North East and Yorkshire,RTD
 2020-10-29,0,228,The Rotherham NHS Foundation Trust,North East and Yorkshire,RFR
-2020-10-29,0,230,York Teaching Hospital NHS Foundation Trust,North East and Yorkshire,RCB
 2020-10-29,0,4,Alder Hey Children'S NHS Foundation Trust,North West,RBS
-2020-10-29,0,297,Blackpool Teaching Hospitals NHS Foundation Trust,North West,RXL
 2020-10-29,0,4,Cheshire And Wirral Partnership NHS Foundation Trust,North West,RXA
-2020-10-29,0,236,Countess Of Chester Hospital NHS Foundation Trust,North West,RJR
 2020-10-29,0,155,East Cheshire NHS Trust,North West,RJN
 2020-10-29,0,9,Greater Manchester Mental Health NHS Foundation Trust,North West,RXV
-2020-10-29,0,297,Lancashire Teaching Hospitals NHS Foundation Trust,North West,RXN
+2020-10-29,0,298,Lancashire Teaching Hospitals NHS Foundation Trust,North West,RXN
 2020-10-29,0,20,Liverpool Heart And Chest Hospital NHS Foundation Trust,North West,RBQ
-2020-10-29,0,523,Manchester University NHS Foundation Trust,North West,R0A
 2020-10-29,0,4,Mersey Care NHS Foundation Trust,North West,RW4
 2020-10-29,0,220,Mid Cheshire Hospitals NHS Foundation Trust,North West,RBT
 2020-10-29,0,6,Nhs Nightingale Hospital North West,North West,R0A90
 2020-10-29,0,1,North West Boroughs Healthcare NHS Foundation Trust,North West,RTV
 2020-10-29,0,6,Pennine Care NHS Foundation Trust,North West,RT2
-2020-10-29,0,194,Southport And Ormskirk Hospital NHS Trust,North West,RVY
-2020-10-29,0,282,St Helens And Knowsley Teaching Hospitals NHS Trust,North West,RBN
 2020-10-29,0,15,The Christie NHS Foundation Trust,North West,RBV
 2020-10-29,0,10,The Walton Centre NHS Foundation Trust,North West,RET
 2020-10-29,0,189,Warrington And Halton Teaching Hospitals NHS Foundation Trust,North West,RWW
-2020-10-29,0,290,Wirral University Teaching Hospital NHS Foundation Trust,North West,RBL
+2020-10-29,0,294,Wirral University Teaching Hospital NHS Foundation Trust,North West,RBL
 2020-10-29,0,195,Ashford And St Peter'S Hospitals NHS Foundation Trust,South East,RTK
 2020-10-29,0,20,Berkshire Healthcare NHS Foundation Trust,South East,RWX
 2020-10-29,0,2,Bmi Healthcare - Mount Alvernia,South East,NT455
@@ -173,18 +403,15 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-29,0,469,East Kent Hospitals University NHS Foundation Trust,South East,RVV
 2020-10-29,0,101,East Sussex Healthcare NHS Trust,South East,RXC
 2020-10-29,0,390,Frimley Health NHS Foundation Trust,South East,RDU
-2020-10-29,0,167,Hampshire Hospitals NHS Foundation Trust,South East,RN5
+2020-10-29,0,168,Hampshire Hospitals NHS Foundation Trust,South East,RN5
 2020-10-29,0,41,Isle Of Wight NHS Trust,South East,R1F
 2020-10-29,0,1,Kent And Medway NHS And Social Care Partnership Trust,South East,RXY
 2020-10-29,0,48,Kent Community Health NHS Foundation Trust,South East,RYY
-2020-10-29,0,132,Maidstone And Tunbridge Wells NHS Trust,South East,RWF
-2020-10-29,0,200,Medway NHS Foundation Trust,South East,RPA
+2020-10-29,0,201,Medway NHS Foundation Trust,South East,RPA
 2020-10-29,0,1,Nuffield Health - Woking,South East,NT241
 2020-10-29,0,2,Oldercare (Haslemere) Limited - St Magnus Hospital,South East,8CM63
 2020-10-29,0,23,Oxford Health NHS Foundation Trust,South East,RNU
-2020-10-29,0,186,Oxford University Hospitals NHS Foundation Trust,South East,RTH
 2020-10-29,0,241,Portsmouth Hospitals NHS Trust,South East,RHU
-2020-10-29,0,99,Royal Surrey County Hospital NHS Foundation Trust,South East,RA2
 2020-10-29,0,2,Solent NHS Trust,South East,R1C
 2020-10-29,0,17,Southern Health NHS Foundation Trust,South East,RW1
 2020-10-29,0,263,Surrey And Sussex Healthcare NHS Trust,South East,RTP
@@ -192,28 +419,23 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-29,0,214,University Hospital Southampton NHS Foundation Trust,South East,RHM
 2020-10-29,0,1,Virgin Care Services Ltd - Livingstone Community Hospital,South East,NDAJ0
 2020-10-29,0,2,Virgin Care Services Ltd - Sheppey Community Hospital,South East,NDAJ1
-2020-10-29,0,127,Western Sussex Hospitals NHS Foundation Trust,South East,RYR
+2020-10-29,0,128,Western Sussex Hospitals NHS Foundation Trust,South East,RYR
 2020-10-29,0,26,Cornwall Partnership NHS Foundation Trust,South West,RJ8
 2020-10-29,0,1,Cygnet Health Care Limited,South West,NMJ
 2020-10-29,0,24,Dorset County Hospital NHS Foundation Trust,South West,RBD
 2020-10-29,0,17,Dorset Healthcare University NHS Foundation Trust,South West,RDY
 2020-10-29,0,35,Gloucestershire Health And Care NHS Foundation Trust,South West,RTQ
 2020-10-29,0,201,Gloucestershire Hospitals NHS Foundation Trust,South West,RTE
-2020-10-29,0,135,Great Western Hospitals NHS Foundation Trust,South West,RN3
 2020-10-29,0,2,Livewell Southwest - Mount Gould Hospital,South West,NR527
-2020-10-29,0,6,Nhs Trust University Hospitals Dorset NHS Foundation Trust,South West,R0D
-2020-10-29,0,125,North Bristol NHS Trust,South West,RVJ
+2020-10-29,0,127,North Bristol NHS Trust,South West,RVJ
 2020-10-29,0,24,Northern Devon Healthcare NHS Trust,South West,RBZ
-2020-10-29,0,66,Poole Hospital NHS Foundation Trust,South West,RD3
 2020-10-29,0,68,Royal Cornwall Hospitals NHS Trust,South West,REF
 2020-10-29,0,47,Royal Devon And Exeter NHS Foundation Trust,South West,RH8
-2020-10-29,0,69,Royal United Hospitals Bath NHS Foundation Trust,South West,RD1
 2020-10-29,0,57,Salisbury NHS Foundation Trust,South West,RNZ
-2020-10-29,0,45,Somerset NHS Foundation Trust,South West,RBA
+2020-10-29,0,46,Somerset NHS Foundation Trust,South West,RBA
 2020-10-29,0,6,Taunton And Somerset NHS Foundation Trust,South West,RBA
 2020-10-29,0,68,The Royal Bournemouth And Christchurch Hospitals NHS Foundation Trust,South West,RDZ
 2020-10-29,0,52,Torbay And South Devon NHS Foundation Trust,South West,RA9
-2020-10-29,0,154,University Hospitals Bristol NHS Foundation Trust,South West,RA7
 2020-10-29,0,4,Virgin Care Ltd - Paulton Memorial Hospital,South West,NQT5H
 2020-10-29,0,1,Virgin Care Ltd - St Martins Hospital,South West,NQT5K
 2020-10-29,0,2,Weston Area Health NHS Trust,South West,RA3
@@ -222,16 +444,25 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-29,0,2,Wiltshire Health & Care - Warminster Community Hospital,South West,AXG03
 2020-10-29,0,26,Yeovil District Hospital NHS Foundation Trust,South West,RA4
 2020-10-28,10,361,Nottingham University Hospitals NHS Trust,Midlands,RX1
-2020-10-28,6,677,Pennine Acute Hospitals NHS Trust,North West,RW6
+2020-10-28,10,688,Pennine Acute Hospitals NHS Trust,North West,RW6
+2020-10-28,5,673,Barts Health NHS Trust,London,R1H
+2020-10-28,5,412,Leeds Teaching Hospitals NHS Trust,North East and Yorkshire,RR8
 2020-10-28,5,281,East Lancashire Hospitals NHS Trust,North West,RXR
 2020-10-28,5,682,Liverpool University Hospitals NHS Foundation Trust,North West,REM
+2020-10-28,4,514,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
 2020-10-28,4,582,University Hospitals Of Derby And Burton NHS Foundation Trust,Midlands,RTG
 2020-10-28,4,402,South Tyneside And Sunderland NHS Foundation Trust,North East and Yorkshire,R0B
 2020-10-28,4,216,University Hospitals Of Morecambe Bay NHS Foundation Trust,North West,RTX
+2020-10-28,4,294,Wirral University Teaching Hospital NHS Foundation Trust,North West,RBL
 2020-10-28,3,342,Basildon And Thurrock University Hospitals NHS Foundation Trust,East Of England,RDD
-2020-10-28,3,671,Barts Health NHS Trust,London,R1H
-2020-10-28,3,410,Leeds Teaching Hospitals NHS Trust,North East and Yorkshire,RR8
+2020-10-28,3,371,East Suffolk And North Essex NHS Foundation Trust,East Of England,RDE
+2020-10-28,3,295,Epsom And St Helier University Hospitals NHS Trust,London,RVR
+2020-10-28,3,207,Calderdale And Huddersfield NHS Foundation Trust,North East and Yorkshire,RWY
+2020-10-28,3,167,Gateshead Health NHS Foundation Trust,North East and Yorkshire,RR7
+2020-10-28,3,283,St Helens And Knowsley Teaching Hospitals NHS Trust,North West,RBN
 2020-10-28,3,189,Warrington And Halton Teaching Hospitals NHS Foundation Trust,North West,RWW
+2020-10-28,3,67,Poole Hospital NHS Foundation Trust,South West,RD3
+2020-10-28,2,128,James Paget University Hospitals NHS Foundation Trust,East Of England,RGP
 2020-10-28,2,446,Imperial College Healthcare NHS Trust,London,RYJ
 2020-10-28,2,184,Shrewsbury And Telford Hospital NHS Trust,Midlands,RXW
 2020-10-28,2,283,The Dudley Group NHS Foundation Trust,Midlands,RNA
@@ -239,49 +470,49 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-28,2,176,Barnsley Hospital NHS Foundation Trust,North East and Yorkshire,RFF
 2020-10-28,2,297,Bradford Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RAE
 2020-10-28,2,292,County Durham And Darlington NHS Foundation Trust,North East and Yorkshire,RXP
+2020-10-28,2,298,Doncaster And Bassetlaw Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RP5
 2020-10-28,2,172,North Tees And Hartlepool NHS Foundation Trust,North East and Yorkshire,RVW
+2020-10-28,2,298,Blackpool Teaching Hospitals NHS Foundation Trust,North West,RXL
+2020-10-28,2,298,Lancashire Teaching Hospitals NHS Foundation Trust,North West,RXN
+2020-10-28,2,529,Manchester University NHS Foundation Trust,North West,R0A
+2020-10-28,2,225,Salford Royal NHS Foundation Trust,North West,RM3
 2020-10-28,2,194,Southport And Ormskirk Hospital NHS Trust,North West,RVY
-2020-10-28,2,282,St Helens And Knowsley Teaching Hospitals NHS Trust,North West,RBN
 2020-10-28,2,324,Tameside And Glossop Integrated Care NHS Foundation Trust,North West,RMP
 2020-10-28,2,331,"Wrightington, Wigan And Leigh NHS Foundation Trust",North West,RRF
+2020-10-28,2,201,Medway NHS Foundation Trust,South East,RPA
 2020-10-28,2,214,University Hospital Southampton NHS Foundation Trust,South East,RHM
-2020-10-28,2,66,Poole Hospital NHS Foundation Trust,South West,RD3
 2020-10-28,1,128,Cambridge University Hospitals NHS Foundation Trust,East Of England,RGT
-2020-10-28,1,369,East Suffolk And North Essex NHS Foundation Trust,East Of England,RDE
-2020-10-28,1,127,James Paget University Hospitals NHS Foundation Trust,East Of England,RGP
 2020-10-28,1,291,Luton And Dunstable University Hospital NHS Foundation Trust,East Of England,RC9
 2020-10-28,1,29,Norfolk Community Health And Care NHS Trust,East Of England,RY3
 2020-10-28,1,255,North West Anglia NHS Foundation Trust,East Of England,RGN
-2020-10-28,1,293,Epsom And St Helier University Hospitals NHS Trust,London,RVR
+2020-10-28,1,324,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-10-28,1,241,Guy'S And St Thomas' NHS Foundation Trust,London,RJ1
+2020-10-28,1,421,Lewisham And Greenwich NHS Trust,London,RJ2
 2020-10-28,1,497,Royal Free London NHS Foundation Trust,London,RAL
 2020-10-28,1,141,Chesterfield Royal Hospital NHS Foundation Trust,Midlands,RFS
 2020-10-28,1,225,Kettering General Hospital NHS Foundation Trust,Midlands,RNQ
 2020-10-28,1,136,Sherwood Forest Hospitals NHS Foundation Trust,Midlands,RK5
 2020-10-28,1,1071,University Hospitals Birmingham NHS Foundation Trust,Midlands,RRK
 2020-10-28,1,257,University Hospitals Coventry And Warwickshire NHS Trust,Midlands,RKB
-2020-10-28,1,205,Calderdale And Huddersfield NHS Foundation Trust,North East and Yorkshire,RWY
-2020-10-28,1,297,Doncaster And Bassetlaw Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RP5
-2020-10-28,1,165,Gateshead Health NHS Foundation Trust,North East and Yorkshire,RR7
+2020-10-28,1,475,University Hospitals Of Leicester NHS Trust,Midlands,RWE
 2020-10-28,1,86,Harrogate And District NHS Foundation Trust,North East and Yorkshire,RCD
 2020-10-28,1,233,Hull University Teaching Hospitals NHS Trust,North East and Yorkshire,RWA
 2020-10-28,1,135,Northern Lincolnshire And Goole NHS Foundation Trust,North East and Yorkshire,RJL
 2020-10-28,1,257,Northumbria Healthcare NHS Foundation Trust,North East and Yorkshire,RTF
 2020-10-28,1,287,South Tees Hospitals NHS Foundation Trust,North East and Yorkshire,RTR
 2020-10-28,1,228,The Rotherham NHS Foundation Trust,North East and Yorkshire,RFR
-2020-10-28,1,297,Blackpool Teaching Hospitals NHS Foundation Trust,North West,RXL
-2020-10-28,1,297,Lancashire Teaching Hospitals NHS Foundation Trust,North West,RXN
-2020-10-28,1,290,Wirral University Teaching Hospital NHS Foundation Trust,North West,RBL
 2020-10-28,1,390,Frimley Health NHS Foundation Trust,South East,RDU
-2020-10-28,1,200,Medway NHS Foundation Trust,South East,RPA
+2020-10-28,1,168,Hampshire Hospitals NHS Foundation Trust,South East,RN5
 2020-10-28,1,186,Oxford University Hospitals NHS Foundation Trust,South East,RTH
 2020-10-28,1,241,Portsmouth Hospitals NHS Trust,South East,RHU
+2020-10-28,1,128,Western Sussex Hospitals NHS Foundation Trust,South East,RYR
 2020-10-28,1,17,Dorset Healthcare University NHS Foundation Trust,South West,RDY
 2020-10-28,1,24,Northern Devon Healthcare NHS Trust,South West,RBZ
+2020-10-28,1,46,Somerset NHS Foundation Trust,South West,RBA
 2020-10-28,1,52,Torbay And South Devon NHS Foundation Trust,South West,RA9
 2020-10-28,0,4,Anglian Community Enterprise CIC - Clacton Hospital,East Of England,NQ108
 2020-10-28,0,26,Anglian Community Enterprise CIC - Fryatt Hospital,East Of England,NQ106
-2020-10-28,0,234,Bedford Hospital NHS Trust,East Of England,RC1
+2020-10-28,0,235,Bedford Hospital NHS Trust,East Of England,RC1
 2020-10-28,0,1,Cambridgeshire And Peterborough NHS Foundation Trust,East Of England,RT1
 2020-10-28,0,171,East And North Hertfordshire NHS Trust,East Of England,RWH
 2020-10-28,0,3,East Coast Community Healthcare - Beccles Hospital,East Of England,NAX03
@@ -302,10 +533,8 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-28,0,155,"The Queen Elizabeth Hospital, King'S Lynn, NHS Foundation Trust",East Of England,RCX
 2020-10-28,0,399,West Hertfordshire Hospitals NHS Trust,East Of England,RWG
 2020-10-28,0,87,West Suffolk NHS Foundation Trust,East Of England,RGR
-2020-10-28,0,508,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
 2020-10-28,0,7,Central And North West London NHS Foundation Trust,London,RV3
 2020-10-28,0,10,Central London Community Healthcare NHS Trust,London,RYX
-2020-10-28,0,323,Chelsea And Westminster Hospital NHS Foundation Trust,London,RQM
 2020-10-28,0,306,Croydon Health Services NHS Trust,London,RJ6
 2020-10-28,0,17,East London NHS Foundation Trust,London,RWK
 2020-10-28,0,2,Hca UK - London Bridge,London,NW605
@@ -317,7 +546,6 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-28,0,1,Hounslow And Richmond Community Healthcare NHS Trust,London,RY9
 2020-10-28,0,519,King'S College Hospital NHS Foundation Trust,London,RJZ
 2020-10-28,0,166,Kingston Hospital NHS Foundation Trust,London,RAX
-2020-10-28,0,420,Lewisham And Greenwich NHS Trust,London,RJ2
 2020-10-28,0,636,London North West University Healthcare NHS Trust,London,R1K
 2020-10-28,0,4,Nhs Nightingale Hospital London,London,R1H0A
 2020-10-28,0,46,North East London NHS Foundation Trust,London,RAT
@@ -354,10 +582,9 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-28,0,15,The Royal Orthopaedic Hospital NHS Foundation Trust,Midlands,RRJ
 2020-10-28,0,307,The Royal Wolverhampton NHS Trust,Midlands,RL4
 2020-10-28,0,162,United Lincolnshire Hospitals NHS Trust,Midlands,RWD
-2020-10-28,0,474,University Hospitals Of Leicester NHS Trust,Midlands,RWE
 2020-10-28,0,392,University Hospitals Of North Midlands NHS Trust,Midlands,RJE
 2020-10-28,0,247,Walsall Healthcare NHS Trust,Midlands,RBK
-2020-10-28,0,290,Worcestershire Acute Hospitals NHS Trust,Midlands,RWP
+2020-10-28,0,291,Worcestershire Acute Hospitals NHS Trust,Midlands,RWP
 2020-10-28,0,29,Worcestershire Health And Care NHS Trust,Midlands,R1A
 2020-10-28,0,124,Airedale NHS Foundation Trust,North East and Yorkshire,RCF
 2020-10-28,0,2,Bradford District Care NHS Foundation Trust,North East and Yorkshire,TAD
@@ -381,13 +608,11 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-28,0,155,East Cheshire NHS Trust,North West,RJN
 2020-10-28,0,9,Greater Manchester Mental Health NHS Foundation Trust,North West,RXV
 2020-10-28,0,20,Liverpool Heart And Chest Hospital NHS Foundation Trust,North West,RBQ
-2020-10-28,0,523,Manchester University NHS Foundation Trust,North West,R0A
 2020-10-28,0,4,Mersey Care NHS Foundation Trust,North West,RW4
 2020-10-28,0,220,Mid Cheshire Hospitals NHS Foundation Trust,North West,RBT
 2020-10-28,0,6,Nhs Nightingale Hospital North West,North West,R0A90
 2020-10-28,0,1,North West Boroughs Healthcare NHS Foundation Trust,North West,RTV
 2020-10-28,0,6,Pennine Care NHS Foundation Trust,North West,RT2
-2020-10-28,0,223,Salford Royal NHS Foundation Trust,North West,RM3
 2020-10-28,0,251,Stockport NHS Foundation Trust,North West,RWJ
 2020-10-28,0,15,The Christie NHS Foundation Trust,North West,RBV
 2020-10-28,0,10,The Walton Centre NHS Foundation Trust,North West,RET
@@ -401,7 +626,6 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-28,0,243,Dartford And Gravesham NHS Trust,South East,RN7
 2020-10-28,0,469,East Kent Hospitals University NHS Foundation Trust,South East,RVV
 2020-10-28,0,101,East Sussex Healthcare NHS Trust,South East,RXC
-2020-10-28,0,167,Hampshire Hospitals NHS Foundation Trust,South East,RN5
 2020-10-28,0,41,Isle Of Wight NHS Trust,South East,R1F
 2020-10-28,0,1,Kent And Medway NHS And Social Care Partnership Trust,South East,RXY
 2020-10-28,0,48,Kent Community Health NHS Foundation Trust,South East,RYY
@@ -417,7 +641,6 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-28,0,18,Sussex Community NHS Foundation Trust,South East,RDR
 2020-10-28,0,1,Virgin Care Services Ltd - Livingstone Community Hospital,South East,NDAJ0
 2020-10-28,0,2,Virgin Care Services Ltd - Sheppey Community Hospital,South East,NDAJ1
-2020-10-28,0,127,Western Sussex Hospitals NHS Foundation Trust,South East,RYR
 2020-10-28,0,26,Cornwall Partnership NHS Foundation Trust,South West,RJ8
 2020-10-28,0,1,Cygnet Health Care Limited,South West,NMJ
 2020-10-28,0,24,Dorset County Hospital NHS Foundation Trust,South West,RBD
@@ -426,12 +649,11 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-28,0,135,Great Western Hospitals NHS Foundation Trust,South West,RN3
 2020-10-28,0,2,Livewell Southwest - Mount Gould Hospital,South West,NR527
 2020-10-28,0,6,Nhs Trust University Hospitals Dorset NHS Foundation Trust,South West,R0D
-2020-10-28,0,125,North Bristol NHS Trust,South West,RVJ
+2020-10-28,0,127,North Bristol NHS Trust,South West,RVJ
 2020-10-28,0,68,Royal Cornwall Hospitals NHS Trust,South West,REF
 2020-10-28,0,47,Royal Devon And Exeter NHS Foundation Trust,South West,RH8
 2020-10-28,0,69,Royal United Hospitals Bath NHS Foundation Trust,South West,RD1
 2020-10-28,0,57,Salisbury NHS Foundation Trust,South West,RNZ
-2020-10-28,0,45,Somerset NHS Foundation Trust,South West,RBA
 2020-10-28,0,6,Taunton And Somerset NHS Foundation Trust,South West,RBA
 2020-10-28,0,68,The Royal Bournemouth And Christchurch Hospitals NHS Foundation Trust,South West,RDZ
 2020-10-28,0,154,University Hospitals Bristol NHS Foundation Trust,South West,RA7
@@ -448,17 +670,17 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-27,6,351,Nottingham University Hospitals NHS Trust,Midlands,RX1
 2020-10-27,6,276,East Lancashire Hospitals NHS Trust,North West,RXR
 2020-10-27,6,677,Liverpool University Hospitals NHS Foundation Trust,North West,REM
+2020-10-27,5,510,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
 2020-10-27,5,296,Blackpool Teaching Hospitals NHS Foundation Trust,North West,RXL
+2020-10-27,5,678,Pennine Acute Hospitals NHS Trust,North West,RW6
 2020-10-27,5,280,St Helens And Knowsley Teaching Hospitals NHS Trust,North West,RBN
 2020-10-27,4,578,University Hospitals Of Derby And Burton NHS Foundation Trust,Midlands,RTG
 2020-10-27,4,407,Leeds Teaching Hospitals NHS Trust,North East and Yorkshire,RR8
 2020-10-27,4,334,Sheffield Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RHQ
 2020-10-27,4,398,South Tyneside And Sunderland NHS Foundation Trust,North East and Yorkshire,R0B
 2020-10-27,4,329,"Wrightington, Wigan And Leigh NHS Foundation Trust",North West,RRF
-2020-10-27,3,508,"Barking, Havering And Redbridge University Hospitals NHS Trust",London,RF4
 2020-10-27,3,204,Calderdale And Huddersfield NHS Foundation Trust,North East and Yorkshire,RWY
 2020-10-27,3,290,County Durham And Darlington NHS Foundation Trust,North East and Yorkshire,RXP
-2020-10-27,3,671,Pennine Acute Hospitals NHS Trust,North West,RW6
 2020-10-27,3,389,Frimley Health NHS Foundation Trust,South East,RDU
 2020-10-27,2,339,Basildon And Thurrock University Hospitals NHS Foundation Trust,East Of England,RDD
 2020-10-27,2,496,Royal Free London NHS Foundation Trust,London,RAL
@@ -473,8 +695,10 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-27,2,170,North Tees And Hartlepool NHS Foundation Trust,North East and Yorkshire,RVW
 2020-10-27,2,286,South Tees Hospitals NHS Foundation Trust,North East and Yorkshire,RTR
 2020-10-27,2,296,Lancashire Teaching Hospitals NHS Foundation Trust,North West,RXN
+2020-10-27,2,527,Manchester University NHS Foundation Trust,North West,R0A
 2020-10-27,2,223,Salford Royal NHS Foundation Trust,North West,RM3
 2020-10-27,2,469,East Kent Hospitals University NHS Foundation Trust,South East,RVV
+2020-10-27,2,127,North Bristol NHS Trust,South West,RVJ
 2020-10-27,1,171,East And North Hertfordshire NHS Trust,East Of England,RWH
 2020-10-27,1,254,North West Anglia NHS Foundation Trust,East Of England,RGN
 2020-10-27,1,399,West Hertfordshire Hospitals NHS Trust,East Of England,RWG
@@ -485,6 +709,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-27,1,420,Lewisham And Greenwich NHS Trust,London,RJ2
 2020-10-27,1,424,Sandwell And West Birmingham Hospitals NHS Trust,Midlands,RXK
 2020-10-27,1,307,The Royal Wolverhampton NHS Trust,Midlands,RL4
+2020-10-27,1,291,Worcestershire Acute Hospitals NHS Trust,Midlands,RWP
 2020-10-27,1,62,Wye Valley NHS Trust,Midlands,RLQ
 2020-10-27,1,295,Bradford Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RAE
 2020-10-27,1,164,Gateshead Health NHS Foundation Trust,North East and Yorkshire,RR7
@@ -496,6 +721,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-27,1,4,Mersey Care NHS Foundation Trust,North West,RW4
 2020-10-27,1,192,Southport And Ormskirk Hospital NHS Trust,North West,RVY
 2020-10-27,1,186,Warrington And Halton Teaching Hospitals NHS Foundation Trust,North West,RWW
+2020-10-27,1,290,Wirral University Teaching Hospital NHS Foundation Trust,North West,RBL
 2020-10-27,1,157,Brighton And Sussex University Hospitals NHS Trust,South East,RXH
 2020-10-27,1,41,Isle Of Wight NHS Trust,South East,R1F
 2020-10-27,1,221,Royal Berkshire NHS Foundation Trust,South East,RHW
@@ -504,7 +730,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-27,1,64,Poole Hospital NHS Foundation Trust,South West,RD3
 2020-10-27,0,4,Anglian Community Enterprise CIC - Clacton Hospital,East Of England,NQ108
 2020-10-27,0,26,Anglian Community Enterprise CIC - Fryatt Hospital,East Of England,NQ106
-2020-10-27,0,234,Bedford Hospital NHS Trust,East Of England,RC1
+2020-10-27,0,235,Bedford Hospital NHS Trust,East Of England,RC1
 2020-10-27,0,127,Cambridge University Hospitals NHS Foundation Trust,East Of England,RGT
 2020-10-27,0,1,Cambridgeshire And Peterborough NHS Foundation Trust,East Of England,RT1
 2020-10-27,0,3,East Coast Community Healthcare - Beccles Hospital,East Of England,NAX03
@@ -580,7 +806,6 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-27,0,15,The Royal Orthopaedic Hospital NHS Foundation Trust,Midlands,RRJ
 2020-10-27,0,256,University Hospitals Coventry And Warwickshire NHS Trust,Midlands,RKB
 2020-10-27,0,247,Walsall Healthcare NHS Trust,Midlands,RBK
-2020-10-27,0,290,Worcestershire Acute Hospitals NHS Trust,Midlands,RWP
 2020-10-27,0,29,Worcestershire Health And Care NHS Trust,Midlands,R1A
 2020-10-27,0,2,Bradford District Care NHS Foundation Trust,North East and Yorkshire,TAD
 2020-10-27,0,15,City Health Care Partnership CIC - East Riding Community Hospital,North East and Yorkshire,NNF94
@@ -601,7 +826,6 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-27,0,4,Cheshire And Wirral Partnership NHS Foundation Trust,North West,RXA
 2020-10-27,0,9,Greater Manchester Mental Health NHS Foundation Trust,North West,RXV
 2020-10-27,0,20,Liverpool Heart And Chest Hospital NHS Foundation Trust,North West,RBQ
-2020-10-27,0,523,Manchester University NHS Foundation Trust,North West,R0A
 2020-10-27,0,220,Mid Cheshire Hospitals NHS Foundation Trust,North West,RBT
 2020-10-27,0,6,Nhs Nightingale Hospital North West,North West,R0A90
 2020-10-27,0,1,North West Boroughs Healthcare NHS Foundation Trust,North West,RTV
@@ -611,7 +835,6 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-27,0,15,The Christie NHS Foundation Trust,North West,RBV
 2020-10-27,0,10,The Walton Centre NHS Foundation Trust,North West,RET
 2020-10-27,0,212,University Hospitals Of Morecambe Bay NHS Foundation Trust,North West,RTX
-2020-10-27,0,289,Wirral University Teaching Hospital NHS Foundation Trust,North West,RBL
 2020-10-27,0,195,Ashford And St Peter'S Hospitals NHS Foundation Trust,South East,RTK
 2020-10-27,0,20,Berkshire Healthcare NHS Foundation Trust,South East,RWX
 2020-10-27,0,2,Bmi Healthcare - Mount Alvernia,South East,NT455
@@ -646,7 +869,6 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-27,0,35,Gloucestershire Health And Care NHS Foundation Trust,South West,RTQ
 2020-10-27,0,201,Gloucestershire Hospitals NHS Foundation Trust,South West,RTE
 2020-10-27,0,2,Livewell Southwest - Mount Gould Hospital,South West,NR527
-2020-10-27,0,125,North Bristol NHS Trust,South West,RVJ
 2020-10-27,0,23,Northern Devon Healthcare NHS Trust,South West,RBZ
 2020-10-27,0,68,Royal Cornwall Hospitals NHS Trust,South West,REF
 2020-10-27,0,47,Royal Devon And Exeter NHS Foundation Trust,South West,RH8
@@ -666,11 +888,11 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-27,0,2,Wiltshire Health & Care - Warminster Community Hospital,South West,AXG03
 2020-10-27,0,26,Yeovil District Hospital NHS Foundation Trust,South West,RA4
 2020-10-26,7,289,Doncaster And Bassetlaw Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RP5
+2020-10-26,6,673,Pennine Acute Hospitals NHS Trust,North West,RW6
 2020-10-26,5,423,Sandwell And West Birmingham Hospitals NHS Trust,Midlands,RXK
 2020-10-26,5,1060,University Hospitals Birmingham NHS Foundation Trust,Midlands,RRK
 2020-10-26,5,291,Blackpool Teaching Hospitals NHS Foundation Trust,North West,RXL
 2020-10-26,5,671,Liverpool University Hospitals NHS Foundation Trust,North West,REM
-2020-10-26,5,668,Pennine Acute Hospitals NHS Trust,North West,RW6
 2020-10-26,4,574,University Hospitals Of Derby And Burton NHS Foundation Trust,Midlands,RTG
 2020-10-26,4,163,Gateshead Health NHS Foundation Trust,North East and Yorkshire,RR7
 2020-10-26,4,403,Leeds Teaching Hospitals NHS Trust,North East and Yorkshire,RR8
@@ -697,8 +919,10 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-26,2,227,The Rotherham NHS Foundation Trust,North East and Yorkshire,RFR
 2020-10-26,2,283,Bolton NHS Foundation Trust,North West,RMC
 2020-10-26,2,154,East Cheshire NHS Trust,North West,RJN
+2020-10-26,2,525,Manchester University NHS Foundation Trust,North West,R0A
 2020-10-26,2,220,Royal Berkshire NHS Foundation Trust,South East,RHW
 2020-10-26,2,51,Torbay And South Devon NHS Foundation Trust,South West,RA9
+2020-10-26,1,235,Bedford Hospital NHS Trust,East Of England,RC1
 2020-10-26,1,170,East And North Hertfordshire NHS Trust,East Of England,RWH
 2020-10-26,1,368,East Suffolk And North Essex NHS Foundation Trust,East Of England,RDE
 2020-10-26,1,86,West Suffolk NHS Foundation Trust,East Of England,RGR
@@ -737,7 +961,6 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-26,1,86,University Hospitals Plymouth NHS Trust,South West,RK9
 2020-10-26,0,4,Anglian Community Enterprise CIC - Clacton Hospital,East Of England,NQ108
 2020-10-26,0,26,Anglian Community Enterprise CIC - Fryatt Hospital,East Of England,NQ106
-2020-10-26,0,234,Bedford Hospital NHS Trust,East Of England,RC1
 2020-10-26,0,127,Cambridge University Hospitals NHS Foundation Trust,East Of England,RGT
 2020-10-26,0,1,Cambridgeshire And Peterborough NHS Foundation Trust,East Of England,RT1
 2020-10-26,0,3,East Coast Community Healthcare - Beccles Hospital,East Of England,NAX03
@@ -830,7 +1053,6 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-26,0,235,Countess Of Chester Hospital NHS Foundation Trust,North West,RJR
 2020-10-26,0,9,Greater Manchester Mental Health NHS Foundation Trust,North West,RXV
 2020-10-26,0,20,Liverpool Heart And Chest Hospital NHS Foundation Trust,North West,RBQ
-2020-10-26,0,523,Manchester University NHS Foundation Trust,North West,R0A
 2020-10-26,0,3,Mersey Care NHS Foundation Trust,North West,RW4
 2020-10-26,0,6,Nhs Nightingale Hospital North West,North West,R0A90
 2020-10-26,0,1,North West Boroughs Healthcare NHS Foundation Trust,North West,RTV
@@ -887,9 +1109,9 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-26,0,5,Wiltshire Health & Care - Savernake Community Hospital,South West,AXG02
 2020-10-26,0,2,Wiltshire Health & Care - Warminster Community Hospital,South West,AXG03
 2020-10-26,0,26,Yeovil District Hospital NHS Foundation Trust,South West,RA4
+2020-10-25,9,667,Pennine Acute Hospitals NHS Trust,North West,RW6
 2020-10-25,8,342,Nottingham University Hospitals NHS Trust,Midlands,RX1
 2020-10-25,8,666,Liverpool University Hospitals NHS Foundation Trust,North West,REM
-2020-10-25,8,663,Pennine Acute Hospitals NHS Trust,North West,RW6
 2020-10-25,6,286,Blackpool Teaching Hospitals NHS Foundation Trust,North West,RXL
 2020-10-25,6,184,Warrington And Halton Teaching Hospitals NHS Foundation Trust,North West,RWW
 2020-10-25,5,282,Doncaster And Bassetlaw Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RP5
@@ -1117,6 +1339,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-24,4,277,Doncaster And Bassetlaw Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RP5
 2020-10-24,4,323,Sheffield Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RHQ
 2020-10-24,4,521,Manchester University NHS Foundation Trust,North West,R0A
+2020-10-24,4,658,Pennine Acute Hospitals NHS Trust,North West,RW6
 2020-10-24,4,209,University Hospitals Of Morecambe Bay NHS Foundation Trust,North West,RTX
 2020-10-24,4,282,Wirral University Teaching Hospital NHS Foundation Trust,North West,RBL
 2020-10-24,3,664,Barts Health NHS Trust,London,R1H
@@ -1124,7 +1347,6 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-24,3,198,Calderdale And Huddersfield NHS Foundation Trust,North East and Yorkshire,RWY
 2020-10-24,3,395,Leeds Teaching Hospitals NHS Trust,North East and Yorkshire,RR8
 2020-10-24,3,389,South Tyneside And Sunderland NHS Foundation Trust,North East and Yorkshire,R0B
-2020-10-24,3,655,Pennine Acute Hospitals NHS Trust,North West,RW6
 2020-10-24,2,519,King'S College Hospital NHS Foundation Trust,London,RJZ
 2020-10-24,2,635,London North West University Healthcare NHS Trust,London,R1K
 2020-10-24,2,254,University Hospitals Coventry And Warwickshire NHS Trust,Midlands,RKB
@@ -1334,6 +1556,7 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-23,7,566,University Hospitals Of Derby And Burton NHS Foundation Trust,Midlands,RTG
 2020-10-23,7,311,"Wrightington, Wigan And Leigh NHS Foundation Trust",North West,RRF
 2020-10-23,6,329,Nottingham University Hospitals NHS Trust,Midlands,RX1
+2020-10-23,6,654,Pennine Acute Hospitals NHS Trust,North West,RW6
 2020-10-23,5,279,Blackpool Teaching Hospitals NHS Foundation Trust,North West,RXL
 2020-10-23,5,262,East Lancashire Hospitals NHS Trust,North West,RXR
 2020-10-23,4,332,Basildon And Thurrock University Hospitals NHS Foundation Trust,East Of England,RDD
@@ -1342,7 +1565,6 @@ date,new_deaths,total_deaths,hospital,region,code
 2020-10-23,4,319,Sheffield Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RHQ
 2020-10-23,4,277,Bolton NHS Foundation Trust,North West,RMC
 2020-10-23,4,645,Liverpool University Hospitals NHS Foundation Trust,North West,REM
-2020-10-23,4,652,Pennine Acute Hospitals NHS Trust,North West,RW6
 2020-10-23,3,1052,University Hospitals Birmingham NHS Foundation Trust,Midlands,RRK
 2020-10-23,3,380,University Hospitals Of North Midlands NHS Trust,Midlands,RJE
 2020-10-23,3,290,Bradford Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,RAE
