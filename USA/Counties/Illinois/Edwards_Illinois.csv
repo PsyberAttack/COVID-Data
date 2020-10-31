@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-30,Illinois,Edwards,31.29,2,0,0.0,114,0,0.0,1783.48,0.0,1.78,6392,28.74,140.79,-31.29,672.67,15.65
 2020-10-29,Illinois,Edwards,-31.29,-2,0,0.0,112,0,0.0,1752.19,0.0,1.75,6392,28.74,172.08,-31.29,657.02,-62.58
 2020-10-28,Illinois,Edwards,46.93,3,0,0.0,114,0,0.0,1783.48,0.0,1.78,6392,28.74,203.37,15.64,719.6,15.64
 2020-10-27,Illinois,Edwards,31.29,2,0,0.0,111,0,0.0,1736.55,0.0,1.74,6392,28.74,187.73,15.65,703.96,0.0

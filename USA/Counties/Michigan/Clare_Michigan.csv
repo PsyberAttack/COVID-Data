@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-30,Michigan,Clare,26.01,8,0,0.0,309,13,4.21,1004.65,42.27,1.0,30757,54.5,211.33,-3.25,630.74,22.76
 2020-10-29,Michigan,Clare,32.51,10,2,6.5,301,13,4.32,978.64,42.27,0.98,30757,54.5,214.58,-13.01,607.98,29.26
 2020-10-28,Michigan,Clare,48.77,15,0,0.0,291,11,3.78,946.13,35.76,0.95,30757,54.5,227.59,42.27,578.72,48.77
 2020-10-27,Michigan,Clare,29.26,9,0,0.0,276,11,3.99,897.36,35.76,0.9,30757,54.5,185.32,16.25,529.95,26.01

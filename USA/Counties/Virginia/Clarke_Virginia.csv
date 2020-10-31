@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-30,Virginia,Clarke,0.0,0,0,0.0,121,1,0.83,833.16,6.89,0.83,14523,82.55,34.44,-6.89,165.28,0.0
 2020-10-29,Virginia,Clarke,6.89,1,0,0.0,121,1,0.83,833.16,6.89,0.83,14523,82.55,41.33,0.0,165.28,-6.88
 2020-10-28,Virginia,Clarke,20.66,3,0,0.0,120,1,0.83,826.28,6.89,0.83,14523,82.55,41.33,27.55,172.16,20.66
 2020-10-27,Virginia,Clarke,0.0,0,0,0.0,117,1,0.85,805.62,6.89,0.81,14523,82.55,13.78,-13.77,151.5,-6.89

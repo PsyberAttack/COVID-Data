@@ -1,4 +1,10 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-10-28,Rio de Janeiro,Laje do Muriaé,13.6,1,0,0.0,349,2,0.57,4745.07,27.19,4.75,7355,598.23,0.0,1155.7,13.6
+2020-10-27,Rio de Janeiro,Laje do Muriaé,81.58,6,0,0.0,348,2,0.57,4731.48,27.19,4.73,7355,598.23,81.58,1142.1,81.58
+2020-10-26,Rio de Janeiro,Laje do Muriaé,135.96,10,0,0.0,342,2,0.58,4649.9,27.19,4.65,7355,516.65,135.96,1060.52,135.96
+2020-10-25,Rio de Janeiro,Laje do Muriaé,0.0,0,0,0.0,332,2,0.6,4513.94,27.19,4.51,7355,380.69,-13.6,924.56,0.0
+2020-10-24,Rio de Janeiro,Laje do Muriaé,312.71,23,0,0.0,332,2,0.6,4513.94,27.19,4.51,7355,394.29,312.71,924.56,312.71
+2020-10-23,Rio de Janeiro,Laje do Muriaé,54.38,4,0,0.0,309,2,0.65,4201.22,27.19,4.2,7355,81.58,54.38,611.85,-231.14
 2020-10-22,Rio de Janeiro,Laje do Muriaé,0.0,0,0,0.0,305,2,0.66,4146.84,27.19,4.15,7355,27.2,-13.6,842.99,0.0
 2020-10-21,Rio de Janeiro,Laje do Muriaé,13.6,1,1,13.6,305,2,0.66,4146.84,27.19,4.15,7355,40.8,13.6,842.99,13.6
 2020-10-20,Rio de Janeiro,Laje do Muriaé,0.0,0,0,0.0,304,1,0.33,4133.24,13.6,4.13,7355,27.2,0.0,829.39,0.0
