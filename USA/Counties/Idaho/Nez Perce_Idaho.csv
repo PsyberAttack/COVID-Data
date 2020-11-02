@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Idaho,Nez Perce,0.0,0,0,0.0,924,24,2.6,2286.68,59.39,2.29,40408,47.63,413.29,0.0,1128.51,0.0
+2020-10-31,Idaho,Nez Perce,2.47,1,0,0.0,924,24,2.6,2286.68,59.39,2.29,40408,47.63,413.29,-7.43,1128.51,2.47
 2020-10-30,Idaho,Nez Perce,71.77,29,0,0.0,923,24,2.6,2284.2,59.39,2.28,40408,47.63,420.72,-9.9,1126.04,61.87
 2020-10-29,Idaho,Nez Perce,71.77,29,0,0.0,894,24,2.68,2212.43,59.39,2.21,40408,47.63,430.62,-12.37,1064.17,61.87
 2020-10-28,Idaho,Nez Perce,32.17,13,0,0.0,865,24,2.77,2140.67,59.39,2.14,40408,47.63,442.99,2.47,1002.3,19.8

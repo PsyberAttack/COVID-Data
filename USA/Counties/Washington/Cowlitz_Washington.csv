@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Washington,Cowlitz,0.92,1,0,0.0,832,7,0.84,763.39,6.42,0.76,108987,95.55,32.13,-0.92,120.22,-4.59
+2020-10-31,Washington,Cowlitz,7.34,8,0,0.0,831,7,0.84,762.48,6.42,0.76,108987,95.55,33.05,4.59,124.81,2.75
 2020-10-30,Washington,Cowlitz,5.51,6,0,0.0,823,7,0.85,755.14,6.42,0.76,108987,95.55,28.46,-6.42,122.06,3.67
 2020-10-29,Washington,Cowlitz,9.18,10,0,0.0,817,7,0.86,749.63,6.42,0.75,108987,95.55,34.88,6.43,118.39,5.51
 2020-10-28,Washington,Cowlitz,3.67,4,0,0.0,807,7,0.87,740.46,6.42,0.74,108987,95.55,28.45,0.92,112.88,-0.92

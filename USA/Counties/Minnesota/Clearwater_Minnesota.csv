@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Minnesota,Clearwater,45.4,4,0,0.0,155,1,0.65,1759.36,11.35,1.76,8810,8.82,499.43,-22.7,1339.36,22.7
+2020-10-31,Minnesota,Clearwater,90.81,8,0,0.0,151,1,0.66,1713.96,11.35,1.71,8810,8.82,522.13,45.41,1316.66,90.81
 2020-10-30,Minnesota,Clearwater,56.75,5,0,0.0,143,1,0.7,1623.16,11.35,1.62,8810,8.82,476.72,-90.81,1225.85,45.4
 2020-10-29,Minnesota,Clearwater,113.51,10,0,0.0,138,1,0.72,1566.4,11.35,1.57,8810,8.82,567.53,113.51,1180.45,90.81
 2020-10-28,Minnesota,Clearwater,158.91,14,1,11.35,128,1,0.78,1452.89,11.35,1.45,8810,8.82,454.02,113.51,1089.64,147.56

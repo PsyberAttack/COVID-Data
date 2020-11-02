@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Wisconsin,Waupaca,54.76,28,0,0.0,2895,55,1.9,5662.26,107.57,5.66,51128,68.38,778.44,-27.39,2847.75,-35.21
+2020-10-31,Wisconsin,Waupaca,172.12,88,1,1.96,2867,55,1.92,5607.49,107.57,5.61,51128,68.38,805.83,-60.63,2882.96,95.84
 2020-10-30,Wisconsin,Waupaca,134.96,69,0,0.0,2779,54,1.94,5435.38,105.62,5.44,51128,68.38,866.46,50.86,2787.12,70.42
 2020-10-29,Wisconsin,Waupaca,142.78,73,2,3.91,2710,54,1.99,5300.42,105.62,5.3,51128,68.38,815.6,43.03,2716.7,-15.65
 2020-10-28,Wisconsin,Waupaca,76.28,39,11,21.51,2637,52,1.97,5157.64,101.71,5.16,51128,68.38,772.57,-21.51,2732.35,17.6

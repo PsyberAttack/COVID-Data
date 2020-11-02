@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Texas,Matagorda,2.74,1,0,0.0,1122,54,4.81,3069.6,147.73,3.07,36552,33.45,73.87,0.0,180.59,-8.2
+2020-10-31,Texas,Matagorda,13.68,5,0,0.0,1121,54,4.82,3066.86,147.73,3.07,36552,33.45,73.87,8.21,188.79,5.47
 2020-10-30,Texas,Matagorda,5.47,2,1,2.74,1116,54,4.84,3053.18,147.73,3.05,36552,33.45,65.66,-2.74,183.32,2.73
 2020-10-29,Texas,Matagorda,24.62,9,0,0.0,1114,53,4.76,3047.71,145.0,3.05,36552,33.45,68.4,24.62,180.59,5.47
 2020-10-28,Texas,Matagorda,13.68,5,0,0.0,1105,53,4.8,3023.09,145.0,3.02,36552,33.45,43.78,5.47,175.12,0.0

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Arkansas,Prairie,99.08,8,0,0.0,248,4,1.61,3071.59,49.54,3.07,8074,12.46,532.58,86.69,1077.58,74.31
+2020-10-31,Arkansas,Prairie,12.39,1,0,0.0,240,4,1.67,2972.5,49.54,2.97,8074,12.46,445.89,-12.38,1003.27,12.39
 2020-10-30,Arkansas,Prairie,37.16,3,0,0.0,239,4,1.67,2960.12,49.54,2.96,8074,12.46,458.27,12.39,990.88,24.77
 2020-10-29,Arkansas,Prairie,61.93,5,0,0.0,236,4,1.69,2922.96,49.54,2.92,8074,12.46,445.88,0.0,966.11,12.39
 2020-10-28,Arkansas,Prairie,86.7,7,0,0.0,231,4,1.73,2861.04,49.54,2.86,8074,12.46,445.88,74.31,953.72,37.16

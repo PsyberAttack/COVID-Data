@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Michigan,Iosco,0.0,0,0,0.0,314,16,5.1,1251.94,63.79,1.25,25081,45.68,147.52,0.0,310.99,0.0
+2020-10-31,Michigan,Iosco,19.94,5,0,0.0,314,16,5.1,1251.94,63.79,1.25,25081,45.68,147.52,3.99,310.99,0.0
 2020-10-30,Michigan,Iosco,23.92,6,0,0.0,309,16,5.18,1232.01,63.79,1.23,25081,45.68,143.53,23.92,310.99,23.92
 2020-10-29,Michigan,Iosco,35.88,9,0,0.0,303,16,5.28,1208.09,63.79,1.21,25081,45.68,119.61,23.92,287.07,23.92
 2020-10-28,Michigan,Iosco,19.94,5,0,0.0,294,16,5.44,1172.2,63.79,1.17,25081,45.68,95.69,19.94,263.15,0.0

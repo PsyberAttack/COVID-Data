@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Texas,Comanche,0.0,0,0,0.0,375,5,1.33,2770.8,36.94,2.77,13534,14.43,155.18,0.0,480.28,0.0
+2020-10-31,Texas,Comanche,14.78,2,0,0.0,375,5,1.33,2770.8,36.94,2.77,13534,14.43,155.18,-29.55,480.28,22.17
 2020-10-30,Texas,Comanche,14.78,2,0,0.0,373,5,1.34,2756.02,36.94,2.76,13534,14.43,184.73,14.78,458.11,22.17
 2020-10-29,Texas,Comanche,22.17,3,0,0.0,371,5,1.35,2741.24,36.94,2.74,13534,14.43,169.95,22.17,435.94,0.0
 2020-10-28,Texas,Comanche,22.17,3,0,0.0,368,5,1.36,2719.08,36.94,2.72,13534,14.43,147.78,-14.77,435.94,22.17

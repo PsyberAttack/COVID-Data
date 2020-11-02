@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Kentucky,Daviess,25.72,26,0,0.0,2111,32,1.52,2087.95,31.65,2.09,101104,220.56,167.15,9.89,582.59,9.89
+2020-10-31,Kentucky,Daviess,30.66,31,1,0.99,2085,32,1.53,2062.23,31.65,2.06,101104,220.56,157.26,-7.91,572.7,-4.95
 2020-10-30,Kentucky,Daviess,29.67,30,1,0.99,2054,31,1.51,2031.57,30.66,2.03,101104,220.56,165.17,3.95,577.65,11.87
 2020-10-29,Kentucky,Daviess,18.79,19,1,0.99,2024,30,1.48,2001.9,29.67,2.0,101104,220.56,161.22,-4.95,565.78,-1.98
 2020-10-28,Kentucky,Daviess,30.66,31,0,0.0,2005,29,1.45,1983.11,28.68,1.98,101104,220.56,166.17,15.82,567.76,4.94

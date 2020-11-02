@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Wisconsin,Richland,17.26,3,0,0.0,516,9,1.74,2969.44,51.79,2.97,17377,29.65,310.75,-63.31,1663.11,-86.33
+2020-10-31,Wisconsin,Richland,51.79,9,0,0.0,513,9,1.75,2952.18,51.79,2.95,17377,29.65,374.06,-11.51,1749.44,-5.76
 2020-10-30,Wisconsin,Richland,57.55,10,1,5.75,504,9,1.79,2900.39,51.79,2.9,17377,29.65,385.57,5.76,1755.2,-57.54
 2020-10-29,Wisconsin,Richland,40.28,7,0,0.0,494,8,1.62,2842.84,46.04,2.84,17377,29.65,379.81,-23.02,1812.74,-74.81
 2020-10-28,Wisconsin,Richland,74.81,13,0,0.0,487,8,1.64,2802.56,46.04,2.8,17377,29.65,402.83,-5.76,1887.55,40.28

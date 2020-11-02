@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Missouri,Clark,29.23,2,0,0.0,130,1,0.77,1900.03,14.62,1.9,6842,13.56,321.54,-14.62,818.49,14.61
+2020-10-31,Missouri,Clark,116.92,8,0,0.0,128,1,0.78,1870.8,14.62,1.87,6842,13.56,336.16,102.3,803.88,116.92
 2020-10-30,Missouri,Clark,58.46,4,0,0.0,120,1,0.83,1753.87,14.62,1.75,6842,13.56,233.86,58.46,686.96,58.46
 2020-10-29,Missouri,Clark,43.85,3,0,0.0,116,1,0.86,1695.41,14.62,1.7,6842,13.56,175.4,29.23,628.5,-29.23
 2020-10-28,Missouri,Clark,0.0,0,0,0.0,113,1,0.88,1651.56,14.62,1.65,6842,13.56,146.17,14.62,657.73,-43.85

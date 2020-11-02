@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Indiana,Lawrence,15.33,7,0,0.0,1099,41,3.73,2406.5,89.78,2.41,45668,101.67,328.44,0.0,1186.84,4.38
+2020-10-31,Indiana,Lawrence,61.31,28,1,2.19,1092,41,3.75,2391.17,89.78,2.39,45668,101.67,328.44,-8.76,1182.46,37.22
 2020-10-30,Indiana,Lawrence,43.79,20,0,0.0,1064,40,3.76,2329.86,87.59,2.33,45668,101.67,337.2,-30.66,1145.24,35.03
 2020-10-29,Indiana,Lawrence,43.79,20,0,0.0,1044,40,3.83,2286.06,87.59,2.29,45668,101.67,367.86,-61.32,1110.21,32.84
 2020-10-28,Indiana,Lawrence,65.69,30,0,0.0,1024,40,3.91,2242.27,87.59,2.24,45668,101.67,429.18,-24.09,1077.37,39.41

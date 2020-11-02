@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,New York,Herkimer,4.85,3,0,0.0,399,10,2.51,645.29,16.17,0.65,61833,43.81,19.4,0.0,85.69,1.62
+2020-10-31,New York,Herkimer,3.23,2,0,0.0,396,10,2.53,640.43,16.17,0.64,61833,43.81,19.4,-3.24,84.07,0.0
 2020-10-30,New York,Herkimer,0.0,0,0,0.0,394,10,2.54,637.2,16.17,0.64,61833,43.81,22.64,-6.47,84.07,-3.23
 2020-10-29,New York,Herkimer,0.0,0,0,0.0,394,10,2.54,637.2,16.17,0.64,61833,43.81,29.11,-3.23,87.3,-3.23
 2020-10-28,New York,Herkimer,6.47,4,0,0.0,394,10,2.54,637.2,16.17,0.64,61833,43.81,32.34,1.62,90.53,4.85

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Tennessee,Lincoln,2.93,1,0,0.0,972,4,0.41,2849.02,11.72,2.85,34117,59.82,219.84,-46.9,917.44,-2.93
+2020-10-31,Tennessee,Lincoln,58.62,20,0,0.0,971,4,0.41,2846.09,11.72,2.85,34117,59.82,266.74,-23.45,920.37,52.76
 2020-10-30,Tennessee,Lincoln,17.59,6,1,2.93,951,4,0.42,2787.47,11.72,2.79,34117,59.82,290.19,-29.31,867.61,5.87
 2020-10-29,Tennessee,Lincoln,41.04,14,0,0.0,945,3,0.32,2769.88,8.79,2.77,34117,59.82,319.5,23.45,861.74,26.38
 2020-10-28,Tennessee,Lincoln,17.59,6,0,0.0,931,3,0.32,2728.84,8.79,2.73,34117,59.82,296.05,-29.31,835.36,-20.51

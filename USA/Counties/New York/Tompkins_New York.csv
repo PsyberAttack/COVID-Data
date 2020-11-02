@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,New York,Tompkins,5.84,6,0,0.0,656,0,0.0,638.18,0.0,0.64,102793,216.57,51.57,-3.89,205.29,-0.97
+2020-10-31,New York,Tompkins,10.7,11,0,0.0,650,0,0.0,632.34,0.0,0.63,102793,216.57,55.46,2.92,206.26,4.86
 2020-10-30,New York,Tompkins,6.81,7,0,0.0,639,0,0.0,621.64,0.0,0.62,102793,216.57,52.54,0.97,201.4,0.97
 2020-10-29,New York,Tompkins,12.65,13,0,0.0,632,0,0.0,614.83,0.0,0.61,102793,216.57,51.57,-2.92,200.43,7.79
 2020-10-28,New York,Tompkins,9.73,10,0,0.0,619,0,0.0,602.18,0.0,0.6,102793,216.57,54.49,2.92,192.64,5.84

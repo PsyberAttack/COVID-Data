@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Virginia,Loudoun,16.47,67,1,0.25,8048,132,1.64,1978.12,32.44,1.98,406850,788.83,76.69,15.0,261.26,8.85
+2020-10-31,Virginia,Loudoun,8.6,35,1,0.25,7981,131,1.64,1961.66,32.2,1.96,406850,788.83,61.69,2.21,252.41,-0.74
 2020-10-30,Virginia,Loudoun,9.34,38,0,0.0,7946,130,1.64,1953.05,31.95,1.95,406850,788.83,59.48,3.44,253.15,2.21
 2020-10-29,Virginia,Loudoun,7.87,32,0,0.0,7908,130,1.64,1943.71,31.95,1.94,406850,788.83,56.04,-3.44,250.94,8.36
 2020-10-28,Virginia,Loudoun,14.5,59,0,0.0,7876,130,1.65,1935.85,31.95,1.94,406850,788.83,59.48,5.9,242.58,5.16

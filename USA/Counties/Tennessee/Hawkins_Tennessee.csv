@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Tennessee,Hawkins,1.77,1,0,0.0,1300,29,2.23,2299.66,51.3,2.3,56530,116.07,160.98,-35.38,760.66,-14.15
+2020-10-31,Tennessee,Hawkins,23.0,13,0,0.0,1299,29,2.23,2297.89,51.3,2.3,56530,116.07,196.36,-8.84,774.81,21.23
 2020-10-30,Tennessee,Hawkins,24.77,14,1,1.77,1286,29,2.26,2274.9,51.3,2.27,56530,116.07,205.2,-24.76,753.58,7.08
 2020-10-29,Tennessee,Hawkins,47.76,27,3,5.31,1272,28,2.2,2250.13,49.53,2.25,56530,116.07,229.96,3.54,746.5,35.38
 2020-10-28,Tennessee,Hawkins,23.0,13,0,0.0,1245,25,2.01,2202.37,44.22,2.2,56530,116.07,226.42,1.77,711.12,-5.3

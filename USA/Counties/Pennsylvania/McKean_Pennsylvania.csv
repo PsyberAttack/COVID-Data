@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Pennsylvania,McKean,9.76,4,0,0.0,162,2,1.23,395.43,4.88,0.4,40968,41.84,104.95,7.32,241.64,2.44
+2020-10-31,Pennsylvania,McKean,2.44,1,0,0.0,158,2,1.27,385.67,4.88,0.39,40968,41.84,97.63,-12.21,239.2,2.44
 2020-10-30,Pennsylvania,McKean,21.97,9,0,0.0,157,2,1.27,383.23,4.88,0.38,40968,41.84,109.84,4.88,236.76,21.97
 2020-10-29,Pennsylvania,McKean,29.29,12,0,0.0,148,2,1.35,361.26,4.88,0.36,40968,41.84,104.96,21.97,214.79,26.85
 2020-10-28,Pennsylvania,McKean,9.76,4,0,0.0,136,2,1.47,331.97,4.88,0.33,40968,41.84,82.99,7.32,187.94,7.32

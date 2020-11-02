@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Tennessee,Perry,12.4,1,0,0.0,355,9,2.54,4402.28,111.61,4.4,8064,19.44,582.85,-198.41,2455.36,-12.4
+2020-10-31,Tennessee,Perry,49.6,4,1,12.4,354,9,2.54,4389.88,111.61,4.39,8064,19.44,781.26,-124.01,2467.76,37.2
 2020-10-30,Tennessee,Perry,86.81,7,3,37.2,350,8,2.29,4340.28,99.21,4.34,8064,19.44,905.27,-111.6,2430.56,86.81
 2020-10-29,Tennessee,Perry,86.81,7,0,0.0,343,5,1.46,4253.47,62.0,4.25,8064,19.44,1016.87,-12.4,2343.75,74.41
 2020-10-28,Tennessee,Perry,86.81,7,0,0.0,336,5,1.49,4166.67,62.0,4.17,8064,19.44,1029.27,-471.23,2269.34,86.81

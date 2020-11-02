@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Maine,Penobscot,0.66,1,0,0.0,311,6,1.93,205.83,3.97,0.21,151096,44.48,12.56,-3.97,31.74,-1.33
+2020-10-31,Maine,Penobscot,3.31,5,0,0.0,310,6,1.94,205.17,3.97,0.21,151096,44.48,16.53,2.65,33.07,2.65
 2020-10-30,Maine,Penobscot,1.32,2,0,0.0,305,6,1.97,201.86,3.97,0.2,151096,44.48,13.88,1.32,30.42,0.0
 2020-10-29,Maine,Penobscot,0.66,1,0,0.0,303,6,1.98,200.53,3.97,0.2,151096,44.48,12.56,0.66,30.42,-1.33
 2020-10-28,Maine,Penobscot,1.32,2,0,0.0,302,6,1.99,199.87,3.97,0.2,151096,44.48,11.9,-1.99,31.75,1.32

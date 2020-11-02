@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Colorado,Summit,83.85,26,0,0.0,779,4,0.51,2512.34,12.9,2.51,31007,50.97,361.21,38.7,941.75,58.05
+2020-10-31,Colorado,Summit,6.45,2,0,0.0,753,4,0.53,2428.48,12.9,2.43,31007,50.97,322.51,-48.38,883.7,-12.9
 2020-10-30,Colorado,Summit,64.5,20,0,0.0,751,4,0.53,2422.03,12.9,2.42,31007,50.97,370.89,16.12,896.6,58.05
 2020-10-29,Colorado,Summit,38.7,12,0,0.0,731,4,0.55,2357.53,12.9,2.36,31007,50.97,354.77,-12.9,838.55,19.35
 2020-10-28,Colorado,Summit,74.18,23,0,0.0,719,4,0.56,2318.83,12.9,2.32,31007,50.97,367.67,35.48,819.2,67.73

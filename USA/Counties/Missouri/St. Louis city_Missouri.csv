@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Missouri,St. Louis city,0.0,0,0,0.0,8746,225,2.57,2888.01,74.3,2.89,302838,4904.77,143.64,-26.42,481.79,-10.9
+2020-10-31,Missouri,St. Louis city,41.94,127,3,0.99,8746,225,2.57,2888.01,74.3,2.89,302838,4904.77,170.06,17.5,492.69,32.69
 2020-10-30,Missouri,St. Louis city,26.75,81,0,0.0,8619,222,2.58,2846.08,73.31,2.85,302838,4904.77,152.56,8.92,460.0,17.17
 2020-10-29,Missouri,St. Louis city,19.81,60,1,0.33,8538,222,2.6,2819.33,73.31,2.82,302838,4904.77,143.64,5.28,442.83,3.63
 2020-10-28,Missouri,St. Louis city,16.51,50,0,0.0,8478,221,2.61,2799.52,72.98,2.8,302838,4904.77,138.36,-0.33,439.2,8.92

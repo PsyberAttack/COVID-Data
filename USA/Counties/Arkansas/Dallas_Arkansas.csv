@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Arkansas,Dallas,97.47,7,0,0.0,188,6,3.19,2617.66,83.54,2.62,7182,10.76,125.31,97.47,236.69,69.62
+2020-10-31,Arkansas,Dallas,0.0,0,0,0.0,181,6,3.31,2520.19,83.54,2.52,7182,10.76,27.84,0.0,167.07,-13.92
 2020-10-30,Arkansas,Dallas,13.92,1,0,0.0,181,6,3.31,2520.19,83.54,2.52,7182,10.76,27.84,0.0,180.99,0.0
 2020-10-29,Arkansas,Dallas,0.0,0,0,0.0,180,6,3.33,2506.27,83.54,2.51,7182,10.76,27.84,0.0,180.99,-13.92
 2020-10-28,Arkansas,Dallas,13.92,1,1,13.92,180,6,3.33,2506.27,83.54,2.51,7182,10.76,27.84,0.0,194.91,13.92

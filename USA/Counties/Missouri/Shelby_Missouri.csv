@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Missouri,Shelby,0.0,0,0,0.0,112,1,0.89,1851.24,16.53,1.85,6050,12.08,82.65,-82.64,661.18,0.0
+2020-10-31,Missouri,Shelby,16.53,1,0,0.0,112,1,0.89,1851.24,16.53,1.85,6050,12.08,165.29,-33.06,661.18,-16.53
 2020-10-30,Missouri,Shelby,16.53,1,0,0.0,111,1,0.9,1834.71,16.53,1.83,6050,12.08,198.35,0.0,677.71,16.53
 2020-10-29,Missouri,Shelby,0.0,0,0,0.0,110,1,0.91,1818.18,16.53,1.82,6050,12.08,198.35,-16.53,661.18,16.53
 2020-10-28,Missouri,Shelby,49.59,3,0,0.0,110,1,0.91,1818.18,16.53,1.82,6050,12.08,214.88,49.59,644.65,0.0

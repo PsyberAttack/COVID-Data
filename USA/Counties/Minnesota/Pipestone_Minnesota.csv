@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Minnesota,Pipestone,88.43,8,0,0.0,390,17,4.36,4310.82,187.91,4.31,9047,19.45,442.14,33.16,1337.47,0.0
+2020-10-31,Minnesota,Pipestone,110.53,10,0,0.0,382,17,4.45,4222.39,187.91,4.22,9047,19.45,408.98,77.37,1337.47,44.21
 2020-10-30,Minnesota,Pipestone,66.32,6,0,0.0,372,17,4.57,4111.86,187.91,4.11,9047,19.45,331.61,0.0,1293.26,0.0
 2020-10-29,Minnesota,Pipestone,55.27,5,0,0.0,366,17,4.64,4045.54,187.91,4.05,9047,19.45,331.61,-11.05,1293.26,-55.26
 2020-10-28,Minnesota,Pipestone,22.11,2,0,0.0,361,17,4.71,3990.27,187.91,3.99,9047,19.45,342.66,0.0,1348.52,11.06

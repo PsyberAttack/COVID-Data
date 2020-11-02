@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Wisconsin,Waukesha,26.55,107,0,0.0,14569,128,0.88,3614.49,31.76,3.61,403072,733.23,469.89,7.2,1415.86,11.66
+2020-10-31,Wisconsin,Waukesha,92.29,372,0,0.0,14462,128,0.89,3587.94,31.76,3.59,403072,733.23,462.69,25.8,1404.2,56.56
 2020-10-30,Wisconsin,Waukesha,82.12,331,3,0.74,14090,128,0.91,3495.65,31.76,3.5,403072,733.23,436.89,8.44,1347.64,45.9
 2020-10-29,Wisconsin,Waukesha,71.45,288,2,0.5,13759,125,0.91,3413.53,31.01,3.41,403072,733.23,428.45,15.88,1301.74,25.3
 2020-10-28,Wisconsin,Waukesha,71.2,287,1,0.25,13471,123,0.91,3342.08,30.52,3.34,403072,733.23,412.57,-17.37,1276.44,42.92

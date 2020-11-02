@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Kentucky,Letcher,36.53,8,0,0.0,323,2,0.62,1474.95,9.13,1.47,21899,64.8,95.9,22.83,579.95,4.57
+2020-10-31,Kentucky,Letcher,9.13,2,0,0.0,315,2,0.63,1438.42,9.13,1.44,21899,64.8,73.07,-9.14,575.38,-22.83
 2020-10-30,Kentucky,Letcher,18.27,4,0,0.0,313,2,0.64,1429.29,9.13,1.43,21899,64.8,82.21,0.0,598.21,-22.83
 2020-10-29,Kentucky,Letcher,22.83,5,0,0.0,309,2,0.65,1411.02,9.13,1.41,21899,64.8,82.21,0.0,621.04,-4.57
 2020-10-28,Kentucky,Letcher,4.57,1,0,0.0,304,2,0.66,1388.19,9.13,1.39,21899,64.8,82.21,4.57,625.61,-36.53

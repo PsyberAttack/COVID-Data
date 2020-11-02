@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Virginia,Nelson,6.74,1,0,0.0,141,2,1.42,950.39,13.48,0.95,14836,31.52,33.7,6.74,208.94,6.74
+2020-10-31,Virginia,Nelson,0.0,0,0,0.0,140,2,1.43,943.65,13.48,0.94,14836,31.52,26.96,0.0,202.2,0.0
 2020-10-30,Virginia,Nelson,0.0,0,0,0.0,140,2,1.43,943.65,13.48,0.94,14836,31.52,26.96,-6.74,202.2,-20.22
 2020-10-29,Virginia,Nelson,20.22,3,0,0.0,140,2,1.43,943.65,13.48,0.94,14836,31.52,33.7,0.0,222.42,13.48
 2020-10-28,Virginia,Nelson,6.74,1,0,0.0,137,2,1.46,923.43,13.48,0.92,14836,31.52,33.7,-33.7,208.94,-6.74

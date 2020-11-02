@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Georgia,Turner,12.64,1,0,0.0,385,24,6.23,4866.03,303.34,4.87,7912,27.72,88.48,0.0,859.48,0.0
+2020-10-31,Georgia,Turner,0.0,0,0,0.0,384,24,6.25,4853.39,303.34,4.85,7912,27.72,88.48,-12.64,859.48,-63.2
 2020-10-30,Georgia,Turner,0.0,0,0,0.0,384,24,6.25,4853.39,303.34,4.85,7912,27.72,101.12,0.0,922.68,-63.2
 2020-10-29,Georgia,Turner,37.92,3,0,0.0,384,24,6.25,4853.39,303.34,4.85,7912,27.72,101.12,37.92,985.88,37.92
 2020-10-28,Georgia,Turner,0.0,0,0,0.0,381,24,6.3,4815.47,303.34,4.82,7912,27.72,63.2,-12.64,947.96,-12.64

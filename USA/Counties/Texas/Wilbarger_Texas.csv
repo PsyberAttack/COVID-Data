@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Texas,Wilbarger,0.0,0,0,0.0,384,4,1.04,2995.32,31.2,3.0,12820,13.2,374.4,0.0,1341.63,0.0
+2020-10-31,Texas,Wilbarger,101.4,13,0,0.0,384,4,1.04,2995.32,31.2,3.0,12820,13.2,374.4,-78.01,1341.63,85.8
 2020-10-30,Texas,Wilbarger,46.8,6,0,0.0,371,4,1.08,2893.92,31.2,2.89,12820,13.2,452.41,7.8,1255.83,46.8
 2020-10-29,Texas,Wilbarger,31.2,4,1,7.8,365,4,1.1,2847.11,31.2,2.85,12820,13.2,444.61,31.2,1209.03,23.4
 2020-10-28,Texas,Wilbarger,101.4,13,0,0.0,361,3,0.83,2815.91,23.4,2.82,12820,13.2,413.41,-109.21,1185.63,85.8

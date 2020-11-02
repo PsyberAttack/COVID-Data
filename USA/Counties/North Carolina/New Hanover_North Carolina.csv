@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,North Carolina,New Hanover,15.93,37,0,0.0,5447,40,0.73,2345.08,17.22,2.35,232274,1208.49,118.82,4.31,425.78,13.35
+2020-10-31,North Carolina,New Hanover,28.41,66,3,1.29,5410,40,0.74,2329.15,17.22,2.33,232274,1208.49,114.51,9.04,412.43,15.06
 2020-10-30,North Carolina,New Hanover,16.79,39,0,0.0,5344,37,0.69,2300.73,15.93,2.3,232274,1208.49,105.47,3.44,397.37,-1.29
 2020-10-29,North Carolina,New Hanover,21.96,51,0,0.0,5305,37,0.7,2283.94,15.93,2.28,232274,1208.49,102.03,-2.58,398.66,10.34
 2020-10-28,North Carolina,New Hanover,10.76,25,0,0.0,5254,37,0.7,2261.98,15.93,2.26,232274,1208.49,104.61,-21.1,388.32,0.43

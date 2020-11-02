@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Missouri,Jefferson,0.0,0,0,0.0,6328,89,1.41,2820.63,39.67,2.82,224347,341.73,227.33,0.0,709.16,0.0
+2020-10-31,Missouri,Jefferson,0.0,0,5,2.23,6328,89,1.41,2820.63,39.67,2.82,224347,341.73,227.33,0.0,709.16,0.0
 2020-10-30,Missouri,Jefferson,43.68,98,0,0.0,6328,84,1.33,2820.63,37.44,2.82,224347,341.73,227.33,18.72,709.16,15.15
 2020-10-29,Missouri,Jefferson,46.8,105,0,0.0,6230,84,1.35,2776.95,37.44,2.78,224347,341.73,208.61,28.08,694.01,24.07
 2020-10-28,Missouri,Jefferson,15.16,34,0,0.0,6125,84,1.37,2730.15,37.44,2.73,224347,341.73,180.53,-2.22,669.94,-6.24

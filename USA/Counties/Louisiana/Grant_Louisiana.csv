@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Louisiana,Grant,8.9,2,0,0.0,545,30,5.5,2424.16,133.44,2.42,22482,34.96,40.04,-8.89,200.18,-13.34
+2020-10-31,Louisiana,Grant,0.0,0,0,0.0,543,30,5.52,2415.27,133.44,2.42,22482,34.96,48.93,0.0,213.52,0.0
 2020-10-30,Louisiana,Grant,22.24,5,0,0.0,543,30,5.52,2415.27,133.44,2.42,22482,34.96,48.93,4.45,213.52,31.14
 2020-10-29,Louisiana,Grant,-13.34,-3,0,0.0,538,30,5.58,2393.03,133.44,2.39,22482,34.96,44.48,-40.03,182.38,-8.89
 2020-10-28,Louisiana,Grant,4.45,1,0,0.0,541,30,5.55,2406.37,133.44,2.41,22482,34.96,84.51,8.9,191.27,4.45

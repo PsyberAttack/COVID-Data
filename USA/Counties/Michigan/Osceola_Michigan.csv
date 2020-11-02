@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Michigan,Osceola,0.0,0,0,0.0,201,1,0.5,861.15,4.28,0.86,23341,41.22,244.2,0.0,424.14,0.0
+2020-10-31,Michigan,Osceola,25.71,6,0,0.0,201,1,0.5,861.15,4.28,0.86,23341,41.22,244.2,0.0,424.14,12.86
 2020-10-30,Michigan,Osceola,12.85,3,0,0.0,195,1,0.51,835.44,4.28,0.84,23341,41.22,244.2,0.0,411.28,21.42
 2020-10-29,Michigan,Osceola,42.84,10,0,0.0,192,1,0.52,822.59,4.28,0.82,23341,41.22,244.2,25.7,389.86,34.27
 2020-10-28,Michigan,Osceola,21.42,5,0,0.0,182,1,0.55,779.74,4.28,0.78,23341,41.22,218.5,0.0,355.59,12.85

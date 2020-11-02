@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,North Carolina,Randolph,20.23,29,0,0.0,3950,64,1.62,2755.47,44.65,2.76,143351,183.24,193.23,4.88,674.59,20.23
+2020-10-31,North Carolina,Randolph,33.48,48,0,0.0,3921,64,1.63,2735.24,44.65,2.74,143351,183.24,188.35,7.67,654.36,8.37
 2020-10-30,North Carolina,Randolph,29.3,42,0,0.0,3873,64,1.65,2701.76,44.65,2.7,143351,183.24,180.68,7.67,645.99,2.09
 2020-10-29,North Carolina,Randolph,46.04,66,1,0.7,3831,64,1.67,2672.46,44.65,2.67,143351,183.24,173.01,17.44,643.9,29.3
 2020-10-28,North Carolina,Randolph,24.42,35,1,0.7,3765,63,1.67,2626.42,43.95,2.63,143351,183.24,155.57,2.79,614.6,9.77

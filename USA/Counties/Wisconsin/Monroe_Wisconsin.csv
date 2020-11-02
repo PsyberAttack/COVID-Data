@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Wisconsin,Monroe,62.97,29,0,0.0,1289,8,0.62,2799.07,17.37,2.8,46051,51.12,436.46,23.88,1348.51,19.54
+2020-10-31,Wisconsin,Monroe,84.69,39,1,2.17,1260,8,0.63,2736.1,17.37,2.74,46051,51.12,412.58,32.57,1328.97,34.75
 2020-10-30,Wisconsin,Monroe,76.0,35,1,2.17,1221,7,0.57,2651.41,15.2,2.65,46051,51.12,380.01,30.4,1294.22,41.26
 2020-10-29,Wisconsin,Monroe,73.83,34,1,2.17,1186,6,0.51,2575.41,13.03,2.58,46051,51.12,349.61,34.74,1252.96,15.2
 2020-10-28,Wisconsin,Monroe,45.6,21,1,2.17,1152,5,0.43,2501.57,10.86,2.5,46051,51.12,314.87,-17.37,1237.76,4.34

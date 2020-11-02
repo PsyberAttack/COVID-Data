@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Tennessee,Unicoi,11.26,2,0,0.0,505,5,0.99,2843.31,28.15,2.84,17761,95.46,489.83,-67.56,1182.34,0.0
+2020-10-31,Tennessee,Unicoi,95.72,17,0,0.0,503,5,0.99,2832.05,28.15,2.83,17761,95.46,557.39,45.05,1182.34,95.72
 2020-10-30,Tennessee,Unicoi,50.67,9,0,0.0,486,5,1.03,2736.33,28.15,2.74,17761,95.46,512.34,-11.26,1086.62,50.67
 2020-10-29,Tennessee,Unicoi,112.61,20,2,11.26,477,5,1.05,2685.66,28.15,2.69,17761,95.46,523.6,50.68,1035.95,106.98
 2020-10-28,Tennessee,Unicoi,67.56,12,0,0.0,457,3,0.66,2573.05,16.89,2.57,17761,95.46,472.92,33.78,928.97,61.93

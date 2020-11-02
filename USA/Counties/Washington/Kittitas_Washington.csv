@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Washington,Kittitas,0.0,0,0,0.0,775,22,2.84,1636.26,46.45,1.64,47364,20.62,130.9,-6.33,468.68,0.0
+2020-10-31,Washington,Kittitas,12.67,6,0,0.0,775,22,2.84,1636.26,46.45,1.64,47364,20.62,137.23,8.45,468.68,10.56
 2020-10-30,Washington,Kittitas,42.23,20,0,0.0,769,22,2.86,1623.6,46.45,1.62,47364,20.62,128.78,6.34,458.12,27.45
 2020-10-29,Washington,Kittitas,29.56,14,0,0.0,749,22,2.94,1581.37,46.45,1.58,47364,20.62,122.44,27.45,430.67,25.34
 2020-10-28,Washington,Kittitas,21.11,10,0,0.0,735,22,2.99,1551.81,46.45,1.55,47364,20.62,94.99,-10.56,405.33,19.0

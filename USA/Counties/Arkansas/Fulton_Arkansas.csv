@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Arkansas,Fulton,40.75,5,0,0.0,348,10,2.87,2836.42,81.51,2.84,12269,19.85,268.95,16.3,1222.53,24.45
+2020-10-31,Arkansas,Fulton,57.05,7,1,8.15,343,10,2.92,2795.66,81.51,2.8,12269,19.85,252.65,-8.15,1198.08,0.0
 2020-10-30,Arkansas,Fulton,32.6,4,0,0.0,336,9,2.68,2738.61,73.36,2.74,12269,19.85,260.8,-8.15,1198.08,8.15
 2020-10-29,Arkansas,Fulton,16.3,2,0,0.0,332,9,2.71,2706.01,73.36,2.71,12269,19.85,268.95,-8.15,1189.93,-57.06
 2020-10-28,Arkansas,Fulton,57.05,7,0,0.0,330,9,2.73,2689.71,73.36,2.69,12269,19.85,277.1,-73.36,1246.99,-8.15

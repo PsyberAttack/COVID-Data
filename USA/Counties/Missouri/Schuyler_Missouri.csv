@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Missouri,Schuyler,43.49,2,0,0.0,47,0,0.0,1021.96,0.0,1.02,4599,14.97,130.45,0.0,434.84,43.49
+2020-10-31,Missouri,Schuyler,21.74,1,0,0.0,45,0,0.0,978.47,0.0,0.98,4599,14.97,130.45,-43.49,391.35,21.74
 2020-10-30,Missouri,Schuyler,21.74,1,0,0.0,44,0,0.0,956.73,0.0,0.96,4599,14.97,173.94,0.0,369.61,21.74
 2020-10-29,Missouri,Schuyler,21.74,1,0,0.0,43,0,0.0,934.99,0.0,0.93,4599,14.97,173.94,21.74,347.87,0.0
 2020-10-28,Missouri,Schuyler,21.74,1,0,0.0,42,0,0.0,913.24,0.0,0.91,4599,14.97,152.2,21.74,347.87,-21.75

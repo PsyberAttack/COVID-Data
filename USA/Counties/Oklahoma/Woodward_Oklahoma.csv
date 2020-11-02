@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Oklahoma,Woodward,24.73,5,1,4.95,1297,6,0.46,6413.81,29.67,6.41,20222,16.28,267.04,-9.89,875.32,24.73
+2020-10-31,Oklahoma,Woodward,64.29,13,0,0.0,1292,5,0.39,6389.08,24.73,6.39,20222,16.28,276.93,-9.89,850.59,0.0
 2020-10-30,Oklahoma,Woodward,49.45,10,0,0.0,1279,5,0.39,6324.79,24.73,6.32,20222,16.28,286.82,39.56,850.59,54.4
 2020-10-29,Oklahoma,Woodward,9.89,2,0,0.0,1269,5,0.39,6275.34,24.73,6.28,20222,16.28,247.26,-54.4,796.19,-24.73
 2020-10-28,Oklahoma,Woodward,79.12,16,0,0.0,1267,5,0.39,6265.45,24.73,6.27,20222,16.28,301.66,39.56,820.92,29.67

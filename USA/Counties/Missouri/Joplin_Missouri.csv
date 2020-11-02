@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Missouri,Joplin,51.33,26,0,0.0,2172,32,1.47,4287.66,63.17,4.29,50657,0.0,416.53,9.87,260.58,-21.71
+2020-10-31,Missouri,Joplin,65.14,33,1,1.97,2146,32,1.49,4236.33,63.17,4.24,50657,0.0,406.66,-1.98,282.29,27.63
 2020-10-30,Missouri,Joplin,80.94,41,0,0.0,2113,31,1.47,4171.19,61.2,4.17,50657,0.0,408.64,17.77,254.66,21.72
 2020-10-29,Missouri,Joplin,37.51,19,0,0.0,2072,31,1.5,4090.25,61.2,4.09,50657,0.0,390.87,-25.66,232.94,-27.63
 2020-10-28,Missouri,Joplin,118.44,60,1,1.97,2053,31,1.51,4052.75,61.2,4.05,50657,0.0,416.53,33.56,260.57,-767.91

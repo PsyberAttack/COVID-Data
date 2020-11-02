@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Missouri,Maries,45.62,4,0,0.0,222,0,0.0,2531.65,0.0,2.53,8769,16.64,433.35,-57.01,1493.89,22.81
+2020-10-31,Missouri,Maries,57.02,5,0,0.0,218,0,0.0,2486.03,0.0,2.49,8769,16.64,490.36,-102.63,1471.08,57.02
 2020-10-30,Missouri,Maries,114.04,10,0,0.0,213,0,0.0,2429.01,0.0,2.43,8769,16.64,592.99,45.62,1414.06,91.23
 2020-10-29,Missouri,Maries,125.44,11,0,0.0,203,0,0.0,2314.97,0.0,2.31,8769,16.64,547.37,45.61,1322.83,114.04
 2020-10-28,Missouri,Maries,57.02,5,0,0.0,192,0,0.0,2189.53,0.0,2.19,8769,16.64,501.76,-34.21,1208.79,34.21

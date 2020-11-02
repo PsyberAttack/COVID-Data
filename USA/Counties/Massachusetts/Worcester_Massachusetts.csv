@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Massachusetts,Worcester,14.8,123,2,0.24,17017,1177,6.92,2048.17,141.66,2.05,830839,549.99,114.7,4.33,280.31,8.66
+2020-10-31,Massachusetts,Worcester,15.53,129,2,0.24,16894,1175,6.96,2033.37,141.42,2.03,830839,549.99,110.37,1.45,271.65,10.84
 2020-10-30,Massachusetts,Worcester,22.27,185,2,0.24,16765,1173,7.0,2017.84,141.18,2.02,830839,549.99,108.92,12.4,260.81,13.84
 2020-10-29,Massachusetts,Worcester,13.12,109,2,0.24,16580,1171,7.06,1995.57,140.94,2.0,830839,549.99,96.52,1.45,246.97,6.26
 2020-10-28,Massachusetts,Worcester,14.68,122,7,0.84,16471,1169,7.1,1982.45,140.7,1.98,830839,549.99,95.07,7.58,240.71,8.18

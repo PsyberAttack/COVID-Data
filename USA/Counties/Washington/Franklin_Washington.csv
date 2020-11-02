@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Washington,Franklin,31.8,30,0,0.0,5085,69,1.36,5389.68,73.13,5.39,94347,75.99,170.66,-3.18,601.01,24.38
+2020-10-31,Washington,Franklin,34.98,33,0,0.0,5055,69,1.36,5357.88,73.13,5.36,94347,75.99,173.84,0.0,576.63,10.6
 2020-10-30,Washington,Franklin,16.96,16,1,1.06,5022,69,1.37,5322.9,73.13,5.32,94347,75.99,173.84,12.72,566.03,9.54
 2020-10-29,Washington,Franklin,11.66,11,0,0.0,5006,68,1.36,5305.95,72.07,5.31,94347,75.99,161.12,-3.18,556.49,-1.06
 2020-10-28,Washington,Franklin,28.62,27,-1,-1.06,4995,68,1.36,5294.29,72.07,5.29,94347,75.99,164.3,-4.24,557.55,5.3

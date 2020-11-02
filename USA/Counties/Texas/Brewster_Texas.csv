@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Texas,Brewster,0.0,0,0,0.0,256,5,1.95,2762.49,53.95,2.76,9267,1.5,107.91,0.0,388.47,0.0
+2020-10-31,Texas,Brewster,64.75,6,0,0.0,256,5,1.95,2762.49,53.95,2.76,9267,1.5,107.91,64.75,388.47,64.75
 2020-10-30,Texas,Brewster,10.79,1,0,0.0,250,5,2.0,2697.74,53.95,2.7,9267,1.5,43.16,10.79,323.72,21.58
 2020-10-29,Texas,Brewster,0.0,0,0,0.0,249,5,2.01,2686.95,53.95,2.69,9267,1.5,32.37,0.0,302.14,0.0
 2020-10-28,Texas,Brewster,10.79,1,0,0.0,249,5,2.01,2686.95,53.95,2.69,9267,1.5,32.37,32.37,302.14,0.0

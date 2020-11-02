@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,North Carolina,Catawba,31.52,50,0,0.0,4701,62,1.32,2963.09,39.08,2.96,158652,395.27,267.26,11.35,858.48,29.0
+2020-10-31,North Carolina,Catawba,32.15,51,0,0.0,4651,62,1.33,2931.57,39.08,2.93,158652,395.27,255.91,-24.58,829.48,11.35
 2020-10-30,North Carolina,Catawba,58.62,93,0,0.0,4600,62,1.35,2899.43,39.08,2.9,158652,395.27,280.49,33.41,818.13,29.0
 2020-10-29,North Carolina,Catawba,45.38,72,0,0.0,4507,62,1.38,2840.81,39.08,2.84,158652,395.27,247.08,7.56,789.13,21.43
 2020-10-28,North Carolina,Catawba,37.82,60,1,0.63,4435,62,1.4,2795.43,39.08,2.8,158652,395.27,239.52,11.35,767.7,29.63

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Indiana,Randolph,36.22,9,0,0.0,550,11,2.0,2213.19,44.26,2.21,24851,54.93,523.13,0.0,1066.36,24.15
+2020-10-31,Indiana,Randolph,52.31,13,0,0.0,541,11,2.03,2176.97,44.26,2.18,24851,54.93,523.13,28.17,1042.21,28.17
 2020-10-30,Indiana,Randolph,197.18,49,0,0.0,528,11,2.08,2124.66,44.26,2.12,24851,54.93,494.96,144.87,1014.04,164.99
 2020-10-29,Indiana,Randolph,48.29,12,0,0.0,479,11,2.3,1927.49,44.26,1.93,24851,54.93,350.09,8.05,849.05,44.27
 2020-10-28,Indiana,Randolph,28.17,7,1,4.02,467,11,2.36,1879.2,44.26,1.88,24851,54.93,342.04,12.07,804.78,0.0

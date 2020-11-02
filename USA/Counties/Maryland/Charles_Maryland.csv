@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Maryland,Charles,13.0,21,0,0.0,3249,102,3.14,2011.73,63.16,2.01,161503,352.78,82.97,-1.24,245.19,6.81
+2020-10-31,Maryland,Charles,11.15,18,0,0.0,3228,102,3.16,1998.72,63.16,2.0,161503,352.78,84.21,3.72,238.38,3.72
 2020-10-30,Maryland,Charles,13.0,21,0,0.0,3210,102,3.18,1987.58,63.16,1.99,161503,352.78,80.49,6.19,234.66,6.81
 2020-10-29,Maryland,Charles,11.76,19,0,0.0,3189,102,3.2,1974.58,63.16,1.97,161503,352.78,74.3,1.23,227.85,-1.24
 2020-10-28,Maryland,Charles,8.67,14,0,0.0,3170,102,3.22,1962.81,63.16,1.96,161503,352.78,73.07,3.1,229.09,-3.09

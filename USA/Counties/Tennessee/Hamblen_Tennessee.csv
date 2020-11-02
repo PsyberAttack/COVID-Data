@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Tennessee,Hamblen,3.1,2,0,0.0,2584,50,1.93,4001.92,77.44,4.0,64569,400.58,185.84,-26.33,854.91,-30.97
+2020-10-31,Tennessee,Hamblen,20.13,13,0,0.0,2582,50,1.94,3998.82,77.44,4.0,64569,400.58,212.17,-15.49,885.88,3.09
 2020-10-30,Tennessee,Hamblen,34.07,22,0,0.0,2569,50,1.95,3978.69,77.44,3.98,64569,400.58,227.66,-32.53,882.79,-9.29
 2020-10-29,Tennessee,Hamblen,34.07,22,0,0.0,2547,50,1.96,3944.62,77.44,3.94,64569,400.58,260.19,12.39,892.08,24.78
 2020-10-28,Tennessee,Hamblen,46.46,30,2,3.1,2525,50,1.98,3910.55,77.44,3.91,64569,400.58,247.8,4.64,867.3,20.13

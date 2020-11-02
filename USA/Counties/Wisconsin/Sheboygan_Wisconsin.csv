@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Wisconsin,Sheboygan,114.33,132,0,0.0,5474,32,0.58,4741.2,27.72,4.74,115456,225.71,848.8,111.73,2795.86,99.61
+2020-10-31,Wisconsin,Sheboygan,176.69,204,2,1.73,5342,32,0.6,4626.87,27.72,4.63,115456,225.71,737.07,19.92,2696.25,126.45
 2020-10-30,Wisconsin,Sheboygan,71.02,82,2,1.73,5138,30,0.58,4450.18,25.98,4.45,115456,225.71,717.15,-17.33,2569.8,-37.25
 2020-10-29,Wisconsin,Sheboygan,110.86,128,2,1.73,5056,28,0.55,4379.16,24.25,4.38,115456,225.71,734.48,17.32,2607.05,-32.05
 2020-10-28,Wisconsin,Sheboygan,98.74,114,0,0.0,4928,26,0.53,4268.29,22.52,4.27,115456,225.71,717.16,-38.11,2639.1,27.72

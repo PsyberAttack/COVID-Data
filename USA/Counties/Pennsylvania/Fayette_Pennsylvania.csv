@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Pennsylvania,Fayette,9.97,13,0,0.0,1074,15,1.4,823.36,11.5,0.82,130441,165.04,62.12,6.14,188.62,5.37
+2020-10-31,Pennsylvania,Fayette,7.67,10,0,0.0,1061,15,1.41,813.39,11.5,0.81,130441,165.04,55.98,-3.06,183.25,7.67
 2020-10-30,Pennsylvania,Fayette,12.27,16,0,0.0,1051,15,1.43,805.73,11.5,0.81,130441,165.04,59.04,-0.76,175.58,6.9
 2020-10-29,Pennsylvania,Fayette,12.27,16,0,0.0,1035,15,1.45,793.46,11.5,0.79,130441,165.04,59.8,3.07,168.68,9.97
 2020-10-28,Pennsylvania,Fayette,9.97,13,1,0.77,1019,15,1.47,781.2,11.5,0.78,130441,165.04,56.73,3.07,158.71,7.67

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Pennsylvania,Lehigh,14.13,52,0,0.0,6863,366,5.33,1864.44,99.43,1.86,368100,1066.33,122.79,4.62,296.92,3.54
+2020-10-31,Pennsylvania,Lehigh,30.7,113,0,0.0,6811,366,5.37,1850.31,99.43,1.85,368100,1066.33,118.17,14.94,293.38,30.7
 2020-10-30,Pennsylvania,Lehigh,14.94,55,1,0.27,6698,366,5.46,1819.61,99.43,1.82,368100,1066.33,103.23,-0.27,262.68,7.61
 2020-10-29,Pennsylvania,Lehigh,13.58,50,0,0.0,6643,365,5.49,1804.67,99.16,1.8,368100,1066.33,103.5,-2.99,255.07,9.23
 2020-10-28,Pennsylvania,Lehigh,14.13,52,0,0.0,6593,365,5.54,1791.09,99.16,1.79,368100,1066.33,106.49,4.62,245.84,8.97

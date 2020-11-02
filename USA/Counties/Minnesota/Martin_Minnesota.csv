@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Minnesota,Martin,25.27,5,0,0.0,651,18,2.76,3290.37,90.98,3.29,19785,27.78,192.07,15.16,732.87,-10.11
+2020-10-31,Minnesota,Martin,45.49,9,0,0.0,646,18,2.79,3265.1,90.98,3.27,19785,27.78,176.91,20.22,742.98,-10.11
 2020-10-30,Minnesota,Martin,55.6,11,0,0.0,637,18,2.83,3219.61,90.98,3.22,19785,27.78,156.69,35.38,753.09,-30.32
 2020-10-29,Minnesota,Martin,35.38,7,0,0.0,626,18,2.88,3164.01,90.98,3.16,19785,27.78,121.31,20.22,783.41,-10.11
 2020-10-28,Minnesota,Martin,20.22,4,0,0.0,619,18,2.91,3128.63,90.98,3.13,19785,27.78,101.09,-30.32,793.52,-60.65

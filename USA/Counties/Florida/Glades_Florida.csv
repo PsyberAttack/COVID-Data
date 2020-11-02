@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Florida,Glades,0.0,0,0,0.0,610,6,0.98,4444.77,43.72,4.44,13724,17.01,109.29,-14.57,444.48,0.0
+2020-10-31,Florida,Glades,21.86,3,0,0.0,610,6,0.98,4444.77,43.72,4.44,13724,17.01,123.86,21.86,444.48,7.29
 2020-10-30,Florida,Glades,7.29,1,0,0.0,607,6,0.99,4422.91,43.72,4.42,13724,17.01,102.0,7.29,437.19,-7.28
 2020-10-29,Florida,Glades,36.43,5,0,0.0,606,6,0.99,4415.62,43.72,4.42,13724,17.01,94.71,21.86,444.47,14.57
 2020-10-28,Florida,Glades,14.57,2,0,0.0,601,6,1.0,4379.19,43.72,4.38,13724,17.01,72.85,0.0,429.9,7.28

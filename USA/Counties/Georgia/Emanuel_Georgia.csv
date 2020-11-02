@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Georgia,Emanuel,22.11,5,0,0.0,1281,39,3.04,5665.13,172.47,5.67,22612,33.23,225.53,4.42,791.59,0.0
+2020-10-31,Georgia,Emanuel,8.84,2,0,0.0,1276,39,3.06,5643.02,172.47,5.64,22612,33.23,221.11,-8.85,791.59,-22.12
 2020-10-30,Georgia,Emanuel,0.0,0,0,0.0,1274,39,3.06,5634.18,172.47,5.63,22612,33.23,229.96,-48.65,813.71,-30.96
 2020-10-29,Georgia,Emanuel,22.11,5,0,0.0,1274,39,3.06,5634.18,172.47,5.63,22612,33.23,278.61,0.0,844.67,-61.92
 2020-10-28,Georgia,Emanuel,4.42,1,2,8.84,1269,39,3.07,5612.06,172.47,5.61,22612,33.23,278.61,-8.85,906.59,-22.11

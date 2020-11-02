@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Michigan,Charlevoix,0.0,0,0,0.0,220,4,1.82,838.29,15.24,0.84,26244,63.04,213.37,0.0,400.07,0.0
+2020-10-31,Michigan,Charlevoix,0.0,0,0,0.0,220,4,1.82,838.29,15.24,0.84,26244,63.04,213.37,-11.43,400.07,0.0
 2020-10-30,Michigan,Charlevoix,41.91,11,0,0.0,220,4,1.82,838.29,15.24,0.84,26244,63.04,224.8,-11.44,400.07,34.29
 2020-10-29,Michigan,Charlevoix,38.1,10,0,0.0,209,4,1.91,796.37,15.24,0.8,26244,63.04,236.24,26.67,365.78,34.29
 2020-10-28,Michigan,Charlevoix,26.67,7,0,0.0,199,4,2.01,758.27,15.24,0.76,26244,63.04,209.57,22.86,331.49,22.86

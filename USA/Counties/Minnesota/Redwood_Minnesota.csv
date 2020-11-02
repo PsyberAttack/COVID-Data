@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Minnesota,Redwood,19.67,3,0,0.0,317,12,3.79,2078.82,78.69,2.08,15249,17.36,275.43,-6.56,747.61,0.0
+2020-10-31,Minnesota,Redwood,26.23,4,0,0.0,314,12,3.82,2059.15,78.69,2.06,15249,17.36,281.99,13.11,747.61,-19.67
 2020-10-30,Minnesota,Redwood,72.14,11,0,0.0,310,12,3.87,2032.92,78.69,2.03,15249,17.36,268.88,13.12,767.28,32.79
 2020-10-29,Minnesota,Redwood,32.79,5,1,6.56,299,12,4.01,1960.78,78.69,1.96,15249,17.36,255.76,-26.23,734.49,-13.11
 2020-10-28,Minnesota,Redwood,65.58,10,0,0.0,294,11,3.74,1928.0,72.14,1.93,15249,17.36,281.99,59.02,747.6,52.46

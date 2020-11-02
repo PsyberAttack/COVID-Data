@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Missouri,Wright,43.53,8,0,0.0,620,8,1.29,3373.6,43.53,3.37,18378,26.96,190.44,27.21,1044.75,-16.32
+2020-10-31,Missouri,Wright,27.21,5,0,0.0,612,8,1.31,3330.07,43.53,3.33,18378,26.96,163.23,-16.32,1061.07,-70.73
 2020-10-30,Missouri,Wright,5.44,1,0,0.0,607,8,1.32,3302.86,43.53,3.3,18378,26.96,179.55,-5.44,1131.8,-97.94
 2020-10-29,Missouri,Wright,81.62,15,1,5.44,606,8,1.32,3297.42,43.53,3.3,18378,26.96,184.99,43.53,1229.74,-32.65
 2020-10-28,Missouri,Wright,10.88,2,2,10.88,591,7,1.18,3215.8,38.09,3.22,18378,26.96,141.46,-16.33,1262.39,10.88

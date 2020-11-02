@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Tennessee,Bradley,0.94,1,0,0.0,3754,24,0.64,3517.39,22.49,3.52,106727,324.63,156.47,-26.23,650.25,-34.66
+2020-10-31,Tennessee,Bradley,22.49,24,1,0.94,3753,24,0.64,3516.45,22.49,3.52,106727,324.63,182.7,-14.05,684.91,10.31
 2020-10-30,Tennessee,Bradley,24.36,26,0,0.0,3729,23,0.62,3493.96,21.55,3.49,106727,324.63,196.75,-13.12,674.6,14.05
 2020-10-29,Tennessee,Bradley,33.73,36,0,0.0,3703,23,0.62,3469.6,21.55,3.47,106727,324.63,209.87,3.75,660.55,24.36
 2020-10-28,Tennessee,Bradley,24.36,26,0,0.0,3667,23,0.63,3435.87,21.55,3.44,106727,324.63,206.12,12.18,636.19,9.37

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Michigan,Antrim,0.0,0,0,0.0,143,0,0.0,612.03,0.0,0.61,23365,49.12,119.84,0.0,308.16,0.0
+2020-10-31,Michigan,Antrim,4.28,1,0,0.0,143,0,0.0,612.03,0.0,0.61,23365,49.12,119.84,-17.12,308.16,8.56
 2020-10-30,Michigan,Antrim,8.56,2,0,0.0,142,0,0.0,607.75,0.0,0.61,23365,49.12,136.96,-4.28,299.6,4.28
 2020-10-29,Michigan,Antrim,17.12,4,0,0.0,140,0,0.0,599.19,0.0,0.6,23365,49.12,141.24,12.84,295.32,21.4
 2020-10-28,Michigan,Antrim,12.84,3,0,0.0,136,0,0.0,582.07,0.0,0.58,23365,49.12,128.4,4.28,273.92,8.56

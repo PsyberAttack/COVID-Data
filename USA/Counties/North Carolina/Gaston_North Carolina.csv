@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,North Carolina,Gaston,29.17,65,0,0.0,7863,135,1.72,3528.45,60.58,3.53,222846,626.46,295.73,1.8,1049.6,24.68
+2020-10-31,North Carolina,Gaston,72.7,162,2,0.9,7798,135,1.73,3499.28,60.58,3.5,222846,626.46,293.93,12.57,1024.92,20.2
 2020-10-30,North Carolina,Gaston,70.45,157,12,5.38,7636,133,1.74,3426.58,59.68,3.43,222846,626.46,281.36,46.67,1004.72,50.26
 2020-10-29,North Carolina,Gaston,35.9,80,5,2.24,7479,121,1.62,3356.13,54.3,3.36,222846,626.46,234.69,2.24,954.46,1.35
 2020-10-28,North Carolina,Gaston,43.53,97,1,0.45,7399,116,1.57,3320.23,52.05,3.32,222846,626.46,232.45,0.9,953.11,20.64

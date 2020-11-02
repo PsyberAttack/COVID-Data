@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,North Carolina,Buncombe,18.53,48,1,0.39,4306,118,2.74,1661.89,45.54,1.66,259103,394.68,121.96,7.34,376.27,13.13
+2020-10-31,North Carolina,Buncombe,17.75,46,3,1.16,4258,117,2.75,1643.36,45.16,1.64,259103,394.68,114.62,3.47,363.14,-6.56
 2020-10-30,North Carolina,Buncombe,13.12,34,0,0.0,4212,114,2.71,1625.61,44.0,1.63,259103,394.68,111.15,-6.56,369.7,1.54
 2020-10-29,North Carolina,Buncombe,23.93,62,1,0.39,4178,114,2.73,1612.49,44.0,1.61,259103,394.68,117.71,1.55,368.16,6.56
 2020-10-28,North Carolina,Buncombe,10.81,28,1,0.39,4116,113,2.75,1588.56,43.61,1.59,259103,394.68,116.16,5.02,361.6,0.0

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Georgia,Stewart,0.0,0,0,0.0,613,16,2.61,9888.69,258.11,9.89,6199,13.51,612.99,0.0,1451.83,0.0
+2020-10-31,Georgia,Stewart,32.26,2,0,0.0,613,16,2.61,9888.69,258.11,9.89,6199,13.51,612.99,16.13,1451.83,32.26
 2020-10-30,Georgia,Stewart,16.13,1,0,0.0,611,16,2.62,9856.43,258.11,9.86,6199,13.51,596.86,16.13,1419.57,16.13
 2020-10-29,Georgia,Stewart,16.13,1,0,0.0,610,16,2.62,9840.3,258.11,9.84,6199,13.51,580.73,16.13,1403.44,16.13
 2020-10-28,Georgia,Stewart,-16.13,-1,0,0.0,609,16,2.63,9824.17,258.11,9.82,6199,13.51,564.6,-16.13,1387.31,-32.26

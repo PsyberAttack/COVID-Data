@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,New York,Schuyler,11.17,2,0,0.0,149,3,2.01,831.84,16.75,0.83,17912,54.55,184.24,5.59,547.11,0.0
+2020-10-31,New York,Schuyler,44.66,8,0,0.0,147,3,2.04,820.68,16.75,0.82,17912,54.55,178.65,22.33,547.11,44.66
 2020-10-30,New York,Schuyler,22.33,4,1,5.58,139,3,2.16,776.02,16.75,0.78,17912,54.55,156.32,11.16,502.45,11.16
 2020-10-29,New York,Schuyler,50.25,9,0,0.0,135,2,1.48,753.68,11.17,0.75,17912,54.55,145.16,22.34,491.29,27.92
 2020-10-28,New York,Schuyler,11.17,2,0,0.0,126,2,1.59,703.44,11.17,0.7,17912,54.55,122.82,-11.16,463.37,11.17

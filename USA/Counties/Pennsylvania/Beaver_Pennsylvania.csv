@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Pennsylvania,Beaver,10.93,18,0,0.0,2343,140,5.98,1422.22,84.98,1.42,164742,378.97,61.92,7.89,225.81,0.0
+2020-10-31,Pennsylvania,Beaver,13.96,23,0,0.0,2325,140,6.02,1411.3,84.98,1.41,164742,378.97,54.03,0.61,225.81,13.96
 2020-10-30,Pennsylvania,Beaver,11.53,19,0,0.0,2302,140,6.08,1397.34,84.98,1.4,164742,378.97,53.42,7.28,211.85,3.64
 2020-10-29,Pennsylvania,Beaver,7.89,13,0,0.0,2283,140,6.13,1385.8,84.98,1.39,164742,378.97,46.14,-18.21,208.21,-1.82
 2020-10-28,Pennsylvania,Beaver,9.11,15,0,0.0,2270,140,6.17,1377.91,84.98,1.38,164742,378.97,64.35,7.9,210.03,-2.42

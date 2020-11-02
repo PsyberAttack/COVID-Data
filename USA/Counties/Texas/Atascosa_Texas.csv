@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Texas,Atascosa,0.0,0,0,0.0,1287,37,2.87,2558.14,73.54,2.56,50310,41.25,33.78,0.0,240.5,0.0
+2020-10-31,Texas,Atascosa,-9.94,-5,2,3.98,1287,37,2.87,2558.14,73.54,2.56,50310,41.25,33.78,-13.92,240.5,-9.94
 2020-10-30,Texas,Atascosa,0.0,0,0,0.0,1292,35,2.71,2568.08,69.57,2.57,50310,41.25,47.7,-5.96,250.44,-1.99
 2020-10-29,Texas,Atascosa,13.91,7,0,0.0,1292,35,2.71,2568.08,69.57,2.57,50310,41.25,53.66,13.91,252.43,-21.87
 2020-10-28,Texas,Atascosa,5.96,3,0,0.0,1285,35,2.72,2554.16,69.57,2.55,50310,41.25,39.75,-9.94,274.3,3.97

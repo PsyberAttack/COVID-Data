@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Michigan,Lapeer,0.0,0,0,0.0,1300,45,3.46,1476.8,51.12,1.48,88028,136.56,134.05,0.0,391.91,0.0
+2020-10-31,Michigan,Lapeer,13.63,12,0,0.0,1300,45,3.46,1476.8,51.12,1.48,88028,136.56,134.05,-7.95,391.91,12.49
 2020-10-30,Michigan,Lapeer,26.13,23,0,0.0,1288,45,3.49,1463.17,51.12,1.46,88028,136.56,142.0,15.91,379.42,22.72
 2020-10-29,Michigan,Lapeer,18.18,16,0,0.0,1265,45,3.56,1437.04,51.12,1.44,88028,136.56,126.09,7.96,356.7,9.09
 2020-10-28,Michigan,Lapeer,30.67,27,0,0.0,1249,45,3.6,1418.87,51.12,1.42,88028,136.56,118.13,12.49,347.61,20.45

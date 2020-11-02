@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,North Carolina,Moore,10.13,10,0,0.0,2314,46,1.99,2344.91,46.61,2.34,98682,141.44,94.23,4.05,516.8,3.04
+2020-10-31,North Carolina,Moore,13.17,13,2,2.03,2304,46,2.0,2334.77,46.61,2.33,98682,141.44,90.18,-7.1,513.76,-7.1
 2020-10-30,North Carolina,Moore,10.13,10,1,1.01,2291,44,1.92,2321.6,44.59,2.32,98682,141.44,97.28,-1.02,520.86,-14.19
 2020-10-29,North Carolina,Moore,15.2,15,0,0.0,2281,43,1.89,2311.47,43.57,2.31,98682,141.44,98.3,-9.12,535.05,-16.21
 2020-10-28,North Carolina,Moore,15.2,15,3,3.04,2266,43,1.9,2296.26,43.57,2.3,98682,141.44,107.42,-7.09,551.26,-4.05

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Illinois,Morgan,64.75,22,0,0.0,1064,27,2.54,3131.62,79.47,3.13,33976,59.73,494.46,47.09,1065.45,64.75
+2020-10-31,Illinois,Morgan,0.0,0,0,0.0,1042,27,2.59,3066.87,79.47,3.07,33976,59.73,447.37,-64.75,1000.7,0.0
 2020-10-30,Illinois,Morgan,103.01,35,1,2.94,1042,27,2.59,3066.87,79.47,3.07,33976,59.73,512.12,94.18,1000.7,88.29
 2020-10-29,Illinois,Morgan,52.98,18,0,0.0,1007,26,2.58,2963.86,76.52,2.96,33976,59.73,417.94,20.6,912.41,52.98
 2020-10-28,Illinois,Morgan,79.47,27,0,0.0,989,26,2.63,2910.88,76.52,2.91,33976,59.73,397.34,38.26,859.43,50.04

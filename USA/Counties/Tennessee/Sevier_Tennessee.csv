@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Tennessee,Sevier,1.02,1,0,0.0,3548,23,0.65,3624.4,23.5,3.62,97892,165.22,201.25,-22.48,818.26,-7.15
+2020-10-31,Tennessee,Sevier,13.28,13,0,0.0,3547,23,0.65,3623.38,23.5,3.62,97892,165.22,223.73,-16.34,825.41,-11.24
 2020-10-30,Tennessee,Sevier,37.8,37,1,1.02,3534,23,0.65,3610.1,23.5,3.61,97892,165.22,240.07,-21.45,836.65,20.43
 2020-10-29,Tennessee,Sevier,36.78,36,0,0.0,3497,22,0.63,3572.3,22.47,3.57,97892,165.22,261.52,19.41,816.22,15.33
 2020-10-28,Tennessee,Sevier,54.14,53,-1,-1.02,3461,22,0.64,3535.53,22.47,3.54,97892,165.22,242.11,2.04,800.89,40.86

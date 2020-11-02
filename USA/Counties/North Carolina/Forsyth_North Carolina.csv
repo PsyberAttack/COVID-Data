@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,North Carolina,Forsyth,26.38,100,0,0.0,9221,121,1.31,2432.35,31.92,2.43,379099,929.66,157.75,5.01,504.64,22.42
+2020-10-31,North Carolina,Forsyth,21.63,82,0,0.0,9121,121,1.33,2405.97,31.92,2.41,379099,929.66,152.74,-18.99,482.22,6.86
 2020-10-30,North Carolina,Forsyth,26.91,102,1,0.26,9039,121,1.34,2384.34,31.92,2.38,379099,929.66,171.73,8.71,475.36,12.4
 2020-10-29,North Carolina,Forsyth,27.17,103,1,0.26,8937,120,1.34,2357.43,31.65,2.36,379099,929.66,163.02,12.66,462.96,4.75
 2020-10-28,North Carolina,Forsyth,20.58,78,0,0.0,8834,119,1.35,2330.26,31.39,2.33,379099,929.66,150.36,3.96,458.21,12.67

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Nebraska,Cheyenne,10.74,1,0,0.0,130,0,0.0,1396.35,0.0,1.4,9310,7.78,461.86,-21.48,912.97,0.0
+2020-10-31,Nebraska,Cheyenne,139.63,13,0,0.0,129,0,0.0,1385.61,0.0,1.39,9310,7.78,483.34,128.89,912.97,139.63
 2020-10-30,Nebraska,Cheyenne,21.48,2,0,0.0,116,0,0.0,1245.97,0.0,1.25,9310,7.78,354.45,10.74,773.34,10.74
 2020-10-29,Nebraska,Cheyenne,128.89,12,0,0.0,114,0,0.0,1224.49,0.0,1.22,9310,7.78,343.71,85.93,762.6,128.89
 2020-10-28,Nebraska,Cheyenne,53.71,5,-1,-10.74,102,0,0.0,1095.6,0.0,1.1,9310,7.78,257.78,42.97,633.71,10.75

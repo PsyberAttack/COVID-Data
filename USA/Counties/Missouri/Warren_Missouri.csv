@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Missouri,Warren,25.93,9,0,0.0,841,3,0.36,2422.86,8.64,2.42,34711,80.99,354.35,25.93,858.51,25.93
+2020-10-31,Missouri,Warren,28.81,10,0,0.0,832,3,0.36,2396.93,8.64,2.4,34711,80.99,328.42,28.81,832.58,11.52
 2020-10-30,Missouri,Warren,74.9,26,0,0.0,822,3,0.36,2368.13,8.64,2.37,34711,80.99,299.61,14.4,821.06,60.5
 2020-10-29,Missouri,Warren,46.09,16,0,0.0,796,3,0.38,2293.22,8.64,2.29,34711,80.99,285.21,23.04,760.56,37.45
 2020-10-28,Missouri,Warren,43.21,15,1,2.88,780,3,0.38,2247.13,8.64,2.25,34711,80.99,262.17,-8.65,723.11,31.69

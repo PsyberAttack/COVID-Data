@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Iowa,Van Buren,28.49,2,0,0.0,202,2,0.99,2877.49,28.49,2.88,7020,14.48,398.87,0.0,1068.43,14.24
+2020-10-31,Iowa,Van Buren,85.47,6,0,0.0,200,2,1.0,2849.0,28.49,2.85,7020,14.48,398.87,42.73,1054.19,71.22
 2020-10-30,Iowa,Van Buren,85.47,6,0,0.0,194,2,1.03,2763.53,28.49,2.76,7020,14.48,356.14,56.98,982.97,42.73
 2020-10-29,Iowa,Van Buren,42.74,3,0,0.0,188,2,1.06,2678.06,28.49,2.68,7020,14.48,299.16,0.0,940.24,42.74
 2020-10-28,Iowa,Van Buren,56.98,4,0,0.0,185,2,1.08,2635.33,28.49,2.64,7020,14.48,299.16,28.49,897.5,0.0

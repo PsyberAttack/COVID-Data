@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Georgia,Taylor,0.0,0,0,0.0,290,12,4.14,3607.41,149.27,3.61,8039,21.34,99.52,-12.44,908.09,0.0
+2020-10-31,Georgia,Taylor,24.88,2,0,0.0,290,12,4.14,3607.41,149.27,3.61,8039,21.34,111.96,0.0,908.09,12.44
 2020-10-30,Georgia,Taylor,0.0,0,0,0.0,288,12,4.17,3582.54,149.27,3.58,8039,21.34,111.96,0.0,895.65,-24.88
 2020-10-29,Georgia,Taylor,37.32,3,0,0.0,288,12,4.17,3582.54,149.27,3.58,8039,21.34,111.96,24.88,920.53,24.88
 2020-10-28,Georgia,Taylor,24.88,2,0,0.0,285,12,4.21,3545.22,149.27,3.55,8039,21.34,87.08,24.88,895.65,24.88

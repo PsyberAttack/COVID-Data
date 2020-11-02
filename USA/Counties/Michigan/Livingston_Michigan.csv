@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Michigan,Livingston,0.0,0,0,0.0,2345,36,1.54,1226.31,18.83,1.23,191224,338.3,197.14,0.0,449.18,0.0
+2020-10-31,Michigan,Livingston,10.98,21,0,0.0,2345,36,1.54,1226.31,18.83,1.23,191224,338.3,197.14,2.09,449.18,10.46
 2020-10-30,Michigan,Livingston,48.63,93,0,0.0,2324,36,1.55,1215.33,18.83,1.22,191224,338.3,195.05,40.79,438.72,48.63
 2020-10-29,Michigan,Livingston,27.19,52,1,0.52,2231,36,1.61,1166.69,18.83,1.17,191224,338.3,154.26,5.75,390.09,19.87
 2020-10-28,Michigan,Livingston,24.58,47,1,0.52,2179,35,1.61,1139.5,18.3,1.14,191224,338.3,148.51,10.46,370.22,17.26

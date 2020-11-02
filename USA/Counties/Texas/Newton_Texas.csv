@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Texas,Newton,0.0,0,0,0.0,189,14,7.41,1374.95,101.85,1.37,13746,14.72,7.27,0.0,50.92,0.0
+2020-10-31,Texas,Newton,7.27,1,0,0.0,189,14,7.41,1374.95,101.85,1.37,13746,14.72,7.27,7.27,50.92,7.27
 2020-10-30,Texas,Newton,0.0,0,0,0.0,188,14,7.45,1367.67,101.85,1.37,13746,14.72,0.0,0.0,43.65,0.0
 2020-10-29,Texas,Newton,0.0,0,1,7.27,188,14,7.45,1367.67,101.85,1.37,13746,14.72,0.0,0.0,43.65,-7.27
 2020-10-28,Texas,Newton,0.0,0,0,0.0,188,13,6.91,1367.67,94.57,1.37,13746,14.72,0.0,0.0,50.92,0.0

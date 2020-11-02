@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Kentucky,Clinton,9.8,1,0,0.0,271,4,1.48,2655.3,39.19,2.66,10206,51.74,284.14,0.0,1244.38,-9.8
+2020-10-31,Kentucky,Clinton,19.6,2,0,0.0,270,4,1.48,2645.5,39.19,2.65,10206,51.74,284.14,-9.79,1254.18,-19.59
 2020-10-30,Kentucky,Clinton,39.19,4,0,0.0,268,4,1.49,2625.91,39.19,2.63,10206,51.74,293.93,-48.99,1273.77,-29.4
 2020-10-29,Kentucky,Clinton,29.39,3,0,0.0,264,4,1.52,2586.71,39.19,2.59,10206,51.74,342.92,-9.8,1303.17,0.0
 2020-10-28,Kentucky,Clinton,39.19,4,0,0.0,261,4,1.53,2557.32,39.19,2.56,10206,51.74,352.72,0.0,1303.17,0.0

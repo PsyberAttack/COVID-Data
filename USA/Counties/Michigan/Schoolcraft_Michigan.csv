@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Michigan,Schoolcraft,0.0,0,0,0.0,102,1,0.98,1264.25,12.39,1.26,8068,6.88,446.19,0.0,830.4,0.0
+2020-10-31,Michigan,Schoolcraft,111.55,9,0,0.0,102,1,0.98,1264.25,12.39,1.26,8068,6.88,446.19,61.97,830.4,99.16
 2020-10-30,Michigan,Schoolcraft,61.97,5,0,0.0,93,1,1.08,1152.7,12.39,1.15,8068,6.88,384.22,37.18,731.24,24.79
 2020-10-29,Michigan,Schoolcraft,86.76,7,0,0.0,88,1,1.14,1090.73,12.39,1.09,8068,6.88,347.04,37.18,706.45,61.97
 2020-10-28,Michigan,Schoolcraft,86.76,7,0,0.0,81,1,1.23,1003.97,12.39,1.0,8068,6.88,309.86,61.97,644.48,86.76

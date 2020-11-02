@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Colorado,Las Animas,0.0,0,0,0.0,85,1,1.18,586.09,6.9,0.59,14503,3.04,110.34,0.0,413.75,0.0
+2020-10-31,Colorado,Las Animas,20.69,3,0,0.0,85,1,1.18,586.09,6.9,0.59,14503,3.04,110.34,0.0,413.75,20.69
 2020-10-30,Colorado,Las Animas,20.69,3,0,0.0,82,1,1.22,565.4,6.9,0.57,14503,3.04,110.34,13.79,393.06,20.69
 2020-10-29,Colorado,Las Animas,34.48,5,0,0.0,79,1,1.27,544.71,6.9,0.54,14503,3.04,96.55,34.48,372.37,34.48
 2020-10-28,Colorado,Las Animas,27.58,4,0,0.0,74,1,1.35,510.24,6.9,0.51,14503,3.04,62.07,-27.58,337.89,27.58

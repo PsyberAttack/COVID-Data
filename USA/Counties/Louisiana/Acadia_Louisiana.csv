@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Louisiana,Acadia,20.9,13,1,1.61,3182,102,3.21,5116.58,164.01,5.12,62190,94.92,98.08,0.0,305.52,4.82
+2020-10-31,Louisiana,Acadia,0.0,0,0,0.0,3169,101,3.19,5095.67,162.41,5.1,62190,94.92,98.08,0.0,300.7,0.0
 2020-10-30,Louisiana,Acadia,17.69,11,0,0.0,3169,101,3.19,5095.67,162.41,5.1,62190,94.92,98.08,24.12,300.7,-8.04
 2020-10-29,Louisiana,Acadia,17.69,11,0,0.0,3158,101,3.2,5077.99,162.41,5.08,62190,94.92,73.96,-16.08,308.74,22.51
 2020-10-28,Louisiana,Acadia,12.86,8,0,0.0,3147,101,3.21,5060.3,162.41,5.06,62190,94.92,90.04,-1.61,286.23,3.21

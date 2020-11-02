@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Tennessee,Jackson,8.5,1,0,0.0,484,8,1.65,4116.35,68.04,4.12,11758,38.1,272.14,8.5,1063.08,-51.03
+2020-10-31,Tennessee,Jackson,51.03,6,0,0.0,483,8,1.66,4107.84,68.04,4.11,11758,38.1,263.64,0.0,1114.11,8.51
 2020-10-30,Tennessee,Jackson,51.03,6,2,17.01,477,8,1.68,4056.81,68.04,4.06,11758,38.1,263.64,-51.03,1105.6,17.01
 2020-10-29,Tennessee,Jackson,25.51,3,0,0.0,471,6,1.27,4005.78,51.03,4.01,11758,38.1,314.67,-76.55,1088.59,-42.53
 2020-10-28,Tennessee,Jackson,76.54,9,0,0.0,468,6,1.28,3980.27,51.03,3.98,11758,38.1,391.22,76.54,1131.12,51.03

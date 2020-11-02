@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Tennessee,Grundy,0.0,0,0,0.0,605,13,2.15,4533.19,97.41,4.53,13346,37.03,262.25,-127.38,1678.37,-164.84
+2020-10-31,Tennessee,Grundy,37.46,5,0,0.0,605,13,2.15,4533.19,97.41,4.53,13346,37.03,389.63,-22.48,1843.21,-14.99
 2020-10-30,Tennessee,Grundy,97.41,13,1,7.49,600,13,2.17,4495.73,97.41,4.5,13346,37.03,412.11,22.48,1858.2,29.97
 2020-10-29,Tennessee,Grundy,14.99,2,1,7.49,587,12,2.04,4398.32,89.91,4.4,13346,37.03,389.63,-59.94,1828.23,-112.39
 2020-10-28,Tennessee,Grundy,52.45,7,0,0.0,585,11,1.88,4383.34,82.42,4.38,13346,37.03,449.57,44.96,1940.62,-14.99

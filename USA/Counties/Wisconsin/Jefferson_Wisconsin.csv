@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Wisconsin,Jefferson,76.35,65,0,0.0,3144,19,0.6,3693.22,22.32,3.69,85129,152.98,593.22,65.78,1663.36,31.71
+2020-10-31,Wisconsin,Jefferson,93.98,80,4,4.7,3079,19,0.62,3616.86,22.32,3.62,85129,152.98,527.44,-21.14,1631.65,54.04
 2020-10-30,Wisconsin,Jefferson,82.23,70,0,0.0,2999,15,0.5,3522.89,17.62,3.52,85129,152.98,548.58,2.35,1577.61,41.12
 2020-10-29,Wisconsin,Jefferson,84.58,72,1,1.17,2929,15,0.51,3440.66,17.62,3.44,85129,152.98,546.23,54.04,1536.49,50.51
 2020-10-28,Wisconsin,Jefferson,84.58,72,3,3.52,2857,14,0.49,3356.08,16.45,3.36,85129,152.98,492.19,25.85,1485.98,46.99

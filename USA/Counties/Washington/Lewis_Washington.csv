@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Washington,Lewis,16.33,13,0,0.0,757,12,1.59,950.96,15.07,0.95,79604,33.13,67.83,10.05,211.05,5.02
+2020-10-31,Washington,Lewis,5.02,4,0,0.0,744,12,1.61,934.63,15.07,0.93,79604,33.13,57.78,-7.54,206.03,-11.31
 2020-10-30,Washington,Lewis,11.31,9,0,0.0,740,12,1.62,929.6,15.07,0.93,79604,33.13,65.32,7.54,217.34,-1.25
 2020-10-29,Washington,Lewis,16.33,13,0,0.0,731,12,1.64,918.3,15.07,0.92,79604,33.13,57.78,6.28,218.59,3.77
 2020-10-28,Washington,Lewis,5.02,4,0,0.0,718,12,1.67,901.96,15.07,0.9,79604,33.13,51.5,-3.77,214.82,-7.54

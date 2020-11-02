@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Virginia,Hopewell city,0.0,0,0,0.0,529,8,1.51,2341.12,35.4,2.34,22596,2182.18,128.34,0.0,491.25,-8.85
+2020-10-31,Virginia,Hopewell city,4.43,1,1,4.43,529,8,1.51,2341.12,35.4,2.34,22596,2182.18,128.34,-8.85,500.1,-26.55
 2020-10-30,Virginia,Hopewell city,35.4,8,0,0.0,528,7,1.33,2336.7,30.98,2.34,22596,2182.18,137.19,17.7,526.65,4.42
 2020-10-29,Virginia,Hopewell city,22.13,5,0,0.0,520,7,1.35,2301.29,30.98,2.3,22596,2182.18,119.49,0.0,522.23,22.13
 2020-10-28,Virginia,Hopewell city,4.43,1,0,0.0,515,7,1.36,2279.16,30.98,2.28,22596,2182.18,119.49,0.0,500.1,0.0

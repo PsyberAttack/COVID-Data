@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Illinois,Sangamon,96.24,188,0,0.0,4638,66,1.42,2374.22,33.79,2.37,195348,224.98,332.73,49.14,1026.36,82.42
+2020-10-31,Illinois,Sangamon,0.0,0,0,0.0,4450,66,1.48,2277.99,33.79,2.28,195348,224.98,283.59,-75.25,943.94,-15.36
 2020-10-30,Illinois,Sangamon,65.52,128,1,0.51,4450,66,1.48,2277.99,33.79,2.28,195348,224.98,358.84,51.7,959.3,37.37
 2020-10-29,Illinois,Sangamon,37.88,74,0,0.0,4322,65,1.5,2212.46,33.27,2.21,195348,224.98,307.14,-11.26,921.93,18.43
 2020-10-28,Illinois,Sangamon,49.65,97,1,0.51,4248,65,1.53,2174.58,33.27,2.17,195348,224.98,318.4,13.82,903.5,35.32

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Georgia,Jackson,22.72,16,0,0.0,2587,42,1.62,3673.57,59.64,3.67,70422,207.33,215.84,2.84,739.82,15.62
+2020-10-31,Georgia,Jackson,44.02,31,0,0.0,2571,42,1.63,3650.85,59.64,3.65,70422,207.33,213.0,24.14,724.2,26.98
 2020-10-30,Georgia,Jackson,25.56,18,0,0.0,2540,42,1.65,3606.83,59.64,3.61,70422,207.33,188.86,2.84,697.22,5.68
 2020-10-29,Georgia,Jackson,22.72,16,1,1.42,2522,42,1.67,3581.27,59.64,3.58,70422,207.33,186.02,4.26,691.54,7.1
 2020-10-28,Georgia,Jackson,24.14,17,1,1.42,2506,41,1.64,3558.55,58.22,3.56,70422,207.33,181.76,7.1,684.44,-4.26

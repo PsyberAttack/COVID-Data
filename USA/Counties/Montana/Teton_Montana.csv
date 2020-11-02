@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Montana,Teton,16.23,1,0,0.0,92,1,1.09,1493.02,16.23,1.49,6162,2.71,97.38,-16.23,843.91,-32.46
+2020-10-31,Montana,Teton,0.0,0,1,16.23,91,1,1.1,1476.79,16.23,1.48,6162,2.71,113.61,-48.69,876.37,-129.83
 2020-10-30,Montana,Teton,16.23,1,0,0.0,91,0,0.0,1476.79,0.0,1.48,6162,2.71,162.3,-81.14,1006.2,16.23
 2020-10-29,Montana,Teton,16.23,1,0,0.0,90,0,0.0,1460.56,0.0,1.46,6162,2.71,243.44,16.23,989.97,-32.46
 2020-10-28,Montana,Teton,16.23,1,0,0.0,89,0,0.0,1444.34,0.0,1.44,6162,2.71,227.21,-16.23,1022.43,0.0

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Michigan,Menominee,0.0,0,0,0.0,776,6,0.77,3376.41,26.11,3.38,22983,22.01,422.04,0.0,1392.33,0.0
+2020-10-31,Michigan,Menominee,82.67,19,0,0.0,776,6,0.77,3376.41,26.11,3.38,22983,22.01,422.04,13.05,1392.33,52.21
 2020-10-30,Michigan,Menominee,60.91,14,0,0.0,757,6,0.79,3293.74,26.11,3.29,22983,22.01,408.99,26.1,1340.12,30.45
 2020-10-29,Michigan,Menominee,60.91,14,1,4.35,743,6,0.81,3232.82,26.11,3.23,22983,22.01,382.89,-30.46,1309.67,-39.16
 2020-10-28,Michigan,Menominee,60.91,14,0,0.0,729,5,0.69,3171.91,21.76,3.17,22983,22.01,413.35,30.45,1348.83,13.05

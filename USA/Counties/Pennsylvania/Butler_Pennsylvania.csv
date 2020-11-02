@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Pennsylvania,Butler,27.68,52,0,0.0,1892,28,1.48,1006.98,14.9,1.01,187888,238.26,154.35,15.44,406.62,13.31
+2020-10-31,Pennsylvania,Butler,24.48,46,0,0.0,1840,28,1.52,979.31,14.9,0.98,187888,238.26,138.91,11.71,393.31,24.48
 2020-10-30,Pennsylvania,Butler,25.55,48,0,0.0,1794,28,1.56,954.82,14.9,0.95,187888,238.26,127.2,-1.59,368.83,15.44
 2020-10-29,Pennsylvania,Butler,23.95,45,0,0.0,1746,28,1.6,929.28,14.9,0.93,187888,238.26,128.79,2.13,353.39,19.69
 2020-10-28,Pennsylvania,Butler,21.29,40,0,0.0,1701,28,1.65,905.33,14.9,0.91,187888,238.26,126.66,7.98,333.7,13.31

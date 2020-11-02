@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Wisconsin,Pierce,58.75,25,0,0.0,1052,8,0.76,2472.09,18.8,2.47,42555,74.16,364.25,35.25,775.5,51.7
+2020-10-31,Wisconsin,Pierce,63.45,27,1,2.35,1027,8,0.78,2413.35,18.8,2.41,42555,74.16,329.0,42.3,723.8,28.2
 2020-10-30,Wisconsin,Pierce,72.85,31,0,0.0,1000,7,0.7,2349.9,16.45,2.35,42555,74.16,286.7,39.95,695.6,68.15
 2020-10-29,Wisconsin,Pierce,86.95,37,0,0.0,969,7,0.72,2277.05,16.45,2.28,42555,74.16,246.75,35.25,627.45,72.85
 2020-10-28,Wisconsin,Pierce,23.5,10,0,0.0,932,7,0.75,2190.11,16.45,2.19,42555,74.16,211.5,84.6,554.6,16.45

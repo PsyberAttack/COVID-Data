@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Vermont,Addison,0.0,0,0,0.0,124,2,1.61,335.38,5.41,0.34,36973,48.25,10.81,0.0,105.45,0.0
+2020-10-31,Vermont,Addison,2.7,1,0,0.0,124,2,1.61,335.38,5.41,0.34,36973,48.25,10.81,-5.41,105.45,0.0
 2020-10-30,Vermont,Addison,2.7,1,0,0.0,123,2,1.63,332.68,5.41,0.33,36973,48.25,16.22,2.7,105.45,2.7
 2020-10-29,Vermont,Addison,5.41,2,0,0.0,122,2,1.64,329.97,5.41,0.33,36973,48.25,13.52,2.71,102.75,5.41
 2020-10-28,Vermont,Addison,0.0,0,0,0.0,120,2,1.67,324.56,5.41,0.32,36973,48.25,10.81,0.0,97.34,0.0

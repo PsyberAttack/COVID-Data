@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,New York,Allegany,15.08,7,3,6.46,348,17,4.89,749.52,36.61,0.75,46430,45.11,165.84,10.77,482.46,15.08
+2020-10-31,New York,Allegany,10.77,5,2,4.31,341,14,4.11,734.44,30.15,0.73,46430,45.11,155.07,0.0,467.38,6.46
 2020-10-30,New York,Allegany,47.38,22,0,0.0,336,12,3.57,723.67,25.85,0.72,46430,45.11,155.07,2.15,460.92,40.92
 2020-10-29,New York,Allegany,12.92,6,0,0.0,314,12,3.82,676.29,25.85,0.68,46430,45.11,152.92,-28.0,420.0,2.15
 2020-10-28,New York,Allegany,40.92,19,1,2.15,308,12,3.9,663.36,25.85,0.66,46430,45.11,180.92,32.3,417.85,28.0

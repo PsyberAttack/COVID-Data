@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,South Dakota,Miner,135.56,3,1,45.19,148,2,1.35,6687.75,90.38,6.69,2213,3.88,497.07,90.37,5332.16,45.18
+2020-10-31,South Dakota,Miner,90.38,2,0,0.0,145,1,0.69,6552.19,45.19,6.55,2213,3.88,406.7,-135.56,5286.98,90.38
 2020-10-30,South Dakota,Miner,45.19,1,0,0.0,143,1,0.7,6461.82,45.19,6.46,2213,3.88,542.26,-406.69,5196.6,0.0
 2020-10-29,South Dakota,Miner,0.0,0,0,0.0,142,1,0.7,6416.63,45.19,6.42,2213,3.88,948.95,0.0,5196.6,-90.38
 2020-10-28,South Dakota,Miner,225.94,5,0,0.0,142,1,0.7,6416.63,45.19,6.42,2213,3.88,948.95,45.19,5286.98,180.75

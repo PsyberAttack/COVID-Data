@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Mississippi,Union,3.5,1,0,0.0,1278,25,1.96,4467.59,87.39,4.47,28606,68.83,314.62,3.5,811.04,-6.99
+2020-10-31,Mississippi,Union,45.45,13,0,0.0,1277,25,1.96,4464.1,87.39,4.46,28606,68.83,311.12,-3.49,818.03,-3.49
 2020-10-30,Mississippi,Union,13.98,4,0,0.0,1264,25,1.98,4418.65,87.39,4.42,28606,68.83,314.61,-17.48,821.52,-41.95
 2020-10-29,Mississippi,Union,6.99,2,0,0.0,1260,25,1.98,4404.67,87.39,4.4,28606,68.83,332.09,-10.49,863.47,3.49
 2020-10-28,Mississippi,Union,213.24,61,0,0.0,1258,25,1.99,4397.68,87.39,4.4,28606,68.83,342.58,185.27,859.98,178.28

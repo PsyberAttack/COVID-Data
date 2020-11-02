@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Kentucky,Wolfe,55.73,4,0,0.0,74,0,0.0,1031.07,0.0,1.03,7177,32.3,167.19,13.93,320.44,0.0
+2020-10-31,Kentucky,Wolfe,13.93,1,0,0.0,70,0,0.0,975.34,0.0,0.98,7177,32.3,153.26,13.93,320.44,-27.87
 2020-10-30,Kentucky,Wolfe,27.87,2,0,0.0,69,0,0.0,961.4,0.0,0.96,7177,32.3,139.33,13.94,348.31,0.0
 2020-10-29,Kentucky,Wolfe,27.87,2,0,0.0,67,0,0.0,933.54,0.0,0.93,7177,32.3,125.39,27.87,348.31,13.94
 2020-10-28,Kentucky,Wolfe,13.93,1,0,0.0,65,0,0.0,905.67,0.0,0.91,7177,32.3,97.52,27.86,334.37,13.93

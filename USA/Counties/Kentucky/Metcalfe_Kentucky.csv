@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Kentucky,Metcalfe,0.0,0,0,0.0,219,2,0.91,2183.45,19.94,2.18,10030,34.63,249.25,0.0,857.42,0.0
+2020-10-31,Kentucky,Metcalfe,-9.97,-1,0,0.0,219,2,0.91,2183.45,19.94,2.18,10030,34.63,249.25,-9.97,857.42,-9.97
 2020-10-30,Kentucky,Metcalfe,0.0,0,0,0.0,220,2,0.91,2193.42,19.94,2.19,10030,34.63,259.22,-39.88,867.39,-39.88
 2020-10-29,Kentucky,Metcalfe,69.79,7,0,0.0,220,2,0.91,2193.42,19.94,2.19,10030,34.63,299.1,-9.97,907.27,59.82
 2020-10-28,Kentucky,Metcalfe,69.79,7,0,0.0,213,2,0.94,2123.63,19.94,2.12,10030,34.63,309.07,69.79,847.45,59.82

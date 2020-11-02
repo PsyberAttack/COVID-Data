@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Oregon,Morrow,17.59,2,0,0.0,559,7,1.25,4915.58,61.55,4.92,11372,5.6,123.11,0.0,334.14,0.0
+2020-10-31,Oregon,Morrow,26.38,3,0,0.0,557,7,1.26,4898.0,61.55,4.9,11372,5.6,123.11,26.38,334.14,0.0
 2020-10-30,Oregon,Morrow,26.38,3,0,0.0,554,7,1.26,4871.61,61.55,4.87,11372,5.6,96.73,17.59,334.14,17.59
 2020-10-29,Oregon,Morrow,43.97,5,0,0.0,551,7,1.27,4845.23,61.55,4.85,11372,5.6,79.14,43.97,316.55,26.38
 2020-10-28,Oregon,Morrow,8.79,1,0,0.0,546,7,1.28,4801.27,61.55,4.8,11372,5.6,35.17,8.79,290.17,-26.38

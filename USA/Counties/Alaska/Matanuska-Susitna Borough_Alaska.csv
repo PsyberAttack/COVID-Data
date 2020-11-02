@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Alaska,Matanuska-Susitna Borough,62.26,67,0,0.0,1509,3,0.2,1402.29,2.79,1.4,107610,4.35,403.3,-7.44,777.8,53.9
+2020-10-31,Alaska,Matanuska-Susitna Borough,19.51,21,0,0.0,1442,3,0.21,1340.02,2.79,1.34,107610,4.35,410.74,-12.09,723.9,5.57
 2020-10-30,Alaska,Matanuska-Susitna Borough,59.47,64,1,0.93,1421,3,0.21,1320.51,2.79,1.32,107610,4.35,422.83,31.59,718.33,54.82
 2020-10-29,Alaska,Matanuska-Susitna Borough,63.19,68,0,0.0,1357,2,0.15,1261.04,1.86,1.26,107610,4.35,391.24,39.03,663.51,53.9
 2020-10-28,Alaska,Matanuska-Susitna Borough,69.7,75,0,0.0,1289,2,0.16,1197.84,1.86,1.2,107610,4.35,352.21,54.83,609.61,67.84

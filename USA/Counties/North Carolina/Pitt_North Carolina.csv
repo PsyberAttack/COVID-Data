@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,North Carolina,Pitt,17.23,31,0,0.0,6331,41,0.65,3518.9,22.79,3.52,179914,275.79,133.94,2.22,686.45,4.45
+2020-10-31,North Carolina,Pitt,30.01,54,2,1.11,6300,41,0.65,3501.67,22.79,3.5,179914,275.79,131.72,-1.12,682.0,13.89
 2020-10-30,North Carolina,Pitt,27.79,50,0,0.0,6246,39,0.62,3471.66,21.68,3.47,179914,275.79,132.84,0.55,668.11,13.89
 2020-10-29,North Carolina,Pitt,30.01,54,0,0.0,6196,39,0.63,3443.87,21.68,3.44,179914,275.79,132.29,-1.12,654.22,6.11
 2020-10-28,North Carolina,Pitt,16.12,29,1,0.56,6142,39,0.63,3413.85,21.68,3.41,179914,275.79,133.41,-7.78,648.11,-1.11

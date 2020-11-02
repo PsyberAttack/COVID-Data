@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Minnesota,Hennepin,28.27,356,2,0.16,36936,1002,2.71,2932.76,79.56,2.93,1259428,2273.96,230.51,3.34,658.34,11.99
+2020-10-31,Minnesota,Hennepin,36.05,454,3,0.24,36580,1000,2.73,2904.49,79.4,2.9,1259428,2273.96,227.17,3.57,646.35,13.66
 2020-10-30,Minnesota,Hennepin,50.98,642,2,0.16,36126,997,2.76,2868.45,79.16,2.87,1259428,2273.96,223.6,28.27,632.69,28.35
 2020-10-29,Minnesota,Hennepin,39.38,496,0,0.0,35484,995,2.8,2817.47,79.0,2.82,1259428,2273.96,195.33,17.07,604.34,27.87
 2020-10-28,Minnesota,Hennepin,26.28,331,1,0.08,34988,995,2.84,2778.09,79.0,2.78,1259428,2273.96,178.26,10.48,576.47,12.7

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Michigan,Cheboygan,0.0,0,0,0.0,187,2,1.07,735.84,7.87,0.74,25413,35.53,212.48,0.0,358.05,0.0
+2020-10-31,Michigan,Cheboygan,15.74,4,0,0.0,187,2,1.07,735.84,7.87,0.74,25413,35.53,212.48,3.94,358.05,11.81
 2020-10-30,Michigan,Cheboygan,43.28,11,0,0.0,183,2,1.09,720.1,7.87,0.72,25413,35.53,208.54,15.74,346.24,35.41
 2020-10-29,Michigan,Cheboygan,70.83,18,0,0.0,172,2,1.16,676.82,7.87,0.68,25413,35.53,192.8,55.09,310.83,70.83
 2020-10-28,Michigan,Cheboygan,15.74,4,0,0.0,154,2,1.3,605.99,7.87,0.61,25413,35.53,137.71,11.81,240.0,15.74

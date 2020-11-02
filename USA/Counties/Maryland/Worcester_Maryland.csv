@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Maryland,Worcester,17.37,9,0,0.0,1243,31,2.49,2398.55,59.82,2.4,51823,110.66,77.2,9.65,308.8,30.88
+2020-10-31,Maryland,Worcester,21.23,11,0,0.0,1234,31,2.51,2381.18,59.82,2.38,51823,110.66,67.55,7.72,277.92,-13.5
 2020-10-30,Maryland,Worcester,3.86,2,0,0.0,1223,31,2.53,2359.96,59.82,2.36,51823,110.66,59.83,-5.79,291.42,-19.3
 2020-10-29,Maryland,Worcester,15.44,8,0,0.0,1221,31,2.54,2356.1,59.82,2.36,51823,110.66,65.62,5.79,310.72,13.51
 2020-10-28,Maryland,Worcester,3.86,2,0,0.0,1213,31,2.56,2340.66,59.82,2.34,51823,110.66,59.83,-9.65,297.21,-5.79

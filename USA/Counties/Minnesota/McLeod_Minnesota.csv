@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Minnesota,McLeod,22.3,8,0,0.0,657,4,0.61,1831.46,11.15,1.83,35873,72.99,167.26,-2.79,409.81,16.72
+2020-10-31,Minnesota,McLeod,55.75,20,0,0.0,649,4,0.62,1809.16,11.15,1.81,35873,72.99,170.05,33.45,393.09,47.39
 2020-10-30,Minnesota,McLeod,22.3,8,0,0.0,629,4,0.64,1753.41,11.15,1.75,35873,72.99,136.6,11.15,345.7,16.72
 2020-10-29,Minnesota,McLeod,16.73,6,0,0.0,621,4,0.64,1731.11,11.15,1.73,35873,72.99,125.45,8.37,328.98,16.73
 2020-10-28,Minnesota,McLeod,13.94,5,0,0.0,615,4,0.65,1714.38,11.15,1.71,35873,72.99,117.08,2.79,312.25,11.15

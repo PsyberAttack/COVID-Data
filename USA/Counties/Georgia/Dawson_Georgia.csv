@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Georgia,Dawson,3.99,1,0,0.0,954,11,1.15,3803.37,43.85,3.8,25083,118.97,83.73,0.0,422.61,0.0
+2020-10-31,Georgia,Dawson,3.99,1,0,0.0,953,11,1.15,3799.39,43.85,3.8,25083,118.97,83.73,-11.96,422.61,-27.9
 2020-10-30,Georgia,Dawson,11.96,3,0,0.0,952,11,1.16,3795.4,43.85,3.8,25083,118.97,95.69,0.0,450.51,7.97
 2020-10-29,Georgia,Dawson,27.91,7,0,0.0,949,11,1.16,3783.44,43.85,3.78,25083,118.97,95.69,15.95,442.54,-3.98
 2020-10-28,Georgia,Dawson,15.95,4,0,0.0,942,11,1.17,3755.53,43.85,3.76,25083,118.97,79.74,0.0,446.52,-19.93

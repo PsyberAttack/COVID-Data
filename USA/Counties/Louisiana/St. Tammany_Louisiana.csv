@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Louisiana,St. Tammany,15.11,39,0,0.0,7803,271,3.47,3023.12,104.99,3.02,258111,305.01,48.03,0.0,253.75,3.49
+2020-10-31,Louisiana,St. Tammany,0.0,0,0,0.0,7764,271,3.49,3008.01,104.99,3.01,258111,305.01,48.03,0.0,250.26,0.0
 2020-10-30,Louisiana,St. Tammany,-0.39,-1,0,0.0,7764,271,3.49,3008.01,104.99,3.01,258111,305.01,48.03,-15.11,250.26,-38.75
 2020-10-29,Louisiana,St. Tammany,6.2,16,1,0.39,7765,271,3.49,3008.4,104.99,3.01,258111,305.01,63.14,-2.32,289.01,-3.87
 2020-10-28,Louisiana,St. Tammany,8.52,22,0,0.0,7749,270,3.48,3002.2,104.61,3.0,258111,305.01,65.46,0.38,292.88,1.55

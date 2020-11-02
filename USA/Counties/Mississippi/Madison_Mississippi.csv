@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Mississippi,Madison,4.73,5,0,0.0,3914,94,2.4,3705.39,88.99,3.71,105630,147.83,78.57,4.73,497.02,2.84
+2020-10-31,Mississippi,Madison,14.2,15,0,0.0,3909,94,2.4,3700.65,88.99,3.7,105630,147.83,73.84,-3.79,494.18,1.89
 2020-10-30,Mississippi,Madison,13.25,14,0,0.0,3894,94,2.41,3686.45,88.99,3.69,105630,147.83,77.63,-17.99,492.29,2.84
 2020-10-29,Mississippi,Madison,17.99,19,0,0.0,3880,94,2.42,3673.2,88.99,3.67,105630,147.83,95.62,-2.84,489.45,-2.84
 2020-10-28,Mississippi,Madison,17.04,18,0,0.0,3861,94,2.43,3655.21,88.99,3.66,105630,147.83,98.46,0.0,492.29,7.57

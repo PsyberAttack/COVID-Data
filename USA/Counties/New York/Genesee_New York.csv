@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,New York,Genesee,6.96,4,0,0.0,411,6,1.46,714.65,10.43,0.71,57511,116.67,53.92,5.22,116.54,3.48
+2020-10-31,New York,Genesee,1.74,1,0,0.0,407,6,1.47,707.69,10.43,0.71,57511,116.67,48.7,-1.74,113.06,-8.69
 2020-10-30,New York,Genesee,17.39,10,0,0.0,406,6,1.48,705.95,10.43,0.71,57511,116.67,50.44,10.43,121.75,15.65
 2020-10-29,New York,Genesee,13.91,8,0,0.0,396,6,1.52,688.56,10.43,0.69,57511,116.67,40.01,12.17,106.1,5.22
 2020-10-28,New York,Genesee,6.96,4,0,0.0,388,6,1.55,674.65,10.43,0.67,57511,116.67,27.84,5.22,100.88,1.74

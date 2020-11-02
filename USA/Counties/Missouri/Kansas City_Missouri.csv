@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Missouri,Kansas City,25.82,127,0,0.0,15372,213,1.39,3124.91,43.3,3.12,491918,0.0,232.37,3.05,810.13,25.82
+2020-10-31,Missouri,Kansas City,52.65,259,5,1.02,15245,213,1.4,3099.09,43.3,3.1,491918,0.0,229.32,26.63,784.31,52.65
 2020-10-30,Missouri,Kansas City,42.49,209,6,1.22,14986,208,1.39,3046.44,42.28,3.05,491918,0.0,202.69,25.21,731.66,42.49
 2020-10-29,Missouri,Kansas City,39.44,194,2,0.41,14777,202,1.37,3003.96,41.06,3.0,491918,0.0,177.48,32.32,689.17,39.44
 2020-10-28,Missouri,Kansas City,30.09,148,4,0.81,14583,200,1.37,2964.52,40.66,2.96,491918,0.0,145.16,2.44,649.73,30.09

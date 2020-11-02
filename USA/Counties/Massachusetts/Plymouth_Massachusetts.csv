@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Massachusetts,Plymouth,13.12,68,2,0.39,11631,839,7.21,2244.79,161.93,2.24,518132,786.31,98.04,2.31,327.14,6.94
+2020-10-31,Massachusetts,Plymouth,14.86,77,1,0.19,11563,837,7.24,2231.67,161.54,2.23,518132,786.31,95.73,-2.9,320.2,4.82
 2020-10-30,Massachusetts,Plymouth,12.16,63,1,0.19,11486,836,7.28,2216.81,161.35,2.22,518132,786.31,98.63,-3.28,315.38,3.47
 2020-10-29,Massachusetts,Plymouth,14.09,73,3,0.58,11423,835,7.31,2204.65,161.16,2.2,518132,786.31,101.91,0.39,311.91,8.3
 2020-10-28,Massachusetts,Plymouth,10.81,56,4,0.77,11350,832,7.33,2190.56,160.58,2.19,518132,786.31,101.52,3.48,303.61,0.97

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Kentucky,Hickman,22.62,1,0,0.0,125,1,0.8,2827.41,22.62,2.83,4421,18.25,316.67,22.62,972.65,0.0
+2020-10-31,Kentucky,Hickman,0.0,0,0,0.0,124,1,0.81,2804.8,22.62,2.8,4421,18.25,294.05,-45.24,972.65,-22.62
 2020-10-30,Kentucky,Hickman,0.0,0,0,0.0,124,1,0.81,2804.8,22.62,2.8,4421,18.25,339.29,0.0,995.27,-45.24
 2020-10-29,Kentucky,Hickman,45.24,2,0,0.0,124,1,0.81,2804.8,22.62,2.8,4421,18.25,339.29,-67.86,1040.51,45.24
 2020-10-28,Kentucky,Hickman,22.62,1,0,0.0,122,1,0.82,2759.56,22.62,2.76,4421,18.25,407.15,0.0,995.27,0.0

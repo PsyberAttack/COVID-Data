@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Pennsylvania,Susquehanna,9.85,4,0,0.0,420,28,6.67,1034.76,68.98,1.03,40589,49.29,54.19,-2.47,278.38,-7.4
+2020-10-31,Pennsylvania,Susquehanna,7.39,3,0,0.0,416,28,6.73,1024.91,68.98,1.02,40589,49.29,56.66,0.0,285.78,7.39
 2020-10-30,Pennsylvania,Susquehanna,12.32,5,0,0.0,413,28,6.78,1017.52,68.98,1.02,40589,49.29,56.66,-7.39,278.39,4.93
 2020-10-29,Pennsylvania,Susquehanna,4.93,2,0,0.0,408,28,6.86,1005.2,68.98,1.01,40589,49.29,64.05,2.47,273.46,4.93
 2020-10-28,Pennsylvania,Susquehanna,7.39,3,0,0.0,406,28,6.9,1000.27,68.98,1.0,40589,49.29,61.58,-2.46,268.53,0.0

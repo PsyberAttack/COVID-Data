@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Arkansas,Marion,23.92,4,0,0.0,180,2,1.11,1076.43,11.96,1.08,16722,28.01,185.38,11.96,436.54,23.92
+2020-10-31,Arkansas,Marion,41.86,7,0,0.0,176,2,1.14,1052.51,11.96,1.05,16722,28.01,173.42,17.94,412.62,35.88
 2020-10-30,Arkansas,Marion,47.84,8,0,0.0,169,2,1.18,1010.64,11.96,1.01,16722,28.01,155.48,35.88,376.74,41.86
 2020-10-29,Arkansas,Marion,35.88,6,0,0.0,161,2,1.24,962.8,11.96,0.96,16722,28.01,119.6,17.94,334.88,17.94
 2020-10-28,Arkansas,Marion,11.96,2,0,0.0,155,2,1.29,926.92,11.96,0.93,16722,28.01,101.66,5.98,316.94,-5.98

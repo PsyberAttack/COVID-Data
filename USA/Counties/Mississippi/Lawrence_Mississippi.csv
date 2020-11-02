@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Mississippi,Lawrence,8.03,1,0,0.0,571,14,2.45,4584.5,112.4,4.58,12455,28.92,425.53,8.03,1027.69,-8.03
+2020-10-31,Mississippi,Lawrence,64.23,8,0,0.0,570,14,2.46,4576.48,112.4,4.58,12455,28.92,417.5,16.06,1035.72,56.2
 2020-10-30,Mississippi,Lawrence,72.26,9,0,0.0,562,14,2.49,4512.24,112.4,4.51,12455,28.92,401.44,32.12,979.52,64.23
 2020-10-29,Mississippi,Lawrence,72.26,9,0,0.0,553,14,2.53,4439.98,112.4,4.44,12455,28.92,369.32,48.17,915.29,72.26
 2020-10-28,Mississippi,Lawrence,80.29,10,0,0.0,544,14,2.57,4367.72,112.4,4.37,12455,28.92,321.15,40.15,843.03,64.23

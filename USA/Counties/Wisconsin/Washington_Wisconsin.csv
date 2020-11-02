@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Wisconsin,Washington,61.17,83,0,0.0,5291,46,0.87,3899.24,33.9,3.9,135693,315.09,537.25,-6.63,1683.22,28.01
+2020-10-31,Wisconsin,Washington,72.22,98,1,0.74,5208,46,0.88,3838.08,33.9,3.84,135693,315.09,543.88,-17.69,1655.21,27.27
 2020-10-30,Wisconsin,Washington,104.65,142,1,0.74,5110,45,0.88,3765.85,33.16,3.77,135693,315.09,561.57,71.49,1627.94,54.54
 2020-10-29,Wisconsin,Washington,117.18,159,1,0.74,4968,44,0.89,3661.21,32.43,3.66,135693,315.09,490.08,84.75,1573.4,75.17
 2020-10-28,Wisconsin,Washington,107.6,146,0,0.0,4809,43,0.89,3544.03,31.69,3.54,135693,315.09,405.33,20.64,1498.23,78.12

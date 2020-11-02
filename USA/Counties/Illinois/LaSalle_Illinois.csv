@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Illinois,LaSalle,113.31,124,1,0.91,2776,69,2.49,2536.78,63.05,2.54,109430,96.4,336.28,85.9,863.55,101.43
+2020-10-31,Illinois,LaSalle,0.0,0,0,0.0,2652,68,2.56,2423.47,62.14,2.42,109430,96.4,250.38,-53.0,762.12,-21.93
 2020-10-30,Illinois,LaSalle,62.14,68,1,0.91,2652,68,2.56,2423.47,62.14,2.42,109430,96.4,303.38,26.5,784.05,38.38
 2020-10-29,Illinois,LaSalle,27.41,30,2,1.83,2584,67,2.59,2361.33,61.23,2.36,109430,96.4,276.88,-14.63,745.67,18.27
 2020-10-28,Illinois,LaSalle,74.02,81,0,0.0,2554,65,2.55,2333.91,59.4,2.33,109430,96.4,291.51,48.43,727.4,59.4
