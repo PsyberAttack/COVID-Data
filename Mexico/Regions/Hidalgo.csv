@@ -1,4 +1,5 @@
 date,country,region,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-01,Mexico,Hidalgo,3.11,89,5,0.17,15304,2291,14.97,535.41,80.15,0.54,2858359,23.61,0.35,93.81,1.36
 2020-10-31,Mexico,Hidalgo,3.22,92,16,0.56,15215,2286,15.02,532.3,79.98,0.53,2858359,23.26,1.44,92.45,1.89
 2020-10-30,Mexico,Hidalgo,3.32,95,10,0.35,15123,2270,15.01,529.08,79.42,0.53,2858359,21.82,0.49,90.56,0.63
 2020-10-29,Mexico,Hidalgo,3.67,105,5,0.17,15028,2260,15.04,525.76,79.07,0.53,2858359,21.33,-0.28,89.93,1.15
