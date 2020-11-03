@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-02,Florida,Union,26.77,4,0,0.0,1151,45,3.91,7704.15,301.2,7.7,14940,61.34,200.8,6.69,1010.69,-26.78
 2020-11-01,Florida,Union,53.55,8,0,0.0,1147,45,3.92,7677.38,301.2,7.68,14940,61.34,194.11,46.86,1037.47,33.47
 2020-10-31,Florida,Union,6.69,1,0,0.0,1139,45,3.95,7623.83,301.2,7.62,14940,61.34,147.25,-33.47,1004.0,-13.39
 2020-10-30,Florida,Union,33.47,5,1,6.69,1138,45,3.95,7617.14,301.2,7.62,14940,61.34,180.72,0.0,1017.39,-6.69

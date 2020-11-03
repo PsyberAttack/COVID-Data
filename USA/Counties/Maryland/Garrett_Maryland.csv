@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-02,Maryland,Garrett,13.72,4,0,0.0,154,1,0.65,528.07,3.43,0.53,29163,44.93,82.31,0.0,267.5,13.72
 2020-11-01,Maryland,Garrett,0.0,0,0,0.0,150,1,0.67,514.35,3.43,0.51,29163,44.93,82.31,-10.29,253.78,0.0
 2020-10-31,Maryland,Garrett,10.29,3,0,0.0,150,1,0.67,514.35,3.43,0.51,29163,44.93,92.6,-10.28,253.78,10.29
 2020-10-30,Maryland,Garrett,0.0,0,0,0.0,147,1,0.68,504.06,3.43,0.5,29163,44.93,102.88,-6.86,243.49,-3.43

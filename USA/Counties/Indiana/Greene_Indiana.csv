@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-02,Indiana,Greene,18.75,6,0,0.0,648,43,6.64,2024.62,134.35,2.02,32006,59.0,203.09,3.13,631.14,15.63
 2020-11-01,Indiana,Greene,46.87,15,2,6.25,642,43,6.7,2005.87,134.35,2.01,32006,59.0,199.96,0.0,615.51,37.5
 2020-10-31,Indiana,Greene,31.24,10,0,0.0,627,41,6.54,1959.01,128.1,1.96,32006,59.0,199.96,15.62,578.01,21.87
 2020-10-30,Indiana,Greene,12.5,4,0,0.0,617,41,6.65,1927.76,128.1,1.93,32006,59.0,184.34,-49.99,556.14,18.75

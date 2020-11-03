@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-02,Indiana,Brown,13.13,2,0,0.0,162,3,1.85,1063.41,19.69,1.06,15234,48.83,98.46,6.57,374.13,13.13
 2020-11-01,Indiana,Brown,6.56,1,0,0.0,160,3,1.88,1050.28,19.69,1.05,15234,48.83,91.89,6.56,361.0,6.56
 2020-10-31,Indiana,Brown,19.69,3,0,0.0,159,3,1.89,1043.72,19.69,1.04,15234,48.83,85.33,0.0,354.44,13.13
 2020-10-30,Indiana,Brown,26.26,4,0,0.0,156,3,1.92,1024.03,19.69,1.02,15234,48.83,85.33,0.0,341.31,19.7

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-02,Illinois,Union,35.63,6,0,0.0,827,25,3.02,4910.63,148.45,4.91,16841,40.73,237.52,-5.94,1621.05,0.0
 2020-11-01,Illinois,Union,65.32,11,0,0.0,821,25,3.05,4875.01,148.45,4.88,16841,40.73,243.46,89.07,1621.05,-11.87
 2020-10-31,Illinois,Union,0.0,0,0,0.0,810,25,3.09,4809.69,148.45,4.81,16841,40.73,154.39,-195.95,1632.92,-5.94
 2020-10-30,Illinois,Union,47.5,8,0,0.0,810,25,3.09,4809.69,148.45,4.81,16841,40.73,350.34,17.81,1638.86,23.75

@@ -1,8 +1,9 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-01,Rheinland-Pfalz,Donnersbergkreis,2.66,2,0,0.0,298,9,3.02,395.62,11.95,0.4,75325,66.4,-2.65,151.4,2.66
-2020-10-31,Rheinland-Pfalz,Donnersbergkreis,11.95,9,0,0.0,296,9,3.04,392.96,11.95,0.39,75325,69.05,9.29,148.74,11.95
-2020-10-30,Rheinland-Pfalz,Donnersbergkreis,23.9,18,0,0.0,287,9,3.14,381.02,11.95,0.38,75325,59.76,14.61,136.79,23.9
-2020-10-29,Rheinland-Pfalz,Donnersbergkreis,10.62,8,0,0.0,269,9,3.35,357.12,11.95,0.36,75325,45.15,5.31,112.89,10.62
+2020-11-02,Rheinland-Pfalz,Donnersbergkreis,3.98,3,0,0.0,299,9,3.01,396.95,11.95,0.4,75325,65.06,1.32,152.72,3.98
+2020-11-01,Rheinland-Pfalz,Donnersbergkreis,-1.33,-1,0,0.0,296,9,3.04,392.96,11.95,0.39,75325,63.74,-6.64,148.74,-1.33
+2020-10-31,Rheinland-Pfalz,Donnersbergkreis,11.95,9,0,0.0,297,9,3.03,394.29,11.95,0.39,75325,70.38,9.29,150.07,11.95
+2020-10-30,Rheinland-Pfalz,Donnersbergkreis,23.9,18,0,0.0,288,9,3.12,382.34,11.95,0.38,75325,61.09,14.61,138.12,23.9
+2020-10-29,Rheinland-Pfalz,Donnersbergkreis,11.95,9,0,0.0,270,9,3.33,358.45,11.95,0.36,75325,46.48,6.64,114.22,11.95
 2020-10-28,Rheinland-Pfalz,Donnersbergkreis,6.64,5,0,0.0,261,9,3.45,346.5,11.95,0.35,75325,39.84,1.33,102.27,6.64
 2020-10-27,Rheinland-Pfalz,Donnersbergkreis,7.97,6,0,0.0,256,9,3.52,339.86,11.95,0.34,75325,38.51,2.66,95.63,7.97
 2020-10-26,Rheinland-Pfalz,Donnersbergkreis,2.66,2,0,0.0,250,9,3.6,331.9,11.95,0.33,75325,35.85,-3.98,87.66,1.33

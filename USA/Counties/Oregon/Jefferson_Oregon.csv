@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-02,Oregon,Jefferson,4.13,1,0,0.0,612,10,1.63,2529.76,41.34,2.53,24192,13.57,33.07,4.13,194.26,-8.27
 2020-11-01,Oregon,Jefferson,0.0,0,0,0.0,611,10,1.64,2525.63,41.34,2.53,24192,13.57,28.94,-4.13,202.53,-16.53
 2020-10-31,Oregon,Jefferson,8.27,2,0,0.0,611,10,1.64,2525.63,41.34,2.53,24192,13.57,33.07,-4.13,219.06,-4.13
 2020-10-30,Oregon,Jefferson,8.27,2,0,0.0,609,10,1.64,2517.36,41.34,2.52,24192,13.57,37.2,4.14,223.19,4.14

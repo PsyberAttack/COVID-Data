@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-02,Florida,Jackson,10.35,5,0,0.0,3167,83,2.62,6556.26,171.82,6.56,48305,52.61,134.55,6.21,602.38,8.28
 2020-11-01,Florida,Jackson,31.05,15,0,0.0,3162,83,2.62,6545.91,171.82,6.55,48305,52.61,128.34,24.84,594.1,14.49
 2020-10-31,Florida,Jackson,8.28,4,-1,-2.07,3147,83,2.64,6514.85,171.82,6.51,48305,52.61,103.5,-16.56,579.61,-22.77
 2020-10-30,Florida,Jackson,39.33,19,0,0.0,3143,84,2.67,6506.57,173.9,6.51,48305,52.61,120.06,33.12,602.38,14.49

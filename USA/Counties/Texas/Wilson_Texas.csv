@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-02,Texas,Wilson,1.99,1,0,0.0,1005,28,2.79,2001.04,55.75,2.0,50224,62.49,13.93,-11.95,75.65,-105.53
 2020-11-01,Texas,Wilson,0.0,0,0,0.0,1004,28,2.79,1999.04,55.75,2.0,50224,62.49,25.88,0.0,181.18,0.0
 2020-10-31,Texas,Wilson,-5.97,-3,0,0.0,1004,28,2.79,1999.04,55.75,2.0,50224,62.49,25.88,-5.97,181.18,-5.97
 2020-10-30,Texas,Wilson,1.99,1,0,0.0,1007,28,2.78,2005.02,55.75,2.01,50224,62.49,31.85,-15.93,187.15,0.0

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-02,Kentucky,Fleming,20.79,3,0,0.0,203,0,0.0,1406.6,0.0,1.41,14432,41.41,166.31,13.86,789.95,6.93
 2020-11-01,Kentucky,Fleming,13.86,2,0,0.0,200,0,0.0,1385.81,0.0,1.39,14432,41.41,152.45,-6.93,783.02,13.86
 2020-10-31,Kentucky,Fleming,13.86,2,0,0.0,198,0,0.0,1371.95,0.0,1.37,14432,41.41,159.38,-48.5,769.16,6.93
 2020-10-30,Kentucky,Fleming,27.72,4,0,0.0,196,0,0.0,1358.09,0.0,1.36,14432,41.41,207.88,-48.5,762.23,20.79

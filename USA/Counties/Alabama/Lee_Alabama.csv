@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-02,Alabama,Lee,12.81,21,0,0.0,6736,65,0.96,4108.8,39.65,4.11,163941,269.84,113.46,10.37,353.8,3.66
 2020-11-01,Alabama,Lee,7.93,13,0,0.0,6715,65,0.97,4095.99,39.65,4.1,163941,269.84,103.09,0.61,350.14,-6.71
 2020-10-31,Alabama,Lee,20.13,33,0,0.0,6702,65,0.97,4088.06,39.65,4.09,163941,269.84,102.48,9.76,356.85,-9.76
 2020-10-30,Alabama,Lee,12.2,20,0,0.0,6669,65,0.97,4067.93,39.65,4.07,163941,269.84,92.72,-0.61,366.61,-3.05
