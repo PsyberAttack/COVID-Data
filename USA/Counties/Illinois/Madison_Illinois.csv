@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-03,Illinois,Madison,43.48,115,4,1.51,8032,163,2.03,3037.12,61.63,3.04,264461,369.33,262.04,24.57,728.29,34.78
 2020-11-02,Illinois,Madison,46.13,122,-1,-0.38,7917,159,2.01,2993.64,60.12,2.99,264461,369.33,237.47,18.15,693.51,33.65
 2020-11-01,Illinois,Madison,38.19,101,1,0.38,7795,160,2.05,2947.5,60.5,2.95,264461,369.33,219.32,7.18,659.86,28.36
 2020-10-31,Illinois,Madison,27.23,72,1,0.38,7694,159,2.07,2909.31,60.12,2.91,264461,369.33,212.14,8.7,631.5,15.89

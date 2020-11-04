@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-02,Alagoas,Joaquim Gomes,0.0,0,0,0.0,539,16,2.97,2246.49,66.69,2.25,23993,75.03,0.0,204.24,0.0
+2020-11-01,Alagoas,Joaquim Gomes,0.0,0,1,4.17,539,16,2.97,2246.49,66.69,2.25,23993,75.03,0.0,204.24,-8.34
 2020-10-31,Alagoas,Joaquim Gomes,0.0,0,0,0.0,539,15,2.78,2246.49,62.52,2.25,23993,75.03,0.0,212.58,-12.5
 2020-10-30,Alagoas,Joaquim Gomes,25.01,6,0,0.0,539,15,2.78,2246.49,62.52,2.25,23993,75.03,25.01,225.08,0.0
 2020-10-29,Alagoas,Joaquim Gomes,0.0,0,0,0.0,533,15,2.81,2221.48,62.52,2.22,23993,50.02,-8.34,225.08,0.0

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-03,Illinois,Knox,63.86,32,1,2.0,1509,22,1.46,3011.25,43.9,3.01,50112,69.95,355.21,35.92,1468.73,47.9
 2020-11-02,Illinois,Knox,19.96,10,0,0.0,1477,21,1.42,2947.4,41.91,2.95,50112,69.95,319.29,-15.96,1420.83,11.98
 2020-11-01,Illinois,Knox,97.78,49,0,0.0,1467,21,1.43,2927.44,41.91,2.93,50112,69.95,335.25,43.9,1408.85,73.83
 2020-10-31,Illinois,Knox,0.0,0,0,0.0,1418,21,1.48,2829.66,41.91,2.83,50112,69.95,291.35,-81.82,1335.02,-9.98

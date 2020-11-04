@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-03,Pennsylvania,Warren,10.13,4,0,0.0,78,1,1.28,197.48,2.53,0.2,39498,44.67,35.45,7.6,81.01,7.6
 2020-11-02,Pennsylvania,Warren,7.6,3,0,0.0,74,1,1.35,187.35,2.53,0.19,39498,44.67,27.85,5.07,73.41,7.6
 2020-11-01,Pennsylvania,Warren,0.0,0,0,0.0,71,1,1.41,179.76,2.53,0.18,39498,44.67,22.78,0.0,65.81,-2.53
 2020-10-31,Pennsylvania,Warren,0.0,0,0,0.0,71,1,1.41,179.76,2.53,0.18,39498,44.67,22.78,0.0,68.34,0.0

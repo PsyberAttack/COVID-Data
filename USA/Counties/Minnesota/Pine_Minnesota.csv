@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-03,Minnesota,Pine,57.66,17,0,0.0,643,1,0.16,2180.92,3.39,2.18,29483,20.89,301.87,40.7,807.26,-13.57
 2020-11-02,Minnesota,Pine,50.88,15,1,3.39,626,1,0.16,2123.26,3.39,2.12,29483,20.89,261.17,30.53,820.83,33.92
 2020-11-01,Minnesota,Pine,20.35,6,0,0.0,611,0,0.0,2072.38,0.0,2.07,29483,20.89,230.64,-20.35,786.91,20.35
 2020-10-31,Minnesota,Pine,30.53,9,0,0.0,605,0,0.0,2052.03,0.0,2.05,29483,20.89,250.99,3.4,766.56,3.4

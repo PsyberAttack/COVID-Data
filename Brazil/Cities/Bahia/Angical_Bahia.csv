@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-02,Bahia,Angical,0.0,0,0,0.0,200,4,2.0,1430.92,28.62,1.43,13977,128.77,0.0,350.55,0.0
+2020-11-01,Bahia,Angical,7.15,1,0,0.0,200,4,2.0,1430.92,28.62,1.43,13977,128.77,0.0,350.55,7.15
 2020-10-31,Bahia,Angical,7.15,1,0,0.0,199,4,2.01,1423.77,28.62,1.42,13977,128.77,0.0,343.4,-7.16
 2020-10-30,Bahia,Angical,42.93,6,0,0.0,198,4,2.02,1416.61,28.62,1.42,13977,128.77,28.62,350.56,14.31
 2020-10-29,Bahia,Angical,21.46,3,0,0.0,192,4,2.08,1373.69,28.62,1.37,13977,100.15,0.0,336.25,21.46

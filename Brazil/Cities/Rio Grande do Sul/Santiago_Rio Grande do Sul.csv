@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-02,Rio Grande do Sul,Santiago,26.3,13,0,0.0,704,10,1.42,1424.38,20.23,1.42,49425,224.59,6.07,582.73,8.09
+2020-11-01,Rio Grande do Sul,Santiago,28.33,14,0,0.0,691,10,1.45,1398.08,20.23,1.4,49425,218.52,-52.6,574.64,20.24
+2020-10-31,Rio Grande do Sul,Santiago,50.58,25,0,0.0,677,10,1.48,1369.75,20.23,1.37,49425,271.12,16.18,554.4,40.46
 2020-10-30,Rio Grande do Sul,Santiago,26.3,13,0,0.0,652,10,1.53,1319.17,20.23,1.32,49425,254.94,-10.12,513.94,26.3
 2020-10-29,Rio Grande do Sul,Santiago,4.05,2,0,0.0,639,10,1.56,1292.87,20.23,1.29,49425,265.06,-24.28,487.64,4.05
 2020-10-28,Rio Grande do Sul,Santiago,42.49,21,0,0.0,637,10,1.57,1288.82,20.23,1.29,49425,289.34,22.26,483.59,42.49

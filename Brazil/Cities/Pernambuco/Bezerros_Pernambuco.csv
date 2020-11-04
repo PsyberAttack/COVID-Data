@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-02,Pernambuco,Bezerros,1.64,1,0,0.0,1259,67,5.32,2070.79,110.2,2.07,60798,47.7,1.64,238.48,-1.65
+2020-11-01,Pernambuco,Bezerros,0.0,0,0,0.0,1258,67,5.33,2069.15,110.2,2.07,60798,46.06,0.0,240.13,-6.58
+2020-10-31,Pernambuco,Bezerros,3.29,2,0,0.0,1258,67,5.33,2069.15,110.2,2.07,60798,46.06,-4.93,246.71,-4.93
 2020-10-30,Pernambuco,Bezerros,9.87,6,0,0.0,1256,67,5.33,2065.86,110.2,2.07,60798,50.99,0.0,251.64,-3.29
 2020-10-29,Pernambuco,Bezerros,-11.51,-7,2,3.29,1250,67,5.36,2055.99,110.2,2.06,60798,50.99,-21.38,254.93,-11.51
 2020-10-28,Pernambuco,Bezerros,14.8,9,1,1.64,1257,65,5.17,2067.5,106.91,2.07,60798,72.37,6.58,266.44,13.16

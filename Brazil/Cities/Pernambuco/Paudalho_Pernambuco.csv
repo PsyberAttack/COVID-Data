@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-02,Pernambuco,Paudalho,0.0,0,0,0.0,749,40,5.34,1325.52,70.79,1.33,56506,21.24,0.0,61.95,0.0
+2020-11-01,Pernambuco,Paudalho,0.0,0,0,0.0,749,40,5.34,1325.52,70.79,1.33,56506,21.24,0.0,61.95,-8.85
+2020-10-31,Pernambuco,Paudalho,-1.77,-1,-1,-1.77,749,40,5.34,1325.52,70.79,1.33,56506,21.24,-5.31,70.8,-12.39
 2020-10-30,Pernambuco,Paudalho,0.0,0,0,0.0,750,41,5.47,1327.29,72.56,1.33,56506,26.55,0.0,83.19,-10.62
 2020-10-29,Pernambuco,Paudalho,10.62,6,0,0.0,750,41,5.47,1327.29,72.56,1.33,56506,26.55,10.62,93.81,10.62
 2020-10-28,Pernambuco,Paudalho,3.54,2,0,0.0,744,41,5.51,1316.67,72.56,1.32,56506,15.93,1.77,83.19,3.54

@@ -1,247 +1,247 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-02,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,381,6,1.57,190.48,3.0,0.19,200025,15.5,-3.0,86.5,-1.0
-2020-11-01,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,380,6,1.58,189.98,3.0,0.19,200025,18.5,-5.0,87.5,-0.5
-2020-10-31,Schleswig-Holstein,Schleswig-Flensburg,5.0,10,0,0.0,380,6,1.58,189.98,3.0,0.19,200025,23.5,-2.5,88.0,3.5
-2020-10-30,Schleswig-Holstein,Schleswig-Flensburg,2.0,4,0,0.0,370,6,1.62,184.98,3.0,0.18,200025,26.0,-7.0,84.5,0.5
-2020-10-29,Schleswig-Holstein,Schleswig-Flensburg,2.0,4,0,0.0,366,6,1.64,182.98,3.0,0.18,200025,33.0,-3.0,84.0,-1.0
-2020-10-28,Schleswig-Holstein,Schleswig-Flensburg,1.5,3,0,0.0,362,6,1.66,180.98,3.0,0.18,200025,36.0,-4.5,85.0,0.5
-2020-10-27,Schleswig-Holstein,Schleswig-Flensburg,4.5,9,0,0.0,359,6,1.67,179.48,3.0,0.18,200025,40.5,-1.0,84.5,4.5
-2020-10-26,Schleswig-Holstein,Schleswig-Flensburg,3.5,7,0,0.0,350,6,1.71,174.98,3.0,0.17,200025,41.5,-2.5,80.0,3.5
-2020-10-25,Schleswig-Holstein,Schleswig-Flensburg,5.0,10,0,0.0,343,6,1.75,171.48,3.0,0.17,200025,44.0,0.0,76.5,5.0
-2020-10-24,Schleswig-Holstein,Schleswig-Flensburg,7.5,15,0,0.0,333,6,1.8,166.48,3.0,0.17,200025,44.0,5.0,71.5,7.0
-2020-10-23,Schleswig-Holstein,Schleswig-Flensburg,9.0,18,0,0.0,318,6,1.89,158.98,3.0,0.16,200025,39.0,5.5,64.5,8.5
-2020-10-22,Schleswig-Holstein,Schleswig-Flensburg,5.0,10,0,0.0,300,6,2.0,149.98,3.0,0.15,200025,33.5,4.5,56.0,5.0
-2020-10-21,Schleswig-Holstein,Schleswig-Flensburg,6.0,12,0,0.0,290,6,2.07,144.98,3.0,0.14,200025,29.0,5.0,51.0,6.0
-2020-10-20,Schleswig-Holstein,Schleswig-Flensburg,5.5,11,0,0.0,278,6,2.16,138.98,3.0,0.14,200025,24.0,2.5,45.0,5.5
-2020-10-19,Schleswig-Holstein,Schleswig-Flensburg,6.0,12,0,0.0,267,6,2.25,133.48,3.0,0.13,200025,21.5,5.0,39.5,6.0
-2020-10-18,Schleswig-Holstein,Schleswig-Flensburg,5.0,10,0,0.0,255,6,2.35,127.48,3.0,0.13,200025,16.5,4.0,33.5,4.0
-2020-10-17,Schleswig-Holstein,Schleswig-Flensburg,2.5,5,0,0.0,245,6,2.45,122.48,3.0,0.12,200025,12.5,2.0,29.5,2.0
-2020-10-16,Schleswig-Holstein,Schleswig-Flensburg,3.5,7,0,0.0,240,6,2.5,119.99,3.0,0.12,200025,10.5,2.5,27.5,3.0
-2020-10-15,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,233,6,2.58,116.49,3.0,0.12,200025,8.0,-0.5,24.5,0.0
-2020-10-14,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,232,6,2.59,115.99,3.0,0.12,200025,8.5,-2.5,24.5,1.0
-2020-10-13,Schleswig-Holstein,Schleswig-Flensburg,3.0,6,0,0.0,230,6,2.61,114.99,3.0,0.11,200025,11.0,3.0,23.5,3.0
-2020-10-12,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,224,6,2.68,111.99,3.0,0.11,200025,8.0,-0.5,20.5,1.0
-2020-10-11,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,1,0.5,222,6,2.7,110.99,3.0,0.11,200025,8.5,0.5,19.5,1.0
-2020-10-10,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,220,5,2.27,109.99,2.5,0.11,200025,8.0,-1.0,18.5,0.0
-2020-10-09,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,1,0.5,219,5,2.28,109.49,2.5,0.11,200025,9.0,-0.5,18.5,1.0
-2020-10-08,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,217,4,1.84,108.49,2.0,0.11,200025,9.5,-2.0,17.5,1.0
-2020-10-07,Schleswig-Holstein,Schleswig-Flensburg,3.5,7,0,0.0,215,4,1.86,107.49,2.0,0.11,200025,11.5,2.5,16.5,3.5
-2020-10-06,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,208,4,1.92,103.99,2.0,0.1,200025,9.0,0.0,13.0,0.0
-2020-10-05,Schleswig-Holstein,Schleswig-Flensburg,1.5,3,0,0.0,208,4,1.92,103.99,2.0,0.1,200025,9.0,1.5,13.0,0.5
-2020-10-04,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,205,4,1.95,102.49,2.0,0.1,200025,7.5,0.5,12.5,0.0
-2020-10-03,Schleswig-Holstein,Schleswig-Flensburg,1.5,3,0,0.0,204,4,1.96,101.99,2.0,0.1,200025,7.0,1.0,12.5,1.5
-2020-10-02,Schleswig-Holstein,Schleswig-Flensburg,1.5,3,0,0.0,201,4,1.99,100.49,2.0,0.1,200025,6.0,1.0,11.0,1.5
-2020-10-01,Schleswig-Holstein,Schleswig-Flensburg,3.0,6,0,0.0,198,4,2.02,98.99,2.0,0.1,200025,5.0,3.0,9.5,3.0
-2020-09-30,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,192,4,2.08,95.99,2.0,0.1,200025,2.0,1.0,6.5,0.5
-2020-09-29,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,190,4,2.11,94.99,2.0,0.09,200025,1.0,0.0,6.0,-0.5
-2020-09-28,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,190,4,2.11,94.99,2.0,0.09,200025,1.0,0.0,6.5,0.0
-2020-09-27,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,190,4,2.11,94.99,2.0,0.09,200025,1.0,-1.0,6.5,0.0
-2020-09-26,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,190,4,2.11,94.99,2.0,0.09,200025,2.0,0.0,6.5,0.5
-2020-09-25,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,189,4,2.12,94.49,2.0,0.09,200025,2.0,0.0,6.0,0.5
-2020-09-24,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,188,4,2.13,93.99,2.0,0.09,200025,2.0,-0.5,5.5,0.0
-2020-09-23,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,188,4,2.13,93.99,2.0,0.09,200025,2.5,0.0,5.5,0.0
-2020-09-22,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,188,4,2.13,93.99,2.0,0.09,200025,2.5,0.0,5.5,-0.5
-2020-09-21,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,188,4,2.13,93.99,2.0,0.09,200025,2.5,0.0,6.0,-1.0
-2020-09-20,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,188,4,2.13,93.99,2.0,0.09,200025,2.5,1.0,7.0,1.0
-2020-09-19,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,186,4,2.15,92.99,2.0,0.09,200025,1.5,0.0,6.0,0.5
-2020-09-18,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,185,4,2.16,92.49,2.0,0.09,200025,1.5,0.5,5.5,0.5
-2020-09-17,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,184,4,2.17,91.99,2.0,0.09,200025,1.0,0.5,5.0,0.0
-2020-09-16,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,183,4,2.19,91.49,2.0,0.09,200025,0.5,0.0,5.0,0.0
-2020-09-15,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,183,4,2.19,91.49,2.0,0.09,200025,0.5,0.0,5.0,-0.5
-2020-09-14,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,183,4,2.19,91.49,2.0,0.09,200025,0.5,-1.0,5.5,0.0
-2020-09-13,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,183,4,2.19,91.49,2.0,0.09,200025,1.5,-0.5,5.5,-0.5
-2020-09-12,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,183,4,2.19,91.49,2.0,0.09,200025,2.0,0.5,6.0,0.0
-2020-09-11,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,182,4,2.2,90.99,2.0,0.09,200025,1.5,0.0,6.0,0.0
-2020-09-10,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,182,4,2.2,90.99,2.0,0.09,200025,1.5,0.0,6.0,0.0
-2020-09-09,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,182,4,2.2,90.99,2.0,0.09,200025,1.5,-0.5,6.0,0.0
-2020-09-08,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,182,4,2.2,90.99,2.0,0.09,200025,2.0,-0.5,6.0,-0.5
-2020-09-07,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,182,4,2.2,90.99,2.0,0.09,200025,2.5,1.0,6.5,1.0
-2020-09-06,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,180,4,2.22,89.99,2.0,0.09,200025,1.5,0.5,5.5,0.0
-2020-09-05,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,179,4,2.23,89.49,2.0,0.09,200025,1.0,0.0,5.5,0.0
-2020-09-04,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,179,4,2.23,89.49,2.0,0.09,200025,1.0,0.0,5.5,-0.5
-2020-09-03,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,179,4,2.23,89.49,2.0,0.09,200025,1.0,0.0,6.0,0.0
-2020-09-02,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,179,4,2.23,89.49,2.0,0.09,200025,1.0,0.5,6.0,0.5
-2020-09-01,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,178,4,2.25,88.99,2.0,0.09,200025,0.5,0.0,5.5,0.5
-2020-08-31,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,177,4,2.26,88.49,2.0,0.09,200025,0.5,-1.0,5.0,-0.5
-2020-08-30,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,177,4,2.26,88.49,2.0,0.09,200025,1.5,0.0,5.5,0.0
-2020-08-29,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,177,4,2.26,88.49,2.0,0.09,200025,1.5,0.0,5.5,0.0
-2020-08-28,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,177,4,2.26,88.49,2.0,0.09,200025,1.5,0.0,5.5,0.0
-2020-08-27,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,177,4,2.26,88.49,2.0,0.09,200025,1.5,-0.5,5.5,0.0
-2020-08-26,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,177,4,2.26,88.49,2.0,0.09,200025,2.0,0.0,5.5,0.0
-2020-08-25,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,177,4,2.26,88.49,2.0,0.09,200025,2.0,0.0,5.5,0.5
-2020-08-24,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,176,4,2.27,87.99,2.0,0.09,200025,2.0,1.0,5.0,0.0
-2020-08-23,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,174,4,2.3,86.99,2.0,0.09,200025,1.0,-0.5,5.0,-0.5
-2020-08-22,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,174,4,2.3,86.99,2.0,0.09,200025,1.5,-0.5,5.5,0.0
-2020-08-21,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,174,4,2.3,86.99,2.0,0.09,200025,2.0,0.0,5.5,-0.5
-2020-08-20,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,174,4,2.3,86.99,2.0,0.09,200025,2.0,0.5,6.0,0.5
-2020-08-19,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,173,4,2.31,86.49,2.0,0.09,200025,1.5,0.0,5.5,-0.5
-2020-08-18,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,173,4,2.31,86.49,2.0,0.09,200025,1.5,0.0,6.0,0.5
-2020-08-17,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,172,4,2.33,85.99,2.0,0.09,200025,1.5,0.0,5.5,0.0
-2020-08-16,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,172,4,2.33,85.99,2.0,0.09,200025,1.5,0.0,5.5,0.5
-2020-08-15,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,171,4,2.34,85.49,2.0,0.09,200025,1.5,0.5,5.0,0.5
-2020-08-14,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,170,4,2.35,84.99,2.0,0.08,200025,1.0,-0.5,4.5,0.0
-2020-08-13,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,170,4,2.35,84.99,2.0,0.08,200025,1.5,0.0,4.5,0.0
-2020-08-12,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,170,4,2.35,84.99,2.0,0.08,200025,1.5,0.0,4.5,0.0
-2020-08-11,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,170,4,2.35,84.99,2.0,0.08,200025,1.5,0.5,4.5,0.5
-2020-08-10,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,169,4,2.37,84.49,2.0,0.08,200025,1.0,-0.5,4.0,0.0
-2020-08-09,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,169,4,2.37,84.49,2.0,0.08,200025,1.5,0.5,4.0,0.5
-2020-08-08,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,168,4,2.38,83.99,2.0,0.08,200025,1.0,0.0,3.5,-0.5
-2020-08-07,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,168,4,2.38,83.99,2.0,0.08,200025,1.0,0.5,4.0,0.5
-2020-08-06,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,167,4,2.4,83.49,2.0,0.08,200025,0.5,0.0,3.5,0.0
-2020-08-05,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,167,4,2.4,83.49,2.0,0.08,200025,0.5,0.0,3.5,0.0
-2020-08-04,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,167,4,2.4,83.49,2.0,0.08,200025,0.5,0.0,3.5,0.0
-2020-08-03,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,167,4,2.4,83.49,2.0,0.08,200025,0.5,-0.5,3.5,0.5
-2020-08-02,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,166,4,2.41,82.99,2.0,0.08,200025,1.0,-0.5,3.0,0.0
-2020-08-01,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,166,4,2.41,82.99,2.0,0.08,200025,1.5,0.0,3.0,0.0
-2020-07-31,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,166,4,2.41,82.99,2.0,0.08,200025,1.5,-0.5,3.0,0.0
-2020-07-30,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,166,4,2.41,82.99,2.0,0.08,200025,2.0,0.0,3.0,0.0
-2020-07-29,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,166,4,2.41,82.99,2.0,0.08,200025,2.0,-0.5,3.0,0.0
-2020-07-28,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,166,4,2.41,82.99,2.0,0.08,200025,2.5,0.0,3.0,0.0
-2020-07-27,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,166,4,2.41,82.99,2.0,0.08,200025,2.5,1.0,3.0,1.0
-2020-07-26,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,164,4,2.44,81.99,2.0,0.08,200025,1.5,0.5,2.0,0.5
-2020-07-25,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,163,4,2.45,81.49,2.0,0.08,200025,1.0,0.0,1.5,0.0
-2020-07-24,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,163,4,2.45,81.49,2.0,0.08,200025,1.0,0.5,1.5,0.5
-2020-07-23,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,162,4,2.47,80.99,2.0,0.08,200025,0.5,0.0,1.0,0.0
-2020-07-22,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,162,4,2.47,80.99,2.0,0.08,200025,0.5,0.5,1.0,0.5
-2020-07-21,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,161,4,2.48,80.49,2.0,0.08,200025,0.0,0.0,0.5,0.0
-2020-07-20,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,161,4,2.48,80.49,2.0,0.08,200025,0.0,0.0,0.5,0.0
-2020-07-19,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,161,4,2.48,80.49,2.0,0.08,200025,0.0,0.0,0.5,0.0
-2020-07-18,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,161,4,2.48,80.49,2.0,0.08,200025,0.0,-0.5,0.5,0.0
-2020-07-17,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,161,4,2.48,80.49,2.0,0.08,200025,0.5,0.0,0.5,0.0
-2020-07-16,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,161,4,2.48,80.49,2.0,0.08,200025,0.5,0.0,0.5,0.0
-2020-07-15,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,161,4,2.48,80.49,2.0,0.08,200025,0.5,0.0,0.5,0.0
-2020-07-14,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,161,4,2.48,80.49,2.0,0.08,200025,0.5,0.0,0.5,0.0
-2020-07-13,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,161,4,2.48,80.49,2.0,0.08,200025,0.5,0.0,0.5,0.0
-2020-07-12,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,161,4,2.48,80.49,2.0,0.08,200025,0.5,0.0,0.5,0.0
-2020-07-11,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,161,4,2.48,80.49,2.0,0.08,200025,0.5,0.5,0.5,0.5
-2020-07-10,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,0.0,0.0
-2020-07-09,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,0.0,0.0
-2020-07-08,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,0.0,0.0
-2020-07-07,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,0.0,-0.5
-2020-07-06,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,0.5,0.0
-2020-07-05,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,0.5,0.0
-2020-07-04,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,0.5,-0.5
-2020-07-03,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,1.0,0.0
-2020-07-02,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,1.0,0.0
-2020-07-01,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,1.0,0.0
-2020-06-30,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,1.0,0.0
-2020-06-29,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,1.0,0.0
-2020-06-28,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,1.0,0.0
-2020-06-27,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,1.0,0.0
-2020-06-26,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,1.0,0.0
-2020-06-25,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,1.0,-0.5
-2020-06-24,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,1.5,0.0
-2020-06-23,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,1.5,0.0
-2020-06-22,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,1.5,0.0
-2020-06-21,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,1.5,0.0
-2020-06-20,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,1.5,0.0
-2020-06-19,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,1.5,-3.0
-2020-06-18,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,4.5,-7.0
-2020-06-17,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,11.5,-1.0
-2020-06-16,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,-0.5,12.5,-1.0
-2020-06-15,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.5,0.0,13.5,0.0
-2020-06-14,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.5,0.0,13.5,-0.5
-2020-06-13,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.5,-0.5,14.0,-0.5
-2020-06-12,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,1.0,0.0,14.5,0.0
-2020-06-11,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,1.0,0.0,14.5,-0.5
-2020-06-10,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,1.0,0.0,15.0,0.0
-2020-06-09,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,1.0,0.5,15.0,-0.5
-2020-06-08,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,159,4,2.52,79.49,2.0,0.08,200025,0.5,0.0,15.5,-0.5
-2020-06-07,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,159,4,2.52,79.49,2.0,0.08,200025,0.5,0.0,16.0,0.0
-2020-06-06,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,159,4,2.52,79.49,2.0,0.08,200025,0.5,0.5,16.0,0.5
-2020-06-05,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,158,4,2.53,78.99,2.0,0.08,200025,0.0,0.0,15.5,0.0
-2020-06-04,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,158,4,2.53,78.99,2.0,0.08,200025,0.0,-0.5,15.5,0.0
-2020-06-03,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,158,4,2.53,78.99,2.0,0.08,200025,0.5,0.0,15.5,0.0
-2020-06-02,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,158,4,2.53,78.99,2.0,0.08,200025,0.5,0.0,15.5,0.0
-2020-06-01,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,158,4,2.53,78.99,2.0,0.08,200025,0.5,0.0,15.5,0.0
-2020-05-31,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,158,4,2.53,78.99,2.0,0.08,200025,0.5,0.0,15.5,-1.0
-2020-05-30,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,158,4,2.53,78.99,2.0,0.08,200025,0.5,0.0,16.5,0.0
-2020-05-29,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,158,4,2.53,78.99,2.0,0.08,200025,0.5,-3.0,16.5,0.0
-2020-05-28,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,158,4,2.53,78.99,2.0,0.08,200025,3.5,-6.5,16.5,0.5
-2020-05-27,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,157,4,2.55,78.49,2.0,0.08,200025,10.0,-1.0,16.0,-0.5
-2020-05-26,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,157,4,2.55,78.49,2.0,0.08,200025,11.0,-1.0,16.5,-0.5
-2020-05-25,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,157,4,2.55,78.49,2.0,0.08,200025,12.0,0.0,17.0,0.0
-2020-05-24,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,157,4,2.55,78.49,2.0,0.08,200025,12.0,-0.5,17.0,-0.5
-2020-05-23,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,157,4,2.55,78.49,2.0,0.08,200025,12.5,-0.5,17.5,-1.0
-2020-05-22,Schleswig-Holstein,Schleswig-Flensburg,3.0,6,0,0.0,157,4,2.55,78.49,2.0,0.08,200025,13.0,3.0,18.5,3.0
-2020-05-21,Schleswig-Holstein,Schleswig-Flensburg,7.0,14,0,0.0,151,4,2.65,75.49,2.0,0.08,200025,10.0,6.5,15.5,7.0
-2020-05-20,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,137,4,2.92,68.49,2.0,0.07,200025,3.5,1.0,8.5,1.0
-2020-05-19,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,135,4,2.96,67.49,2.0,0.07,200025,2.5,0.0,7.5,1.0
-2020-05-18,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,133,4,3.01,66.49,2.0,0.07,200025,2.5,-0.5,6.5,0.0
-2020-05-17,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,133,4,3.01,66.49,2.0,0.07,200025,3.0,0.5,6.5,0.5
-2020-05-16,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,132,4,3.03,65.99,2.0,0.07,200025,2.5,0.5,6.0,0.0
-2020-05-15,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,131,4,3.05,65.49,2.0,0.07,200025,2.0,0.0,6.0,0.0
-2020-05-14,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,131,4,3.05,65.49,2.0,0.07,200025,2.0,0.5,6.0,-1.0
-2020-05-13,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,130,4,3.08,64.99,2.0,0.06,200025,1.5,0.0,7.0,0.0
-2020-05-12,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,130,4,3.08,64.99,2.0,0.06,200025,1.5,1.0,7.0,0.5
-2020-05-11,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,1,0.5,128,4,3.12,63.99,2.0,0.06,200025,0.5,0.5,6.5,0.0
-2020-05-10,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,127,3,2.36,63.49,1.5,0.06,200025,0.0,-1.0,6.5,0.0
-2020-05-09,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,127,3,2.36,63.49,1.5,0.06,200025,1.0,0.0,6.5,-1.0
-2020-05-08,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,127,3,2.36,63.49,1.5,0.06,200025,1.0,0.0,7.5,0.0
-2020-05-07,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,127,3,2.36,63.49,1.5,0.06,200025,1.0,0.0,7.5,0.0
-2020-05-06,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,127,3,2.36,63.49,1.5,0.06,200025,1.0,-0.5,7.5,-1.0
-2020-05-05,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,127,3,2.36,63.49,1.5,0.06,200025,1.5,-0.5,8.5,-1.0
-2020-05-04,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,127,3,2.36,63.49,1.5,0.06,200025,2.0,0.0,9.5,-1.5
-2020-05-03,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,127,3,2.36,63.49,1.5,0.06,200025,2.0,0.5,11.0,0.0
-2020-05-02,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,125,3,2.4,62.49,1.5,0.06,200025,1.5,-1.0,11.0,0.0
-2020-05-01,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,125,3,2.4,62.49,1.5,0.06,200025,2.5,0.0,11.0,-0.5
-2020-04-30,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,125,3,2.4,62.49,1.5,0.06,200025,2.5,0.0,11.5,-1.5
-2020-04-29,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,125,3,2.4,62.49,1.5,0.06,200025,2.5,0.5,13.0,0.5
-2020-04-28,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,124,3,2.42,61.99,1.5,0.06,200025,2.0,0.5,12.5,0.0
-2020-04-27,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,123,3,2.44,61.49,1.5,0.06,200025,1.5,0.0,12.5,-2.0
-2020-04-26,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,123,3,2.44,61.49,1.5,0.06,200025,1.5,0.5,14.5,-0.5
-2020-04-25,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,122,3,2.46,60.99,1.5,0.06,200025,1.0,0.5,15.0,-1.0
-2020-04-24,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,120,3,2.5,59.99,1.5,0.06,200025,0.5,0.0,16.0,-1.0
-2020-04-23,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,120,3,2.5,59.99,1.5,0.06,200025,0.5,-1.5,17.0,-6.0
-2020-04-22,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,120,3,2.5,59.99,1.5,0.06,200025,2.0,0.0,23.0,-3.0
-2020-04-21,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,120,3,2.5,59.99,1.5,0.06,200025,2.0,-0.5,26.0,-2.5
-2020-04-20,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,120,3,2.5,59.99,1.5,0.06,200025,2.5,-0.5,28.5,-3.0
-2020-04-19,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,120,3,2.5,59.99,1.5,0.06,200025,3.0,0.0,31.5,-2.0
-2020-04-18,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,120,3,2.5,59.99,1.5,0.06,200025,3.0,-0.5,33.5,0.0
-2020-04-17,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,119,3,2.52,59.49,1.5,0.06,200025,3.5,0.0,33.5,-2.0
-2020-04-16,Schleswig-Holstein,Schleswig-Flensburg,1.5,3,0,0.0,119,3,2.52,59.49,1.5,0.06,200025,3.5,1.5,35.5,0.0
-2020-04-15,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,116,3,2.59,57.99,1.5,0.06,200025,2.0,-1.0,35.5,-2.5
-2020-04-14,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,116,3,2.59,57.99,1.5,0.06,200025,3.0,-0.5,38.0,-0.5
-2020-04-13,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,115,3,2.61,57.49,1.5,0.06,200025,3.5,-1.0,38.5,-2.0
-2020-04-12,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,114,3,2.63,56.99,1.5,0.06,200025,4.5,-1.0,40.5,-1.5
-2020-04-11,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,114,3,2.63,56.99,1.5,0.06,200025,5.5,1.0,42.0,-0.5
-2020-04-10,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,112,3,2.68,55.99,1.5,0.06,200025,4.5,-0.5,42.5,-2.5
-2020-04-09,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,112,3,2.68,55.99,1.5,0.06,200025,5.0,-1.5,45.0,-2.5
-2020-04-08,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,112,3,2.68,55.99,1.5,0.06,200025,6.5,1.0,47.5,-2.5
-2020-04-07,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,1,0.5,110,3,2.73,54.99,1.5,0.05,200025,5.5,0.5,50.0,-0.5
-2020-04-06,Schleswig-Holstein,Schleswig-Flensburg,1.5,3,0,0.0,108,2,1.85,53.99,1.0,0.05,200025,5.0,-0.5,50.5,0.5
-2020-04-05,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,105,2,1.9,52.49,1.0,0.05,200025,5.5,0.0,50.0,0.5
-2020-04-04,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,103,2,1.94,51.49,1.0,0.05,200025,5.5,-2.0,49.5,-1.0
-2020-04-03,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,103,2,1.94,51.49,1.0,0.05,200025,7.5,-0.5,50.5,0.0
-2020-04-02,Schleswig-Holstein,Schleswig-Flensburg,1.5,3,0,0.0,102,2,1.96,50.99,1.0,0.05,200025,8.0,-4.5,50.5,1.5
-2020-04-01,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,99,2,2.02,49.49,1.0,0.05,200025,12.5,-3.0,49.0,0.0
-2020-03-31,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,99,2,2.02,49.49,1.0,0.05,200025,15.5,-2.0,49.0,0.5
-2020-03-30,Schleswig-Holstein,Schleswig-Flensburg,2.0,4,0,0.0,98,2,2.04,48.99,1.0,0.05,200025,17.5,-1.0,48.5,1.5
-2020-03-29,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,94,2,2.13,46.99,1.0,0.05,200025,18.5,-1.0,47.0,1.0
-2020-03-28,Schleswig-Holstein,Schleswig-Flensburg,2.0,4,0,0.0,92,2,2.17,45.99,1.0,0.05,200025,19.5,1.5,46.0,2.0
-2020-03-27,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,88,2,2.27,43.99,1.0,0.04,200025,18.0,-1.0,44.0,1.0
-2020-03-26,Schleswig-Holstein,Schleswig-Flensburg,6.0,12,1,0.5,86,2,2.33,42.99,1.0,0.04,200025,19.0,4.5,43.0,6.0
-2020-03-25,Schleswig-Holstein,Schleswig-Flensburg,3.0,6,0,0.0,74,1,1.35,37.0,0.5,0.04,200025,14.5,0.5,37.0,3.0
-2020-03-24,Schleswig-Holstein,Schleswig-Flensburg,2.5,5,0,0.0,68,1,1.47,34.0,0.5,0.03,200025,14.0,1.5,34.0,2.5
-2020-03-23,Schleswig-Holstein,Schleswig-Flensburg,3.0,6,0,0.0,63,1,1.59,31.5,0.5,0.03,200025,12.5,0.5,31.5,3.0
-2020-03-22,Schleswig-Holstein,Schleswig-Flensburg,2.0,4,0,0.0,57,1,1.75,28.5,0.5,0.03,200025,12.0,0.5,28.5,2.0
-2020-03-21,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,53,1,1.89,26.5,0.5,0.03,200025,11.5,-1.0,26.5,0.5
-2020-03-20,Schleswig-Holstein,Schleswig-Flensburg,2.0,4,0,0.0,52,1,1.92,26.0,0.5,0.03,200025,12.5,-0.5,26.0,2.0
-2020-03-19,Schleswig-Holstein,Schleswig-Flensburg,1.5,3,1,0.5,48,1,2.08,24.0,0.5,0.02,200025,13.0,-1.0,24.0,1.5
-2020-03-18,Schleswig-Holstein,Schleswig-Flensburg,2.5,5,0,0.0,45,0,0.0,22.5,0.0,0.02,200025,14.0,-1.0,22.5,2.5
-2020-03-17,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,40,0,0.0,20.0,0.0,0.02,200025,15.0,-0.5,20.0,1.0
-2020-03-16,Schleswig-Holstein,Schleswig-Flensburg,2.5,5,0,0.0,38,0,0.0,19.0,0.0,0.02,200025,15.5,1.5,19.0,2.5
-2020-03-15,Schleswig-Holstein,Schleswig-Flensburg,1.5,3,0,0.0,33,0,0.0,16.5,0.0,0.02,200025,14.0,1.0,16.5,1.5
-2020-03-14,Schleswig-Holstein,Schleswig-Flensburg,1.5,3,0,0.0,30,0,0.0,15.0,0.0,0.01,200025,13.0,0.5,15.0,1.5
-2020-03-13,Schleswig-Holstein,Schleswig-Flensburg,2.5,5,0,0.0,27,0,0.0,13.5,0.0,0.01,200025,12.5,2.0,13.5,2.5
-2020-03-12,Schleswig-Holstein,Schleswig-Flensburg,2.5,5,0,0.0,22,0,0.0,11.0,0.0,0.01,200025,10.5,2.5,11.0,2.5
-2020-03-11,Schleswig-Holstein,Schleswig-Flensburg,3.5,7,0,0.0,17,0,0.0,8.5,0.0,0.01,200025,8.0,3.5,8.5,3.5
-2020-03-10,Schleswig-Holstein,Schleswig-Flensburg,1.5,3,0,0.0,10,0,0.0,5.0,0.0,0.0,200025,4.5,1.5,5.0,1.5
-2020-03-09,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,7,0,0.0,3.5,0.0,0.0,200025,3.0,0.5,3.5,1.0
-2020-03-08,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,5,0,0.0,2.5,0.0,0.0,200025,2.5,0.5,2.5,0.5
-2020-03-07,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,4,0,0.0,2.0,0.0,0.0,200025,2.0,1.0,2.0,1.0
-2020-03-06,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,2,0,0.0,1.0,0.0,0.0,200025,1.0,0.5,1.0,0.5
-2020-03-05,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,1,0,0.0,0.5,0.0,0.0,200025,0.5,0.0,0.5,0.0
-2020-03-04,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,1,0,0.0,0.5,0.0,0.0,200025,0.5,0.0,0.5,0.0
-2020-03-03,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,1,0,0.0,0.5,0.0,0.0,200025,0.5,0.0,0.5,0.0
-2020-03-02,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,1,0,0.0,0.5,0.0,0.0,200025,0.5,0.5,0.5,0.5
+2020-11-02 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,383,6,1.57,191.48,3.0,0.19,200025,16.5,-3.0,87.5,-1.0
+2020-11-01 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,382,6,1.57,190.98,3.0,0.19,200025,19.5,-5.0,88.5,-0.5
+2020-10-31 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,5.0,10,0,0.0,382,6,1.57,190.98,3.0,0.19,200025,24.5,-2.5,89.0,3.5
+2020-10-30 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,2.5,5,0,0.0,372,6,1.61,185.98,3.0,0.19,200025,27.0,-6.5,85.5,1.0
+2020-10-29 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,2.0,4,0,0.0,367,6,1.63,183.48,3.0,0.18,200025,33.5,-3.0,84.5,-1.0
+2020-10-28 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.5,3,0,0.0,363,6,1.65,181.48,3.0,0.18,200025,36.5,-4.5,85.5,0.5
+2020-10-27 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,5.0,10,0,0.0,360,6,1.67,179.98,3.0,0.18,200025,41.0,-0.5,85.0,5.0
+2020-10-26 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,3.5,7,0,0.0,350,6,1.71,174.98,3.0,0.17,200025,41.5,-2.5,80.0,3.5
+2020-10-25 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,5.0,10,0,0.0,343,6,1.75,171.48,3.0,0.17,200025,44.0,0.0,76.5,5.0
+2020-10-24 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,7.5,15,0,0.0,333,6,1.8,166.48,3.0,0.17,200025,44.0,5.0,71.5,7.0
+2020-10-23 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,9.0,18,0,0.0,318,6,1.89,158.98,3.0,0.16,200025,39.0,5.5,64.5,8.5
+2020-10-22 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,5.0,10,0,0.0,300,6,2.0,149.98,3.0,0.15,200025,33.5,4.5,56.0,5.0
+2020-10-21 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,6.0,12,0,0.0,290,6,2.07,144.98,3.0,0.14,200025,29.0,5.0,51.0,6.0
+2020-10-20 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,5.5,11,0,0.0,278,6,2.16,138.98,3.0,0.14,200025,24.0,2.5,45.0,5.5
+2020-10-19 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,6.0,12,0,0.0,267,6,2.25,133.48,3.0,0.13,200025,21.5,5.0,39.5,6.0
+2020-10-18 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,5.0,10,0,0.0,255,6,2.35,127.48,3.0,0.13,200025,16.5,4.0,33.5,4.0
+2020-10-17 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,2.5,5,0,0.0,245,6,2.45,122.48,3.0,0.12,200025,12.5,2.0,29.5,2.0
+2020-10-16 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,3.5,7,0,0.0,240,6,2.5,119.99,3.0,0.12,200025,10.5,2.5,27.5,3.0
+2020-10-15 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,233,6,2.58,116.49,3.0,0.12,200025,8.0,-0.5,24.5,0.0
+2020-10-14 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,232,6,2.59,115.99,3.0,0.12,200025,8.5,-2.5,24.5,1.0
+2020-10-13 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,3.0,6,0,0.0,230,6,2.61,114.99,3.0,0.11,200025,11.0,3.0,23.5,3.0
+2020-10-12 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,224,6,2.68,111.99,3.0,0.11,200025,8.0,-0.5,20.5,1.0
+2020-10-11 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,1,0.5,222,6,2.7,110.99,3.0,0.11,200025,8.5,0.5,19.5,1.0
+2020-10-10 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,220,5,2.27,109.99,2.5,0.11,200025,8.0,-1.0,18.5,0.0
+2020-10-09 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,1,0.5,219,5,2.28,109.49,2.5,0.11,200025,9.0,-0.5,18.5,1.0
+2020-10-08 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,217,4,1.84,108.49,2.0,0.11,200025,9.5,-2.0,17.5,1.0
+2020-10-07 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,3.5,7,0,0.0,215,4,1.86,107.49,2.0,0.11,200025,11.5,2.5,16.5,3.5
+2020-10-06 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,208,4,1.92,103.99,2.0,0.1,200025,9.0,0.0,13.0,0.0
+2020-10-05 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.5,3,0,0.0,208,4,1.92,103.99,2.0,0.1,200025,9.0,1.5,13.0,0.5
+2020-10-04 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,205,4,1.95,102.49,2.0,0.1,200025,7.5,0.5,12.5,0.0
+2020-10-03 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.5,3,0,0.0,204,4,1.96,101.99,2.0,0.1,200025,7.0,1.0,12.5,1.5
+2020-10-02 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.5,3,0,0.0,201,4,1.99,100.49,2.0,0.1,200025,6.0,1.0,11.0,1.5
+2020-10-01 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,3.0,6,0,0.0,198,4,2.02,98.99,2.0,0.1,200025,5.0,3.0,9.5,3.0
+2020-09-30 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,192,4,2.08,95.99,2.0,0.1,200025,2.0,1.0,6.5,0.5
+2020-09-29 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,190,4,2.11,94.99,2.0,0.09,200025,1.0,0.0,6.0,-0.5
+2020-09-28 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,190,4,2.11,94.99,2.0,0.09,200025,1.0,0.0,6.5,0.0
+2020-09-27 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,190,4,2.11,94.99,2.0,0.09,200025,1.0,-1.0,6.5,0.0
+2020-09-26 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,190,4,2.11,94.99,2.0,0.09,200025,2.0,0.0,6.5,0.5
+2020-09-25 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,189,4,2.12,94.49,2.0,0.09,200025,2.0,0.0,6.0,0.5
+2020-09-24 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,188,4,2.13,93.99,2.0,0.09,200025,2.0,-0.5,5.5,0.0
+2020-09-23 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,188,4,2.13,93.99,2.0,0.09,200025,2.5,0.0,5.5,0.0
+2020-09-22 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,188,4,2.13,93.99,2.0,0.09,200025,2.5,0.0,5.5,-0.5
+2020-09-21 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,188,4,2.13,93.99,2.0,0.09,200025,2.5,0.0,6.0,-1.0
+2020-09-20 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,188,4,2.13,93.99,2.0,0.09,200025,2.5,1.0,7.0,1.0
+2020-09-19 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,186,4,2.15,92.99,2.0,0.09,200025,1.5,0.0,6.0,0.5
+2020-09-18 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,185,4,2.16,92.49,2.0,0.09,200025,1.5,0.5,5.5,0.5
+2020-09-17 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,184,4,2.17,91.99,2.0,0.09,200025,1.0,0.5,5.0,0.0
+2020-09-16 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,183,4,2.19,91.49,2.0,0.09,200025,0.5,0.0,5.0,0.0
+2020-09-15 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,183,4,2.19,91.49,2.0,0.09,200025,0.5,0.0,5.0,-0.5
+2020-09-14 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,183,4,2.19,91.49,2.0,0.09,200025,0.5,-1.0,5.5,0.0
+2020-09-13 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,183,4,2.19,91.49,2.0,0.09,200025,1.5,-0.5,5.5,-0.5
+2020-09-12 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,183,4,2.19,91.49,2.0,0.09,200025,2.0,0.5,6.0,0.0
+2020-09-11 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,182,4,2.2,90.99,2.0,0.09,200025,1.5,0.0,6.0,0.0
+2020-09-10 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,182,4,2.2,90.99,2.0,0.09,200025,1.5,0.0,6.0,0.0
+2020-09-09 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,182,4,2.2,90.99,2.0,0.09,200025,1.5,-0.5,6.0,0.0
+2020-09-08 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,182,4,2.2,90.99,2.0,0.09,200025,2.0,-0.5,6.0,-0.5
+2020-09-07 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,182,4,2.2,90.99,2.0,0.09,200025,2.5,1.0,6.5,1.0
+2020-09-06 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,180,4,2.22,89.99,2.0,0.09,200025,1.5,0.5,5.5,0.0
+2020-09-05 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,179,4,2.23,89.49,2.0,0.09,200025,1.0,0.0,5.5,0.0
+2020-09-04 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,179,4,2.23,89.49,2.0,0.09,200025,1.0,0.0,5.5,-0.5
+2020-09-03 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,179,4,2.23,89.49,2.0,0.09,200025,1.0,0.0,6.0,0.0
+2020-09-02 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,179,4,2.23,89.49,2.0,0.09,200025,1.0,0.5,6.0,0.5
+2020-09-01 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,178,4,2.25,88.99,2.0,0.09,200025,0.5,0.0,5.5,0.5
+2020-08-31 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,177,4,2.26,88.49,2.0,0.09,200025,0.5,-1.0,5.0,-0.5
+2020-08-30 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,177,4,2.26,88.49,2.0,0.09,200025,1.5,0.0,5.5,0.0
+2020-08-29 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,177,4,2.26,88.49,2.0,0.09,200025,1.5,0.0,5.5,0.0
+2020-08-28 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,177,4,2.26,88.49,2.0,0.09,200025,1.5,0.0,5.5,0.0
+2020-08-27 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,177,4,2.26,88.49,2.0,0.09,200025,1.5,-0.5,5.5,0.0
+2020-08-26 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,177,4,2.26,88.49,2.0,0.09,200025,2.0,0.0,5.5,0.0
+2020-08-25 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,177,4,2.26,88.49,2.0,0.09,200025,2.0,0.0,5.5,0.5
+2020-08-24 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,176,4,2.27,87.99,2.0,0.09,200025,2.0,1.0,5.0,0.0
+2020-08-23 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,174,4,2.3,86.99,2.0,0.09,200025,1.0,-0.5,5.0,-0.5
+2020-08-22 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,174,4,2.3,86.99,2.0,0.09,200025,1.5,-0.5,5.5,0.0
+2020-08-21 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,174,4,2.3,86.99,2.0,0.09,200025,2.0,0.0,5.5,-0.5
+2020-08-20 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,174,4,2.3,86.99,2.0,0.09,200025,2.0,0.5,6.0,0.5
+2020-08-19 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,173,4,2.31,86.49,2.0,0.09,200025,1.5,0.0,5.5,-0.5
+2020-08-18 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,173,4,2.31,86.49,2.0,0.09,200025,1.5,0.0,6.0,0.5
+2020-08-17 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,172,4,2.33,85.99,2.0,0.09,200025,1.5,0.0,5.5,0.0
+2020-08-16 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,172,4,2.33,85.99,2.0,0.09,200025,1.5,0.0,5.5,0.5
+2020-08-15 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,171,4,2.34,85.49,2.0,0.09,200025,1.5,0.5,5.0,0.5
+2020-08-14 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,170,4,2.35,84.99,2.0,0.08,200025,1.0,-0.5,4.5,0.0
+2020-08-13 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,170,4,2.35,84.99,2.0,0.08,200025,1.5,0.0,4.5,0.0
+2020-08-12 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,170,4,2.35,84.99,2.0,0.08,200025,1.5,0.0,4.5,0.0
+2020-08-11 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,170,4,2.35,84.99,2.0,0.08,200025,1.5,0.5,4.5,0.5
+2020-08-10 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,169,4,2.37,84.49,2.0,0.08,200025,1.0,-0.5,4.0,0.0
+2020-08-09 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,169,4,2.37,84.49,2.0,0.08,200025,1.5,0.5,4.0,0.5
+2020-08-08 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,168,4,2.38,83.99,2.0,0.08,200025,1.0,0.0,3.5,-0.5
+2020-08-07 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,168,4,2.38,83.99,2.0,0.08,200025,1.0,0.5,4.0,0.5
+2020-08-06 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,167,4,2.4,83.49,2.0,0.08,200025,0.5,0.0,3.5,0.0
+2020-08-05 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,167,4,2.4,83.49,2.0,0.08,200025,0.5,0.0,3.5,0.0
+2020-08-04 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,167,4,2.4,83.49,2.0,0.08,200025,0.5,0.0,3.5,0.0
+2020-08-03 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,167,4,2.4,83.49,2.0,0.08,200025,0.5,-0.5,3.5,0.5
+2020-08-02 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,166,4,2.41,82.99,2.0,0.08,200025,1.0,-0.5,3.0,0.0
+2020-08-01 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,166,4,2.41,82.99,2.0,0.08,200025,1.5,0.0,3.0,0.0
+2020-07-31 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,166,4,2.41,82.99,2.0,0.08,200025,1.5,-0.5,3.0,0.0
+2020-07-30 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,166,4,2.41,82.99,2.0,0.08,200025,2.0,0.0,3.0,0.0
+2020-07-29 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,166,4,2.41,82.99,2.0,0.08,200025,2.0,-0.5,3.0,0.0
+2020-07-28 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,166,4,2.41,82.99,2.0,0.08,200025,2.5,0.0,3.0,0.0
+2020-07-27 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,166,4,2.41,82.99,2.0,0.08,200025,2.5,1.0,3.0,1.0
+2020-07-26 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,164,4,2.44,81.99,2.0,0.08,200025,1.5,0.5,2.0,0.5
+2020-07-25 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,163,4,2.45,81.49,2.0,0.08,200025,1.0,0.0,1.5,0.0
+2020-07-24 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,163,4,2.45,81.49,2.0,0.08,200025,1.0,0.5,1.5,0.5
+2020-07-23 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,162,4,2.47,80.99,2.0,0.08,200025,0.5,0.0,1.0,0.0
+2020-07-22 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,162,4,2.47,80.99,2.0,0.08,200025,0.5,0.5,1.0,0.5
+2020-07-21 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,161,4,2.48,80.49,2.0,0.08,200025,0.0,0.0,0.5,0.0
+2020-07-20 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,161,4,2.48,80.49,2.0,0.08,200025,0.0,0.0,0.5,0.0
+2020-07-19 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,161,4,2.48,80.49,2.0,0.08,200025,0.0,0.0,0.5,0.0
+2020-07-18 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,161,4,2.48,80.49,2.0,0.08,200025,0.0,-0.5,0.5,0.0
+2020-07-17 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,161,4,2.48,80.49,2.0,0.08,200025,0.5,0.0,0.5,0.0
+2020-07-16 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,161,4,2.48,80.49,2.0,0.08,200025,0.5,0.0,0.5,0.0
+2020-07-15 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,161,4,2.48,80.49,2.0,0.08,200025,0.5,0.0,0.5,0.0
+2020-07-14 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,161,4,2.48,80.49,2.0,0.08,200025,0.5,0.0,0.5,0.0
+2020-07-13 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,161,4,2.48,80.49,2.0,0.08,200025,0.5,0.0,0.5,0.0
+2020-07-12 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,161,4,2.48,80.49,2.0,0.08,200025,0.5,0.0,0.5,0.0
+2020-07-11 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,161,4,2.48,80.49,2.0,0.08,200025,0.5,0.5,0.5,0.5
+2020-07-10 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,0.0,0.0
+2020-07-09 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,0.0,0.0
+2020-07-08 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,0.0,0.0
+2020-07-07 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,0.0,-0.5
+2020-07-06 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,0.5,0.0
+2020-07-05 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,0.5,0.0
+2020-07-04 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,0.5,-0.5
+2020-07-03 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,1.0,0.0
+2020-07-02 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,1.0,0.0
+2020-07-01 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,1.0,0.0
+2020-06-30 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,1.0,0.0
+2020-06-29 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,1.0,0.0
+2020-06-28 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,1.0,0.0
+2020-06-27 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,1.0,0.0
+2020-06-26 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,1.0,0.0
+2020-06-25 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,1.0,-0.5
+2020-06-24 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,1.5,0.0
+2020-06-23 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,1.5,0.0
+2020-06-22 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,1.5,0.0
+2020-06-21 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,1.5,0.0
+2020-06-20 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,1.5,0.0
+2020-06-19 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,1.5,-3.0
+2020-06-18 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,4.5,-7.0
+2020-06-17 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,0.0,11.5,-1.0
+2020-06-16 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.0,-0.5,12.5,-1.0
+2020-06-15 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.5,0.0,13.5,0.0
+2020-06-14 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.5,0.0,13.5,-0.5
+2020-06-13 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,0.5,-0.5,14.0,-0.5
+2020-06-12 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,1.0,0.0,14.5,0.0
+2020-06-11 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,1.0,0.0,14.5,-0.5
+2020-06-10 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,1.0,0.0,15.0,0.0
+2020-06-09 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,160,4,2.5,79.99,2.0,0.08,200025,1.0,0.5,15.0,-0.5
+2020-06-08 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,159,4,2.52,79.49,2.0,0.08,200025,0.5,0.0,15.5,-0.5
+2020-06-07 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,159,4,2.52,79.49,2.0,0.08,200025,0.5,0.0,16.0,0.0
+2020-06-06 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,159,4,2.52,79.49,2.0,0.08,200025,0.5,0.5,16.0,0.5
+2020-06-05 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,158,4,2.53,78.99,2.0,0.08,200025,0.0,0.0,15.5,0.0
+2020-06-04 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,158,4,2.53,78.99,2.0,0.08,200025,0.0,-0.5,15.5,0.0
+2020-06-03 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,158,4,2.53,78.99,2.0,0.08,200025,0.5,0.0,15.5,0.0
+2020-06-02 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,158,4,2.53,78.99,2.0,0.08,200025,0.5,0.0,15.5,0.0
+2020-06-01 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,158,4,2.53,78.99,2.0,0.08,200025,0.5,0.0,15.5,0.0
+2020-05-31 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,158,4,2.53,78.99,2.0,0.08,200025,0.5,0.0,15.5,-1.0
+2020-05-30 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,158,4,2.53,78.99,2.0,0.08,200025,0.5,0.0,16.5,0.0
+2020-05-29 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,158,4,2.53,78.99,2.0,0.08,200025,0.5,-3.0,16.5,0.0
+2020-05-28 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,158,4,2.53,78.99,2.0,0.08,200025,3.5,-6.5,16.5,0.5
+2020-05-27 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,157,4,2.55,78.49,2.0,0.08,200025,10.0,-1.0,16.0,-0.5
+2020-05-26 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,157,4,2.55,78.49,2.0,0.08,200025,11.0,-1.0,16.5,-0.5
+2020-05-25 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,157,4,2.55,78.49,2.0,0.08,200025,12.0,0.0,17.0,0.0
+2020-05-24 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,157,4,2.55,78.49,2.0,0.08,200025,12.0,-0.5,17.0,-0.5
+2020-05-23 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,157,4,2.55,78.49,2.0,0.08,200025,12.5,-0.5,17.5,-1.0
+2020-05-22 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,3.0,6,0,0.0,157,4,2.55,78.49,2.0,0.08,200025,13.0,3.0,18.5,3.0
+2020-05-21 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,7.0,14,0,0.0,151,4,2.65,75.49,2.0,0.08,200025,10.0,6.5,15.5,7.0
+2020-05-20 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,137,4,2.92,68.49,2.0,0.07,200025,3.5,1.0,8.5,1.0
+2020-05-19 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,135,4,2.96,67.49,2.0,0.07,200025,2.5,0.0,7.5,1.0
+2020-05-18 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,133,4,3.01,66.49,2.0,0.07,200025,2.5,-0.5,6.5,0.0
+2020-05-17 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,133,4,3.01,66.49,2.0,0.07,200025,3.0,0.5,6.5,0.5
+2020-05-16 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,132,4,3.03,65.99,2.0,0.07,200025,2.5,0.5,6.0,0.0
+2020-05-15 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,131,4,3.05,65.49,2.0,0.07,200025,2.0,0.0,6.0,0.0
+2020-05-14 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,131,4,3.05,65.49,2.0,0.07,200025,2.0,0.5,6.0,-1.0
+2020-05-13 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,130,4,3.08,64.99,2.0,0.06,200025,1.5,0.0,7.0,0.0
+2020-05-12 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,130,4,3.08,64.99,2.0,0.06,200025,1.5,1.0,7.0,0.5
+2020-05-11 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,1,0.5,128,4,3.12,63.99,2.0,0.06,200025,0.5,0.5,6.5,0.0
+2020-05-10 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,127,3,2.36,63.49,1.5,0.06,200025,0.0,-1.0,6.5,0.0
+2020-05-09 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,127,3,2.36,63.49,1.5,0.06,200025,1.0,0.0,6.5,-1.0
+2020-05-08 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,127,3,2.36,63.49,1.5,0.06,200025,1.0,0.0,7.5,0.0
+2020-05-07 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,127,3,2.36,63.49,1.5,0.06,200025,1.0,0.0,7.5,0.0
+2020-05-06 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,127,3,2.36,63.49,1.5,0.06,200025,1.0,-0.5,7.5,-1.0
+2020-05-05 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,127,3,2.36,63.49,1.5,0.06,200025,1.5,-0.5,8.5,-1.0
+2020-05-04 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,127,3,2.36,63.49,1.5,0.06,200025,2.0,0.0,9.5,-1.5
+2020-05-03 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,127,3,2.36,63.49,1.5,0.06,200025,2.0,0.5,11.0,0.0
+2020-05-02 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,125,3,2.4,62.49,1.5,0.06,200025,1.5,-1.0,11.0,0.0
+2020-05-01 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,125,3,2.4,62.49,1.5,0.06,200025,2.5,0.0,11.0,-0.5
+2020-04-30 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,125,3,2.4,62.49,1.5,0.06,200025,2.5,0.0,11.5,-1.5
+2020-04-29 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,125,3,2.4,62.49,1.5,0.06,200025,2.5,0.5,13.0,0.5
+2020-04-28 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,124,3,2.42,61.99,1.5,0.06,200025,2.0,0.5,12.5,0.0
+2020-04-27 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,123,3,2.44,61.49,1.5,0.06,200025,1.5,0.0,12.5,-2.0
+2020-04-26 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,123,3,2.44,61.49,1.5,0.06,200025,1.5,0.5,14.5,-0.5
+2020-04-25 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,122,3,2.46,60.99,1.5,0.06,200025,1.0,0.5,15.0,-1.0
+2020-04-24 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,120,3,2.5,59.99,1.5,0.06,200025,0.5,0.0,16.0,-1.0
+2020-04-23 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,120,3,2.5,59.99,1.5,0.06,200025,0.5,-1.5,17.0,-6.0
+2020-04-22 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,120,3,2.5,59.99,1.5,0.06,200025,2.0,0.0,23.0,-3.0
+2020-04-21 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,120,3,2.5,59.99,1.5,0.06,200025,2.0,-0.5,26.0,-2.5
+2020-04-20 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,120,3,2.5,59.99,1.5,0.06,200025,2.5,-0.5,28.5,-3.0
+2020-04-19 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,120,3,2.5,59.99,1.5,0.06,200025,3.0,0.0,31.5,-2.0
+2020-04-18 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,120,3,2.5,59.99,1.5,0.06,200025,3.0,-0.5,33.5,0.0
+2020-04-17 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,119,3,2.52,59.49,1.5,0.06,200025,3.5,0.0,33.5,-2.0
+2020-04-16 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.5,3,0,0.0,119,3,2.52,59.49,1.5,0.06,200025,3.5,1.5,35.5,0.0
+2020-04-15 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,116,3,2.59,57.99,1.5,0.06,200025,2.0,-1.0,35.5,-2.5
+2020-04-14 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,116,3,2.59,57.99,1.5,0.06,200025,3.0,-0.5,38.0,-0.5
+2020-04-13 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,115,3,2.61,57.49,1.5,0.06,200025,3.5,-1.0,38.5,-2.0
+2020-04-12 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,114,3,2.63,56.99,1.5,0.06,200025,4.5,-1.0,40.5,-1.5
+2020-04-11 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,114,3,2.63,56.99,1.5,0.06,200025,5.5,1.0,42.0,-0.5
+2020-04-10 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,112,3,2.68,55.99,1.5,0.06,200025,4.5,-0.5,42.5,-2.5
+2020-04-09 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,112,3,2.68,55.99,1.5,0.06,200025,5.0,-1.5,45.0,-2.5
+2020-04-08 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,112,3,2.68,55.99,1.5,0.06,200025,6.5,1.0,47.5,-2.5
+2020-04-07 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,1,0.5,110,3,2.73,54.99,1.5,0.05,200025,5.5,0.5,50.0,-0.5
+2020-04-06 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.5,3,0,0.0,108,2,1.85,53.99,1.0,0.05,200025,5.0,-0.5,50.5,0.5
+2020-04-05 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,105,2,1.9,52.49,1.0,0.05,200025,5.5,0.0,50.0,0.5
+2020-04-04 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,103,2,1.94,51.49,1.0,0.05,200025,5.5,-2.0,49.5,-1.0
+2020-04-03 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,103,2,1.94,51.49,1.0,0.05,200025,7.5,-0.5,50.5,0.0
+2020-04-02 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.5,3,0,0.0,102,2,1.96,50.99,1.0,0.05,200025,8.0,-4.5,50.5,1.5
+2020-04-01 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,99,2,2.02,49.49,1.0,0.05,200025,12.5,-3.0,49.0,0.0
+2020-03-31 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,99,2,2.02,49.49,1.0,0.05,200025,15.5,-2.0,49.0,0.5
+2020-03-30 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,2.0,4,0,0.0,98,2,2.04,48.99,1.0,0.05,200025,17.5,-1.0,48.5,1.5
+2020-03-29 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,94,2,2.13,46.99,1.0,0.05,200025,18.5,-1.0,47.0,1.0
+2020-03-28 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,2.0,4,0,0.0,92,2,2.17,45.99,1.0,0.05,200025,19.5,1.5,46.0,2.0
+2020-03-27 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,88,2,2.27,43.99,1.0,0.04,200025,18.0,-1.0,44.0,1.0
+2020-03-26 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,6.0,12,1,0.5,86,2,2.33,42.99,1.0,0.04,200025,19.0,4.5,43.0,6.0
+2020-03-25 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,3.0,6,0,0.0,74,1,1.35,37.0,0.5,0.04,200025,14.5,0.5,37.0,3.0
+2020-03-24 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,2.5,5,0,0.0,68,1,1.47,34.0,0.5,0.03,200025,14.0,1.5,34.0,2.5
+2020-03-23 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,3.0,6,0,0.0,63,1,1.59,31.5,0.5,0.03,200025,12.5,0.5,31.5,3.0
+2020-03-22 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,2.0,4,0,0.0,57,1,1.75,28.5,0.5,0.03,200025,12.0,0.5,28.5,2.0
+2020-03-21 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,53,1,1.89,26.5,0.5,0.03,200025,11.5,-1.0,26.5,0.5
+2020-03-20 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,2.0,4,0,0.0,52,1,1.92,26.0,0.5,0.03,200025,12.5,-0.5,26.0,2.0
+2020-03-19 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.5,3,1,0.5,48,1,2.08,24.0,0.5,0.02,200025,13.0,-1.0,24.0,1.5
+2020-03-18 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,2.5,5,0,0.0,45,0,0.0,22.5,0.0,0.02,200025,14.0,-1.0,22.5,2.5
+2020-03-17 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,40,0,0.0,20.0,0.0,0.02,200025,15.0,-0.5,20.0,1.0
+2020-03-16 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,2.5,5,0,0.0,38,0,0.0,19.0,0.0,0.02,200025,15.5,1.5,19.0,2.5
+2020-03-15 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.5,3,0,0.0,33,0,0.0,16.5,0.0,0.02,200025,14.0,1.0,16.5,1.5
+2020-03-14 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.5,3,0,0.0,30,0,0.0,15.0,0.0,0.01,200025,13.0,0.5,15.0,1.5
+2020-03-13 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,2.5,5,0,0.0,27,0,0.0,13.5,0.0,0.01,200025,12.5,2.0,13.5,2.5
+2020-03-12 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,2.5,5,0,0.0,22,0,0.0,11.0,0.0,0.01,200025,10.5,2.5,11.0,2.5
+2020-03-11 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,3.5,7,0,0.0,17,0,0.0,8.5,0.0,0.01,200025,8.0,3.5,8.5,3.5
+2020-03-10 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.5,3,0,0.0,10,0,0.0,5.0,0.0,0.0,200025,4.5,1.5,5.0,1.5
+2020-03-09 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,7,0,0.0,3.5,0.0,0.0,200025,3.0,0.5,3.5,1.0
+2020-03-08 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,5,0,0.0,2.5,0.0,0.0,200025,2.5,0.5,2.5,0.5
+2020-03-07 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,1.0,2,0,0.0,4,0,0.0,2.0,0.0,0.0,200025,2.0,1.0,2.0,1.0
+2020-03-06 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,2,0,0.0,1.0,0.0,0.0,200025,1.0,0.5,1.0,0.5
+2020-03-05 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,1,0,0.0,0.5,0.0,0.0,200025,0.5,0.0,0.5,0.0
+2020-03-04 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,1,0,0.0,0.5,0.0,0.0,200025,0.5,0.0,0.5,0.0
+2020-03-03 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.0,0,0,0.0,1,0,0.0,0.5,0.0,0.0,200025,0.5,0.0,0.5,0.0
+2020-03-02 00:00:00+00:00,Schleswig-Holstein,Schleswig-Flensburg,0.5,1,0,0.0,1,0,0.0,0.5,0.0,0.0,200025,0.5,0.5,0.5,0.5
