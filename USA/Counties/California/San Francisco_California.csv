@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-04,California,San Francisco,5.09,45,0,0.0,12602,149,1.18,1426.69,16.87,1.43,883305,18848.5,40.53,-0.8,120.7,1.92
 2020-11-03,California,San Francisco,5.21,46,1,0.11,12557,149,1.19,1421.59,16.87,1.42,883305,18848.5,41.33,1.02,118.78,2.38
 2020-11-02,California,San Francisco,6.11,54,0,0.0,12511,148,1.18,1416.39,16.76,1.42,883305,18848.5,40.31,0.56,116.4,5.54
 2020-11-01,California,San Francisco,6.23,55,0,0.0,12457,148,1.19,1410.27,16.76,1.41,883305,18848.5,39.75,2.38,110.86,-0.68

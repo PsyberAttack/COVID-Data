@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-04,São Paulo,Praia Grande,4.0,13,2,0.62,8199,267,3.26,2522.2,82.14,2.52,325073,12.0,0.92,151.67,6.77
+2020-11-03,São Paulo,Praia Grande,0.92,3,0,0.0,8186,265,3.24,2518.2,81.52,2.52,325073,11.08,0.92,144.9,-0.62
+2020-11-02,São Paulo,Praia Grande,0.31,1,2,0.62,8183,265,3.24,2517.28,81.52,2.52,325073,10.16,-0.92,145.52,0.31
 2020-10-31,São Paulo,Praia Grande,1.23,4,1,0.31,8182,263,3.21,2516.97,80.9,2.52,325073,11.08,-11.38,145.21,1.23
 2020-10-30,São Paulo,Praia Grande,2.15,7,1,0.31,8178,262,3.2,2515.74,80.6,2.52,325073,22.46,-13.23,143.98,-4.31
 2020-10-29,São Paulo,Praia Grande,2.77,9,1,0.31,8171,261,3.19,2513.59,80.29,2.51,325073,35.69,-1.84,148.29,-13.23

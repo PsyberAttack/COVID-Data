@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-04,Wyoming,Lincoln,20.58,4,0,0.0,390,3,0.77,2006.79,15.44,2.01,19434,4.77,216.12,-25.73,740.99,0.0
 2020-11-03,Wyoming,Lincoln,56.6,11,0,0.0,386,3,0.78,1986.21,15.44,1.99,19434,4.77,241.85,5.14,740.99,10.29
 2020-11-02,Wyoming,Lincoln,25.73,5,0,0.0,375,3,0.8,1929.61,15.44,1.93,19434,4.77,236.71,20.58,730.7,5.15
 2020-11-01,Wyoming,Lincoln,51.46,10,0,0.0,370,3,0.81,1903.88,15.44,1.9,19434,4.77,216.13,51.46,725.55,36.02

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-04,Georgia,Morgan,53.04,10,1,5.3,714,7,0.98,3787.2,37.13,3.79,18853,54.27,243.99,37.13,509.17,21.21
 2020-11-03,Georgia,Morgan,-5.3,-1,0,0.0,704,6,0.85,3734.15,31.83,3.73,18853,54.27,206.86,-21.21,487.96,-10.6
 2020-11-02,Georgia,Morgan,148.52,28,0,0.0,705,6,0.85,3739.46,31.83,3.74,18853,54.27,228.07,79.57,498.56,-498.59
 2020-11-01,Georgia,Morgan,5.3,1,0,0.0,677,6,0.89,3590.94,31.83,3.59,18853,54.27,148.5,5.3,997.15,5.3
