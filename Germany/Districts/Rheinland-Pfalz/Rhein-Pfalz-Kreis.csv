@@ -1,6 +1,7 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-04,Rheinland-Pfalz,Rhein-Pfalz-Kreis,16.82,26,0,0.0,745,5,0.67,481.86,3.23,0.48,154609,71.81,7.12,199.23,14.88
-2020-11-03,Rheinland-Pfalz,Rhein-Pfalz-Kreis,12.94,20,0,0.0,719,5,0.7,465.04,3.23,0.47,154609,64.69,-0.64,184.35,11.65
+2020-11-05,Rheinland-Pfalz,Rhein-Pfalz-Kreis,9.06,14,0,0.0,756,5,0.66,488.98,3.23,0.49,154609,69.86,0.0,206.34,9.06
+2020-11-04,Rheinland-Pfalz,Rhein-Pfalz-Kreis,17.46,27,0,0.0,742,5,0.67,479.92,3.23,0.48,154609,69.86,7.76,197.28,15.52
+2020-11-03,Rheinland-Pfalz,Rhein-Pfalz-Kreis,10.35,16,0,0.0,715,5,0.7,462.46,3.23,0.46,154609,62.1,-3.23,181.76,9.06
 2020-11-02,Rheinland-Pfalz,Rhein-Pfalz-Kreis,11.64,18,0,0.0,699,5,0.72,452.11,3.23,0.45,154609,65.33,-4.53,172.7,9.05
 2020-11-01,Rheinland-Pfalz,Rhein-Pfalz-Kreis,0.65,1,0,0.0,681,5,0.73,440.47,3.23,0.44,154609,69.86,-3.88,163.65,0.0
 2020-10-31,Rheinland-Pfalz,Rhein-Pfalz-Kreis,7.76,12,0,0.0,680,5,0.74,439.82,3.23,0.44,154609,73.74,1.94,163.65,4.53

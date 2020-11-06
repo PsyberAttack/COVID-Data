@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-05,Ohio,Adams,39.68,11,0,0.0,312,6,1.92,1125.38,21.64,1.13,27724,47.48,209.2,3.61,541.04,32.47
 2020-11-04,Ohio,Adams,39.68,11,0,0.0,301,6,1.99,1085.7,21.64,1.09,27724,47.48,205.59,0.0,508.57,32.47
 2020-11-03,Ohio,Adams,32.46,9,0,0.0,290,6,2.07,1046.03,21.64,1.05,27724,47.48,205.59,7.21,476.1,32.46
 2020-11-02,Ohio,Adams,39.68,11,0,0.0,281,6,2.14,1013.56,21.64,1.01,27724,47.48,198.38,0.0,443.64,21.65

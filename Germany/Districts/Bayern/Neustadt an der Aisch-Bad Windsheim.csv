@@ -1,14 +1,16 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-03,Bayern,Neustadt an der Aisch-Bad Windsheim,1.99,2,0,0.0,470,6,1.28,468.3,5.98,0.47,100364,43.83,-12.96,164.4,0.0
-2020-11-02,Bayern,Neustadt an der Aisch-Bad Windsheim,6.97,7,0,0.0,468,6,1.28,466.3,5.98,0.47,100364,56.79,-8.97,164.4,6.97
-2020-11-01,Bayern,Neustadt an der Aisch-Bad Windsheim,1.99,2,0,0.0,461,6,1.3,459.33,5.98,0.46,100364,65.76,-6.98,157.43,0.99
-2020-10-31,Bayern,Neustadt an der Aisch-Bad Windsheim,1.99,2,0,0.0,459,6,1.31,457.34,5.98,0.46,100364,72.74,-9.97,156.44,1.99
-2020-10-30,Bayern,Neustadt an der Aisch-Bad Windsheim,6.97,7,0,0.0,457,6,1.31,455.34,5.98,0.46,100364,82.71,-2.99,154.45,6.97
-2020-10-29,Bayern,Neustadt an der Aisch-Bad Windsheim,8.97,9,0,0.0,450,6,1.33,448.37,5.98,0.45,100364,85.7,2.99,147.48,5.98
-2020-10-28,Bayern,Neustadt an der Aisch-Bad Windsheim,14.95,15,0,0.0,441,6,1.36,439.4,5.98,0.44,100364,82.71,7.98,141.5,13.95
-2020-10-27,Bayern,Neustadt an der Aisch-Bad Windsheim,14.95,15,0,0.0,426,6,1.41,424.45,5.98,0.42,100364,74.73,6.98,127.55,14.95
-2020-10-26,Bayern,Neustadt an der Aisch-Bad Windsheim,15.94,16,0,0.0,411,6,1.46,409.51,5.98,0.41,100364,67.75,5.98,112.6,15.94
-2020-10-25,Bayern,Neustadt an der Aisch-Bad Windsheim,8.97,9,0,0.0,395,6,1.52,393.57,5.98,0.39,100364,61.77,5.98,96.66,7.97
+2020-11-05,Bayern,Neustadt an der Aisch-Bad Windsheim,5.98,6,0,0.0,504,6,1.19,502.17,5.98,0.5,100364,43.84,-2.99,196.28,4.98
+2020-11-04,Bayern,Neustadt an der Aisch-Bad Windsheim,1.0,1,0,0.0,498,6,1.2,496.19,5.98,0.5,100364,46.83,-17.93,191.3,0.0
+2020-11-03,Bayern,Neustadt an der Aisch-Bad Windsheim,4.98,5,0,0.0,497,6,1.21,495.2,5.98,0.5,100364,64.76,-11.96,191.3,2.99
+2020-11-02,Bayern,Neustadt an der Aisch-Bad Windsheim,8.97,9,0,0.0,492,6,1.22,490.22,5.98,0.49,100364,76.72,-9.96,188.31,8.97
+2020-11-01,Bayern,Neustadt an der Aisch-Bad Windsheim,7.97,8,0,0.0,483,6,1.24,481.25,5.98,0.48,100364,86.68,-1.99,179.34,6.97
+2020-10-31,Bayern,Neustadt an der Aisch-Bad Windsheim,6.97,7,0,0.0,475,6,1.26,473.28,5.98,0.47,100364,88.67,-4.99,172.37,6.97
+2020-10-30,Bayern,Neustadt an der Aisch-Bad Windsheim,7.97,8,0,0.0,468,6,1.28,466.3,5.98,0.47,100364,93.66,-1.99,165.4,7.97
+2020-10-29,Bayern,Neustadt an der Aisch-Bad Windsheim,8.97,9,0,0.0,460,6,1.3,458.33,5.98,0.46,100364,95.65,2.99,157.43,5.98
+2020-10-28,Bayern,Neustadt an der Aisch-Bad Windsheim,18.93,19,0,0.0,451,6,1.33,449.36,5.98,0.45,100364,92.66,11.96,151.45,17.93
+2020-10-27,Bayern,Neustadt an der Aisch-Bad Windsheim,16.94,17,0,0.0,432,6,1.39,430.43,5.98,0.43,100364,80.7,8.97,133.52,16.94
+2020-10-26,Bayern,Neustadt an der Aisch-Bad Windsheim,18.93,19,0,0.0,415,6,1.45,413.49,5.98,0.41,100364,71.73,8.97,116.58,18.93
+2020-10-25,Bayern,Neustadt an der Aisch-Bad Windsheim,9.96,10,0,0.0,396,6,1.52,394.56,5.98,0.39,100364,62.76,6.97,97.65,8.96
 2020-10-24,Bayern,Neustadt an der Aisch-Bad Windsheim,11.96,12,0,0.0,386,6,1.55,384.6,5.98,0.38,100364,55.79,7.97,88.69,10.96
 2020-10-23,Bayern,Neustadt an der Aisch-Bad Windsheim,9.96,10,0,0.0,374,6,1.6,372.64,5.98,0.37,100364,47.82,3.98,77.73,7.97
 2020-10-22,Bayern,Neustadt an der Aisch-Bad Windsheim,5.98,6,0,0.0,364,6,1.65,362.68,5.98,0.36,100364,43.84,2.99,69.76,5.98

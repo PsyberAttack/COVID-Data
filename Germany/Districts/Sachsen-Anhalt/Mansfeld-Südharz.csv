@@ -1,8 +1,9 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-03,Sachsen-Anhalt,Mansfeld-Südharz,3.67,5,0,0.0,214,2,0.93,157.07,1.47,0.16,136249,22.03,-2.94,90.29,2.94
-2020-11-02,Sachsen-Anhalt,Mansfeld-Südharz,1.47,2,0,0.0,209,2,0.96,153.4,1.47,0.15,136249,24.97,-5.14,87.35,1.47
-2020-11-01,Sachsen-Anhalt,Mansfeld-Südharz,2.94,4,0,0.0,207,2,0.97,151.93,1.47,0.15,136249,30.11,-1.46,85.88,2.21
-2020-10-31,Sachsen-Anhalt,Mansfeld-Südharz,1.47,2,0,0.0,203,2,0.99,148.99,1.47,0.15,136249,31.57,-1.47,83.67,0.74
+2020-11-04,Sachsen-Anhalt,Mansfeld-Südharz,1.47,2,0,0.0,235,2,0.85,172.48,1.47,0.17,136249,30.83,-5.14,104.97,0.74
+2020-11-03,Sachsen-Anhalt,Mansfeld-Südharz,3.67,5,0,0.0,233,2,0.86,171.01,1.47,0.17,136249,35.97,-2.94,104.23,2.94
+2020-11-02,Sachsen-Anhalt,Mansfeld-Südharz,11.01,15,0,0.0,228,2,0.88,167.34,1.47,0.17,136249,38.91,4.4,101.29,11.01
+2020-11-01,Sachsen-Anhalt,Mansfeld-Südharz,5.87,8,0,0.0,213,2,0.94,156.33,1.47,0.16,136249,34.51,1.47,90.28,5.14
+2020-10-31,Sachsen-Anhalt,Mansfeld-Südharz,2.94,4,0,0.0,205,2,0.98,150.46,1.47,0.15,136249,33.04,0.0,85.14,2.21
 2020-10-30,Sachsen-Anhalt,Mansfeld-Südharz,3.67,5,0,0.0,201,2,1.0,147.52,1.47,0.15,136249,33.04,-5.87,82.93,3.67
 2020-10-29,Sachsen-Anhalt,Mansfeld-Südharz,2.2,3,0,0.0,196,2,1.02,143.85,1.47,0.14,136249,38.91,-2.2,79.26,2.2
 2020-10-28,Sachsen-Anhalt,Mansfeld-Südharz,6.61,9,0,0.0,193,2,1.04,141.65,1.47,0.14,136249,41.11,-0.73,77.06,6.61
