@@ -1,4 +1,6 @@
 date,country,region,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-04,Ecuador,Bolivar,0.0,0,0,0.0,3,1,33.33,1.43,0.48,0.0,209933,-1.43,-2.38,-2.37,-1.43
+2020-11-03,Ecuador,Bolivar,0.95,2,0,0.0,3,1,33.33,1.43,0.48,0.0,209933,0.95,3.33,-0.94,0.47
 2020-11-02,Ecuador,Bolivar,-2.86,-6,0,0.0,1,1,100.0,0.48,0.48,0.0,209933,-2.38,-0.95,-1.41,1.9
 2020-11-01,Ecuador,Bolivar,-3.33,-7,0,0.0,7,1,14.29,3.33,0.48,0.0,209933,-1.43,20.01,-3.31,-9.52
 2020-10-31,Ecuador,Bolivar,-3.33,-7,0,0.0,14,1,7.14,6.67,0.48,0.01,209933,-21.44,-3.33,6.21,1.91
