@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-06,Texas,Mills,142.25,7,0,0.0,94,2,2.13,1910.18,40.64,1.91,4921,6.58,304.81,121.93,589.29,121.93
 2020-11-05,Texas,Mills,60.96,3,0,0.0,87,2,2.3,1767.93,40.64,1.77,4921,6.58,182.88,20.32,467.36,20.32
 2020-11-04,Texas,Mills,81.28,4,1,20.32,84,2,2.38,1706.97,40.64,1.71,4921,6.58,162.56,101.6,447.04,60.96
 2020-11-03,Texas,Mills,20.32,1,0,0.0,80,1,1.25,1625.69,20.32,1.63,4921,6.58,60.96,0.0,386.08,20.32
