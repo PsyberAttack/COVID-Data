@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-07,Minnesota,Jackson,30.27,3,0,0.0,266,1,0.38,2683.89,10.09,2.68,9911,14.1,312.79,-60.54,988.82,20.18
 2020-11-06,Minnesota,Jackson,20.18,2,0,0.0,263,1,0.38,2653.62,10.09,2.65,9911,14.1,373.33,-30.27,968.64,0.0
 2020-11-05,Minnesota,Jackson,100.9,10,0,0.0,261,1,0.38,2633.44,10.09,2.63,9911,14.1,403.6,80.72,968.64,60.54
 2020-11-04,Minnesota,Jackson,30.27,3,0,0.0,251,1,0.4,2532.54,10.09,2.53,9911,14.1,322.88,10.09,908.1,20.18
