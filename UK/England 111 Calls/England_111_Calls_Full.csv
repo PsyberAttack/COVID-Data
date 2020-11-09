@@ -1,4 +1,406 @@
 CCG20CD,Call Date,Region,NHS Region,CCGName,Population,TriageCount,Rate
+E38000085,2020-11-08,North East and Yorkshire,Yorkshire and Humber,NHS Hull CCG,260645,45,17.26
+E38000121,2020-11-08,North East and Yorkshire,Yorkshire and Humber,NHS North Kirklees CCG,192750,31,16.08
+E38000183,2020-11-08,Midlands,North Midlands,NHS Telford and Wrekin CCG,177799,26,14.62
+E38000087,2020-11-08,South East,"Hampshire, Isle of Wight and Thames Valley",NHS Isle of Wight CCG,141538,19,13.42
+E38000097,2020-11-08,Midlands,Central Midlands,NHS Leicester City CCG,355218,46,12.95
+E38000229,2020-11-08,Midlands,North Midlands,NHS Derby and Derbyshire CCG,1019900,127,12.45
+E38000144,2020-11-08,Midlands,West Midlands,NHS Sandwell and West Birmingham CCG,504641,61,12.09
+E38000191,2020-11-08,Midlands,West Midlands,NHS Walsall CCG,283378,34,12.0
+E38000154,2020-11-08,South East,"Hampshire, Isle of Wight and Thames Valley",NHS South Eastern Hampshire CCG,216379,25,11.55
+E38000046,2020-11-08,Midlands,West Midlands,NHS Dudley CCG,320626,36,11.23
+E38000201,2020-11-08,Midlands,Central Midlands,NHS West Leicestershire CCG,402165,45,11.19
+E38000051,2020-11-08,Midlands,Central Midlands,NHS East Leicestershire and Rutland CCG,335800,37,11.02
+E38000242,2020-11-08,Midlands,Central Midlands,NHS Northamptonshire CCG,730650,80,10.95
+E38000232,2020-11-08,North East and Yorkshire,Yorkshire and Humber,NHS Bradford District and Craven CCG,587936,64,10.89
+E38000227,2020-11-08,North West,Lancashire and South Cumbria,NHS Greater Preston CCG,202562,21,10.37
+E38000190,2020-11-08,North East and Yorkshire,Yorkshire and Humber,NHS Wakefield CCG,345038,35,10.14
+E38000238,2020-11-08,Midlands,Central Midlands,NHS Lincolnshire CCG,810661,81,9.99
+E38000059,2020-11-08,South East,"Hampshire, Isle of Wight and Thames Valley",NHS Fareham and Gosport CCG,201622,20,9.92
+E38000141,2020-11-08,North East and Yorkshire,Yorkshire and Humber,NHS Rotherham CCG,264671,26,9.82
+E38000137,2020-11-08,South East,"Hampshire, Isle of Wight and Thames Valley",NHS Portsmouth CCG,215133,21,9.76
+E38000080,2020-11-08,North West,Greater Manchester,"NHS Heywood, Middleton and Rochdale CCG",220001,21,9.55
+E38000025,2020-11-08,North East and Yorkshire,Yorkshire and Humber,NHS Calderdale CCG,210082,20,9.52
+E38000147,2020-11-08,Midlands,North Midlands,NHS Shropshire CCG,320274,30,9.37
+E38000044,2020-11-08,North East and Yorkshire,Yorkshire and Humber,NHS Doncaster CCG,310542,29,9.34
+E38000221,2020-11-08,South East,"Hampshire, Isle of Wight and Thames Valley",NHS Berkshire West CCG,489709,44,8.98
+E38000222,2020-11-08,South West,South West North,"NHS Bristol, North Somerset and South Gloucestershire CCG",959968,86,8.96
+E38000136,2020-11-08,South East,"Hampshire, Isle of Wight and Thames Valley",NHS Oxfordshire CCG,672414,58,8.63
+E38000194,2020-11-08,North West,Cheshire and Merseyside,NHS Warrington CCG,209547,18,8.59
+E38000064,2020-11-08,North East and Yorkshire,Yorkshire and Humber,NHS Greater Huddersfield CCG,245977,21,8.54
+E38000224,2020-11-08,South East,"Hampshire, Isle of Wight and Thames Valley",NHS East Berkshire CCG,434463,36,8.29
+E38000239,2020-11-08,East of England,East,NHS Norfolk and Waveney CCG,1021991,83,8.12
+E38000198,2020-11-08,South East,"Hampshire, Isle of Wight and Thames Valley",NHS West Hampshire CCG,566879,45,7.94
+E38000167,2020-11-08,South East,"Hampshire, Isle of Wight and Thames Valley",NHS Southampton CCG,252796,20,7.91
+E38000015,2020-11-08,North West,Lancashire and South Cumbria,NHS Blackpool CCG,139305,11,7.9
+E38000126,2020-11-08,Midlands,North Midlands,NHS North Staffordshire CCG,219571,17,7.74
+E38000168,2020-11-08,East of England,East,NHS Southend CCG,182463,14,7.67
+E38000212,2020-11-08,North East and Yorkshire,Cumbria and North East,NHS Newcastle Gateshead CCG,502704,38,7.56
+E38000215,2020-11-08,North East and Yorkshire,Cumbria and North East,NHS North Cumbria CCG,318631,24,7.53
+E38000119,2020-11-08,North East and Yorkshire,Yorkshire and Humber,NHS North East Lincolnshire CCG,159821,12,7.51
+E38000247,2020-11-08,North East and Yorkshire,Cumbria and North East,NHS Tees Valley CCG,674284,50,7.42
+E38000014,2020-11-08,North West,Lancashire and South Cumbria,NHS Blackburn with Darwen CCG,148942,11,7.39
+E38000223,2020-11-08,South East,"Hampshire, Isle of Wight and Thames Valley",NHS Buckinghamshire CCG,542512,40,7.37
+E38000236,2020-11-08,Midlands,West Midlands,NHS Herefordshire and Worcestershire CCG,784164,57,7.27
+E38000195,2020-11-08,Midlands,West Midlands,NHS Warwickshire North CCG,193752,14,7.23
+E38000135,2020-11-08,North West,Greater Manchester,NHS Oldham CCG,235623,17,7.21
+E38000146,2020-11-08,North East and Yorkshire,Yorkshire and Humber,NHS Sheffield CCG,582506,42,7.21
+E38000026,2020-11-08,East of England,East,NHS Cambridgeshire and Peterborough CCG,889112,64,7.2
+E38000237,2020-11-08,South East,"Kent, Surrey and Sussex",NHS Kent and Medway CCG,1846478,133,7.2
+E38000217,2020-11-08,North West,Greater Manchester,NHS Manchester CCG,547627,39,7.12
+E38000225,2020-11-08,North East and Yorkshire,Yorkshire and Humber,NHS Leeds CCG,789194,55,6.97
+E38000186,2020-11-08,London,London,NHS Tower Hamlets CCG,317705,22,6.92
+E38000210,2020-11-08,Midlands,West Midlands,NHS Wolverhampton CCG,262008,18,6.87
+E38000220,2020-11-08,Midlands,West Midlands,NHS Birmingham and Solihull CCG,1179020,81,6.87
+E38000008,2020-11-08,North East and Yorkshire,Yorkshire and Humber,NHS Bassetlaw CCG,116839,8,6.85
+E38000176,2020-11-08,North East and Yorkshire,Cumbria and North East,NHS Sunderland CCG,277417,19,6.85
+E38000127,2020-11-08,North East and Yorkshire,Cumbria and North East,NHS North Tyneside CCG,205985,14,6.8
+E38000091,2020-11-08,North West,Cheshire and Merseyside,NHS Knowsley CCG,149571,10,6.69
+E38000234,2020-11-08,North East and Yorkshire,Cumbria and North East,NHS County Durham CCG,526980,35,6.64
+E38000077,2020-11-08,London,London,NHS Havering CCG,257810,17,6.59
+E38000138,2020-11-08,London,London,NHS Redbridge CCG,303858,20,6.58
+E38000028,2020-11-08,Midlands,North Midlands,NHS Cannock Chase CCG,136974,9,6.57
+E38000006,2020-11-08,North East and Yorkshire,Yorkshire and Humber,NHS Barnsley CCG,245199,16,6.53
+E38000204,2020-11-08,East of England,East,NHS West Suffolk CCG,230997,15,6.49
+E38000173,2020-11-08,Midlands,North Midlands,NHS Stafford and Surrounds CCG,155803,10,6.42
+E38000106,2020-11-08,East of England,East,NHS Mid Essex CCG,393065,25,6.36
+E38000243,2020-11-08,Midlands,North Midlands,NHS Nottingham and Nottinghamshire CCG,1037356,66,6.36
+E38000082,2020-11-08,London,London,NHS Hillingdon CCG,304824,19,6.23
+E38000021,2020-11-08,South East,"Kent, Surrey and Sussex",NHS Brighton and Hove CCG,290395,18,6.2
+E38000200,2020-11-08,North West,Lancashire and South Cumbria,NHS West Lancashire CCG,113949,7,6.14
+E38000007,2020-11-08,East of England,East,NHS Basildon and Brentwood CCG,262412,16,6.1
+E38000164,2020-11-08,Midlands,West Midlands,NHS South Warwickshire CCG,270064,16,5.92
+E38000038,2020-11-08,Midlands,West Midlands,NHS Coventry and Rugby CCG,473979,28,5.91
+E38000241,2020-11-08,North East and Yorkshire,Cumbria and North East,NHS North Yorkshire CCG,426821,25,5.86
+E38000233,2020-11-08,North West,Cheshire and Merseyside,NHS Cheshire CCG,721292,42,5.82
+E38000248,2020-11-08,South East,"Kent, Surrey and Sussex",NHS West Sussex CCG,858852,50,5.82
+E38000120,2020-11-08,South East,"Hampshire, Isle of Wight and Thames Valley",NHS North Hampshire CCG,223795,13,5.81
+E38000122,2020-11-08,North East and Yorkshire,Yorkshire and Humber,NHS North Lincolnshire CCG,172005,10,5.81
+E38000185,2020-11-08,East of England,East,NHS Thurrock CCG,172525,10,5.8
+E38000117,2020-11-08,East of England,East,NHS North East Essex CCG,338326,19,5.62
+E38000130,2020-11-08,North East and Yorkshire,Cumbria and North East,NHS Northumberland CCG,320274,18,5.62
+E38000016,2020-11-08,North West,Greater Manchester,NHS Bolton CCG,285372,16,5.61
+E38000048,2020-11-08,London,London,NHS Ealing CCG,341982,19,5.56
+E38000143,2020-11-08,North West,Greater Manchester,NHS Salford CCG,254408,14,5.5
+E38000182,2020-11-08,North West,Greater Manchester,NHS Tameside and Glossop CCG,258613,14,5.41
+E38000230,2020-11-08,South West,South West South,NHS Devon CCG,1194166,64,5.36
+E38000153,2020-11-08,Midlands,North Midlands,NHS South East Staffordshire and Seisdon Peninsula CCG,226137,12,5.31
+E38000175,2020-11-08,Midlands,North Midlands,NHS Stoke on Trent CCG,264149,14,5.3
+E38000235,2020-11-08,South East,"Kent, Surrey and Sussex",NHS East Sussex CCG,554590,29,5.23
+E38000226,2020-11-08,North West,Lancashire and South Cumbria,NHS Fylde and Wyre CCG,192421,10,5.2
+E38000170,2020-11-08,North West,Cheshire and Merseyside,NHS Southport and Formby CCG,116159,6,5.17
+E38000086,2020-11-08,East of England,East,NHS Ipswich and East Suffolk CCG,409248,21,5.13
+E38000101,2020-11-08,North West,Cheshire and Merseyside,NHS Liverpool CCG,494814,25,5.05
+E38000172,2020-11-08,North West,Cheshire and Merseyside,NHS St Helens CCG,180049,9,5.0
+E38000197,2020-11-08,East of England,East,NHS West Essex CCG,306910,15,4.89
+E38000228,2020-11-08,North West,Lancashire and South Cumbria,NHS Morecambe Bay CCG,330572,16,4.84
+E38000010,2020-11-08,East of England,East,NHS Bedfordshire CCG,455229,22,4.83
+E38000084,2020-11-08,London,London,NHS Hounslow CCG,270782,13,4.8
+E38000174,2020-11-08,North West,Greater Manchester,NHS Stockport CCG,291775,14,4.8
+E38000049,2020-11-08,East of England,East,NHS East and North Hertfordshire CCG,569078,27,4.74
+E38000050,2020-11-08,North West,Lancashire and South Cumbria,NHS East Lancashire CCG,380013,18,4.74
+E38000052,2020-11-08,North East and Yorkshire,Yorkshire and Humber,NHS East Riding of Yorkshire CCG,317404,15,4.73
+E38000107,2020-11-08,East of England,East,NHS Milton Keynes CCG,275002,13,4.73
+E38000068,2020-11-08,North West,Cheshire and Merseyside,NHS Halton CCG,128432,6,4.67
+E38000187,2020-11-08,North West,Greater Manchester,NHS Trafford CCG,236370,11,4.65
+E38000205,2020-11-08,North West,Greater Manchester,NHS Wigan Borough CCG,326088,15,4.6
+E38000113,2020-11-08,London,London,NHS Newham CCG,352005,16,4.55
+E38000034,2020-11-08,North West,Lancashire and South Cumbria,NHS Chorley and South Ribble CCG,176862,8,4.52
+E38000062,2020-11-08,South West,South West North,NHS Gloucestershire CCG,633558,28,4.42
+E38000074,2020-11-08,London,London,NHS Harrow CCG,250149,11,4.4
+E38000192,2020-11-08,London,London,NHS Waltham Forest CCG,276700,12,4.34
+E38000244,2020-11-08,London,London,NHS South East London CCG,1811249,78,4.31
+E38000150,2020-11-08,South West,South West South,NHS Somerset CCG,559399,24,4.29
+E38000004,2020-11-08,London,London,NHS Barking and Dagenham CCG,211998,9,4.25
+E38000030,2020-11-08,East of England,East,NHS Castle Point and Rochford CCG,177051,7,3.95
+E38000053,2020-11-08,Midlands,North Midlands,NHS East Staffordshire CCG,128418,5,3.89
+E38000070,2020-11-08,London,London,NHS Hammersmith and Fulham CCG,185426,7,3.78
+E38000161,2020-11-08,North West,Cheshire and Merseyside,NHS South Sefton CCG,159237,6,3.77
+E38000079,2020-11-08,East of England,East,NHS Herts Valleys CCG,595670,22,3.69
+E38000240,2020-11-08,London,London,NHS North Central London CCG,1498001,55,3.67
+E38000089,2020-11-08,South West,South West South,NHS Kernow CCG,568210,20,3.52
+E38000045,2020-11-08,South West,South West South,NHS Dorset CCG,772268,27,3.5
+E38000208,2020-11-08,North West,Cheshire and Merseyside,NHS Wirral CCG,323235,11,3.4
+E38000163,2020-11-08,North East and Yorkshire,Cumbria and North East,NHS South Tyneside CCG,150265,5,3.33
+E38000118,2020-11-08,South East,"Hampshire, Isle of Wight and Thames Valley",NHS North East Hampshire and Farnham CCG,211590,7,3.31
+E38000188,2020-11-08,North East and Yorkshire,Yorkshire and Humber,NHS Vale of York CCG,362955,12,3.31
+E38000246,2020-11-08,South East,"Kent, Surrey and Sussex",NHS Surrey Heartlands CCG,1036742,34,3.28
+E38000024,2020-11-08,North West,Greater Manchester,NHS Bury CCG,190108,6,3.16
+E38000035,2020-11-08,London,London,NHS City and Hackney CCG,288371,9,3.12
+E38000178,2020-11-08,South East,"Hampshire, Isle of Wight and Thames Valley",NHS Surrey Heath CCG,96474,3,3.11
+E38000245,2020-11-08,London,London,NHS South West London CCG,1494905,45,3.01
+E38000102,2020-11-08,East of England,East,NHS Luton CCG,214109,6,2.8
+E38000231,2020-11-08,South West,South West North,"NHS Bath and North East Somerset, Swindon and Wiltshire CCG",1188234,33,2.78
+E38000020,2020-11-08,London,London,NHS Brent CCG,330795,9,2.72
+E38000031,2020-11-08,London,London,NHS Central London (Westminster) CCG,185422,5,2.7
+E38000202,2020-11-08,London,London,NHS West London CCG,226099,6,2.65
+E38000008,2020-11-07,North East and Yorkshire,Yorkshire and Humber,NHS Bassetlaw CCG,116839,20,17.12
+E38000006,2020-11-07,North East and Yorkshire,Yorkshire and Humber,NHS Barnsley CCG,245199,41,16.72
+E38000135,2020-11-07,North West,Greater Manchester,NHS Oldham CCG,235623,38,16.13
+E38000121,2020-11-07,North East and Yorkshire,Yorkshire and Humber,NHS North Kirklees CCG,192750,28,14.53
+E38000044,2020-11-07,North East and Yorkshire,Yorkshire and Humber,NHS Doncaster CCG,310542,40,12.88
+E38000085,2020-11-07,North East and Yorkshire,Yorkshire and Humber,NHS Hull CCG,260645,32,12.28
+E38000137,2020-11-07,South East,"Hampshire, Isle of Wight and Thames Valley",NHS Portsmouth CCG,215133,26,12.09
+E38000190,2020-11-07,North East and Yorkshire,Yorkshire and Humber,NHS Wakefield CCG,345038,40,11.59
+E38000232,2020-11-07,North East and Yorkshire,Yorkshire and Humber,NHS Bradford District and Craven CCG,587936,64,10.89
+E38000229,2020-11-07,Midlands,North Midlands,NHS Derby and Derbyshire CCG,1019900,110,10.79
+E38000144,2020-11-07,Midlands,West Midlands,NHS Sandwell and West Birmingham CCG,504641,54,10.7
+E38000182,2020-11-07,North West,Greater Manchester,NHS Tameside and Glossop CCG,258613,27,10.44
+E38000052,2020-11-07,North East and Yorkshire,Yorkshire and Humber,NHS East Riding of Yorkshire CCG,317404,33,10.4
+E38000222,2020-11-07,South West,South West North,"NHS Bristol, North Somerset and South Gloucestershire CCG",959968,98,10.21
+E38000141,2020-11-07,North East and Yorkshire,Yorkshire and Humber,NHS Rotherham CCG,264671,27,10.2
+E38000064,2020-11-07,North East and Yorkshire,Yorkshire and Humber,NHS Greater Huddersfield CCG,245977,25,10.16
+E38000146,2020-11-07,North East and Yorkshire,Yorkshire and Humber,NHS Sheffield CCG,582506,59,10.13
+E38000097,2020-11-07,Midlands,Central Midlands,NHS Leicester City CCG,355218,35,9.85
+E38000185,2020-11-07,East of England,East,NHS Thurrock CCG,172525,17,9.85
+E38000127,2020-11-07,North East and Yorkshire,Cumbria and North East,NHS North Tyneside CCG,205985,20,9.71
+E38000238,2020-11-07,Midlands,Central Midlands,NHS Lincolnshire CCG,810661,76,9.38
+E38000015,2020-11-07,North West,Lancashire and South Cumbria,NHS Blackpool CCG,139305,13,9.33
+E38000163,2020-11-07,North East and Yorkshire,Cumbria and North East,NHS South Tyneside CCG,150265,14,9.32
+E38000168,2020-11-07,East of England,East,NHS Southend CCG,182463,17,9.32
+E38000210,2020-11-07,Midlands,West Midlands,NHS Wolverhampton CCG,262008,24,9.16
+E38000080,2020-11-07,North West,Greater Manchester,"NHS Heywood, Middleton and Rochdale CCG",220001,20,9.09
+E38000174,2020-11-07,North West,Greater Manchester,NHS Stockport CCG,291775,26,8.91
+E38000187,2020-11-07,North West,Greater Manchester,NHS Trafford CCG,236370,21,8.88
+E38000119,2020-11-07,North East and Yorkshire,Yorkshire and Humber,NHS North East Lincolnshire CCG,159821,14,8.76
+E38000234,2020-11-07,North East and Yorkshire,Cumbria and North East,NHS County Durham CCG,526980,46,8.73
+E38000225,2020-11-07,North East and Yorkshire,Yorkshire and Humber,NHS Leeds CCG,789194,68,8.62
+E38000170,2020-11-07,North West,Cheshire and Merseyside,NHS Southport and Formby CCG,116159,10,8.61
+E38000191,2020-11-07,Midlands,West Midlands,NHS Walsall CCG,283378,24,8.47
+E38000051,2020-11-07,Midlands,Central Midlands,NHS East Leicestershire and Rutland CCG,335800,28,8.34
+E38000201,2020-11-07,Midlands,Central Midlands,NHS West Leicestershire CCG,402165,33,8.21
+E38000247,2020-11-07,North East and Yorkshire,Cumbria and North East,NHS Tees Valley CCG,674284,55,8.16
+E38000239,2020-11-07,East of England,East,NHS Norfolk and Waveney CCG,1021991,83,8.12
+E38000007,2020-11-07,East of England,East,NHS Basildon and Brentwood CCG,262412,21,8.0
+E38000217,2020-11-07,North West,Greater Manchester,NHS Manchester CCG,547627,43,7.85
+E38000087,2020-11-07,South East,"Hampshire, Isle of Wight and Thames Valley",NHS Isle of Wight CCG,141538,11,7.77
+E38000136,2020-11-07,South East,"Hampshire, Isle of Wight and Thames Valley",NHS Oxfordshire CCG,672414,51,7.58
+E38000176,2020-11-07,North East and Yorkshire,Cumbria and North East,NHS Sunderland CCG,277417,21,7.57
+E38000223,2020-11-07,South East,"Hampshire, Isle of Wight and Thames Valley",NHS Buckinghamshire CCG,542512,40,7.37
+E38000224,2020-11-07,South East,"Hampshire, Isle of Wight and Thames Valley",NHS East Berkshire CCG,434463,32,7.37
+E38000021,2020-11-07,South East,"Kent, Surrey and Sussex",NHS Brighton and Hove CCG,290395,21,7.23
+E38000025,2020-11-07,North East and Yorkshire,Yorkshire and Humber,NHS Calderdale CCG,210082,15,7.14
+E38000236,2020-11-07,Midlands,West Midlands,NHS Herefordshire and Worcestershire CCG,784164,56,7.14
+E38000220,2020-11-07,Midlands,West Midlands,NHS Birmingham and Solihull CCG,1179020,84,7.12
+E38000242,2020-11-07,Midlands,Central Midlands,NHS Northamptonshire CCG,730650,52,7.12
+E38000164,2020-11-07,Midlands,West Midlands,NHS South Warwickshire CCG,270064,19,7.04
+E38000237,2020-11-07,South East,"Kent, Surrey and Sussex",NHS Kent and Medway CCG,1846478,130,7.04
+E38000102,2020-11-07,East of England,East,NHS Luton CCG,214109,15,7.01
+E38000122,2020-11-07,North East and Yorkshire,Yorkshire and Humber,NHS North Lincolnshire CCG,172005,12,6.98
+E38000243,2020-11-07,Midlands,North Midlands,NHS Nottingham and Nottinghamshire CCG,1037356,72,6.94
+E38000186,2020-11-07,London,London,NHS Tower Hamlets CCG,317705,22,6.92
+E38000107,2020-11-07,East of England,East,NHS Milton Keynes CCG,275002,19,6.91
+E38000226,2020-11-07,North West,Lancashire and South Cumbria,NHS Fylde and Wyre CCG,192421,13,6.76
+E38000183,2020-11-07,Midlands,North Midlands,NHS Telford and Wrekin CCG,177799,12,6.75
+E38000198,2020-11-07,South East,"Hampshire, Isle of Wight and Thames Valley",NHS West Hampshire CCG,566879,38,6.7
+E38000150,2020-11-07,South West,South West South,NHS Somerset CCG,559399,37,6.61
+E38000138,2020-11-07,London,London,NHS Redbridge CCG,303858,20,6.58
+E38000212,2020-11-07,North East and Yorkshire,Cumbria and North East,NHS Newcastle Gateshead CCG,502704,33,6.56
+E38000038,2020-11-07,Midlands,West Midlands,NHS Coventry and Rugby CCG,473979,31,6.54
+E38000062,2020-11-07,South West,South West North,NHS Gloucestershire CCG,633558,41,6.47
+E38000154,2020-11-07,South East,"Hampshire, Isle of Wight and Thames Valley",NHS South Eastern Hampshire CCG,216379,14,6.47
+E38000059,2020-11-07,South East,"Hampshire, Isle of Wight and Thames Valley",NHS Fareham and Gosport CCG,201622,13,6.45
+E38000046,2020-11-07,Midlands,West Midlands,NHS Dudley CCG,320626,20,6.24
+E38000194,2020-11-07,North West,Cheshire and Merseyside,NHS Warrington CCG,209547,13,6.2
+E38000200,2020-11-07,North West,Lancashire and South Cumbria,NHS West Lancashire CCG,113949,7,6.14
+E38000050,2020-11-07,North West,Lancashire and South Cumbria,NHS East Lancashire CCG,380013,23,6.05
+E38000026,2020-11-07,East of England,East,NHS Cambridgeshire and Peterborough CCG,889112,53,5.96
+E38000248,2020-11-07,South East,"Kent, Surrey and Sussex",NHS West Sussex CCG,858852,51,5.94
+E38000130,2020-11-07,North East and Yorkshire,Cumbria and North East,NHS Northumberland CCG,320274,19,5.93
+E38000246,2020-11-07,South East,"Kent, Surrey and Sussex",NHS Surrey Heartlands CCG,1036742,61,5.88
+E38000024,2020-11-07,North West,Greater Manchester,NHS Bury CCG,190108,11,5.79
+E38000192,2020-11-07,London,London,NHS Waltham Forest CCG,276700,16,5.78
+E38000235,2020-11-07,South East,"Kent, Surrey and Sussex",NHS East Sussex CCG,554590,32,5.77
+E38000034,2020-11-07,North West,Lancashire and South Cumbria,NHS Chorley and South Ribble CCG,176862,10,5.65
+E38000204,2020-11-07,East of England,East,NHS West Suffolk CCG,230997,13,5.63
+E38000117,2020-11-07,East of England,East,NHS North East Essex CCG,338326,19,5.62
+E38000147,2020-11-07,Midlands,North Midlands,NHS Shropshire CCG,320274,18,5.62
+E38000016,2020-11-07,North West,Greater Manchester,NHS Bolton CCG,285372,16,5.61
+E38000208,2020-11-07,North West,Cheshire and Merseyside,NHS Wirral CCG,323235,18,5.57
+E38000010,2020-11-07,East of England,East,NHS Bedfordshire CCG,455229,25,5.49
+E38000227,2020-11-07,North West,Lancashire and South Cumbria,NHS Greater Preston CCG,202562,11,5.43
+E38000014,2020-11-07,North West,Lancashire and South Cumbria,NHS Blackburn with Darwen CCG,148942,8,5.37
+E38000221,2020-11-07,South East,"Hampshire, Isle of Wight and Thames Valley",NHS Berkshire West CCG,489709,26,5.31
+E38000175,2020-11-07,Midlands,North Midlands,NHS Stoke on Trent CCG,264149,14,5.3
+E38000082,2020-11-07,London,London,NHS Hillingdon CCG,304824,16,5.25
+E38000101,2020-11-07,North West,Cheshire and Merseyside,NHS Liverpool CCG,494814,26,5.25
+E38000188,2020-11-07,North East and Yorkshire,Yorkshire and Humber,NHS Vale of York CCG,362955,19,5.23
+E38000205,2020-11-07,North West,Greater Manchester,NHS Wigan Borough CCG,326088,17,5.21
+E38000228,2020-11-07,North West,Lancashire and South Cumbria,NHS Morecambe Bay CCG,330572,17,5.14
+E38000079,2020-11-07,East of England,East,NHS Herts Valleys CCG,595670,30,5.04
+E38000126,2020-11-07,Midlands,North Midlands,NHS North Staffordshire CCG,219571,11,5.01
+E38000120,2020-11-07,South East,"Hampshire, Isle of Wight and Thames Valley",NHS North Hampshire CCG,223795,11,4.92
+E38000084,2020-11-07,London,London,NHS Hounslow CCG,270782,13,4.8
+E38000004,2020-11-07,London,London,NHS Barking and Dagenham CCG,211998,10,4.72
+E38000143,2020-11-07,North West,Greater Manchester,NHS Salford CCG,254408,12,4.72
+E38000241,2020-11-07,North East and Yorkshire,Cumbria and North East,NHS North Yorkshire CCG,426821,20,4.69
+E38000077,2020-11-07,London,London,NHS Havering CCG,257810,12,4.65
+E38000195,2020-11-07,Midlands,West Midlands,NHS Warwickshire North CCG,193752,9,4.65
+E38000086,2020-11-07,East of England,East,NHS Ipswich and East Suffolk CCG,409248,19,4.64
+E38000049,2020-11-07,East of England,East,NHS East and North Hertfordshire CCG,569078,26,4.57
+E38000020,2020-11-07,London,London,NHS Brent CCG,330795,15,4.53
+E38000172,2020-11-07,North West,Cheshire and Merseyside,NHS St Helens CCG,180049,8,4.44
+E38000028,2020-11-07,Midlands,North Midlands,NHS Cannock Chase CCG,136974,6,4.38
+E38000167,2020-11-07,South East,"Hampshire, Isle of Wight and Thames Valley",NHS Southampton CCG,252796,11,4.35
+E38000070,2020-11-07,London,London,NHS Hammersmith and Fulham CCG,185426,8,4.31
+E38000233,2020-11-07,North West,Cheshire and Merseyside,NHS Cheshire CCG,721292,31,4.3
+E38000197,2020-11-07,East of England,East,NHS West Essex CCG,306910,13,4.24
+E38000048,2020-11-07,London,London,NHS Ealing CCG,341982,14,4.09
+E38000244,2020-11-07,London,London,NHS South East London CCG,1811249,73,4.03
+E38000091,2020-11-07,North West,Cheshire and Merseyside,NHS Knowsley CCG,149571,6,4.01
+E38000113,2020-11-07,London,London,NHS Newham CCG,352005,14,3.98
+E38000030,2020-11-07,East of England,East,NHS Castle Point and Rochford CCG,177051,7,3.95
+E38000053,2020-11-07,Midlands,North Midlands,NHS East Staffordshire CCG,128418,5,3.89
+E38000068,2020-11-07,North West,Cheshire and Merseyside,NHS Halton CCG,128432,5,3.89
+E38000089,2020-11-07,South West,South West South,NHS Kernow CCG,568210,22,3.87
+E38000173,2020-11-07,Midlands,North Midlands,NHS Stafford and Surrounds CCG,155803,6,3.85
+E38000240,2020-11-07,London,London,NHS North Central London CCG,1498001,53,3.54
+E38000230,2020-11-07,South West,South West South,NHS Devon CCG,1194166,42,3.52
+E38000215,2020-11-07,North East and Yorkshire,Cumbria and North East,NHS North Cumbria CCG,318631,11,3.45
+E38000074,2020-11-07,London,London,NHS Harrow CCG,250149,8,3.2
+E38000035,2020-11-07,London,London,NHS City and Hackney CCG,288371,9,3.12
+E38000153,2020-11-07,Midlands,North Midlands,NHS South East Staffordshire and Seisdon Peninsula CCG,226137,7,3.1
+E38000031,2020-11-07,London,London,NHS Central London (Westminster) CCG,185422,5,2.7
+E38000245,2020-11-07,London,London,NHS South West London CCG,1494905,40,2.68
+E38000045,2020-11-07,South West,South West South,NHS Dorset CCG,772268,20,2.59
+E38000106,2020-11-07,East of England,East,NHS Mid Essex CCG,393065,10,2.54
+E38000118,2020-11-07,South East,"Hampshire, Isle of Wight and Thames Valley",NHS North East Hampshire and Farnham CCG,211590,5,2.36
+E38000231,2020-11-07,South West,South West North,"NHS Bath and North East Somerset, Swindon and Wiltshire CCG",1188234,27,2.27
+E38000202,2020-11-07,London,London,NHS West London CCG,226099,5,2.21
+E38000178,2020-11-07,South East,"Hampshire, Isle of Wight and Thames Valley",NHS Surrey Heath CCG,96474,2,2.07
+E38000161,2020-11-07,North West,Cheshire and Merseyside,NHS South Sefton CCG,159237,1,0.63
+E38000085,2020-11-06,North East and Yorkshire,Yorkshire and Humber,NHS Hull CCG,260645,53,20.33
+E38000006,2020-11-06,North East and Yorkshire,Yorkshire and Humber,NHS Barnsley CCG,245199,39,15.91
+E38000044,2020-11-06,North East and Yorkshire,Yorkshire and Humber,NHS Doncaster CCG,310542,49,15.78
+E38000008,2020-11-06,North East and Yorkshire,Yorkshire and Humber,NHS Bassetlaw CCG,116839,18,15.41
+E38000141,2020-11-06,North East and Yorkshire,Yorkshire and Humber,NHS Rotherham CCG,264671,34,12.85
+E38000119,2020-11-06,North East and Yorkshire,Yorkshire and Humber,NHS North East Lincolnshire CCG,159821,20,12.51
+E38000097,2020-11-06,Midlands,Central Midlands,NHS Leicester City CCG,355218,44,12.39
+E38000183,2020-11-06,Midlands,North Midlands,NHS Telford and Wrekin CCG,177799,22,12.37
+E38000135,2020-11-06,North West,Greater Manchester,NHS Oldham CCG,235623,29,12.31
+E38000064,2020-11-06,North East and Yorkshire,Yorkshire and Humber,NHS Greater Huddersfield CCG,245977,29,11.79
+E38000121,2020-11-06,North East and Yorkshire,Yorkshire and Humber,NHS North Kirklees CCG,192750,22,11.41
+E38000051,2020-11-06,Midlands,Central Midlands,NHS East Leicestershire and Rutland CCG,335800,37,11.02
+E38000232,2020-11-06,North East and Yorkshire,Yorkshire and Humber,NHS Bradford District and Craven CCG,587936,64,10.89
+E38000227,2020-11-06,North West,Lancashire and South Cumbria,NHS Greater Preston CCG,202562,22,10.86
+E38000087,2020-11-06,South East,"Hampshire, Isle of Wight and Thames Valley",NHS Isle of Wight CCG,141538,15,10.6
+E38000146,2020-11-06,North East and Yorkshire,Yorkshire and Humber,NHS Sheffield CCG,582506,58,9.96
+E38000077,2020-11-06,London,London,NHS Havering CCG,257810,25,9.7
+E38000229,2020-11-06,Midlands,North Midlands,NHS Derby and Derbyshire CCG,1019900,98,9.61
+E38000222,2020-11-06,South West,South West North,"NHS Bristol, North Somerset and South Gloucestershire CCG",959968,92,9.58
+E38000016,2020-11-06,North West,Greater Manchester,NHS Bolton CCG,285372,27,9.46
+E38000137,2020-11-06,South East,"Hampshire, Isle of Wight and Thames Valley",NHS Portsmouth CCG,215133,20,9.3
+E38000225,2020-11-06,North East and Yorkshire,Yorkshire and Humber,NHS Leeds CCG,789194,73,9.25
+E38000205,2020-11-06,North West,Greater Manchester,NHS Wigan Borough CCG,326088,30,9.2
+E38000107,2020-11-06,East of England,East,NHS Milton Keynes CCG,275002,25,9.09
+E38000024,2020-11-06,North West,Greater Manchester,NHS Bury CCG,190108,17,8.94
+E38000241,2020-11-06,North East and Yorkshire,Cumbria and North East,NHS North Yorkshire CCG,426821,38,8.9
+E38000038,2020-11-06,Midlands,West Midlands,NHS Coventry and Rugby CCG,473979,42,8.86
+E38000052,2020-11-06,North East and Yorkshire,Yorkshire and Humber,NHS East Riding of Yorkshire CCG,317404,28,8.82
+E38000122,2020-11-06,North East and Yorkshire,Yorkshire and Humber,NHS North Lincolnshire CCG,172005,15,8.72
+E38000144,2020-11-06,Midlands,West Midlands,NHS Sandwell and West Birmingham CCG,504641,44,8.72
+E38000243,2020-11-06,Midlands,North Midlands,NHS Nottingham and Nottinghamshire CCG,1037356,90,8.68
+E38000182,2020-11-06,North West,Greater Manchester,NHS Tameside and Glossop CCG,258613,22,8.51
+E38000190,2020-11-06,North East and Yorkshire,Yorkshire and Humber,NHS Wakefield CCG,345038,29,8.4
+E38000217,2020-11-06,North West,Greater Manchester,NHS Manchester CCG,547627,45,8.22
+E38000091,2020-11-06,North West,Cheshire and Merseyside,NHS Knowsley CCG,149571,12,8.02
+E38000176,2020-11-06,North East and Yorkshire,Cumbria and North East,NHS Sunderland CCG,277417,22,7.93
+E38000068,2020-11-06,North West,Cheshire and Merseyside,NHS Halton CCG,128432,10,7.79
+E38000201,2020-11-06,Midlands,Central Midlands,NHS West Leicestershire CCG,402165,31,7.71
+E38000242,2020-11-06,Midlands,Central Midlands,NHS Northamptonshire CCG,730650,56,7.66
+E38000212,2020-11-06,North East and Yorkshire,Cumbria and North East,NHS Newcastle Gateshead CCG,502704,38,7.56
+E38000191,2020-11-06,Midlands,West Midlands,NHS Walsall CCG,283378,21,7.41
+E38000238,2020-11-06,Midlands,Central Midlands,NHS Lincolnshire CCG,810661,60,7.4
+E38000188,2020-11-06,North East and Yorkshire,Yorkshire and Humber,NHS Vale of York CCG,362955,26,7.16
+E38000025,2020-11-06,North East and Yorkshire,Yorkshire and Humber,NHS Calderdale CCG,210082,15,7.14
+E38000247,2020-11-06,North East and Yorkshire,Cumbria and North East,NHS Tees Valley CCG,674284,48,7.12
+E38000101,2020-11-06,North West,Cheshire and Merseyside,NHS Liverpool CCG,494814,35,7.07
+E38000185,2020-11-06,East of England,East,NHS Thurrock CCG,172525,12,6.96
+E38000046,2020-11-06,Midlands,West Midlands,NHS Dudley CCG,320626,22,6.86
+E38000080,2020-11-06,North West,Greater Manchester,"NHS Heywood, Middleton and Rochdale CCG",220001,15,6.82
+E38000143,2020-11-06,North West,Greater Manchester,NHS Salford CCG,254408,17,6.68
+E38000164,2020-11-06,Midlands,West Midlands,NHS South Warwickshire CCG,270064,18,6.67
+E38000220,2020-11-06,Midlands,West Midlands,NHS Birmingham and Solihull CCG,1179020,78,6.62
+E38000028,2020-11-06,Midlands,North Midlands,NHS Cannock Chase CCG,136974,9,6.57
+E38000102,2020-11-06,East of England,East,NHS Luton CCG,214109,14,6.54
+E38000136,2020-11-06,South East,"Hampshire, Isle of Wight and Thames Valley",NHS Oxfordshire CCG,672414,44,6.54
+E38000215,2020-11-06,North East and Yorkshire,Cumbria and North East,NHS North Cumbria CCG,318631,20,6.28
+E38000226,2020-11-06,North West,Lancashire and South Cumbria,NHS Fylde and Wyre CCG,192421,12,6.24
+E38000194,2020-11-06,North West,Cheshire and Merseyside,NHS Warrington CCG,209547,13,6.2
+E38000004,2020-11-06,London,London,NHS Barking and Dagenham CCG,211998,13,6.13
+E38000050,2020-11-06,North West,Lancashire and South Cumbria,NHS East Lancashire CCG,380013,23,6.05
+E38000010,2020-11-06,East of England,East,NHS Bedfordshire CCG,455229,27,5.93
+E38000167,2020-11-06,South East,"Hampshire, Isle of Wight and Thames Valley",NHS Southampton CCG,252796,15,5.93
+E38000117,2020-11-06,East of England,East,NHS North East Essex CCG,338326,20,5.91
+E38000237,2020-11-06,South East,"Kent, Surrey and Sussex",NHS Kent and Medway CCG,1846478,108,5.85
+E38000248,2020-11-06,South East,"Kent, Surrey and Sussex",NHS West Sussex CCG,858852,49,5.71
+E38000113,2020-11-06,London,London,NHS Newham CCG,352005,20,5.68
+E38000195,2020-11-06,Midlands,West Midlands,NHS Warwickshire North CCG,193752,11,5.68
+E38000030,2020-11-06,East of England,East,NHS Castle Point and Rochford CCG,177051,10,5.65
+E38000034,2020-11-06,North West,Lancashire and South Cumbria,NHS Chorley and South Ribble CCG,176862,10,5.65
+E38000062,2020-11-06,South West,South West North,NHS Gloucestershire CCG,633558,35,5.52
+E38000168,2020-11-06,East of England,East,NHS Southend CCG,182463,10,5.48
+E38000174,2020-11-06,North West,Greater Manchester,NHS Stockport CCG,291775,16,5.48
+E38000230,2020-11-06,South West,South West South,NHS Devon CCG,1194166,65,5.44
+E38000026,2020-11-06,East of England,East,NHS Cambridgeshire and Peterborough CCG,889112,48,5.4
+E38000014,2020-11-06,North West,Lancashire and South Cumbria,NHS Blackburn with Darwen CCG,148942,8,5.37
+E38000163,2020-11-06,North East and Yorkshire,Cumbria and North East,NHS South Tyneside CCG,150265,8,5.32
+E38000224,2020-11-06,South East,"Hampshire, Isle of Wight and Thames Valley",NHS East Berkshire CCG,434463,23,5.29
+E38000239,2020-11-06,East of England,East,NHS Norfolk and Waveney CCG,1021991,54,5.28
+E38000021,2020-11-06,South East,"Kent, Surrey and Sussex",NHS Brighton and Hove CCG,290395,15,5.17
+E38000172,2020-11-06,North West,Cheshire and Merseyside,NHS St Helens CCG,180049,9,5.0
+E38000059,2020-11-06,South East,"Hampshire, Isle of Wight and Thames Valley",NHS Fareham and Gosport CCG,201622,10,4.96
+E38000228,2020-11-06,North West,Lancashire and South Cumbria,NHS Morecambe Bay CCG,330572,16,4.84
+E38000084,2020-11-06,London,London,NHS Hounslow CCG,270782,13,4.8
+E38000130,2020-11-06,North East and Yorkshire,Cumbria and North East,NHS Northumberland CCG,320274,15,4.68
+E38000154,2020-11-06,South East,"Hampshire, Isle of Wight and Thames Valley",NHS South Eastern Hampshire CCG,216379,10,4.62
+E38000082,2020-11-06,London,London,NHS Hillingdon CCG,304824,14,4.59
+E38000236,2020-11-06,Midlands,West Midlands,NHS Herefordshire and Worcestershire CCG,784164,36,4.59
+E38000210,2020-11-06,Midlands,West Midlands,NHS Wolverhampton CCG,262008,12,4.58
+E38000235,2020-11-06,South East,"Kent, Surrey and Sussex",NHS East Sussex CCG,554590,25,4.51
+E38000221,2020-11-06,South East,"Hampshire, Isle of Wight and Thames Valley",NHS Berkshire West CCG,489709,22,4.49
+E38000120,2020-11-06,South East,"Hampshire, Isle of Wight and Thames Valley",NHS North Hampshire CCG,223795,10,4.47
+E38000150,2020-11-06,South West,South West South,NHS Somerset CCG,559399,25,4.47
+E38000186,2020-11-06,London,London,NHS Tower Hamlets CCG,317705,14,4.41
+E38000161,2020-11-06,North West,Cheshire and Merseyside,NHS South Sefton CCG,159237,7,4.4
+E38000192,2020-11-06,London,London,NHS Waltham Forest CCG,276700,12,4.34
+E38000208,2020-11-06,North West,Cheshire and Merseyside,NHS Wirral CCG,323235,14,4.33
+E38000170,2020-11-06,North West,Cheshire and Merseyside,NHS Southport and Formby CCG,116159,5,4.3
+E38000197,2020-11-06,East of England,East,NHS West Essex CCG,306910,13,4.24
+E38000244,2020-11-06,London,London,NHS South East London CCG,1811249,76,4.2
+E38000246,2020-11-06,South East,"Kent, Surrey and Sussex",NHS Surrey Heartlands CCG,1036742,43,4.15
+E38000048,2020-11-06,London,London,NHS Ealing CCG,341982,14,4.09
+E38000106,2020-11-06,East of England,East,NHS Mid Essex CCG,393065,16,4.07
+E38000223,2020-11-06,South East,"Hampshire, Isle of Wight and Thames Valley",NHS Buckinghamshire CCG,542512,22,4.06
+E38000079,2020-11-06,East of England,East,NHS Herts Valleys CCG,595670,24,4.03
+E38000233,2020-11-06,North West,Cheshire and Merseyside,NHS Cheshire CCG,721292,29,4.02
+E38000240,2020-11-06,London,London,NHS North Central London CCG,1498001,60,4.01
+E38000153,2020-11-06,Midlands,North Midlands,NHS South East Staffordshire and Seisdon Peninsula CCG,226137,9,3.98
+E38000202,2020-11-06,London,London,NHS West London CCG,226099,9,3.98
+E38000020,2020-11-06,London,London,NHS Brent CCG,330795,13,3.93
+E38000198,2020-11-06,South East,"Hampshire, Isle of Wight and Thames Valley",NHS West Hampshire CCG,566879,22,3.88
+E38000007,2020-11-06,East of England,East,NHS Basildon and Brentwood CCG,262412,10,3.81
+E38000187,2020-11-06,North West,Greater Manchester,NHS Trafford CCG,236370,9,3.81
+E38000245,2020-11-06,London,London,NHS South West London CCG,1494905,57,3.81
+E38000175,2020-11-06,Midlands,North Midlands,NHS Stoke on Trent CCG,264149,10,3.79
+E38000118,2020-11-06,South East,"Hampshire, Isle of Wight and Thames Valley",NHS North East Hampshire and Farnham CCG,211590,8,3.78
+E38000045,2020-11-06,South West,South West South,NHS Dorset CCG,772268,29,3.76
+E38000074,2020-11-06,London,London,NHS Harrow CCG,250149,9,3.6
+E38000015,2020-11-06,North West,Lancashire and South Cumbria,NHS Blackpool CCG,139305,5,3.59
+E38000200,2020-11-06,North West,Lancashire and South Cumbria,NHS West Lancashire CCG,113949,4,3.51
+E38000049,2020-11-06,East of England,East,NHS East and North Hertfordshire CCG,569078,19,3.34
+E38000138,2020-11-06,London,London,NHS Redbridge CCG,303858,10,3.29
+E38000031,2020-11-06,London,London,NHS Central London (Westminster) CCG,185422,6,3.24
+E38000126,2020-11-06,Midlands,North Midlands,NHS North Staffordshire CCG,219571,7,3.19
+E38000035,2020-11-06,London,London,NHS City and Hackney CCG,288371,9,3.12
+E38000147,2020-11-06,Midlands,North Midlands,NHS Shropshire CCG,320274,10,3.12
+E38000086,2020-11-06,East of England,East,NHS Ipswich and East Suffolk CCG,409248,11,2.69
+E38000234,2020-11-06,North East and Yorkshire,Cumbria and North East,NHS County Durham CCG,526980,14,2.66
+E38000204,2020-11-06,East of England,East,NHS West Suffolk CCG,230997,6,2.6
+E38000089,2020-11-06,South West,South West South,NHS Kernow CCG,568210,13,2.29
+E38000173,2020-11-06,Midlands,North Midlands,NHS Stafford and Surrounds CCG,155803,3,1.93
+E38000231,2020-11-06,South West,South West North,"NHS Bath and North East Somerset, Swindon and Wiltshire CCG",1188234,22,1.85
+E38000127,2020-11-06,North East and Yorkshire,Cumbria and North East,NHS North Tyneside CCG,205985,3,1.46
 E38000008,2020-11-05,North East and Yorkshire,Yorkshire and Humber,NHS Bassetlaw CCG,116839,23,19.69
 E38000085,2020-11-05,North East and Yorkshire,Yorkshire and Humber,NHS Hull CCG,260645,46,17.65
 E38000190,2020-11-05,North East and Yorkshire,Yorkshire and Humber,NHS Wakefield CCG,345038,55,15.94
