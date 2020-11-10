@@ -1,4 +1,6 @@
 date,country,region,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-08,Mexico,San Luis Potosi,9.38,255,11,0.4,30358,2165,7.13,1117.0,79.66,1.12,2717820,54.59,5.22,208.8,4.89
+2020-11-07,Mexico,San Luis Potosi,9.42,256,14,0.52,30103,2154,7.16,1107.62,79.25,1.11,2717820,49.37,4.12,203.91,-0.04
 2020-11-06,Mexico,San Luis Potosi,6.62,180,5,0.18,29847,2140,7.17,1098.2,78.74,1.1,2717820,45.25,-0.41,203.95,1.4
 2020-11-05,Mexico,San Luis Potosi,4.56,124,7,0.26,29667,2135,7.2,1091.57,78.56,1.09,2717820,45.66,-0.7,202.55,-0.08
 2020-11-04,Mexico,San Luis Potosi,8.72,237,24,0.88,29543,2128,7.2,1087.01,78.3,1.09,2717820,46.36,0.26,202.63,3.16

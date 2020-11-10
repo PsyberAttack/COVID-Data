@@ -1,5 +1,7 @@
 date,country,region,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-07,Ecuador,Chimborazo,0.0,0,0,0.0,8,2,25.0,1.53,0.38,0.0,524004,-1.15,-0.76,1.14,6.68
+2020-11-09,Ecuador,Chimborazo,-10.31,-54,0,0.0,3,2,66.67,0.57,0.38,0.0,524004,-1.16,-3.44,-0.58,-11.26
+2020-11-08,Ecuador,Chimborazo,4.96,26,0,0.0,57,2,3.51,10.88,0.38,0.01,524004,2.28,-0.96,10.68,5.15
+2020-11-07,Ecuador,Chimborazo,4.39,23,0,0.0,31,2,6.45,5.92,0.38,0.01,524004,3.24,3.63,5.53,11.07
 2020-11-06,Ecuador,Chimborazo,0.0,0,0,0.0,8,2,25.0,1.53,0.38,0.0,524004,-0.39,-0.57,-5.54,-2.86
 2020-11-05,Ecuador,Chimborazo,0.76,4,0,0.0,8,2,25.0,1.53,0.38,0.0,524004,0.18,3.62,-2.68,-3.25
 2020-11-04,Ecuador,Chimborazo,-1.15,-6,0,0.0,4,2,50.0,0.76,0.38,0.0,524004,-3.44,-2.87,0.57,-0.58
