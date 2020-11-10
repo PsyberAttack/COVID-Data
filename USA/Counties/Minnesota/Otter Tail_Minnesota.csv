@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-09,Minnesota,Otter Tail,78.22,46,0,0.0,1348,9,0.67,2292.05,15.3,2.29,58812,29.83,493.09,32.31,1268.44,40.81
+2020-11-08,Minnesota,Otter Tail,115.62,68,1,1.7,1302,9,0.69,2213.83,15.3,2.21,58812,29.83,460.78,86.71,1227.63,105.42
 2020-11-07,Minnesota,Otter Tail,54.41,32,0,0.0,1234,8,0.65,2098.21,13.6,2.1,58812,29.83,374.07,-3.4,1122.21,35.71
 2020-11-06,Minnesota,Otter Tail,62.91,37,0,0.0,1202,8,0.67,2043.8,13.6,2.04,58812,29.83,377.47,11.9,1086.5,37.41
 2020-11-05,Minnesota,Otter Tail,74.81,44,0,0.0,1165,8,0.69,1980.89,13.6,1.98,58812,29.83,365.57,25.5,1049.09,62.91

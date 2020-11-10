@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-09,Virginia,Orange,8.19,3,0,0.0,467,5,1.07,1274.42,13.64,1.27,36644,107.43,100.97,0.0,302.93,-2.73
+2020-11-08,Virginia,Orange,19.1,7,0,0.0,464,5,1.08,1266.24,13.64,1.27,36644,107.43,100.97,2.73,305.66,13.64
 2020-11-07,Virginia,Orange,16.37,6,0,0.0,457,5,1.09,1247.13,13.64,1.25,36644,107.43,98.24,10.91,292.02,10.91
 2020-11-06,Virginia,Orange,13.64,5,0,0.0,451,5,1.11,1230.76,13.64,1.23,36644,107.43,87.33,-5.46,281.11,16.37
 2020-11-05,Virginia,Orange,8.19,3,0,0.0,446,5,1.12,1217.12,13.64,1.22,36644,107.43,92.79,-8.18,264.74,0.0

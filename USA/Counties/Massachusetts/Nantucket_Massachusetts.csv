@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-09,Massachusetts,Nantucket,0.0,0,0,0.0,202,2,0.99,1783.35,17.66,1.78,11327,245.52,264.86,0.0,626.84,0.0
+2020-11-08,Massachusetts,Nantucket,70.63,8,0,0.0,202,2,0.99,1783.35,17.66,1.78,11327,245.52,264.86,44.14,626.84,52.97
 2020-11-07,Massachusetts,Nantucket,26.49,3,0,0.0,194,2,1.03,1712.72,17.66,1.71,11327,245.52,220.72,17.66,573.87,26.49
 2020-11-06,Massachusetts,Nantucket,44.14,5,1,8.83,191,2,1.05,1686.24,17.66,1.69,11327,245.52,203.06,8.83,547.38,17.65
 2020-11-05,Massachusetts,Nantucket,70.63,8,0,0.0,186,1,0.54,1642.09,8.83,1.64,11327,245.52,194.23,61.8,529.73,61.8

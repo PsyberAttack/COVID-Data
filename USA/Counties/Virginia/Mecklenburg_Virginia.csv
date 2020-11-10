@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-09,Virginia,Mecklenburg,13.05,4,0,0.0,932,35,3.76,3040.78,114.19,3.04,30650,49.02,78.31,0.0,316.52,6.52
+2020-11-08,Virginia,Mecklenburg,-3.26,-1,0,0.0,928,35,3.77,3027.73,114.19,3.03,30650,49.02,78.31,-13.05,310.0,-16.31
 2020-11-07,Virginia,Mecklenburg,13.05,4,0,0.0,929,35,3.77,3031.0,114.19,3.03,30650,49.02,91.36,6.52,326.31,-19.58
 2020-11-06,Virginia,Mecklenburg,19.58,6,0,0.0,925,35,3.78,3017.94,114.19,3.02,30650,49.02,84.84,-16.31,345.89,6.53
 2020-11-05,Virginia,Mecklenburg,6.53,2,0,0.0,919,35,3.81,2998.37,114.19,3.0,30650,49.02,101.15,-13.05,339.36,-19.57

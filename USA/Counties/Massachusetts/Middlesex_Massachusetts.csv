@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-09,Massachusetts,Middlesex,12.26,198,3,0.19,35177,2322,6.6,2178.53,143.8,2.18,1614714,1974.36,140.58,4.46,368.62,1.73
+2020-11-08,Massachusetts,Middlesex,24.34,393,5,0.31,34979,2319,6.63,2166.27,143.62,2.17,1614714,1974.36,136.12,10.47,366.89,15.79
 2020-11-07,Massachusetts,Middlesex,27.5,444,4,0.25,34586,2314,6.69,2141.93,143.31,2.14,1614714,1974.36,125.65,11.27,351.1,20.01
 2020-11-06,Massachusetts,Middlesex,22.79,368,5,0.31,34142,2310,6.77,2114.43,143.06,2.11,1614714,1974.36,114.38,5.45,331.09,13.0
 2020-11-05,Massachusetts,Middlesex,19.94,322,8,0.5,33774,2305,6.82,2091.64,142.75,2.09,1614714,1974.36,108.93,7.12,318.09,13.44

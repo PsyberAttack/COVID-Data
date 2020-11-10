@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-09,Tennessee,Polk,17.75,3,0,0.0,565,13,2.3,3343.59,76.93,3.34,16898,38.88,118.36,0.0,692.41,0.0
+2020-11-08,Tennessee,Polk,5.92,1,0,0.0,562,13,2.31,3325.84,76.93,3.33,16898,38.88,118.36,5.92,692.41,-11.83
 2020-11-07,Tennessee,Polk,23.67,4,0,0.0,561,13,2.32,3319.92,76.93,3.32,16898,38.88,112.44,0.0,704.24,23.67
 2020-11-06,Tennessee,Polk,17.75,3,0,0.0,557,13,2.33,3296.25,76.93,3.3,16898,38.88,112.44,29.59,680.57,-5.92
 2020-11-05,Tennessee,Polk,5.92,1,0,0.0,554,13,2.35,3278.49,76.93,3.28,16898,38.88,82.85,-35.51,686.49,0.0

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-09,Georgia,Rabun,41.5,7,0,0.0,465,11,2.37,2756.86,65.22,2.76,16867,45.57,148.22,41.5,367.62,23.71
+2020-11-08,Georgia,Rabun,0.0,0,0,0.0,458,11,2.4,2715.36,65.22,2.72,16867,45.57,106.72,-11.86,343.91,0.0
 2020-11-07,Georgia,Rabun,41.5,7,0,0.0,458,11,2.4,2715.36,65.22,2.72,16867,45.57,118.58,35.57,343.91,-17.79
 2020-11-06,Georgia,Rabun,11.86,2,0,0.0,451,11,2.44,2673.86,65.22,2.67,16867,45.57,83.01,0.0,361.7,-5.93
 2020-11-05,Georgia,Rabun,17.79,3,0,0.0,449,11,2.45,2662.0,65.22,2.66,16867,45.57,83.01,0.0,367.63,11.86

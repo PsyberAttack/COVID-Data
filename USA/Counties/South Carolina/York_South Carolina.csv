@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-09,South Carolina,York,16.78,46,0,0.0,7533,112,1.49,2748.09,40.86,2.75,274118,402.72,177.65,0.0,581.48,4.74
+2020-11-08,South Carolina,York,22.62,62,1,0.36,7487,112,1.5,2731.31,40.86,2.73,274118,402.72,177.65,-15.32,576.74,13.86
 2020-11-07,South Carolina,York,41.95,115,0,0.0,7425,111,1.49,2708.69,40.49,2.71,274118,402.72,192.97,13.86,562.88,26.63
 2020-11-06,South Carolina,York,23.71,65,2,0.73,7310,111,1.52,2666.73,40.49,2.67,274118,402.72,179.11,8.39,536.25,2.55
 2020-11-05,South Carolina,York,16.05,44,1,0.36,7245,109,1.5,2643.02,39.76,2.64,274118,402.72,170.72,-6.57,533.7,-2.19

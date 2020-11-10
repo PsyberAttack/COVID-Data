@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-09,Washington,Columbia,0.0,0,0,0.0,23,1,4.35,566.64,24.64,0.57,4059,4.67,147.83,0.0,221.74,0.0
+2020-11-08,Washington,Columbia,24.64,1,0,0.0,23,1,4.35,566.64,24.64,0.57,4059,4.67,147.83,24.64,221.74,24.64
 2020-11-07,Washington,Columbia,0.0,0,0,0.0,22,1,4.55,542.01,24.64,0.54,4059,4.67,123.19,-24.64,197.1,0.0
 2020-11-06,Washington,Columbia,0.0,0,0,0.0,22,1,4.55,542.01,24.64,0.54,4059,4.67,147.83,-49.27,197.1,0.0
 2020-11-05,Washington,Columbia,98.55,4,0,0.0,22,1,4.55,542.01,24.64,0.54,4059,4.67,197.1,98.55,197.1,98.55

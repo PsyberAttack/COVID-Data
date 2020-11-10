@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-09,Pennsylvania,Westmoreland,27.38,96,0,0.0,5174,118,2.28,1475.71,33.66,1.48,350611,341.05,163.44,9.41,647.43,1.71
+2020-11-08,Pennsylvania,Westmoreland,29.38,103,0,0.0,5078,118,2.32,1448.33,33.66,1.45,350611,341.05,154.03,10.56,645.72,14.55
 2020-11-07,Pennsylvania,Westmoreland,21.68,76,3,0.86,4975,118,2.37,1418.95,33.66,1.42,350611,341.05,143.47,1.71,631.17,-1.71
 2020-11-06,Pennsylvania,Westmoreland,23.39,82,1,0.29,4899,115,2.35,1397.28,32.8,1.4,350611,341.05,141.76,4.0,632.88,2.85
 2020-11-05,Pennsylvania,Westmoreland,15.97,56,3,0.86,4817,114,2.37,1373.89,32.51,1.37,350611,341.05,137.76,-5.14,630.03,-3.71

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-09,Illinois,Champaign,65.24,137,0,0.0,8003,33,0.41,3811.26,15.72,3.81,209983,210.8,522.42,26.19,1244.85,47.62
+2020-11-08,Illinois,Champaign,58.1,122,2,0.95,7866,33,0.42,3746.02,15.72,3.75,209983,210.8,496.23,-55.72,1197.23,26.67
 2020-11-07,Illinois,Champaign,81.91,172,1,0.48,7744,31,0.4,3687.92,14.76,3.69,209983,210.8,551.95,81.91,1170.56,74.29
 2020-11-06,Illinois,Champaign,125.72,264,1,0.48,7572,30,0.4,3606.01,14.29,3.61,209983,210.8,470.04,67.14,1096.27,105.24
 2020-11-05,Illinois,Champaign,92.39,194,0,0.0,7308,29,0.4,3480.28,13.81,3.48,209983,210.8,402.9,58.1,991.03,71.44

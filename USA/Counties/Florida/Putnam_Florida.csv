@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-09,Florida,Putnam,5.39,4,0,0.0,2489,54,2.17,3356.12,72.81,3.36,74163,101.89,98.43,0.0,374.85,2.69
+2020-11-08,Florida,Putnam,22.92,17,3,4.05,2485,54,2.17,3350.73,72.81,3.35,74163,101.89,98.43,9.44,372.16,-2.7
 2020-11-07,Florida,Putnam,9.44,7,0,0.0,2468,51,2.07,3327.8,68.77,3.33,74163,101.89,88.99,4.05,374.86,9.44
 2020-11-06,Florida,Putnam,8.09,6,0,0.0,2461,51,2.07,3318.37,68.77,3.32,74163,101.89,84.94,-8.09,365.42,-9.44
 2020-11-05,Florida,Putnam,18.88,14,-1,-1.35,2455,51,2.08,3310.28,68.77,3.31,74163,101.89,93.03,2.7,374.86,2.7

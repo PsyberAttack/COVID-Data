@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-09,West Virginia,Mason,3.74,1,0,0.0,200,6,3.0,748.56,22.46,0.75,26718,62.02,63.63,0.0,164.67,3.74
+2020-11-08,West Virginia,Mason,7.49,2,0,0.0,199,6,3.02,744.82,22.46,0.74,26718,62.02,63.63,-3.74,160.93,3.75
 2020-11-07,West Virginia,Mason,18.71,5,0,0.0,197,6,3.05,737.33,22.46,0.74,26718,62.02,67.37,18.71,157.18,14.97
 2020-11-06,West Virginia,Mason,11.23,3,0,0.0,192,6,3.12,718.62,22.46,0.72,26718,62.02,48.66,7.49,142.21,3.74
 2020-11-05,West Virginia,Mason,3.74,1,0,0.0,189,6,3.17,707.39,22.46,0.71,26718,62.02,41.17,-7.49,138.47,0.0

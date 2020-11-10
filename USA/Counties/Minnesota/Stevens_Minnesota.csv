@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-09,Minnesota,Stevens,30.76,3,0,0.0,257,1,0.39,2635.09,10.25,2.64,9753,17.3,492.16,-10.25,1138.11,30.76
+2020-11-08,Minnesota,Stevens,235.82,23,0,0.0,254,1,0.39,2604.33,10.25,2.6,9753,17.3,502.41,194.81,1107.35,194.81
 2020-11-07,Minnesota,Stevens,51.27,5,0,0.0,231,1,0.43,2368.5,10.25,2.37,9753,17.3,307.6,41.02,912.54,10.26
 2020-11-06,Minnesota,Stevens,92.28,9,0,0.0,226,1,0.44,2317.24,10.25,2.32,9753,17.3,266.58,30.76,902.28,10.25
 2020-11-05,Minnesota,Stevens,20.51,2,0,0.0,217,1,0.46,2224.96,10.25,2.22,9753,17.3,235.82,-61.52,892.03,-10.25

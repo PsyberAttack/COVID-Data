@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-09,New York,Otsego,8.37,5,0,0.0,449,5,1.11,751.48,8.37,0.75,59749,59.65,45.19,6.7,148.94,8.37
+2020-11-08,New York,Otsego,3.35,2,0,0.0,444,5,1.13,743.11,8.37,0.74,59749,59.65,38.49,-6.69,140.57,1.68
 2020-11-07,New York,Otsego,3.35,2,0,0.0,442,5,1.13,739.76,8.37,0.74,59749,59.65,45.18,-5.02,138.89,0.0
 2020-11-06,New York,Otsego,5.02,3,0,0.0,440,5,1.14,736.41,8.37,0.74,59749,59.65,50.2,-5.02,138.89,0.0
 2020-11-05,New York,Otsego,6.69,4,0,0.0,437,5,1.14,731.39,8.37,0.73,59749,59.65,55.22,0.0,138.89,5.02

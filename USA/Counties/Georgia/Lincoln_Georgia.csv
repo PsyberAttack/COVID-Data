@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-09,Georgia,Lincoln,0.0,0,0,0.0,271,9,3.32,3423.88,113.71,3.42,7915,37.62,138.97,-63.17,492.7,0.0
+2020-11-08,Georgia,Lincoln,12.63,1,0,0.0,271,9,3.32,3423.88,113.71,3.42,7915,37.62,202.14,-37.91,492.7,12.63
 2020-11-07,Georgia,Lincoln,25.27,2,0,0.0,270,9,3.33,3411.24,113.71,3.41,7915,37.62,240.05,25.27,480.07,0.0
 2020-11-06,Georgia,Lincoln,50.54,4,1,12.63,268,9,3.36,3385.98,113.71,3.39,7915,37.62,214.78,25.27,480.07,50.54
 2020-11-05,Georgia,Lincoln,12.63,1,0,0.0,264,8,3.03,3335.44,101.07,3.34,7915,37.62,189.51,12.63,429.53,-12.64

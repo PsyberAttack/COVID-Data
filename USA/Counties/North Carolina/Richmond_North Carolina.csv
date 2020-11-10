@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-09,North Carolina,Richmond,8.91,4,0,0.0,1545,35,2.27,3441.98,77.97,3.44,44887,94.76,151.49,-22.28,813.15,2.23
+2020-11-08,North Carolina,Richmond,20.05,9,0,0.0,1541,35,2.27,3433.07,77.97,3.43,44887,94.76,173.77,-2.23,810.92,2.23
 2020-11-07,North Carolina,Richmond,24.51,11,0,0.0,1532,35,2.28,3413.01,77.97,3.41,44887,94.76,176.0,13.37,808.69,-20.05
 2020-11-06,North Carolina,Richmond,28.96,13,0,0.0,1521,35,2.3,3388.51,77.97,3.39,44887,94.76,162.63,8.91,828.74,11.14
 2020-11-05,North Carolina,Richmond,17.82,8,1,2.23,1508,35,2.32,3359.55,77.97,3.36,44887,94.76,153.72,-11.14,817.6,-26.74

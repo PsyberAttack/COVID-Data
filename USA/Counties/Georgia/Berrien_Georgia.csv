@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-09,Georgia,Berrien,10.39,2,0,0.0,608,25,4.11,3158.11,129.86,3.16,19252,42.46,46.74,-10.39,264.9,-5.19
+2020-11-08,Georgia,Berrien,5.19,1,0,0.0,606,25,4.13,3147.72,129.86,3.15,19252,42.46,57.13,0.0,270.09,5.19
 2020-11-07,Georgia,Berrien,-5.19,-1,1,5.19,605,25,4.13,3142.53,129.86,3.14,19252,42.46,57.13,-36.36,264.9,-5.19
 2020-11-06,Georgia,Berrien,15.58,3,0,0.0,606,24,3.96,3147.72,124.66,3.15,19252,42.46,93.49,0.0,270.09,5.19
 2020-11-05,Georgia,Berrien,5.19,1,0,0.0,603,24,3.98,3132.14,124.66,3.13,19252,42.46,93.49,5.19,264.9,0.0

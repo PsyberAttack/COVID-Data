@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-09,Maryland,Baltimore city,26.89,162,2,0.33,19376,517,2.67,3215.96,85.81,3.22,602495,7443.17,190.37,8.47,473.19,16.93
+2020-11-08,Maryland,Baltimore city,21.74,131,0,0.0,19214,515,2.68,3189.07,85.48,3.19,602495,7443.17,181.9,1.16,456.26,12.11
 2020-11-07,Maryland,Baltimore city,40.0,241,4,0.66,19083,515,2.7,3167.33,85.48,3.17,602495,7443.17,180.74,19.09,444.15,34.02
 2020-11-06,Maryland,Baltimore city,35.52,214,2,0.33,18842,511,2.71,3127.33,84.81,3.13,602495,7443.17,161.65,22.74,410.13,20.42
 2020-11-05,Maryland,Baltimore city,25.39,153,1,0.17,18628,509,2.73,3091.81,84.48,3.09,602495,7443.17,138.91,7.13,389.71,-1.66

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-09,Kentucky,Fulton,98.04,6,0,0.0,253,3,1.19,4133.99,49.02,4.13,6120,29.72,228.76,98.04,833.34,32.68
+2020-11-08,Kentucky,Fulton,49.02,3,0,0.0,247,3,1.21,4035.95,49.02,4.04,6120,29.72,130.72,32.68,800.66,16.34
 2020-11-07,Kentucky,Fulton,0.0,0,0,0.0,244,3,1.23,3986.93,49.02,3.99,6120,29.72,98.04,-16.34,784.32,-147.06
 2020-11-06,Kentucky,Fulton,16.34,1,0,0.0,244,3,1.23,3986.93,49.02,3.99,6120,29.72,114.38,-16.34,931.38,-98.04
 2020-11-05,Kentucky,Fulton,32.68,2,0,0.0,243,3,1.23,3970.59,49.02,3.97,6120,29.72,130.72,16.34,1029.42,16.34

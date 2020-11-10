@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-09,South Carolina,Dorchester,11.83,19,0,0.0,5098,105,2.06,3173.42,65.36,3.17,160647,282.53,105.19,4.98,415.18,0.63
+2020-11-08,South Carolina,Dorchester,18.67,30,1,0.62,5079,105,2.07,3161.59,65.36,3.16,160647,282.53,100.21,-0.63,414.55,10.58
 2020-11-07,South Carolina,Dorchester,24.9,40,0,0.0,5049,104,2.06,3142.92,64.74,3.14,160647,282.53,100.84,8.09,403.97,9.34
 2020-11-06,South Carolina,Dorchester,10.58,17,0,0.0,5009,104,2.08,3118.02,64.74,3.12,160647,282.53,92.75,3.11,394.63,-3.74
 2020-11-05,South Carolina,Dorchester,15.56,25,1,0.62,4992,104,2.08,3107.43,64.74,3.11,160647,282.53,89.64,-3.11,398.37,-3.74

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-09,Washington,Mason,3.05,2,0,0.0,572,10,1.75,873.19,15.27,0.87,65507,68.28,45.79,0.0,164.9,3.05
+2020-11-08,Washington,Mason,12.21,8,0,0.0,570,10,1.75,870.14,15.27,0.87,65507,68.28,45.79,7.63,161.85,12.21
 2020-11-07,Washington,Mason,6.11,4,0,0.0,562,10,1.78,857.92,15.27,0.86,65507,68.28,38.16,-7.63,149.64,-6.1
 2020-11-06,Washington,Mason,12.21,8,0,0.0,558,10,1.79,851.82,15.27,0.85,65507,68.28,45.79,6.1,155.74,6.1
 2020-11-05,Washington,Mason,3.05,2,0,0.0,550,10,1.82,839.6,15.27,0.84,65507,68.28,39.69,-3.06,149.64,0.0

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-09,Maryland,St. Mary's,8.88,10,0,0.0,1601,60,3.75,1421.04,53.26,1.42,112664,314.1,80.78,6.22,204.15,7.99
+2020-11-08,Maryland,St. Mary's,17.75,20,0,0.0,1591,60,3.77,1412.16,53.26,1.41,112664,314.1,74.56,15.09,196.16,11.54
 2020-11-07,Maryland,St. Mary's,11.54,13,0,0.0,1571,60,3.82,1394.41,53.26,1.39,112664,314.1,59.47,8.88,184.62,9.76
 2020-11-06,Maryland,St. Mary's,25.74,29,-1,-0.89,1558,60,3.85,1382.87,53.26,1.38,112664,314.1,50.59,22.19,174.86,27.52
 2020-11-05,Maryland,St. Mary's,4.44,5,0,0.0,1529,61,3.99,1357.13,54.14,1.36,112664,314.1,28.4,-15.09,147.34,1.78

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-09,Georgia,Jenkins,0.0,0,0,0.0,485,33,6.8,5585.63,380.05,5.59,8683,25.0,23.03,-46.07,287.92,-11.52
+2020-11-08,Georgia,Jenkins,11.52,1,0,0.0,485,33,6.8,5585.63,380.05,5.59,8683,25.0,69.1,11.52,299.44,-23.03
 2020-11-07,Georgia,Jenkins,0.0,0,0,0.0,484,33,6.82,5574.11,380.05,5.57,8683,25.0,57.58,0.0,322.47,-11.52
 2020-11-06,Georgia,Jenkins,23.03,2,1,11.52,484,33,6.82,5574.11,380.05,5.57,8683,25.0,57.58,23.03,333.99,11.51
 2020-11-05,Georgia,Jenkins,0.0,0,0,0.0,482,32,6.64,5551.08,368.54,5.55,8683,25.0,34.55,-34.55,322.48,-69.1

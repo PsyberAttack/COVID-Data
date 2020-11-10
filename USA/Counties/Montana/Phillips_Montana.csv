@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-09,Montana,Phillips,0.0,0,0,0.0,212,4,1.89,5203.73,98.18,5.2,4074,0.79,417.29,-49.09,1988.24,0.0
+2020-11-08,Montana,Phillips,0.0,0,1,24.55,212,4,1.89,5203.73,98.18,5.2,4074,0.79,466.38,-73.64,1988.24,-49.09
 2020-11-07,Montana,Phillips,49.09,2,0,0.0,212,3,1.42,5203.73,73.64,5.2,4074,0.79,540.02,-49.09,2037.33,-49.09
 2020-11-06,Montana,Phillips,196.37,8,2,49.09,210,3,1.43,5154.64,73.64,5.15,4074,0.79,589.11,-24.54,2086.42,196.37
 2020-11-05,Montana,Phillips,122.73,5,0,0.0,202,1,0.5,4958.27,24.55,4.96,4074,0.79,613.65,-49.09,1890.05,98.18

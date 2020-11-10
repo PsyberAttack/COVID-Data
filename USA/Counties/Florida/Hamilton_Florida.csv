@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-09,Florida,Hamilton,0.0,0,1,6.99,926,11,1.19,6471.0,76.87,6.47,14310,27.85,97.83,-13.98,286.53,0.0
+2020-11-08,Florida,Hamilton,20.96,3,0,0.0,926,10,1.08,6471.0,69.88,6.47,14310,27.85,111.81,0.0,286.53,-20.97
 2020-11-07,Florida,Hamilton,6.99,1,0,0.0,923,10,1.08,6450.03,69.88,6.45,14310,27.85,111.81,0.0,307.5,6.99
 2020-11-06,Florida,Hamilton,20.96,3,0,0.0,922,10,1.08,6443.05,69.88,6.44,14310,27.85,111.81,6.98,300.51,-6.99
 2020-11-05,Florida,Hamilton,6.99,1,0,0.0,919,10,1.09,6422.08,69.88,6.42,14310,27.85,104.83,0.0,307.5,-6.99

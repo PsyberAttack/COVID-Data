@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-09,Ohio,Muskingum,23.21,20,1,1.16,1340,6,0.45,1554.83,6.96,1.55,86183,129.69,273.84,13.93,782.07,6.97
+2020-11-08,Ohio,Muskingum,31.33,27,0,0.0,1320,5,0.38,1531.62,5.8,1.53,86183,129.69,259.91,1.16,775.1,22.05
 2020-11-07,Ohio,Muskingum,59.18,51,0,0.0,1293,5,0.39,1500.3,5.8,1.5,86183,129.69,258.75,22.05,753.05,37.13
 2020-11-06,Ohio,Muskingum,48.73,42,0,0.0,1242,5,0.4,1441.12,5.8,1.44,86183,129.69,236.7,26.68,715.92,11.6
 2020-11-05,Ohio,Muskingum,37.13,32,1,1.16,1200,5,0.42,1392.39,5.8,1.39,86183,129.69,210.02,8.12,704.32,25.53

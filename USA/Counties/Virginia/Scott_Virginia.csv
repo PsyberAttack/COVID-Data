@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-09,Virginia,Scott,0.0,0,0,0.0,523,9,1.72,2428.72,41.79,2.43,21534,40.19,273.99,-13.93,1393.16,0.0
+2020-11-08,Virginia,Scott,9.29,2,0,0.0,523,9,1.72,2428.72,41.79,2.43,21534,40.19,287.92,-65.01,1393.16,0.0
 2020-11-07,Virginia,Scott,41.79,9,2,9.29,521,9,1.73,2419.43,41.79,2.42,21534,40.19,352.93,-60.37,1393.16,9.28
 2020-11-06,Virginia,Scott,60.37,13,0,0.0,512,7,1.37,2377.64,32.51,2.38,21534,40.19,413.3,-27.86,1383.88,41.79
 2020-11-05,Virginia,Scott,97.52,21,0,0.0,499,7,1.4,2317.27,32.51,2.32,21534,40.19,441.16,41.79,1342.09,74.3

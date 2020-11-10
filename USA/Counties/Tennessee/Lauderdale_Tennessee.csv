@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-09,Tennessee,Lauderdale,123.91,32,0,0.0,1630,20,1.23,6311.71,77.44,6.31,25825,54.72,379.47,58.08,1742.48,46.47
+2020-11-08,Tennessee,Lauderdale,58.08,15,0,0.0,1598,20,1.25,6187.8,77.44,6.19,25825,54.72,321.39,50.34,1696.01,-38.73
 2020-11-07,Tennessee,Lauderdale,104.55,27,0,0.0,1583,20,1.26,6129.72,77.44,6.13,25825,54.72,271.05,81.32,1734.74,77.44
 2020-11-06,Tennessee,Lauderdale,7.74,2,2,7.74,1556,20,1.29,6025.17,77.44,6.03,25825,54.72,189.73,-38.73,1657.3,-7.75
 2020-11-05,Tennessee,Lauderdale,3.87,1,0,0.0,1554,18,1.16,6017.42,69.7,6.02,25825,54.72,228.46,-77.45,1665.05,-108.42

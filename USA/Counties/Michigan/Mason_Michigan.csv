@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-09,Michigan,Mason,51.55,15,0,0.0,359,5,1.39,1233.68,17.18,1.23,29100,58.79,178.7,-41.23,704.46,34.37
+2020-11-08,Michigan,Mason,0.0,0,0,0.0,344,5,1.45,1182.13,17.18,1.18,29100,58.79,219.93,0.0,670.09,0.0
 2020-11-07,Michigan,Mason,27.49,8,0,0.0,344,5,1.45,1182.13,17.18,1.18,29100,58.79,219.93,3.44,670.09,27.49
 2020-11-06,Michigan,Mason,6.87,2,0,0.0,336,5,1.49,1154.64,17.18,1.15,29100,58.79,216.49,-41.24,642.6,-6.88
 2020-11-05,Michigan,Mason,27.49,8,2,6.87,334,5,1.5,1147.77,17.18,1.15,29100,58.79,257.73,0.0,649.48,27.49

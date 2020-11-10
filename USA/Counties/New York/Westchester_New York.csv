@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-09,New York,Westchester,28.42,275,2,0.21,42453,1479,3.48,4387.4,152.85,4.39,967612,2247.29,143.96,16.54,356.86,17.36
+2020-11-08,New York,Westchester,23.25,225,1,0.1,42178,1477,3.5,4358.98,152.64,4.36,967612,2247.29,127.42,7.85,339.5,18.39
 2020-11-07,New York,Westchester,24.18,234,1,0.1,41953,1476,3.52,4335.73,152.54,4.34,967612,2247.29,119.57,12.19,321.11,16.33
 2020-11-06,New York,Westchester,18.4,178,1,0.1,41719,1475,3.54,4311.54,152.44,4.31,967612,2247.29,107.38,5.27,304.78,10.44
 2020-11-05,New York,Westchester,18.81,182,1,0.1,41541,1474,3.55,4293.15,152.33,4.29,967612,2247.29,102.11,6.82,294.34,11.99

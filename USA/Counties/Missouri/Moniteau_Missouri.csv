@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-09,Missouri,Moniteau,86.84,14,0,0.0,835,13,1.56,5179.58,80.64,5.18,16121,38.84,719.55,6.2,2704.54,86.84
+2020-11-08,Missouri,Moniteau,93.05,15,0,0.0,821,13,1.58,5092.74,80.64,5.09,16121,38.84,713.35,-12.4,2617.7,93.05
 2020-11-07,Missouri,Moniteau,142.67,23,1,6.2,806,13,1.61,4999.69,80.64,5.0,16121,38.84,725.75,49.62,2524.65,43.42
 2020-11-06,Missouri,Moniteau,80.64,13,0,0.0,783,12,1.53,4857.02,74.44,4.86,16121,38.84,676.13,12.41,2481.23,0.0
 2020-11-05,Missouri,Moniteau,124.06,20,0,0.0,770,12,1.56,4776.38,74.44,4.78,16121,38.84,663.72,-55.83,2481.23,99.25
