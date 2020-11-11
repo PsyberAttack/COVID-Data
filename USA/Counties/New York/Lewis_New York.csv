@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-10,New York,Lewis,3.78,1,0,0.0,186,5,2.69,703.29,18.91,0.7,26447,20.75,117.21,-3.78,495.34,3.78
 2020-11-09,New York,Lewis,18.91,5,0,0.0,185,5,2.7,699.51,18.91,0.7,26447,20.75,120.99,0.0,491.56,18.91
 2020-11-08,New York,Lewis,26.47,7,0,0.0,180,5,2.78,680.61,18.91,0.68,26447,20.75,120.99,18.91,472.65,26.47
 2020-11-07,New York,Lewis,7.56,2,0,0.0,173,5,2.89,654.14,18.91,0.65,26447,20.75,102.08,-18.91,446.18,3.78

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-10,Virginia,Essex,27.48,3,0,0.0,210,2,0.95,1923.25,18.32,1.92,10919,42.47,82.43,27.48,210.67,9.16
 2020-11-09,Virginia,Essex,0.0,0,0,0.0,207,2,0.97,1895.78,18.32,1.9,10919,42.47,54.95,0.0,201.51,-9.16
 2020-11-08,Virginia,Essex,36.63,4,0,0.0,207,2,0.97,1895.78,18.32,1.9,10919,42.47,54.95,36.63,210.67,36.63
 2020-11-07,Virginia,Essex,0.0,0,0,0.0,203,2,0.99,1859.14,18.32,1.86,10919,42.47,18.32,-9.16,174.04,-9.16
