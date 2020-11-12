@@ -1,4 +1,6 @@
 date,country,region,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-11,Ecuador,Orellana,0.0,0,0,0.0,4,2,50.0,2.48,1.24,0.0,161338,-0.0,-0.62,-1.86,1.86
+2020-11-10,Ecuador,Orellana,-0.62,-1,1,0.62,4,2,50.0,2.48,1.24,0.0,161338,0.62,-1.86,-3.72,-3.72
 2020-11-09,Ecuador,Orellana,-8.68,-14,0,0.0,5,1,20.0,3.1,0.62,0.0,161338,2.48,2.48,-0.0,-7.44
 2020-11-08,Ecuador,Orellana,11.16,18,0,0.0,19,1,5.26,11.78,0.62,0.01,161338,-0.0,4.96,7.44,11.16
 2020-11-07,Ecuador,Orellana,-1.24,-2,0,0.0,1,1,100.0,0.62,0.62,0.0,161338,-4.96,1.86,-3.72,-1.24
