@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-11,Iowa,Clarke,10.61,1,0,0.0,407,4,0.98,4319.22,42.45,4.32,9423,21.85,339.6,0.0,1167.36,-10.61
 2020-11-10,Iowa,Clarke,42.45,4,0,0.0,406,4,0.99,4308.61,42.45,4.31,9423,21.85,339.6,10.61,1177.97,0.0
 2020-11-09,Iowa,Clarke,42.45,4,1,10.61,402,4,1.0,4266.16,42.45,4.27,9423,21.85,328.99,10.61,1177.97,21.23
 2020-11-08,Iowa,Clarke,42.45,4,0,0.0,398,3,0.75,4223.71,31.84,4.22,9423,21.85,318.38,42.45,1156.74,21.23

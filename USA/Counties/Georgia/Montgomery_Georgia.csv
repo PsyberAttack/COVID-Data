@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-11,Georgia,Montgomery,10.88,1,0,0.0,405,10,2.47,4405.53,108.78,4.41,9193,38.12,-10.88,-21.75,369.85,-21.75
 2020-11-10,Georgia,Montgomery,-10.88,-1,0,0.0,404,10,2.48,4394.65,108.78,4.39,9193,38.12,10.87,43.51,391.6,-21.76
 2020-11-09,Georgia,Montgomery,10.88,1,0,0.0,405,10,2.47,4405.53,108.78,4.41,9193,38.12,-32.64,-21.75,413.36,-43.51
 2020-11-08,Georgia,Montgomery,21.76,2,0,0.0,404,10,2.48,4394.65,108.78,4.39,9193,38.12,-10.89,21.76,456.87,10.88
