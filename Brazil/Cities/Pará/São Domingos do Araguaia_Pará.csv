@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-10,Pará,São Domingos do Araguaia,7.83,2,0,0.0,1140,14,1.23,4460.62,54.78,4.46,25557,50.87,7.83,301.29,7.83
+2020-11-11,Pará,São Domingos do Araguaia,0.0,0,0,0.0,1140,14,1.23,4460.62,54.78,4.46,25557,7.83,0.0,301.29,0.0
+2020-11-10,Pará,São Domingos do Araguaia,0.0,0,0,0.0,1140,14,1.23,4460.62,54.78,4.46,25557,7.83,-43.04,301.29,0.0
+2020-11-09,Pará,São Domingos do Araguaia,7.83,2,0,0.0,1140,14,1.23,4460.62,54.78,4.46,25557,50.87,7.83,301.29,7.83
 2020-11-08,Pará,São Domingos do Araguaia,0.0,0,0,0.0,1138,14,1.23,4452.79,54.78,4.45,25557,43.04,0.0,293.46,0.0
 2020-11-07,Pará,São Domingos do Araguaia,0.0,0,0,0.0,1138,14,1.23,4452.79,54.78,4.45,25557,43.04,0.0,293.46,0.0
 2020-11-06,Pará,São Domingos do Araguaia,0.0,0,0,0.0,1138,14,1.23,4452.79,54.78,4.45,25557,43.04,0.0,293.46,-39.13

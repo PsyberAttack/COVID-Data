@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-12,Virginia,Warren,7.5,3,1,2.5,680,24,3.53,1699.87,60.0,1.7,40003,186.46,87.5,-7.5,415.0,-40.0
 2020-11-11,Virginia,Warren,22.5,9,1,2.5,677,23,3.4,1692.37,57.5,1.69,40003,186.46,95.0,10.0,455.0,17.5
 2020-11-10,Virginia,Warren,7.5,3,0,0.0,668,22,3.29,1669.87,55.0,1.67,40003,186.46,85.0,-10.0,437.5,0.0
 2020-11-09,Virginia,Warren,20.0,8,0,0.0,665,22,3.31,1662.38,55.0,1.66,40003,186.46,95.0,5.0,437.5,5.0

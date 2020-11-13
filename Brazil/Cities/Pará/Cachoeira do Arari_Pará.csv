@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-10,Pará,Cachoeira do Arari,4.21,1,0,0.0,317,13,4.1,1333.78,54.7,1.33,23767,42.08,4.21,84.16,0.0
+2020-11-11,Pará,Cachoeira do Arari,0.0,0,0,0.0,317,13,4.1,1333.78,54.7,1.33,23767,8.42,-33.66,84.16,0.0
+2020-11-10,Pará,Cachoeira do Arari,4.21,1,0,0.0,317,13,4.1,1333.78,54.7,1.33,23767,42.08,4.21,84.16,4.21
+2020-11-09,Pará,Cachoeira do Arari,0.0,0,0,0.0,316,13,4.11,1329.57,54.7,1.33,23767,37.87,0.0,79.95,-4.21
 2020-11-08,Pará,Cachoeira do Arari,0.0,0,0,0.0,316,13,4.11,1329.57,54.7,1.33,23767,37.87,0.0,84.16,0.0
 2020-11-07,Pará,Cachoeira do Arari,4.21,1,0,0.0,316,13,4.11,1329.57,54.7,1.33,23767,37.87,4.21,84.16,0.0
 2020-11-06,Pará,Cachoeira do Arari,0.0,0,0,0.0,315,13,4.13,1325.37,54.7,1.33,23767,33.66,0.0,84.16,0.0

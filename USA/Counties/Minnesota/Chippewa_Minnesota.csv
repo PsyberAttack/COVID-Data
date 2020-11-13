@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-12,Minnesota,Chippewa,83.86,10,0,0.0,610,6,0.98,5115.73,50.32,5.12,11924,20.52,796.7,41.93,2314.67,50.31
 2020-11-11,Minnesota,Chippewa,167.73,20,2,16.77,600,6,1.0,5031.87,50.32,5.03,11924,20.52,754.77,142.57,2264.36,100.64
 2020-11-10,Minnesota,Chippewa,117.41,14,0,0.0,580,4,0.69,4864.14,33.55,4.86,11924,20.52,612.2,92.25,2163.72,50.32
 2020-11-09,Minnesota,Chippewa,41.93,5,0,0.0,566,4,0.71,4746.73,33.55,4.75,11924,20.52,519.95,-16.78,2113.4,8.38
