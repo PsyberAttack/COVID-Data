@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-13,Minnesota,Grant,66.43,4,0,0.0,156,5,3.21,2590.93,83.04,2.59,6021,10.99,415.21,-16.61,1195.83,16.6
 2020-11-12,Minnesota,Grant,83.04,5,0,0.0,152,5,3.29,2524.5,83.04,2.52,6021,10.99,431.82,33.21,1179.23,83.04
 2020-11-11,Minnesota,Grant,66.43,4,0,0.0,147,5,3.4,2441.45,83.04,2.44,6021,10.99,398.61,-16.61,1096.19,83.04
 2020-11-10,Minnesota,Grant,33.22,2,0,0.0,143,5,3.5,2375.02,83.04,2.38,6021,10.99,415.22,-49.82,1013.15,0.0
