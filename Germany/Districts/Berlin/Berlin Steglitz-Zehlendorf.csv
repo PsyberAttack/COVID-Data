@@ -1,9 +1,10 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-13,Berlin,Berlin Steglitz-Zehlendorf,0.68,2,0,0.0,2884,19,0.66,980.99,6.46,0.98,293989,123.47,-32.99,523.13,-12.25
+2020-11-14,Berlin,Berlin Steglitz-Zehlendorf,3.06,9,0,0.0,2940,19,0.65,1000.04,6.46,1.0,293989,124.49,-14.97,534.36,-4.76
+2020-11-13,Berlin,Berlin Steglitz-Zehlendorf,16.67,49,0,0.0,2931,19,0.65,996.98,6.46,1.0,293989,139.46,-17.0,539.12,3.74
 2020-11-12,Berlin,Berlin Steglitz-Zehlendorf,25.17,74,1,0.34,2882,19,0.66,980.31,6.46,0.98,293989,156.46,-6.12,535.38,10.54
 2020-11-11,Berlin,Berlin Steglitz-Zehlendorf,18.03,53,1,0.34,2808,18,0.64,955.14,6.12,0.96,293989,162.58,6.12,524.84,12.59
-2020-11-10,Berlin,Berlin Steglitz-Zehlendorf,27.55,81,0,0.0,2755,17,0.62,937.11,5.78,0.94,293989,156.46,-1.02,512.25,16.67
-2020-11-09,Berlin,Berlin Steglitz-Zehlendorf,34.01,100,0,0.0,2674,17,0.64,909.56,5.78,0.91,293989,157.48,6.46,495.58,22.79
+2020-11-10,Berlin,Berlin Steglitz-Zehlendorf,27.89,82,0,0.0,2755,17,0.62,937.11,5.78,0.94,293989,156.46,-0.68,512.25,17.01
+2020-11-09,Berlin,Berlin Steglitz-Zehlendorf,33.67,99,0,0.0,2673,17,0.64,909.22,5.78,0.91,293989,157.14,6.12,495.24,22.45
 2020-11-08,Berlin,Berlin Steglitz-Zehlendorf,0.0,0,0,0.0,2574,17,0.66,875.54,5.78,0.88,293989,151.02,0.0,472.79,-7.48
 2020-11-07,Berlin,Berlin Steglitz-Zehlendorf,18.03,53,0,0.0,2574,17,0.66,875.54,5.78,0.88,293989,151.02,10.89,480.27,13.27
 2020-11-06,Berlin,Berlin Steglitz-Zehlendorf,33.67,99,0,0.0,2521,17,0.67,857.52,5.78,0.86,293989,140.13,-2.39,467.0,22.45

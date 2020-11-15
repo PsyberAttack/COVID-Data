@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-03,Rio Grande do Norte,Santa Cruz,10.08,4,0,0.0,685,17,2.48,1726.57,42.85,1.73,39674,80.66,-25.21,504.11,-5.04
+2020-11-02,Rio Grande do Norte,Santa Cruz,0.0,0,0,0.0,681,17,2.5,1716.49,42.85,1.72,39674,105.87,-7.56,509.15,-2.52
+2020-11-01,Rio Grande do Norte,Santa Cruz,-10.08,-4,0,0.0,681,17,2.5,1716.49,42.85,1.72,39674,113.43,0.0,511.67,-12.6
 2020-10-30,Rio Grande do Norte,Santa Cruz,78.14,31,0,0.0,685,17,2.48,1726.57,42.85,1.73,39674,113.43,45.37,524.27,75.62
 2020-10-29,Rio Grande do Norte,Santa Cruz,-5.04,-2,0,0.0,654,17,2.6,1648.43,42.85,1.65,39674,68.06,-32.77,448.65,-5.04
 2020-10-28,Rio Grande do Norte,Santa Cruz,2.52,1,0,0.0,656,17,2.59,1653.48,42.85,1.65,39674,100.83,-7.56,453.69,0.0

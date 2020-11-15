@@ -1,14 +1,15 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-13,Schleswig-Holstein,Herzogtum Lauenburg,7.6,15,0,0.0,814,20,2.46,412.64,10.14,0.41,197264,55.77,4.56,202.29,5.57
-2020-11-12,Schleswig-Holstein,Herzogtum Lauenburg,9.63,19,0,0.0,799,20,2.5,405.04,10.14,0.41,197264,51.21,-1.02,196.72,8.11
-2020-11-11,Schleswig-Holstein,Herzogtum Lauenburg,12.17,24,0,0.0,780,20,2.56,395.41,10.14,0.4,197264,52.23,5.07,188.61,8.62
-2020-11-10,Schleswig-Holstein,Herzogtum Lauenburg,7.1,14,0,0.0,756,20,2.65,383.24,10.14,0.38,197264,47.16,-1.52,179.99,5.07
-2020-11-09,Schleswig-Holstein,Herzogtum Lauenburg,4.06,8,0,0.0,742,20,2.7,376.15,10.14,0.38,197264,48.68,-1.52,174.92,1.02
-2020-11-08,Schleswig-Holstein,Herzogtum Lauenburg,3.55,7,0,0.0,734,20,2.72,372.09,10.14,0.37,197264,50.2,2.54,173.9,2.03
-2020-11-07,Schleswig-Holstein,Herzogtum Lauenburg,11.66,23,0,0.0,727,20,2.75,368.54,10.14,0.37,197264,47.66,3.04,171.87,11.15
-2020-11-06,Schleswig-Holstein,Herzogtum Lauenburg,3.04,6,0,0.0,704,20,2.84,356.88,10.14,0.36,197264,44.62,-3.55,160.72,1.01
-2020-11-05,Schleswig-Holstein,Herzogtum Lauenburg,10.65,21,0,0.0,698,20,2.87,353.84,10.14,0.35,197264,48.17,2.03,159.71,8.12
-2020-11-04,Schleswig-Holstein,Herzogtum Lauenburg,7.1,14,0,0.0,677,20,2.95,343.19,10.14,0.34,197264,46.14,0.51,151.59,5.58
+2020-11-14,Schleswig-Holstein,Herzogtum Lauenburg,5.58,11,0,0.0,828,21,2.54,419.74,10.65,0.42,197264,51.22,-6.08,205.85,2.03
+2020-11-13,Schleswig-Holstein,Herzogtum Lauenburg,8.11,16,0,0.0,817,21,2.57,414.17,10.65,0.41,197264,57.3,5.07,203.82,6.08
+2020-11-12,Schleswig-Holstein,Herzogtum Lauenburg,10.65,21,0,0.0,801,21,2.62,406.05,10.65,0.41,197264,52.23,0.0,197.74,9.13
+2020-11-11,Schleswig-Holstein,Herzogtum Lauenburg,12.17,24,0,0.0,780,21,2.69,395.41,10.65,0.4,197264,52.23,5.07,188.61,8.62
+2020-11-10,Schleswig-Holstein,Herzogtum Lauenburg,7.1,14,0,0.0,756,21,2.78,383.24,10.65,0.38,197264,47.16,-1.52,179.99,5.07
+2020-11-09,Schleswig-Holstein,Herzogtum Lauenburg,4.06,8,0,0.0,742,21,2.83,376.15,10.65,0.38,197264,48.68,-1.52,174.92,1.02
+2020-11-08,Schleswig-Holstein,Herzogtum Lauenburg,3.55,7,0,0.0,734,21,2.86,372.09,10.65,0.37,197264,50.2,2.54,173.9,2.03
+2020-11-07,Schleswig-Holstein,Herzogtum Lauenburg,11.66,23,0,0.0,727,21,2.89,368.54,10.65,0.37,197264,47.66,3.04,171.87,11.15
+2020-11-06,Schleswig-Holstein,Herzogtum Lauenburg,3.04,6,0,0.0,704,21,2.98,356.88,10.65,0.36,197264,44.62,-3.55,160.72,1.01
+2020-11-05,Schleswig-Holstein,Herzogtum Lauenburg,10.65,21,0,0.0,698,21,3.01,353.84,10.65,0.35,197264,48.17,2.03,159.71,8.12
+2020-11-04,Schleswig-Holstein,Herzogtum Lauenburg,7.1,14,1,0.51,677,21,3.1,343.19,10.65,0.34,197264,46.14,0.51,151.59,5.58
 2020-11-03,Schleswig-Holstein,Herzogtum Lauenburg,8.62,17,0,0.0,663,20,3.02,336.1,10.14,0.34,197264,45.63,-4.56,146.01,8.11
 2020-11-02,Schleswig-Holstein,Herzogtum Lauenburg,5.58,11,0,0.0,646,20,3.1,327.48,10.14,0.33,197264,50.19,-0.5,137.9,3.55
 2020-11-01,Schleswig-Holstein,Herzogtum Lauenburg,1.01,2,0,0.0,635,20,3.15,321.9,10.14,0.32,197264,50.69,-3.05,134.35,1.01
