@@ -1,4 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-14,Minas Gerais,Esmeraldas,0.0,0,0,0.0,462,17,3.68,654.84,24.1,0.65,70552,31.18,0.0,51.02,0.0
+2020-11-13,Minas Gerais,Esmeraldas,1.42,1,0,0.0,462,17,3.68,654.84,24.1,0.65,70552,31.18,-1.41,51.02,1.42
+2020-11-12,Minas Gerais,Esmeraldas,2.83,2,0,0.0,461,17,3.69,653.42,24.1,0.65,70552,32.59,-2.84,49.6,2.83
+2020-11-10,Minas Gerais,Esmeraldas,1.42,1,-1,-1.42,459,17,3.7,650.58,24.1,0.65,70552,35.43,0.0,46.77,-2.83
+2020-11-09,Minas Gerais,Esmeraldas,17.01,12,0,0.0,458,18,3.93,649.17,25.51,0.65,70552,35.43,17.01,49.6,17.01
 2020-11-06,Minas Gerais,Esmeraldas,8.5,6,1,1.42,446,18,4.04,632.16,25.51,0.63,70552,18.42,7.08,32.59,8.5
 2020-11-05,Minas Gerais,Esmeraldas,0.0,0,1,1.42,440,17,3.86,623.65,24.1,0.62,70552,11.34,0.0,24.09,0.0
 2020-11-04,Minas Gerais,Esmeraldas,0.0,0,0,0.0,440,16,3.64,623.65,22.68,0.62,70552,11.34,0.0,24.09,-8.5

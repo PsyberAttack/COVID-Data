@@ -1,7 +1,8 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-14,Nordrhein-Westfalen,Wuppertal,23.14,82,0,0.0,4930,96,1.95,1391.15,27.09,1.39,354382,160.01,-2.82,659.2,3.39
-2020-11-13,Nordrhein-Westfalen,Wuppertal,32.17,114,0,0.0,4848,96,1.98,1368.02,27.09,1.37,354382,162.83,0.28,655.81,14.96
-2020-11-12,Nordrhein-Westfalen,Wuppertal,23.42,83,-1,-0.28,4734,96,2.03,1335.85,27.09,1.34,354382,162.55,-3.95,640.85,4.8
+2020-11-15,Nordrhein-Westfalen,Wuppertal,0.28,1,0,0.0,4930,97,1.97,1391.15,27.37,1.39,354382,159.16,-0.57,649.04,-9.88
+2020-11-14,Nordrhein-Westfalen,Wuppertal,22.86,81,0,0.0,4929,97,1.97,1390.87,27.37,1.39,354382,159.73,-3.1,658.92,3.11
+2020-11-13,Nordrhein-Westfalen,Wuppertal,32.17,114,0,0.0,4848,97,2.0,1368.02,27.37,1.37,354382,162.83,0.28,655.81,14.96
+2020-11-12,Nordrhein-Westfalen,Wuppertal,23.42,83,0,0.0,4734,97,2.05,1335.85,27.37,1.34,354382,162.55,-3.95,640.85,4.8
 2020-11-11,Nordrhein-Westfalen,Wuppertal,31.04,110,0,0.0,4651,97,2.09,1312.43,27.37,1.31,354382,166.5,-2.26,636.05,13.54
 2020-11-10,Nordrhein-Westfalen,Wuppertal,21.45,76,0,0.0,4541,97,2.14,1281.39,27.37,1.28,354382,168.76,-6.77,622.51,7.34
 2020-11-09,Nordrhein-Westfalen,Wuppertal,27.94,99,0,0.0,4465,97,2.17,1259.94,27.37,1.26,354382,175.53,-2.25,615.17,8.19
