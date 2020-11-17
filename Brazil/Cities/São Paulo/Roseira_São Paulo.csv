@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-15,São Paulo,Roseira,0.0,0,0,0.0,251,5,1.99,2343.17,46.68,2.34,10712,102.7,0.0,317.44,0.0
+2020-11-14,São Paulo,Roseira,28.01,3,1,9.34,251,5,1.99,2343.17,46.68,2.34,10712,102.7,28.01,317.44,-37.34
 2020-11-12,São Paulo,Roseira,18.67,2,0,0.0,248,4,1.61,2315.16,37.34,2.32,10712,74.69,18.67,354.78,-9.34
 2020-11-11,São Paulo,Roseira,9.34,1,1,9.34,246,4,1.63,2296.49,37.34,2.3,10712,56.02,0.0,364.12,9.34
 2020-11-10,São Paulo,Roseira,37.34,4,0,0.0,245,3,1.22,2287.15,28.01,2.29,10712,56.02,28.0,354.78,9.33

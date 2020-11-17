@@ -1,8 +1,9 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-14,Sachsen-Anhalt,Salzlandkreis,2.64,5,0,0.0,617,2,0.32,326.24,1.06,0.33,189125,43.88,-1.06,223.14,-4.23
-2020-11-13,Sachsen-Anhalt,Salzlandkreis,4.76,9,0,0.0,612,2,0.33,323.6,1.06,0.32,189125,44.94,-7.4,227.37,2.64
-2020-11-12,Sachsen-Anhalt,Salzlandkreis,6.87,13,0,0.0,603,2,0.33,318.84,1.06,0.32,189125,52.34,1.05,224.73,4.23
-2020-11-11,Sachsen-Anhalt,Salzlandkreis,13.22,25,0,0.0,590,2,0.34,311.96,1.06,0.31,189125,51.29,3.17,220.5,10.58
+2020-11-15,Sachsen-Anhalt,Salzlandkreis,6.87,13,1,0.53,633,3,0.47,334.7,1.59,0.33,189125,49.17,3.7,227.9,3.17
+2020-11-14,Sachsen-Anhalt,Salzlandkreis,3.17,6,0,0.0,620,2,0.32,327.83,1.06,0.33,189125,45.47,-0.53,224.73,-3.7
+2020-11-13,Sachsen-Anhalt,Salzlandkreis,5.29,10,0,0.0,614,2,0.33,324.65,1.06,0.32,189125,46.0,-6.87,228.43,3.17
+2020-11-12,Sachsen-Anhalt,Salzlandkreis,6.87,13,0,0.0,604,2,0.33,319.37,1.06,0.32,189125,52.87,1.05,225.26,4.23
+2020-11-11,Sachsen-Anhalt,Salzlandkreis,13.75,26,0,0.0,591,2,0.34,312.49,1.06,0.31,189125,51.82,3.7,221.03,11.11
 2020-11-10,Sachsen-Anhalt,Salzlandkreis,8.99,17,0,0.0,565,2,0.35,298.74,1.06,0.3,189125,48.12,-2.11,209.92,3.7
 2020-11-09,Sachsen-Anhalt,Salzlandkreis,4.23,8,0,0.0,548,2,0.36,289.76,1.06,0.29,189125,50.23,-6.35,206.22,3.7
 2020-11-08,Sachsen-Anhalt,Salzlandkreis,3.17,6,0,0.0,540,2,0.37,285.53,1.06,0.29,189125,56.58,-1.06,202.52,2.64

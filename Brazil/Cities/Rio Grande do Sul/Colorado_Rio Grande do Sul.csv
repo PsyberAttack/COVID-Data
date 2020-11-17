@@ -1,5 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-13,Rio Grande do Sul,Colorado,31.5,1,0,0.0,96,2,2.08,3023.62,62.99,3.02,3175,126.0,0.0,535.48,31.5
+2020-11-15,Rio Grande do Sul,Colorado,0.0,0,0,0.0,96,2,2.08,3023.62,62.99,3.02,3175,94.5,0.0,440.98,-31.5
+2020-11-14,Rio Grande do Sul,Colorado,0.0,0,0,0.0,96,2,2.08,3023.62,62.99,3.02,3175,94.5,-31.5,472.48,-31.5
+2020-11-13,Rio Grande do Sul,Colorado,31.5,1,0,0.0,96,2,2.08,3023.62,62.99,3.02,3175,126.0,31.5,503.98,0.0
+2020-11-12,Rio Grande do Sul,Colorado,0.0,0,0,0.0,95,2,2.11,2992.13,62.99,2.99,3175,94.5,-31.5,503.98,0.0
 2020-11-11,Rio Grande do Sul,Colorado,31.5,1,0,0.0,95,2,2.11,2992.13,62.99,2.99,3175,126.0,0.0,503.98,31.5
 2020-11-10,Rio Grande do Sul,Colorado,31.5,1,0,0.0,94,2,2.13,2960.63,62.99,2.96,3175,126.0,31.5,472.48,31.5
 2020-11-09,Rio Grande do Sul,Colorado,0.0,0,0,0.0,93,2,2.15,2929.13,62.99,2.93,3175,94.5,0.0,440.98,0.0

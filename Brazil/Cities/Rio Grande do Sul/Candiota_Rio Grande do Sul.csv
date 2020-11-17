@@ -1,5 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-13,Rio Grande do Sul,Candiota,0.0,0,0,0.0,96,1,1.04,1001.67,10.43,1.0,9584,31.3,0.0,114.77,0.0
+2020-11-15,Rio Grande do Sul,Candiota,20.87,2,0,0.0,98,1,1.02,1022.54,10.43,1.02,9584,20.87,20.87,135.64,20.87
+2020-11-14,Rio Grande do Sul,Candiota,0.0,0,0,0.0,96,1,1.04,1001.67,10.43,1.0,9584,0.0,-20.87,114.77,0.0
+2020-11-13,Rio Grande do Sul,Candiota,0.0,0,0,0.0,96,1,1.04,1001.67,10.43,1.0,9584,20.87,-10.43,114.77,0.0
+2020-11-12,Rio Grande do Sul,Candiota,0.0,0,0,0.0,96,1,1.04,1001.67,10.43,1.0,9584,31.3,0.0,114.77,0.0
 2020-11-11,Rio Grande do Sul,Candiota,10.43,1,0,0.0,96,1,1.04,1001.67,10.43,1.0,9584,31.3,10.43,114.77,-10.44
 2020-11-10,Rio Grande do Sul,Candiota,-10.43,-1,0,0.0,95,1,1.05,991.24,10.43,0.99,9584,20.87,-10.43,125.21,-10.43
 2020-11-09,Rio Grande do Sul,Candiota,0.0,0,0,0.0,96,1,1.04,1001.67,10.43,1.0,9584,31.3,0.0,135.64,0.0

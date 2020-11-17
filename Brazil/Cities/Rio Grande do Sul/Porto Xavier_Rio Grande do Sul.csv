@@ -1,5 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-13,Rio Grande do Sul,Porto Xavier,9.76,1,0,0.0,303,3,0.99,2957.25,29.28,2.96,10246,78.08,9.76,468.48,19.52
+2020-11-15,Rio Grande do Sul,Porto Xavier,0.0,0,0,0.0,303,3,0.99,2957.25,29.28,2.96,10246,39.04,0.0,351.36,-29.28
+2020-11-14,Rio Grande do Sul,Porto Xavier,0.0,0,0,0.0,303,3,0.99,2957.25,29.28,2.96,10246,39.04,0.0,380.64,-19.52
+2020-11-13,Rio Grande do Sul,Porto Xavier,9.76,1,0,0.0,303,3,0.99,2957.25,29.28,2.96,10246,39.04,-29.28,400.16,-58.56
+2020-11-12,Rio Grande do Sul,Porto Xavier,0.0,0,0,0.0,302,3,0.99,2947.49,29.28,2.95,10246,68.32,0.0,458.72,9.76
 2020-11-11,Rio Grande do Sul,Porto Xavier,19.52,2,0,0.0,302,3,0.99,2947.49,29.28,2.95,10246,68.32,-19.52,448.96,19.52
 2020-11-10,Rio Grande do Sul,Porto Xavier,9.76,1,0,0.0,300,3,1.0,2927.97,29.28,2.93,10246,87.84,9.76,429.44,-19.52
 2020-11-09,Rio Grande do Sul,Porto Xavier,0.0,0,0,0.0,299,3,1.0,2918.21,29.28,2.92,10246,78.08,0.0,448.96,-97.6

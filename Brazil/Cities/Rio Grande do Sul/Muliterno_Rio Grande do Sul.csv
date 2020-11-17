@@ -1,5 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-13,Rio Grande do Sul,Muliterno,52.83,1,1,52.83,61,1,1.64,3222.4,52.83,3.22,1893,264.14,52.83,686.75,0.0
+2020-11-15,Rio Grande do Sul,Muliterno,52.83,1,0,0.0,62,1,1.61,3275.22,52.83,3.28,1893,316.97,52.83,739.58,52.83
+2020-11-14,Rio Grande do Sul,Muliterno,0.0,0,0,0.0,61,1,1.64,3222.4,52.83,3.22,1893,264.14,0.0,686.75,0.0
+2020-11-13,Rio Grande do Sul,Muliterno,52.83,1,0,0.0,61,1,1.64,3222.4,52.83,3.22,1893,264.14,52.83,686.75,52.83
+2020-11-12,Rio Grande do Sul,Muliterno,0.0,0,1,52.83,60,1,1.67,3169.57,52.83,3.17,1893,211.31,0.0,633.92,-52.83
 2020-11-11,Rio Grande do Sul,Muliterno,52.83,1,0,0.0,60,0,0.0,3169.57,0.0,3.17,1893,211.31,52.83,686.75,52.83
 2020-11-10,Rio Grande do Sul,Muliterno,158.48,3,0,0.0,59,0,0.0,3116.75,0.0,3.12,1893,158.48,158.48,633.92,105.65
 2020-11-09,Rio Grande do Sul,Muliterno,0.0,0,0,0.0,56,0,0.0,2958.27,0.0,2.96,1893,0.0,0.0,528.27,0.0

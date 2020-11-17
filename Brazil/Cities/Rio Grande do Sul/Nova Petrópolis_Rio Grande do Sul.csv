@@ -1,5 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-13,Rio Grande do Sul,Nova Petrópolis,112.4,24,1,4.68,561,2,0.36,2627.27,9.37,2.63,21353,276.32,107.72,604.16,112.4
+2020-11-15,Rio Grande do Sul,Nova Petrópolis,0.0,0,0,0.0,563,2,0.36,2636.63,9.37,2.64,21353,234.17,0.0,585.43,-23.42
+2020-11-14,Rio Grande do Sul,Nova Petrópolis,9.37,2,0,0.0,563,2,0.36,2636.63,9.37,2.64,21353,234.17,9.37,608.85,9.37
+2020-11-13,Rio Grande do Sul,Nova Petrópolis,42.15,9,0,0.0,561,2,0.36,2627.27,9.37,2.63,21353,224.8,-9.37,599.48,37.47
+2020-11-12,Rio Grande do Sul,Nova Petrópolis,70.25,15,1,4.68,552,2,0.36,2585.12,9.37,2.59,21353,234.17,65.57,562.01,70.25
 2020-11-11,Rio Grande do Sul,Nova Petrópolis,32.78,7,0,0.0,537,1,0.19,2514.87,4.68,2.51,21353,168.6,-4.69,491.76,28.1
 2020-11-10,Rio Grande do Sul,Nova Petrópolis,23.42,5,0,0.0,530,1,0.19,2482.09,4.68,2.48,21353,173.29,23.42,463.66,18.74
 2020-11-09,Rio Grande do Sul,Nova Petrópolis,56.2,12,0,0.0,525,1,0.19,2458.67,4.68,2.46,21353,149.87,56.2,444.92,23.42
