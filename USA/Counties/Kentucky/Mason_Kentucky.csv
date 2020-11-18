@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-17,Kentucky,Mason,58.31,10,0,0.0,288,2,0.69,1679.3,11.66,1.68,17150,71.42,268.22,17.49,757.99,11.66
 2020-11-16,Kentucky,Mason,46.65,8,0,0.0,278,2,0.72,1620.99,11.66,1.62,17150,71.42,250.73,-23.32,746.33,40.82
 2020-11-15,Kentucky,Mason,17.49,3,-1,-5.83,270,2,0.74,1574.34,11.66,1.57,17150,71.42,274.05,0.0,705.51,17.49
 2020-11-14,Kentucky,Mason,17.49,3,0,0.0,267,3,1.12,1556.85,17.49,1.56,17150,71.42,274.05,11.66,688.02,0.0
