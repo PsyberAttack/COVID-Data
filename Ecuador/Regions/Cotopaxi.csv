@@ -1,4 +1,7 @@
 date,country,region,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-20,Ecuador,Cotopaxi,1.64,8,0,0.0,14,2,14.29,2.86,0.41,0.0,488716,0.82,0.62,-0.19,-0.82
+2020-11-19,Ecuador,Cotopaxi,-2.05,-10,0,0.0,6,2,33.33,1.23,0.41,0.0,488716,0.2,-1.03,0.63,-0.62
+2020-11-18,Ecuador,Cotopaxi,3.07,15,0,0.0,16,2,12.5,3.27,0.41,0.0,488716,1.23,1.64,1.25,2.25
 2020-11-17,Ecuador,Cotopaxi,-0.41,-2,0,0.0,1,2,200.0,0.2,0.41,0.0,488716,-0.41,-0.21,-1.0,0.41
 2020-11-16,Ecuador,Cotopaxi,0.0,0,0,0.0,3,2,66.67,0.61,0.41,0.0,488716,-0.2,4.09,-1.41,2.05
 2020-11-15,Ecuador,Cotopaxi,-0.82,-4,1,0.2,3,2,66.67,0.61,0.41,0.0,488716,-4.29,-3.28,-3.46,-4.3
