@@ -1,15 +1,16 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-19,Rheinland-Pfalz,Eifelkreis Bitburg-Prüm,12.11,12,0,0.0,1092,6,0.55,1102.38,6.06,1.1,99058,93.88,-1.01,449.21,-40.38
-2020-11-18,Rheinland-Pfalz,Eifelkreis Bitburg-Prüm,12.11,12,0,0.0,1080,6,0.56,1090.27,6.06,1.09,99058,94.89,-9.09,489.59,-8.08
-2020-11-17,Rheinland-Pfalz,Eifelkreis Bitburg-Prüm,14.13,14,0,0.0,1068,6,0.56,1078.16,6.06,1.08,99058,103.98,-8.08,497.67,1.01
-2020-11-16,Rheinland-Pfalz,Eifelkreis Bitburg-Prüm,20.19,20,0,0.0,1054,6,0.57,1064.02,6.06,1.06,99058,112.06,7.07,496.66,-12.11
-2020-11-15,Rheinland-Pfalz,Eifelkreis Bitburg-Prüm,6.06,6,0,0.0,1034,6,0.58,1043.83,6.06,1.04,99058,104.99,-8.07,508.77,-2.02
-2020-11-14,Rheinland-Pfalz,Eifelkreis Bitburg-Prüm,5.05,5,0,0.0,1028,6,0.58,1037.78,6.06,1.04,99058,113.06,-9.08,510.79,-14.13
-2020-11-13,Rheinland-Pfalz,Eifelkreis Bitburg-Prüm,24.23,24,0,0.0,1023,6,0.59,1032.73,6.06,1.03,99058,122.14,3.03,524.92,-5.05
-2020-11-12,Rheinland-Pfalz,Eifelkreis Bitburg-Prüm,13.12,13,0,0.0,999,6,0.6,1008.5,6.06,1.01,99058,119.11,8.07,529.97,1.01
-2020-11-11,Rheinland-Pfalz,Eifelkreis Bitburg-Prüm,21.2,21,0,0.0,986,6,0.61,995.38,6.06,1.0,99058,111.04,18.17,528.96,5.05
-2020-11-10,Rheinland-Pfalz,Eifelkreis Bitburg-Prüm,22.21,22,0,0.0,965,6,0.62,974.18,6.06,0.97,99058,92.87,-18.17,523.91,9.09
-2020-11-09,Rheinland-Pfalz,Eifelkreis Bitburg-Prüm,13.12,13,0,0.0,943,6,0.64,951.97,6.06,0.95,99058,111.04,0.0,514.82,-10.1
+2020-11-20,Rheinland-Pfalz,Eifelkreis Bitburg-Prüm,21.2,21,0,0.0,1114,6,0.54,1124.59,6.06,1.12,99058,90.85,-3.03,461.32,11.1
+2020-11-19,Rheinland-Pfalz,Eifelkreis Bitburg-Prüm,13.12,13,0,0.0,1093,6,0.55,1103.39,6.06,1.1,99058,93.88,0.0,450.22,-39.37
+2020-11-18,Rheinland-Pfalz,Eifelkreis Bitburg-Prüm,11.1,11,0,0.0,1080,6,0.56,1090.27,6.06,1.09,99058,93.88,-10.1,489.59,-9.09
+2020-11-17,Rheinland-Pfalz,Eifelkreis Bitburg-Prüm,14.13,14,0,0.0,1069,6,0.56,1079.17,6.06,1.08,99058,103.98,-8.08,498.68,1.01
+2020-11-16,Rheinland-Pfalz,Eifelkreis Bitburg-Prüm,20.19,20,0,0.0,1055,6,0.57,1065.03,6.06,1.07,99058,112.06,6.06,497.67,-12.11
+2020-11-15,Rheinland-Pfalz,Eifelkreis Bitburg-Prüm,6.06,6,0,0.0,1035,6,0.58,1044.84,6.06,1.04,99058,106.0,-8.07,509.78,-2.02
+2020-11-14,Rheinland-Pfalz,Eifelkreis Bitburg-Prüm,5.05,5,0,0.0,1029,6,0.58,1038.79,6.06,1.04,99058,114.07,-9.08,511.8,-14.13
+2020-11-13,Rheinland-Pfalz,Eifelkreis Bitburg-Prüm,24.23,24,0,0.0,1024,6,0.59,1033.74,6.06,1.03,99058,123.15,3.03,525.93,-5.05
+2020-11-12,Rheinland-Pfalz,Eifelkreis Bitburg-Prüm,13.12,13,0,0.0,1000,6,0.6,1009.51,6.06,1.01,99058,120.12,8.07,530.98,1.01
+2020-11-11,Rheinland-Pfalz,Eifelkreis Bitburg-Prüm,21.2,21,0,0.0,987,6,0.61,996.39,6.06,1.0,99058,112.05,18.17,529.97,5.05
+2020-11-10,Rheinland-Pfalz,Eifelkreis Bitburg-Prüm,22.21,22,0,0.0,966,6,0.62,975.19,6.06,0.98,99058,93.88,-18.17,524.92,9.09
+2020-11-09,Rheinland-Pfalz,Eifelkreis Bitburg-Prüm,14.13,14,0,0.0,944,6,0.64,952.98,6.06,0.95,99058,112.05,1.01,515.83,-9.09
 2020-11-08,Rheinland-Pfalz,Eifelkreis Bitburg-Prüm,14.13,14,0,0.0,930,6,0.65,938.84,6.06,0.94,99058,111.04,-8.08,524.92,-9.09
 2020-11-07,Rheinland-Pfalz,Eifelkreis Bitburg-Prüm,14.13,14,0,0.0,916,6,0.66,924.71,6.06,0.92,99058,119.12,2.02,534.01,-14.14
 2020-11-06,Rheinland-Pfalz,Eifelkreis Bitburg-Prüm,21.2,21,0,0.0,902,6,0.67,910.58,6.06,0.91,99058,117.1,7.07,548.15,11.1

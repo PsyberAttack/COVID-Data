@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-03,Rio de Janeiro,Campos dos Goytacazes,1.18,6,3,0.59,7752,431,5.56,1527.34,84.92,1.53,507548,66.6,-13.6,299.27,0.19
+2020-11-01,Rio de Janeiro,Campos dos Goytacazes,8.67,44,2,0.39,7746,428,5.53,1526.16,84.33,1.53,507548,80.2,8.67,299.08,-12.61
+2020-10-31,Rio de Janeiro,Campos dos Goytacazes,0.0,0,0,0.0,7702,426,5.53,1517.49,83.93,1.52,507548,71.53,-22.66,311.69,-5.52
+2020-10-30,Rio de Janeiro,Campos dos Goytacazes,2.96,15,2,0.39,7702,426,5.53,1517.49,83.93,1.52,507548,94.19,-10.04,317.21,-4.72
 2020-10-29,Rio de Janeiro,Campos dos Goytacazes,11.82,60,2,0.39,7687,424,5.52,1514.54,83.54,1.51,507548,104.23,-3.35,321.93,-14.58
 2020-10-28,Rio de Janeiro,Campos dos Goytacazes,14.19,72,0,0.0,7627,422,5.53,1502.72,83.14,1.5,507548,107.58,1.38,336.51,-15.36
 2020-10-27,Rio de Janeiro,Campos dos Goytacazes,27.78,141,0,0.0,7555,422,5.59,1488.53,83.14,1.49,507548,106.2,18.13,351.87,27.78

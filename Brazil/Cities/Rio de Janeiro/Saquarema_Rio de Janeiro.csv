@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-03,Rio de Janeiro,Saquarema,0.0,0,0,0.0,1248,78,6.25,1399.57,87.47,1.4,89170,13.45,-28.04,134.57,0.0
+2020-11-01,Rio de Janeiro,Saquarema,0.0,0,0,0.0,1248,78,6.25,1399.57,87.47,1.4,89170,41.49,0.0,134.57,-1.12
+2020-10-31,Rio de Janeiro,Saquarema,0.0,0,0,0.0,1248,78,6.25,1399.57,87.47,1.4,89170,41.49,-3.36,135.69,-3.36
+2020-10-30,Rio de Janeiro,Saquarema,1.12,1,0,0.0,1248,78,6.25,1399.57,87.47,1.4,89170,44.85,-3.37,139.05,-7.85
 2020-10-29,Rio de Janeiro,Saquarema,3.36,3,2,2.24,1247,78,6.26,1398.45,87.47,1.4,89170,48.22,-10.1,146.9,-3.37
 2020-10-28,Rio de Janeiro,Saquarema,8.97,8,2,2.24,1244,76,6.11,1395.09,85.23,1.4,89170,58.32,-8.97,150.27,1.12
 2020-10-27,Rio de Janeiro,Saquarema,0.0,0,0,0.0,1236,74,5.99,1386.12,82.99,1.39,89170,67.29,-1.12,149.15,0.0
