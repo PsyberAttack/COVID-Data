@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-21,Washington,Lincoln,18.62,2,0,0.0,129,3,2.33,1201.12,27.93,1.2,10740,4.65,270.0,-46.56,493.45,9.31
 2020-11-20,Washington,Lincoln,9.31,1,0,0.0,127,3,2.36,1182.5,27.93,1.18,10740,4.65,316.56,-37.24,484.14,-9.31
 2020-11-19,Washington,Lincoln,37.24,4,1,9.31,126,3,2.38,1173.18,27.93,1.17,10740,4.65,353.8,37.24,493.45,0.0
 2020-11-18,Washington,Lincoln,0.0,0,0,0.0,122,2,1.64,1135.94,18.62,1.14,10740,4.65,316.56,0.0,493.45,-27.93

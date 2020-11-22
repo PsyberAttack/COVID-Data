@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-21,California,San Joaquin,0.0,0,-1,-0.13,24649,503,2.04,3274.92,66.83,3.27,752660,540.55,150.4,0.0,401.1,0.0
 2020-11-20,California,San Joaquin,26.44,199,-1,-0.13,24649,504,2.04,3274.92,66.96,3.27,752660,540.55,150.4,-12.49,401.1,12.89
 2020-11-19,California,San Joaquin,15.28,115,0,0.0,24450,505,2.07,3248.48,67.1,3.25,752660,540.55,162.89,-15.41,388.21,7.97
 2020-11-18,California,San Joaquin,21.79,164,1,0.13,24335,505,2.08,3233.2,67.1,3.23,752660,540.55,178.3,21.79,380.24,16.87

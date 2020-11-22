@@ -1,11 +1,12 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-20,Bayern,Wunsiedel im Fichtelgebirge,12.3,9,0,0.0,1185,49,4.14,1619.34,66.96,1.62,73178,140.75,0.0,392.2,-1.37
-2020-11-19,Bayern,Wunsiedel im Fichtelgebirge,16.4,12,0,0.0,1176,49,4.17,1607.04,66.96,1.61,73178,140.75,4.1,393.57,2.73
-2020-11-18,Bayern,Wunsiedel im Fichtelgebirge,47.83,35,0,0.0,1164,49,4.21,1590.64,66.96,1.59,73178,136.65,36.9,390.84,39.63
-2020-11-17,Bayern,Wunsiedel im Fichtelgebirge,17.76,13,0,0.0,1129,49,4.34,1542.81,66.96,1.54,73178,99.75,6.83,351.21,2.73
-2020-11-16,Bayern,Wunsiedel im Fichtelgebirge,20.5,15,2,2.73,1116,49,4.39,1525.05,66.96,1.53,73178,92.92,13.67,348.48,-4.1
-2020-11-15,Bayern,Wunsiedel im Fichtelgebirge,8.2,6,0,0.0,1101,47,4.27,1504.55,64.23,1.5,73178,79.25,-2.73,352.58,-4.1
-2020-11-14,Bayern,Wunsiedel im Fichtelgebirge,17.76,13,0,0.0,1095,47,4.29,1496.35,64.23,1.5,73178,81.98,8.19,356.68,12.29
+2020-11-21,Bayern,Wunsiedel im Fichtelgebirge,2.73,2,0,0.0,1194,49,4.1,1631.64,66.96,1.63,73178,132.56,-17.77,397.68,-4.1
+2020-11-20,Bayern,Wunsiedel im Fichtelgebirge,12.3,9,0,0.0,1192,49,4.11,1628.9,66.96,1.63,73178,150.33,0.0,401.78,-1.37
+2020-11-19,Bayern,Wunsiedel im Fichtelgebirge,16.4,12,0,0.0,1183,49,4.14,1616.61,66.96,1.62,73178,150.33,4.1,403.15,2.73
+2020-11-18,Bayern,Wunsiedel im Fichtelgebirge,51.93,38,0,0.0,1171,49,4.18,1600.21,66.96,1.6,73178,146.23,41.0,400.42,43.73
+2020-11-17,Bayern,Wunsiedel im Fichtelgebirge,20.5,15,0,0.0,1133,49,4.32,1548.28,66.96,1.55,73178,105.23,9.57,356.69,5.47
+2020-11-16,Bayern,Wunsiedel im Fichtelgebirge,20.5,15,2,2.73,1118,49,4.38,1527.78,66.96,1.53,73178,95.66,13.67,351.22,-4.1
+2020-11-15,Bayern,Wunsiedel im Fichtelgebirge,8.2,6,0,0.0,1103,47,4.26,1507.28,64.23,1.51,73178,81.99,-2.73,355.32,-4.1
+2020-11-14,Bayern,Wunsiedel im Fichtelgebirge,20.5,15,0,0.0,1097,47,4.28,1499.08,64.23,1.5,73178,84.72,10.93,359.42,15.03
 2020-11-13,Bayern,Wunsiedel im Fichtelgebirge,12.3,9,0,0.0,1082,47,4.34,1478.59,64.23,1.48,73178,73.79,-10.93,344.39,-1.37
 2020-11-12,Bayern,Wunsiedel im Fichtelgebirge,12.3,9,0,0.0,1073,47,4.38,1466.29,64.23,1.47,73178,84.72,-5.46,345.76,2.73
 2020-11-11,Bayern,Wunsiedel im Fichtelgebirge,10.93,8,0,0.0,1064,47,4.42,1453.99,64.23,1.45,73178,90.18,-6.83,343.03,4.1
