@@ -1,9 +1,10 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-21,Mecklenburg-Vorpommern,Rostock,1.39,3,0,0.0,630,6,0.95,292.87,2.79,0.29,215113,25.55,-0.93,118.5,-5.12
-2020-11-20,Mecklenburg-Vorpommern,Rostock,4.18,9,0,0.0,627,6,0.96,291.47,2.79,0.29,215113,26.48,0.93,123.62,-2.79
-2020-11-19,Mecklenburg-Vorpommern,Rostock,3.25,7,0,0.0,618,6,0.97,287.29,2.79,0.29,215113,25.55,-1.4,126.41,-7.91
-2020-11-18,Mecklenburg-Vorpommern,Rostock,4.65,10,0,0.0,611,6,0.98,284.04,2.79,0.28,215113,26.95,0.0,134.32,-6.04
-2020-11-17,Mecklenburg-Vorpommern,Rostock,5.11,11,0,0.0,601,6,1.0,279.39,2.79,0.28,215113,26.95,3.72,140.36,-0.47
+2020-11-22,Mecklenburg-Vorpommern,Rostock,0.46,1,0,0.0,633,6,0.95,294.26,2.79,0.29,215113,21.85,-4.65,117.59,-1.86
+2020-11-21,Mecklenburg-Vorpommern,Rostock,0.93,2,0,0.0,632,6,0.95,293.8,2.79,0.29,215113,26.5,-1.39,119.45,-5.58
+2020-11-20,Mecklenburg-Vorpommern,Rostock,4.65,10,0,0.0,630,6,0.95,292.87,2.79,0.29,215113,27.89,1.4,125.03,-2.32
+2020-11-19,Mecklenburg-Vorpommern,Rostock,3.72,8,0,0.0,620,6,0.97,288.22,2.79,0.29,215113,26.49,-0.93,127.35,-7.44
+2020-11-18,Mecklenburg-Vorpommern,Rostock,4.65,10,0,0.0,612,6,0.98,284.5,2.79,0.28,215113,27.42,0.0,134.79,-6.04
+2020-11-17,Mecklenburg-Vorpommern,Rostock,5.58,12,0,0.0,602,6,1.0,279.85,2.79,0.28,215113,27.42,4.19,140.83,0.0
 2020-11-16,Mecklenburg-Vorpommern,Rostock,1.86,4,0,0.0,590,6,1.02,274.27,2.79,0.27,215113,23.23,-4.18,140.83,-1.39
 2020-11-15,Mecklenburg-Vorpommern,Rostock,5.11,11,0,0.0,586,6,1.02,272.41,2.79,0.27,215113,27.41,3.72,142.22,3.72
 2020-11-14,Mecklenburg-Vorpommern,Rostock,2.32,5,0,0.0,575,6,1.04,267.3,2.79,0.27,215113,23.69,-1.4,138.5,-1.4

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-22,Texas,Floyd,0.0,0,1,17.13,182,16,8.79,3118.04,274.11,3.12,5837,5.88,154.19,0.0,959.39,0.0
 2020-11-21,Texas,Floyd,51.4,3,1,17.13,182,15,8.24,3118.04,256.98,3.12,5837,5.88,154.19,-51.39,959.39,34.27
 2020-11-20,Texas,Floyd,-102.79,-6,3,51.4,179,14,7.82,3066.64,239.85,3.07,5837,5.88,205.58,-222.71,925.12,-171.32
 2020-11-19,Texas,Floyd,17.13,1,1,17.13,185,11,5.95,3169.44,188.45,3.17,5837,5.88,428.29,17.13,1096.44,17.13

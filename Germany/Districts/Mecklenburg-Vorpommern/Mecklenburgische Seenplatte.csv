@@ -1,15 +1,16 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-21,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,2.7,7,0,0.0,736,10,1.36,284.03,3.86,0.28,259130,26.23,-1.16,112.67,-1.54
-2020-11-20,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,6.56,17,0,0.0,729,10,1.37,281.33,3.86,0.28,259130,27.39,2.7,114.21,4.24
-2020-11-19,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,4.63,12,0,0.0,712,10,1.4,274.77,3.86,0.27,259130,24.69,-4.25,109.97,-3.86
-2020-11-18,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,4.24,11,0,0.0,700,10,1.43,270.13,3.86,0.27,259130,28.94,-1.16,113.83,-0.39
-2020-11-17,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,4.63,12,0,0.0,689,10,1.45,265.89,3.86,0.27,259130,30.1,0.0,114.22,-0.39
-2020-11-16,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,1.54,4,0,0.0,677,10,1.48,261.26,3.86,0.26,259130,30.1,-4.25,114.61,-6.18
-2020-11-15,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,1.93,5,0,0.0,673,10,1.49,259.72,3.86,0.26,259130,34.35,-1.16,120.79,0.39
-2020-11-14,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,3.86,10,0,0.0,668,10,1.5,257.79,3.86,0.26,259130,35.51,0.39,120.4,-1.16
-2020-11-13,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,3.86,10,0,0.0,658,10,1.52,253.93,3.86,0.25,259130,35.12,0.0,121.56,-1.16
-2020-11-12,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,8.88,23,2,0.77,648,10,1.54,250.07,3.86,0.25,259130,35.12,5.41,122.72,6.95
-2020-11-11,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,5.4,14,0,0.0,625,8,1.28,241.19,3.09,0.24,259130,29.71,1.93,115.77,0.77
+2020-11-22,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,1.16,3,0,0.0,743,10,1.35,286.73,3.86,0.29,259130,26.63,-0.77,112.69,-1.54
+2020-11-21,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,2.32,6,0,0.0,740,10,1.35,285.57,3.86,0.29,259130,27.4,-1.54,114.23,-1.92
+2020-11-20,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,7.33,19,0,0.0,734,10,1.36,283.26,3.86,0.28,259130,28.94,3.47,116.15,5.01
+2020-11-19,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,4.63,12,0,0.0,715,10,1.4,275.92,3.86,0.28,259130,25.47,-4.25,111.14,-3.86
+2020-11-18,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,4.63,12,0,0.0,703,10,1.42,271.29,3.86,0.27,259130,29.72,-1.16,115.0,0.0
+2020-11-17,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,5.02,13,0,0.0,691,10,1.45,266.66,3.86,0.27,259130,30.88,0.39,115.0,0.0
+2020-11-16,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,1.54,4,0,0.0,678,10,1.47,261.64,3.86,0.26,259130,30.49,-4.25,115.0,-6.18
+2020-11-15,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,1.93,5,0,0.0,674,10,1.48,260.1,3.86,0.26,259130,34.74,-1.16,121.18,0.39
+2020-11-14,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,3.86,10,0,0.0,669,10,1.49,258.17,3.86,0.26,259130,35.9,0.39,120.79,-1.16
+2020-11-13,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,3.86,10,0,0.0,659,10,1.52,254.31,3.86,0.25,259130,35.51,0.0,121.95,-1.16
+2020-11-12,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,8.88,23,2,0.77,649,10,1.54,250.45,3.86,0.25,259130,35.51,5.41,123.11,6.95
+2020-11-11,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,5.79,15,0,0.0,626,8,1.28,241.58,3.09,0.24,259130,30.1,2.32,116.16,1.16
 2020-11-10,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,4.63,12,1,0.39,611,8,1.31,235.79,3.09,0.24,259130,27.78,-0.39,115.0,-0.77
 2020-11-09,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,5.79,15,0,0.0,599,7,1.17,231.16,2.7,0.23,259130,28.17,2.32,115.77,3.86
 2020-11-08,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,3.09,8,0,0.0,584,7,1.2,225.37,2.7,0.23,259130,25.85,-0.38,111.91,-1.15

@@ -1,11 +1,13 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-19,Mato Grosso do Sul,Guia Lopes da Laguna,10.11,1,0,0.0,368,10,2.72,3719.05,101.06,3.72,9895,-10.11,0.0,141.49,10.11
-2020-11-18,Mato Grosso do Sul,Guia Lopes da Laguna,-10.11,-1,0,0.0,367,10,2.72,3708.94,101.06,3.71,9895,-10.11,-10.11,131.38,-20.22
-2020-11-17,Mato Grosso do Sul,Guia Lopes da Laguna,0.0,0,0,0.0,368,10,2.72,3719.05,101.06,3.72,9895,-0.0,10.11,151.6,0.0
-2020-11-16,Mato Grosso do Sul,Guia Lopes da Laguna,0.0,0,0,0.0,368,10,2.72,3719.05,101.06,3.72,9895,-10.11,0.0,151.6,0.0
-2020-11-15,Mato Grosso do Sul,Guia Lopes da Laguna,0.0,0,0,0.0,368,10,2.72,3719.05,101.06,3.72,9895,-10.11,0.0,151.6,0.0
-2020-11-14,Mato Grosso do Sul,Guia Lopes da Laguna,0.0,0,0,0.0,368,10,2.72,3719.05,101.06,3.72,9895,-10.11,-40.42,151.6,-20.21
-2020-11-13,Mato Grosso do Sul,Guia Lopes da Laguna,-10.11,-1,1,10.11,368,10,2.72,3719.05,101.06,3.72,9895,30.31,-20.22,171.81,-30.32
+2020-11-19,Mato Grosso do Sul,Guia Lopes da Laguna,10.11,1,0,0.0,368,10,2.72,3719.05,101.06,3.72,9895,-10.11,20.22,131.38,0.0
+2020-11-18,Mato Grosso do Sul,Guia Lopes da Laguna,-10.11,-1,0,0.0,367,10,2.72,3708.94,101.06,3.71,9895,-30.33,-20.22,131.38,-10.11
+2020-11-17,Mato Grosso do Sul,Guia Lopes da Laguna,0.0,0,0,0.0,368,10,2.72,3719.05,101.06,3.72,9895,-10.11,-10.11,141.49,0.0
+2020-11-16,Mato Grosso do Sul,Guia Lopes da Laguna,0.0,0,0,0.0,368,10,2.72,3719.05,101.06,3.72,9895,-0.0,0.0,141.49,-10.11
+2020-11-15,Mato Grosso do Sul,Guia Lopes da Laguna,0.0,0,0,0.0,368,10,2.72,3719.05,101.06,3.72,9895,-0.0,10.11,151.6,0.0
+2020-11-14,Mato Grosso do Sul,Guia Lopes da Laguna,0.0,0,0,0.0,368,10,2.72,3719.05,101.06,3.72,9895,-10.11,0.0,151.6,0.0
+2020-11-13,Mato Grosso do Sul,Guia Lopes da Laguna,-10.11,-1,0,0.0,368,10,2.72,3719.05,101.06,3.72,9895,-10.11,-10.11,151.6,-10.11
+2020-11-12,Mato Grosso do Sul,Guia Lopes da Laguna,-10.11,-1,0,0.0,369,10,2.71,3729.16,101.06,3.73,9895,-0.0,-50.53,161.71,-30.32
+2020-11-11,Mato Grosso do Sul,Guia Lopes da Laguna,10.11,1,1,10.11,370,10,2.7,3739.26,101.06,3.74,9895,50.53,0.0,192.03,-10.1
 2020-11-10,Mato Grosso do Sul,Guia Lopes da Laguna,10.11,1,0,0.0,369,9,2.44,3729.16,90.96,3.73,9895,50.53,-10.1,202.13,0.0
 2020-11-09,Mato Grosso do Sul,Guia Lopes da Laguna,0.0,0,0,0.0,368,9,2.45,3719.05,90.96,3.72,9895,60.63,0.0,202.13,0.0
 2020-11-08,Mato Grosso do Sul,Guia Lopes da Laguna,-10.11,-1,0,0.0,368,9,2.45,3719.05,90.96,3.72,9895,60.63,-10.11,202.13,-10.11
