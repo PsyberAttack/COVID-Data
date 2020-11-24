@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-20,Minas Gerais,Salto da Divisa,0.0,0,0,0.0,58,1,1.72,827.51,14.27,0.83,7009,42.8,0.0,299.61,0.0
-2020-11-19,Minas Gerais,Salto da Divisa,14.27,1,0,0.0,58,1,1.72,827.51,14.27,0.83,7009,42.8,14.27,299.61,14.27
+2020-11-20,Minas Gerais,Salto da Divisa,0.0,0,0,0.0,58,1,1.72,827.51,14.27,0.83,7009,14.27,0.0,271.08,-28.53
+2020-11-19,Minas Gerais,Salto da Divisa,0.0,0,0,0.0,58,1,1.72,827.51,14.27,0.83,7009,14.27,-28.53,299.61,0.0
+2020-11-18,Minas Gerais,Salto da Divisa,14.27,1,0,0.0,58,1,1.72,827.51,14.27,0.83,7009,42.8,14.27,299.61,14.27
+2020-11-17,Minas Gerais,Salto da Divisa,0.0,0,0,0.0,57,1,1.75,813.24,14.27,0.81,7009,28.53,0.0,285.34,0.0
 2020-11-16,Minas Gerais,Salto da Divisa,0.0,0,0,0.0,57,1,1.75,813.24,14.27,0.81,7009,28.53,-99.87,285.34,0.0
 2020-11-14,Minas Gerais,Salto da Divisa,0.0,0,0,0.0,57,1,1.75,813.24,14.27,0.81,7009,128.4,0.0,285.34,0.0
 2020-11-13,Minas Gerais,Salto da Divisa,0.0,0,0,0.0,57,1,1.75,813.24,14.27,0.81,7009,128.4,-71.34,285.34,-14.27

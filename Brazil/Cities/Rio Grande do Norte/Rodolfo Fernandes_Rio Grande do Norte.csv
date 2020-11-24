@@ -1,11 +1,16 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-20,Rio Grande do Norte,Rodolfo Fernandes,0.0,0,0,0.0,101,1,0.99,2261.03,22.39,2.26,4467,671.59,0.0,1499.89,0.0
-2020-11-19,Rio Grande do Norte,Rodolfo Fernandes,44.77,2,0,0.0,101,1,0.99,2261.03,22.39,2.26,4467,671.59,-22.39,1499.89,22.38
-2020-11-18,Rio Grande do Norte,Rodolfo Fernandes,22.39,1,0,0.0,99,1,1.01,2216.25,22.39,2.22,4467,693.98,67.16,1477.51,22.39
-2020-11-17,Rio Grande do Norte,Rodolfo Fernandes,0.0,0,0,0.0,98,1,1.02,2193.87,22.39,2.19,4467,626.82,0.0,1455.12,0.0
-2020-11-16,Rio Grande do Norte,Rodolfo Fernandes,604.43,27,0,0.0,98,1,1.02,2193.87,22.39,2.19,4467,626.82,604.43,1455.12,514.88
-2020-11-11,Rio Grande do Norte,Rodolfo Fernandes,0.0,0,0,0.0,71,1,1.41,1589.43,22.39,1.59,4467,22.39,0.0,940.24,0.0
-2020-11-10,Rio Grande do Norte,Rodolfo Fernandes,0.0,0,0,0.0,71,1,1.41,1589.43,22.39,1.59,4467,22.39,44.77,940.24,0.0
+2020-11-20,Rio Grande do Norte,Rodolfo Fernandes,0.0,0,0,0.0,101,1,0.99,2261.03,22.39,2.26,4467,671.59,0.0,1096.94,-246.25
+2020-11-19,Rio Grande do Norte,Rodolfo Fernandes,44.77,2,0,0.0,101,1,0.99,2261.03,22.39,2.26,4467,671.59,44.77,1343.19,44.77
+2020-11-18,Rio Grande do Norte,Rodolfo Fernandes,22.39,1,0,0.0,99,1,1.01,2216.25,22.39,2.22,4467,626.82,22.39,1298.42,-134.31
+2020-11-17,Rio Grande do Norte,Rodolfo Fernandes,0.0,0,0,0.0,98,1,1.02,2193.87,22.39,2.19,4467,604.43,0.0,1432.73,0.0
+2020-11-16,Rio Grande do Norte,Rodolfo Fernandes,44.77,2,0,0.0,98,1,1.02,2193.87,22.39,2.19,4467,604.43,44.77,1432.73,44.77
+2020-11-15,Rio Grande do Norte,Rodolfo Fernandes,514.89,23,0,0.0,96,1,1.04,2149.09,22.39,2.15,4467,559.66,514.89,1387.96,514.89
+2020-11-13,Rio Grande do Norte,Rodolfo Fernandes,44.77,2,0,0.0,73,1,1.37,1634.21,22.39,1.63,4467,44.77,-22.39,873.07,22.38
+2020-11-12,Rio Grande do Norte,Rodolfo Fernandes,0.0,0,0,0.0,71,1,1.41,1589.43,22.39,1.59,4467,67.16,44.77,850.69,0.0
+2020-11-11,Rio Grande do Norte,Rodolfo Fernandes,0.0,0,0,0.0,71,1,1.41,1589.43,22.39,1.59,4467,22.39,0.0,850.69,0.0
+2020-11-10,Rio Grande do Norte,Rodolfo Fernandes,0.0,0,0,0.0,71,1,1.41,1589.43,22.39,1.59,4467,22.39,0.0,850.69,-89.55
+2020-11-09,Rio Grande do Norte,Rodolfo Fernandes,0.0,0,0,0.0,71,1,1.41,1589.43,22.39,1.59,4467,22.39,0.0,940.24,0.0
+2020-11-08,Rio Grande do Norte,Rodolfo Fernandes,0.0,0,0,0.0,71,1,1.41,1589.43,22.39,1.59,4467,22.39,44.77,940.24,0.0
 2020-11-06,Rio Grande do Norte,Rodolfo Fernandes,0.0,0,0,0.0,71,1,1.41,1589.43,22.39,1.59,4467,-22.38,0.0,940.24,0.0
 2020-11-05,Rio Grande do Norte,Rodolfo Fernandes,67.16,3,0,0.0,71,1,1.41,1589.43,22.39,1.59,4467,-22.38,67.16,940.24,67.16
 2020-11-04,Rio Grande do Norte,Rodolfo Fernandes,-44.77,-2,0,0.0,68,1,1.47,1522.27,22.39,1.52,4467,-89.54,-111.93,873.08,-44.77

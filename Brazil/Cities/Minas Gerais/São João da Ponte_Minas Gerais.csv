@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-20,Minas Gerais,São João da Ponte,0.0,0,0,0.0,117,9,7.69,464.93,35.76,0.46,25165,63.57,0.0,154.96,0.0
-2020-11-19,Minas Gerais,São João da Ponte,11.92,3,0,0.0,117,9,7.69,464.93,35.76,0.46,25165,63.57,7.95,154.96,11.92
+2020-11-20,Minas Gerais,São João da Ponte,0.0,0,0,0.0,117,9,7.69,464.93,35.76,0.46,25165,27.81,-3.97,139.07,-11.92
+2020-11-19,Minas Gerais,São João da Ponte,3.97,1,0,0.0,117,9,7.69,464.93,35.76,0.46,25165,31.78,-27.82,150.99,0.0
+2020-11-18,Minas Gerais,São João da Ponte,7.95,2,0,0.0,116,9,7.76,460.96,35.76,0.46,25165,59.6,7.95,150.99,7.95
+2020-11-17,Minas Gerais,São João da Ponte,0.0,0,0,0.0,114,9,7.89,453.01,35.76,0.45,25165,51.65,-3.97,143.04,0.0
 2020-11-16,Minas Gerais,São João da Ponte,11.92,3,0,0.0,114,9,7.89,453.01,35.76,0.45,25165,55.62,11.92,143.04,11.92
 2020-11-14,Minas Gerais,São João da Ponte,0.0,0,0,0.0,111,9,8.11,441.09,35.76,0.44,25165,43.7,-7.95,131.12,0.0
 2020-11-13,Minas Gerais,São João da Ponte,3.97,1,0,0.0,111,9,8.11,441.09,35.76,0.44,25165,51.65,-3.98,131.12,3.97

@@ -1,11 +1,16 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-20,Rio Grande do Norte,São Francisco do Oeste,0.0,0,0,0.0,67,1,1.49,1584.67,23.65,1.58,4228,47.31,0.0,1182.58,0.0
-2020-11-19,Rio Grande do Norte,São Francisco do Oeste,0.0,0,0,0.0,67,1,1.49,1584.67,23.65,1.58,4228,47.31,-47.3,1182.58,-23.65
-2020-11-18,Rio Grande do Norte,São Francisco do Oeste,-47.3,-2,0,0.0,67,1,1.49,1584.67,23.65,1.58,4228,94.61,-236.51,1206.23,-47.3
-2020-11-17,Rio Grande do Norte,São Francisco do Oeste,0.0,0,0,0.0,69,1,1.45,1631.98,23.65,1.63,4228,331.12,-23.65,1253.53,0.0
-2020-11-16,Rio Grande do Norte,São Francisco do Oeste,70.96,3,0,0.0,69,1,1.45,1631.98,23.65,1.63,4228,354.77,70.96,1253.53,70.96
-2020-11-11,Rio Grande do Norte,São Francisco do Oeste,-23.65,-1,0,0.0,66,1,1.52,1561.02,23.65,1.56,4228,283.81,-189.21,1182.57,-23.65
-2020-11-10,Rio Grande do Norte,São Francisco do Oeste,47.3,2,0,0.0,67,1,1.49,1584.67,23.65,1.58,4228,473.02,23.65,1206.22,47.3
+2020-11-20,Rio Grande do Norte,São Francisco do Oeste,0.0,0,0,0.0,67,1,1.49,1584.67,23.65,1.58,4228,-47.3,-70.96,804.15,-70.96
+2020-11-19,Rio Grande do Norte,São Francisco do Oeste,0.0,0,0,0.0,67,1,1.49,1584.67,23.65,1.58,4228,23.66,23.65,875.11,-118.26
+2020-11-18,Rio Grande do Norte,São Francisco do Oeste,-47.3,-2,0,0.0,67,1,1.49,1584.67,23.65,1.58,4228,0.01,-70.95,993.37,-70.95
+2020-11-17,Rio Grande do Norte,São Francisco do Oeste,0.0,0,0,0.0,69,1,1.45,1631.98,23.65,1.63,4228,70.96,-23.65,1064.32,0.0
+2020-11-16,Rio Grande do Norte,São Francisco do Oeste,0.0,0,0,0.0,69,1,1.45,1631.98,23.65,1.63,4228,94.61,0.0,1064.32,-165.56
+2020-11-15,Rio Grande do Norte,São Francisco do Oeste,0.0,0,0,0.0,69,1,1.45,1631.98,23.65,1.63,4228,94.61,0.0,1229.88,0.0
+2020-11-13,Rio Grande do Norte,São Francisco do Oeste,0.0,0,0,0.0,69,1,1.45,1631.98,23.65,1.63,4228,94.61,-47.3,1229.88,-23.65
+2020-11-12,Rio Grande do Norte,São Francisco do Oeste,70.96,3,0,0.0,69,1,1.45,1631.98,23.65,1.63,4228,141.91,-118.25,1253.53,70.96
+2020-11-11,Rio Grande do Norte,São Francisco do Oeste,-23.65,-1,0,0.0,66,1,1.52,1561.02,23.65,1.56,4228,260.16,-47.3,1182.57,-23.65
+2020-11-10,Rio Grande do Norte,São Francisco do Oeste,23.65,1,0,0.0,67,1,1.49,1584.67,23.65,1.58,4228,307.46,23.65,1206.22,23.65
+2020-11-09,Rio Grande do Norte,São Francisco do Oeste,23.65,1,0,0.0,66,1,1.52,1561.02,23.65,1.56,4228,283.81,-141.91,1182.57,23.65
+2020-11-08,Rio Grande do Norte,São Francisco do Oeste,0.0,0,0,0.0,65,1,1.54,1537.37,23.65,1.54,4228,425.72,-23.65,1158.92,0.0
 2020-11-06,Rio Grande do Norte,São Francisco do Oeste,0.0,0,0,0.0,65,1,1.54,1537.37,23.65,1.54,4228,449.37,0.0,1158.92,0.0
 2020-11-05,Rio Grande do Norte,São Francisco do Oeste,47.3,2,0,0.0,65,1,1.54,1537.37,23.65,1.54,4228,449.37,-70.96,1158.92,47.3
 2020-11-04,Rio Grande do Norte,São Francisco do Oeste,189.21,8,0,0.0,63,1,1.59,1490.07,23.65,1.49,4228,520.33,212.86,1111.62,189.21

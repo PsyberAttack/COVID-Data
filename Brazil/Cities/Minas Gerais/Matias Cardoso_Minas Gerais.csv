@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-20,Minas Gerais,Matias Cardoso,0.0,0,0,0.0,51,1,1.96,457.11,8.96,0.46,11157,35.85,0.0,143.39,0.0
-2020-11-19,Minas Gerais,Matias Cardoso,8.96,1,0,0.0,51,1,1.96,457.11,8.96,0.46,11157,35.85,0.0,143.39,8.96
+2020-11-20,Minas Gerais,Matias Cardoso,0.0,0,0,0.0,51,1,1.96,457.11,8.96,0.46,11157,8.96,-8.96,134.43,0.0
+2020-11-19,Minas Gerais,Matias Cardoso,0.0,0,0,0.0,51,1,1.96,457.11,8.96,0.46,11157,17.92,-17.93,134.43,-8.96
+2020-11-18,Minas Gerais,Matias Cardoso,8.96,1,0,0.0,51,1,1.96,457.11,8.96,0.46,11157,35.85,8.96,143.39,8.96
+2020-11-17,Minas Gerais,Matias Cardoso,0.0,0,0,0.0,50,1,2.0,448.15,8.96,0.45,11157,26.89,-8.96,134.43,0.0
 2020-11-16,Minas Gerais,Matias Cardoso,0.0,0,0,0.0,50,1,2.0,448.15,8.96,0.45,11157,35.85,-8.96,134.43,0.0
 2020-11-14,Minas Gerais,Matias Cardoso,0.0,0,0,0.0,50,1,2.0,448.15,8.96,0.45,11157,44.81,-26.89,134.43,0.0
 2020-11-13,Minas Gerais,Matias Cardoso,0.0,0,0,0.0,50,1,2.0,448.15,8.96,0.45,11157,71.7,-26.89,134.43,-17.93

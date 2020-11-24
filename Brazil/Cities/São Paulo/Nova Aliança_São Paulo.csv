@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-23,São Paulo,Nova Aliança,0.0,0,0,0.0,264,4,1.52,3786.03,57.36,3.79,6973,114.72,0.0,358.5,-28.68
+2020-11-22,São Paulo,Nova Aliança,28.68,2,0,0.0,264,4,1.52,3786.03,57.36,3.79,6973,114.72,14.34,387.18,28.68
+2020-11-21,São Paulo,Nova Aliança,28.68,2,0,0.0,262,4,1.53,3757.35,57.36,3.76,6973,100.38,28.68,358.5,-14.34
 2020-11-19,São Paulo,Nova Aliança,14.34,1,0,0.0,260,4,1.54,3728.67,57.36,3.73,6973,71.7,14.34,372.84,-28.68
 2020-11-18,São Paulo,Nova Aliança,43.02,3,0,0.0,259,4,1.54,3714.33,57.36,3.71,6973,57.36,14.34,401.52,43.02
 2020-11-17,São Paulo,Nova Aliança,14.34,1,0,0.0,256,4,1.56,3671.3,57.36,3.67,6973,43.02,-43.02,358.5,14.34

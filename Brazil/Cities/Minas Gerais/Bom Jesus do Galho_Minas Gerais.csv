@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-20,Minas Gerais,Bom Jesus do Galho,20.09,3,0,0.0,150,6,4.0,1004.35,40.17,1.0,14935,66.96,13.39,120.54,20.09
-2020-11-19,Minas Gerais,Bom Jesus do Galho,13.39,2,0,0.0,147,6,4.08,984.27,40.17,0.98,14935,53.57,-6.7,100.45,-107.13
+2020-11-20,Minas Gerais,Bom Jesus do Galho,20.09,3,0,0.0,150,6,4.0,1004.35,40.17,1.0,14935,46.88,0.0,127.25,40.18
+2020-11-19,Minas Gerais,Bom Jesus do Galho,6.7,1,0,0.0,147,6,4.08,984.27,40.17,0.98,14935,46.88,6.7,87.07,-6.69
+2020-11-18,Minas Gerais,Bom Jesus do Galho,6.7,1,0,0.0,146,6,4.11,977.57,40.17,0.98,14935,40.18,0.0,93.76,6.7
+2020-11-17,Minas Gerais,Bom Jesus do Galho,0.0,0,0,0.0,145,6,4.14,970.87,40.17,0.97,14935,40.18,-20.09,87.06,-120.52
 2020-11-16,Minas Gerais,Bom Jesus do Galho,0.0,0,0,0.0,145,6,4.14,970.87,40.17,0.97,14935,60.27,0.0,207.58,0.0
 2020-11-14,Minas Gerais,Bom Jesus do Galho,0.0,0,0,0.0,145,6,4.14,970.87,40.17,0.97,14935,60.27,0.0,207.58,0.0
 2020-11-13,Minas Gerais,Bom Jesus do Galho,13.39,2,1,6.7,145,6,4.14,970.87,40.17,0.97,14935,60.27,6.69,207.58,13.39

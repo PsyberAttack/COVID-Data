@@ -1,11 +1,16 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-20,Rio Grande do Norte,Riacho de Santana,47.57,2,0,0.0,24,0,0.0,570.88,0.0,0.57,4204,47.57,47.57,190.28,47.57
-2020-11-19,Rio Grande do Norte,Riacho de Santana,0.0,0,0,0.0,22,0,0.0,523.31,0.0,0.52,4204,0.0,0.0,142.71,0.0
-2020-11-18,Rio Grande do Norte,Riacho de Santana,0.0,0,0,0.0,22,0,0.0,523.31,0.0,0.52,4204,0.0,23.79,142.71,0.0
-2020-11-17,Rio Grande do Norte,Riacho de Santana,23.79,1,0,0.0,22,0,0.0,523.31,0.0,0.52,4204,-23.79,23.79,142.71,23.79
-2020-11-16,Rio Grande do Norte,Riacho de Santana,0.0,0,0,0.0,21,0,0.0,499.52,0.0,0.5,4204,-47.58,0.0,118.92,0.0
+2020-11-20,Rio Grande do Norte,Riacho de Santana,47.57,2,0,0.0,24,0,0.0,570.88,0.0,0.57,4204,71.36,47.57,71.35,0.0
+2020-11-19,Rio Grande do Norte,Riacho de Santana,0.0,0,0,0.0,22,0,0.0,523.31,0.0,0.52,4204,23.79,0.0,71.35,0.0
+2020-11-18,Rio Grande do Norte,Riacho de Santana,0.0,0,0,0.0,22,0,0.0,523.31,0.0,0.52,4204,23.79,23.79,71.35,-47.57
+2020-11-17,Rio Grande do Norte,Riacho de Santana,23.79,1,0,0.0,22,0,0.0,523.31,0.0,0.52,4204,0.0,23.79,118.92,0.0
+2020-11-16,Rio Grande do Norte,Riacho de Santana,0.0,0,0,0.0,21,0,0.0,499.52,0.0,0.5,4204,-23.79,0.0,118.92,0.0
+2020-11-15,Rio Grande do Norte,Riacho de Santana,0.0,0,0,0.0,21,0,0.0,499.52,0.0,0.5,4204,-23.79,0.0,118.92,0.0
+2020-11-13,Rio Grande do Norte,Riacho de Santana,0.0,0,0,0.0,21,0,0.0,499.52,0.0,0.5,4204,-23.79,0.0,118.92,0.0
+2020-11-12,Rio Grande do Norte,Riacho de Santana,0.0,0,0,0.0,21,0,0.0,499.52,0.0,0.5,4204,-23.79,23.79,118.92,0.0
 2020-11-11,Rio Grande do Norte,Riacho de Santana,0.0,0,0,0.0,21,0,0.0,499.52,0.0,0.5,4204,-47.58,0.0,118.92,0.0
-2020-11-10,Rio Grande do Norte,Riacho de Santana,-23.79,-1,0,0.0,21,0,0.0,499.52,0.0,0.5,4204,-47.58,-71.36,118.92,-23.79
+2020-11-10,Rio Grande do Norte,Riacho de Santana,-23.79,-1,0,0.0,21,0,0.0,499.52,0.0,0.5,4204,-47.58,-23.79,118.92,-23.79
+2020-11-09,Rio Grande do Norte,Riacho de Santana,0.0,0,0,0.0,22,0,0.0,523.31,0.0,0.52,4204,-23.79,0.0,142.71,0.0
+2020-11-08,Rio Grande do Norte,Riacho de Santana,0.0,0,0,0.0,22,0,0.0,523.31,0.0,0.52,4204,-23.79,-47.57,142.71,0.0
 2020-11-06,Rio Grande do Norte,Riacho de Santana,0.0,0,0,0.0,22,0,0.0,523.31,0.0,0.52,4204,23.78,0.0,142.71,0.0
 2020-11-05,Rio Grande do Norte,Riacho de Santana,0.0,0,0,0.0,22,0,0.0,523.31,0.0,0.52,4204,23.78,0.0,142.71,0.0
 2020-11-04,Rio Grande do Norte,Riacho de Santana,-23.79,-1,0,0.0,22,0,0.0,523.31,0.0,0.52,4204,23.78,-23.79,142.71,-47.58

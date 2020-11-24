@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-23,São Paulo,Chavantes,0.0,0,0,0.0,152,2,1.32,1224.03,16.11,1.22,12418,80.52,-8.05,346.25,0.0
+2020-11-22,São Paulo,Chavantes,0.0,0,0,0.0,152,2,1.32,1224.03,16.11,1.22,12418,88.57,-8.05,346.25,0.0
+2020-11-21,São Paulo,Chavantes,32.21,4,0,0.0,152,2,1.32,1224.03,16.11,1.22,12418,96.62,-80.53,346.25,16.1
 2020-11-19,São Paulo,Chavantes,40.26,5,0,0.0,148,2,1.35,1191.82,16.11,1.19,12418,177.15,32.21,330.15,40.26
 2020-11-18,São Paulo,Chavantes,8.05,1,0,0.0,143,2,1.4,1151.55,16.11,1.15,12418,144.94,8.05,289.89,8.05
 2020-11-17,São Paulo,Chavantes,0.0,0,0,0.0,142,2,1.41,1143.5,16.11,1.14,12418,136.89,-64.42,281.84,0.0

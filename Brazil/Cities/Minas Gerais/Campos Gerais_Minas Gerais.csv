@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-20,Minas Gerais,Campos Gerais,0.0,0,0,0.0,233,7,3.0,809.76,24.33,0.81,28774,27.81,-20.85,194.65,0.0
-2020-11-19,Minas Gerais,Campos Gerais,3.48,1,0,0.0,233,7,3.0,809.76,24.33,0.81,28774,48.66,0.0,194.65,-24.32
+2020-11-20,Minas Gerais,Campos Gerais,0.0,0,0,0.0,233,7,3.0,809.76,24.33,0.81,28774,27.81,0.0,177.27,-10.43
+2020-11-19,Minas Gerais,Campos Gerais,0.0,0,0,0.0,233,7,3.0,809.76,24.33,0.81,28774,27.81,0.0,187.7,-6.95
+2020-11-18,Minas Gerais,Campos Gerais,3.48,1,0,0.0,233,7,3.0,809.76,24.33,0.81,28774,27.81,-17.37,194.65,3.48
+2020-11-17,Minas Gerais,Campos Gerais,0.0,0,0,0.0,232,7,3.02,806.28,24.33,0.81,28774,45.18,-3.48,191.17,-27.8
 2020-11-16,Minas Gerais,Campos Gerais,3.48,1,0,0.0,232,7,3.02,806.28,24.33,0.81,28774,48.66,3.48,218.97,3.48
 2020-11-14,Minas Gerais,Campos Gerais,0.0,0,0,0.0,231,7,3.03,802.81,24.33,0.8,28774,45.18,-3.48,215.49,0.0
 2020-11-13,Minas Gerais,Campos Gerais,20.85,6,0,0.0,231,7,3.03,802.81,24.33,0.8,28774,48.66,-34.76,215.49,20.85

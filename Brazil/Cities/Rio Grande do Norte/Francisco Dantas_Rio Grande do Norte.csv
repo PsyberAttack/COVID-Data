@@ -1,11 +1,16 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-20,Rio Grande do Norte,Francisco Dantas,35.41,1,0,0.0,68,0,0.0,2407.93,0.0,2.41,2824,424.93,106.23,1416.41,35.41
-2020-11-19,Rio Grande do Norte,Francisco Dantas,0.0,0,0,0.0,67,0,0.0,2372.52,0.0,2.37,2824,318.7,-70.82,1381.0,-35.41
-2020-11-18,Rio Grande do Norte,Francisco Dantas,0.0,0,0,0.0,67,0,0.0,2372.52,0.0,2.37,2824,389.52,-70.82,1416.41,0.0
-2020-11-17,Rio Grande do Norte,Francisco Dantas,-35.41,-1,0,0.0,67,0,0.0,2372.52,0.0,2.37,2824,460.34,-177.05,1416.41,-35.41
-2020-11-16,Rio Grande do Norte,Francisco Dantas,283.29,8,0,0.0,68,0,0.0,2407.93,0.0,2.41,2824,637.39,283.29,1451.82,283.29
-2020-11-11,Rio Grande do Norte,Francisco Dantas,141.64,4,0,0.0,60,0,0.0,2124.65,0.0,2.12,2824,354.1,106.23,1168.53,-70.82
-2020-11-10,Rio Grande do Norte,Francisco Dantas,0.0,0,0,0.0,56,0,0.0,1983.0,0.0,1.98,2824,247.87,-35.41,1239.35,-106.23
+2020-11-20,Rio Grande do Norte,Francisco Dantas,35.41,1,0,0.0,68,0,0.0,2407.93,0.0,2.41,2824,318.7,70.82,1416.42,-141.64
+2020-11-19,Rio Grande do Norte,Francisco Dantas,0.0,0,0,0.0,67,0,0.0,2372.52,0.0,2.37,2824,247.88,-141.64,1558.06,0.0
+2020-11-18,Rio Grande do Norte,Francisco Dantas,0.0,0,0,0.0,67,0,0.0,2372.52,0.0,2.37,2824,389.52,0.0,1558.06,247.88
+2020-11-17,Rio Grande do Norte,Francisco Dantas,-35.41,-1,0,0.0,67,0,0.0,2372.52,0.0,2.37,2824,389.52,-35.41,1310.18,-35.41
+2020-11-16,Rio Grande do Norte,Francisco Dantas,0.0,0,0,0.0,68,0,0.0,2407.93,0.0,2.41,2824,424.93,0.0,1345.59,-70.82
+2020-11-15,Rio Grande do Norte,Francisco Dantas,0.0,0,0,0.0,68,0,0.0,2407.93,0.0,2.41,2824,424.93,70.82,1416.41,0.0
+2020-11-13,Rio Grande do Norte,Francisco Dantas,318.7,9,0,0.0,68,0,0.0,2407.93,0.0,2.41,2824,354.11,247.88,1416.41,283.29
+2020-11-12,Rio Grande do Norte,Francisco Dantas,-35.41,-1,0,0.0,59,0,0.0,2089.24,0.0,2.09,2824,106.23,-106.23,1133.12,-35.41
+2020-11-11,Rio Grande do Norte,Francisco Dantas,141.64,4,0,0.0,60,0,0.0,2124.65,0.0,2.12,2824,212.46,0.0,1168.53,141.64
+2020-11-10,Rio Grande do Norte,Francisco Dantas,0.0,0,0,0.0,56,0,0.0,1983.0,0.0,1.98,2824,212.46,0.0,1026.89,0.0
+2020-11-09,Rio Grande do Norte,Francisco Dantas,0.0,0,0,0.0,56,0,0.0,1983.0,0.0,1.98,2824,212.46,-35.41,1026.89,-212.46
+2020-11-08,Rio Grande do Norte,Francisco Dantas,0.0,0,0,0.0,56,0,0.0,1983.0,0.0,1.98,2824,247.87,-35.41,1239.35,-106.23
 2020-11-06,Rio Grande do Norte,Francisco Dantas,-70.82,-2,0,0.0,56,0,0.0,1983.0,0.0,1.98,2824,283.28,-70.82,1345.58,-106.23
 2020-11-05,Rio Grande do Norte,Francisco Dantas,70.82,2,0,0.0,58,0,0.0,2053.82,0.0,2.05,2824,354.1,70.82,1451.81,70.82
 2020-11-04,Rio Grande do Norte,Francisco Dantas,70.82,2,0,0.0,56,0,0.0,1983.0,0.0,1.98,2824,283.28,-70.82,1380.99,35.41

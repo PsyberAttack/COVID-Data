@@ -1,11 +1,16 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-20,Rio Grande do Norte,Caiçara do Rio do Vento,0.0,0,0,0.0,86,1,1.16,2334.42,27.14,2.33,3684,135.72,27.14,54.29,0.0
-2020-11-19,Rio Grande do Norte,Caiçara do Rio do Vento,0.0,0,0,0.0,86,1,1.16,2334.42,27.14,2.33,3684,108.58,0.0,54.29,0.0
-2020-11-18,Rio Grande do Norte,Caiçara do Rio do Vento,27.14,1,0,0.0,86,1,1.16,2334.42,27.14,2.33,3684,108.58,27.14,54.29,27.14
-2020-11-17,Rio Grande do Norte,Caiçara do Rio do Vento,108.58,4,0,0.0,85,1,1.18,2307.27,27.14,2.31,3684,81.44,108.58,27.15,108.58
-2020-11-16,Rio Grande do Norte,Caiçara do Rio do Vento,27.14,1,0,0.0,81,1,1.23,2198.7,27.14,2.2,3684,-27.14,27.14,-81.43,-570.04
-2020-11-11,Rio Grande do Norte,Caiçara do Rio do Vento,-27.14,-1,0,0.0,80,1,1.25,2171.55,27.14,2.17,3684,-54.28,-27.14,488.61,-27.14
-2020-11-10,Rio Grande do Norte,Caiçara do Rio do Vento,0.0,0,0,0.0,81,1,1.23,2198.7,27.14,2.2,3684,-27.14,-162.87,515.75,0.0
+2020-11-20,Rio Grande do Norte,Caiçara do Rio do Vento,0.0,0,0,0.0,86,1,1.16,2334.42,27.14,2.33,3684,135.72,-27.14,407.17,-135.72
+2020-11-19,Rio Grande do Norte,Caiçara do Rio do Vento,0.0,0,0,0.0,86,1,1.16,2334.42,27.14,2.33,3684,162.86,27.14,542.89,0.0
+2020-11-18,Rio Grande do Norte,Caiçara do Rio do Vento,27.14,1,0,0.0,86,1,1.16,2334.42,27.14,2.33,3684,135.72,0.0,542.89,515.74
+2020-11-17,Rio Grande do Norte,Caiçara do Rio do Vento,108.58,4,0,0.0,85,1,1.18,2307.27,27.14,2.31,3684,135.72,108.58,27.15,108.58
+2020-11-16,Rio Grande do Norte,Caiçara do Rio do Vento,0.0,0,0,0.0,81,1,1.23,2198.7,27.14,2.2,3684,27.14,27.14,-81.43,0.0
+2020-11-15,Rio Grande do Norte,Caiçara do Rio do Vento,0.0,0,0,0.0,81,1,1.23,2198.7,27.14,2.2,3684,0.0,27.14,-81.43,0.0
+2020-11-13,Rio Grande do Norte,Caiçara do Rio do Vento,0.0,0,0,0.0,81,1,1.23,2198.7,27.14,2.2,3684,-27.14,0.0,-81.43,0.0
+2020-11-12,Rio Grande do Norte,Caiçara do Rio do Vento,27.14,1,0,0.0,81,1,1.23,2198.7,27.14,2.2,3684,-27.14,27.14,-81.43,27.14
+2020-11-11,Rio Grande do Norte,Caiçara do Rio do Vento,-27.14,-1,0,0.0,80,1,1.25,2171.55,27.14,2.17,3684,-54.28,-27.14,-108.57,-27.14
+2020-11-10,Rio Grande do Norte,Caiçara do Rio do Vento,27.14,1,0,0.0,81,1,1.23,2198.7,27.14,2.2,3684,-27.14,27.14,-81.43,-570.04
+2020-11-09,Rio Grande do Norte,Caiçara do Rio do Vento,0.0,0,0,0.0,80,1,1.25,2171.55,27.14,2.17,3684,-54.28,0.0,488.61,0.0
+2020-11-08,Rio Grande do Norte,Caiçara do Rio do Vento,-27.14,-1,0,0.0,80,1,1.25,2171.55,27.14,2.17,3684,-54.28,-190.01,488.61,-27.14
 2020-11-06,Rio Grande do Norte,Caiçara do Rio do Vento,-27.14,-1,0,0.0,81,1,1.23,2198.7,27.14,2.2,3684,135.73,-27.14,515.75,-27.14
 2020-11-05,Rio Grande do Norte,Caiçara do Rio do Vento,0.0,0,0,0.0,82,1,1.22,2225.84,27.14,2.23,3684,162.87,0.0,542.89,0.0
 2020-11-04,Rio Grande do Norte,Caiçara do Rio do Vento,0.0,0,0,0.0,82,1,1.22,2225.84,27.14,2.23,3684,162.87,0.0,542.89,0.0

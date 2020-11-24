@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-20,Minas Gerais,Jaboticatubas,9.93,2,0,0.0,380,10,2.63,1886.51,49.65,1.89,20143,49.64,0.0,79.41,9.93
-2020-11-19,Minas Gerais,Jaboticatubas,24.82,5,0,0.0,378,10,2.65,1876.58,49.65,1.88,20143,49.64,24.82,69.48,14.89
+2020-11-20,Minas Gerais,Jaboticatubas,9.93,2,0,0.0,380,10,2.63,1886.51,49.65,1.89,20143,44.68,4.97,79.41,9.93
+2020-11-19,Minas Gerais,Jaboticatubas,0.0,0,0,0.0,378,10,2.65,1876.58,49.65,1.88,20143,39.71,0.0,69.48,0.0
+2020-11-18,Minas Gerais,Jaboticatubas,19.86,4,0,0.0,378,10,2.65,1876.58,49.65,1.88,20143,39.71,9.93,69.48,19.86
+2020-11-17,Minas Gerais,Jaboticatubas,4.96,1,0,0.0,374,10,2.67,1856.72,49.65,1.86,20143,29.78,4.96,49.62,-4.97
 2020-11-16,Minas Gerais,Jaboticatubas,9.93,2,0,0.0,373,10,2.68,1851.76,49.65,1.85,20143,24.82,9.93,54.59,9.93
 2020-11-14,Minas Gerais,Jaboticatubas,0.0,0,0,0.0,371,10,2.7,1841.83,49.65,1.84,20143,14.89,0.0,44.66,0.0
 2020-11-13,Minas Gerais,Jaboticatubas,0.0,0,0,0.0,371,10,2.7,1841.83,49.65,1.84,20143,14.89,0.0,44.66,0.0

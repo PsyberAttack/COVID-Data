@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-20,Minas Gerais,Itamarandiba,14.39,5,0,0.0,165,1,0.61,475.03,2.88,0.48,34735,69.09,-5.76,218.8,14.39
-2020-11-19,Minas Gerais,Itamarandiba,28.79,10,0,0.0,160,1,0.62,460.63,2.88,0.46,34735,74.85,23.03,204.41,2.88
+2020-11-20,Minas Gerais,Itamarandiba,14.39,5,0,0.0,165,1,0.61,475.03,2.88,0.48,34735,54.71,0.0,195.78,-8.64
+2020-11-19,Minas Gerais,Itamarandiba,8.64,3,0,0.0,160,1,0.62,460.63,2.88,0.46,34735,54.71,8.64,204.42,8.64
+2020-11-18,Minas Gerais,Itamarandiba,8.64,3,0,0.0,157,1,0.64,451.99,2.88,0.45,34735,46.07,-11.51,195.78,8.64
+2020-11-17,Minas Gerais,Itamarandiba,11.52,4,0,0.0,154,1,0.65,443.36,2.88,0.44,34735,57.58,5.76,187.14,-14.39
 2020-11-16,Minas Gerais,Itamarandiba,0.0,0,0,0.0,150,1,0.67,431.84,2.88,0.43,34735,51.82,-8.64,201.53,0.0
 2020-11-14,Minas Gerais,Itamarandiba,0.0,0,0,0.0,150,1,0.67,431.84,2.88,0.43,34735,60.46,0.0,201.53,0.0
 2020-11-13,Minas Gerais,Itamarandiba,11.52,4,0,0.0,150,1,0.67,431.84,2.88,0.43,34735,60.46,-11.51,201.53,-5.75

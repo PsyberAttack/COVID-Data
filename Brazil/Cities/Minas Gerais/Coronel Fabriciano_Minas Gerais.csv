@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-20,Minas Gerais,Coronel Fabriciano,24.58,27,0,0.0,4358,85,1.95,3967.05,77.37,3.97,109855,343.17,10.02,676.33,24.58
-2020-11-19,Minas Gerais,Coronel Fabriciano,96.49,106,-1,-0.91,4331,85,1.96,3942.47,77.37,3.94,109855,333.15,49.15,651.75,32.77
+2020-11-20,Minas Gerais,Coronel Fabriciano,24.58,27,0,0.0,4358,85,1.95,3967.05,77.37,3.97,109855,237.57,-39.14,647.19,-3.64
+2020-11-19,Minas Gerais,Coronel Fabriciano,40.05,44,-1,-0.91,4331,85,1.96,3942.47,77.37,3.94,109855,276.71,-1.82,650.83,39.14
+2020-11-18,Minas Gerais,Coronel Fabriciano,41.87,46,0,0.0,4287,86,2.01,3902.42,78.29,3.9,109855,278.53,27.31,611.69,41.87
+2020-11-17,Minas Gerais,Coronel Fabriciano,14.56,16,0,0.0,4241,86,2.03,3860.54,78.29,3.86,109855,251.22,-32.78,569.82,-49.16
 2020-11-16,Minas Gerais,Coronel Fabriciano,72.82,80,3,2.73,4225,86,2.04,3845.98,78.29,3.85,109855,284.0,62.81,618.98,72.82
 2020-11-14,Minas Gerais,Coronel Fabriciano,0.0,0,0,0.0,4145,83,2.0,3773.16,75.55,3.77,109855,221.19,-6.37,546.16,0.0
 2020-11-13,Minas Gerais,Coronel Fabriciano,43.69,48,2,1.82,4145,83,2.0,3773.16,75.55,3.77,109855,227.56,-11.84,546.16,32.77

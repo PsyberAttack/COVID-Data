@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-23,São Paulo,Palestina,7.72,1,0,0.0,151,7,4.64,1165.39,54.02,1.17,12957,15.44,7.72,46.32,0.0
+2020-11-22,São Paulo,Palestina,0.0,0,0,0.0,150,7,4.67,1157.68,54.02,1.16,12957,7.72,-7.72,46.32,0.0
+2020-11-21,São Paulo,Palestina,0.0,0,0,0.0,150,7,4.67,1157.68,54.02,1.16,12957,15.44,0.0,46.32,-7.72
 2020-11-19,São Paulo,Palestina,0.0,0,0,0.0,150,7,4.67,1157.68,54.02,1.16,12957,15.44,0.0,54.04,0.0
 2020-11-18,São Paulo,Palestina,0.0,0,0,0.0,150,7,4.67,1157.68,54.02,1.16,12957,15.44,0.0,54.04,0.0
 2020-11-17,São Paulo,Palestina,7.72,1,1,7.72,150,7,4.67,1157.68,54.02,1.16,12957,15.44,0.0,54.04,-23.15

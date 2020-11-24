@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-23,São Paulo,Nova Europa,0.0,0,0,0.0,321,3,0.93,2869.66,26.82,2.87,11186,312.89,0.0,572.15,0.0
+2020-11-22,São Paulo,Nova Europa,0.0,0,0,0.0,321,3,0.93,2869.66,26.82,2.87,11186,312.89,-35.76,572.15,0.0
+2020-11-21,São Paulo,Nova Europa,0.0,0,0,0.0,321,3,0.93,2869.66,26.82,2.87,11186,348.65,0.0,572.15,-62.58
 2020-11-19,São Paulo,Nova Europa,214.55,24,0,0.0,321,3,0.93,2869.66,26.82,2.87,11186,348.65,187.73,634.73,196.67
 2020-11-18,São Paulo,Nova Europa,17.88,2,0,0.0,297,3,1.01,2655.1,26.82,2.66,11186,160.92,8.94,438.06,17.88
 2020-11-17,São Paulo,Nova Europa,80.46,9,0,0.0,295,3,1.02,2637.23,26.82,2.64,11186,151.98,-8.94,420.18,80.46

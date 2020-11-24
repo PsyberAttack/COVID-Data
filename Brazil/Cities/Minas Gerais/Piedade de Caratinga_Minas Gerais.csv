@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-20,Minas Gerais,Piedade de Caratinga,0.0,0,0,0.0,89,2,2.25,1038.99,23.35,1.04,8566,128.41,0.0,210.12,0.0
-2020-11-19,Minas Gerais,Piedade de Caratinga,70.04,6,0,0.0,89,2,2.25,1038.99,23.35,1.04,8566,128.41,70.04,210.12,11.67
+2020-11-20,Minas Gerais,Piedade de Caratinga,0.0,0,0,0.0,89,2,2.25,1038.99,23.35,1.04,8566,70.05,-58.37,210.13,0.0
+2020-11-19,Minas Gerais,Piedade de Caratinga,46.7,4,0,0.0,89,2,2.25,1038.99,23.35,1.04,8566,128.42,46.7,210.13,46.7
+2020-11-18,Minas Gerais,Piedade de Caratinga,0.0,0,0,0.0,85,2,2.35,992.3,23.35,0.99,8566,81.72,0.0,163.43,0.0
+2020-11-17,Minas Gerais,Piedade de Caratinga,23.35,2,0,0.0,85,2,2.35,992.3,23.35,0.99,8566,81.72,23.35,163.43,-35.02
 2020-11-16,Minas Gerais,Piedade de Caratinga,0.0,0,0,0.0,83,2,2.41,968.95,23.35,0.97,8566,58.37,0.0,198.45,0.0
 2020-11-14,Minas Gerais,Piedade de Caratinga,0.0,0,0,0.0,83,2,2.41,968.95,23.35,0.97,8566,58.37,0.0,198.45,0.0
 2020-11-13,Minas Gerais,Piedade de Caratinga,0.0,0,0,0.0,83,2,2.41,968.95,23.35,0.97,8566,58.37,-11.67,198.45,0.0

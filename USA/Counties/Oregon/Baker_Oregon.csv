@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-23,Oregon,Baker,12.5,2,0,0.0,259,3,1.16,1618.14,18.74,1.62,16006,5.22,224.92,-37.48,868.42,12.5
 2020-11-22,Oregon,Baker,0.0,0,0,0.0,257,3,1.17,1605.65,18.74,1.61,16006,5.22,262.4,0.0,855.92,-37.49
 2020-11-21,Oregon,Baker,56.23,9,0,0.0,257,3,1.17,1605.65,18.74,1.61,16006,5.22,262.4,-12.49,893.41,56.23
 2020-11-20,Oregon,Baker,49.98,8,0,0.0,248,3,1.21,1549.42,18.74,1.55,16006,5.22,274.89,12.49,837.18,43.73
