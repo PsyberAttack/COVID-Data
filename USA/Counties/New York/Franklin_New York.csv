@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-24,New York,Franklin,7.95,4,1,1.99,243,6,2.47,483.17,11.93,0.48,50293,30.87,95.45,-3.98,324.13,7.95
 2020-11-23,New York,Franklin,15.91,8,0,0.0,239,5,2.09,475.22,9.94,0.48,50293,30.87,99.43,13.92,316.18,13.92
 2020-11-22,New York,Franklin,3.98,2,1,1.99,231,5,2.16,459.31,9.94,0.46,50293,30.87,85.51,-3.97,302.26,3.98
 2020-11-21,New York,Franklin,17.9,9,1,1.99,229,4,1.75,455.33,7.95,0.46,50293,30.87,89.48,-1.98,298.28,17.9

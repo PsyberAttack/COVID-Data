@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-24,Texas,Castro,39.14,3,0,0.0,442,8,1.81,5766.47,104.37,5.77,7665,8.57,456.63,-143.51,1709.07,-91.32
 2020-11-23,Texas,Castro,-13.05,-1,0,0.0,439,8,1.82,5727.33,104.37,5.73,7665,8.57,600.14,-13.05,1800.39,-13.05
 2020-11-22,Texas,Castro,13.05,1,0,0.0,440,8,1.82,5740.38,104.37,5.74,7665,8.57,613.19,13.05,1813.44,13.05
 2020-11-21,Texas,Castro,156.56,12,0,0.0,439,8,1.82,5727.33,104.37,5.73,7665,8.57,600.14,156.56,1800.39,0.0

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-24,New York,Montgomery,34.37,17,0,0.0,413,12,2.91,835.1,24.26,0.84,49455,122.68,165.8,22.24,297.23,26.28
 2020-11-23,New York,Montgomery,36.4,18,0,0.0,396,12,3.03,800.73,24.26,0.8,49455,122.68,143.56,30.33,270.95,34.38
 2020-11-22,New York,Montgomery,4.04,2,0,0.0,378,12,3.17,764.33,24.26,0.76,49455,122.68,113.23,-2.03,236.57,4.04
 2020-11-21,New York,Montgomery,24.26,12,1,2.02,376,12,3.19,760.29,24.26,0.76,49455,122.68,115.26,0.0,232.53,24.26
