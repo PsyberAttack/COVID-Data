@@ -1,8 +1,10 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-22,Brandenburg,Brandenburg an der Havel,1.39,1,0,0.0,346,2,0.58,479.73,2.77,0.48,72124,98.45,-5.54,260.67,-5.54
-2020-11-21,Brandenburg,Brandenburg an der Havel,8.32,6,0,0.0,345,2,0.58,478.34,2.77,0.48,72124,103.99,4.16,266.21,-2.77
-2020-11-20,Brandenburg,Brandenburg an der Havel,11.09,8,0,0.0,339,2,0.59,470.02,2.77,0.47,72124,99.83,-2.78,268.98,-2.78
-2020-11-19,Brandenburg,Brandenburg an der Havel,30.5,22,0,0.0,331,2,0.6,458.93,2.77,0.46,72124,102.61,26.34,271.76,19.41
+2020-11-24,Brandenburg,Brandenburg an der Havel,4.16,3,0,0.0,354,2,0.56,490.82,2.77,0.49,72124,79.03,-12.48,257.9,1.39
+2020-11-23,Brandenburg,Brandenburg an der Havel,0.0,0,0,0.0,351,2,0.57,486.66,2.77,0.49,72124,91.51,-13.87,256.51,-11.09
+2020-11-22,Brandenburg,Brandenburg an der Havel,2.77,2,0,0.0,351,2,0.57,486.66,2.77,0.49,72124,105.38,-4.16,267.6,-4.16
+2020-11-21,Brandenburg,Brandenburg an der Havel,11.09,8,0,0.0,349,2,0.57,483.89,2.77,0.48,72124,109.54,6.93,271.76,0.0
+2020-11-20,Brandenburg,Brandenburg an der Havel,12.48,9,0,0.0,341,2,0.59,472.8,2.77,0.47,72124,102.61,-1.39,271.76,-1.39
+2020-11-19,Brandenburg,Brandenburg an der Havel,31.89,23,0,0.0,332,2,0.6,460.32,2.77,0.46,72124,104.0,27.73,273.15,20.8
 2020-11-18,Brandenburg,Brandenburg an der Havel,16.64,12,0,0.0,309,2,0.65,428.43,2.77,0.43,72124,76.27,11.09,252.35,9.71
 2020-11-17,Brandenburg,Brandenburg an der Havel,16.64,12,0,0.0,297,2,0.67,411.79,2.77,0.41,72124,65.18,8.32,242.64,1.39
 2020-11-16,Brandenburg,Brandenburg an der Havel,13.87,10,0,0.0,285,2,0.7,395.15,2.77,0.4,72124,56.86,2.78,241.25,6.94
