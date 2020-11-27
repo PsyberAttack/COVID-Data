@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-26,New York,Jefferson,14.32,16,0,0.0,487,3,0.62,435.77,2.68,0.44,111755,88.09,119.02,6.27,246.96,10.74
 2020-11-25,New York,Jefferson,12.53,14,0,0.0,471,3,0.64,421.46,2.68,0.42,111755,88.09,112.75,7.16,236.22,11.64
 2020-11-24,New York,Jefferson,19.69,22,1,0.89,457,3,0.66,408.93,2.68,0.41,111755,88.09,105.59,13.43,224.58,17.01
 2020-11-23,New York,Jefferson,15.21,17,0,0.0,435,2,0.46,389.24,1.79,0.39,111755,88.09,92.16,8.05,207.57,14.32

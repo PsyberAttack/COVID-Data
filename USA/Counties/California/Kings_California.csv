@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-26,California,Kings,37.0,56,0,0.0,10496,87,0.83,6934.19,57.48,6.93,151366,108.87,476.34,-7.26,1327.91,-12.55
 2020-11-25,California,Kings,53.51,81,0,0.0,10440,87,0.83,6897.19,57.48,6.9,151366,108.87,483.6,24.44,1340.46,26.42
 2020-11-24,California,Kings,66.07,100,0,0.0,10359,87,0.84,6843.68,57.48,6.84,151366,108.87,459.16,24.45,1314.04,-15.85
 2020-11-23,California,Kings,95.13,144,1,0.66,10259,87,0.85,6777.61,57.48,6.78,151366,108.87,434.71,38.31,1329.89,83.24

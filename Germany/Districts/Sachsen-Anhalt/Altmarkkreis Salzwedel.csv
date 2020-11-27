@@ -1,14 +1,15 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-25,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,284,5,1.76,341.46,6.01,0.34,83173,38.46,-4.81,220.01,-2.41
-2020-11-24,Sachsen-Anhalt,Altmarkkreis Salzwedel,2.4,2,0,0.0,283,5,1.77,340.25,6.01,0.34,83173,43.27,-12.03,222.42,0.0
-2020-11-23,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,281,5,1.78,337.85,6.01,0.34,83173,55.3,-9.62,222.42,-10.82
-2020-11-22,Sachsen-Anhalt,Altmarkkreis Salzwedel,3.61,3,0,0.0,281,5,1.78,337.85,6.01,0.34,83173,64.92,-1.2,233.24,-1.2
-2020-11-21,Sachsen-Anhalt,Altmarkkreis Salzwedel,2.4,2,0,0.0,278,5,1.8,334.24,6.01,0.33,83173,66.12,-1.21,234.44,-4.81
-2020-11-20,Sachsen-Anhalt,Altmarkkreis Salzwedel,6.01,5,0,0.0,276,5,1.81,331.84,6.01,0.33,83173,67.33,-1.2,239.25,2.4
-2020-11-19,Sachsen-Anhalt,Altmarkkreis Salzwedel,22.84,19,0,0.0,271,5,1.85,325.83,6.01,0.33,83173,68.53,13.22,236.85,20.44
-2020-11-18,Sachsen-Anhalt,Altmarkkreis Salzwedel,6.01,5,0,0.0,252,5,1.98,302.98,6.01,0.3,83173,55.31,-7.22,216.41,3.61
-2020-11-17,Sachsen-Anhalt,Altmarkkreis Salzwedel,14.43,12,0,0.0,247,5,2.02,296.97,6.01,0.3,83173,62.53,9.62,212.8,13.23
-2020-11-16,Sachsen-Anhalt,Altmarkkreis Salzwedel,9.62,8,0,0.0,235,5,2.13,282.54,6.01,0.28,83173,52.91,7.22,199.57,8.42
+2020-11-26,Sachsen-Anhalt,Altmarkkreis Salzwedel,12.02,10,0,0.0,300,6,2.0,360.69,7.21,0.36,83173,34.86,-10.82,227.23,0.0
+2020-11-25,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,290,6,2.07,348.67,7.21,0.35,83173,45.68,-4.81,227.23,-2.41
+2020-11-24,Sachsen-Anhalt,Altmarkkreis Salzwedel,3.61,3,0,0.0,289,6,2.08,347.47,7.21,0.35,83173,50.49,-10.82,229.64,1.21
+2020-11-23,Sachsen-Anhalt,Altmarkkreis Salzwedel,2.4,2,0,0.0,286,6,2.1,343.86,7.21,0.34,83173,61.31,-7.22,228.43,-8.42
+2020-11-22,Sachsen-Anhalt,Altmarkkreis Salzwedel,6.01,5,0,0.0,284,6,2.11,341.46,7.21,0.34,83173,68.53,1.2,236.85,1.2
+2020-11-21,Sachsen-Anhalt,Altmarkkreis Salzwedel,3.61,3,0,0.0,279,6,2.15,335.45,7.21,0.34,83173,67.33,0.0,235.65,-3.6
+2020-11-20,Sachsen-Anhalt,Altmarkkreis Salzwedel,6.01,5,0,0.0,276,6,2.17,331.84,7.21,0.33,83173,67.33,-1.2,239.25,2.4
+2020-11-19,Sachsen-Anhalt,Altmarkkreis Salzwedel,22.84,19,0,0.0,271,6,2.21,325.83,7.21,0.33,83173,68.53,13.22,236.85,20.44
+2020-11-18,Sachsen-Anhalt,Altmarkkreis Salzwedel,6.01,5,0,0.0,252,6,2.38,302.98,7.21,0.3,83173,55.31,-7.22,216.41,3.61
+2020-11-17,Sachsen-Anhalt,Altmarkkreis Salzwedel,14.43,12,0,0.0,247,6,2.43,296.97,7.21,0.3,83173,62.53,9.62,212.8,13.23
+2020-11-16,Sachsen-Anhalt,Altmarkkreis Salzwedel,9.62,8,1,1.2,235,6,2.55,282.54,7.21,0.28,83173,52.91,7.22,199.57,8.42
 2020-11-15,Sachsen-Anhalt,Altmarkkreis Salzwedel,4.81,4,0,0.0,227,5,2.2,272.93,6.01,0.27,83173,45.69,-6.01,191.15,3.61
 2020-11-14,Sachsen-Anhalt,Altmarkkreis Salzwedel,3.61,3,0,0.0,223,5,2.24,268.12,6.01,0.27,83173,51.7,-8.41,187.54,-1.2
 2020-11-13,Sachsen-Anhalt,Altmarkkreis Salzwedel,7.21,6,0,0.0,220,5,2.27,264.51,6.01,0.26,83173,60.11,-4.81,188.74,7.21

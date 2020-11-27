@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-26,Oregon,Lane,23.45,89,1,0.26,4139,41,0.99,1090.33,10.8,1.09,379611,83.31,146.73,-8.42,440.45,19.24
 2020-11-25,Oregon,Lane,25.55,97,3,0.79,4050,40,0.99,1066.88,10.54,1.07,379611,83.31,155.15,-6.06,421.21,17.12
 2020-11-24,Oregon,Lane,16.6,63,0,0.0,3953,37,0.94,1041.33,9.75,1.04,379611,83.31,161.21,5.27,404.09,9.49
 2020-11-23,Oregon,Lane,18.44,70,0,0.0,3890,37,0.95,1024.73,9.75,1.02,379611,83.31,155.94,8.17,394.6,8.43
