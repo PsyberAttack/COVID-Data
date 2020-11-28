@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-27,São Paulo,Capela do Alto,4.83,1,0,0.0,368,5,1.36,1777.26,24.15,1.78,20706,38.64,0.0,140.07,0.0
+2020-11-26,São Paulo,Capela do Alto,9.66,2,0,0.0,367,5,1.36,1772.43,24.15,1.77,20706,38.64,4.83,140.07,0.0
+2020-11-25,São Paulo,Capela do Alto,4.83,1,0,0.0,365,5,1.37,1762.77,24.15,1.76,20706,33.81,0.0,140.07,-9.66
 2020-11-24,São Paulo,Capela do Alto,19.32,4,0,0.0,364,5,1.37,1757.94,24.15,1.76,20706,33.81,19.32,149.73,9.66
 2020-11-23,São Paulo,Capela do Alto,0.0,0,0,0.0,360,5,1.39,1738.63,24.15,1.74,20706,14.49,0.0,140.07,-14.49
 2020-11-22,São Paulo,Capela do Alto,0.0,0,0,0.0,360,5,1.39,1738.63,24.15,1.74,20706,14.49,-4.83,154.56,0.0

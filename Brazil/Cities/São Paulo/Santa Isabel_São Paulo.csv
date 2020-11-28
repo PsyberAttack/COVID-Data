@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-11-27,São Paulo,Santa Isabel,5.23,3,0,0.0,1505,74,4.92,2622.59,128.95,2.62,57386,20.92,-24.39,329.34,0.0
+2020-11-26,São Paulo,Santa Isabel,3.49,2,1,1.74,1502,74,4.93,2617.36,128.95,2.62,57386,45.31,-26.13,329.34,0.0
+2020-11-25,São Paulo,Santa Isabel,0.0,0,0,0.0,1500,73,4.87,2613.88,127.21,2.61,57386,71.44,-55.76,329.34,-10.46
 2020-11-24,São Paulo,Santa Isabel,3.49,2,0,0.0,1500,73,4.87,2613.88,127.21,2.61,57386,127.2,3.49,339.8,3.49
 2020-11-23,São Paulo,Santa Isabel,0.0,0,0,0.0,1498,73,4.87,2610.39,127.21,2.61,57386,123.71,0.0,336.31,-13.94
 2020-11-22,São Paulo,Santa Isabel,1.74,1,0,0.0,1498,73,4.87,2610.39,127.21,2.61,57386,123.71,-27.88,350.25,1.74
