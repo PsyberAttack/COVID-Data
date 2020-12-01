@@ -1,4 +1,5 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-01,West_Bengal,Malda,2.1,84,3,0.08,11513,102,0.89,287.97,2.55,0.29,3997970,7.54,0.77,38.38,0.5
 2020-11-30,West_Bengal,Malda,0.55,22,2,0.05,11429,99,0.87,285.87,2.48,0.29,3997970,6.77,-0.08,37.88,-0.85
 2020-11-29,West_Bengal,Malda,1.08,43,0,0.0,11407,97,0.85,285.32,2.43,0.29,3997970,6.85,-0.07,38.73,-0.5
 2020-11-28,West_Bengal,Malda,1.23,49,0,0.0,11364,97,0.85,284.24,2.43,0.28,3997970,6.92,0.48,39.23,-1.17
