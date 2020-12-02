@@ -1,5 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-01,Manipur,Ukhrul,0.0,0,0,0.0,484,1,0.21,264.31,0.55,0.26,183115,6.01,0.0,33.32,0.0
+2020-12-02,Manipur,Ukhrul,0.0,0,0,0.0,490,2,0.41,267.59,1.09,0.27,183115,9.29,0.0,33.87,-2.73
+2020-12-01,Manipur,Ukhrul,3.28,6,1,0.55,490,2,0.41,267.59,1.09,0.27,183115,9.29,3.28,36.6,3.28
 2020-11-30,Manipur,Ukhrul,0.55,1,0,0.0,484,1,0.21,264.31,0.55,0.26,183115,6.01,-1.09,33.32,0.0
 2020-11-29,Manipur,Ukhrul,1.64,3,1,0.55,483,1,0.21,263.77,0.55,0.26,183115,7.1,0.55,33.32,1.09
 2020-11-28,Manipur,Ukhrul,0.55,1,0,0.0,480,0,0.0,262.13,0.0,0.26,183115,6.55,0.55,32.23,-2.18

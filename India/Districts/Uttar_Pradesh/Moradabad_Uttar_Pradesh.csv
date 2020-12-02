@@ -1,5 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-01,Uttar_Pradesh,Moradabad,0.0,0,0,0.0,11010,172,1.56,230.67,3.6,0.23,4773138,2.96,-0.88,11.89,-0.52
+2020-12-02,Uttar_Pradesh,Moradabad,0.0,0,0,0.0,10985,170,1.55,230.14,3.56,0.23,4773138,1.79,-0.65,11.06,-0.31
+2020-12-01,Uttar_Pradesh,Moradabad,-0.52,-25,-2,-0.04,10985,170,1.55,230.14,3.56,0.23,4773138,2.44,-1.4,11.37,-1.04
 2020-11-30,Uttar_Pradesh,Moradabad,0.4,19,0,0.0,11010,172,1.56,230.67,3.6,0.23,4773138,3.84,-0.08,12.41,0.13
 2020-11-29,Uttar_Pradesh,Moradabad,0.57,27,1,0.02,10991,172,1.56,230.27,3.6,0.23,4773138,3.92,0.05,12.28,0.17
 2020-11-28,Uttar_Pradesh,Moradabad,0.46,22,0,0.0,10964,171,1.56,229.7,3.58,0.23,4773138,3.87,0.0,12.11,0.29

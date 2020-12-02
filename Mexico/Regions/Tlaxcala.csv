@@ -1,4 +1,6 @@
 date,country,region,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-01,Mexico,Tlaxcala,3.93,50,3,0.24,8235,1207,14.66,646.97,94.83,0.65,1272847,36.52,3.22,65.73,2.2
+2020-11-30,Mexico,Tlaxcala,1.41,18,1,0.08,8185,1204,14.71,643.05,94.59,0.64,1272847,33.3,-1.18,63.53,0.86
 2020-11-29,Mexico,Tlaxcala,2.04,26,0,0.0,8167,1203,14.73,641.63,94.51,0.64,1272847,34.48,-1.1,62.67,0.55
 2020-11-28,Mexico,Tlaxcala,6.6,84,1,0.08,8141,1203,14.78,639.59,94.51,0.64,1272847,35.58,5.74,62.12,5.26
 2020-11-27,Mexico,Tlaxcala,6.36,81,2,0.16,8057,1202,14.92,632.99,94.43,0.63,1272847,29.84,5.57,56.86,4.63

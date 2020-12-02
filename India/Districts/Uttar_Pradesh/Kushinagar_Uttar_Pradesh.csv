@@ -1,5 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-01,Uttar_Pradesh,Kushinagar,0.0,0,0,0.0,5543,60,1.08,155.67,1.69,0.16,3560830,1.2,-0.11,4.53,-0.14
+2020-12-02,Uttar_Pradesh,Kushinagar,0.0,0,0,0.0,5552,60,1.08,155.92,1.69,0.16,3560830,1.17,-0.28,4.5,-0.28
+2020-12-01,Uttar_Pradesh,Kushinagar,0.25,9,0,0.0,5552,60,1.08,155.92,1.69,0.16,3560830,1.45,0.14,4.78,0.11
 2020-11-30,Uttar_Pradesh,Kushinagar,0.11,4,0,0.0,5543,60,1.08,155.67,1.69,0.16,3560830,1.31,0.11,4.67,-0.03
 2020-11-29,Uttar_Pradesh,Kushinagar,0.11,4,0,0.0,5539,60,1.08,155.55,1.69,0.16,3560830,1.2,-0.09,4.7,-0.45
 2020-11-28,Uttar_Pradesh,Kushinagar,0.17,6,1,0.03,5535,60,1.08,155.44,1.69,0.16,3560830,1.29,0.14,5.15,0.03

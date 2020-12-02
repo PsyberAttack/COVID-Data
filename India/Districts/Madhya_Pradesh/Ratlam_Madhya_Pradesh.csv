@@ -1,5 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-01,Madhya_Pradesh,Ratlam,0.0,0,0,0.0,3533,69,1.95,242.9,4.74,0.24,1454483,16.92,-4.4,69.4,-1.03
+2020-12-02,Madhya_Pradesh,Ratlam,1.79,26,0,0.0,3585,70,1.95,246.48,4.81,0.25,1454483,17.06,-1.65,71.74,0.55
+2020-12-01,Madhya_Pradesh,Ratlam,1.79,26,1,0.07,3559,70,1.97,244.69,4.81,0.24,1454483,18.71,-2.61,71.19,0.76
 2020-11-30,Madhya_Pradesh,Ratlam,1.58,23,1,0.07,3533,69,1.95,242.9,4.74,0.24,1454483,21.32,-2.89,70.43,1.17
 2020-11-29,Madhya_Pradesh,Ratlam,1.79,26,1,0.07,3510,68,1.94,241.32,4.68,0.24,1454483,24.21,-2.34,69.26,1.24
 2020-11-28,Madhya_Pradesh,Ratlam,2.96,43,2,0.14,3484,67,1.92,239.54,4.61,0.24,1454483,26.55,-1.23,68.02,1.58
