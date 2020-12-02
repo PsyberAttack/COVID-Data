@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-01,Bahia,Castro Alves,19.04,5,0,0.0,651,14,2.15,2478.68,53.3,2.48,26264,68.54,15.23,437.83,0.0
+2020-11-30,Bahia,Castro Alves,0.0,0,0,0.0,646,14,2.17,2459.64,53.3,2.46,26264,53.31,-15.23,437.83,0.0
+2020-11-29,Bahia,Castro Alves,15.23,4,0,0.0,646,14,2.17,2459.64,53.3,2.46,26264,68.54,7.62,437.83,15.23
 2020-11-28,Bahia,Castro Alves,11.42,3,0,0.0,642,14,2.18,2444.41,53.3,2.44,26264,60.92,0.0,422.6,11.42
 2020-11-27,Bahia,Castro Alves,3.81,1,0,0.0,639,14,2.19,2432.99,53.3,2.43,26264,60.92,-3.8,411.18,-11.42
 2020-11-26,Bahia,Castro Alves,15.23,4,0,0.0,638,14,2.19,2429.18,53.3,2.43,26264,64.72,-38.07,422.6,-3.81

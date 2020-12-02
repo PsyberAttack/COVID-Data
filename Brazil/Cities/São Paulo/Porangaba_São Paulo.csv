@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-01,São Paulo,Porangaba,20.15,2,0,0.0,63,0,0.0,634.76,0.0,0.63,9925,100.76,-30.23,292.2,20.15
+2020-11-30,São Paulo,Porangaba,0.0,0,0,0.0,61,0,0.0,614.61,0.0,0.61,9925,130.99,-10.08,272.05,0.0
+2020-11-29,São Paulo,Porangaba,0.0,0,0,0.0,61,0,0.0,614.61,0.0,0.61,9925,141.07,0.0,272.05,0.0
 2020-11-28,São Paulo,Porangaba,10.08,1,0,0.0,61,0,0.0,614.61,0.0,0.61,9925,141.07,-30.22,272.05,10.08
 2020-11-27,São Paulo,Porangaba,70.53,7,0,0.0,60,0,0.0,604.53,0.0,0.6,9925,171.29,70.53,261.97,70.53
 2020-11-26,São Paulo,Porangaba,0.0,0,0,0.0,53,0,0.0,534.01,0.0,0.53,9925,100.76,10.08,191.44,0.0

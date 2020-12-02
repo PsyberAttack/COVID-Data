@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-01,São Paulo,Jacupiranga,0.0,0,0,0.0,530,18,3.4,2966.53,100.75,2.97,17866,16.79,-5.6,274.25,-22.39
+2020-11-30,São Paulo,Jacupiranga,-5.6,-1,0,0.0,530,18,3.4,2966.53,100.75,2.97,17866,22.39,-5.6,296.64,-78.36
+2020-11-29,São Paulo,Jacupiranga,0.0,0,0,0.0,531,18,3.39,2972.13,100.75,2.97,17866,27.99,0.0,375.0,-5.6
 2020-11-28,São Paulo,Jacupiranga,11.19,2,0,0.0,531,18,3.39,2972.13,100.75,2.97,17866,27.99,-27.99,380.6,11.19
 2020-11-27,São Paulo,Jacupiranga,5.6,1,0,0.0,529,18,3.4,2960.93,100.75,2.96,17866,55.98,-33.58,369.41,-5.59
 2020-11-26,São Paulo,Jacupiranga,5.6,1,0,0.0,528,18,3.41,2955.33,100.75,2.96,17866,89.56,-22.39,375.0,0.0

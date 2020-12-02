@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-01,Santa Catarina,Aurora,70.43,4,0,0.0,139,1,0.72,2447.61,17.61,2.45,5679,510.65,70.43,1003.71,70.43
+2020-11-30,Santa Catarina,Aurora,17.61,1,0,0.0,135,1,0.74,2377.18,17.61,2.38,5679,440.22,-17.61,933.28,17.61
+2020-11-29,Santa Catarina,Aurora,88.04,5,0,0.0,134,1,0.75,2359.57,17.61,2.36,5679,457.83,-17.61,915.67,88.04
 2020-11-28,Santa Catarina,Aurora,140.87,8,0,0.0,129,1,0.78,2271.53,17.61,2.27,5679,475.44,52.83,827.63,140.87
 2020-11-26,Santa Catarina,Aurora,105.65,6,0,0.0,121,1,0.83,2130.66,17.61,2.13,5679,422.61,88.04,686.76,105.65
 2020-11-25,Santa Catarina,Aurora,52.83,3,0,0.0,115,1,0.87,2025.0,17.61,2.03,5679,334.57,52.83,581.11,52.83

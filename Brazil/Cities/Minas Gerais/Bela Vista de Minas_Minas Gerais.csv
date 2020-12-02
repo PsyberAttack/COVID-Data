@@ -1,8 +1,11 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-11-26,Minas Gerais,Bela Vista de Minas,0.0,0,0,0.0,113,1,0.88,1101.9,9.75,1.1,10255,78.01,-97.51,331.52,-68.26
-2020-11-25,Minas Gerais,Bela Vista de Minas,48.76,5,0,0.0,113,1,0.88,1101.9,9.75,1.1,10255,175.52,48.76,399.78,48.76
+2020-12-01,Minas Gerais,Bela Vista de Minas,78.01,8,0,0.0,127,1,0.79,1238.42,9.75,1.24,10255,204.78,78.01,438.79,68.26
+2020-11-27,Minas Gerais,Bela Vista de Minas,58.51,6,0,0.0,119,1,0.84,1160.41,9.75,1.16,10255,126.77,58.51,370.53,39.01
+2020-11-26,Minas Gerais,Bela Vista de Minas,0.0,0,0,0.0,113,1,0.88,1101.9,9.75,1.1,10255,68.26,-9.75,331.52,0.0
+2020-11-25,Minas Gerais,Bela Vista de Minas,48.76,5,0,0.0,113,1,0.88,1101.9,9.75,1.1,10255,78.01,-48.75,331.52,-19.5
 2020-11-24,Minas Gerais,Bela Vista de Minas,9.75,1,0,0.0,108,1,0.93,1053.14,9.75,1.05,10255,126.76,9.75,351.02,9.75
-2020-11-23,Minas Gerais,Bela Vista de Minas,9.75,1,0,0.0,107,1,0.93,1043.39,9.75,1.04,10255,117.01,0.0,341.27,-39.01
+2020-11-23,Minas Gerais,Bela Vista de Minas,9.75,1,0,0.0,107,1,0.93,1043.39,9.75,1.04,10255,117.01,9.75,341.27,9.75
+2020-11-22,Minas Gerais,Bela Vista de Minas,0.0,0,0,0.0,106,1,0.94,1033.64,9.75,1.03,10255,107.26,-9.75,331.52,-48.76
 2020-11-20,Minas Gerais,Bela Vista de Minas,0.0,0,0,0.0,106,1,0.94,1033.64,9.75,1.03,10255,117.01,-19.5,380.28,-9.75
 2020-11-19,Minas Gerais,Bela Vista de Minas,0.0,0,0,0.0,106,1,0.94,1033.64,9.75,1.03,10255,136.51,-9.75,390.03,0.0
 2020-11-18,Minas Gerais,Bela Vista de Minas,9.75,1,0,0.0,106,1,0.94,1033.64,9.75,1.03,10255,146.26,0.0,390.03,9.75
