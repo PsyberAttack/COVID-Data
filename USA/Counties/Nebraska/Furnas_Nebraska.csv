@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Nebraska,Furnas,148.46,7,0,0.0,280,3.0,1.07,5938.49,63.63,5.94,4715,6.56,890.76,0.0,3202.53,21.21
+2020-12-01,Nebraska,Furnas,106.04,5,0,0.0,273,3.0,1.1,5790.03,63.63,5.79,4715,6.56,890.76,84.83,3181.32,-42.42
 2020-11-30,Nebraska,Furnas,169.67,8,0,0.0,268,3.0,1.12,5683.99,63.63,5.68,4715,6.56,805.93,106.04,3223.74,84.83
 2020-11-29,Nebraska,Furnas,0.0,0,0,0.0,260,3.0,1.15,5514.32,63.63,5.51,4715,6.56,699.89,-84.84,3138.91,-106.04
 2020-11-28,Nebraska,Furnas,106.04,5,0,0.0,260,3.0,1.15,5514.32,63.63,5.51,4715,6.56,784.73,-42.42,3244.95,84.83

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Virginia,Pittsylvania,54.14,33,1,1.64,1816,24.0,1.32,2979.54,39.38,2.98,60949,62.9,272.36,3.28,684.18,36.09
+2020-12-01,Virginia,Pittsylvania,34.46,21,1,1.64,1783,23.0,1.29,2925.4,37.74,2.93,60949,62.9,269.08,14.77,648.09,24.62
 2020-11-30,Virginia,Pittsylvania,9.84,6,0,0.0,1762,22.0,1.25,2890.94,36.1,2.89,60949,62.9,254.31,-19.69,623.47,-4.93
 2020-11-29,Virginia,Pittsylvania,39.38,24,0,0.0,1756,22.0,1.25,2881.1,36.1,2.88,60949,62.9,274.0,34.46,628.4,14.77
 2020-11-28,Virginia,Pittsylvania,50.86,31,0,0.0,1732,22.0,1.27,2841.72,36.1,2.84,60949,62.9,239.54,16.4,613.63,19.69

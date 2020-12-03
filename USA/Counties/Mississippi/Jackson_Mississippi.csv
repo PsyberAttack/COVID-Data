@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Mississippi,Jackson,62.12,89,0,0.0,6655,128.0,1.92,4644.85,89.34,4.64,143277,198.23,332.93,24.43,1101.37,25.13
+2020-12-01,Mississippi,Jackson,31.41,45,4,2.79,6566,128.0,1.95,4582.73,89.34,4.58,143277,198.23,308.5,-7.68,1076.24,-0.7
 2020-11-30,Mississippi,Jackson,56.53,81,0,0.0,6521,124.0,1.9,4551.32,86.55,4.55,143277,198.23,316.18,39.08,1076.94,38.38
 2020-11-29,Mississippi,Jackson,55.84,80,5,3.49,6440,124.0,1.93,4494.79,86.55,4.49,143277,198.23,277.1,39.09,1038.56,47.46
 2020-11-28,Mississippi,Jackson,62.82,90,0,0.0,6360,119.0,1.87,4438.95,83.06,4.44,143277,198.23,238.01,12.57,991.1,46.77

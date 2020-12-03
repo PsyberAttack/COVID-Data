@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,South Carolina,Richland,35.7,148,1,0.24,20683,303.0,1.46,4988.95,73.09,4.99,414576,547.43,155.58,5.07,679.95,17.37
+2020-12-01,South Carolina,Richland,21.47,89,0,0.0,20535,302.0,1.47,4953.25,72.85,4.95,414576,547.43,150.51,-6.27,662.58,4.1
 2020-11-30,South Carolina,Richland,23.88,99,2,0.48,20446,302.0,1.48,4931.79,72.85,4.93,414576,547.43,156.78,-4.58,658.48,8.92
 2020-11-29,South Carolina,Richland,25.57,106,0,0.0,20347,300.0,1.47,4907.91,72.36,4.91,414576,547.43,161.36,-3.13,649.56,-4.1
 2020-11-28,South Carolina,Richland,14.23,59,0,0.0,20241,300.0,1.48,4882.34,72.36,4.88,414576,547.43,164.49,-14.23,653.66,-4.1

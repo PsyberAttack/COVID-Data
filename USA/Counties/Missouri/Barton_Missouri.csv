@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Missouri,Barton,33.9,4,0,0.0,638,5.0,0.78,5407.7,42.38,5.41,11798,19.93,211.89,8.47,1500.25,-16.96
+2020-12-01,Missouri,Barton,16.95,2,1,8.48,634,5.0,0.79,5373.79,42.38,5.37,11798,19.93,203.42,-59.33,1517.21,25.43
 2020-11-30,Missouri,Barton,16.95,2,0,0.0,632,4.0,0.63,5356.84,33.9,5.36,11798,19.93,262.75,16.95,1491.78,-8.48
 2020-11-29,Missouri,Barton,33.9,4,0,0.0,630,4.0,0.63,5339.89,33.9,5.34,11798,19.93,245.8,-16.96,1500.26,0.0
 2020-11-28,Missouri,Barton,8.48,1,0,0.0,626,4.0,0.64,5305.98,33.9,5.31,11798,19.93,262.76,-50.85,1500.26,-33.9

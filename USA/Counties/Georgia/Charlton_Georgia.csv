@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Georgia,Charlton,30.85,4,0,0.0,811,18.0,2.22,6253.86,138.8,6.25,12968,16.62,154.23,7.72,578.33,7.72
+2020-12-01,Georgia,Charlton,38.56,5,0,0.0,807,18.0,2.23,6223.01,138.8,6.22,12968,16.62,146.51,23.14,570.61,30.85
 2020-11-30,Georgia,Charlton,7.71,1,0,0.0,802,18.0,2.24,6184.45,138.8,6.18,12968,16.62,123.37,-15.42,539.76,-23.14
 2020-11-29,Georgia,Charlton,7.71,1,1,7.71,801,18.0,2.25,6176.74,138.8,6.18,12968,16.62,138.79,-15.42,562.9,0.0
 2020-11-28,Georgia,Charlton,23.13,3,0,0.0,800,17.0,2.12,6169.03,131.09,6.17,12968,16.62,154.21,15.42,562.9,15.42

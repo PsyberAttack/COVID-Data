@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Alabama,Washington,6.11,1,0,0.0,933,19.0,2.04,5696.67,116.01,5.7,16378,15.16,189.28,-12.21,891.41,-42.74
+2020-12-01,Alabama,Washington,61.06,10,0,0.0,932,19.0,2.04,5690.56,116.01,5.69,16378,15.16,201.49,67.17,934.15,42.74
 2020-11-30,Alabama,Washington,36.63,6,0,0.0,922,19.0,2.06,5629.5,116.01,5.63,16378,15.16,134.32,24.42,891.41,24.42
 2020-11-29,Alabama,Washington,24.42,4,0,0.0,916,19.0,2.07,5592.87,116.01,5.59,16378,15.16,109.9,12.21,866.99,-12.21
 2020-11-28,Alabama,Washington,18.32,3,0,0.0,912,19.0,2.08,5568.45,116.01,5.57,16378,15.16,97.69,-12.21,879.2,-36.63

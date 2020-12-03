@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,North Carolina,Union,105.55,249,0,0.0,8238,76.0,0.92,3492.04,32.22,3.49,235908,372.87,289.94,34.76,845.24,71.21
+2020-12-01,North Carolina,Union,0.0,0,0,0.0,7989,76.0,0.95,3386.49,32.22,3.39,235908,372.87,255.18,-10.17,774.03,-18.65
 2020-11-30,North Carolina,Union,79.27,187,3,1.27,7989,76.0,0.95,3386.49,32.22,3.39,235908,372.87,265.35,33.49,792.68,59.77
 2020-11-29,North Carolina,Union,40.27,95,0,0.0,7802,73.0,0.94,3307.22,30.94,3.31,235908,372.87,231.86,8.9,732.91,20.77
 2020-11-28,North Carolina,Union,36.03,85,0,0.0,7707,73.0,0.95,3266.95,30.94,3.27,235908,372.87,222.96,34.76,712.14,19.07

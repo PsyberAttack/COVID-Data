@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Montana,Stillwater,10.49,1,1,10.49,447,7.0,1.57,4688.48,73.42,4.69,9534,5.31,409.07,0.0,1971.93,-104.89
+2020-12-01,Montana,Stillwater,188.8,18,2,20.98,446,6.0,1.35,4677.99,62.93,4.68,9534,5.31,409.07,94.4,2076.82,10.49
 2020-11-30,Montana,Stillwater,10.49,1,0,0.0,428,4.0,0.93,4489.2,41.96,4.49,9534,5.31,314.67,10.49,2066.33,10.49
 2020-11-29,Montana,Stillwater,0.0,0,0,0.0,427,4.0,0.94,4478.71,41.96,4.48,9534,5.31,304.18,0.0,2055.84,0.0
 2020-11-28,Montana,Stillwater,115.38,11,0,0.0,427,4.0,0.94,4478.71,41.96,4.48,9534,5.31,304.18,-83.91,2055.84,83.91

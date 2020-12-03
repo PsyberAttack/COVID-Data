@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,New York,Livingston,41.12,26,0,0.0,764,11.0,1.44,1208.34,17.4,1.21,63227,100.08,192.96,12.65,626.3,26.89
+2020-12-01,New York,Livingston,37.96,24,2,3.16,738,11.0,1.49,1167.22,17.4,1.17,63227,100.08,180.31,26.89,599.41,33.22
 2020-11-30,New York,Livingston,22.14,14,0,0.0,714,9.0,1.26,1129.26,14.23,1.13,63227,100.08,153.42,-31.63,566.19,12.65
 2020-11-29,New York,Livingston,26.89,17,0,0.0,700,9.0,1.29,1107.12,14.23,1.11,63227,100.08,185.05,17.4,553.54,-1.58
 2020-11-28,New York,Livingston,18.98,12,0,0.0,683,9.0,1.32,1080.23,14.23,1.08,63227,100.08,167.65,-25.3,555.12,11.07

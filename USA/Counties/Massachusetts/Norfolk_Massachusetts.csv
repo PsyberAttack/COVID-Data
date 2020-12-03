@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Massachusetts,Norfolk,47.63,336,3,0.43,16695,1187.0,7.11,2366.78,168.28,2.37,705388,1780.85,184.86,19.7,624.33,37.85
+2020-12-01,Massachusetts,Norfolk,33.88,239,2,0.28,16359,1184.0,7.24,2319.15,167.85,2.32,705388,1780.85,165.16,7.23,586.48,21.97
 2020-11-30,Massachusetts,Norfolk,10.35,73,4,0.57,16120,1182.0,7.33,2285.27,167.57,2.29,705388,1780.85,157.93,-3.12,564.51,3.4
 2020-11-29,Massachusetts,Norfolk,30.34,214,2,0.28,16047,1178.0,7.34,2274.92,167.0,2.27,705388,1780.85,161.05,9.78,561.11,16.45
 2020-11-28,Massachusetts,Norfolk,19.85,140,4,0.57,15833,1176.0,7.43,2244.58,166.72,2.24,705388,1780.85,151.27,-8.08,544.66,5.67

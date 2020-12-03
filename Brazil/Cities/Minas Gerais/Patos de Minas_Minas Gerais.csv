@@ -1,5 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-01,Minas Gerais,Patos de Minas,51.15,78,1,0.66,3189,85,2.67,2091.31,55.74,2.09,152488,100.99,37.38,319.36,28.85
+2020-12-01,Minas Gerais,Patos de Minas,22.3,34,0,0.0,3189,85,2.67,2091.31,55.74,2.09,152488,100.99,22.3,315.43,18.37
+2020-11-30,Minas Gerais,Patos de Minas,28.85,44,1,0.66,3155,85,2.69,2069.02,55.74,2.07,152488,78.69,15.08,297.06,6.55
 2020-11-27,Minas Gerais,Patos de Minas,0.66,1,0,0.0,3111,84,2.7,2040.16,55.09,2.04,152488,63.61,-6.55,290.51,-6.55
 2020-11-26,Minas Gerais,Patos de Minas,5.25,8,0,0.0,3110,84,2.7,2039.5,55.09,2.04,152488,70.16,-5.24,297.06,-5.24
 2020-11-25,Minas Gerais,Patos de Minas,16.39,25,1,0.66,3102,84,2.71,2034.26,55.09,2.03,152488,75.4,-2.63,302.3,-9.84

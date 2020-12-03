@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Indiana,Huntington,121.41,44,1,2.76,1475,11.0,0.75,4070.09,30.35,4.07,36240,94.71,546.35,13.79,2392.38,44.15
+2020-12-01,Indiana,Huntington,27.59,10,0,0.0,1431,10.0,0.7,3948.68,27.59,3.95,36240,94.71,532.56,-5.52,2348.23,-2.76
 2020-11-30,Indiana,Huntington,44.15,16,0,0.0,1421,10.0,0.7,3921.08,27.59,3.92,36240,94.71,538.08,-151.77,2350.99,5.52
 2020-11-29,Indiana,Huntington,107.62,39,0,0.0,1405,10.0,0.71,3876.93,27.59,3.88,36240,94.71,689.85,-44.15,2345.47,41.39
 2020-11-28,Indiana,Huntington,77.26,28,0,0.0,1366,10.0,0.73,3769.32,27.59,3.77,36240,94.71,734.0,-5.52,2304.08,35.87

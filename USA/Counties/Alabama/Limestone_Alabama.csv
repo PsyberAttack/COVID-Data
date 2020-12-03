@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Alabama,Limestone,73.82,71,1,1.04,4475,46.0,1.03,4653.02,47.83,4.65,96174,171.75,351.44,22.87,1325.69,38.47
+2020-12-01,Alabama,Limestone,73.82,71,0,0.0,4404,45.0,1.02,4579.2,46.79,4.58,96174,171.75,328.57,29.11,1287.22,47.83
 2020-11-30,Alabama,Limestone,32.23,31,0,0.0,4333,45.0,1.04,4505.38,46.79,4.51,96174,171.75,299.46,-6.24,1239.39,-2.08
 2020-11-29,Alabama,Limestone,53.03,51,0,0.0,4302,45.0,1.05,4473.14,46.79,4.47,96174,171.75,305.7,13.52,1241.47,-27.03
 2020-11-28,Alabama,Limestone,46.79,45,0,0.0,4251,45.0,1.06,4420.11,46.79,4.42,96174,171.75,292.18,-24.95,1268.5,17.68

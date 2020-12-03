@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Texas,Hartley,17.8,1,0,0.0,209,2.0,0.96,3719.52,35.59,3.72,5619,3.84,53.4,17.8,355.95,0.0
+2020-12-01,Texas,Hartley,0.0,0,0,0.0,208,2.0,0.96,3701.73,35.59,3.7,5619,3.84,35.6,-35.59,355.95,-160.17
 2020-11-30,Texas,Hartley,0.0,0,0,0.0,208,2.0,0.96,3701.73,35.59,3.7,5619,3.84,71.19,0.0,516.12,0.0
 2020-11-29,Texas,Hartley,0.0,0,0,0.0,208,2.0,0.96,3701.73,35.59,3.7,5619,3.84,71.19,0.0,516.12,0.0
 2020-11-28,Texas,Hartley,17.8,1,0,0.0,208,2.0,0.96,3701.73,35.59,3.7,5619,3.84,71.19,-53.39,516.12,-88.98

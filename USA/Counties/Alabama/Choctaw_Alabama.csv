@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Alabama,Choctaw,31.15,4,5,38.94,435,19.0,4.37,3387.59,147.96,3.39,12841,14.06,124.61,23.36,295.96,23.36
+2020-12-01,Alabama,Choctaw,31.15,4,1,7.79,431,14.0,3.25,3356.44,109.03,3.36,12841,14.06,101.25,23.36,272.6,23.36
 2020-11-30,Alabama,Choctaw,7.79,1,0,0.0,427,13.0,3.04,3325.29,101.24,3.33,12841,14.06,77.89,7.79,249.24,7.79
 2020-11-29,Alabama,Choctaw,31.15,4,0,0.0,426,13.0,3.05,3317.5,101.24,3.32,12841,14.06,70.1,23.36,241.45,31.15
 2020-11-28,Alabama,Choctaw,7.79,1,0,0.0,422,13.0,3.08,3286.35,101.24,3.29,12841,14.06,46.74,-15.57,210.3,7.79

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Kentucky,Caldwell,55.05,7,0,0.0,610,5.0,0.82,4797.48,39.32,4.8,12715,36.88,652.77,-55.06,2068.42,-133.7
+2020-12-01,Kentucky,Caldwell,15.73,2,0,0.0,603,5.0,0.83,4742.43,39.32,4.74,12715,36.88,707.83,-31.46,2202.12,-102.24
 2020-11-30,Kentucky,Caldwell,212.35,27,2,15.73,601,5.0,0.83,4726.7,39.32,4.73,12715,36.88,739.29,86.51,2304.36,196.62
 2020-11-29,Kentucky,Caldwell,141.57,18,2,15.73,574,3.0,0.52,4514.35,23.59,4.51,12715,36.88,652.78,86.52,2107.74,117.98
 2020-11-28,Kentucky,Caldwell,55.05,7,0,0.0,556,1.0,0.18,4372.79,7.86,4.37,12715,36.88,566.26,7.86,1989.76,-31.46

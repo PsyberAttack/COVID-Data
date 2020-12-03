@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,California,Plumas,47.86,9,0,0.0,201,0.0,0.0,1068.92,0.0,1.07,18804,7.37,111.67,5.32,611.55,47.86
+2020-12-01,California,Plumas,5.32,1,0,0.0,192,0.0,0.0,1021.06,0.0,1.02,18804,7.37,106.35,5.32,563.69,5.32
 2020-11-30,California,Plumas,15.95,3,0,0.0,191,0.0,0.0,1015.74,0.0,1.02,18804,7.37,101.03,15.95,558.37,10.63
 2020-11-29,California,Plumas,0.0,0,0,0.0,188,0.0,0.0,999.79,0.0,1.0,18804,7.37,85.08,-47.86,547.74,-26.59
 2020-11-28,California,Plumas,0.0,0,0,0.0,188,0.0,0.0,999.79,0.0,1.0,18804,7.37,132.94,-26.59,574.33,-58.5

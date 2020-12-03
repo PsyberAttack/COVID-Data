@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Wisconsin,Menominee,150.28,7,0,0.0,572,8.0,1.4,12279.95,171.75,12.28,4658,13.03,536.71,150.28,4572.78,64.41
+2020-12-01,Wisconsin,Menominee,150.28,7,0,0.0,565,8.0,1.42,12129.67,171.75,12.13,4658,13.03,386.43,-64.4,4508.37,-85.87
 2020-11-30,Wisconsin,Menominee,21.47,1,0,0.0,558,8.0,1.43,11979.39,171.75,11.98,4658,13.03,450.83,21.47,4594.24,21.47
 2020-11-29,Wisconsin,Menominee,0.0,0,0,0.0,557,8.0,1.44,11957.92,171.75,11.96,4658,13.03,429.36,-21.47,4572.77,-85.87
 2020-11-28,Wisconsin,Menominee,0.0,0,0,0.0,557,8.0,1.44,11957.92,171.75,11.96,4658,13.03,450.83,-64.41,4658.64,-171.75

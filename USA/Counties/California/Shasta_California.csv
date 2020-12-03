@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,California,Shasta,30.55,55,0,0.0,5187,50.0,0.96,2881.03,27.77,2.88,180040,47.69,325.49,-42.21,1610.2,28.33
+2020-12-01,California,Shasta,93.87,169,3,1.67,5132,50.0,0.97,2850.48,27.77,2.85,180040,47.69,367.7,-111.64,1581.87,31.66
 2020-11-30,California,Shasta,44.99,81,0,0.0,4963,47.0,0.95,2756.61,26.11,2.76,180040,47.69,479.34,42.21,1550.21,17.22
 2020-11-29,California,Shasta,91.09,164,0,0.0,4882,47.0,0.96,2711.62,26.11,2.71,180040,47.69,437.13,-18.89,1532.99,49.99
 2020-11-28,California,Shasta,0.0,0,0,0.0,4718,47.0,1.0,2620.53,26.11,2.62,180040,47.69,456.02,0.0,1483.0,-1.11

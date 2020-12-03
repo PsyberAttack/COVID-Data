@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Illinois,Vermilion,115.88,89,2,2.6,4146,56.0,1.35,5398.02,72.91,5.4,76806,85.5,653.6,-2.6,2688.59,57.29
+2020-12-01,Illinois,Vermilion,108.06,83,3,3.91,4057,54.0,1.33,5282.14,70.31,5.28,76806,85.5,656.2,-22.14,2631.3,70.3
 2020-11-30,Illinois,Vermilion,76.82,59,0,0.0,3974,51.0,1.28,5174.07,66.4,5.17,76806,85.5,678.34,20.83,2561.0,33.85
 2020-11-29,Illinois,Vermilion,79.42,61,0,0.0,3915,51.0,1.3,5097.26,66.4,5.1,76806,85.5,657.51,-18.23,2527.15,-26.04
 2020-11-28,Illinois,Vermilion,69.01,53,1,1.3,3854,51.0,1.32,5017.84,66.4,5.02,76806,85.5,675.74,-63.79,2553.19,69.01

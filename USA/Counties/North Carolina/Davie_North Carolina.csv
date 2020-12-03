@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,North Carolina,Davie,58.5,25,0,0.0,1293,13.0,1.01,3025.76,30.42,3.03,42733,162.05,292.51,9.36,1125.55,37.44
+2020-12-01,North Carolina,Davie,21.06,9,0,0.0,1268,13.0,1.03,2967.26,30.42,2.97,42733,162.05,283.15,-16.38,1088.11,11.7
 2020-11-30,North Carolina,Davie,37.44,16,0,0.0,1259,13.0,1.03,2946.2,30.42,2.95,42733,162.05,299.53,23.4,1076.41,25.74
 2020-11-29,North Carolina,Davie,56.16,24,0,0.0,1243,13.0,1.05,2908.76,30.42,2.91,42733,162.05,276.13,7.02,1050.67,37.44
 2020-11-28,North Carolina,Davie,9.36,4,0,0.0,1219,13.0,1.07,2852.6,30.42,2.85,42733,162.05,269.11,-60.84,1013.23,-4.68

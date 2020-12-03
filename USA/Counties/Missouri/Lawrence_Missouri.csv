@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Missouri,Lawrence,18.25,7,0,0.0,1963,39.0,1.99,5117.44,101.67,5.12,38359,62.7,341.52,-7.82,1843.11,-26.07
+2020-12-01,Missouri,Lawrence,62.57,24,2,5.21,1956,39.0,1.99,5099.19,101.67,5.1,38359,62.7,349.34,39.11,1869.18,18.25
 2020-11-30,Missouri,Lawrence,78.21,30,0,0.0,1932,37.0,1.92,5036.63,96.46,5.04,38359,62.7,310.23,10.43,1850.93,2.61
 2020-11-29,Missouri,Lawrence,46.93,18,0,0.0,1902,37.0,1.95,4958.42,96.46,4.96,38359,62.7,299.8,7.83,1848.32,5.22
 2020-11-28,Missouri,Lawrence,7.82,3,0,0.0,1884,37.0,1.96,4911.49,96.46,4.91,38359,62.7,291.97,-70.39,1843.1,-46.93

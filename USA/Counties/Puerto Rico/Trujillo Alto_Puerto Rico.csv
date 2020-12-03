@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Puerto Rico,Trujillo Alto,1.57,1,0,0.0,2055,0.0,0.0,3223.73,0.0,3.22,63746,0.0,120.78,1.57,567.82,-7.84
+2020-12-01,Puerto Rico,Trujillo Alto,15.69,10,0,0.0,2054,0.0,0.0,3222.16,0.0,3.22,63746,0.0,119.21,9.42,575.66,6.28
 2020-11-30,Puerto Rico,Trujillo Alto,21.96,14,0,0.0,2044,0.0,0.0,3206.48,0.0,3.21,63746,0.0,109.79,-9.41,569.38,-75.3
 2020-11-29,Puerto Rico,Trujillo Alto,7.84,5,0,0.0,2030,0.0,0.0,3184.51,0.0,3.18,63746,0.0,119.2,-18.83,644.68,-1.57
 2020-11-28,Puerto Rico,Trujillo Alto,23.53,15,0,0.0,2025,0.0,0.0,3176.67,0.0,3.18,63746,0.0,138.03,-4.71,646.25,12.55

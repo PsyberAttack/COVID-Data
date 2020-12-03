@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Pennsylvania,Dauphin,83.0,230,2,0.72,8119,220.0,2.71,2930.02,79.39,2.93,277097,527.9,340.3,53.05,1048.73,49.08
+2020-12-01,Pennsylvania,Dauphin,20.57,57,0,0.0,7889,218.0,2.76,2847.02,78.67,2.85,277097,527.9,287.25,-11.55,999.65,-9.38
 2020-11-30,Pennsylvania,Dauphin,34.64,96,0,0.0,7832,218.0,2.78,2826.45,78.67,2.83,277097,527.9,298.8,6.85,1009.03,20.93
 2020-11-29,Pennsylvania,Dauphin,45.11,125,1,0.36,7736,218.0,2.82,2791.8,78.67,2.79,277097,527.9,291.95,-16.6,988.1,31.4
 2020-11-28,Pennsylvania,Dauphin,46.91,130,3,1.08,7611,217.0,2.85,2746.69,78.31,2.75,277097,527.9,308.55,3.96,956.7,24.54

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Mississippi,Covington,74.26,14,1,5.3,1300,40.0,3.08,6895.45,212.17,6.9,18853,45.56,546.33,-37.13,1432.12,26.52
+2020-12-01,Mississippi,Covington,37.13,7,0,0.0,1286,39.0,3.03,6821.2,206.86,6.82,18853,45.56,583.46,15.91,1405.6,10.61
 2020-11-30,Mississippi,Covington,175.04,33,0,0.0,1279,39.0,3.05,6784.07,206.86,6.78,18853,45.56,567.55,132.61,1394.99,137.91
 2020-11-29,Mississippi,Covington,63.65,12,0,0.0,1246,39.0,3.13,6609.03,206.86,6.61,18853,45.56,434.94,26.52,1257.08,58.35
 2020-11-28,Mississippi,Covington,63.65,12,1,5.3,1234,39.0,3.16,6545.38,206.86,6.55,18853,45.56,408.42,-15.91,1198.73,26.52

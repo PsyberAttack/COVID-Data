@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Virginia,Prince William,36.75,172,0,0.0,18662,235.0,1.26,3987.51,50.21,3.99,468011,1393.97,251.7,-32.91,818.15,22.86
+2020-12-01,Virginia,Prince William,29.49,138,0,0.0,18490,235.0,1.27,3950.76,50.21,3.95,468011,1393.97,284.61,-12.39,795.29,6.41
 2020-11-30,Virginia,Prince William,32.69,153,0,0.0,18352,235.0,1.28,3921.28,50.21,3.92,468011,1393.97,297.0,-8.12,788.88,10.04
 2020-11-29,Virginia,Prince William,20.08,94,0,0.0,18199,235.0,1.29,3888.58,50.21,3.89,468011,1393.97,305.12,10.04,778.84,11.32
 2020-11-28,Virginia,Prince William,51.71,242,-1,-0.21,18105,235.0,1.3,3868.5,50.21,3.87,468011,1393.97,295.08,24.15,767.52,37.61

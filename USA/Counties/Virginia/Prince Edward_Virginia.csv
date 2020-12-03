@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Virginia,Prince Edward,21.79,5,0,0.0,884,16.0,1.81,3851.85,69.72,3.85,22950,65.58,95.87,21.79,422.66,21.79
+2020-12-01,Virginia,Prince Edward,8.71,2,0,0.0,879,16.0,1.82,3830.07,69.72,3.83,22950,65.58,74.08,0.0,400.87,-8.72
 2020-11-30,Virginia,Prince Edward,4.36,1,0,0.0,877,16.0,1.82,3821.35,69.72,3.82,22950,65.58,74.08,-26.14,409.59,4.36
 2020-11-29,Virginia,Prince Edward,21.79,5,0,0.0,876,16.0,1.83,3816.99,69.72,3.82,22950,65.58,100.22,-13.07,405.23,0.0
 2020-11-28,Virginia,Prince Edward,21.79,5,0,0.0,871,16.0,1.84,3795.21,69.72,3.8,22950,65.58,113.29,4.36,405.23,4.36

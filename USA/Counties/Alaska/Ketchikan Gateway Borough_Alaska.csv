@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Alaska,Ketchikan Gateway Borough,7.18,1,0,0.0,195,0.0,0.0,1401.06,0.0,1.4,13918,2.87,79.01,0.0,739.99,0.0
+2020-12-01,Alaska,Ketchikan Gateway Borough,7.18,1,0,0.0,194,0.0,0.0,1393.88,0.0,1.39,13918,2.87,79.01,7.18,739.99,7.18
 2020-11-30,Alaska,Ketchikan Gateway Borough,0.0,0,0,0.0,193,0.0,0.0,1386.69,0.0,1.39,13918,2.87,71.83,-7.18,732.81,-14.37
 2020-11-29,Alaska,Ketchikan Gateway Borough,7.18,1,0,0.0,193,0.0,0.0,1386.69,0.0,1.39,13918,2.87,79.01,7.18,747.18,-21.56
 2020-11-28,Alaska,Ketchikan Gateway Borough,7.18,1,0,0.0,192,0.0,0.0,1379.51,0.0,1.38,13918,2.87,71.83,-7.19,768.74,0.0

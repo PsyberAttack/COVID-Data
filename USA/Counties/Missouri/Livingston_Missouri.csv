@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Missouri,Livingston,19.81,3,1,6.6,792,16.0,2.02,5229.1,105.64,5.23,15146,28.45,264.08,-19.8,1320.44,13.21
+2020-12-01,Missouri,Livingston,26.41,4,1,6.6,789,15.0,1.9,5209.3,99.04,5.21,15146,28.45,283.88,6.6,1307.23,6.6
 2020-11-30,Missouri,Livingston,13.2,2,0,0.0,785,14.0,1.78,5182.89,92.43,5.18,15146,28.45,277.28,-6.61,1300.63,-13.21
 2020-11-29,Missouri,Livingston,39.61,6,0,0.0,783,14.0,1.79,5169.68,92.43,5.17,15146,28.45,283.89,-26.41,1313.84,13.2
 2020-11-28,Missouri,Livingston,13.2,2,1,6.6,777,14.0,1.8,5130.07,92.43,5.13,15146,28.45,310.3,-92.44,1300.64,0.0

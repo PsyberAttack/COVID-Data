@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Oklahoma,Cimarron,-92.89,-2,0,0.0,78,0.0,0.0,3622.85,0.0,3.62,2153,1.17,278.69,-185.78,1625.65,-185.78
+2020-12-01,Oklahoma,Cimarron,0.0,0,0,0.0,80,0.0,0.0,3715.75,0.0,3.72,2153,1.17,464.47,-46.45,1811.43,0.0
 2020-11-30,Oklahoma,Cimarron,92.89,2,0,0.0,80,0.0,0.0,3715.75,0.0,3.72,2153,1.17,510.92,-139.34,1811.43,46.44
 2020-11-29,Oklahoma,Cimarron,46.45,1,0,0.0,78,0.0,0.0,3622.85,0.0,3.62,2153,1.17,650.26,0.0,1764.99,46.45
 2020-11-28,Oklahoma,Cimarron,-92.89,-2,0,0.0,77,0.0,0.0,3576.41,0.0,3.58,2153,1.17,650.26,-232.23,1718.54,-92.89

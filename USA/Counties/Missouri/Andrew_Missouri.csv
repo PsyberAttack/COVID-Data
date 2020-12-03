@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Missouri,Andrew,28.4,5,0,0.0,836,10.0,1.2,4748.11,56.8,4.75,17607,40.7,431.66,-11.36,1953.8,11.36
+2020-12-01,Missouri,Andrew,62.48,11,1,5.68,831,10.0,1.2,4719.71,56.8,4.72,17607,40.7,443.02,-39.75,1942.44,22.72
 2020-11-30,Missouri,Andrew,119.27,21,0,0.0,820,9.0,1.1,4657.24,51.12,4.66,17607,40.7,482.77,73.83,1919.72,73.83
 2020-11-29,Missouri,Andrew,51.12,9,0,0.0,799,9.0,1.13,4537.97,51.12,4.54,17607,40.7,408.94,-90.87,1845.89,17.04
 2020-11-28,Missouri,Andrew,34.08,6,0,0.0,790,9.0,1.14,4486.85,51.12,4.49,17607,40.7,499.81,-85.19,1828.85,0.0

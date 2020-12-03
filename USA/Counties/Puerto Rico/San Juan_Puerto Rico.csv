@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Puerto Rico,San Juan,12.15,39,0,0.0,12966,0.0,0.0,4039.67,0.0,4.04,320967,0.0,153.6,9.03,622.17,7.17
+2020-12-01,Puerto Rico,San Juan,19.63,63,0,0.0,12927,0.0,0.0,4027.52,0.0,4.03,320967,0.0,144.57,10.91,615.0,-5.61
 2020-11-30,Puerto Rico,San Juan,21.81,70,0,0.0,12864,0.0,0.0,4007.89,0.0,4.01,320967,0.0,133.66,-2.49,620.61,-38.94
 2020-11-29,Puerto Rico,San Juan,5.92,19,0,0.0,12794,0.0,0.0,3986.08,0.0,3.99,320967,0.0,136.15,-26.48,659.55,-16.82
 2020-11-28,Puerto Rico,San Juan,26.79,86,0,0.0,12775,0.0,0.0,3980.16,0.0,3.98,320967,0.0,162.63,-12.78,676.37,10.59

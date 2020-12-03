@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Louisiana,Washington,64.4,30,0,0.0,2343,79.0,3.37,5029.84,169.59,5.03,46582,69.57,283.37,40.79,1227.92,49.37
+2020-12-01,Louisiana,Washington,75.14,35,1,2.15,2313,79.0,3.42,4965.44,169.59,4.97,46582,69.57,242.58,17.18,1178.55,64.41
 2020-11-30,Louisiana,Washington,6.44,3,0,0.0,2278,78.0,3.42,4890.3,167.45,4.89,46582,69.57,225.4,-8.59,1114.14,2.15
 2020-11-29,Louisiana,Washington,23.61,11,0,0.0,2275,78.0,3.43,4883.86,167.45,4.88,46582,69.57,233.99,-10.74,1111.99,15.02
 2020-11-28,Louisiana,Washington,0.0,0,0,0.0,2264,78.0,3.45,4860.25,167.45,4.86,46582,69.57,244.73,0.0,1096.97,0.0

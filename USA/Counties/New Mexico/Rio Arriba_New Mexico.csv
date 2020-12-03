@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,New Mexico,Rio Arriba,0.0,0,1,2.56,1364,24.0,1.76,3496.9,61.53,3.5,39006,6.66,430.7,-94.86,2025.32,-41.02
+2020-12-01,New Mexico,Rio Arriba,99.98,39,0,0.0,1364,23.0,1.69,3496.9,58.97,3.5,39006,6.66,525.56,-5.13,2066.34,76.91
 2020-11-30,New Mexico,Rio Arriba,46.15,18,1,2.56,1325,23.0,1.74,3396.91,58.97,3.4,39006,6.66,530.69,-33.32,1989.43,30.77
 2020-11-29,New Mexico,Rio Arriba,102.55,40,0,0.0,1307,22.0,1.68,3350.77,56.4,3.35,39006,6.66,564.01,20.51,1958.66,69.22
 2020-11-28,New Mexico,Rio Arriba,48.71,19,0,0.0,1267,22.0,1.74,3248.22,56.4,3.25,39006,6.66,543.5,-20.51,1889.44,23.07

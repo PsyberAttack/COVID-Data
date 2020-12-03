@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Oklahoma,Pottawatomie,53.66,39,0,0.0,3721,23.0,0.62,5119.77,31.65,5.12,72679,92.27,521.46,-63.29,1809.33,11.01
+2020-12-01,Oklahoma,Pottawatomie,30.27,22,0,0.0,3682,23.0,0.62,5066.11,31.65,5.07,72679,92.27,584.75,-11.01,1798.32,11.01
 2020-11-30,Oklahoma,Pottawatomie,82.55,60,0,0.0,3660,23.0,0.63,5035.84,31.65,5.04,72679,92.27,595.76,-86.69,1787.31,34.39
 2020-11-29,Oklahoma,Pottawatomie,59.16,43,0,0.0,3600,23.0,0.64,4953.29,31.65,4.95,72679,92.27,682.45,-9.64,1752.92,37.15
 2020-11-28,Oklahoma,Pottawatomie,206.39,150,0,0.0,3557,23.0,0.65,4894.12,31.65,4.89,72679,92.27,692.09,115.58,1715.77,183.0

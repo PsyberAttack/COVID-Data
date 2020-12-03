@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Nebraska,Cuming,156.6,14,0,0.0,621,5.0,0.81,6946.31,55.93,6.95,8940,15.67,548.1,145.41,3098.45,89.49
+2020-12-01,Nebraska,Cuming,44.74,4,0,0.0,607,5.0,0.82,6789.71,55.93,6.79,8940,15.67,402.69,-22.37,3008.96,-55.93
 2020-11-30,Nebraska,Cuming,78.3,7,1,11.19,603,5.0,0.83,6744.97,55.93,6.74,8940,15.67,425.06,-11.19,3064.89,0.0
 2020-11-29,Nebraska,Cuming,11.19,1,0,0.0,596,4.0,0.67,6666.67,44.74,6.67,8940,15.67,436.25,-67.11,3064.89,0.0
 2020-11-28,Nebraska,Cuming,100.67,9,0,0.0,595,4.0,0.67,6655.48,44.74,6.66,8940,15.67,503.36,22.37,3064.89,78.3

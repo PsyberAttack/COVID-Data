@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Wisconsin,Waushara,16.49,4,0,0.0,1837,10.0,0.54,7571.2,41.22,7.57,24263,38.75,226.69,-65.94,1801.1,-321.47
+2020-12-01,Wisconsin,Waushara,41.22,10,0,0.0,1833,10.0,0.55,7554.71,41.22,7.55,24263,38.75,292.63,-37.09,2122.57,-741.87
 2020-11-30,Wisconsin,Waushara,37.09,9,0,0.0,1823,10.0,0.55,7513.5,41.22,7.51,24263,38.75,329.72,-16.49,2864.44,4.12
 2020-11-29,Wisconsin,Waushara,57.7,14,1,4.12,1814,10.0,0.55,7476.4,41.22,7.48,24263,38.75,346.21,24.73,2860.32,-8.24
 2020-11-28,Wisconsin,Waushara,32.97,8,1,4.12,1800,9.0,0.5,7418.7,37.09,7.42,24263,38.75,321.48,-4.12,2868.56,-94.8

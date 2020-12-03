@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Illinois,Effingham,213.4,73,1,2.92,2933,23.0,0.78,8574.02,67.24,8.57,34208,71.45,988.07,8.77,4472.63,160.78
+2020-12-01,Illinois,Effingham,172.47,59,1,2.92,2860,22.0,0.77,8360.62,64.31,8.36,34208,71.45,979.3,-5.85,4311.85,87.69
 2020-11-30,Illinois,Effingham,90.62,31,0,0.0,2801,21.0,0.75,8188.14,61.39,8.19,34208,71.45,985.15,0.0,4224.16,14.61
 2020-11-29,Illinois,Effingham,40.93,14,0,0.0,2770,21.0,0.76,8097.52,61.39,8.1,34208,71.45,985.15,-96.46,4209.55,-90.62
 2020-11-28,Illinois,Effingham,175.4,60,0,0.0,2756,21.0,0.76,8056.59,61.39,8.06,34208,71.45,1081.61,-5.84,4300.17,175.4

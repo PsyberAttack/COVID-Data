@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,North Carolina,Chowan,14.26,2,0,0.0,646,18.0,2.79,4604.75,128.31,4.6,14029,81.25,399.18,14.26,712.81,0.0
+2020-12-01,North Carolina,Chowan,49.9,7,0,0.0,644,18.0,2.8,4590.49,128.31,4.59,14029,81.25,384.92,28.52,712.81,7.13
 2020-11-30,North Carolina,Chowan,35.64,5,0,0.0,637,18.0,2.83,4540.59,128.31,4.54,14029,81.25,356.4,28.51,705.68,35.64
 2020-11-29,North Carolina,Chowan,71.28,10,0,0.0,632,18.0,2.85,4504.95,128.31,4.5,14029,81.25,327.89,28.51,670.04,42.77
 2020-11-28,North Carolina,Chowan,42.77,6,0,0.0,622,18.0,2.89,4433.67,128.31,4.43,14029,81.25,299.38,35.64,627.27,35.64

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Missouri,Lincoln,53.74,31,0,0.0,2540,13.0,0.51,4403.15,22.54,4.4,57686,92.07,409.12,-32.94,2023.05,12.14
+2020-12-01,Missouri,Lincoln,57.21,33,4,6.93,2509,13.0,0.52,4349.41,22.54,4.35,57686,92.07,442.06,-6.93,2010.91,31.21
 2020-11-30,Missouri,Lincoln,65.87,38,0,0.0,2476,9.0,0.36,4292.2,15.6,4.29,57686,92.07,448.99,-32.94,1979.7,27.73
 2020-11-29,Missouri,Lincoln,53.74,31,0,0.0,2438,9.0,0.37,4226.33,15.6,4.23,57686,92.07,481.93,-26.0,1951.97,12.14
 2020-11-28,Missouri,Lincoln,22.54,13,0,0.0,2407,9.0,0.37,4172.59,15.6,4.17,57686,92.07,507.93,-50.27,1939.83,-10.4

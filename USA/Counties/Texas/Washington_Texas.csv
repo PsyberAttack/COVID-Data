@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Texas,Washington,0.0,0,0,0.0,966,53.0,5.49,2751.51,150.96,2.75,35108,58.11,76.92,-39.88,686.49,-8.55
+2020-12-01,Texas,Washington,2.85,1,0,0.0,966,53.0,5.49,2751.51,150.96,2.75,35108,58.11,116.8,-25.63,695.04,-2.85
 2020-11-30,Texas,Washington,19.94,7,0,0.0,965,53.0,5.49,2748.66,150.96,2.75,35108,58.11,142.43,19.94,697.89,17.09
 2020-11-29,Texas,Washington,0.0,0,0,0.0,958,53.0,5.53,2728.72,150.96,2.73,35108,58.11,122.49,0.0,680.8,0.0
 2020-11-28,Texas,Washington,2.85,1,0,0.0,958,53.0,5.53,2728.72,150.96,2.73,35108,58.11,122.49,-19.94,680.8,-22.79

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Missouri,Sullivan,16.07,1,0,0.0,572,6.0,1.05,9194.66,96.45,9.19,6221,9.6,385.78,-16.08,2813.04,-48.23
+2020-12-01,Missouri,Sullivan,48.22,3,0,0.0,571,6.0,1.05,9178.59,96.45,9.18,6221,9.6,401.86,-112.53,2861.27,-96.45
 2020-11-30,Missouri,Sullivan,64.3,4,0,0.0,568,6.0,1.06,9130.36,96.45,9.13,6221,9.6,514.39,64.3,2957.72,16.08
 2020-11-29,Missouri,Sullivan,80.37,5,0,0.0,564,6.0,1.06,9066.07,96.45,9.07,6221,9.6,450.09,96.44,2941.64,-80.38
 2020-11-28,Missouri,Sullivan,32.15,2,0,0.0,559,6.0,1.07,8985.69,96.45,8.99,6221,9.6,353.65,-144.67,3022.02,-208.97

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Pennsylvania,Forest,13.74,1,0,0.0,102,1.0,0.98,1401.29,13.74,1.4,7279,17.04,631.96,13.74,1140.29,13.74
+2020-12-01,Pennsylvania,Forest,54.95,4,0,0.0,101,1.0,0.99,1387.55,13.74,1.39,7279,17.04,618.22,54.95,1126.55,54.95
 2020-11-30,Pennsylvania,Forest,27.48,2,0,0.0,97,1.0,1.03,1332.6,13.74,1.33,7279,17.04,563.27,27.48,1071.6,27.48
 2020-11-29,Pennsylvania,Forest,109.91,8,0,0.0,95,1.0,1.05,1305.12,13.74,1.31,7279,17.04,535.79,96.17,1044.12,109.91
 2020-11-28,Pennsylvania,Forest,274.76,20,0,0.0,87,1.0,1.15,1195.22,13.74,1.2,7279,17.04,439.62,219.81,934.21,274.76

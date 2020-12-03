@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Pennsylvania,Clarion,116.04,45,0,0.0,1070,10.0,0.93,2759.23,25.79,2.76,38779,64.54,660.15,28.36,2044.93,82.52
+2020-12-01,Pennsylvania,Clarion,100.57,39,0,0.0,1025,10.0,0.98,2643.18,25.79,2.64,38779,64.54,631.79,20.63,1962.41,95.41
 2020-11-30,Pennsylvania,Clarion,64.47,25,0,0.0,986,10.0,1.01,2542.61,25.79,2.54,38779,64.54,611.16,-41.26,1867.0,20.63
 2020-11-29,Pennsylvania,Clarion,56.73,22,0,0.0,961,10.0,1.04,2478.15,25.79,2.48,38779,64.54,652.42,-5.16,1846.37,54.15
 2020-11-28,Pennsylvania,Clarion,103.15,40,1,2.58,939,10.0,1.06,2421.41,25.79,2.42,38779,64.54,657.58,18.05,1792.22,74.78

@@ -1,5 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-01,Minas Gerais,Centralina,86.96,9,0,0.0,242,4,1.65,2338.16,38.65,2.34,10350,270.53,77.3,454.08,77.3
+2020-12-01,Minas Gerais,Centralina,0.0,0,0,0.0,242,4,1.65,2338.16,38.65,2.34,10350,270.53,0.0,444.42,-9.66
+2020-11-30,Minas Gerais,Centralina,86.96,9,0,0.0,242,4,1.65,2338.16,38.65,2.34,10350,270.53,77.3,454.08,77.3
 2020-11-27,Minas Gerais,Centralina,86.96,9,0,0.0,233,4,1.72,2251.21,38.65,2.25,10350,193.23,86.96,376.78,67.64
 2020-11-26,Minas Gerais,Centralina,0.0,0,0,0.0,224,4,1.79,2164.25,38.65,2.16,10350,106.27,-9.66,309.14,0.0
 2020-11-25,Minas Gerais,Centralina,9.66,1,0,0.0,224,4,1.79,2164.25,38.65,2.16,10350,115.93,9.66,309.14,-19.33

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Virginia,Shenandoah,39.08,17,1,2.3,1437,63.0,4.38,3303.68,144.84,3.3,43497,85.61,273.59,22.99,919.59,9.19
+2020-12-01,Virginia,Shenandoah,39.08,17,0,0.0,1420,62.0,4.37,3264.59,142.54,3.26,43497,85.61,250.6,22.99,910.4,9.19
 2020-11-30,Virginia,Shenandoah,52.88,23,0,0.0,1403,62.0,4.42,3225.51,142.54,3.23,43497,85.61,227.61,6.9,901.21,25.29
 2020-11-29,Virginia,Shenandoah,43.68,19,0,0.0,1380,62.0,4.49,3172.63,142.54,3.17,43497,85.61,220.71,32.18,875.92,36.78
 2020-11-28,Virginia,Shenandoah,57.48,25,0,0.0,1361,62.0,4.56,3128.95,142.54,3.13,43497,85.61,188.53,32.19,839.14,34.49

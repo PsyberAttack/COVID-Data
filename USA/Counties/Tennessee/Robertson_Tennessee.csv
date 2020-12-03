@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Tennessee,Robertson,67.59,48,0,0.0,4002,53.0,1.32,5635.67,74.64,5.64,71012,149.09,560.46,29.57,1751.8,29.57
+2020-12-01,Tennessee,Robertson,83.08,59,0,0.0,3954,53.0,1.34,5568.07,74.64,5.57,71012,149.09,530.89,77.45,1722.23,80.26
 2020-11-30,Tennessee,Robertson,116.88,83,0,0.0,3895,53.0,1.36,5484.99,74.64,5.48,71012,149.09,453.44,49.29,1641.97,92.94
 2020-11-29,Tennessee,Robertson,53.51,38,0,0.0,3812,53.0,1.39,5368.11,74.64,5.37,71012,149.09,404.15,-28.17,1549.03,43.65
 2020-11-28,Tennessee,Robertson,90.13,64,1,1.41,3774,53.0,1.4,5314.59,74.64,5.31,71012,149.09,432.32,16.9,1505.38,85.91

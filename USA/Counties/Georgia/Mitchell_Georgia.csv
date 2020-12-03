@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Georgia,Mitchell,45.06,10,-1,-4.51,1015,50.0,4.93,4573.72,225.31,4.57,22192,43.33,180.25,0.0,473.15,13.52
+2020-12-01,Georgia,Mitchell,94.63,21,1,4.51,1005,51.0,5.07,4528.66,229.81,4.53,22192,43.33,180.25,67.59,459.63,94.63
 2020-11-30,Georgia,Mitchell,18.02,4,0,0.0,984,50.0,5.08,4434.03,225.31,4.43,22192,43.33,112.66,4.5,365.0,-18.03
 2020-11-29,Georgia,Mitchell,0.0,0,0,0.0,980,50.0,5.1,4416.01,225.31,4.42,22192,43.33,108.16,-4.51,383.03,-4.51
 2020-11-28,Georgia,Mitchell,4.51,1,1,4.51,980,50.0,5.1,4416.01,225.31,4.42,22192,43.33,112.67,-31.54,387.54,9.02

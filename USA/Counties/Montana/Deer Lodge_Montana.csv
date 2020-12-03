@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Montana,Deer Lodge,98.57,9,0,0.0,741,10.0,1.35,8115.21,109.52,8.12,9131,12.39,525.69,65.71,2639.36,10.96
+2020-12-01,Montana,Deer Lodge,98.57,9,0,0.0,732,10.0,1.37,8016.65,109.52,8.02,9131,12.39,459.98,32.86,2628.4,87.62
 2020-11-30,Montana,Deer Lodge,10.95,1,0,0.0,723,10.0,1.38,7918.08,109.52,7.92,9131,12.39,427.12,-87.62,2540.78,-186.18
 2020-11-29,Montana,Deer Lodge,262.84,24,0,0.0,722,10.0,1.39,7907.13,109.52,7.91,9131,12.39,514.74,76.66,2726.96,186.18
 2020-11-28,Montana,Deer Lodge,10.95,1,0,0.0,698,10.0,1.43,7644.29,109.52,7.64,9131,12.39,438.08,-10.95,2540.78,-54.76

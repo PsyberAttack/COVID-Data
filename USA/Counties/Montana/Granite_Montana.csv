@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Montana,Granite,0.0,0,0,0.0,127,1.0,0.79,3759.62,29.6,3.76,3378,1.96,88.81,-148.02,1568.98,0.0
+2020-12-01,Montana,Granite,29.6,1,0,0.0,127,1.0,0.79,3759.62,29.6,3.76,3378,1.96,236.83,29.6,1568.98,29.6
 2020-11-30,Montana,Granite,0.0,0,0,0.0,126,1.0,0.79,3730.02,29.6,3.73,3378,1.96,207.23,0.0,1539.38,-88.81
 2020-11-29,Montana,Granite,0.0,0,0,0.0,126,1.0,0.79,3730.02,29.6,3.73,3378,1.96,207.23,0.0,1628.19,-29.6
 2020-11-28,Montana,Granite,0.0,0,0,0.0,126,1.0,0.79,3730.02,29.6,3.73,3378,1.96,207.23,-177.62,1657.79,-88.81

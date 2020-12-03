@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Missouri,Nodaway,0.0,0,0,0.0,2013,13.0,0.65,9025.29,58.29,9.03,22304,25.43,340.75,-219.69,3183.3,-80.7
+2020-12-01,Missouri,Nodaway,31.38,7,0,0.0,2013,13.0,0.65,9025.29,58.29,9.03,22304,25.43,560.44,-103.13,3264.0,31.38
 2020-11-30,Missouri,Nodaway,76.22,17,0,0.0,2006,13.0,0.65,8993.9,58.29,8.99,22304,25.43,663.57,76.22,3232.62,44.84
 2020-11-29,Missouri,Nodaway,116.57,26,0,0.0,1989,13.0,0.65,8917.68,58.29,8.92,22304,25.43,587.35,53.8,3187.78,-76.22
 2020-11-28,Missouri,Nodaway,71.74,16,0,0.0,1963,13.0,0.66,8801.11,58.29,8.8,22304,25.43,533.55,8.97,3264.0,71.74

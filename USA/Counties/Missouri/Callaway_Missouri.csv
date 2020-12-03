@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Missouri,Callaway,106.93,48,0,0.0,2925,11.0,0.38,6516.07,24.5,6.52,44889,53.79,516.82,-17.82,2936.13,8.91
+2020-12-01,Missouri,Callaway,44.55,20,3,6.68,2877,11.0,0.38,6409.14,24.5,6.41,44889,53.79,534.64,-44.56,2927.22,-89.11
 2020-11-30,Missouri,Callaway,82.43,37,0,0.0,2857,8.0,0.28,6364.59,17.82,6.36,44889,53.79,579.2,8.92,3016.33,33.42
 2020-11-29,Missouri,Callaway,69.06,31,0,0.0,2820,8.0,0.28,6282.16,17.82,6.28,44889,53.79,570.28,-28.96,2982.91,22.28
 2020-11-28,Missouri,Callaway,17.82,8,0,0.0,2789,8.0,0.29,6213.1,17.82,6.21,44889,53.79,599.24,-44.56,2960.63,-104.7

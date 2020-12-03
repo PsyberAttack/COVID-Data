@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,North Carolina,Macon,19.84,7,0,0.0,955,9.0,0.94,2706.53,25.51,2.71,35285,68.44,116.2,-2.83,487.46,5.67
+2020-12-01,North Carolina,Macon,11.34,4,0,0.0,948,9.0,0.95,2686.69,25.51,2.69,35285,68.44,119.03,8.51,481.79,2.84
 2020-11-30,North Carolina,Macon,17.0,6,0,0.0,944,9.0,0.95,2675.36,25.51,2.68,35285,68.44,110.52,19.83,478.95,11.33
 2020-11-29,North Carolina,Macon,8.5,3,0,0.0,938,9.0,0.96,2658.35,25.51,2.66,35285,68.44,90.69,-25.51,467.62,-14.17
 2020-11-28,North Carolina,Macon,19.84,7,0,0.0,935,9.0,0.96,2649.85,25.51,2.65,35285,68.44,116.2,-2.83,481.79,19.84

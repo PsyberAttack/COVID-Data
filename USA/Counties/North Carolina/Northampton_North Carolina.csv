@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,North Carolina,Northampton,96.56,19,0,0.0,844,25.0,2.96,4289.49,127.06,4.29,19676,36.66,233.78,-55.91,1229.92,55.9
+2020-12-01,North Carolina,Northampton,-5.08,-1,0,0.0,825,25.0,3.03,4192.93,127.06,4.19,19676,36.66,289.69,-10.16,1174.02,-45.74
 2020-11-30,North Carolina,Northampton,10.16,2,0,0.0,826,25.0,3.03,4198.01,127.06,4.2,19676,36.66,299.85,-20.33,1219.76,-20.33
 2020-11-29,North Carolina,Northampton,30.49,6,0,0.0,824,25.0,3.03,4187.84,127.06,4.19,19676,36.66,320.18,-71.16,1240.09,15.24
 2020-11-28,North Carolina,Northampton,15.25,3,0,0.0,818,25.0,3.06,4157.35,127.06,4.16,19676,36.66,391.34,-147.38,1224.85,0.0

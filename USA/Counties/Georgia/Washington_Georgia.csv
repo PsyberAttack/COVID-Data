@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Georgia,Washington,49.05,10,1,4.91,1165,35.0,3.0,5714.71,171.69,5.71,20386,30.05,206.02,14.71,1373.49,83.39
+2020-12-01,Georgia,Washington,39.24,8,3,14.72,1155,34.0,2.94,5665.65,166.78,5.67,20386,30.05,191.31,-4.91,1290.1,-9.81
 2020-11-30,Georgia,Washington,-29.43,-6,2,9.81,1147,31.0,2.7,5626.41,152.07,5.63,20386,30.05,196.22,-206.02,1299.91,-117.73
 2020-11-29,Georgia,Washington,24.53,5,0,0.0,1153,29.0,2.52,5655.84,142.25,5.66,20386,30.05,402.24,24.53,1417.64,24.53
 2020-11-28,Georgia,Washington,0.0,0,0,0.0,1148,29.0,2.53,5631.32,142.25,5.63,20386,30.05,377.71,-63.77,1393.11,-68.67

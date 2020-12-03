@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Oklahoma,Murray,86.0,12,1,7.17,672,6.0,0.89,4816.17,43.0,4.82,13953,33.51,551.85,-14.34,2329.27,64.5
+2020-12-01,Oklahoma,Murray,43.0,6,0,0.0,660,5.0,0.76,4730.17,35.83,4.73,13953,33.51,566.19,-86.0,2264.77,21.5
 2020-11-30,Oklahoma,Murray,57.34,8,0,0.0,654,5.0,0.76,4687.16,35.83,4.69,13953,33.51,652.19,-43.0,2243.27,28.67
 2020-11-29,Oklahoma,Murray,129.0,18,0,0.0,646,5.0,0.77,4629.83,35.83,4.63,13953,33.51,695.19,64.5,2214.6,86.0
 2020-11-28,Oklahoma,Murray,143.34,20,1,7.17,628,5.0,0.8,4500.82,35.83,4.5,13953,33.51,630.69,64.5,2128.6,100.34

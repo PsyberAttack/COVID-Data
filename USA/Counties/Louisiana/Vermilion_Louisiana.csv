@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Louisiana,Vermilion,5.01,3,1,1.67,2662,76.0,2.85,4449.27,127.03,4.45,59830,51.0,235.66,-21.73,860.77,5.01
+2020-12-01,Louisiana,Vermilion,122.01,73,0,0.0,2659,75.0,2.82,4444.26,125.36,4.44,59830,51.0,257.39,40.11,855.76,111.98
 2020-11-30,Louisiana,Vermilion,-10.03,-6,0,0.0,2586,75.0,2.9,4322.25,125.36,4.32,59830,51.0,217.28,-11.7,743.78,-21.73
 2020-11-29,Louisiana,Vermilion,18.39,11,0,0.0,2592,75.0,2.89,4332.27,125.36,4.33,59830,51.0,228.98,-66.85,765.51,13.38
 2020-11-28,Louisiana,Vermilion,0.0,0,0,0.0,2581,75.0,2.91,4313.89,125.36,4.31,59830,51.0,295.83,0.0,752.13,0.0

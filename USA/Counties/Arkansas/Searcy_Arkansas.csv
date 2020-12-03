@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Arkansas,Searcy,0.0,0,0,0.0,309,1.0,0.32,3882.89,12.57,3.88,7958,11.95,314.16,-25.13,1093.26,-37.7
+2020-12-01,Arkansas,Searcy,150.79,12,0,0.0,309,1.0,0.32,3882.89,12.57,3.88,7958,11.95,339.29,62.83,1130.96,87.96
 2020-11-30,Arkansas,Searcy,25.13,2,0,0.0,297,1.0,0.34,3732.09,12.57,3.73,7958,11.95,276.46,-12.57,1043.0,0.0
 2020-11-29,Arkansas,Searcy,37.7,3,0,0.0,295,1.0,0.34,3706.96,12.57,3.71,7958,11.95,289.03,12.57,1043.0,-12.56
 2020-11-28,Arkansas,Searcy,12.57,1,0,0.0,292,1.0,0.34,3669.26,12.57,3.67,7958,11.95,276.46,-12.56,1055.56,-25.13

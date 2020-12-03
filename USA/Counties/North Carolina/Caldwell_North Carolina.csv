@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,North Carolina,Caldwell,29.26,24,2,2.44,3650,23.0,0.63,4449.65,28.04,4.45,82029,173.83,315.73,-34.13,1087.41,12.19
+2020-12-01,North Carolina,Caldwell,42.67,35,0,0.0,3626,21.0,0.58,4420.39,25.6,4.42,82029,173.83,349.86,-9.75,1075.22,-7.31
 2020-11-30,North Carolina,Caldwell,47.54,39,0,0.0,3591,21.0,0.58,4377.72,25.6,4.38,82029,173.83,359.61,25.6,1082.53,25.6
 2020-11-29,North Carolina,Caldwell,48.76,40,0,0.0,3552,21.0,0.59,4330.18,25.6,4.33,82029,173.83,334.01,4.87,1056.93,-1.22
 2020-11-28,North Carolina,Caldwell,59.73,49,0,0.0,3512,21.0,0.6,4281.41,25.6,4.28,82029,173.83,329.14,-7.32,1058.15,7.31

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Colorado,Garfield,68.6,41,1,1.67,2321,10.0,0.43,3883.22,16.73,3.88,59770,20.28,513.63,1.68,1728.27,23.43
+2020-12-01,Colorado,Garfield,56.88,34,2,3.35,2280,9.0,0.39,3814.62,15.06,3.81,59770,20.28,511.95,-40.16,1704.84,36.8
 2020-11-30,Colorado,Garfield,92.02,55,1,1.67,2246,7.0,0.31,3757.74,11.71,3.76,59770,20.28,552.11,41.83,1668.04,75.29
 2020-11-29,Colorado,Garfield,55.21,33,0,0.0,2191,6.0,0.27,3665.72,10.04,3.67,59770,20.28,510.28,-3.35,1592.75,40.15
 2020-11-28,Colorado,Garfield,100.38,60,0,0.0,2158,6.0,0.28,3610.51,10.04,3.61,59770,20.28,513.63,-25.1,1552.6,81.98

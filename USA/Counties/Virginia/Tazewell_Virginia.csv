@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Virginia,Tazewell,83.22,34,0,0.0,1122,7.0,0.62,2746.3,17.13,2.75,40855,78.75,379.39,48.95,1346.23,83.22
+2020-12-01,Virginia,Tazewell,22.03,9,0,0.0,1088,7.0,0.64,2663.08,17.13,2.66,40855,78.75,330.44,-29.37,1263.01,7.34
 2020-11-30,Virginia,Tazewell,78.33,32,0,0.0,1079,7.0,0.65,2641.05,17.13,2.64,40855,78.75,359.81,0.0,1255.67,56.3
 2020-11-29,Virginia,Tazewell,0.0,0,0,0.0,1047,7.0,0.67,2562.72,17.13,2.56,40855,78.75,359.81,-14.69,1199.37,-14.69
 2020-11-28,Virginia,Tazewell,112.59,46,0,0.0,1047,7.0,0.67,2562.72,17.13,2.56,40855,78.75,374.5,73.43,1214.06,100.35

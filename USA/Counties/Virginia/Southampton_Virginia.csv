@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Virginia,Southampton,45.49,8,0,0.0,996,40.0,4.02,5663.6,227.45,5.66,17586,29.35,108.04,39.8,324.13,45.49
+2020-12-01,Virginia,Southampton,11.37,2,0,0.0,988,40.0,4.05,5618.11,227.45,5.62,17586,29.35,68.24,-22.75,278.64,0.0
 2020-11-30,Virginia,Southampton,-11.37,-2,0,0.0,986,40.0,4.06,5606.73,227.45,5.61,17586,29.35,90.99,-34.12,278.64,-17.06
 2020-11-29,Virginia,Southampton,17.06,3,0,0.0,988,40.0,4.05,5618.11,227.45,5.62,17586,29.35,125.11,5.69,295.7,17.06
 2020-11-28,Virginia,Southampton,11.37,2,0,0.0,985,40.0,4.06,5601.05,227.45,5.6,17586,29.35,119.42,0.0,278.64,-5.69

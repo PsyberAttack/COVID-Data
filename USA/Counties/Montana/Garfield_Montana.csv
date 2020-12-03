@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Montana,Garfield,0.0,0,0,0.0,65,2.0,3.08,5126.18,157.73,5.13,1268,0.27,236.59,0.0,2681.37,-78.86
+2020-12-01,Montana,Garfield,78.86,1,0,0.0,65,2.0,3.08,5126.18,157.73,5.13,1268,0.27,236.59,78.86,2760.23,78.86
 2020-11-30,Montana,Garfield,0.0,0,0,0.0,64,2.0,3.12,5047.32,157.73,5.05,1268,0.27,157.73,-236.59,2681.37,0.0
 2020-11-29,Montana,Garfield,0.0,0,0,0.0,64,2.0,3.12,5047.32,157.73,5.05,1268,0.27,394.32,0.0,2681.37,-78.86
 2020-11-28,Montana,Garfield,0.0,0,0,0.0,64,2.0,3.12,5047.32,157.73,5.05,1268,0.27,394.32,0.0,2760.23,-315.46

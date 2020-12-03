@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Oklahoma,McCurtain,85.62,28,0,0.0,2330,45.0,1.93,7124.73,137.6,7.12,32703,17.67,269.1,39.75,1837.77,58.1
+2020-12-01,Oklahoma,McCurtain,0.0,0,0,0.0,2302,45.0,1.95,7039.11,137.6,7.04,32703,17.67,229.35,-45.87,1779.67,-122.31
 2020-11-30,Oklahoma,McCurtain,30.58,10,0,0.0,2302,45.0,1.95,7039.11,137.6,7.04,32703,17.67,275.22,3.06,1901.98,3.06
 2020-11-29,Oklahoma,McCurtain,45.87,15,0,0.0,2292,45.0,1.96,7008.53,137.6,7.01,32703,17.67,272.16,-33.63,1898.92,3.06
 2020-11-28,Oklahoma,McCurtain,73.39,24,0,0.0,2277,45.0,1.98,6962.66,137.6,6.96,32703,17.67,305.79,-30.58,1895.86,61.16

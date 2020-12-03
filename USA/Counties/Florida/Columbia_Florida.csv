@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Florida,Columbia,31.2,22,2,2.84,4843,96.0,1.98,6869.21,136.16,6.87,70503,88.4,219.85,-21.28,713.47,12.76
+2020-12-01,Florida,Columbia,45.39,32,0,0.0,4821,94.0,1.95,6838.01,133.33,6.84,70503,88.4,241.13,2.84,700.71,22.7
 2020-11-30,Florida,Columbia,11.35,8,0,0.0,4789,94.0,1.96,6792.62,133.33,6.79,70503,88.4,238.29,-1.42,678.01,-4.25
 2020-11-29,Florida,Columbia,24.11,17,0,0.0,4781,94.0,1.97,6781.27,133.33,6.78,70503,88.4,239.71,11.34,682.26,1.42
 2020-11-28,Florida,Columbia,12.77,9,0,0.0,4764,94.0,1.97,6757.16,133.33,6.76,70503,88.4,228.37,-12.76,680.84,8.51

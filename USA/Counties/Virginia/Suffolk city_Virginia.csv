@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Virginia,Suffolk city,29.61,27,0,0.0,2803,80.0,2.85,3073.97,87.73,3.07,91185,228.45,137.09,10.97,469.37,17.55
+2020-12-01,Virginia,Suffolk city,9.87,9,0,0.0,2776,80.0,2.88,3044.36,87.73,3.04,91185,228.45,126.12,-23.03,451.82,0.0
 2020-11-30,Virginia,Suffolk city,5.48,5,0,0.0,2767,80.0,2.89,3034.49,87.73,3.03,91185,228.45,149.15,-12.07,451.82,-4.39
 2020-11-29,Virginia,Suffolk city,7.68,7,0,0.0,2762,80.0,2.9,3029.01,87.73,3.03,91185,228.45,161.22,-6.58,456.21,6.58
 2020-11-28,Virginia,Suffolk city,43.87,40,0,0.0,2755,80.0,2.9,3021.33,87.73,3.02,91185,228.45,167.8,21.94,449.63,20.84

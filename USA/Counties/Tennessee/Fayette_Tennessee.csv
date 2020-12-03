@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Tennessee,Fayette,56.78,23,0,0.0,2352,39.0,1.66,5806.4,96.28,5.81,40507,57.48,474.0,27.16,1328.16,17.28
+2020-12-01,Tennessee,Fayette,66.66,27,0,0.0,2329,39.0,1.67,5749.62,96.28,5.75,40507,57.48,446.84,56.79,1310.88,66.66
 2020-11-30,Tennessee,Fayette,81.47,33,1,2.47,2302,39.0,1.69,5682.97,96.28,5.68,40507,57.48,390.05,24.69,1244.22,56.78
 2020-11-29,Tennessee,Fayette,39.5,16,0,0.0,2269,38.0,1.67,5601.5,93.81,5.6,40507,57.48,365.36,0.0,1187.44,32.09
 2020-11-28,Tennessee,Fayette,153.06,62,0,0.0,2253,38.0,1.69,5562.0,93.81,5.56,40507,57.48,365.36,111.09,1155.35,125.9

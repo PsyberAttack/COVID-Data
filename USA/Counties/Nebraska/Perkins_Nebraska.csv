@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Nebraska,Perkins,238.99,7,0,0.0,149,10.0,6.71,5087.06,341.41,5.09,2929,3.32,716.97,273.13,3243.42,170.71
+2020-12-01,Nebraska,Perkins,0.0,0,0,0.0,142,10.0,7.04,4848.07,341.41,4.85,2929,3.32,443.84,-102.42,3072.71,0.0
 2020-11-30,Nebraska,Perkins,204.85,6,0,0.0,142,10.0,7.04,4848.07,341.41,4.85,2929,3.32,546.26,-34.14,3072.71,170.71
 2020-11-29,Nebraska,Perkins,0.0,0,0,0.0,136,10.0,7.35,4643.22,341.41,4.64,2929,3.32,580.4,0.0,2902.0,0.0
 2020-11-28,Nebraska,Perkins,0.0,0,0,0.0,136,10.0,7.35,4643.22,341.41,4.64,2929,3.32,580.4,-34.14,2902.0,-136.57

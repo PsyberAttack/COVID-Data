@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Missouri,Carter,49.55,3,0,0.0,300,6.0,2.0,4955.4,99.11,4.96,6054,11.93,264.29,-49.56,1684.84,0.0
+2020-12-01,Missouri,Carter,16.52,1,1,16.52,297,6.0,2.02,4905.85,99.11,4.91,6054,11.93,313.85,-16.52,1684.84,0.0
 2020-11-30,Missouri,Carter,33.04,2,0,0.0,296,5.0,1.69,4889.33,82.59,4.89,6054,11.93,330.37,33.04,1684.84,-16.51
 2020-11-29,Missouri,Carter,16.52,1,0,0.0,294,5.0,1.7,4856.29,82.59,4.86,6054,11.93,297.33,-49.55,1701.35,-16.52
 2020-11-28,Missouri,Carter,16.52,1,0,0.0,293,5.0,1.71,4839.78,82.59,4.84,6054,11.93,346.88,-198.21,1717.87,0.0

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Texas,Hamilton,35.36,3,0,0.0,301,8.0,2.66,3547.85,94.3,3.55,8484,10.15,212.16,0.0,1060.8,11.79
+2020-12-01,Texas,Hamilton,23.57,2,1,11.79,298,8.0,2.68,3512.49,94.3,3.51,8484,10.15,212.16,0.0,1049.01,-11.79
 2020-11-30,Texas,Hamilton,23.57,2,0,0.0,296,7.0,2.36,3488.92,82.51,3.49,8484,10.15,212.16,23.57,1060.8,23.57
 2020-11-29,Texas,Hamilton,0.0,0,0,0.0,294,7.0,2.38,3465.35,82.51,3.47,8484,10.15,188.59,0.0,1037.23,0.0
 2020-11-28,Texas,Hamilton,0.0,0,0,0.0,294,7.0,2.38,3465.35,82.51,3.47,8484,10.15,188.59,-35.36,1037.23,-23.57

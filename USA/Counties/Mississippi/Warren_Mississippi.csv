@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Mississippi,Warren,60.64,28,0,0.0,1830,58.0,3.17,3963.1,125.61,3.96,46176,78.46,225.22,51.98,517.6,45.48
+2020-12-01,Mississippi,Warren,32.48,15,1,2.17,1802,58.0,3.22,3902.46,125.61,3.9,46176,78.46,173.24,30.31,472.12,30.31
 2020-11-30,Mississippi,Warren,21.66,10,0,0.0,1787,57.0,3.19,3869.98,123.44,3.87,46176,78.46,142.93,13.0,441.81,21.66
 2020-11-29,Mississippi,Warren,19.49,9,0,0.0,1777,57.0,3.21,3848.32,123.44,3.85,46176,78.46,129.93,-2.17,420.15,4.33
 2020-11-28,Mississippi,Warren,32.48,15,0,0.0,1768,57.0,3.22,3828.83,123.44,3.83,46176,78.46,132.1,-2.17,415.82,21.65

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Washington,Walla Walla,31.19,19,1,1.64,2290,27.0,1.18,3758.9,44.32,3.76,60922,47.97,241.29,-16.41,1503.54,-24.62
+2020-12-01,Washington,Walla Walla,0.0,0,1,1.64,2271,26.0,1.14,3727.72,42.68,3.73,60922,47.97,257.7,-111.62,1528.16,-36.11
 2020-11-30,Washington,Walla Walla,118.18,72,1,1.64,2271,25.0,1.1,3727.72,41.04,3.73,60922,47.97,369.32,55.81,1564.27,108.33
 2020-11-29,Washington,Walla Walla,4.92,3,0,0.0,2199,24.0,1.09,3609.53,39.39,3.61,60922,47.97,313.51,-41.04,1455.94,-93.57
 2020-11-28,Washington,Walla Walla,0.0,0,0,0.0,2196,24.0,1.09,3604.61,39.39,3.6,60922,47.97,354.55,-54.17,1549.51,-32.83

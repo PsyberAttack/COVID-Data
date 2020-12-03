@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Michigan,Roscommon,154.92,37,2,8.37,693,17.0,2.45,2901.52,71.18,2.9,23884,45.94,577.79,75.37,1909.22,146.55
+2020-12-01,Michigan,Roscommon,62.8,15,0,0.0,656,15.0,2.29,2746.61,62.8,2.75,23884,45.94,502.42,4.18,1762.67,54.43
 2020-11-30,Michigan,Roscommon,129.79,31,2,8.37,641,15.0,2.34,2683.81,62.8,2.68,23884,45.94,498.24,-54.43,1708.24,62.8
 2020-11-29,Michigan,Roscommon,0.0,0,0,0.0,610,13.0,2.13,2554.01,54.43,2.55,23884,45.94,552.67,0.0,1645.44,0.0
 2020-11-28,Michigan,Roscommon,46.06,11,3,12.56,610,13.0,2.13,2554.01,54.43,2.55,23884,45.94,552.67,-8.37,1645.44,29.31

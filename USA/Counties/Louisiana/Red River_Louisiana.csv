@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Louisiana,Red River,47.19,4,0,0.0,573,26.0,4.54,6759.47,306.71,6.76,8477,21.79,82.58,0.0,1285.83,35.39
+2020-12-01,Louisiana,Red River,35.39,3,0,0.0,569,26.0,4.57,6712.28,306.71,6.71,8477,21.79,82.58,-23.59,1250.44,11.8
 2020-11-30,Louisiana,Red River,0.0,0,0,0.0,566,26.0,4.59,6676.89,306.71,6.68,8477,21.79,106.17,-82.58,1238.64,-70.78
 2020-11-29,Louisiana,Red River,-11.8,-1,0,0.0,566,26.0,4.59,6676.89,306.71,6.68,8477,21.79,188.75,0.0,1309.42,-117.97
 2020-11-28,Louisiana,Red River,0.0,0,0,0.0,567,26.0,4.59,6688.69,306.71,6.69,8477,21.79,188.75,0.0,1427.39,0.0

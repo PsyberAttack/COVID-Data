@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,North Carolina,Jones,-20.75,-2,0,0.0,275,15.0,5.45,2853.59,155.65,2.85,9637,20.44,114.15,-72.63,715.99,-51.88
+2020-12-01,North Carolina,Jones,0.0,0,0,0.0,277,15.0,5.42,2874.34,155.65,2.87,9637,20.44,186.78,-83.01,767.87,10.38
 2020-11-30,North Carolina,Jones,10.38,1,0,0.0,277,15.0,5.42,2874.34,155.65,2.87,9637,20.44,269.79,-31.13,757.49,-10.37
 2020-11-29,North Carolina,Jones,20.75,2,0,0.0,276,15.0,5.43,2863.96,155.65,2.86,9637,20.44,300.92,-62.26,767.86,10.37
 2020-11-28,North Carolina,Jones,31.13,3,0,0.0,274,15.0,5.47,2843.21,155.65,2.84,9637,20.44,363.18,-41.51,757.49,20.75

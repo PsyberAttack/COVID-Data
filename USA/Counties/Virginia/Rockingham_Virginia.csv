@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Virginia,Rockingham,61.54,50,0,0.0,2343,37.0,1.58,2883.91,45.54,2.88,81244,95.6,205.56,57.85,620.34,46.77
+2020-12-01,Virginia,Rockingham,28.31,23,1,1.23,2293,37.0,1.61,2822.36,45.54,2.82,81244,95.6,147.71,-3.69,573.57,22.16
 2020-11-30,Virginia,Rockingham,7.39,6,0,0.0,2270,36.0,1.59,2794.05,44.31,2.79,81244,95.6,151.4,-18.46,551.41,4.93
 2020-11-29,Virginia,Rockingham,13.54,11,0,0.0,2264,36.0,1.59,2786.67,44.31,2.79,81244,95.6,169.86,-6.15,546.48,-29.54
 2020-11-28,Virginia,Rockingham,61.54,50,0,0.0,2253,36.0,1.6,2773.13,44.31,2.77,81244,95.6,176.01,3.69,576.02,51.69

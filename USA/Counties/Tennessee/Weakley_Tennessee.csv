@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Tennessee,Weakley,47.88,16,0,0.0,2247,36.0,1.6,6724.52,107.74,6.72,33415,57.58,451.88,0.0,1729.75,2.99
+2020-12-01,Tennessee,Weakley,41.9,14,-1,-2.99,2231,36.0,1.61,6676.64,107.74,6.68,33415,57.58,451.88,32.92,1726.76,26.94
 2020-11-30,Tennessee,Weakley,116.71,39,0,0.0,2217,37.0,1.67,6634.74,110.73,6.63,33415,57.58,418.96,62.84,1699.82,77.81
 2020-11-29,Tennessee,Weakley,26.93,9,0,0.0,2178,37.0,1.7,6518.03,110.73,6.52,33415,57.58,356.12,-29.93,1622.01,17.95
 2020-11-28,Tennessee,Weakley,128.68,43,1,2.99,2169,37.0,1.71,6491.1,110.73,6.49,33415,57.58,386.05,80.8,1604.06,86.78

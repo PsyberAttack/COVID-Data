@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Minnesota,Wabasha,78.54,17,0,0.0,1104,1.0,0.09,5100.49,4.62,5.1,21645,41.39,660.66,-41.58,2919.84,18.48
+2020-12-01,Minnesota,Wabasha,41.58,9,0,0.0,1087,1.0,0.09,5021.95,4.62,5.02,21645,41.39,702.24,-64.68,2901.36,18.48
 2020-11-30,Minnesota,Wabasha,101.64,22,0,0.0,1078,1.0,0.09,4980.36,4.62,4.98,21645,41.39,766.92,27.72,2882.88,64.68
 2020-11-29,Minnesota,Wabasha,120.12,26,0,0.0,1056,1.0,0.09,4878.72,4.62,4.88,21645,41.39,739.2,-36.96,2818.2,69.3
 2020-11-28,Minnesota,Wabasha,166.32,36,0,0.0,1030,1.0,0.1,4758.6,4.62,4.76,21645,41.39,776.16,41.58,2748.9,133.98

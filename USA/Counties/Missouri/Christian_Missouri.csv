@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Missouri,Christian,0.0,0,0,0.0,4214,24.0,0.57,4844.62,27.59,4.84,86983,154.6,319.6,0.0,1721.04,0.0
+2020-12-01,Missouri,Christian,0.0,0,1,1.15,4214,24.0,0.57,4844.62,27.59,4.84,86983,154.6,319.6,-242.58,1721.04,0.0
 2020-11-30,Missouri,Christian,132.21,115,0,0.0,4214,23.0,0.55,4844.62,26.44,4.84,86983,154.6,562.18,132.21,1721.04,32.19
 2020-11-29,Missouri,Christian,0.0,0,0,0.0,4099,23.0,0.56,4712.42,26.44,4.71,86983,154.6,429.97,0.0,1688.85,0.0
 2020-11-28,Missouri,Christian,0.0,0,0,0.0,4099,23.0,0.56,4712.42,26.44,4.71,86983,154.6,429.97,0.0,1688.85,0.0

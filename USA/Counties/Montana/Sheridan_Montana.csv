@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Montana,Sheridan,87.62,3,1,29.21,285,3.0,1.05,8323.6,87.62,8.32,3424,2.04,1080.61,-116.82,5490.68,-29.2
+2020-12-01,Montana,Sheridan,58.41,2,0,0.0,282,2.0,0.71,8235.98,58.41,8.24,3424,2.04,1197.43,29.2,5519.88,0.0
 2020-11-30,Montana,Sheridan,0.0,0,0,0.0,280,2.0,0.71,8177.57,58.41,8.18,3424,2.04,1168.23,-146.03,5519.88,-233.64
 2020-11-29,Montana,Sheridan,233.64,8,0,0.0,280,2.0,0.71,8177.57,58.41,8.18,3424,2.04,1314.26,204.43,5753.52,233.64
 2020-11-28,Montana,Sheridan,116.82,4,0,0.0,272,2.0,0.74,7943.93,58.41,7.94,3424,2.04,1109.83,-116.82,5519.88,58.41

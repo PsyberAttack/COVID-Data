@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Kentucky,Harrison,26.63,5,0,0.0,501,1.0,0.2,2668.02,5.33,2.67,18778,61.28,298.23,-58.58,1107.67,26.63
+2020-12-01,Kentucky,Harrison,69.23,13,0,0.0,496,1.0,0.2,2641.39,5.33,2.64,18778,61.28,356.81,10.65,1081.04,42.6
 2020-11-30,Kentucky,Harrison,26.63,5,0,0.0,483,1.0,0.21,2572.16,5.33,2.57,18778,61.28,346.16,-15.97,1038.44,15.98
 2020-11-29,Kentucky,Harrison,90.53,17,0,0.0,478,1.0,0.21,2545.53,5.33,2.55,18778,61.28,362.13,58.58,1022.46,74.55
 2020-11-28,Kentucky,Harrison,5.33,1,0,0.0,461,1.0,0.22,2455.0,5.33,2.46,18778,61.28,303.55,-31.95,947.91,-21.3

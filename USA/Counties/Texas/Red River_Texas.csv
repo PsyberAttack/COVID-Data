@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Texas,Red River,8.21,1,0,0.0,228,18.0,7.89,1872.69,147.84,1.87,12175,11.66,57.49,0.0,197.1,-8.22
+2020-12-01,Texas,Red River,16.43,2,0,0.0,227,18.0,7.93,1864.48,147.84,1.86,12175,11.66,57.49,8.22,205.32,16.43
 2020-11-30,Texas,Red River,0.0,0,0,0.0,225,18.0,8.0,1848.05,147.84,1.85,12175,11.66,49.27,0.0,188.89,0.0
 2020-11-29,Texas,Red River,0.0,0,0,0.0,225,18.0,8.0,1848.05,147.84,1.85,12175,11.66,49.27,-8.21,188.89,0.0
 2020-11-28,Texas,Red River,0.0,0,0,0.0,225,18.0,8.0,1848.05,147.84,1.85,12175,11.66,57.48,-16.43,188.89,0.0

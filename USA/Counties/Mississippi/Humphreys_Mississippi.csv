@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Mississippi,Humphreys,60.55,5,0,0.0,552,19.0,3.44,6685.24,230.11,6.69,8257,19.73,278.54,24.22,920.38,24.22
+2020-12-01,Mississippi,Humphreys,0.0,0,0,0.0,547,19.0,3.47,6624.68,230.11,6.62,8257,19.73,254.32,-12.11,896.16,-36.33
 2020-11-30,Mississippi,Humphreys,48.44,4,0,0.0,547,19.0,3.47,6624.68,230.11,6.62,8257,19.73,266.43,24.22,932.49,36.33
 2020-11-29,Mississippi,Humphreys,84.78,7,0,0.0,543,19.0,3.5,6576.24,230.11,6.58,8257,19.73,242.21,36.34,896.16,84.78
 2020-11-28,Mississippi,Humphreys,60.55,5,0,0.0,536,19.0,3.54,6491.46,230.11,6.49,8257,19.73,205.87,12.11,811.38,48.44

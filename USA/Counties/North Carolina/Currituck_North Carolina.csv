@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,North Carolina,Currituck,14.78,4,0,0.0,336,5.0,1.49,1241.13,18.47,1.24,27072,103.35,84.97,7.39,384.2,14.78
+2020-12-01,North Carolina,Currituck,0.0,0,0,0.0,332,5.0,1.51,1226.36,18.47,1.23,27072,103.35,77.58,-7.39,369.42,-18.47
 2020-11-30,North Carolina,Currituck,14.78,4,0,0.0,332,5.0,1.51,1226.36,18.47,1.23,27072,103.35,84.97,7.39,387.89,14.78
 2020-11-29,North Carolina,Currituck,14.78,4,0,0.0,328,5.0,1.52,1211.58,18.47,1.21,27072,103.35,77.58,3.7,373.11,7.39
 2020-11-28,North Carolina,Currituck,7.39,2,0,0.0,324,5.0,1.54,1196.81,18.47,1.2,27072,103.35,73.88,-3.69,365.72,3.7

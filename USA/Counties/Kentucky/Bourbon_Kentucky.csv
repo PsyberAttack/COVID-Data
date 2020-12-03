@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Kentucky,Bourbon,0.0,0,0,0.0,581,1.0,0.17,2878.52,4.95,2.88,20184,69.66,307.17,-44.59,1099.87,-49.54
+2020-12-01,Kentucky,Bourbon,69.36,14,0,0.0,581,1.0,0.17,2878.52,4.95,2.88,20184,69.66,351.76,29.72,1149.41,49.54
 2020-11-30,Kentucky,Bourbon,128.81,26,0,0.0,567,1.0,0.18,2809.16,4.95,2.81,20184,69.66,322.04,69.36,1099.87,94.13
 2020-11-29,Kentucky,Bourbon,24.77,5,0,0.0,541,1.0,0.18,2680.34,4.95,2.68,20184,69.66,252.68,24.77,1005.74,24.77
 2020-11-28,Kentucky,Bourbon,29.73,6,0,0.0,536,1.0,0.19,2655.57,4.95,2.66,20184,69.66,227.91,-19.81,980.97,29.73

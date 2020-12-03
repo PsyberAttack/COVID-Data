@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Alabama,Talladega,53.87,43,0,0.0,3744,57.0,1.52,4690.08,71.4,4.69,79828,108.35,388.34,-1.25,1099.89,25.06
+2020-12-01,Alabama,Talladega,135.29,108,3,3.76,3701,57.0,1.54,4636.22,71.4,4.64,79828,108.35,389.59,96.46,1074.83,103.97
 2020-11-30,Alabama,Talladega,72.66,58,0,0.0,3593,54.0,1.5,4500.93,67.65,4.5,79828,108.35,293.13,48.86,970.86,60.13
 2020-11-29,Alabama,Talladega,26.31,21,0,0.0,3535,54.0,1.53,4428.27,67.65,4.43,79828,108.35,244.27,-1.25,910.73,12.53
 2020-11-28,Alabama,Talladega,30.06,24,0,0.0,3514,54.0,1.54,4401.96,67.65,4.4,79828,108.35,245.52,-2.51,898.2,5.01

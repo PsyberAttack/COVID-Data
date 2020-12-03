@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,North Carolina,Duplin,42.48,25,1,1.7,3409,63.0,1.85,5792.1,107.04,5.79,58856,72.24,227.68,-11.89,856.32,10.2
+2020-12-01,North Carolina,Duplin,22.09,13,0,0.0,3384,62.0,1.83,5749.63,105.34,5.75,58856,72.24,239.57,-3.4,846.12,-18.69
 2020-11-30,North Carolina,Duplin,6.8,4,0,0.0,3371,62.0,1.84,5727.54,105.34,5.73,58856,72.24,242.97,-10.19,864.81,6.8
 2020-11-29,North Carolina,Duplin,57.77,34,1,1.7,3367,62.0,1.84,5720.74,105.34,5.72,58856,72.24,253.16,18.69,858.01,32.28
 2020-11-28,North Carolina,Duplin,32.28,19,5,8.5,3333,61.0,1.83,5662.97,103.64,5.66,58856,72.24,234.47,1.7,825.73,-1.7

@@ -1,5 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-01,Minas Gerais,Estiva,35.23,4,0,0.0,168,3,1.79,1479.65,26.42,1.48,11354,70.46,26.42,264.22,8.81
+2020-12-01,Minas Gerais,Estiva,0.0,0,0,0.0,168,3,1.79,1479.65,26.42,1.48,11354,70.46,0.0,264.22,0.0
+2020-11-30,Minas Gerais,Estiva,35.23,4,0,0.0,168,3,1.79,1479.65,26.42,1.48,11354,70.46,26.42,264.22,8.81
 2020-11-27,Minas Gerais,Estiva,0.0,0,0,0.0,164,3,1.83,1444.42,26.42,1.44,11354,44.04,-8.81,255.41,-17.61
 2020-11-26,Minas Gerais,Estiva,0.0,0,0,0.0,164,3,1.83,1444.42,26.42,1.44,11354,52.85,0.0,273.02,-17.61
 2020-11-25,Minas Gerais,Estiva,0.0,0,0,0.0,164,3,1.83,1444.42,26.42,1.44,11354,52.85,0.0,290.63,-35.23

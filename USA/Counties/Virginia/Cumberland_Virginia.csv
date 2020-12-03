@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Virginia,Cumberland,10.19,1,0,0.0,162,4.0,2.47,1651.54,40.78,1.65,9809,32.97,142.72,-20.39,346.58,10.19
+2020-12-01,Virginia,Cumberland,10.19,1,0,0.0,161,4.0,2.48,1641.35,40.78,1.64,9809,32.97,163.11,10.19,336.39,0.0
 2020-11-30,Virginia,Cumberland,0.0,0,0,0.0,160,4.0,2.5,1631.16,40.78,1.63,9809,32.97,152.92,-20.39,336.39,-10.19
 2020-11-29,Virginia,Cumberland,20.39,2,0,0.0,160,4.0,2.5,1631.16,40.78,1.63,9809,32.97,173.31,10.2,346.58,-20.39
 2020-11-28,Virginia,Cumberland,40.78,4,0,0.0,158,4.0,2.53,1610.77,40.78,1.61,9809,32.97,163.11,30.59,366.97,50.97

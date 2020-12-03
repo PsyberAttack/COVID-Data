@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Virginia,Amelia,69.16,9,1,7.68,233,7.0,3.0,1790.52,53.79,1.79,13013,36.63,284.33,38.42,630.12,69.16
+2020-12-01,Virginia,Amelia,53.79,7,0,0.0,224,6.0,2.68,1721.36,46.11,1.72,13013,36.63,245.91,38.42,560.96,46.11
 2020-11-30,Virginia,Amelia,30.74,4,0,0.0,217,6.0,2.76,1667.56,46.11,1.67,13013,36.63,207.49,-61.48,514.85,30.74
 2020-11-29,Virginia,Amelia,23.05,3,0,0.0,213,6.0,2.82,1636.82,46.11,1.64,13013,36.63,268.97,-7.69,484.11,7.68
 2020-11-28,Virginia,Amelia,46.11,6,0,0.0,210,6.0,2.86,1613.77,46.11,1.61,13013,36.63,276.66,15.37,476.43,46.11

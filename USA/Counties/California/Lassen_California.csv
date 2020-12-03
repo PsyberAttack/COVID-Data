@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,California,Lassen,123.37,38,0,0.0,2220,2.0,0.09,7207.32,6.49,7.21,30802,6.78,1451.21,-64.93,4668.52,123.37
+2020-12-01,California,Lassen,74.67,23,0,0.0,2182,2.0,0.09,7083.96,6.49,7.08,30802,6.78,1516.14,74.67,4545.15,74.67
 2020-11-30,California,Lassen,1253.17,386,0,0.0,2159,2.0,0.09,7009.29,6.49,7.01,30802,6.78,1441.47,490.23,4470.48,1253.17
 2020-11-29,California,Lassen,0.0,0,0,0.0,1773,2.0,0.11,5756.12,6.49,5.76,30802,6.78,951.24,0.0,3217.31,-16.23
 2020-11-28,California,Lassen,0.0,0,0,0.0,1773,2.0,0.11,5756.12,6.49,5.76,30802,6.78,951.24,-405.82,3233.54,-16.23

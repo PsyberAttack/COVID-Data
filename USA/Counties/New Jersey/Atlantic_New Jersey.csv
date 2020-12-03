@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,New Jersey,Atlantic,36.92,98,5,1.88,8234,301.0,3.66,3102.15,113.4,3.1,265429,477.81,249.02,-0.38,1015.71,9.42
+2020-12-01,New Jersey,Atlantic,51.99,138,6,2.26,8136,296.0,3.64,3065.23,111.52,3.07,265429,477.81,249.4,6.78,1006.29,27.12
 2020-11-30,New Jersey,Atlantic,16.95,45,0,0.0,7998,290.0,3.63,3013.24,109.26,3.01,265429,477.81,242.62,-14.7,979.17,-0.38
 2020-11-29,New Jersey,Atlantic,43.7,116,0,0.0,7953,290.0,3.65,2996.28,109.26,3.0,265429,477.81,257.32,7.91,979.55,12.43
 2020-11-28,New Jersey,Atlantic,26.0,69,6,2.26,7837,290.0,3.7,2952.58,109.26,2.95,265429,477.81,249.41,-26.37,967.12,7.16

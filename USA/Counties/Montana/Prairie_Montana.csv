@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Montana,Prairie,0.0,0,0,0.0,101,1.0,0.99,9291.63,92.0,9.29,1087,0.63,2483.9,-183.99,6071.78,-183.99
+2020-12-01,Montana,Prairie,735.97,8,0,0.0,101,1.0,0.99,9291.63,92.0,9.29,1087,0.63,2667.89,643.97,6255.77,735.97
 2020-11-30,Montana,Prairie,0.0,0,1,92.0,93,1.0,1.08,8555.66,92.0,8.56,1087,0.63,2023.92,-183.99,5519.8,0.0
 2020-11-29,Montana,Prairie,1195.95,13,0,0.0,93,0.0,0.0,8555.66,0.0,8.56,1087,0.63,2207.91,827.96,5519.8,1195.95
 2020-11-28,Montana,Prairie,0.0,0,0,0.0,80,0.0,0.0,7359.71,0.0,7.36,1087,0.63,1379.95,-92.0,4323.85,0.0

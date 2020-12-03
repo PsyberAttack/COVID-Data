@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Wisconsin,Columbia,62.76,36,0,0.0,3733,13.0,0.35,6508.25,22.66,6.51,57358,74.92,545.7,24.4,2676.18,5.23
+2020-12-01,Wisconsin,Columbia,34.87,20,0,0.0,3697,13.0,0.35,6445.48,22.66,6.45,57358,74.92,521.3,-41.84,2670.95,-50.56
 2020-11-30,Wisconsin,Columbia,33.13,19,0,0.0,3677,13.0,0.35,6410.61,22.66,6.41,57358,74.92,563.14,-36.61,2721.51,-17.43
 2020-11-29,Wisconsin,Columbia,71.48,41,0,0.0,3658,13.0,0.36,6377.49,22.66,6.38,57358,74.92,599.75,-5.23,2738.94,8.72
 2020-11-28,Wisconsin,Columbia,116.81,67,2,3.49,3617,13.0,0.36,6306.01,22.66,6.31,57358,74.92,604.98,-15.69,2730.22,29.64

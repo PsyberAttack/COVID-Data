@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Florida,Okeechobee,26.48,11,1,2.41,2061,44.0,2.13,4961.84,105.93,4.96,41537,54.02,127.58,2.41,688.51,12.04
+2020-12-01,Florida,Okeechobee,33.7,14,0,0.0,2050,43.0,2.1,4935.36,103.52,4.94,41537,54.02,125.17,2.4,676.47,19.26
 2020-11-30,Florida,Okeechobee,7.22,3,0,0.0,2036,43.0,2.11,4901.65,103.52,4.9,41537,54.02,122.77,-21.67,657.21,7.22
 2020-11-29,Florida,Okeechobee,0.0,0,0,0.0,2033,43.0,2.12,4894.43,103.52,4.89,41537,54.02,144.44,-16.85,649.99,-31.3
 2020-11-28,Florida,Okeechobee,16.85,7,0,0.0,2033,43.0,2.12,4894.43,103.52,4.89,41537,54.02,161.29,-40.93,681.29,12.04

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Louisiana,Morehouse,59.06,15,2,7.87,1455,35.0,2.41,5728.8,137.81,5.73,25398,31.95,492.16,27.56,2141.9,63.0
+2020-12-01,Louisiana,Morehouse,149.62,38,2,7.87,1440,33.0,2.29,5669.74,129.93,5.67,25398,31.95,464.6,15.75,2078.9,110.25
 2020-11-30,Louisiana,Morehouse,11.81,3,0,0.0,1402,31.0,2.21,5520.12,122.06,5.52,25398,31.95,448.85,-82.69,1968.65,3.94
 2020-11-29,Louisiana,Morehouse,98.43,25,1,3.94,1399,31.0,2.22,5508.31,122.06,5.51,25398,31.95,531.54,-165.37,1964.71,82.68
 2020-11-28,Louisiana,Morehouse,0.0,0,0,0.0,1374,30.0,2.18,5409.87,118.12,5.41,25398,31.95,696.91,0.0,1882.03,0.0

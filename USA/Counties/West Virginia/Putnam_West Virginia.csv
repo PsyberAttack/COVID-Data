@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,West Virginia,Putnam,72.33,41,0,0.0,2050,32.0,1.56,3616.67,56.46,3.62,56682,163.97,483.39,-44.11,1781.86,26.46
+2020-12-01,West Virginia,Putnam,45.87,26,0,0.0,2009,32.0,1.59,3544.34,56.46,3.54,56682,163.97,527.5,-15.88,1755.4,22.94
 2020-11-30,West Virginia,Putnam,26.46,15,0,0.0,1983,32.0,1.61,3498.47,56.46,3.5,56682,163.97,543.38,-26.47,1732.46,-8.82
 2020-11-29,West Virginia,Putnam,93.5,53,1,1.76,1968,32.0,1.63,3472.0,56.46,3.47,56682,163.97,569.85,-12.35,1741.28,42.34
 2020-11-28,West Virginia,Putnam,54.69,31,0,0.0,1915,31.0,1.62,3378.5,54.69,3.38,56682,163.97,582.2,-7.06,1698.94,8.82

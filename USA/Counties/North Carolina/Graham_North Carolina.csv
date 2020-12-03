@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,North Carolina,Graham,11.79,1,0,0.0,276,11.0,3.99,3253.18,129.66,3.25,8484,29.06,94.3,11.79,271.09,11.79
+2020-12-01,North Carolina,Graham,35.36,3,0,0.0,275,11.0,4.0,3241.4,129.66,3.24,8484,29.06,82.51,35.36,259.3,23.57
 2020-11-30,North Carolina,Graham,-11.79,-1,0,0.0,272,11.0,4.04,3206.03,129.66,3.21,8484,29.06,47.15,-11.79,235.73,-11.79
 2020-11-29,North Carolina,Graham,0.0,0,0,0.0,273,11.0,4.03,3217.82,129.66,3.22,8484,29.06,58.94,0.0,247.52,-11.79
 2020-11-28,North Carolina,Graham,11.79,1,0,0.0,273,11.0,4.03,3217.82,129.66,3.22,8484,29.06,58.94,11.79,259.31,-35.36

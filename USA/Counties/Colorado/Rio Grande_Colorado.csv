@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Colorado,Rio Grande,8.89,1,0,0.0,244,4.0,1.64,2168.89,35.56,2.17,11250,12.34,320.0,-17.78,986.69,8.89
+2020-12-01,Colorado,Rio Grande,35.56,4,0,0.0,243,4.0,1.65,2160.0,35.56,2.16,11250,12.34,337.78,26.67,977.8,26.67
 2020-11-30,Colorado,Rio Grande,62.22,7,0,0.0,239,4.0,1.67,2124.44,35.56,2.12,11250,12.34,311.11,62.22,951.13,62.22
 2020-11-29,Colorado,Rio Grande,53.33,6,0,0.0,232,4.0,1.72,2062.22,35.56,2.06,11250,12.34,248.89,17.77,888.91,44.44
 2020-11-28,Colorado,Rio Grande,17.78,2,0,0.0,226,4.0,1.77,2008.89,35.56,2.01,11250,12.34,231.12,-88.89,844.47,-17.78

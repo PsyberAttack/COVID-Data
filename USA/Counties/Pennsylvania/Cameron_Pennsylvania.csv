@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Pennsylvania,Cameron,44.52,2,0,0.0,29,0.0,0.0,645.59,0.0,0.65,4492,11.34,133.56,-22.27,333.91,44.52
+2020-12-01,Pennsylvania,Cameron,22.26,1,0,0.0,27,0.0,0.0,601.07,0.0,0.6,4492,11.34,155.83,0.0,289.39,-44.53
 2020-11-30,Pennsylvania,Cameron,0.0,0,0,0.0,26,0.0,0.0,578.81,0.0,0.58,4492,11.34,155.83,0.0,333.92,-22.26
 2020-11-29,Pennsylvania,Cameron,0.0,0,0,0.0,26,0.0,0.0,578.81,0.0,0.58,4492,11.34,155.83,-22.26,356.18,0.0
 2020-11-28,Pennsylvania,Cameron,22.26,1,0,0.0,26,0.0,0.0,578.81,0.0,0.58,4492,11.34,178.09,0.0,356.18,0.0

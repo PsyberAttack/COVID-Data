@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Alabama,Tallapoosa,46.92,19,0,0.0,1891,91.0,4.81,4669.48,224.71,4.67,40497,56.52,390.17,7.41,1138.37,19.76
+2020-12-01,Alabama,Tallapoosa,71.61,29,0,0.0,1872,91.0,4.86,4622.56,224.71,4.62,40497,56.52,382.76,9.88,1118.61,46.92
 2020-11-30,Alabama,Tallapoosa,180.26,73,0,0.0,1843,91.0,4.94,4550.95,224.71,4.55,40497,56.52,372.88,162.97,1071.69,165.44
 2020-11-29,Alabama,Tallapoosa,17.29,7,0,0.0,1770,91.0,5.14,4370.69,224.71,4.37,40497,56.52,209.91,7.41,906.25,4.94
 2020-11-28,Alabama,Tallapoosa,14.82,6,0,0.0,1763,91.0,5.16,4353.41,224.71,4.35,40497,56.52,202.5,-17.28,901.31,-17.28

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,North Carolina,Montgomery,44.0,12,0,0.0,1425,41.0,2.88,5225.33,150.34,5.23,27271,55.48,212.68,0.0,722.37,25.67
+2020-12-01,North Carolina,Montgomery,33.0,9,0,0.0,1413,41.0,2.9,5181.33,150.34,5.18,27271,55.48,212.68,14.67,696.7,14.67
 2020-11-30,North Carolina,Montgomery,18.33,5,0,0.0,1404,41.0,2.92,5148.33,150.34,5.15,27271,55.48,198.01,0.0,682.03,0.0
 2020-11-29,North Carolina,Montgomery,40.34,11,0,0.0,1399,41.0,2.93,5129.99,150.34,5.13,27271,55.48,198.01,-14.66,682.03,22.01
 2020-11-28,North Carolina,Montgomery,25.67,7,0,0.0,1388,41.0,2.95,5089.66,150.34,5.09,27271,55.48,212.67,3.67,660.02,3.67

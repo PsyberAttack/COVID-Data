@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Michigan,Manistee,40.77,10,1,4.08,409,7.0,1.71,1667.48,28.54,1.67,24528,45.23,224.24,32.62,896.94,28.54
+2020-12-01,Michigan,Manistee,24.46,6,1,4.08,399,6.0,1.5,1626.71,24.46,1.63,24528,45.23,191.62,-8.16,868.4,0.0
 2020-11-30,Michigan,Manistee,44.85,11,-1,-4.08,393,5.0,1.27,1602.25,20.38,1.6,24528,45.23,199.78,-93.77,868.4,-24.46
 2020-11-29,Michigan,Manistee,0.0,0,0,0.0,382,6.0,1.57,1557.4,24.46,1.56,24528,45.23,293.55,0.0,892.86,0.0
 2020-11-28,Michigan,Manistee,28.54,7,0,0.0,382,6.0,1.57,1557.4,24.46,1.56,24528,45.23,293.55,28.54,892.86,28.54

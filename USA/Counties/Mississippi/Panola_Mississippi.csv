@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Mississippi,Panola,137.52,47,0,0.0,2373,53.0,2.23,6943.06,155.07,6.94,34178,49.88,629.08,17.56,1764.3,90.71
+2020-12-01,Mississippi,Panola,87.78,30,0,0.0,2326,53.0,2.28,6805.55,155.07,6.81,34178,49.88,611.52,67.3,1673.59,55.6
 2020-11-30,Mississippi,Panola,140.44,48,1,2.93,2296,53.0,2.31,6717.77,155.07,6.72,34178,49.88,544.22,119.96,1617.99,137.51
 2020-11-29,Mississippi,Panola,73.15,25,2,5.85,2248,52.0,2.31,6577.33,152.14,6.58,34178,49.88,424.26,46.82,1480.48,73.15
 2020-11-28,Mississippi,Panola,73.15,25,0,0.0,2223,50.0,2.25,6504.18,146.29,6.5,34178,49.88,377.44,-55.59,1407.33,49.74

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Massachusetts,Barnstable,35.14,75,2,0.94,3204,194.0,6.05,1501.31,90.9,1.5,213413,541.34,175.71,3.28,527.6,29.05
+2020-12-01,Massachusetts,Barnstable,38.42,82,0,0.0,3129,192.0,6.14,1466.17,89.97,1.47,213413,541.34,172.43,5.62,498.55,36.08
 2020-11-30,Massachusetts,Barnstable,12.65,27,0,0.0,3047,192.0,6.3,1427.75,89.97,1.43,213413,541.34,166.81,-1.88,462.47,8.43
 2020-11-29,Massachusetts,Barnstable,20.15,43,0,0.0,3020,192.0,6.36,1415.1,89.97,1.42,213413,541.34,168.69,4.22,454.04,9.84
 2020-11-28,Massachusetts,Barnstable,36.08,77,1,0.47,2977,192.0,6.45,1394.95,89.97,1.39,213413,541.34,164.47,-28.58,444.2,31.86

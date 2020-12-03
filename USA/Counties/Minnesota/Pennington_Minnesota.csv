@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Minnesota,Pennington,42.32,6,0,0.0,675,8.0,1.19,4760.9,56.43,4.76,14178,22.99,634.78,-155.17,3025.82,0.0
+2020-12-01,Minnesota,Pennington,42.32,6,0,0.0,669,8.0,1.2,4718.58,56.43,4.72,14178,22.99,789.95,-112.85,3025.82,28.21
 2020-11-30,Minnesota,Pennington,112.85,16,0,0.0,663,8.0,1.21,4676.26,56.43,4.68,14178,22.99,902.8,-84.64,2997.61,91.69
 2020-11-29,Minnesota,Pennington,141.06,20,1,7.05,647,8.0,1.24,4563.41,56.43,4.56,14178,22.99,987.44,-49.38,2905.92,84.63
 2020-11-28,Minnesota,Pennington,98.74,14,0,0.0,627,7.0,1.12,4422.34,49.37,4.42,14178,22.99,1036.82,0.0,2821.29,63.47

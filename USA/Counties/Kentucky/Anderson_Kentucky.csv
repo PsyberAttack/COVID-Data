@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Kentucky,Anderson,88.25,20,0,0.0,549,1.0,0.18,2422.45,4.41,2.42,22663,112.13,313.28,0.0,1151.62,83.84
+2020-12-01,Kentucky,Anderson,101.49,23,0,0.0,529,1.0,0.19,2334.2,4.41,2.33,22663,112.13,313.28,70.6,1067.78,70.6
 2020-11-30,Kentucky,Anderson,4.41,1,0,0.0,506,1.0,0.2,2232.71,4.41,2.23,22663,112.13,242.68,0.0,997.18,4.41
 2020-11-29,Kentucky,Anderson,8.82,2,0,0.0,505,1.0,0.2,2228.3,4.41,2.23,22663,112.13,242.68,-17.65,992.77,0.0
 2020-11-28,Kentucky,Anderson,35.3,8,0,0.0,503,1.0,0.2,2219.48,4.41,2.22,22663,112.13,260.33,-4.41,992.77,4.41

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Arkansas,Faulkner,72.91,91,0,0.0,4998,56.0,1.12,4004.62,44.87,4.0,124806,192.62,338.91,26.44,1112.1,50.48
+2020-12-01,Arkansas,Faulkner,60.09,75,0,0.0,4907,56.0,1.14,3931.7,44.87,3.93,124806,192.62,312.47,1.6,1061.62,37.66
 2020-11-30,Arkansas,Faulkner,45.67,57,0,0.0,4832,56.0,1.16,3871.61,44.87,3.87,124806,192.62,310.87,24.04,1023.96,36.86
 2020-11-29,Arkansas,Faulkner,41.66,52,1,0.8,4775,56.0,1.17,3825.94,44.87,3.83,124806,192.62,286.83,17.62,987.1,7.21
 2020-11-28,Arkansas,Faulkner,35.25,44,2,1.6,4723,55.0,1.16,3784.27,44.07,3.78,124806,192.62,269.21,-0.81,979.89,8.01

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,New Mexico,Colfax,140.38,17,0,0.0,265,5.0,1.89,2188.27,41.29,2.19,12110,3.22,776.2,49.55,1783.63,132.12
+2020-12-01,New Mexico,Colfax,123.86,15,0,0.0,248,5.0,2.02,2047.89,41.29,2.05,12110,3.22,726.65,8.25,1651.51,107.34
 2020-11-30,New Mexico,Colfax,165.15,20,1,8.26,233,5.0,2.15,1924.03,41.29,1.92,12110,3.22,718.4,74.32,1544.17,165.15
 2020-11-29,New Mexico,Colfax,90.83,11,1,8.26,213,4.0,1.88,1758.88,33.03,1.76,12110,3.22,644.08,57.8,1379.02,90.83
 2020-11-28,New Mexico,Colfax,57.8,7,0,0.0,202,3.0,1.49,1668.04,24.77,1.67,12110,3.22,586.28,33.03,1288.19,57.8

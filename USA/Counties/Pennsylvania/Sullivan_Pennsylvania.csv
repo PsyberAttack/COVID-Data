@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Pennsylvania,Sullivan,82.36,5,0,0.0,73,1.0,1.37,1202.44,16.47,1.2,6071,13.49,444.74,65.89,840.05,82.36
+2020-12-01,Pennsylvania,Sullivan,65.89,4,0,0.0,68,1.0,1.47,1120.08,16.47,1.12,6071,13.49,378.85,49.42,757.69,49.42
 2020-11-30,Pennsylvania,Sullivan,32.94,2,0,0.0,64,1.0,1.56,1054.19,16.47,1.05,6071,13.49,329.43,32.94,708.27,32.94
 2020-11-29,Pennsylvania,Sullivan,16.47,1,0,0.0,62,1.0,1.61,1021.25,16.47,1.02,6071,13.49,296.49,0.0,675.33,0.0
 2020-11-28,Pennsylvania,Sullivan,82.36,5,0,0.0,61,1.0,1.64,1004.78,16.47,1.0,6071,13.49,296.49,49.42,675.33,82.36

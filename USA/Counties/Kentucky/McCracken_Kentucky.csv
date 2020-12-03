@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Kentucky,McCracken,84.17,55,0,0.0,3042,28.0,0.92,4655.22,42.85,4.66,65346,262.7,844.72,19.9,2509.69,-1.53
+2020-12-01,Kentucky,McCracken,260.15,170,2,3.06,2987,28.0,0.94,4571.05,42.85,4.57,65346,262.7,824.82,151.5,2511.22,232.6
 2020-11-30,Kentucky,McCracken,65.8,43,3,4.59,2817,26.0,0.92,4310.9,39.79,4.31,65346,262.7,673.32,-39.79,2278.62,21.42
 2020-11-29,Kentucky,McCracken,111.71,73,2,3.06,2774,23.0,0.83,4245.1,35.2,4.25,65346,262.7,713.11,50.5,2257.2,39.79
 2020-11-28,Kentucky,McCracken,108.65,71,1,1.53,2701,21.0,0.78,4133.38,32.14,4.13,65346,262.7,662.61,-36.73,2217.41,48.97

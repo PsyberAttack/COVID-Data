@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Indiana,Bartholomew,71.3,59,0,0.0,3693,70.0,1.9,4462.68,84.59,4.46,82753,203.37,613.87,-30.21,2408.38,36.26
+2020-12-01,Indiana,Bartholomew,78.55,65,0,0.0,3634,70.0,1.93,4391.38,84.59,4.39,82753,203.37,644.08,15.71,2372.12,38.67
 2020-11-30,Indiana,Bartholomew,95.46,79,0,0.0,3569,70.0,1.96,4312.83,84.59,4.31,82753,203.37,628.37,10.87,2333.45,64.04
 2020-11-29,Indiana,Bartholomew,77.34,64,0,0.0,3490,70.0,2.01,4217.37,84.59,4.22,82753,203.37,617.5,-12.08,2269.41,45.92
 2020-11-28,Indiana,Bartholomew,67.67,56,0,0.0,3426,70.0,2.04,4140.03,84.59,4.14,82753,203.37,629.58,-53.17,2223.49,45.92

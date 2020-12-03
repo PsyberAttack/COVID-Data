@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Minnesota,Wilkin,175.89,11,0,0.0,411,5.0,1.22,6571.79,79.95,6.57,6254,8.33,1039.35,-79.95,3965.52,47.97
+2020-12-01,Minnesota,Wilkin,127.92,8,0,0.0,400,5.0,1.25,6395.91,79.95,6.4,6254,8.33,1119.3,79.95,3917.55,111.93
 2020-11-30,Minnesota,Wilkin,47.97,3,0,0.0,392,5.0,1.28,6267.99,79.95,6.27,6254,8.33,1039.35,-111.93,3805.62,-15.99
 2020-11-29,Minnesota,Wilkin,287.82,18,0,0.0,389,5.0,1.29,6220.02,79.95,6.22,6254,8.33,1151.28,159.9,3821.61,255.84
 2020-11-28,Minnesota,Wilkin,175.89,11,0,0.0,371,5.0,1.35,5932.2,79.95,5.93,6254,8.33,991.38,15.99,3565.77,175.89

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Maryland,Caroline,21.02,7,0,0.0,990,10.0,1.01,2972.62,30.03,2.97,33304,104.26,264.23,-15.01,669.59,21.02
+2020-12-01,Maryland,Caroline,33.03,11,0,0.0,983,10.0,1.02,2951.6,30.03,2.95,33304,104.26,279.24,-3.0,648.57,33.03
 2020-11-30,Maryland,Caroline,60.05,20,0,0.0,972,10.0,1.03,2918.57,30.03,2.92,33304,104.26,282.24,33.03,615.54,54.04
 2020-11-29,Maryland,Caroline,21.02,7,0,0.0,952,10.0,1.05,2858.52,30.03,2.86,33304,104.26,249.21,-6.0,561.5,6.01
 2020-11-28,Maryland,Caroline,21.02,7,0,0.0,945,10.0,1.06,2837.5,30.03,2.84,33304,104.26,255.21,-27.02,555.49,0.0

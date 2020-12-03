@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Kentucky,Bracken,109.24,9,0,0.0,170,3.0,1.76,2063.36,36.41,2.06,8239,40.64,424.81,72.83,1140.91,97.1
+2020-12-01,Kentucky,Bracken,157.79,13,0,0.0,161,3.0,1.86,1954.12,36.41,1.95,8239,40.64,351.98,109.24,1043.81,157.79
 2020-11-30,Kentucky,Bracken,24.27,2,0,0.0,148,3.0,2.03,1796.33,36.41,1.8,8239,40.64,242.74,-48.55,886.02,24.27
 2020-11-29,Kentucky,Bracken,0.0,0,0,0.0,146,3.0,2.05,1772.06,36.41,1.77,8239,40.64,291.29,-12.14,861.75,-12.14
 2020-11-28,Kentucky,Bracken,36.41,3,0,0.0,146,3.0,2.05,1772.06,36.41,1.77,8239,40.64,303.43,-12.14,873.89,24.27

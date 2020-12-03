@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Pennsylvania,Tioga,61.33,25,0,0.0,1069,23.0,2.15,2622.48,56.42,2.62,40763,35.95,581.42,-19.63,1935.59,41.7
+2020-12-01,Pennsylvania,Tioga,115.3,47,3,7.36,1044,23.0,2.2,2561.15,56.42,2.56,40763,35.95,601.05,107.94,1893.89,80.96
 2020-11-30,Pennsylvania,Tioga,12.27,5,0,0.0,997,20.0,2.01,2445.85,49.06,2.45,40763,35.95,493.11,-22.07,1812.93,0.0
 2020-11-29,Pennsylvania,Tioga,127.57,52,1,2.45,992,20.0,2.02,2433.58,49.06,2.43,40763,35.95,515.18,-26.98,1812.93,98.13
 2020-11-28,Pennsylvania,Tioga,44.16,18,0,0.0,940,19.0,2.02,2306.01,46.61,2.31,40763,35.95,542.16,-105.49,1714.8,17.17

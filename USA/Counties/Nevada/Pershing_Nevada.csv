@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Nevada,Pershing,0.0,0,0,0.0,92,0.0,0.0,1380.14,0.0,1.38,6666,1.1,60.01,-45.0,1020.09,0.0
+2020-12-01,Nevada,Pershing,-90.01,-6,0,0.0,92,0.0,0.0,1380.14,0.0,1.38,6666,1.1,105.01,-555.06,1020.09,-90.01
 2020-11-30,Nevada,Pershing,0.0,0,0,0.0,98,0.0,0.0,1470.15,0.0,1.47,6666,1.1,660.07,0.0,1110.1,0.0
 2020-11-29,Nevada,Pershing,0.0,0,0,0.0,98,0.0,0.0,1470.15,0.0,1.47,6666,1.1,660.07,-120.01,1110.1,0.0
 2020-11-28,Nevada,Pershing,0.0,0,0,0.0,98,0.0,0.0,1470.15,0.0,1.47,6666,1.1,780.08,0.0,1110.1,0.0

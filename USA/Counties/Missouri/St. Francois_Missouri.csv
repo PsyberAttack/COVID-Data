@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Missouri,St. Francois,58.48,39,0,0.0,5194,47.0,0.9,7788.04,70.47,7.79,66692,147.59,482.8,-56.98,2490.54,-133.45
+2020-12-01,Missouri,St. Francois,68.97,46,3,4.5,5155,47.0,0.91,7729.56,70.47,7.73,66692,147.59,539.78,-49.48,2623.99,68.97
 2020-11-30,Missouri,St. Francois,65.97,44,0,0.0,5109,44.0,0.86,7660.59,65.97,7.66,66692,147.59,589.26,62.97,2555.02,-62.98
 2020-11-29,Missouri,St. Francois,43.48,29,0,0.0,5065,44.0,0.87,7594.61,65.97,7.59,66692,147.59,526.29,43.48,2618.0,43.48
 2020-11-28,Missouri,St. Francois,74.97,50,0,0.0,5036,44.0,0.87,7551.13,65.97,7.55,66692,147.59,482.81,74.97,2574.52,74.97

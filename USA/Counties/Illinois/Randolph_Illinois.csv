@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Illinois,Randolph,227.37,73,0,0.0,2378,26.0,1.09,7406.72,80.98,7.41,32106,55.81,769.32,3.11,2890.42,211.8
+2020-12-01,Illinois,Randolph,90.33,29,0,0.0,2305,26.0,1.13,7179.34,80.98,7.18,32106,55.81,766.21,68.53,2678.62,-6.23
 2020-11-30,Illinois,Randolph,24.92,8,0,0.0,2276,26.0,1.14,7089.02,80.98,7.09,32106,55.81,697.68,-40.49,2684.85,-9.34
 2020-11-29,Illinois,Randolph,80.98,26,0,0.0,2268,26.0,1.15,7064.1,80.98,7.06,32106,55.81,738.17,-40.49,2694.19,-59.18
 2020-11-28,Illinois,Randolph,168.19,54,0,0.0,2242,26.0,1.16,6983.12,80.98,6.98,32106,55.81,778.66,40.49,2753.37,168.19

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,North Carolina,Vance,42.62,19,1,2.24,1818,56.0,3.08,4077.88,125.61,4.08,44582,176.63,367.86,-26.91,1240.4,17.95
+2020-12-01,North Carolina,Vance,51.59,23,0,0.0,1799,55.0,3.06,4035.26,123.37,4.04,44582,176.63,394.77,13.46,1222.45,31.4
 2020-11-30,North Carolina,Vance,44.86,20,0,0.0,1776,55.0,3.1,3983.67,123.37,3.98,44582,176.63,381.31,-2.24,1191.05,26.92
 2020-11-29,North Carolina,Vance,53.83,24,0,0.0,1756,55.0,3.13,3938.81,123.37,3.94,44582,176.63,383.55,-2.25,1164.13,49.34
 2020-11-28,North Carolina,Vance,42.62,19,0,0.0,1732,55.0,3.18,3884.98,123.37,3.88,44582,176.63,385.8,-17.94,1114.79,17.95

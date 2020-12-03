@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Virginia,Rockbridge,21.98,5,0,0.0,288,2.0,0.69,1265.82,8.79,1.27,22752,38.14,202.18,-4.39,562.61,17.58
+2020-12-01,Virginia,Rockbridge,87.9,20,0,0.0,283,2.0,0.71,1243.85,8.79,1.24,22752,38.14,206.57,83.5,545.03,70.32
 2020-11-30,Virginia,Rockbridge,-4.4,-1,0,0.0,263,2.0,0.76,1155.94,8.79,1.16,22752,38.14,123.07,-57.14,474.71,-4.4
 2020-11-29,Virginia,Rockbridge,21.98,5,0,0.0,264,2.0,0.76,1160.34,8.79,1.16,22752,38.14,180.21,8.79,479.11,17.58
 2020-11-28,Virginia,Rockbridge,30.77,7,0,0.0,259,2.0,0.77,1138.36,8.79,1.14,22752,38.14,171.42,4.4,461.53,26.37

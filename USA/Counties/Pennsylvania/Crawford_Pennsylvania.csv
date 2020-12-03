@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Pennsylvania,Crawford,139.9,119,5,5.88,2126,24.0,1.13,2499.32,28.21,2.5,85063,84.03,577.22,56.43,1735.16,109.33
+2020-12-01,Pennsylvania,Crawford,102.28,87,1,1.18,2007,19.0,0.95,2359.43,22.34,2.36,85063,84.03,520.79,36.45,1625.83,71.71
 2020-11-30,Pennsylvania,Crawford,57.6,49,0,0.0,1920,18.0,0.94,2257.15,21.16,2.26,85063,84.03,484.34,12.93,1554.12,42.32
 2020-11-29,Pennsylvania,Crawford,75.24,64,1,1.18,1871,18.0,0.96,2199.55,21.16,2.2,85063,84.03,471.41,16.46,1511.8,58.78
 2020-11-28,Pennsylvania,Crawford,67.01,57,0,0.0,1807,17.0,0.94,2124.31,19.99,2.12,85063,84.03,454.95,-1.17,1453.02,55.25

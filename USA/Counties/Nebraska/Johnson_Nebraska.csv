@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Nebraska,Johnson,77.91,4,0,0.0,325,2.0,0.62,6330.35,38.96,6.33,5134,13.65,428.52,97.39,3895.62,0.0
+2020-12-01,Nebraska,Johnson,77.91,4,0,0.0,321,2.0,0.62,6252.43,38.96,6.25,5134,13.65,331.13,77.91,3895.62,38.95
 2020-11-30,Nebraska,Johnson,58.43,3,0,0.0,317,2.0,0.63,6174.52,38.96,6.17,5134,13.65,253.22,19.47,3856.67,0.0
 2020-11-29,Nebraska,Johnson,19.48,1,0,0.0,314,2.0,0.64,6116.09,38.96,6.12,5134,13.65,233.75,19.48,3856.67,-19.48
 2020-11-28,Nebraska,Johnson,136.35,7,0,0.0,313,2.0,0.64,6096.61,38.96,6.1,5134,13.65,214.27,97.39,3876.15,116.87

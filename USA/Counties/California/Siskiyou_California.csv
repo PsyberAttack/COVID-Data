@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,California,Siskiyou,34.31,15,1,2.29,752,4.0,0.53,1719.88,9.15,1.72,43724,6.96,292.75,-61.75,1084.09,20.59
+2020-12-01,California,Siskiyou,34.31,15,0,0.0,737,3.0,0.41,1685.57,6.86,1.69,43724,6.96,354.5,-4.57,1063.5,25.16
 2020-11-30,California,Siskiyou,224.13,98,1,2.29,722,3.0,0.42,1651.27,6.86,1.65,43724,6.96,359.07,64.03,1038.34,162.38
 2020-11-29,California,Siskiyou,0.0,0,0,0.0,624,2.0,0.32,1427.13,4.57,1.43,43724,6.96,295.04,0.0,875.96,0.0
 2020-11-28,California,Siskiyou,0.0,0,0,0.0,624,2.0,0.32,1427.13,4.57,1.43,43724,6.96,295.04,0.0,875.96,0.0

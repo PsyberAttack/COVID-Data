@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Michigan,Gogebic,99.36,15,0,0.0,814,23.0,2.83,5392.16,152.36,5.39,15096,13.7,457.07,59.61,2113.15,52.99
+2020-12-01,Michigan,Gogebic,79.49,12,0,0.0,799,23.0,2.88,5292.79,152.36,5.29,15096,13.7,397.46,-33.12,2060.16,52.99
 2020-11-30,Michigan,Gogebic,112.61,17,0,0.0,787,23.0,2.92,5213.3,152.36,5.21,15096,13.7,430.58,-19.88,2007.17,-33.12
 2020-11-29,Michigan,Gogebic,0.0,0,0,0.0,770,23.0,2.99,5100.69,152.36,5.1,15096,13.7,450.46,0.0,2040.29,0.0
 2020-11-28,Michigan,Gogebic,59.62,9,0,0.0,770,23.0,2.99,5100.69,152.36,5.1,15096,13.7,450.46,-26.5,2040.29,-66.24

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Virginia,Buckingham,29.41,5,0,0.0,905,10.0,1.1,5323.84,58.83,5.32,16999,29.33,305.89,11.76,776.49,17.64
+2020-12-01,Virginia,Buckingham,41.18,7,0,0.0,900,10.0,1.11,5294.43,58.83,5.29,16999,29.33,294.13,35.3,758.85,0.0
 2020-11-30,Virginia,Buckingham,5.88,1,0,0.0,893,10.0,1.12,5253.25,58.83,5.25,16999,29.33,258.83,-29.42,758.85,0.0
 2020-11-29,Virginia,Buckingham,29.41,5,0,0.0,892,10.0,1.12,5247.37,58.83,5.25,16999,29.33,288.25,5.88,758.85,0.0
 2020-11-28,Virginia,Buckingham,152.95,26,0,0.0,887,10.0,1.13,5217.95,58.83,5.22,16999,29.33,282.37,147.07,758.85,141.18

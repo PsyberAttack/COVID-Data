@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Iowa,Pottawattamie,152.89,143,0,0.0,6648,71.0,1.07,7107.65,75.91,7.11,93533,98.4,661.81,5.35,3153.98,70.57
+2020-12-01,Iowa,Pottawattamie,69.49,65,1,1.07,6505,71.0,1.09,6954.76,75.91,6.95,93533,98.4,656.46,26.72,3083.41,37.42
 2020-11-30,Iowa,Pottawattamie,129.37,121,0,0.0,6440,70.0,1.09,6885.27,74.84,6.89,93533,98.4,629.74,17.11,3045.99,114.4
 2020-11-29,Iowa,Pottawattamie,79.12,74,0,0.0,6319,70.0,1.11,6755.9,74.84,6.76,93533,98.4,612.63,-2.13,2931.59,18.18
 2020-11-28,Iowa,Pottawattamie,80.19,75,1,1.07,6245,70.0,1.12,6676.79,74.84,6.68,93533,98.4,614.76,-54.52,2913.41,5.35

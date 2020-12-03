@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Illinois,Woodford,62.4,24,2,5.2,1883,31.0,1.65,4895.61,80.6,4.9,38463,72.88,605.79,-59.8,2636.36,-15.6
+2020-12-01,Illinois,Woodford,132.59,51,2,5.2,1859,29.0,1.56,4833.22,75.4,4.83,38463,72.88,665.59,49.39,2651.96,93.59
 2020-11-30,Illinois,Woodford,130.0,50,0,0.0,1808,27.0,1.49,4700.62,70.2,4.7,38463,72.88,616.2,10.4,2558.37,18.2
 2020-11-29,Illinois,Woodford,88.4,34,0,0.0,1758,27.0,1.54,4570.63,70.2,4.57,38463,72.88,605.8,-7.8,2540.17,2.6
 2020-11-28,Illinois,Woodford,46.8,18,0,0.0,1724,27.0,1.57,4482.23,70.2,4.48,38463,72.88,613.6,-18.2,2537.57,46.8

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Wisconsin,Douglas,115.72,50,1,2.31,2267,6.0,0.26,5246.71,13.89,5.25,43208,33.13,712.83,6.94,3073.49,9.26
+2020-12-01,Wisconsin,Douglas,131.92,57,4,9.26,2217,5.0,0.23,5130.99,11.57,5.13,43208,33.13,705.89,37.03,3064.23,78.69
 2020-11-30,Wisconsin,Douglas,46.29,20,0,0.0,2160,1.0,0.05,4999.07,2.31,5.0,43208,33.13,668.86,-67.11,2985.54,-4.63
 2020-11-29,Wisconsin,Douglas,81.0,35,0,0.0,2140,1.0,0.05,4952.79,2.31,4.95,43208,33.13,735.97,-148.12,2990.17,76.37
 2020-11-28,Wisconsin,Douglas,111.09,48,0,0.0,2105,1.0,0.05,4871.78,2.31,4.87,43208,33.13,884.09,-108.78,2913.8,62.49

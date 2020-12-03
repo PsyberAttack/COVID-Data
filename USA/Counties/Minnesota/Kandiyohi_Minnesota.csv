@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Minnesota,Kandiyohi,81.67,35,1,2.33,4320,24.0,0.56,10080.5,56.0,10.08,42855,53.74,1358.07,-102.67,5406.61,46.67
+2020-12-01,Minnesota,Kandiyohi,186.68,80,1,2.33,4285,23.0,0.54,9998.83,53.67,10.0,42855,53.74,1460.74,-226.34,5359.94,137.68
 2020-11-30,Minnesota,Kandiyohi,289.35,124,0,0.0,4205,22.0,0.52,9812.16,51.34,9.81,42855,53.74,1687.08,42.0,5222.26,182.01
 2020-11-29,Minnesota,Kandiyohi,263.68,113,1,2.33,4081,22.0,0.54,9522.81,51.34,9.52,42855,53.74,1645.08,81.67,5040.25,210.01
 2020-11-28,Minnesota,Kandiyohi,422.35,181,2,4.67,3968,21.0,0.53,9259.13,49.0,9.26,42855,53.74,1563.41,140.0,4830.24,354.68

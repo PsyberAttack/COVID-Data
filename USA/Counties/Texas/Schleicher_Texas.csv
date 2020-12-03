@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Texas,Schleicher,-34.54,-1,0,0.0,132,4.0,3.03,4559.59,138.17,4.56,2895,2.21,656.3,-103.62,2659.74,-34.54
+2020-12-01,Texas,Schleicher,0.0,0,0,0.0,133,4.0,3.01,4594.13,138.17,4.59,2895,2.21,759.92,-69.08,2694.28,0.0
 2020-11-30,Texas,Schleicher,34.54,1,0,0.0,133,4.0,3.01,4594.13,138.17,4.59,2895,2.21,829.0,34.54,2694.28,34.54
 2020-11-29,Texas,Schleicher,69.08,2,0,0.0,132,4.0,3.03,4559.59,138.17,4.56,2895,2.21,794.46,69.08,2659.74,69.08
 2020-11-28,Texas,Schleicher,34.54,1,0,0.0,130,4.0,3.08,4490.5,138.17,4.49,2895,2.21,725.38,-103.63,2590.66,34.54

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Maryland,Frederick,68.06,174,0,0.0,7131,150.0,2.1,2789.38,58.67,2.79,255648,387.07,288.67,21.9,835.52,53.98
+2020-12-01,Maryland,Frederick,30.51,78,0,0.0,6957,150.0,2.16,2721.32,58.67,2.72,255648,387.07,266.77,3.52,781.54,24.64
 2020-11-30,Maryland,Frederick,38.33,98,0,0.0,6879,150.0,2.18,2690.81,58.67,2.69,255648,387.07,263.25,15.64,756.9,27.77
 2020-11-29,Maryland,Frederick,44.2,113,2,0.78,6781,150.0,2.21,2652.48,58.67,2.65,255648,387.07,247.61,3.91,729.13,23.86
 2020-11-28,Maryland,Frederick,33.25,85,2,0.78,6668,148.0,2.22,2608.27,57.89,2.61,255648,387.07,243.7,-3.13,705.27,21.12

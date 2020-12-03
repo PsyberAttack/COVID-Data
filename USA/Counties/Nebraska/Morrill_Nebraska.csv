@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Nebraska,Morrill,170.72,8,0,0.0,354,4.0,1.13,7554.42,85.36,7.55,4686,3.29,469.48,-725.57,4417.39,64.02
+2020-12-01,Nebraska,Morrill,0.0,0,0,0.0,346,4.0,1.16,7383.7,85.36,7.38,4686,3.29,1195.05,-64.02,4353.37,-85.36
 2020-11-30,Nebraska,Morrill,-21.34,-1,0,0.0,346,4.0,1.16,7383.7,85.36,7.38,4686,3.29,1259.07,-277.42,4438.73,-106.7
 2020-11-29,Nebraska,Morrill,64.02,3,0,0.0,347,4.0,1.15,7405.04,85.36,7.41,4686,3.29,1536.49,64.02,4545.43,21.34
 2020-11-28,Nebraska,Morrill,21.34,1,0,0.0,344,4.0,1.16,7341.02,85.36,7.34,4686,3.29,1472.47,21.34,4524.09,0.0

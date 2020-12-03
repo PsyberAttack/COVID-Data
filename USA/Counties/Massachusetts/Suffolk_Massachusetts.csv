@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Massachusetts,Suffolk,62.31,503,6,0.74,37821,1256.0,3.32,4685.15,155.59,4.69,807252,13859.48,264.35,22.05,1034.02,36.92
+2020-12-01,Massachusetts,Suffolk,44.47,359,2,0.25,37318,1250.0,3.35,4622.84,154.85,4.62,807252,13859.48,242.3,14.99,997.1,31.71
 2020-11-30,Massachusetts,Suffolk,15.24,123,2,0.25,36959,1248.0,3.38,4578.37,154.6,4.58,807252,13859.48,227.31,-16.22,965.39,-1.48
 2020-11-29,Massachusetts,Suffolk,39.64,320,7,0.87,36836,1246.0,3.38,4563.14,154.35,4.56,807252,13859.48,243.53,4.21,966.87,17.34
 2020-11-28,Massachusetts,Suffolk,29.73,240,5,0.62,36516,1239.0,3.39,4523.49,153.48,4.52,807252,13859.48,239.32,-9.17,949.53,6.07

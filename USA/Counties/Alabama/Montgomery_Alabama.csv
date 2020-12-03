@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Alabama,Montgomery,47.39,107,2,0.89,12659,238.0,1.88,5607.21,105.42,5.61,225763,287.49,204.18,13.73,783.97,14.17
+2020-12-01,Alabama,Montgomery,51.82,117,0,0.0,12552,236.0,1.88,5559.81,104.53,5.56,225763,287.49,190.45,15.5,769.8,27.9
 2020-11-30,Alabama,Montgomery,24.36,55,0,0.0,12435,236.0,1.9,5507.99,104.53,5.51,225763,287.49,174.95,6.64,741.9,-1.33
 2020-11-29,Alabama,Montgomery,16.83,38,0,0.0,12380,236.0,1.91,5483.63,104.53,5.48,225763,287.49,168.31,-4.43,743.23,-4.43
 2020-11-28,Alabama,Montgomery,24.8,56,0,0.0,12342,236.0,1.91,5466.79,104.53,5.47,225763,287.49,172.74,3.1,747.66,-9.75

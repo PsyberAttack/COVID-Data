@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Wisconsin,Lafayette,48.0,8,0,0.0,1139,4.0,0.35,6834.68,24.0,6.83,16665,26.3,414.04,-12.01,3042.32,6.0
+2020-12-01,Wisconsin,Lafayette,60.01,10,1,6.0,1131,4.0,0.35,6786.68,24.0,6.79,16665,26.3,426.05,18.01,3036.32,-6.0
 2020-11-30,Wisconsin,Lafayette,36.0,6,0,0.0,1121,3.0,0.27,6726.67,18.0,6.73,16665,26.3,408.04,-24.01,3042.32,18.0
 2020-11-29,Wisconsin,Lafayette,84.01,14,0,0.0,1115,3.0,0.27,6690.67,18.0,6.69,16665,26.3,432.05,-6.0,3024.32,18.0
 2020-11-28,Wisconsin,Lafayette,36.0,6,0,0.0,1101,3.0,0.27,6606.66,18.0,6.61,16665,26.3,438.05,-30.01,3006.32,-54.01

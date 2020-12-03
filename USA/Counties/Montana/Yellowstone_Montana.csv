@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Montana,Yellowstone,91.17,146,0,0.0,11290,120.0,1.06,7050.21,74.94,7.05,160137,60.81,548.27,19.98,2474.76,49.33
+2020-12-01,Montana,Yellowstone,61.82,99,-1,-0.62,11144,120.0,1.08,6959.04,74.94,6.96,160137,60.81,528.29,3.12,2425.43,13.11
 2020-11-30,Montana,Yellowstone,39.97,64,1,0.62,11045,121.0,1.1,6897.22,75.56,6.9,160137,60.81,525.17,5.0,2412.32,-81.18
 2020-11-29,Montana,Yellowstone,112.4,180,0,0.0,10981,120.0,1.09,6857.25,74.94,6.86,160137,60.81,520.17,3.12,2493.5,28.72
 2020-11-28,Montana,Yellowstone,146.12,234,0,0.0,10801,120.0,1.11,6744.85,74.94,6.74,160137,60.81,517.05,36.84,2464.78,67.44

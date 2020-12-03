@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,West Virginia,Lewis,62.41,10,0,0.0,252,2.0,0.79,1572.64,12.48,1.57,16024,41.41,149.78,49.93,786.3,31.21
+2020-12-01,West Virginia,Lewis,0.0,0,0,0.0,242,2.0,0.83,1510.23,12.48,1.51,16024,41.41,99.85,-43.68,755.09,-37.44
 2020-11-30,West Virginia,Lewis,6.24,1,0,0.0,242,2.0,0.83,1510.23,12.48,1.51,16024,41.41,143.53,0.0,792.53,-24.96
 2020-11-29,West Virginia,Lewis,31.2,5,0,0.0,241,2.0,0.83,1503.99,12.48,1.5,16024,41.41,143.53,24.96,817.49,0.0
 2020-11-28,West Virginia,Lewis,-6.24,-1,0,0.0,236,2.0,0.85,1472.79,12.48,1.47,16024,41.41,118.57,6.24,817.49,-31.2

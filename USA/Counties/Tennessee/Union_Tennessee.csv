@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Tennessee,Union,30.48,6,0,0.0,759,5.0,0.66,3855.14,25.4,3.86,19688,88.06,299.69,0.0,954.96,15.24
+2020-12-01,Tennessee,Union,81.27,16,0,0.0,753,5.0,0.66,3824.66,25.4,3.82,19688,88.06,299.69,66.03,939.72,76.19
 2020-11-30,Tennessee,Union,76.19,15,0,0.0,737,5.0,0.68,3743.4,25.4,3.74,19688,88.06,233.66,50.79,863.53,66.03
 2020-11-29,Tennessee,Union,15.24,3,0,0.0,722,5.0,0.69,3667.21,25.4,3.67,19688,88.06,182.87,-50.79,797.5,5.08
 2020-11-28,Tennessee,Union,66.03,13,0,0.0,719,5.0,0.7,3651.97,25.4,3.65,19688,88.06,233.66,45.71,792.42,50.79

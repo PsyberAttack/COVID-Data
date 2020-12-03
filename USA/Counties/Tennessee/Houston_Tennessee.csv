@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Tennessee,Houston,48.41,4,0,0.0,603,20.0,3.32,7297.59,242.04,7.3,8263,41.25,290.45,12.1,1706.4,-24.2
+2020-12-01,Tennessee,Houston,84.71,7,0,0.0,599,20.0,3.34,7249.18,242.04,7.25,8263,41.25,278.35,48.4,1730.6,24.2
 2020-11-30,Tennessee,Houston,48.41,4,0,0.0,592,20.0,3.38,7164.47,242.04,7.16,8263,41.25,229.95,-12.1,1706.4,-96.82
 2020-11-29,Tennessee,Houston,12.1,1,0,0.0,588,20.0,3.4,7116.06,242.04,7.12,8263,41.25,242.05,-36.31,1803.22,-12.1
 2020-11-28,Tennessee,Houston,12.1,1,0,0.0,587,20.0,3.41,7103.96,242.04,7.1,8263,41.25,278.36,0.0,1815.32,-60.51

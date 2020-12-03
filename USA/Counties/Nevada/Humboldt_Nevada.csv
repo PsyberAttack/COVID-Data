@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Nevada,Humboldt,0.0,0,0,0.0,326,6.0,1.84,1942.09,35.74,1.94,16786,1.74,178.72,0.0,810.21,-23.83
+2020-12-01,Nevada,Humboldt,0.0,0,1,5.96,326,6.0,1.84,1942.09,35.74,1.94,16786,1.74,178.72,-119.15,834.04,0.0
 2020-11-30,Nevada,Humboldt,0.0,0,0,0.0,326,5.0,1.53,1942.09,29.79,1.94,16786,1.74,297.87,0.0,834.04,-47.66
 2020-11-29,Nevada,Humboldt,0.0,0,0,0.0,326,5.0,1.53,1942.09,29.79,1.94,16786,1.74,297.87,-77.45,881.7,0.0
 2020-11-28,Nevada,Humboldt,0.0,0,0,0.0,326,5.0,1.53,1942.09,29.79,1.94,16786,1.74,375.32,0.0,881.7,0.0

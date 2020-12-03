@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,North Carolina,Carteret,61.85,43,0,0.0,1799,14.0,0.78,2587.6,20.14,2.59,69524,136.96,222.95,30.21,792.55,38.84
+2020-12-01,North Carolina,Carteret,17.26,12,0,0.0,1756,14.0,0.8,2525.75,20.14,2.53,69524,136.96,192.74,-8.63,753.71,-17.26
 2020-11-30,North Carolina,Carteret,23.01,16,0,0.0,1744,14.0,0.8,2508.49,20.14,2.51,69524,136.96,201.37,5.75,770.97,17.26
 2020-11-29,North Carolina,Carteret,21.58,15,0,0.0,1728,14.0,0.81,2485.47,20.14,2.49,69524,136.96,195.62,-33.08,753.71,8.63
 2020-11-28,North Carolina,Carteret,30.21,21,0,0.0,1713,14.0,0.82,2463.9,20.14,2.46,69524,136.96,228.7,8.63,745.08,-17.26

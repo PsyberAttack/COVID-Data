@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,North Dakota,Griggs,0.0,0,1,44.8,259,2.0,0.77,11603.94,89.61,11.6,2232,3.15,1209.68,-224.01,6362.0,0.0
+2020-12-01,North Dakota,Griggs,268.82,6,0,0.0,259,1.0,0.39,11603.94,44.8,11.6,2232,3.15,1433.69,268.82,6362.0,224.02
 2020-11-30,North Dakota,Griggs,89.61,2,0,0.0,253,1.0,0.4,11335.13,44.8,11.34,2232,3.15,1164.87,-403.22,6137.98,-179.21
 2020-11-29,North Dakota,Griggs,179.21,4,0,0.0,251,1.0,0.4,11245.52,44.8,11.25,2232,3.15,1568.09,-403.23,6317.19,-44.8
 2020-11-28,North Dakota,Griggs,89.61,2,0,0.0,247,1.0,0.4,11066.31,44.8,11.07,2232,3.15,1971.32,-134.4,6361.99,-492.83

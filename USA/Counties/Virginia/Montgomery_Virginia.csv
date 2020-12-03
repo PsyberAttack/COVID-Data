@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Virginia,Montgomery,19.19,19,1,1.01,3950,16.0,0.41,3990.5,16.16,3.99,98985,255.88,145.47,-29.3,927.4,-4.05
+2020-12-01,Virginia,Montgomery,14.14,14,0,0.0,3931,15.0,0.38,3971.31,15.15,3.97,98985,255.88,174.77,-34.35,931.45,-18.19
 2020-11-30,Virginia,Montgomery,10.1,10,0,0.0,3917,15.0,0.38,3957.17,15.15,3.96,98985,255.88,209.12,-9.09,949.64,-9.09
 2020-11-29,Virginia,Montgomery,23.24,23,0,0.0,3907,15.0,0.38,3947.06,15.15,3.95,98985,255.88,218.21,7.08,958.73,2.02
 2020-11-28,Virginia,Montgomery,50.51,50,0,0.0,3884,15.0,0.39,3923.83,15.15,3.92,98985,255.88,211.13,-44.45,956.71,-3.03

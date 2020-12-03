@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,South Carolina,Horry,50.27,173,3,0.87,15136,272.0,1.8,4398.12,79.04,4.4,344147,303.57,179.86,10.17,682.85,37.78
+2020-12-01,South Carolina,Horry,19.76,68,0,0.0,14963,269.0,1.8,4347.85,78.16,4.35,344147,303.57,169.69,-10.75,645.07,0.29
 2020-11-30,South Carolina,Horry,26.73,92,1,0.29,14895,269.0,1.81,4328.09,78.16,4.33,344147,303.57,180.44,9.59,644.78,16.27
 2020-11-29,South Carolina,Horry,18.31,63,1,0.29,14803,268.0,1.81,4301.36,77.87,4.3,344147,303.57,170.85,0.29,628.51,4.07
 2020-11-28,South Carolina,Horry,32.25,111,0,0.0,14740,267.0,1.81,4283.05,77.58,4.28,344147,303.57,170.56,2.61,624.44,20.92

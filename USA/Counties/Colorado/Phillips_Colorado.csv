@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Colorado,Phillips,23.33,1,1,23.33,190,3.0,1.58,4433.04,70.0,4.43,4286,6.23,606.61,23.33,2776.45,0.0
+2020-12-01,Colorado,Phillips,46.66,2,0,0.0,189,2.0,1.06,4409.71,46.66,4.41,4286,6.23,583.28,46.66,2776.45,-23.34
 2020-11-30,Colorado,Phillips,23.33,1,0,0.0,187,2.0,1.07,4363.04,46.66,4.36,4286,6.23,536.62,-116.66,2799.79,-116.66
 2020-11-29,Colorado,Phillips,46.66,2,0,0.0,186,2.0,1.08,4339.71,46.66,4.34,4286,6.23,653.28,46.66,2916.45,23.33
 2020-11-28,Colorado,Phillips,93.33,4,0,0.0,184,2.0,1.09,4293.05,46.66,4.29,4286,6.23,606.62,93.33,2893.12,46.67

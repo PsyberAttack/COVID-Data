@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Wisconsin,Shawano,49.02,20,2,4.9,3903,54.0,1.38,9567.11,132.37,9.57,40796,45.67,428.95,-2.46,2676.75,-56.38
+2020-12-01,Wisconsin,Shawano,63.73,26,2,4.9,3883,52.0,1.34,9518.09,127.46,9.52,40796,45.67,431.41,4.9,2733.13,-14.71
 2020-11-30,Wisconsin,Shawano,58.83,24,0,0.0,3857,50.0,1.3,9454.36,122.56,9.45,40796,45.67,426.51,7.35,2747.84,0.0
 2020-11-29,Wisconsin,Shawano,46.57,19,0,0.0,3833,50.0,1.3,9395.53,122.56,9.4,40796,45.67,419.16,4.9,2747.84,-95.6
 2020-11-28,Wisconsin,Shawano,88.24,36,0,0.0,3814,50.0,1.31,9348.96,122.56,9.35,40796,45.67,414.26,-2.46,2843.44,-73.54

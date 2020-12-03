@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Maine,Lincoln,14.56,5,0,0.0,161,2.0,1.24,468.81,5.82,0.47,34342,75.33,34.94,5.82,256.24,5.82
+2020-12-01,Maine,Lincoln,0.0,0,0,0.0,156,2.0,1.28,454.25,5.82,0.45,34342,75.33,29.12,-20.38,250.42,-14.56
 2020-11-30,Maine,Lincoln,2.91,1,0,0.0,156,2.0,1.28,454.25,5.82,0.45,34342,75.33,49.5,-11.65,264.98,2.91
 2020-11-29,Maine,Lincoln,11.65,4,0,0.0,155,2.0,1.29,451.34,5.82,0.45,34342,75.33,61.15,5.83,262.07,11.65
 2020-11-28,Maine,Lincoln,0.0,0,0,0.0,151,2.0,1.32,439.69,5.82,0.44,34342,75.33,55.32,-2.91,250.42,-2.91

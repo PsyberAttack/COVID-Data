@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Tennessee,Stewart,36.87,5,1,7.37,624,16.0,2.56,4601.43,117.99,4.6,13561,29.49,383.46,14.75,1836.15,0.0
+2020-12-01,Tennessee,Stewart,66.37,9,0,0.0,619,15.0,2.42,4564.56,110.61,4.56,13561,29.49,368.71,-44.24,1836.15,22.13
 2020-11-30,Tennessee,Stewart,66.37,9,0,0.0,610,15.0,2.46,4498.19,110.61,4.5,13561,29.49,412.95,7.38,1814.02,51.62
 2020-11-29,Tennessee,Stewart,51.62,7,0,0.0,601,15.0,2.5,4431.83,110.61,4.43,13561,29.49,405.57,0.0,1762.4,29.5
 2020-11-28,Tennessee,Stewart,73.74,10,0,0.0,594,15.0,2.53,4380.21,110.61,4.38,13561,29.49,405.57,44.24,1732.9,51.62

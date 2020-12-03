@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,California,Sacramento,23.88,368,5,0.32,39366,591.0,1.5,2554.62,38.35,2.55,1540975,1596.13,235.44,-14.8,799.76,13.56
+2020-12-01,California,Sacramento,72.36,1115,5,0.32,38998,586.0,1.5,2530.74,38.03,2.53,1540975,1596.13,250.24,10.26,786.2,61.46
 2020-11-30,California,Sacramento,63.53,979,5,0.32,37883,581.0,1.53,2458.38,37.7,2.46,1540975,1596.13,239.98,-4.8,724.74,37.57
 2020-11-29,California,Sacramento,17.85,275,0,0.0,36904,576.0,1.56,2394.85,37.38,2.39,1540975,1596.13,244.78,0.46,687.17,9.35
 2020-11-28,California,Sacramento,0.0,0,0,0.0,36629,576.0,1.57,2377.0,37.38,2.38,1540975,1596.13,244.32,0.0,677.82,0.0

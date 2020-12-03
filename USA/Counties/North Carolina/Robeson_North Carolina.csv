@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,North Carolina,Robeson,44.75,59,2,1.52,7484,113.0,1.51,5676.97,85.72,5.68,131831,139.17,242.72,9.86,891.26,6.06
+2020-12-01,North Carolina,Robeson,14.41,19,1,0.76,7425,111.0,1.49,5632.21,84.2,5.63,131831,139.17,232.86,-28.83,885.2,-24.28
 2020-11-30,North Carolina,Robeson,9.1,12,0,0.0,7406,110.0,1.49,5617.8,83.44,5.62,131831,139.17,261.69,-3.04,909.48,-7.59
 2020-11-29,North Carolina,Robeson,32.62,43,0,0.0,7394,110.0,1.49,5608.7,83.44,5.61,131831,139.17,264.73,-28.06,917.07,-6.82
 2020-11-28,North Carolina,Robeson,24.27,32,0,0.0,7351,110.0,1.5,5576.08,83.44,5.58,131831,139.17,292.79,-13.66,923.89,-0.76

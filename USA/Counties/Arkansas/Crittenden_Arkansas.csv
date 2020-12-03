@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Arkansas,Crittenden,132.39,64,0,0.0,3352,57.0,1.7,6933.93,117.91,6.93,48342,79.21,405.44,64.13,1580.41,76.54
+2020-12-01,Arkansas,Crittenden,35.17,17,0,0.0,3288,57.0,1.73,6801.54,117.91,6.8,48342,79.21,341.31,0.0,1503.87,-2.06
 2020-11-30,Arkansas,Crittenden,35.17,17,1,2.07,3271,57.0,1.74,6766.37,117.91,6.77,48342,79.21,341.31,4.14,1505.93,12.42
 2020-11-29,Arkansas,Crittenden,37.23,18,0,0.0,3254,56.0,1.72,6731.21,115.84,6.73,48342,79.21,337.17,6.2,1493.51,-2.07
 2020-11-28,Arkansas,Crittenden,39.3,19,1,2.07,3236,56.0,1.73,6693.97,115.84,6.69,48342,79.21,330.97,-28.96,1495.58,-55.86

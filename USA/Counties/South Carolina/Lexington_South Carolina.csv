@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,South Carolina,Lexington,34.91,103,1,0.34,11619,229.0,1.97,3938.22,77.62,3.94,295032,422.08,188.44,10.51,729.05,7.79
+2020-12-01,South Carolina,Lexington,21.01,62,0,0.0,11516,228.0,1.98,3903.31,77.28,3.9,295032,422.08,177.93,-0.68,721.26,-0.68
 2020-11-30,South Carolina,Lexington,32.88,97,0,0.0,11454,228.0,1.99,3882.29,77.28,3.88,295032,422.08,178.61,10.51,721.94,12.88
 2020-11-29,South Carolina,Lexington,27.79,82,0,0.0,11357,228.0,2.01,3849.41,77.28,3.85,295032,422.08,168.1,8.47,709.06,-6.78
 2020-11-28,South Carolina,Lexington,34.23,101,0,0.0,11275,228.0,2.02,3821.62,77.28,3.82,295032,422.08,159.63,11.18,715.84,11.52

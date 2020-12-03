@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Texas,Live Oak,0.0,0,0,0.0,452,10.0,2.21,3715.27,82.2,3.72,12166,11.7,172.61,0.0,484.97,0.0
+2020-12-01,Texas,Live Oak,172.61,21,0,0.0,452,10.0,2.21,3715.27,82.2,3.72,12166,11.7,172.61,73.97,484.97,164.39
 2020-11-30,Texas,Live Oak,0.0,0,0,0.0,431,10.0,2.32,3542.66,82.2,3.54,12166,11.7,98.64,0.0,320.58,0.0
 2020-11-29,Texas,Live Oak,0.0,0,0,0.0,431,10.0,2.32,3542.66,82.2,3.54,12166,11.7,98.64,0.0,320.58,0.0
 2020-11-28,Texas,Live Oak,0.0,0,0,0.0,431,10.0,2.32,3542.66,82.2,3.54,12166,11.7,98.64,-8.22,320.58,-73.98

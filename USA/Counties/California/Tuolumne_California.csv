@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,California,Tuolumne,44.01,24,2,3.67,1128,11.0,0.98,2068.24,20.17,2.07,54539,24.56,403.38,-20.16,1496.19,38.51
+2020-12-01,California,Tuolumne,89.84,49,1,1.83,1104,9.0,0.82,2024.24,16.5,2.02,54539,24.56,423.54,-33.01,1457.68,84.34
 2020-11-30,California,Tuolumne,36.67,20,0,0.0,1055,8.0,0.76,1934.4,14.67,1.93,54539,24.56,456.55,-3.67,1373.34,9.17
 2020-11-29,California,Tuolumne,99.01,54,0,0.0,1035,8.0,0.77,1897.72,14.67,1.9,54539,24.56,460.22,-40.34,1364.17,99.01
 2020-11-28,California,Tuolumne,0.0,0,0,0.0,981,8.0,0.82,1798.71,14.67,1.8,54539,24.56,500.56,0.0,1265.16,0.0

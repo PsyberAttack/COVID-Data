@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Pennsylvania,Mifflin,125.48,58,1,2.16,1861,41.0,2.2,4026.22,88.7,4.03,46222,112.45,841.59,-15.15,2914.2,75.72
+2020-12-01,Pennsylvania,Mifflin,47.6,22,7,15.14,1803,40.0,2.22,3900.74,86.54,3.9,46222,112.45,856.74,-51.92,2838.48,4.33
 2020-11-30,Pennsylvania,Mifflin,51.92,24,1,2.16,1781,33.0,1.85,3853.14,71.39,3.85,46222,112.45,908.66,-49.76,2834.15,21.63
 2020-11-29,Pennsylvania,Mifflin,108.17,50,0,0.0,1757,32.0,1.82,3801.22,69.23,3.8,46222,112.45,958.42,32.45,2812.52,62.74
 2020-11-28,Pennsylvania,Mifflin,131.97,61,0,0.0,1707,32.0,1.87,3693.05,69.23,3.69,46222,112.45,925.97,-34.62,2749.78,110.34

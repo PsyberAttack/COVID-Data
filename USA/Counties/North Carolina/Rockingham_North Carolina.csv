@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,North Carolina,Rockingham,27.57,25,0,0.0,3157,22.0,0.7,3481.09,24.26,3.48,90690,160.33,254.73,-17.64,1043.13,17.65
+2020-12-01,North Carolina,Rockingham,20.95,19,0,0.0,3132,22.0,0.7,3453.52,24.26,3.45,90690,160.33,272.37,-46.31,1025.48,-22.05
 2020-11-30,North Carolina,Rockingham,23.16,21,0,0.0,3113,22.0,0.71,3432.57,24.26,3.43,90690,160.33,318.68,2.21,1047.53,14.34
 2020-11-29,North Carolina,Rockingham,31.98,29,0,0.0,3092,22.0,0.71,3409.42,24.26,3.41,90690,160.33,316.47,-40.8,1033.19,-1.1
 2020-11-28,North Carolina,Rockingham,40.8,37,0,0.0,3063,22.0,0.72,3377.44,24.26,3.38,90690,160.33,357.27,8.82,1034.29,-36.39

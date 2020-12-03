@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,North Carolina,Stokes,63.78,29,1,2.2,1208,18.0,1.49,2656.87,39.59,2.66,45467,101.26,255.12,10.99,1013.92,26.39
+2020-12-01,North Carolina,Stokes,13.2,6,1,2.2,1179,17.0,1.44,2593.09,37.39,2.59,45467,101.26,244.13,-6.59,987.53,4.4
 2020-11-30,North Carolina,Stokes,19.79,9,0,0.0,1173,16.0,1.36,2579.89,35.19,2.58,45467,101.26,250.72,-22.0,983.13,4.39
 2020-11-29,North Carolina,Stokes,28.59,13,0,0.0,1164,16.0,1.37,2560.1,35.19,2.56,45467,101.26,272.72,-15.4,978.74,8.8
 2020-11-28,North Carolina,Stokes,21.99,10,0,0.0,1151,16.0,1.39,2531.51,35.19,2.53,45467,101.26,288.12,-17.6,969.94,15.39

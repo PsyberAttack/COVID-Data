@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Michigan,Hillsdale,89.62,41,0,0.0,1762,38.0,2.16,3851.45,83.06,3.85,45749,76.48,570.51,24.04,2435.04,56.83
+2020-12-01,Michigan,Hillsdale,59.02,27,-1,-2.19,1721,38.0,2.21,3761.83,83.06,3.76,45749,76.48,546.47,-13.11,2378.21,17.49
 2020-11-30,Michigan,Hillsdale,111.48,51,2,4.37,1694,39.0,2.3,3702.81,85.25,3.7,45749,76.48,559.58,-85.25,2360.72,34.98
 2020-11-29,Michigan,Hillsdale,0.0,0,0,0.0,1643,37.0,2.25,3591.34,80.88,3.59,45749,76.48,644.83,0.0,2325.74,0.0
 2020-11-28,Michigan,Hillsdale,124.59,57,0,0.0,1643,37.0,2.25,3591.34,80.88,3.59,45749,76.48,644.83,15.3,2325.74,91.8

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Vermont,Lamoille,15.81,4,0,0.0,166,1.0,0.6,656.13,3.95,0.66,25300,55.14,83.0,0.0,407.12,15.81
+2020-12-01,Vermont,Lamoille,3.95,1,0,0.0,162,1.0,0.62,640.32,3.95,0.64,25300,55.14,83.0,-11.86,391.31,3.95
 2020-11-30,Vermont,Lamoille,27.67,7,0,0.0,161,1.0,0.62,636.36,3.95,0.64,25300,55.14,94.86,15.81,387.36,27.67
 2020-11-29,Vermont,Lamoille,19.76,5,0,0.0,154,1.0,0.65,608.7,3.95,0.61,25300,55.14,79.05,3.95,359.69,19.76
 2020-11-28,Vermont,Lamoille,15.81,4,0,0.0,149,1.0,0.67,588.93,3.95,0.59,25300,55.14,75.1,-3.95,339.93,15.81

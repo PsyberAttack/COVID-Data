@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Georgia,Brantley,42.33,8,0,0.0,807,19.0,2.35,4270.52,100.55,4.27,18897,42.66,153.46,0.0,619.13,0.0
+2020-12-01,Georgia,Brantley,21.17,4,0,0.0,799,19.0,2.38,4228.18,100.55,4.23,18897,42.66,153.46,-21.16,619.13,5.29
 2020-11-30,Georgia,Brantley,15.88,3,0,0.0,795,19.0,2.39,4207.02,100.55,4.21,18897,42.66,174.62,10.59,613.84,-42.33
 2020-11-29,Georgia,Brantley,5.29,1,0,0.0,792,19.0,2.4,4191.14,100.55,4.19,18897,42.66,164.03,5.29,656.17,5.29
 2020-11-28,Georgia,Brantley,37.04,7,1,5.29,791,19.0,2.4,4185.85,100.55,4.19,18897,42.66,158.74,-26.46,650.88,0.0

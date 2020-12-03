@@ -1,5 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-01,Minas Gerais,Itaú de Minas,142.79,23,0,0.0,365,5,1.37,2265.95,31.04,2.27,16108,360.08,130.37,595.99,136.58
+2020-12-01,Minas Gerais,Itaú de Minas,0.0,0,0,0.0,365,5,1.37,2265.95,31.04,2.27,16108,360.08,0.0,595.99,0.0
+2020-11-30,Minas Gerais,Itaú de Minas,142.79,23,0,0.0,365,5,1.37,2265.95,31.04,2.27,16108,360.08,130.37,595.99,136.58
 2020-11-27,Minas Gerais,Itaú de Minas,0.0,0,0,0.0,342,5,1.46,2123.17,31.04,2.12,16108,229.71,0.0,459.41,-12.42
 2020-11-26,Minas Gerais,Itaú de Minas,6.21,1,0,0.0,342,5,1.46,2123.17,31.04,2.12,16108,229.71,-24.83,471.83,6.21
 2020-11-25,Minas Gerais,Itaú de Minas,68.29,11,0,0.0,341,5,1.47,2116.96,31.04,2.12,16108,254.54,62.08,465.62,62.08

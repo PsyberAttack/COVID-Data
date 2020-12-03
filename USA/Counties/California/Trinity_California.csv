@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,California,Trinity,23.93,3,0,0.0,166,0.0,0.0,1324.29,0.0,1.32,12535,3.94,287.2,-47.87,1029.13,-23.94
+2020-12-01,California,Trinity,23.93,3,0,0.0,163,0.0,0.0,1300.36,0.0,1.3,12535,3.94,335.07,-23.94,1053.07,23.93
 2020-11-30,California,Trinity,15.96,2,0,0.0,160,0.0,0.0,1276.43,0.0,1.28,12535,3.94,359.01,-15.95,1029.14,15.96
 2020-11-29,California,Trinity,47.87,6,0,0.0,158,0.0,0.0,1260.47,0.0,1.26,12535,3.94,374.96,-15.95,1013.18,39.89
 2020-11-28,California,Trinity,95.73,12,0,0.0,152,0.0,0.0,1212.6,0.0,1.21,12535,3.94,390.91,55.84,973.29,87.75

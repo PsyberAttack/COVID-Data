@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Pennsylvania,Monroe,63.71,108,5,2.95,3557,153.0,4.3,2098.44,90.26,2.1,169507,278.68,305.01,20.64,825.98,48.37
+2020-12-01,Pennsylvania,Monroe,21.24,36,5,2.95,3449,148.0,4.29,2034.72,87.31,2.03,169507,278.68,284.37,0.0,777.61,-1.77
 2020-11-30,Pennsylvania,Monroe,15.93,27,0,0.0,3413,143.0,4.19,2013.49,84.36,2.01,169507,278.68,284.37,-7.08,779.38,9.44
 2020-11-29,Pennsylvania,Monroe,25.37,43,0,0.0,3386,143.0,4.22,1997.56,84.36,2.0,169507,278.68,291.45,-2.95,769.94,18.29
 2020-11-28,Pennsylvania,Monroe,96.16,163,2,1.18,3343,143.0,4.28,1972.19,84.36,1.97,169507,278.68,294.4,59.58,751.65,80.23

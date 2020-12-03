@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Puerto Rico,Coamo,5.28,2,0,0.0,567,0.0,0.0,1498.22,0.0,1.5,37845,0.0,110.97,5.28,317.04,5.28
+2020-12-01,Puerto Rico,Coamo,7.93,3,0,0.0,565,0.0,0.0,1492.93,0.0,1.49,37845,0.0,105.69,7.93,311.76,5.29
 2020-11-30,Puerto Rico,Coamo,2.64,1,0,0.0,562,0.0,0.0,1485.0,0.0,1.49,37845,0.0,97.76,2.64,306.47,-29.07
 2020-11-29,Puerto Rico,Coamo,7.93,3,0,0.0,561,0.0,0.0,1482.36,0.0,1.48,37845,0.0,95.12,-2.64,335.54,0.0
 2020-11-28,Puerto Rico,Coamo,15.85,6,0,0.0,558,0.0,0.0,1474.44,0.0,1.47,37845,0.0,97.76,-10.57,335.54,5.28

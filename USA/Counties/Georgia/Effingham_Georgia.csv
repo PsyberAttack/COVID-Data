@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Georgia,Effingham,17.69,11,0,0.0,2250,33.0,1.47,3617.95,53.06,3.62,62190,129.89,83.62,-8.04,519.39,0.0
+2020-12-01,Georgia,Effingham,11.26,7,0,0.0,2239,33.0,1.47,3600.26,53.06,3.6,62190,129.89,91.66,-6.43,519.39,6.44
 2020-11-30,Georgia,Effingham,4.82,3,0,0.0,2232,33.0,1.48,3589.0,53.06,3.59,62190,129.89,98.09,-14.48,512.95,-17.69
 2020-11-29,Georgia,Effingham,6.43,4,0,0.0,2229,33.0,1.48,3584.18,53.06,3.58,62190,129.89,112.57,0.0,530.64,1.61
 2020-11-28,Georgia,Effingham,19.3,12,0,0.0,2225,33.0,1.48,3577.75,53.06,3.58,62190,129.89,112.57,-4.82,529.03,-4.82

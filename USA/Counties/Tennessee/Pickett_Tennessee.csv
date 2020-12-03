@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Tennessee,Pickett,-39.35,-2,0,0.0,398,14.0,3.52,7831.56,275.48,7.83,5082,31.18,432.9,-216.45,1948.06,-157.41
+2020-12-01,Tennessee,Pickett,98.39,5,1,19.68,400,14.0,3.5,7870.92,275.48,7.87,5082,31.18,649.35,78.71,2105.47,39.36
 2020-11-30,Tennessee,Pickett,118.06,6,0,0.0,395,13.0,3.29,7772.53,255.8,7.77,5082,31.18,570.64,98.38,2066.11,98.38
 2020-11-29,Tennessee,Pickett,-19.68,-1,0,0.0,389,13.0,3.34,7654.47,255.8,7.65,5082,31.18,472.26,-78.71,1967.73,-19.68
 2020-11-28,Tennessee,Pickett,118.06,6,0,0.0,390,13.0,3.33,7674.14,255.8,7.67,5082,31.18,550.97,59.03,1987.41,78.71

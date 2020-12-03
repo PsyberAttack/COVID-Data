@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Tennessee,Trousdale,36.32,4,0,0.0,1922,12.0,0.62,17453.69,108.97,17.45,11012,96.31,199.77,9.08,1026.12,36.32
+2020-12-01,Tennessee,Trousdale,27.24,3,0,0.0,1918,12.0,0.63,17417.36,108.97,17.42,11012,96.31,190.69,0.0,989.8,-36.33
 2020-11-30,Tennessee,Trousdale,63.57,7,0,0.0,1915,12.0,0.63,17390.12,108.97,17.39,11012,96.31,190.69,27.25,1026.13,0.0
 2020-11-29,Tennessee,Trousdale,27.24,3,0,0.0,1908,12.0,0.63,17326.55,108.97,17.33,11012,96.31,163.44,9.08,1026.13,9.08
 2020-11-28,Tennessee,Trousdale,27.24,3,0,0.0,1905,12.0,0.63,17299.31,108.97,17.3,11012,96.31,154.36,0.0,1017.05,36.32

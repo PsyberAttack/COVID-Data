@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,North Carolina,Harnett,50.67,68,1,0.75,4112,78.0,1.9,3063.76,58.12,3.06,134214,225.56,230.99,14.16,737.64,25.34
+2020-12-01,North Carolina,Harnett,49.18,66,0,0.0,4044,77.0,1.9,3013.1,57.37,3.01,134214,225.56,216.83,40.24,712.3,37.26
 2020-11-30,North Carolina,Harnett,11.18,15,0,0.0,3978,77.0,1.94,2963.92,57.37,2.96,134214,225.56,176.59,-12.66,675.04,1.49
 2020-11-29,North Carolina,Harnett,23.84,32,0,0.0,3963,77.0,1.94,2952.75,57.37,2.95,134214,225.56,189.25,-14.9,673.55,6.7
 2020-11-28,North Carolina,Harnett,39.49,53,0,0.0,3931,77.0,1.96,2928.9,57.37,2.93,134214,225.56,204.15,23.1,666.85,12.67

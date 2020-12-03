@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Georgia,Rockdale,28.7,26,1,1.1,2835,59.0,2.08,3129.35,65.13,3.13,90594,697.88,161.15,-4.41,549.72,4.42
+2020-12-01,Georgia,Rockdale,23.18,21,0,0.0,2809,58.0,2.06,3100.65,64.02,3.1,90594,697.88,165.56,4.41,545.3,12.14
 2020-11-30,Georgia,Rockdale,24.28,22,1,1.1,2788,58.0,2.08,3077.47,64.02,3.08,90594,697.88,161.15,8.83,533.16,-12.15
 2020-11-29,Georgia,Rockdale,15.45,14,1,1.1,2766,57.0,2.06,3053.18,62.92,3.05,90594,697.88,152.32,1.1,545.31,8.83
 2020-11-28,Georgia,Rockdale,24.28,22,1,1.1,2752,56.0,2.03,3037.73,61.81,3.04,90594,697.88,151.22,-20.98,536.48,4.41

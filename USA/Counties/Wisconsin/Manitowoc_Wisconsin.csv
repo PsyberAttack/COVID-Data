@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Wisconsin,Manitowoc,65.76,52,0,0.0,5669,41.0,0.72,7169.23,51.85,7.17,79074,134.18,411.0,-11.38,2562.15,0.0
+2020-12-01,Wisconsin,Manitowoc,72.08,57,0,0.0,5617,41.0,0.73,7103.47,51.85,7.1,79074,134.18,422.38,-40.47,2562.15,-75.88
 2020-11-30,Wisconsin,Manitowoc,59.44,47,0,0.0,5560,41.0,0.74,7031.39,51.85,7.03,79074,134.18,462.85,-5.06,2638.03,-7.59
 2020-11-29,Wisconsin,Manitowoc,74.61,59,0,0.0,5513,41.0,0.74,6971.95,51.85,6.97,79074,134.18,467.91,10.11,2645.62,-18.97
 2020-11-28,Wisconsin,Manitowoc,94.85,75,1,1.26,5454,41.0,0.75,6897.34,51.85,6.9,79074,134.18,457.8,-63.23,2664.59,36.68

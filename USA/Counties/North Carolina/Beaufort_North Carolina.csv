@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,North Carolina,Beaufort,23.36,11,0,0.0,1740,54.0,3.1,3695.92,114.7,3.7,47079,56.59,195.41,-4.25,609.61,16.99
+2020-12-01,North Carolina,Beaufort,12.74,6,0,0.0,1729,54.0,3.12,3672.55,114.7,3.67,47079,56.59,199.66,-8.5,592.62,-4.25
 2020-11-30,North Carolina,Beaufort,29.74,14,0,0.0,1723,54.0,3.13,3659.81,114.7,3.66,47079,56.59,208.16,25.49,596.87,29.74
 2020-11-29,North Carolina,Beaufort,19.12,9,0,0.0,1709,54.0,3.16,3630.07,114.7,3.63,47079,56.59,182.67,-8.49,567.13,-10.62
 2020-11-28,North Carolina,Beaufort,16.99,8,0,0.0,1700,54.0,3.18,3610.95,114.7,3.61,47079,56.59,191.16,-4.25,577.75,-19.12

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Indiana,Vanderburgh,105.54,191,6,3.32,10868,136.0,1.25,6005.28,75.15,6.01,180974,774.48,614.44,-4.42,2182.07,66.31
+2020-12-01,Indiana,Vanderburgh,69.62,126,1,0.55,10677,130.0,1.22,5899.74,71.83,5.9,180974,774.48,618.86,1.1,2115.76,42.54
 2020-11-30,Indiana,Vanderburgh,146.98,266,1,0.55,10551,129.0,1.22,5830.12,71.28,5.83,180974,774.48,617.76,30.94,2073.22,91.72
 2020-11-29,Indiana,Vanderburgh,62.99,114,0,0.0,10285,128.0,1.24,5683.14,70.73,5.68,180974,774.48,586.82,-7.19,1981.5,4.97
 2020-11-28,Indiana,Vanderburgh,76.25,138,6,3.32,10171,128.0,1.26,5620.14,70.73,5.62,180974,774.48,594.01,-4.42,1976.53,17.68

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Massachusetts,Hampden,59.1,278,4,0.85,16735,917.0,5.48,3557.57,194.94,3.56,470406,762.42,332.91,-4.25,1293.36,31.89
+2020-12-01,Massachusetts,Hampden,66.75,314,2,0.43,16457,913.0,5.55,3498.47,194.09,3.5,470406,762.42,337.16,5.31,1261.47,45.92
 2020-11-30,Massachusetts,Hampden,33.59,158,1,0.21,16143,911.0,5.64,3431.72,193.66,3.43,470406,762.42,331.85,-4.25,1215.55,19.56
 2020-11-29,Massachusetts,Hampden,44.64,210,3,0.64,15985,910.0,5.69,3398.13,193.45,3.4,470406,762.42,336.1,-5.74,1195.99,22.32
 2020-11-28,Massachusetts,Hampden,60.59,285,10,2.13,15775,907.0,5.75,3353.49,192.81,3.35,470406,762.42,341.84,10.0,1173.67,38.69

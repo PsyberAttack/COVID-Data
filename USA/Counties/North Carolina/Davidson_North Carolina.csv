@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,North Carolina,Davidson,25.21,42,2,1.2,5468,53.0,0.97,3281.84,31.81,3.28,166614,301.2,246.08,-25.21,920.1,10.21
+2020-12-01,North Carolina,Davidson,28.81,48,0,0.0,5426,51.0,0.94,3256.63,30.61,3.26,166614,301.2,271.29,-3.6,909.89,13.21
 2020-11-30,North Carolina,Davidson,30.01,50,0,0.0,5378,51.0,0.95,3227.82,30.61,3.23,166614,301.2,274.89,10.8,896.68,24.01
 2020-11-29,North Carolina,Davidson,54.02,90,0,0.0,5328,51.0,0.96,3197.81,30.61,3.2,166614,301.2,264.09,-2.4,872.67,31.21
 2020-11-28,North Carolina,Davidson,14.4,24,0,0.0,5238,51.0,0.97,3143.79,30.61,3.14,166614,301.2,266.49,-24.01,841.46,-11.41

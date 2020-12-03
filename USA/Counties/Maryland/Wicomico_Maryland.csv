@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Maryland,Wicomico,27.13,28,0,0.0,3490,59.0,1.69,3381.95,57.17,3.38,103195,275.61,221.91,-18.41,850.82,16.47
+2020-12-01,Maryland,Wicomico,21.32,22,0,0.0,3462,59.0,1.7,3354.81,57.17,3.35,103195,275.61,240.32,-19.38,834.35,10.66
 2020-11-30,Maryland,Wicomico,36.82,38,0,0.0,3440,59.0,1.72,3333.49,57.17,3.33,103195,275.61,259.7,13.56,823.69,19.38
 2020-11-29,Maryland,Wicomico,24.23,25,0,0.0,3402,59.0,1.73,3296.67,57.17,3.3,103195,275.61,246.14,-10.66,804.31,6.79
 2020-11-28,Maryland,Wicomico,28.1,29,0,0.0,3377,59.0,1.75,3272.45,57.17,3.27,103195,275.61,256.8,-11.63,797.52,13.56

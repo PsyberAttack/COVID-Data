@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Minnesota,Fillmore,75.98,16,0,0.0,748,0.0,0.0,3552.09,0.0,3.55,21058,24.45,550.86,-4.75,2041.97,42.74
+2020-12-01,Minnesota,Fillmore,37.99,8,0,0.0,732,0.0,0.0,3476.11,0.0,3.48,21058,24.45,555.61,-9.5,1999.23,42.74
 2020-11-30,Minnesota,Fillmore,118.72,25,0,0.0,724,0.0,0.0,3438.12,0.0,3.44,21058,24.45,565.11,52.24,1956.49,104.47
 2020-11-29,Minnesota,Fillmore,104.47,22,0,0.0,699,0.0,0.0,3319.4,0.0,3.32,21058,24.45,512.87,-23.75,1852.02,42.74
 2020-11-28,Minnesota,Fillmore,123.47,26,0,0.0,677,0.0,0.0,3214.93,0.0,3.21,21058,24.45,536.62,90.23,1809.28,66.48

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Virginia,Westmoreland,11.22,2,0,0.0,445,8.0,1.8,2495.79,44.87,2.5,17830,77.75,224.35,16.83,504.78,0.0
+2020-12-01,Virginia,Westmoreland,89.74,16,1,5.61,443,8.0,1.81,2484.58,44.87,2.48,17830,77.75,207.52,89.74,504.78,89.74
 2020-11-30,Virginia,Westmoreland,11.22,2,0,0.0,427,7.0,1.64,2394.84,39.26,2.39,17830,77.75,117.78,-28.04,415.04,0.0
 2020-11-29,Virginia,Westmoreland,33.65,6,0,0.0,425,7.0,1.65,2383.62,39.26,2.38,17830,77.75,145.82,11.22,415.04,33.65
 2020-11-28,Virginia,Westmoreland,28.04,5,0,0.0,419,7.0,1.67,2349.97,39.26,2.35,17830,77.75,134.6,16.82,381.39,11.21

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Tennessee,Hickman,55.86,14,0,0.0,1240,19.0,1.53,4947.53,75.81,4.95,25063,40.92,438.9,15.96,1496.25,43.89
+2020-12-01,Tennessee,Hickman,39.9,10,0,0.0,1226,19.0,1.55,4891.67,75.81,4.89,25063,40.92,422.94,19.95,1452.36,-7.98
 2020-11-30,Tennessee,Hickman,91.77,23,0,0.0,1216,19.0,1.56,4851.77,75.81,4.85,25063,40.92,402.99,7.98,1460.34,75.81
 2020-11-29,Tennessee,Hickman,43.89,11,0,0.0,1193,19.0,1.59,4760.0,75.81,4.76,25063,40.92,395.01,23.94,1384.53,43.89
 2020-11-28,Tennessee,Hickman,79.8,20,0,0.0,1182,19.0,1.61,4716.12,75.81,4.72,25063,40.92,371.07,31.92,1340.64,59.85

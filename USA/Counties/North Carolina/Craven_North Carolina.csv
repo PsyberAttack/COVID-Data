@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,North Carolina,Craven,65.1,67,0,0.0,3224,70.0,2.17,3132.77,68.02,3.13,102912,145.64,186.56,9.71,718.08,45.67
+2020-12-01,North Carolina,Craven,16.52,17,1,0.97,3157,70.0,2.22,3067.67,68.02,3.07,102912,145.64,176.85,-23.32,672.41,-6.8
 2020-11-30,North Carolina,Craven,12.63,13,0,0.0,3140,69.0,2.2,3051.15,67.05,3.05,102912,145.64,200.17,2.91,679.21,12.63
 2020-11-29,North Carolina,Craven,11.66,12,0,0.0,3127,69.0,2.21,3038.52,67.05,3.04,102912,145.64,197.26,-39.84,666.58,3.89
 2020-11-28,North Carolina,Craven,17.49,18,0,0.0,3115,69.0,2.22,3026.86,67.05,3.03,102912,145.64,237.1,-10.69,662.69,-20.41

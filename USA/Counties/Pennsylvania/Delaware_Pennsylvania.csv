@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Pennsylvania,Delaware,70.47,398,0,0.0,20762,852.0,4.1,3676.31,150.86,3.68,564751,3072.33,308.62,36.83,1133.75,45.68
+2020-12-01,Pennsylvania,Delaware,35.06,198,2,0.35,20364,852.0,4.18,3605.84,150.86,3.61,564751,3072.33,271.79,-4.78,1088.07,10.62
 2020-11-30,Pennsylvania,Delaware,19.3,109,0,0.0,20166,850.0,4.22,3570.78,150.51,3.57,564751,3072.33,276.57,-16.11,1077.45,5.13
 2020-11-29,Pennsylvania,Delaware,31.87,180,0,0.0,20057,850.0,4.24,3551.48,150.51,3.55,564751,3072.33,292.68,-9.21,1072.32,11.86
 2020-11-28,Pennsylvania,Delaware,40.37,228,0,0.0,19877,850.0,4.28,3519.6,150.51,3.52,564751,3072.33,301.89,-7.97,1060.46,16.64

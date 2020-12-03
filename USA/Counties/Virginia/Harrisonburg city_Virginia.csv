@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Virginia,Harrisonburg city,20.36,11,0,0.0,3493,37.0,1.06,6464.57,68.48,6.46,54033,3116.23,177.68,7.4,629.29,7.4
+2020-12-01,Virginia,Harrisonburg city,18.51,10,0,0.0,3482,37.0,1.06,6444.21,68.48,6.44,54033,3116.23,170.28,-11.1,621.89,0.0
 2020-11-30,Virginia,Harrisonburg city,1.85,1,0,0.0,3472,37.0,1.07,6425.7,68.48,6.43,54033,3116.23,181.38,-25.91,621.89,0.0
 2020-11-29,Virginia,Harrisonburg city,18.51,10,0,0.0,3471,37.0,1.07,6423.85,68.48,6.42,54033,3116.23,207.29,-3.7,621.89,3.7
 2020-11-28,Virginia,Harrisonburg city,68.48,37,0,0.0,3461,37.0,1.07,6405.34,68.48,6.41,54033,3116.23,210.99,16.66,618.19,42.57

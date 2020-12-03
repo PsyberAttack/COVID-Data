@@ -1,5 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-01,Minas Gerais,Mato Verde,48.16,6,0,0.0,131,3,2.29,1051.45,24.08,1.05,12459,208.68,0.0,505.66,56.19
+2020-12-01,Minas Gerais,Mato Verde,48.16,6,0,0.0,131,3,2.29,1051.45,24.08,1.05,12459,208.68,48.16,489.61,32.11
+2020-11-30,Minas Gerais,Mato Verde,0.0,0,0,0.0,125,3,2.4,1003.29,24.08,1.0,12459,160.52,-48.16,457.5,8.03
 2020-11-27,Minas Gerais,Mato Verde,40.13,5,0,0.0,125,3,2.4,1003.29,24.08,1.0,12459,208.68,40.13,449.47,40.13
 2020-11-26,Minas Gerais,Mato Verde,80.26,10,0,0.0,120,3,2.5,963.16,24.08,0.96,12459,168.55,48.15,409.34,80.26
 2020-11-25,Minas Gerais,Mato Verde,0.0,0,0,0.0,110,3,2.73,882.9,24.08,0.88,12459,120.4,0.0,329.08,0.0

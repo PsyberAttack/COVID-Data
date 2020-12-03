@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Georgia,Chattahoochee,9.36,1,0,0.0,2031,3.0,0.15,19009.73,28.08,19.01,10684,42.95,458.64,-9.36,1778.38,-28.08
+2020-12-01,Georgia,Chattahoochee,56.16,6,0,0.0,2030,3.0,0.15,19000.37,28.08,19.0,10684,42.95,468.0,-215.27,1806.46,-28.08
 2020-11-30,Georgia,Chattahoochee,159.12,17,0,0.0,2024,3.0,0.15,18944.22,28.08,18.94,10684,42.95,683.27,131.04,1834.54,140.4
 2020-11-29,Georgia,Chattahoochee,121.68,13,-1,-9.36,2007,3.0,0.15,18785.1,28.08,18.79,10684,42.95,552.23,102.96,1694.14,121.68
 2020-11-28,Georgia,Chattahoochee,93.6,10,1,9.36,1994,4.0,0.2,18663.42,37.44,18.66,10684,42.95,449.27,74.88,1572.46,-102.96

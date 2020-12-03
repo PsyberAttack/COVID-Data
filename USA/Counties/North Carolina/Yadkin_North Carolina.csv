@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,North Carolina,Yadkin,85.24,32,0,0.0,1595,14.0,0.88,4248.46,37.29,4.25,37543,112.09,426.19,-2.66,1257.25,71.92
+2020-12-01,North Carolina,Yadkin,34.63,13,0,0.0,1563,14.0,0.9,4163.23,37.29,4.16,37543,112.09,428.85,0.0,1185.33,13.32
 2020-11-30,North Carolina,Yadkin,42.62,16,0,0.0,1550,14.0,0.9,4128.6,37.29,4.13,37543,112.09,428.85,2.67,1172.01,21.31
 2020-11-29,North Carolina,Yadkin,45.28,17,0,0.0,1534,14.0,0.91,4085.98,37.29,4.09,37543,112.09,426.18,0.0,1150.7,-2.67
 2020-11-28,North Carolina,Yadkin,7.99,3,0,0.0,1517,14.0,0.92,4040.7,37.29,4.04,37543,112.09,426.18,-34.63,1153.37,-47.95

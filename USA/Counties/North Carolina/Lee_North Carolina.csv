@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,North Carolina,Lee,40.68,25,1,1.63,2536,31.0,1.22,4126.8,50.45,4.13,61452,240.93,192.02,0.0,564.64,14.64
+2020-12-01,North Carolina,Lee,21.15,13,0,0.0,2511,30.0,1.19,4086.12,48.82,4.09,61452,240.93,192.02,11.39,550.0,6.5
 2020-11-30,North Carolina,Lee,22.78,14,0,0.0,2498,30.0,1.2,4064.96,48.82,4.06,61452,240.93,180.63,11.39,543.5,11.39
 2020-11-29,North Carolina,Lee,17.9,11,0,0.0,2484,30.0,1.21,4042.18,48.82,4.04,61452,240.93,169.24,-14.65,532.11,0.0
 2020-11-28,North Carolina,Lee,32.55,20,0,0.0,2473,30.0,1.21,4024.28,48.82,4.02,61452,240.93,183.89,16.28,532.11,3.26

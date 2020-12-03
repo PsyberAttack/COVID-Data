@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,South Carolina,Spartanburg,41.73,131,5,1.59,12759,285.0,2.23,4064.83,90.8,4.06,313888,388.6,257.73,11.15,1016.59,27.39
+2020-12-01,South Carolina,Spartanburg,42.05,132,3,0.96,12628,280.0,2.22,4023.09,89.2,4.02,313888,388.6,246.58,-2.55,989.2,22.62
 2020-11-30,South Carolina,Spartanburg,26.12,82,2,0.64,12496,277.0,2.22,3981.04,88.25,3.98,313888,388.6,249.13,-0.32,966.58,10.83
 2020-11-29,South Carolina,Spartanburg,39.19,123,0,0.0,12414,275.0,2.22,3954.91,87.61,3.95,313888,388.6,249.45,-12.74,955.75,-0.31
 2020-11-28,South Carolina,Spartanburg,47.79,150,0,0.0,12291,275.0,2.24,3915.73,87.61,3.92,313888,388.6,262.19,14.34,956.06,15.61

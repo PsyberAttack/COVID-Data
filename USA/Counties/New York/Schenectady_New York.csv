@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,New York,Schenectady,38.62,60,0,0.0,2615,60.0,2.29,1683.3,38.62,1.68,155350,759.36,249.75,14.16,621.16,34.76
+2020-12-01,New York,Schenectady,47.63,74,1,0.64,2555,60.0,2.35,1644.67,38.62,1.64,155350,759.36,235.59,13.51,586.4,39.26
 2020-11-30,New York,Schenectady,24.46,38,0,0.0,2481,59.0,2.38,1597.04,37.98,1.6,155350,759.36,222.08,-16.09,547.14,18.67
 2020-11-29,New York,Schenectady,34.76,54,2,1.29,2443,59.0,2.42,1572.58,37.98,1.57,155350,759.36,238.17,27.68,528.47,20.6
 2020-11-28,New York,Schenectady,23.17,36,0,0.0,2389,57.0,2.39,1537.82,36.69,1.54,155350,759.36,210.49,-18.67,507.87,17.38

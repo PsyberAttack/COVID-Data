@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Puerto Rico,Barranquitas,0.0,0,0,0.0,851,0.0,0.0,3097.25,0.0,3.1,27476,0.0,207.47,0.0,717.04,-3.64
+2020-12-01,Puerto Rico,Barranquitas,29.12,8,0,0.0,851,0.0,0.0,3097.25,0.0,3.1,27476,0.0,207.47,21.84,720.68,21.84
 2020-11-30,Puerto Rico,Barranquitas,32.76,9,0,0.0,843,0.0,0.0,3068.13,0.0,3.07,27476,0.0,185.63,7.28,698.84,-7.27
 2020-11-29,Puerto Rico,Barranquitas,0.0,0,0,0.0,834,0.0,0.0,3035.38,0.0,3.04,27476,0.0,178.35,-36.4,706.11,-18.2
 2020-11-28,Puerto Rico,Barranquitas,36.4,10,0,0.0,834,0.0,0.0,3035.38,0.0,3.04,27476,0.0,214.75,-3.63,724.31,32.76

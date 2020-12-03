@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Indiana,Jefferson,90.04,29,2,6.21,1377,18.0,1.31,4275.34,55.89,4.28,32208,89.31,583.71,9.31,2729.15,34.15
+2020-12-01,Indiana,Jefferson,40.36,13,0,0.0,1348,16.0,1.19,4185.3,49.68,4.19,32208,89.31,574.4,-21.74,2695.0,3.1
 2020-11-30,Indiana,Jefferson,65.2,21,0,0.0,1335,16.0,1.2,4144.93,49.68,4.14,32208,89.31,596.14,-55.89,2691.9,6.21
 2020-11-29,Indiana,Jefferson,133.51,43,0,0.0,1314,16.0,1.22,4079.73,49.68,4.08,32208,89.31,652.03,68.31,2685.69,108.67
 2020-11-28,Indiana,Jefferson,90.04,29,0,0.0,1271,16.0,1.26,3946.22,49.68,3.95,32208,89.31,583.72,-40.36,2577.02,37.26

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Puerto Rico,Mayaguez,4.17,3,0,0.0,1306,0.0,0.0,1814.24,0.0,1.81,71986,0.0,79.18,0.0,355.63,0.0
+2020-12-01,Puerto Rico,Mayaguez,11.11,8,0,0.0,1303,0.0,0.0,1810.07,0.0,1.81,71986,0.0,79.18,11.11,355.63,1.39
 2020-11-30,Puerto Rico,Mayaguez,0.0,0,0,0.0,1295,0.0,0.0,1798.96,0.0,1.8,71986,0.0,68.07,-6.95,354.24,-16.67
 2020-11-29,Puerto Rico,Mayaguez,2.78,2,0,0.0,1295,0.0,0.0,1798.96,0.0,1.8,71986,0.0,75.02,-22.22,370.91,-15.28
 2020-11-28,Puerto Rico,Mayaguez,19.45,14,0,0.0,1293,0.0,0.0,1796.18,0.0,1.8,71986,0.0,97.24,-29.17,386.19,19.45

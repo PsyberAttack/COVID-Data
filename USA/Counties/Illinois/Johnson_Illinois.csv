@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Illinois,Johnson,112.4,14,0,0.0,751,6.0,0.8,6029.22,48.17,6.03,12456,36.22,553.96,-24.08,2657.36,88.32
+2020-12-01,Illinois,Johnson,104.37,13,0,0.0,737,6.0,0.81,5916.83,48.17,5.92,12456,36.22,578.04,48.17,2569.04,40.14
 2020-11-30,Illinois,Johnson,88.31,11,0,0.0,724,6.0,0.83,5812.46,48.17,5.81,12456,36.22,529.87,48.17,2528.9,80.28
 2020-11-29,Illinois,Johnson,8.03,1,0,0.0,713,6.0,0.84,5724.15,48.17,5.72,12456,36.22,481.7,-40.14,2448.62,-120.42
 2020-11-28,Illinois,Johnson,88.31,11,0,0.0,712,6.0,0.84,5716.12,48.17,5.72,12456,36.22,521.84,0.0,2569.04,88.31

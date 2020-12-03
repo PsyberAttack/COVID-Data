@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Indiana,Tippecanoe,136.24,263,0,0.0,9914,34.0,0.34,5135.51,17.61,5.14,193048,386.94,685.84,64.76,2639.24,69.94
+2020-12-01,Indiana,Tippecanoe,86.51,167,3,1.55,9651,34.0,0.35,4999.27,17.61,5.0,193048,386.94,621.08,-7.77,2569.3,52.32
 2020-11-30,Indiana,Tippecanoe,144.52,279,0,0.0,9484,31.0,0.33,4912.77,16.06,4.91,193048,386.94,628.85,45.58,2516.98,80.81
 2020-11-29,Indiana,Tippecanoe,66.3,128,0,0.0,9205,31.0,0.34,4768.24,16.06,4.77,193048,386.94,583.27,-43.0,2436.17,25.9
 2020-11-28,Indiana,Tippecanoe,55.43,107,1,0.52,9077,31.0,0.34,4701.94,16.06,4.7,193048,386.94,626.27,-69.41,2410.27,26.42

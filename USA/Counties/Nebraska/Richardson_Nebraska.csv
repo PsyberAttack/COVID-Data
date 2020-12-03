@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Nebraska,Richardson,138.59,11,0,0.0,384,3.0,0.78,4838.1,37.8,4.84,7937,14.38,579.57,-37.8,3011.23,25.2
+2020-12-01,Nebraska,Richardson,50.4,4,0,0.0,373,3.0,0.8,4699.51,37.8,4.7,7937,14.38,617.37,-37.79,2986.03,37.8
 2020-11-30,Nebraska,Richardson,289.78,23,-1,-12.6,369,3.0,0.81,4649.11,37.8,4.65,7937,14.38,655.16,75.59,2948.23,289.78
 2020-11-29,Nebraska,Richardson,-12.6,-1,0,0.0,346,4.0,1.16,4359.33,50.4,4.36,7937,14.38,579.57,-63.0,2658.45,-113.39
 2020-11-28,Nebraska,Richardson,37.8,3,0,0.0,347,4.0,1.15,4371.93,50.4,4.37,7937,14.38,642.57,-37.8,2771.84,12.6

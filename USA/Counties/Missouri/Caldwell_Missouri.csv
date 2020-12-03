@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Missouri,Caldwell,21.96,2,0,0.0,405,3.0,0.74,4446.64,32.94,4.45,9108,21.36,417.24,-54.9,2250.82,-10.98
+2020-12-01,Missouri,Caldwell,43.92,4,1,10.98,403,3.0,0.74,4424.68,32.94,4.42,9108,21.36,472.14,21.96,2261.8,21.96
 2020-11-30,Missouri,Caldwell,65.88,6,0,0.0,399,2.0,0.5,4380.76,21.96,4.38,9108,21.36,450.18,-43.91,2239.84,54.9
 2020-11-29,Missouri,Caldwell,65.88,6,0,0.0,393,2.0,0.51,4314.89,21.96,4.31,9108,21.36,494.09,21.96,2184.94,43.92
 2020-11-28,Missouri,Caldwell,65.88,6,0,0.0,387,2.0,0.52,4249.01,21.96,4.25,9108,21.36,472.13,-43.91,2141.02,-43.91

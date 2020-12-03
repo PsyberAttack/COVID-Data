@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Wisconsin,La Crosse,87.12,103,1,0.85,8511,37.0,0.43,7198.68,31.29,7.2,118230,261.7,500.72,-45.67,2901.98,-60.9
+2020-12-01,Wisconsin,La Crosse,43.98,52,1,0.85,8408,36.0,0.43,7111.56,30.45,7.11,118230,261.7,546.39,-41.45,2962.88,-44.83
 2020-11-30,Wisconsin,La Crosse,65.97,78,0,0.0,8356,35.0,0.42,7067.58,29.6,7.07,118230,261.7,587.84,17.76,3007.71,42.29
 2020-11-29,Wisconsin,La Crosse,88.81,105,0,0.0,8278,35.0,0.42,7001.61,29.6,7.0,118230,261.7,570.08,40.6,2965.42,39.75
 2020-11-28,Wisconsin,La Crosse,79.51,94,0,0.0,8173,35.0,0.43,6912.8,29.6,6.91,118230,261.7,529.48,-95.57,2925.67,14.38

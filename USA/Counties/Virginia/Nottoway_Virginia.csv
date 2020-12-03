@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Virginia,Nottoway,38.91,6,0,0.0,518,23.0,4.44,3359.27,149.16,3.36,15420,49.05,149.17,0.0,933.9,32.42
+2020-12-01,Virginia,Nottoway,6.49,1,1,6.49,512,23.0,4.49,3320.36,149.16,3.32,15420,49.05,149.17,0.0,901.48,-19.45
 2020-11-30,Virginia,Nottoway,12.97,2,0,0.0,511,22.0,4.31,3313.88,142.67,3.31,15420,49.05,149.17,-38.91,920.93,6.48
 2020-11-29,Virginia,Nottoway,6.49,1,0,0.0,509,22.0,4.32,3300.91,142.67,3.3,15420,49.05,188.08,-6.48,914.45,-38.91
 2020-11-28,Virginia,Nottoway,45.4,7,0,0.0,508,22.0,4.33,3294.42,142.67,3.29,15420,49.05,194.56,25.94,953.36,32.43

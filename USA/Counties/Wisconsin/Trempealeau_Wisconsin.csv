@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Wisconsin,Trempealeau,135.86,40,5,16.98,2492,22.0,0.88,8464.1,74.72,8.46,29442,40.17,614.77,10.19,4181.11,6.79
+2020-12-01,Wisconsin,Trempealeau,74.72,22,2,6.79,2452,17.0,0.69,8328.24,57.74,8.33,29442,40.17,604.58,-67.93,4174.32,-64.54
 2020-11-30,Wisconsin,Trempealeau,54.34,16,0,0.0,2430,15.0,0.62,8253.52,50.95,8.25,29442,40.17,672.51,-33.97,4238.86,6.79
 2020-11-29,Wisconsin,Trempealeau,67.93,20,0,0.0,2414,15.0,0.62,8199.17,50.95,8.2,29442,40.17,706.48,-125.67,4232.07,-3.4
 2020-11-28,Wisconsin,Trempealeau,169.83,50,0,0.0,2394,15.0,0.63,8131.24,50.95,8.13,29442,40.17,832.15,-27.17,4235.47,91.71

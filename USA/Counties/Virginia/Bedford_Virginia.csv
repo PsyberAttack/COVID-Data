@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Virginia,Bedford,20.32,16,1,1.27,1893,21.0,1.11,2403.9,26.67,2.4,78747,103.6,172.72,1.27,687.06,-7.62
+2020-12-01,Virginia,Bedford,48.26,38,1,1.27,1877,20.0,1.07,2383.58,25.4,2.38,78747,103.6,171.45,16.51,694.68,34.29
 2020-11-30,Virginia,Bedford,15.24,12,0,0.0,1839,19.0,1.03,2335.33,24.13,2.34,78747,103.6,154.94,1.27,660.39,1.27
 2020-11-29,Virginia,Bedford,31.75,25,0,0.0,1827,19.0,1.04,2320.09,24.13,2.32,78747,103.6,153.67,-6.35,659.12,17.78
 2020-11-28,Virginia,Bedford,33.02,26,0,0.0,1802,19.0,1.05,2288.34,24.13,2.29,78747,103.6,160.02,12.7,641.34,15.24

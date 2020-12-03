@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Texas,Hutchinson,28.3,6,0,0.0,676,26.0,3.85,3188.98,122.65,3.19,21198,23.89,212.28,0.0,1306.73,-51.9
+2020-12-01,Texas,Hutchinson,42.46,9,2,9.43,670,26.0,3.88,3160.68,122.65,3.16,21198,23.89,212.28,-37.74,1358.63,-165.11
 2020-11-30,Texas,Hutchinson,0.0,0,0,0.0,661,24.0,3.63,3118.22,113.22,3.12,21198,23.89,250.02,0.0,1523.74,0.0
 2020-11-29,Texas,Hutchinson,0.0,0,0,0.0,661,24.0,3.63,3118.22,113.22,3.12,21198,23.89,250.02,0.0,1523.74,-14.15
 2020-11-28,Texas,Hutchinson,84.91,18,0,0.0,661,24.0,3.63,3118.22,113.22,3.12,21198,23.89,250.02,18.87,1537.89,47.17

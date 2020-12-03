@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Kentucky,Jackson,22.32,3,0,0.0,670,17.0,2.54,4984.38,126.47,4.98,13442,38.94,245.5,-29.76,1078.72,-14.88
+2020-12-01,Kentucky,Jackson,111.59,15,0,0.0,667,17.0,2.55,4962.06,126.47,4.96,13442,38.94,275.26,81.83,1093.6,37.2
 2020-11-30,Kentucky,Jackson,29.76,4,0,0.0,652,17.0,2.61,4850.47,126.47,4.85,13442,38.94,193.43,0.0,1056.4,-44.63
 2020-11-29,Kentucky,Jackson,14.88,2,0,0.0,648,17.0,2.62,4820.71,126.47,4.82,13442,38.94,193.43,7.44,1101.03,14.88
 2020-11-28,Kentucky,Jackson,7.44,1,0,0.0,646,17.0,2.63,4805.83,126.47,4.81,13442,38.94,185.99,-66.95,1086.15,-96.71

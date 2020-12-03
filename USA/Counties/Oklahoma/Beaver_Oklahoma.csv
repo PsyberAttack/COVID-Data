@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Oklahoma,Beaver,37.6,2,0,0.0,216,2.0,0.93,4060.91,37.6,4.06,5319,2.93,714.41,-112.8,2086.82,0.0
+2020-12-01,Oklahoma,Beaver,75.2,4,0,0.0,214,2.0,0.93,4023.31,37.6,4.02,5319,2.93,827.21,-18.8,2086.82,37.6
 2020-11-30,Oklahoma,Beaver,112.8,6,0,0.0,210,2.0,0.95,3948.11,37.6,3.95,5319,2.93,846.01,94.0,2049.22,75.2
 2020-11-29,Oklahoma,Beaver,0.0,0,0,0.0,204,2.0,0.98,3835.31,37.6,3.84,5319,2.93,752.01,-131.6,1974.02,-94.0
 2020-11-28,Oklahoma,Beaver,470.01,25,0,0.0,204,2.0,0.98,3835.31,37.6,3.84,5319,2.93,883.61,413.61,2068.02,451.21

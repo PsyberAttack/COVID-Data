@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Nebraska,Red Willow,335.63,36,0,0.0,660,6.0,0.91,6153.27,55.94,6.15,10726,14.96,1053.52,167.81,3272.44,223.75
+2020-12-01,Nebraska,Red Willow,344.96,37,3,27.97,624,6.0,0.96,5817.64,55.94,5.82,10726,14.96,885.71,354.28,3048.69,261.05
 2020-11-30,Nebraska,Red Willow,55.94,6,0,0.0,587,3.0,0.51,5472.68,27.97,5.47,10726,14.96,531.43,18.65,2787.64,18.65
 2020-11-29,Nebraska,Red Willow,18.65,2,0,0.0,581,3.0,0.52,5416.74,27.97,5.42,10726,14.96,512.78,-9.32,2768.99,9.33
 2020-11-28,Nebraska,Red Willow,46.62,5,0,0.0,579,3.0,0.52,5398.1,27.97,5.4,10726,14.96,522.1,-102.55,2759.66,-65.26

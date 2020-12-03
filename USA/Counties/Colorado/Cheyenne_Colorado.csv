@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Colorado,Cheyenne,319.83,6,0,0.0,69,0.0,0.0,3678.04,0.0,3.68,1876,1.05,746.25,106.61,2878.42,319.83
+2020-12-01,Colorado,Cheyenne,53.3,1,0,0.0,63,0.0,0.0,3358.21,0.0,3.36,1876,1.05,639.64,-53.31,2558.59,53.3
 2020-11-30,Colorado,Cheyenne,106.61,2,0,0.0,62,0.0,0.0,3304.9,0.0,3.3,1876,1.05,692.95,106.61,2505.29,106.61
 2020-11-29,Colorado,Cheyenne,106.61,2,0,0.0,60,0.0,0.0,3198.29,0.0,3.2,1876,1.05,586.34,106.61,2398.68,106.61
 2020-11-28,Colorado,Cheyenne,53.3,1,0,0.0,58,0.0,0.0,3091.68,0.0,3.09,1876,1.05,479.73,-106.61,2292.07,53.3

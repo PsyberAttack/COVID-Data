@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,California,Ventura,79.79,679,0,0.0,20987,185.0,0.88,2466.25,21.74,2.47,850967,461.86,276.15,61.34,725.16,74.03
+2020-12-01,California,Ventura,28.44,242,2,0.24,20308,185.0,0.91,2386.46,21.74,2.39,850967,461.86,214.81,-6.23,651.13,18.92
 2020-11-30,California,Ventura,65.34,556,8,0.94,20066,183.0,0.91,2358.02,21.5,2.36,850967,461.86,221.04,48.3,632.21,59.35
 2020-11-29,California,Ventura,15.39,131,0,0.0,19510,175.0,0.9,2292.69,20.56,2.29,850967,461.86,172.74,-19.75,572.86,8.69
 2020-11-28,California,Ventura,37.72,321,0,0.0,19379,175.0,0.9,2277.29,20.56,2.28,850967,461.86,192.49,18.21,564.17,26.91

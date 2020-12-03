@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Montana,Roosevelt,63.3,7,1,9.04,1256,41.0,3.26,11357.27,370.74,11.36,11059,4.7,388.82,-117.55,1907.93,45.22
+2020-12-01,Montana,Roosevelt,54.25,6,0,0.0,1249,40.0,3.2,11293.97,361.7,11.29,11059,4.7,506.37,27.12,1862.71,-117.56
 2020-11-30,Montana,Roosevelt,27.13,3,0,0.0,1243,40.0,3.22,11239.71,361.7,11.24,11059,4.7,479.25,-54.25,1980.27,9.05
 2020-11-29,Montana,Roosevelt,0.0,0,0,0.0,1240,40.0,3.23,11212.59,361.7,11.21,11059,4.7,533.5,0.0,1971.22,-379.78
 2020-11-28,Montana,Roosevelt,117.55,13,2,18.08,1240,40.0,3.23,11212.59,361.7,11.21,11059,4.7,533.5,18.08,2351.0,-108.51

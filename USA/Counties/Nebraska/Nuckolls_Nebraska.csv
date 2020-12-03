@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Nebraska,Nuckolls,71.51,3,0,0.0,225,1.0,0.44,5363.53,23.84,5.36,4195,7.29,810.49,-23.84,2455.31,-23.84
+2020-12-01,Nebraska,Nuckolls,190.7,8,0,0.0,222,1.0,0.45,5292.01,23.84,5.29,4195,7.29,834.33,119.19,2479.15,95.35
 2020-11-30,Nebraska,Nuckolls,0.0,0,0,0.0,214,1.0,0.47,5101.31,23.84,5.1,4195,7.29,715.14,-23.84,2383.8,-71.51
 2020-11-29,Nebraska,Nuckolls,47.68,2,0,0.0,214,1.0,0.47,5101.31,23.84,5.1,4195,7.29,738.98,-23.83,2455.31,0.0
 2020-11-28,Nebraska,Nuckolls,143.03,6,0,0.0,212,1.0,0.47,5053.64,23.84,5.05,4195,7.29,762.81,119.19,2455.31,71.52

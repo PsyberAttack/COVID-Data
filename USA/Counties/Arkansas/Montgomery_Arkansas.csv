@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Arkansas,Montgomery,78.44,7,0,0.0,321,10.0,3.12,3597.04,112.06,3.6,8924,11.44,582.71,0.0,1411.94,33.62
+2020-12-01,Arkansas,Montgomery,44.82,4,0,0.0,314,10.0,3.18,3518.6,112.06,3.52,8924,11.44,582.71,-44.83,1378.32,11.2
 2020-11-30,Arkansas,Montgomery,156.88,14,0,0.0,310,10.0,3.23,3473.78,112.06,3.47,8924,11.44,627.54,56.03,1367.12,156.88
 2020-11-29,Arkansas,Montgomery,33.62,3,0,0.0,296,10.0,3.38,3316.9,112.06,3.32,8924,11.44,571.51,-22.41,1210.24,11.21
 2020-11-28,Arkansas,Montgomery,168.09,15,0,0.0,293,10.0,3.41,3283.28,112.06,3.28,8924,11.44,593.92,112.06,1199.03,168.09

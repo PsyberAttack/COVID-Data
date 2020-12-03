@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,New York,St. Lawrence,36.1,39,0,0.0,913,16.0,1.75,845.0,14.81,0.85,108047,40.33,175.85,19.44,435.92,30.55
+2020-12-01,New York,St. Lawrence,22.21,24,5,4.63,874,16.0,1.83,808.91,14.81,0.81,108047,40.33,156.41,-2.78,405.37,14.81
 2020-11-30,New York,St. Lawrence,25.91,28,1,0.93,850,11.0,1.29,786.69,10.18,0.79,108047,40.33,159.19,15.73,390.56,21.28
 2020-11-29,New York,St. Lawrence,15.73,17,0,0.0,822,10.0,1.22,760.78,9.26,0.76,108047,40.33,143.46,7.4,369.28,8.33
 2020-11-28,New York,St. Lawrence,19.44,21,1,0.93,805,10.0,1.24,745.05,9.26,0.75,108047,40.33,136.06,11.11,360.95,13.89

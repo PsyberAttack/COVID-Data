@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Minnesota,Crow Wing,77.05,50,3,4.62,3762,37.0,0.98,5797.59,57.02,5.8,64889,65.0,641.1,-84.76,3558.38,-6.17
+2020-12-01,Minnesota,Crow Wing,110.96,72,0,0.0,3712,34.0,0.92,5720.54,52.4,5.72,64889,65.0,725.86,-12.33,3564.55,6.17
 2020-11-30,Minnesota,Crow Wing,67.81,44,0,0.0,3640,34.0,0.93,5609.58,52.4,5.61,64889,65.0,738.19,-77.05,3558.38,-12.33
 2020-11-29,Minnesota,Crow Wing,95.55,62,3,4.62,3596,34.0,0.95,5541.77,52.4,5.54,64889,65.0,815.24,-44.69,3570.71,58.56
 2020-11-28,Minnesota,Crow Wing,134.08,87,0,0.0,3534,31.0,0.88,5446.22,47.77,5.45,64889,65.0,859.93,29.29,3512.15,61.65

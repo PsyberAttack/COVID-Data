@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,New Mexico,Bernalillo,0.0,0,6,0.88,27678,348.0,1.26,4078.08,51.27,4.08,678701,584.45,581.11,-84.28,2217.62,-39.05
+2020-12-01,New Mexico,Bernalillo,131.72,894,1,0.15,27678,342.0,1.24,4078.08,50.39,4.08,678701,584.45,665.39,52.45,2256.67,93.41
 2020-11-30,New Mexico,Bernalillo,86.93,590,6,0.88,26784,341.0,1.27,3946.36,50.24,3.95,678701,584.45,612.94,-21.95,2163.26,51.13
 2020-11-29,New Mexico,Bernalillo,51.13,347,3,0.44,26194,335.0,1.28,3859.43,49.36,3.86,678701,584.45,634.89,-53.04,2112.13,18.27
 2020-11-28,New Mexico,Bernalillo,105.05,713,8,1.18,25847,332.0,1.28,3808.3,48.92,3.81,678701,584.45,687.93,10.9,2093.86,77.79

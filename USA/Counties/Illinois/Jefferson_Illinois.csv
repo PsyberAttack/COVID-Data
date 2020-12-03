@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Illinois,Jefferson,132.21,50,3,7.93,1991,62.0,3.11,5264.41,163.93,5.26,37820,66.21,626.66,10.58,2482.81,89.9
+2020-12-01,Illinois,Jefferson,87.26,33,0,0.0,1941,59.0,3.04,5132.21,156.0,5.13,37820,66.21,616.08,26.45,2392.91,55.53
 2020-11-30,Illinois,Jefferson,79.32,30,0,0.0,1908,59.0,3.09,5044.95,156.0,5.04,37820,66.21,589.63,47.59,2337.38,60.81
 2020-11-29,Illinois,Jefferson,71.39,27,0,0.0,1878,59.0,3.14,4965.63,156.0,4.97,37820,66.21,542.04,-71.39,2276.57,-44.95
 2020-11-28,Illinois,Jefferson,52.88,20,0,0.0,1851,59.0,3.19,4894.24,156.0,4.89,37820,66.21,613.43,-23.8,2321.52,52.88

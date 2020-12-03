@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,West Virginia,Mingo,33.63,8,0,0.0,998,15.0,1.5,4195.92,63.06,4.2,23785,56.21,214.42,0.0,1269.69,0.0
+2020-12-01,West Virginia,Mingo,16.82,4,0,0.0,990,15.0,1.52,4162.29,63.06,4.16,23785,56.21,214.42,-37.84,1269.69,-63.06
 2020-11-30,West Virginia,Mingo,8.41,2,0,0.0,986,15.0,1.52,4145.47,63.06,4.15,23785,56.21,252.26,-37.84,1332.75,-54.65
 2020-11-29,West Virginia,Mingo,16.82,4,0,0.0,984,15.0,1.52,4137.06,63.06,4.14,23785,56.21,290.1,-42.04,1387.4,-8.41
 2020-11-28,West Virginia,Mingo,21.02,5,0,0.0,980,15.0,1.53,4120.24,63.06,4.12,23785,56.21,332.14,-29.43,1395.81,-46.25

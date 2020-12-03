@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Montana,Lincoln,15.16,3,0,0.0,770,9.0,1.17,3890.07,45.47,3.89,19794,5.48,338.49,-20.2,2142.06,0.0
+2020-12-01,Montana,Lincoln,60.62,12,0,0.0,767,9.0,1.17,3874.91,45.47,3.87,19794,5.48,358.69,-5.06,2142.06,25.26
 2020-11-30,Montana,Lincoln,65.68,13,0,0.0,755,9.0,1.19,3814.29,45.47,3.81,19794,5.48,363.75,-15.15,2116.8,30.32
 2020-11-29,Montana,Lincoln,75.78,15,0,0.0,742,9.0,1.21,3748.61,45.47,3.75,19794,5.48,378.9,40.42,2086.48,45.47
 2020-11-28,Montana,Lincoln,25.26,5,0,0.0,727,9.0,1.24,3672.83,45.47,3.67,19794,5.48,338.48,0.0,2041.01,5.05
