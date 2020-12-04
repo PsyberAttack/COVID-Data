@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-03,Colorado,Larimer,87.01,305,3,0.86,10932,79.0,0.72,3118.81,22.54,3.12,350518,135.03,395.69,9.98,1699.47,38.23
 2020-12-02,Colorado,Larimer,57.06,200,1,0.29,10627,76.0,0.72,3031.8,21.68,3.03,350518,135.03,385.71,-13.12,1661.24,31.95
 2020-12-01,Colorado,Larimer,49.64,174,0,0.0,10427,75.0,0.72,2974.74,21.4,2.97,350518,135.03,398.83,-19.69,1629.29,24.25
 2020-11-30,Colorado,Larimer,39.37,138,0,0.0,10253,75.0,0.73,2925.1,21.4,2.93,350518,135.03,418.52,0.86,1605.04,18.83

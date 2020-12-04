@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-02,Rio de Janeiro,Japeri,3.82,4,0,0.0,643,43,6.69,613.74,41.04,0.61,104768,19.09,2.87,80.16,1.91
+2020-12-01,Rio de Janeiro,Japeri,2.86,3,0,0.0,639,43,6.73,609.92,41.04,0.61,104768,16.22,2.86,78.25,0.0
+2020-11-30,Rio de Janeiro,Japeri,0.95,1,0,0.0,636,43,6.76,607.06,41.04,0.61,104768,13.36,-0.96,78.25,0.95
 2020-11-29,Rio de Janeiro,Japeri,0.0,0,0,0.0,635,43,6.77,606.1,41.04,0.61,104768,14.32,-0.95,77.3,0.0
 2020-11-28,Rio de Janeiro,Japeri,5.73,6,0,0.0,635,43,6.77,606.1,41.04,0.61,104768,15.27,-5.72,77.3,1.91
 2020-11-25,Rio de Janeiro,Japeri,5.73,6,0,0.0,629,43,6.84,600.37,41.04,0.6,104768,20.99,1.91,75.39,2.87

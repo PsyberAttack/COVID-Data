@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-03,New York,Greene,29.48,14,0,0.0,734,18.0,2.45,1545.56,37.9,1.55,47491,73.38,153.72,16.85,444.29,29.48
 2020-12-02,New York,Greene,21.06,10,1,2.11,720,18.0,2.5,1516.08,37.9,1.52,47491,73.38,136.87,2.11,414.81,10.53
 2020-12-01,New York,Greene,31.58,15,0,0.0,710,17.0,2.39,1495.02,35.8,1.5,47491,73.38,134.76,4.21,404.28,29.47
 2020-11-30,New York,Greene,14.74,7,0,0.0,695,17.0,2.45,1463.44,35.8,1.46,47491,73.38,130.55,0.0,374.81,12.63

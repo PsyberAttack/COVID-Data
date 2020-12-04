@@ -1,9 +1,10 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-02,Mecklenburg-Vorpommern,Schwerin,8.35,8,0,0.0,392,4,1.02,409.11,4.17,0.41,95818,30.27,4.18,140.87,-9.39
-2020-12-01,Mecklenburg-Vorpommern,Schwerin,5.22,5,0,0.0,384,4,1.04,400.76,4.17,0.4,95818,26.09,-1.04,150.26,-5.22
-2020-11-30,Mecklenburg-Vorpommern,Schwerin,4.17,4,0,0.0,379,4,1.06,395.54,4.17,0.4,95818,27.13,1.04,155.48,1.04
-2020-11-29,Mecklenburg-Vorpommern,Schwerin,1.04,1,0,0.0,375,4,1.07,391.37,4.17,0.39,95818,26.09,0.0,154.44,-4.18
-2020-11-28,Mecklenburg-Vorpommern,Schwerin,7.31,7,0,0.0,374,4,1.07,390.32,4.17,0.39,95818,26.09,2.09,158.62,-10.43
+2020-12-03,Mecklenburg-Vorpommern,Schwerin,12.52,12,0,0.0,411,4,0.97,428.94,4.17,0.43,95818,48.01,10.43,152.35,4.17
+2020-12-02,Mecklenburg-Vorpommern,Schwerin,8.35,8,0,0.0,399,4,1.0,416.41,4.17,0.42,95818,37.58,4.18,148.18,-9.39
+2020-12-01,Mecklenburg-Vorpommern,Schwerin,6.26,6,0,0.0,391,4,1.02,408.07,4.17,0.41,95818,33.4,0.0,157.57,-4.18
+2020-11-30,Mecklenburg-Vorpommern,Schwerin,8.35,8,0,0.0,385,4,1.04,401.8,4.17,0.4,95818,33.4,5.22,161.75,5.22
+2020-11-29,Mecklenburg-Vorpommern,Schwerin,2.09,2,0,0.0,377,4,1.06,393.45,4.17,0.39,95818,28.18,1.05,156.53,-3.13
+2020-11-28,Mecklenburg-Vorpommern,Schwerin,8.35,8,0,0.0,375,4,1.07,391.37,4.17,0.39,95818,27.13,3.13,159.66,-9.39
 2020-11-27,Mecklenburg-Vorpommern,Schwerin,2.09,2,0,0.0,367,4,1.09,383.02,4.17,0.38,95818,24.0,-3.13,169.05,-6.26
 2020-11-26,Mecklenburg-Vorpommern,Schwerin,2.09,2,0,0.0,365,4,1.1,380.93,4.17,0.38,95818,27.13,0.0,175.31,-2.08
 2020-11-25,Mecklenburg-Vorpommern,Schwerin,4.17,4,0,0.0,363,4,1.1,378.84,4.17,0.38,95818,27.13,0.0,177.39,-2.09
