@@ -1,4 +1,7 @@
 date,country,region,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-04,Honduras,Choluteca,0.0,0,0,0.0,2814,67,2.38,643.03,15.31,0.64,437618,7.54,0.0,25.36,-1.37
+2020-12-03,Honduras,Choluteca,2.06,9,0,0.0,2814,67,2.38,643.03,15.31,0.64,437618,7.54,2.06,26.73,-2.51
+2020-12-02,Honduras,Choluteca,2.74,12,0,0.0,2805,67,2.39,640.97,15.31,0.64,437618,5.48,1.37,29.24,2.74
 2020-12-01,Honduras,Choluteca,0.0,0,0,0.0,2793,67,2.4,638.23,15.31,0.64,437618,4.11,0.0,26.5,-2.97
 2020-11-30,Honduras,Choluteca,2.74,12,0,0.0,2793,67,2.4,638.23,15.31,0.64,437618,4.11,2.74,29.47,2.74
 2020-11-29,Honduras,Choluteca,0.0,0,0,0.0,2781,67,2.41,635.49,15.31,0.64,437618,1.37,-4.8,26.73,-0.46
