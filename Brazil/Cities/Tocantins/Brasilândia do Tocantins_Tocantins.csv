@@ -1,5 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-03,Tocantins,Brasilândia do Tocantins,45.43,1,0,0.0,56,1,1.79,2544.3,45.43,2.54,2201,90.86,0.0,181.72,45.43
+2020-12-04,Tocantins,Brasilândia do Tocantins,-45.43,-1,0,0.0,55,1,1.82,2498.86,45.43,2.5,2201,45.43,-45.43,90.86,-45.43
+2020-12-03,Tocantins,Brasilândia do Tocantins,45.43,1,0,0.0,56,1,1.79,2544.3,45.43,2.54,2201,90.86,0.0,136.29,0.0
 2020-12-02,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,55,1,1.82,2498.86,45.43,2.5,2201,90.86,0.0,136.29,0.0
 2020-12-01,Tocantins,Brasilândia do Tocantins,45.43,1,0,0.0,55,1,1.82,2498.86,45.43,2.5,2201,90.86,45.43,136.29,45.43
 2020-11-30,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,54,1,1.85,2453.43,45.43,2.45,2201,45.43,0.0,90.86,0.0
@@ -10,6 +11,7 @@ date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases
 2020-11-25,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,53,1,1.89,2408.0,45.43,2.41,2201,-0.0,0.0,45.43,0.0
 2020-11-24,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,53,1,1.89,2408.0,45.43,2.41,2201,-0.0,0.0,45.43,0.0
 2020-11-23,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,53,1,1.89,2408.0,45.43,2.41,2201,-0.0,0.0,45.43,0.0
+2020-11-22,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,53,1,1.89,2408.0,45.43,2.41,2201,-0.0,0.0,45.43,0.0
 2020-11-21,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,53,1,1.89,2408.0,45.43,2.41,2201,-0.0,0.0,45.43,0.0
 2020-11-20,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,53,1,1.89,2408.0,45.43,2.41,2201,-0.0,0.0,45.43,0.0
 2020-11-19,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,53,1,1.89,2408.0,45.43,2.41,2201,-0.0,0.0,45.43,0.0

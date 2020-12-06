@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-05,Texas,Ward,17.06,2,1,8.53,441,6.0,1.36,3762.8,51.19,3.76,11720,14.03,170.64,-68.26,2235.48,17.06
 2020-12-04,Texas,Ward,51.19,6,0,0.0,439,5.0,1.14,3745.73,42.66,3.75,11720,14.03,238.9,-213.32,2218.42,51.19
 2020-12-03,Texas,Ward,8.53,1,0,0.0,433,5.0,1.15,3694.54,42.66,3.69,11720,14.03,452.22,8.53,2167.23,-17.07
 2020-12-02,Texas,Ward,59.73,7,1,8.53,432,5.0,1.16,3686.01,42.66,3.69,11720,14.03,443.69,0.0,2184.3,51.2

@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-05,Piauí,Prata do Piauí,0.0,0,0,0.0,111,2,1.8,3522.69,63.47,3.52,3151,349.1,-158.68,2570.63,0.0
+2020-12-04,Piauí,Prata do Piauí,0.0,0,1,31.74,111,2,1.8,3522.69,63.47,3.52,3151,507.78,-31.74,2570.63,0.0
 2020-12-03,Piauí,Prata do Piauí,31.74,1,0,0.0,111,1,0.9,3522.69,31.74,3.52,3151,539.52,-63.47,2570.63,31.74
 2020-12-02,Piauí,Prata do Piauí,95.21,3,0,0.0,110,1,0.91,3490.96,31.74,3.49,3151,602.99,-317.36,2538.89,95.21
 2020-12-01,Piauí,Prata do Piauí,63.47,2,0,0.0,107,1,0.93,3395.75,31.74,3.4,3151,920.35,-349.1,2443.68,63.47
