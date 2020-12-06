@@ -1,5 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-05,Maharashtra,Osmanabad,0.0,0,0,0.0,16474,535,3.25,992.22,32.22,0.99,1660311,10.97,-1.33,51.35,-3.67
+2020-12-06,Maharashtra,Osmanabad,2.65,44,0,0.0,16535,536,3.24,995.9,32.28,1.0,1660311,11.81,-0.18,52.79,0.42
+2020-12-05,Maharashtra,Osmanabad,1.02,17,1,0.06,16491,536,3.25,993.25,32.28,0.99,1660311,11.99,-0.31,52.37,-2.65
 2020-12-04,Maharashtra,Osmanabad,1.39,23,8,0.48,16474,535,3.25,992.22,32.22,0.99,1660311,12.3,-3.01,55.02,-0.36
 2020-12-03,Maharashtra,Osmanabad,1.69,28,0,0.0,16451,527,3.2,990.84,31.74,0.99,1660311,15.31,0.73,55.38,-1.44
 2020-12-02,Maharashtra,Osmanabad,1.93,32,6,0.36,16423,527,3.21,989.15,31.74,0.99,1660311,14.58,-0.24,56.82,0.18

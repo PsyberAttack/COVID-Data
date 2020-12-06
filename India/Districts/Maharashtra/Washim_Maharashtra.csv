@@ -1,5 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-05,Maharashtra,Washim,0.0,0,0,0.0,6375,148,2.32,532.71,12.37,0.53,1196714,25.74,-0.42,46.04,-0.5
+2020-12-06,Maharashtra,Washim,1.0,12,1,0.08,6402,149,2.33,534.96,12.45,0.53,1196714,27.57,0.58,47.29,0.0
+2020-12-05,Maharashtra,Washim,1.25,15,0,0.0,6390,148,2.32,533.96,12.37,0.53,1196714,26.99,0.83,47.29,0.75
 2020-12-04,Maharashtra,Washim,1.09,13,0,0.0,6375,148,2.32,532.71,12.37,0.53,1196714,26.16,0.42,46.54,0.84
 2020-12-03,Maharashtra,Washim,1.5,18,0,0.0,6362,148,2.33,531.62,12.37,0.53,1196714,25.74,0.75,45.7,0.25
 2020-12-02,Maharashtra,Washim,3.09,37,0,0.0,6344,148,2.33,530.12,12.37,0.53,1196714,24.99,2.76,45.45,2.59
