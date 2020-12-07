@@ -1,5 +1,6 @@
 date,country,region,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-05,Ecuador,Santo Domingo de los Tsachilas,0.0,0,0,0.0,133,1,0.75,29.0,0.22,0.03,458580,25.29,-0.22,28.56,0.0
+2020-12-06,Ecuador,Santo Domingo de los Tsachilas,0.0,0,0,0.0,1,1,100.0,0.22,0.22,0.0,458580,-5.67,-2.18,-0.22,0.0
+2020-12-05,Ecuador,Santo Domingo de los Tsachilas,-28.78,-132,0,0.0,1,1,100.0,0.22,0.22,0.0,458580,-3.49,-29.0,-0.22,-28.78
 2020-12-04,Ecuador,Santo Domingo de los Tsachilas,0.0,0,0,0.0,133,1,0.75,29.0,0.22,0.03,458580,25.51,16.35,28.56,0.0
 2020-12-03,Ecuador,Santo Domingo de los Tsachilas,20.93,96,0,0.0,133,1,0.75,29.0,0.22,0.03,458580,9.16,6.1,28.56,20.93
 2020-12-02,Ecuador,Santo Domingo de los Tsachilas,-2.4,-11,0,0.0,37,1,2.7,8.07,0.22,0.01,458580,3.06,-2.4,7.63,-2.4
