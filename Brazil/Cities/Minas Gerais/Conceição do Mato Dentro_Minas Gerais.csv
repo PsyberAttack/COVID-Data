@@ -1,6 +1,13 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-01,Minas Gerais,Conceição do Mato Dentro,0.0,0,0,0.0,798,2,0.25,4472.59,11.21,4.47,17842,100.88,0.0,381.1,0.0
-2020-11-30,Minas Gerais,Conceição do Mato Dentro,22.42,4,0,0.0,798,2,0.25,4472.59,11.21,4.47,17842,100.88,16.82,381.1,16.82
+2020-12-06,Minas Gerais,Conceição do Mato Dentro,11.21,2,0,0.0,807,2,0.25,4523.04,11.21,4.52,17842,56.04,-5.6,358.67,-22.42
+2020-12-05,Minas Gerais,Conceição do Mato Dentro,0.0,0,0,0.0,805,2,0.25,4511.83,11.21,4.51,17842,61.64,0.0,381.09,0.0
+2020-12-04,Minas Gerais,Conceição do Mato Dentro,11.21,2,0,0.0,805,2,0.25,4511.83,11.21,4.51,17842,61.64,0.0,381.09,0.0
+2020-12-03,Minas Gerais,Conceição do Mato Dentro,5.6,1,0,0.0,803,2,0.25,4500.62,11.21,4.5,17842,61.64,-5.61,381.09,5.6
+2020-12-02,Minas Gerais,Conceição do Mato Dentro,22.42,4,0,0.0,802,2,0.25,4495.01,11.21,4.5,17842,67.25,-28.02,375.49,-5.6
+2020-12-01,Minas Gerais,Conceição do Mato Dentro,0.0,0,0,0.0,798,2,0.25,4472.59,11.21,4.47,17842,95.27,0.0,381.09,0.0
+2020-11-30,Minas Gerais,Conceição do Mato Dentro,5.6,1,0,0.0,798,2,0.25,4472.59,11.21,4.47,17842,95.27,0.0,381.09,5.6
+2020-11-29,Minas Gerais,Conceição do Mato Dentro,16.81,3,0,0.0,797,2,0.25,4466.99,11.21,4.47,17842,95.27,16.81,375.49,16.81
+2020-11-28,Minas Gerais,Conceição do Mato Dentro,0.0,0,0,0.0,794,2,0.25,4450.17,11.21,4.45,17842,78.46,-5.6,358.68,-5.6
 2020-11-27,Minas Gerais,Conceição do Mato Dentro,11.21,2,0,0.0,794,2,0.25,4450.17,11.21,4.45,17842,84.06,0.0,364.28,-11.21
 2020-11-26,Minas Gerais,Conceição do Mato Dentro,11.21,2,0,0.0,792,2,0.25,4438.96,11.21,4.44,17842,84.06,-28.02,375.49,11.21
 2020-11-25,Minas Gerais,Conceição do Mato Dentro,50.44,9,0,0.0,790,2,0.25,4427.75,11.21,4.43,17842,112.08,50.44,364.28,39.23

@@ -1,6 +1,13 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-01,Minas Gerais,Monte Santo de Minas,0.0,0,0,0.0,180,7,3.89,836.28,32.52,0.84,21524,32.53,0.0,195.13,-9.29
-2020-11-30,Minas Gerais,Monte Santo de Minas,23.23,5,0,0.0,180,7,3.89,836.28,32.52,0.84,21524,32.53,13.94,204.42,23.23
+2020-12-06,Minas Gerais,Monte Santo de Minas,-13.94,-3,0,0.0,185,7,3.78,859.51,32.52,0.86,21524,23.23,-37.17,153.32,-37.17
+2020-12-05,Minas Gerais,Monte Santo de Minas,13.94,3,0,0.0,188,7,3.72,873.44,32.52,0.87,21524,60.4,13.94,190.49,4.65
+2020-12-04,Minas Gerais,Monte Santo de Minas,23.23,5,0,0.0,185,7,3.78,859.51,32.52,0.86,21524,46.46,18.58,185.84,0.0
+2020-12-03,Minas Gerais,Monte Santo de Minas,0.0,0,0,0.0,180,7,3.89,836.28,32.52,0.84,21524,27.88,0.0,185.84,-9.29
+2020-12-02,Minas Gerais,Monte Santo de Minas,0.0,0,0,0.0,180,7,3.89,836.28,32.52,0.84,21524,27.88,0.0,195.13,0.0
+2020-12-01,Minas Gerais,Monte Santo de Minas,0.0,0,0,0.0,180,7,3.89,836.28,32.52,0.84,21524,27.88,0.0,195.13,0.0
+2020-11-30,Minas Gerais,Monte Santo de Minas,0.0,0,0,0.0,180,7,3.89,836.28,32.52,0.84,21524,27.88,-4.65,195.13,0.0
+2020-11-29,Minas Gerais,Monte Santo de Minas,23.23,5,0,0.0,180,7,3.89,836.28,32.52,0.84,21524,32.53,23.23,195.13,13.94
+2020-11-28,Minas Gerais,Monte Santo de Minas,0.0,0,0,0.0,175,7,4.0,813.05,32.52,0.81,21524,9.3,-9.29,181.19,0.0
 2020-11-27,Minas Gerais,Monte Santo de Minas,4.65,1,0,0.0,175,7,4.0,813.05,32.52,0.81,21524,18.59,4.65,181.19,-4.64
 2020-11-26,Minas Gerais,Monte Santo de Minas,0.0,0,0,0.0,174,7,4.02,808.4,32.52,0.81,21524,13.94,-4.65,185.83,0.0
 2020-11-25,Minas Gerais,Monte Santo de Minas,0.0,0,0,0.0,174,7,4.02,808.4,32.52,0.81,21524,18.59,0.0,185.83,-4.65

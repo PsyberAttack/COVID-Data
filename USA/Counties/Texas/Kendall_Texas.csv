@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-06,Texas,Kendall,0.0,0,0,0.0,599,17.0,2.84,1312.42,37.25,1.31,45641,68.9,184.04,0.0,438.18,0.0
 2020-12-05,Texas,Kendall,-4.38,-2,0,0.0,599,17.0,2.84,1312.42,37.25,1.31,45641,68.9,184.04,-4.38,438.18,-10.95
 2020-12-04,Texas,Kendall,17.53,8,2,4.38,601,17.0,2.83,1316.8,37.25,1.32,45641,68.9,188.42,17.53,449.13,15.34
 2020-12-03,Texas,Kendall,-10.96,-5,0,0.0,593,15.0,2.53,1299.27,32.87,1.3,45641,68.9,170.89,-10.96,433.79,-17.53

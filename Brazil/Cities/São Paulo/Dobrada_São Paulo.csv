@@ -1,5 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-05,São Paulo,Dobrada,11.2,1,0,0.0,182,2,1.1,2038.3,22.4,2.04,8929,22.4,0.0,447.99,11.2
+2020-12-05,São Paulo,Dobrada,11.2,1,0,0.0,182,2,1.1,2038.3,22.4,2.04,8929,22.4,11.2,447.99,11.2
+2020-12-04,São Paulo,Dobrada,0.0,0,0,0.0,181,2,1.1,2027.1,22.4,2.03,8929,11.2,-11.2,436.79,0.0
 2020-12-03,São Paulo,Dobrada,-11.2,-1,0,0.0,181,2,1.1,2027.1,22.4,2.03,8929,22.4,-11.2,436.79,-33.6
 2020-12-02,São Paulo,Dobrada,0.0,0,0,0.0,182,2,1.1,2038.3,22.4,2.04,8929,33.6,0.0,470.39,-44.8
 2020-12-01,São Paulo,Dobrada,11.2,1,0,0.0,182,2,1.1,2038.3,22.4,2.04,8929,33.6,-44.8,515.19,0.0

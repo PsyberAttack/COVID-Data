@@ -1,5 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-05,São Paulo,Presidente Bernardes,30.52,4,0,0.0,416,12,2.88,3174.12,91.56,3.17,13106,68.67,15.26,198.38,22.89
+2020-12-05,São Paulo,Presidente Bernardes,30.52,4,0,0.0,416,12,2.88,3174.12,91.56,3.17,13106,61.04,22.89,198.38,30.52
+2020-12-04,São Paulo,Presidente Bernardes,0.0,0,0,0.0,412,12,2.91,3143.6,91.56,3.14,13106,38.15,-15.26,167.86,-7.63
 2020-12-03,São Paulo,Presidente Bernardes,7.63,1,0,0.0,412,12,2.91,3143.6,91.56,3.14,13106,53.41,0.0,175.49,-38.15
 2020-12-02,São Paulo,Presidente Bernardes,22.89,3,0,0.0,411,12,2.92,3135.97,91.56,3.14,13106,53.41,22.89,213.64,15.26
 2020-12-01,São Paulo,Presidente Bernardes,0.0,0,0,0.0,408,12,2.94,3113.08,91.56,3.11,13106,30.52,-7.63,198.38,-114.45

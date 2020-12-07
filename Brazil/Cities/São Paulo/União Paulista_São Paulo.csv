@@ -1,5 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-05,São Paulo,União Paulista,54.23,1,0,0.0,75,2,2.67,4067.25,108.46,4.07,1844,325.38,-54.23,542.3,54.23
+2020-12-05,São Paulo,União Paulista,0.0,0,0,0.0,75,2,2.67,4067.25,108.46,4.07,1844,325.38,0.0,542.3,0.0
+2020-12-04,São Paulo,União Paulista,54.23,1,0,0.0,75,2,2.67,4067.25,108.46,4.07,1844,325.38,-54.23,542.3,54.23
 2020-12-03,São Paulo,União Paulista,54.23,1,0,0.0,74,2,2.7,4013.02,108.46,4.01,1844,379.61,0.0,488.07,54.23
 2020-12-02,São Paulo,União Paulista,-54.23,-1,0,0.0,73,2,2.74,3958.79,108.46,3.96,1844,379.61,-108.46,433.84,-54.23
 2020-12-01,São Paulo,União Paulista,271.15,5,0,0.0,74,2,2.7,4013.02,108.46,4.01,1844,488.07,271.15,488.07,271.15

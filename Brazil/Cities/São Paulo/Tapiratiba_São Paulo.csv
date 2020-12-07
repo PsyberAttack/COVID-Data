@@ -1,5 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-05,São Paulo,Tapiratiba,7.72,1,1,7.72,227,2,0.88,1751.54,15.43,1.75,12960,54.02,7.72,208.34,7.72
+2020-12-05,São Paulo,Tapiratiba,0.0,0,1,7.72,227,2,0.88,1751.54,15.43,1.75,12960,54.02,0.0,208.34,0.0
+2020-12-04,São Paulo,Tapiratiba,7.72,1,0,0.0,227,1,0.44,1751.54,7.72,1.75,12960,54.02,7.72,208.34,7.72
 2020-12-03,São Paulo,Tapiratiba,15.43,2,0,0.0,226,1,0.44,1743.83,7.72,1.74,12960,46.3,15.43,200.62,0.0
 2020-12-02,São Paulo,Tapiratiba,7.72,1,0,0.0,224,1,0.45,1728.4,7.72,1.73,12960,30.87,7.72,200.62,7.72
 2020-12-01,São Paulo,Tapiratiba,15.43,2,0,0.0,223,1,0.45,1720.68,7.72,1.72,12960,23.15,-7.72,192.9,15.43

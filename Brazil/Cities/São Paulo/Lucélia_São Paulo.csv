@@ -1,5 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-05,São Paulo,Lucélia,0.0,0,0,0.0,116,7,6.03,533.41,32.19,0.53,21747,13.8,-4.6,50.6,0.0
+2020-12-05,São Paulo,Lucélia,0.0,0,0,0.0,116,7,6.03,533.41,32.19,0.53,21747,13.8,0.0,50.6,0.0
+2020-12-04,São Paulo,Lucélia,0.0,0,0,0.0,116,7,6.03,533.41,32.19,0.53,21747,13.8,-4.6,50.6,0.0
 2020-12-03,São Paulo,Lucélia,4.6,1,0,0.0,116,7,6.03,533.41,32.19,0.53,21747,18.4,4.6,50.6,4.6
 2020-12-02,São Paulo,Lucélia,4.6,1,0,0.0,115,7,6.09,528.81,32.19,0.53,21747,13.8,4.6,46.0,4.6
 2020-12-01,São Paulo,Lucélia,4.6,1,0,0.0,114,7,6.14,524.21,32.19,0.52,21747,9.2,4.6,41.4,4.6

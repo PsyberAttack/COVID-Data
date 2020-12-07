@@ -1,5 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-05,São Paulo,Silveiras,15.87,1,0,0.0,52,1,1.92,825.13,15.87,0.83,6302,79.35,15.87,190.43,15.87
+2020-12-05,São Paulo,Silveiras,0.0,0,0,0.0,52,1,1.92,825.13,15.87,0.83,6302,47.61,-31.74,190.43,0.0
+2020-12-04,São Paulo,Silveiras,15.87,1,0,0.0,52,1,1.92,825.13,15.87,0.83,6302,79.35,15.87,190.43,15.87
 2020-12-03,São Paulo,Silveiras,15.87,1,0,0.0,51,1,1.96,809.27,15.87,0.81,6302,63.48,0.0,174.56,15.87
 2020-12-02,São Paulo,Silveiras,0.0,0,0,0.0,50,1,2.0,793.4,15.87,0.79,6302,63.48,-31.74,158.69,0.0
 2020-12-01,São Paulo,Silveiras,15.87,1,0,0.0,50,1,2.0,793.4,15.87,0.79,6302,95.22,-31.73,158.69,15.87

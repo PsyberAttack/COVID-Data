@@ -1,6 +1,13 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-01,Minas Gerais,São Domingos do Prata,0.0,0,0,0.0,107,4,3.74,616.39,23.04,0.62,17359,109.44,0.0,259.2,0.0
-2020-11-30,Minas Gerais,São Domingos do Prata,23.04,4,0,0.0,107,4,3.74,616.39,23.04,0.62,17359,109.44,23.04,259.2,17.28
+2020-12-06,Minas Gerais,São Domingos do Prata,5.76,1,0,0.0,120,4,3.33,691.28,23.04,0.69,17359,80.64,5.76,293.76,-23.04
+2020-12-05,Minas Gerais,São Domingos do Prata,17.28,3,0,0.0,119,4,3.36,685.52,23.04,0.69,17359,74.88,0.0,316.8,17.28
+2020-12-04,Minas Gerais,São Domingos do Prata,0.0,0,0,0.0,116,4,3.45,668.24,23.04,0.67,17359,74.88,-5.76,299.52,-5.76
+2020-12-03,Minas Gerais,São Domingos do Prata,17.28,3,0,0.0,116,4,3.45,668.24,23.04,0.67,17359,80.64,0.0,305.28,17.28
+2020-12-02,Minas Gerais,São Domingos do Prata,34.56,6,0,0.0,113,4,3.54,650.96,23.04,0.65,17359,80.64,11.52,288.0,28.8
+2020-12-01,Minas Gerais,São Domingos do Prata,0.0,0,0,0.0,107,4,3.74,616.39,23.04,0.62,17359,69.12,-40.32,259.2,0.0
+2020-11-30,Minas Gerais,São Domingos do Prata,5.76,1,0,0.0,107,4,3.74,616.39,23.04,0.62,17359,109.44,5.76,259.2,5.76
+2020-11-29,Minas Gerais,São Domingos do Prata,0.0,0,0,0.0,106,4,3.77,610.63,23.04,0.61,17359,103.68,0.0,253.44,0.0
+2020-11-28,Minas Gerais,São Domingos do Prata,17.28,3,0,0.0,106,4,3.77,610.63,23.04,0.61,17359,103.68,17.28,253.44,11.52
 2020-11-27,Minas Gerais,São Domingos do Prata,5.76,1,0,0.0,103,4,3.88,593.35,23.04,0.59,17359,86.4,-11.52,241.92,0.0
 2020-11-26,Minas Gerais,São Domingos do Prata,17.28,3,0,0.0,102,4,3.92,587.59,23.04,0.59,17359,97.92,11.52,241.92,17.28
 2020-11-25,Minas Gerais,São Domingos do Prata,23.04,4,0,0.0,99,4,4.04,570.31,23.04,0.57,17359,86.4,23.04,224.64,5.76

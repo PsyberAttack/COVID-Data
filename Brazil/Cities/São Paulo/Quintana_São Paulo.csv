@@ -1,5 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-05,São Paulo,Quintana,0.0,0,0,0.0,80,1,1.25,1205.18,15.06,1.21,6638,60.25,0.0,225.95,0.0
+2020-12-05,São Paulo,Quintana,0.0,0,0,0.0,80,1,1.25,1205.18,15.06,1.21,6638,45.19,-15.06,225.95,0.0
+2020-12-04,São Paulo,Quintana,0.0,0,0,0.0,80,1,1.25,1205.18,15.06,1.21,6638,60.25,0.0,225.95,0.0
 2020-12-03,São Paulo,Quintana,0.0,0,0,0.0,80,1,1.25,1205.18,15.06,1.21,6638,60.25,0.0,225.95,0.0
 2020-12-02,São Paulo,Quintana,15.06,1,0,0.0,80,1,1.25,1205.18,15.06,1.21,6638,60.25,15.06,225.95,15.06
 2020-12-01,São Paulo,Quintana,0.0,0,0,0.0,79,1,1.27,1190.12,15.06,1.19,6638,45.19,0.0,210.89,-15.06

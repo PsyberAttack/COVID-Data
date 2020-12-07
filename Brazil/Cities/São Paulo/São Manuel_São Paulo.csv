@@ -1,5 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-05,São Paulo,São Manuel,0.0,0,0,0.0,411,11,2.68,1003.56,26.86,1.0,40954,4.88,-2.44,70.81,0.0
+2020-12-05,São Paulo,São Manuel,0.0,0,0,0.0,411,11,2.68,1003.56,26.86,1.0,40954,4.88,0.0,70.81,0.0
+2020-12-04,São Paulo,São Manuel,0.0,0,0,0.0,411,11,2.68,1003.56,26.86,1.0,40954,4.88,-2.44,70.81,0.0
 2020-12-03,São Paulo,São Manuel,0.0,0,0,0.0,411,11,2.68,1003.56,26.86,1.0,40954,7.32,-7.33,70.81,0.0
 2020-12-02,São Paulo,São Manuel,4.88,2,0,0.0,411,11,2.68,1003.56,26.86,1.0,40954,14.65,-2.45,70.81,2.44
 2020-12-01,São Paulo,São Manuel,0.0,0,0,0.0,409,11,2.69,998.68,26.86,1.0,40954,17.1,0.0,68.37,-2.44
