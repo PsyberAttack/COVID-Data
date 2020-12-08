@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-07,Minnesota,Traverse,30.23,1,0,0.0,167,2.0,1.2,5048.37,60.46,5.05,3308,5.76,544.14,0.0,2630.01,30.23
 2020-12-06,Minnesota,Traverse,151.15,5,0,0.0,166,2.0,1.2,5018.14,60.46,5.02,3308,5.76,544.14,90.69,2599.78,-30.23
 2020-12-05,Minnesota,Traverse,60.46,2,0,0.0,161,2.0,1.24,4866.99,60.46,4.87,3308,5.76,453.45,-151.15,2630.01,-30.23
 2020-12-04,Minnesota,Traverse,181.38,6,1,30.23,159,2.0,1.26,4806.53,60.46,4.81,3308,5.76,604.6,90.69,2660.24,90.69

@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-07,São Paulo,Vinhedo,0.0,0,0,0.0,2445,43,1.76,3105.63,54.62,3.11,78728,152.42,0.0,556.33,-3.81
+2020-12-06,São Paulo,Vinhedo,1.27,1,0,0.0,2445,43,1.76,3105.63,54.62,3.11,78728,152.42,1.27,560.14,1.27
 2020-12-05,São Paulo,Vinhedo,26.67,21,1,1.27,2444,43,1.76,3104.36,54.62,3.1,78728,151.15,19.05,558.87,25.4
 2020-12-04,São Paulo,Vinhedo,20.32,16,0,0.0,2423,42,1.73,3077.69,53.35,3.08,78728,132.1,-6.35,533.47,17.78
 2020-12-03,São Paulo,Vinhedo,19.05,15,0,0.0,2407,42,1.74,3057.36,53.35,3.06,78728,138.45,5.08,515.69,3.81
