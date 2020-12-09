@@ -1,4 +1,6 @@
 date,country,region,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-08,Mexico,Campeche,1.0,9,3,0.33,7090,944,13.31,787.84,104.9,0.79,899931,9.99,-0.11,34.99,0.22
+2020-12-07,Mexico,Campeche,0.89,8,3,0.33,7081,941,13.29,786.84,104.56,0.79,899931,10.1,-0.89,34.77,0.78
 2020-12-06,Mexico,Campeche,2.11,19,3,0.33,7073,938,13.26,785.95,104.23,0.79,899931,10.99,0.33,33.99,0.44
 2020-12-05,Mexico,Campeche,1.44,13,3,0.33,7054,935,13.25,783.84,103.9,0.78,899931,10.66,0.55,33.55,0.66
 2020-12-04,Mexico,Campeche,1.89,17,0,0.0,7041,932,13.24,782.39,103.56,0.78,899931,10.11,0.67,32.89,-0.22
