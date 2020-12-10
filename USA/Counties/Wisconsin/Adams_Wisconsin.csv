@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-09,Wisconsin,Adams,34.4,7,0,0.0,1237,10.0,0.81,6079.22,49.14,6.08,20348,31.52,457.06,4.91,2064.1,-4.92
 2020-12-08,Wisconsin,Adams,78.63,16,-1,-4.91,1230,10.0,0.81,6044.82,49.14,6.04,20348,31.52,452.15,-39.32,2069.02,-19.66
 2020-12-07,Wisconsin,Adams,29.49,6,0,0.0,1214,11.0,0.91,5966.19,54.06,5.97,20348,31.52,491.47,-4.91,2088.68,-29.48
 2020-12-06,Wisconsin,Adams,39.32,8,1,4.91,1208,11.0,0.91,5936.7,54.06,5.94,20348,31.52,496.38,19.66,2118.16,-49.14
