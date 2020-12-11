@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-06,Mato Grosso do Sul,Cassilândia,13.67,3,0,0.0,1009,30,2.97,4599.12,136.74,4.6,21939,68.37,9.11,259.83,0.0
-2020-12-03,Mato Grosso do Sul,Cassilândia,31.91,7,0,0.0,1006,30,2.98,4585.44,136.74,4.59,21939,59.26,0.0,259.83,22.79
+2020-12-06,Mato Grosso do Sul,Cassilândia,0.0,0,0,0.0,1009,30,2.97,4599.12,136.74,4.6,21939,50.13,0.0,255.26,0.0
+2020-12-04,Mato Grosso do Sul,Cassilândia,13.67,3,0,0.0,1009,30,2.97,4599.12,136.74,4.6,21939,50.13,-4.56,255.26,9.11
+2020-12-03,Mato Grosso do Sul,Cassilândia,-4.56,-1,0,0.0,1006,30,2.98,4585.44,136.74,4.59,21939,54.69,-9.12,246.15,-18.23
+2020-12-02,Mato Grosso do Sul,Cassilândia,36.46,8,0,0.0,1007,30,2.98,4590.0,136.74,4.59,21939,63.81,4.55,264.38,27.34
 2020-12-01,Mato Grosso do Sul,Cassilândia,0.0,0,0,0.0,999,30,3.0,4553.53,136.74,4.55,21939,59.26,-13.67,237.04,-4.56
 2020-11-30,Mato Grosso do Sul,Cassilândia,4.56,1,0,0.0,999,30,3.0,4553.53,136.74,4.55,21939,72.93,-22.79,241.6,0.0
 2020-11-29,Mato Grosso do Sul,Cassilândia,0.0,0,0,0.0,998,30,3.01,4548.98,136.74,4.55,21939,95.72,-4.56,241.6,0.0

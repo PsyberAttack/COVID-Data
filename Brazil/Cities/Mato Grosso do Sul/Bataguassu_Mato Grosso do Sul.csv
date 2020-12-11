@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-06,Mato Grosso do Sul,Bataguassu,56.46,13,0,0.0,1090,7,0.64,4734.19,30.4,4.73,23024,434.32,17.37,755.72,52.12
-2020-12-03,Mato Grosso do Sul,Bataguassu,112.93,26,0,0.0,1077,7,0.65,4677.73,30.4,4.68,23024,416.95,82.53,703.6,95.56
+2020-12-06,Mato Grosso do Sul,Bataguassu,0.0,0,0,0.0,1090,7,0.64,4734.19,30.4,4.73,23024,243.22,-43.43,712.29,-30.4
+2020-12-04,Mato Grosso do Sul,Bataguassu,56.46,13,0,0.0,1090,7,0.64,4734.19,30.4,4.73,23024,286.65,-91.21,742.69,43.43
+2020-12-03,Mato Grosso do Sul,Bataguassu,39.09,9,0,0.0,1077,7,0.65,4677.73,30.4,4.68,23024,377.86,0.0,699.26,34.75
+2020-12-02,Mato Grosso do Sul,Bataguassu,73.84,17,0,0.0,1068,7,0.66,4638.64,30.4,4.64,23024,377.86,43.44,664.51,56.47
 2020-12-01,Mato Grosso do Sul,Bataguassu,4.34,1,0,0.0,1051,7,0.67,4564.8,30.4,4.56,23024,334.42,-99.9,608.04,4.34
 2020-11-30,Mato Grosso do Sul,Bataguassu,69.49,16,0,0.0,1050,7,0.67,4560.46,30.4,4.56,23024,434.32,30.4,603.7,69.49
 2020-11-29,Mato Grosso do Sul,Bataguassu,0.0,0,0,0.0,1034,7,0.68,4490.97,30.4,4.49,23024,403.92,0.0,534.21,-4.34

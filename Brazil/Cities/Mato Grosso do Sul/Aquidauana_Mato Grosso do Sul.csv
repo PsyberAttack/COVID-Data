@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-06,Mato Grosso do Sul,Aquidauana,18.8,9,2,4.18,2280,68,2.98,4762.8,142.05,4.76,47871,154.57,14.62,369.72,2.09
-2020-12-03,Mato Grosso do Sul,Aquidauana,54.31,26,0,0.0,2271,66,2.91,4744.0,137.87,4.74,47871,139.95,35.51,367.63,52.22
+2020-12-06,Mato Grosso do Sul,Aquidauana,16.71,8,1,2.09,2280,68,2.98,4762.8,142.05,4.76,47871,123.25,-2.09,357.19,12.53
+2020-12-04,Mato Grosso do Sul,Aquidauana,2.09,1,1,2.09,2272,67,2.95,4746.09,139.96,4.75,47871,125.34,-10.44,344.66,-6.27
+2020-12-03,Mato Grosso do Sul,Aquidauana,25.07,12,0,0.0,2271,66,2.91,4744.0,137.87,4.74,47871,135.78,20.89,350.93,8.36
+2020-12-02,Mato Grosso do Sul,Aquidauana,29.25,14,0,0.0,2259,66,2.92,4718.93,137.87,4.72,47871,114.89,10.45,342.57,27.16
 2020-12-01,Mato Grosso do Sul,Aquidauana,10.44,5,0,0.0,2245,66,2.94,4689.69,137.87,4.69,47871,104.44,-8.36,315.41,8.35
 2020-11-30,Mato Grosso do Sul,Aquidauana,31.33,15,2,4.18,2240,66,2.95,4679.24,137.87,4.68,47871,112.8,14.62,307.06,18.8
 2020-11-29,Mato Grosso do Sul,Aquidauana,8.36,4,0,0.0,2225,64,2.88,4647.91,133.69,4.65,47871,98.18,-4.17,288.26,2.09

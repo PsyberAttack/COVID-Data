@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-06,Mato Grosso do Sul,Glória de Dourados,60.21,6,0,0.0,179,2,1.12,1796.29,20.07,1.8,9965,160.58,50.17,230.85,60.21
-2020-12-03,Mato Grosso do Sul,Glória de Dourados,50.18,5,0,0.0,173,2,1.16,1736.08,20.07,1.74,9965,110.41,50.18,170.64,40.14
+2020-12-06,Mato Grosso do Sul,Glória de Dourados,0.0,0,0,0.0,179,2,1.12,1796.29,20.07,1.8,9965,160.58,0.0,230.85,0.0
+2020-12-04,Mato Grosso do Sul,Glória de Dourados,60.21,6,0,0.0,179,2,1.12,1796.29,20.07,1.8,9965,160.58,60.21,230.85,60.21
+2020-12-03,Mato Grosso do Sul,Glória de Dourados,20.07,2,0,0.0,173,2,1.16,1736.08,20.07,1.74,9965,100.37,10.03,170.64,20.07
+2020-12-02,Mato Grosso do Sul,Glória de Dourados,30.11,3,0,0.0,171,2,1.17,1716.01,20.07,1.72,9965,90.34,30.11,150.57,20.07
 2020-12-01,Mato Grosso do Sul,Glória de Dourados,30.11,3,0,0.0,168,2,1.19,1685.9,20.07,1.69,9965,60.23,20.07,130.5,10.04
 2020-11-30,Mato Grosso do Sul,Glória de Dourados,10.04,1,0,0.0,165,2,1.21,1655.8,20.07,1.66,9965,40.16,0.0,120.46,10.04
 2020-11-29,Mato Grosso do Sul,Glória de Dourados,10.04,1,0,0.0,164,2,1.22,1645.76,20.07,1.65,9965,40.16,10.04,110.42,10.04
