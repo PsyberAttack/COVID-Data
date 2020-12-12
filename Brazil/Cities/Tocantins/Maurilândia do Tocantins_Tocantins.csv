@@ -1,4 +1,5 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-10,Tocantins,Maurilândia do Tocantins,0.0,0,0,0.0,108,1,0.93,3152.36,29.19,3.15,3426,58.38,0.0,992.42,0.0
 2020-12-09,Tocantins,Maurilândia do Tocantins,0.0,0,0,0.0,108,1,0.93,3152.36,29.19,3.15,3426,58.38,0.0,992.42,-29.19
 2020-12-08,Tocantins,Maurilândia do Tocantins,58.38,2,0,0.0,108,1,0.93,3152.36,29.19,3.15,3426,58.38,-204.32,1021.61,58.38
 2020-12-07,Tocantins,Maurilândia do Tocantins,0.0,0,0,0.0,106,1,0.94,3093.99,29.19,3.09,3426,262.7,-29.19,963.23,-554.58
@@ -157,12 +158,12 @@ date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases
 2020-06-20,Tocantins,Maurilândia do Tocantins,0.0,0,0,0.0,22,1,4.55,642.15,29.19,0.64,3426,58.38,-58.38,350.28,0.0
 2020-06-18,Tocantins,Maurilândia do Tocantins,0.0,0,0,0.0,22,1,4.55,642.15,29.19,0.64,3426,116.76,0.0,350.28,0.0
 2020-06-17,Tocantins,Maurilândia do Tocantins,0.0,0,0,0.0,22,1,4.55,642.15,29.19,0.64,3426,116.76,0.0,350.28,0.0
-2020-06-16,Tocantins,Maurilândia do Tocantins,29.19,1,0,0.0,22,1,4.55,642.15,29.19,0.64,3426,116.76,0.0,350.28,-145.94
-2020-06-15,Tocantins,Maurilândia do Tocantins,0.0,0,0,0.0,21,1,4.76,612.96,29.19,0.61,3426,116.76,0.0,496.22,0.0
+2020-06-16,Tocantins,Maurilândia do Tocantins,29.19,1,0,0.0,22,1,4.55,642.15,29.19,0.64,3426,116.76,0.0,350.28,29.19
+2020-06-15,Tocantins,Maurilândia do Tocantins,0.0,0,0,0.0,21,1,4.76,612.96,29.19,0.61,3426,116.76,0.0,321.09,-175.13
 2020-06-14,Tocantins,Maurilândia do Tocantins,0.0,0,0,0.0,21,1,4.76,612.96,29.19,0.61,3426,116.76,-58.38,496.22,0.0
 2020-06-11,Tocantins,Maurilândia do Tocantins,29.19,1,1,29.19,21,1,4.76,612.96,29.19,0.61,3426,175.14,0.0,496.22,29.19
-2020-06-10,Tocantins,Maurilândia do Tocantins,58.38,2,0,0.0,20,0,0.0,583.77,0.0,0.58,3426,175.14,58.38,467.03,0.0
-2020-06-09,Tocantins,Maurilândia do Tocantins,0.0,0,0,0.0,18,0,0.0,525.39,0.0,0.53,3426,116.76,0.0,467.03,0.0
+2020-06-10,Tocantins,Maurilândia do Tocantins,58.38,2,0,0.0,20,0,0.0,583.77,0.0,0.58,3426,175.14,58.38,467.03,58.38
+2020-06-09,Tocantins,Maurilândia do Tocantins,0.0,0,0,0.0,18,0,0.0,525.39,0.0,0.53,3426,116.76,0.0,408.65,-58.38
 2020-06-08,Tocantins,Maurilândia do Tocantins,0.0,0,0,0.0,18,0,0.0,525.39,0.0,0.53,3426,116.76,0.0,467.03,0.0
 2020-06-07,Tocantins,Maurilândia do Tocantins,29.19,1,0,0.0,18,0,0.0,525.39,0.0,0.53,3426,116.76,29.19,467.03,29.19
 2020-06-06,Tocantins,Maurilândia do Tocantins,0.0,0,0,0.0,17,0,0.0,496.21,0.0,0.5,3426,87.57,-29.19,437.84,0.0
@@ -178,11 +179,12 @@ date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases
 2020-05-25,Tocantins,Maurilândia do Tocantins,0.0,0,0,0.0,12,0,0.0,350.26,0.0,0.35,3426,58.38,0.0,291.89,0.0
 2020-05-23,Tocantins,Maurilândia do Tocantins,0.0,0,0,0.0,12,0,0.0,350.26,0.0,0.35,3426,58.38,0.0,291.89,0.0
 2020-05-22,Tocantins,Maurilândia do Tocantins,0.0,0,0,0.0,12,0,0.0,350.26,0.0,0.35,3426,58.38,0.0,291.89,0.0
-2020-05-21,Tocantins,Maurilândia do Tocantins,0.0,0,0,0.0,12,0,0.0,350.26,0.0,0.35,3426,58.38,-175.13,291.89,0.0
-2020-05-20,Tocantins,Maurilândia do Tocantins,0.0,0,0,0.0,12,0,0.0,350.26,0.0,0.35,3426,233.51,0.0,291.89,0.0
+2020-05-21,Tocantins,Maurilândia do Tocantins,0.0,0,0,0.0,12,0,0.0,350.26,0.0,0.35,3426,58.38,0.0,291.89,0.0
+2020-05-20,Tocantins,Maurilândia do Tocantins,0.0,0,0,0.0,12,0,0.0,350.26,0.0,0.35,3426,58.38,-175.13,291.89,0.0
 2020-05-19,Tocantins,Maurilândia do Tocantins,58.38,2,0,0.0,12,0,0.0,350.26,0.0,0.35,3426,233.51,58.38,291.89,58.38
 2020-05-18,Tocantins,Maurilândia do Tocantins,0.0,0,0,0.0,10,0,0.0,291.89,0.0,0.29,3426,175.13,0.0,233.51,0.0
-2020-05-17,Tocantins,Maurilândia do Tocantins,0.0,0,0,0.0,10,0,0.0,291.89,0.0,0.29,3426,175.13,-58.38,233.51,0.0
+2020-05-17,Tocantins,Maurilândia do Tocantins,0.0,0,0,0.0,10,0,0.0,291.89,0.0,0.29,3426,175.13,0.0,233.51,0.0
+2020-05-16,Tocantins,Maurilândia do Tocantins,0.0,0,0,0.0,10,0,0.0,291.89,0.0,0.29,3426,175.13,-58.38,233.51,0.0
 2020-05-15,Tocantins,Maurilândia do Tocantins,0.0,0,0,0.0,10,0,0.0,291.89,0.0,0.29,3426,233.51,0.0,233.51,0.0
 2020-05-14,Tocantins,Maurilândia do Tocantins,0.0,0,0,0.0,10,0,0.0,291.89,0.0,0.29,3426,233.51,0.0,233.51,0.0
 2020-05-13,Tocantins,Maurilândia do Tocantins,175.13,6,0,0.0,10,0,0.0,291.89,0.0,0.29,3426,233.51,175.13,233.51,175.13
