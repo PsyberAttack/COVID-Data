@@ -1,14 +1,17 @@
 state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,12.0,34,0,0.0,4038,34,0.84,1425.49,12.0,1.43,283271,118.61,-9.18,518.92,-3.53
-Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,29.65,84,0,0.0,4004,34,0.85,1413.49,12.0,1.41,283271,127.79,3.88,522.45,-13.07
-Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,28.95,82,0,0.0,3920,34,0.87,1383.83,12.0,1.38,283271,123.91,2.47,535.52,4.94
-Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,3.53,10,0,0.0,3838,34,0.89,1354.89,12.0,1.35,283271,121.44,-4.24,530.58,-6.0
-Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,3.53,10,0,0.0,3828,34,0.89,1351.36,12.0,1.35,283271,125.68,-12.0,536.58,-1.41
-Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,19.42,55,0,0.0,3818,34,0.89,1347.83,12.0,1.35,283271,137.68,3.89,537.99,7.06
-Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,21.53,61,0,0.0,3763,34,0.9,1328.41,12.0,1.33,283271,133.79,8.12,530.93,4.59
-Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,21.18,60,0,0.0,3702,34,0.92,1306.88,12.0,1.31,283271,125.67,1.41,526.34,-0.71
-Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,25.77,73,0,0.0,3642,34,0.93,1285.69,12.0,1.29,283271,124.26,2.47,527.05,-0.71
-Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,26.48,75,0,0.0,3569,34,0.95,1259.92,12.0,1.26,283271,121.79,-12.0,527.76,10.95
+Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,7.41,21,0,0.0,4236,34,0.8,1495.39,12.0,1.5,283271,142.96,3.88,526.32,-3.53
+Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,19.06,54,0,0.0,4215,34,0.81,1487.97,12.0,1.49,283271,139.08,-0.71,529.85,-15.18
+Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,26.12,74,0,0.0,4161,34,0.82,1468.91,12.0,1.47,283271,139.79,4.59,545.03,8.82
+Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,24.36,69,0,0.0,4087,34,0.83,1442.79,12.0,1.44,283271,135.2,2.83,536.21,8.83
+Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,31.77,90,0,0.0,4018,34,0.85,1418.43,12.0,1.42,283271,132.37,6.0,527.38,-10.95
+Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,30.36,86,0,0.0,3928,34,0.87,1386.66,12.0,1.39,283271,126.37,3.53,538.33,6.35
+Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,3.88,11,0,0.0,3842,34,0.88,1356.3,12.0,1.36,283271,122.84,-3.89,531.98,-5.65
+Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,3.53,10,0,0.0,3831,34,0.89,1352.42,12.0,1.35,283271,126.73,-12.0,537.63,-1.41
+Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,19.77,56,0,0.0,3821,34,0.89,1348.88,12.0,1.35,283271,138.73,4.24,539.04,7.41
+Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,21.53,61,0,0.0,3765,34,0.9,1329.12,12.0,1.33,283271,134.49,8.12,531.63,4.59
+Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,21.53,61,0,0.0,3704,34,0.92,1307.58,12.0,1.31,283271,126.37,1.76,527.04,-0.36
+Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,25.77,73,0,0.0,3643,34,0.93,1286.05,12.0,1.29,283271,124.61,2.47,527.4,-0.71
+Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,26.83,76,0,0.0,3570,34,0.95,1260.28,12.0,1.26,283271,122.14,-11.65,528.11,11.3
 Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,7.77,22,0,0.0,3494,34,0.97,1233.45,12.0,1.23,283271,133.79,5.3,516.81,-7.06
 Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,15.53,44,0,0.0,3472,34,0.98,1225.68,12.0,1.23,283271,128.49,5.29,523.87,-21.54
 Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,15.53,44,1,0.35,3428,34,0.99,1210.15,12.0,1.21,283271,123.2,-1.06,545.41,-16.24

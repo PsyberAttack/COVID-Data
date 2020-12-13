@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-12,Illinois,DeKalb,0.0,0,2,1.92,5892,60.0,1.02,5657.61,57.61,5.66,104143,164.95,416.73,0.0,1886.83,-11.52
 2020-12-11,Illinois,DeKalb,58.57,61,2,1.92,5892,58.0,0.98,5657.61,55.69,5.66,104143,164.95,416.73,-27.85,1898.35,-46.09
 2020-12-10,Illinois,DeKalb,86.42,90,2,1.92,5831,56.0,0.96,5599.03,53.77,5.6,104143,164.95,444.58,13.44,1944.44,-94.1
 2020-12-09,Illinois,DeKalb,31.69,33,2,1.92,5741,54.0,0.94,5512.61,51.85,5.51,104143,164.95,431.14,-21.12,2038.54,14.41

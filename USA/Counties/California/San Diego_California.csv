@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-12,California,San Diego,0.06,2,0,0.0,102531,1137.0,1.11,3066.7,34.01,3.07,3343364,794.38,358.93,-68.34,1160.14,-21.95
 2020-12-11,California,San Diego,85.75,2867,23,0.69,102529,1137.0,1.11,3066.64,34.01,3.07,3343364,794.38,427.27,24.76,1182.09,67.47
 2020-12-10,California,San Diego,61.32,2050,11,0.33,99662,1114.0,1.12,2980.89,33.32,2.98,3343364,794.38,402.51,16.34,1114.62,23.96
 2020-12-09,California,San Diego,62.93,2104,41,1.23,97612,1103.0,1.13,2919.57,32.99,2.92,3343364,794.38,386.17,26.53,1090.66,61.97
