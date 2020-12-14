@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-13,Texas,Stephens,0.0,0,0,0.0,512,10.0,1.95,5427.75,106.01,5.43,9433,10.52,1791.58,0.0,3148.51,0.0
 2020-12-12,Texas,Stephens,53.01,5,1,10.6,512,10.0,1.95,5427.75,106.01,5.43,9433,10.52,1791.58,42.41,3148.51,10.61
 2020-12-11,Texas,Stephens,1600.76,151,0,0.0,507,9.0,1.78,5374.75,95.41,5.37,9433,10.52,1749.17,1547.75,3137.9,1494.75
 2020-12-10,Texas,Stephens,21.2,2,1,10.6,356,9.0,2.53,3773.98,95.41,3.77,9433,10.52,201.42,-74.21,1643.15,21.2

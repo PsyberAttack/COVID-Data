@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-12,São Paulo,Ribeira,0.0,0,0,0.0,68,1,1.47,2035.93,29.94,2.04,3340,419.16,-29.94,1047.9,0.0
+2020-12-11,São Paulo,Ribeira,0.0,0,1,29.94,68,1,1.47,2035.93,29.94,2.04,3340,449.1,0.0,1047.9,0.0
 2020-12-10,São Paulo,Ribeira,-29.94,-1,0,0.0,68,0,0.0,2035.93,0.0,2.04,3340,449.1,-29.94,1047.9,-29.94
 2020-12-09,São Paulo,Ribeira,0.0,0,0,0.0,69,0,0.0,2065.87,0.0,2.07,3340,479.04,0.0,1077.84,0.0
 2020-12-08,São Paulo,Ribeira,419.16,14,0,0.0,69,0,0.0,2065.87,0.0,2.07,3340,479.04,119.76,1077.84,419.16
