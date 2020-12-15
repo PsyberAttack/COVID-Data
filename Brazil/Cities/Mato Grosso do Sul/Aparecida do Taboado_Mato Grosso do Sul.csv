@@ -1,9 +1,11 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-11,Mato Grosso do Sul,Aparecida do Taboado,23.31,6,0,0.0,1095,20,1.83,4253.25,77.68,4.25,25745,46.61,19.43,143.71,19.43
-2020-12-10,Mato Grosso do Sul,Aparecida do Taboado,11.65,3,0,0.0,1089,20,1.84,4229.95,77.68,4.23,25745,27.18,15.53,124.28,-11.66
-2020-12-09,Mato Grosso do Sul,Aparecida do Taboado,0.0,0,0,0.0,1086,20,1.84,4218.29,77.68,4.22,25745,11.65,-7.77,135.94,-11.65
-2020-12-07,Mato Grosso do Sul,Aparecida do Taboado,7.77,2,0,0.0,1086,20,1.84,4218.29,77.68,4.22,25745,19.42,7.77,147.59,7.77
-2020-12-06,Mato Grosso do Sul,Aparecida do Taboado,3.88,1,0,0.0,1084,20,1.85,4210.53,77.68,4.21,25745,11.65,3.88,139.82,3.88
+2020-12-11,Mato Grosso do Sul,Aparecida do Taboado,23.31,6,0,0.0,1095,20,1.83,4253.25,77.68,4.25,25745,46.61,34.96,135.94,23.31
+2020-12-10,Mato Grosso do Sul,Aparecida do Taboado,11.65,3,0,0.0,1089,20,1.84,4229.95,77.68,4.23,25745,11.65,0.0,112.63,3.88
+2020-12-09,Mato Grosso do Sul,Aparecida do Taboado,0.0,0,0,0.0,1086,20,1.84,4218.29,77.68,4.22,25745,11.65,-3.88,108.75,-3.88
+2020-12-08,Mato Grosso do Sul,Aparecida do Taboado,0.0,0,0,0.0,1086,20,1.84,4218.29,77.68,4.22,25745,15.53,3.88,112.63,-23.31
+2020-12-07,Mato Grosso do Sul,Aparecida do Taboado,7.77,2,0,0.0,1086,20,1.84,4218.29,77.68,4.22,25745,11.65,0.0,135.94,-3.88
+2020-12-06,Mato Grosso do Sul,Aparecida do Taboado,0.0,0,0,0.0,1084,20,1.85,4210.53,77.68,4.21,25745,11.65,0.0,139.82,0.0
+2020-12-05,Mato Grosso do Sul,Aparecida do Taboado,3.88,1,0,0.0,1084,20,1.85,4210.53,77.68,4.21,25745,11.65,3.88,139.82,3.88
 2020-12-04,Mato Grosso do Sul,Aparecida do Taboado,-11.65,-3,0,0.0,1083,20,1.85,4206.64,77.68,4.21,25745,7.77,-15.53,135.94,-23.3
 2020-12-03,Mato Grosso do Sul,Aparecida do Taboado,11.65,3,0,0.0,1086,20,1.84,4218.29,77.68,4.22,25745,23.3,11.65,159.24,-46.61
 2020-12-02,Mato Grosso do Sul,Aparecida do Taboado,3.88,1,0,0.0,1083,20,1.85,4206.64,77.68,4.21,25745,11.65,-3.89,205.85,0.0

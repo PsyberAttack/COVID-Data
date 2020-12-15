@@ -1,9 +1,11 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-11,Mato Grosso do Sul,Rio Verde de Mato Grosso,30.39,6,0,0.0,380,15,3.95,1924.44,75.96,1.92,19746,217.78,-5.06,465.91,10.13
-2020-12-10,Mato Grosso do Sul,Rio Verde de Mato Grosso,30.39,6,1,5.06,374,15,4.01,1894.05,75.96,1.89,19746,222.84,-10.12,455.78,30.39
-2020-12-09,Mato Grosso do Sul,Rio Verde de Mato Grosso,65.84,13,0,0.0,368,14,3.8,1863.67,70.9,1.86,19746,232.96,30.39,425.39,65.84
-2020-12-07,Mato Grosso do Sul,Rio Verde de Mato Grosso,20.26,4,0,0.0,355,14,3.94,1797.83,70.9,1.8,19746,202.57,20.26,359.55,10.13
-2020-12-06,Mato Grosso do Sul,Rio Verde de Mato Grosso,20.26,4,0,0.0,351,14,3.99,1777.58,70.9,1.78,19746,182.31,5.07,349.42,20.26
+2020-12-11,Mato Grosso do Sul,Rio Verde de Mato Grosso,30.39,6,0,0.0,380,15,3.95,1924.44,75.96,1.92,19746,167.13,5.07,460.84,30.39
+2020-12-10,Mato Grosso do Sul,Rio Verde de Mato Grosso,30.39,6,1,5.06,374,15,4.01,1894.05,75.96,1.89,19746,162.06,5.07,430.45,25.33
+2020-12-09,Mato Grosso do Sul,Rio Verde de Mato Grosso,40.51,8,0,0.0,368,14,3.8,1863.67,70.9,1.86,19746,156.99,5.06,405.12,20.25
+2020-12-08,Mato Grosso do Sul,Rio Verde de Mato Grosso,25.32,5,0,0.0,360,14,3.89,1823.15,70.9,1.82,19746,151.93,-15.19,384.87,25.32
+2020-12-07,Mato Grosso do Sul,Rio Verde de Mato Grosso,20.26,4,0,0.0,355,14,3.94,1797.83,70.9,1.8,19746,167.12,-15.19,359.55,20.26
+2020-12-06,Mato Grosso do Sul,Rio Verde de Mato Grosso,0.0,0,0,0.0,351,14,3.99,1777.58,70.9,1.78,19746,182.31,0.0,339.29,-10.13
+2020-12-05,Mato Grosso do Sul,Rio Verde de Mato Grosso,20.26,4,0,0.0,351,14,3.99,1777.58,70.9,1.78,19746,182.31,5.07,349.42,20.26
 2020-12-04,Mato Grosso do Sul,Rio Verde de Mato Grosso,25.32,5,0,0.0,347,14,4.03,1757.32,70.9,1.76,19746,177.24,-5.07,329.16,30.38
 2020-12-03,Mato Grosso do Sul,Rio Verde de Mato Grosso,25.32,5,0,0.0,342,14,4.09,1732.0,70.9,1.73,19746,182.31,15.19,298.78,-10.13
 2020-12-02,Mato Grosso do Sul,Rio Verde de Mato Grosso,35.45,7,0,0.0,337,14,4.15,1706.67,70.9,1.71,19746,167.12,10.13,308.91,35.45

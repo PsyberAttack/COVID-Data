@@ -1,9 +1,11 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-11,Mato Grosso do Sul,Coronel Sapucaia,0.0,0,0,0.0,237,4,1.69,1553.79,26.22,1.55,15253,150.79,-65.56,603.15,-6.56
-2020-12-10,Mato Grosso do Sul,Coronel Sapucaia,19.67,3,0,0.0,237,4,1.69,1553.79,26.22,1.55,15253,216.35,19.67,609.71,19.67
-2020-12-09,Mato Grosso do Sul,Coronel Sapucaia,85.23,13,1,6.56,234,4,1.71,1534.12,26.22,1.53,15253,196.68,72.12,590.04,85.23
-2020-12-07,Mato Grosso do Sul,Coronel Sapucaia,0.0,0,0,0.0,221,3,1.36,1448.9,19.67,1.45,15253,124.56,0.0,504.81,-6.56
-2020-12-06,Mato Grosso do Sul,Coronel Sapucaia,6.56,1,0,0.0,221,3,1.36,1448.9,19.67,1.45,15253,124.56,-6.55,511.37,-32.78
+2020-12-11,Mato Grosso do Sul,Coronel Sapucaia,0.0,0,0,0.0,237,4,1.69,1553.79,26.22,1.55,15253,111.46,-13.11,590.04,-13.11
+2020-12-10,Mato Grosso do Sul,Coronel Sapucaia,19.67,3,0,0.0,237,4,1.69,1553.79,26.22,1.55,15253,124.57,-6.55,603.15,19.67
+2020-12-09,Mato Grosso do Sul,Coronel Sapucaia,85.23,13,1,6.56,234,4,1.71,1534.12,26.22,1.53,15253,131.12,19.67,583.48,78.67
+2020-12-08,Mato Grosso do Sul,Coronel Sapucaia,0.0,0,0,0.0,221,3,1.36,1448.9,19.67,1.45,15253,111.45,0.0,504.81,0.0
+2020-12-07,Mato Grosso do Sul,Coronel Sapucaia,0.0,0,0,0.0,221,3,1.36,1448.9,19.67,1.45,15253,111.45,-13.11,504.81,0.0
+2020-12-06,Mato Grosso do Sul,Coronel Sapucaia,0.0,0,0,0.0,221,3,1.36,1448.9,19.67,1.45,15253,124.56,0.0,504.81,-6.56
+2020-12-05,Mato Grosso do Sul,Coronel Sapucaia,6.56,1,0,0.0,221,3,1.36,1448.9,19.67,1.45,15253,124.56,-6.55,511.37,-32.78
 2020-12-04,Mato Grosso do Sul,Coronel Sapucaia,13.11,2,0,0.0,220,3,1.36,1442.34,19.67,1.44,15253,131.11,-39.34,544.15,13.11
 2020-12-03,Mato Grosso do Sul,Coronel Sapucaia,26.22,4,0,0.0,218,3,1.38,1429.23,19.67,1.43,15253,170.45,26.22,531.04,0.0
 2020-12-02,Mato Grosso do Sul,Coronel Sapucaia,65.56,10,0,0.0,214,3,1.4,1403.0,19.67,1.4,15253,144.23,72.12,531.04,52.45

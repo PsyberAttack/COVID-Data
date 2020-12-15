@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-10,Rio de Janeiro,Trajano de Moraes,65.88,7,0,0.0,137,0,0.0,1289.29,0.0,1.29,10626,254.1,28.24,630.52,65.88
+2020-12-13,Rio de Janeiro,Trajano de Moraes,0.0,0,0,0.0,143,0,0.0,1345.76,0.0,1.35,10626,141.16,0.0,649.34,-18.82
+2020-12-12,Rio de Janeiro,Trajano de Moraes,9.41,1,0,0.0,143,0,0.0,1345.76,0.0,1.35,10626,141.16,-28.23,668.16,9.41
+2020-12-11,Rio de Janeiro,Trajano de Moraes,47.05,5,0,0.0,142,0,0.0,1336.34,0.0,1.34,10626,169.39,-28.24,658.75,47.05
+2020-12-10,Rio de Janeiro,Trajano de Moraes,65.88,7,0,0.0,137,0,0.0,1289.29,0.0,1.29,10626,197.63,9.41,611.7,47.06
+2020-12-09,Rio de Janeiro,Trajano de Moraes,0.0,0,0,0.0,130,0,0.0,1223.41,0.0,1.22,10626,188.22,-37.64,564.64,0.0
 2020-12-08,Rio de Janeiro,Trajano de Moraes,18.82,2,0,0.0,130,0,0.0,1223.41,0.0,1.22,10626,225.86,-65.88,564.64,0.0
 2020-12-07,Rio de Janeiro,Trajano de Moraes,0.0,0,0,0.0,128,0,0.0,1204.59,0.0,1.2,10626,291.74,-18.82,564.64,0.0
 2020-12-06,Rio de Janeiro,Trajano de Moraes,0.0,0,0,0.0,128,0,0.0,1204.59,0.0,1.2,10626,310.56,0.0,564.64,0.0
