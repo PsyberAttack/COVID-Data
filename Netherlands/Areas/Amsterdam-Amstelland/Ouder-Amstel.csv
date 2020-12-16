@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0437,2020-12-16,Amsterdam-Amstelland,Ouder-Amstel,42.77,6,0,0.0,626,0,0.0,4462.19,0.0,4.46,14029,384.92,-7.13,1111.99,28.51
+GM0437,2020-12-15,Amsterdam-Amstelland,Ouder-Amstel,49.9,7,0,0.0,620,0,0.0,4419.42,0.0,4.42,14029,392.05,14.26,1083.48,28.52
 GM0437,2020-12-14,Amsterdam-Amstelland,Ouder-Amstel,49.9,7,0,0.0,613,0,0.0,4369.52,0.0,4.37,14029,377.79,14.26,1054.96,21.39
 GM0437,2020-12-13,Amsterdam-Amstelland,Ouder-Amstel,21.38,3,0,0.0,606,0,0.0,4319.62,0.0,4.32,14029,363.53,-28.52,1033.57,-14.26
 GM0437,2020-12-12,Amsterdam-Amstelland,Ouder-Amstel,106.92,15,0,0.0,603,0,0.0,4298.24,0.0,4.3,14029,392.05,42.77,1047.83,35.64
