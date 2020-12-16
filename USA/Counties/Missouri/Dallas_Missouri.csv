@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-15,Missouri,Dallas,0.0,0,1,5.97,649,14.0,2.16,3871.85,83.52,3.87,16762,30.99,131.25,5.97,709.95,-29.83
 2020-12-14,Missouri,Dallas,17.9,3,0,0.0,649,13.0,2.0,3871.85,77.56,3.87,16762,30.99,125.28,5.97,739.78,-71.59
 2020-12-13,Missouri,Dallas,11.93,2,0,0.0,646,13.0,2.01,3853.96,77.56,3.85,16762,30.99,119.31,-23.87,811.37,11.93
 2020-12-12,Missouri,Dallas,53.69,9,0,0.0,644,13.0,2.02,3842.02,77.56,3.84,16762,30.99,143.18,41.76,799.44,-29.83

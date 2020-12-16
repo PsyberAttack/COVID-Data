@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-13,Bahia,Wenceslau Guimarães,18.96,4,0,0.0,1025,12,1.17,4857.59,56.87,4.86,21101,312.78,14.22,739.31,9.48
+2020-12-14,Bahia,Wenceslau Guimarães,9.48,2,0,0.0,1027,12,1.17,4867.07,56.87,4.87,21101,218.0,4.74,710.88,4.74
+2020-12-13,Bahia,Wenceslau Guimarães,4.74,1,0,0.0,1025,12,1.17,4857.59,56.87,4.86,21101,213.26,-94.78,706.14,-28.43
+2020-12-12,Bahia,Wenceslau Guimarães,14.22,3,0,0.0,1024,12,1.17,4852.85,56.87,4.85,21101,308.04,9.48,734.57,4.74
 2020-12-11,Bahia,Wenceslau Guimarães,42.65,9,0,0.0,1021,12,1.18,4838.63,56.87,4.84,21101,298.56,18.95,729.83,14.22
 2020-12-10,Bahia,Wenceslau Guimarães,104.26,22,0,0.0,1012,12,1.19,4795.98,56.87,4.8,21101,279.61,-52.13,715.61,99.52
 2020-12-09,Bahia,Wenceslau Guimarães,4.74,1,0,0.0,990,12,1.21,4691.72,56.87,4.69,21101,331.74,-9.48,616.09,0.0

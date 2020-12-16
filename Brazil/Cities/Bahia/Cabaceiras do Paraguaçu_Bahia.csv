@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-13,Bahia,Cabaceiras do Paraguaçu,37.22,7,0,0.0,138,1,0.72,733.77,5.32,0.73,18807,63.81,37.22,164.85,37.22
+2020-12-14,Bahia,Cabaceiras do Paraguaçu,0.0,0,0,0.0,138,1,0.72,733.77,5.32,0.73,18807,42.54,0.0,154.21,-5.32
+2020-12-13,Bahia,Cabaceiras do Paraguaçu,5.32,1,0,0.0,138,1,0.72,733.77,5.32,0.73,18807,42.54,-15.95,159.53,0.0
+2020-12-12,Bahia,Cabaceiras do Paraguaçu,31.9,6,0,0.0,137,1,0.73,728.45,5.32,0.73,18807,58.49,31.9,159.53,31.9
 2020-12-11,Bahia,Cabaceiras do Paraguaçu,0.0,0,0,0.0,131,1,0.76,696.55,5.32,0.7,18807,26.59,-26.59,127.63,0.0
 2020-12-10,Bahia,Cabaceiras do Paraguaçu,0.0,0,0,0.0,131,1,0.76,696.55,5.32,0.7,18807,53.18,0.0,127.63,-5.32
 2020-12-09,Bahia,Cabaceiras do Paraguaçu,5.32,1,0,0.0,131,1,0.76,696.55,5.32,0.7,18807,53.18,-5.31,132.95,5.32

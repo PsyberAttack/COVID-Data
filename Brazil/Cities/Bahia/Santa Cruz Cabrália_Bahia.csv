@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-13,Bahia,Santa Cruz Cabrália,36.0,10,0,0.0,1093,12,1.1,3934.77,43.2,3.93,27778,172.8,32.4,432.0,18.0
+2020-12-14,Bahia,Santa Cruz Cabrália,0.0,0,0,0.0,1093,12,1.1,3934.77,43.2,3.93,27778,147.6,0.0,424.8,-3.6
+2020-12-13,Bahia,Santa Cruz Cabrália,21.6,6,0,0.0,1093,12,1.1,3934.77,43.2,3.93,27778,147.6,-3.6,428.4,18.0
+2020-12-12,Bahia,Santa Cruz Cabrália,14.4,4,0,0.0,1087,12,1.1,3913.17,43.2,3.91,27778,151.2,10.8,410.4,-3.6
 2020-12-11,Bahia,Santa Cruz Cabrália,50.4,14,0,0.0,1083,12,1.11,3898.77,43.2,3.9,27778,140.4,46.8,414.0,43.2
 2020-12-10,Bahia,Santa Cruz Cabrália,25.2,7,0,0.0,1069,12,1.12,3848.37,43.2,3.85,27778,93.6,14.4,370.8,14.4
 2020-12-09,Bahia,Santa Cruz Cabrália,32.4,9,0,0.0,1062,12,1.13,3823.17,43.2,3.82,27778,79.2,-14.4,356.4,21.6

@@ -1,9 +1,10 @@
 state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-Nordrhein-Westfalen,Leverkusen,28.69,47,0,0.0,2955,26,0.88,1803.61,15.87,1.8,163838,181.28,1.22,630.53,11.6
-Nordrhein-Westfalen,Leverkusen,23.19,38,0,0.0,2908,26,0.89,1774.92,15.87,1.77,163838,180.06,13.42,618.93,10.37
-Nordrhein-Westfalen,Leverkusen,18.31,30,0,0.0,2870,26,0.91,1751.73,15.87,1.75,163838,166.64,-7.33,608.56,5.49
-Nordrhein-Westfalen,Leverkusen,25.64,42,0,0.0,2840,26,0.92,1733.42,15.87,1.73,163838,173.97,-1.22,603.07,10.38
-Nordrhein-Westfalen,Leverkusen,24.41,40,0,0.0,2798,26,0.93,1707.78,15.87,1.71,163838,175.19,0.0,592.69,1.22
+Nordrhein-Westfalen,Leverkusen,18.92,31,2,1.22,2986,29,0.97,1822.53,17.7,1.82,163838,169.68,-11.6,631.75,1.22
+Nordrhein-Westfalen,Leverkusen,28.69,47,0,0.0,2955,27,0.91,1803.61,16.48,1.8,163838,181.28,1.22,630.53,11.6
+Nordrhein-Westfalen,Leverkusen,23.19,38,0,0.0,2908,27,0.93,1774.92,16.48,1.77,163838,180.06,13.42,618.93,10.37
+Nordrhein-Westfalen,Leverkusen,18.31,30,0,0.0,2870,27,0.94,1751.73,16.48,1.75,163838,166.64,-7.33,608.56,5.49
+Nordrhein-Westfalen,Leverkusen,25.64,42,0,0.0,2840,27,0.95,1733.42,16.48,1.73,163838,173.97,-1.22,603.07,10.38
+Nordrhein-Westfalen,Leverkusen,24.41,40,1,0.61,2798,27,0.96,1707.78,16.48,1.71,163838,175.19,0.0,592.69,1.22
 Nordrhein-Westfalen,Leverkusen,30.52,50,0,0.0,2758,26,0.94,1683.37,15.87,1.68,163838,175.19,-0.61,591.47,7.33
 Nordrhein-Westfalen,Leverkusen,30.52,50,0,0.0,2708,26,0.96,1652.85,15.87,1.65,163838,175.8,9.16,584.14,4.27
 Nordrhein-Westfalen,Leverkusen,27.47,45,0,0.0,2658,26,0.98,1622.33,15.87,1.62,163838,166.64,6.72,579.87,-2.44
