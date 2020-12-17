@@ -1,4 +1,5 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-14,Rio Grande do Norte,Serra de São Bento,17.36,1,0,0.0,51,1,1.96,885.11,17.36,0.89,5762,190.92,-86.77,364.47,17.36
 2020-12-13,Rio Grande do Norte,Serra de São Bento,86.78,5,0,0.0,50,1,2.0,867.75,17.36,0.87,5762,277.69,86.78,347.11,86.78
 2020-12-11,Rio Grande do Norte,Serra de São Bento,0.0,0,0,0.0,45,1,2.22,780.98,17.36,0.78,5762,190.91,0.0,260.33,0.0
 2020-12-10,Rio Grande do Norte,Serra de São Bento,34.71,2,1,17.36,45,1,2.22,780.98,17.36,0.78,5762,190.91,52.07,260.33,34.71
@@ -20,8 +21,8 @@ date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases
 2020-11-22,Rio Grande do Norte,Serra de São Bento,0.0,0,0,0.0,30,0,0.0,520.65,0.0,0.52,5762,17.36,17.36,17.35,0.0
 2020-11-20,Rio Grande do Norte,Serra de São Bento,17.36,1,0,0.0,30,0,0.0,520.65,0.0,0.52,5762,0.0,17.36,17.35,17.36
 2020-11-19,Rio Grande do Norte,Serra de São Bento,0.0,0,0,0.0,29,0,0.0,503.3,0.0,0.5,5762,-17.36,0.0,-0.01,0.0
-2020-11-18,Rio Grande do Norte,Serra de São Bento,0.0,0,0,0.0,29,0,0.0,503.3,0.0,0.5,5762,-17.36,0.0,-0.01,52.07
-2020-11-17,Rio Grande do Norte,Serra de São Bento,0.0,0,0,0.0,29,0,0.0,503.3,0.0,0.5,5762,-17.36,0.0,-52.08,0.0
+2020-11-18,Rio Grande do Norte,Serra de São Bento,0.0,0,0,0.0,29,0,0.0,503.3,0.0,0.5,5762,-17.36,0.0,-0.01,0.0
+2020-11-17,Rio Grande do Norte,Serra de São Bento,0.0,0,0,0.0,29,0,0.0,503.3,0.0,0.5,5762,-17.36,0.0,-0.01,52.07
 2020-11-16,Rio Grande do Norte,Serra de São Bento,0.0,0,0,0.0,29,0,0.0,503.3,0.0,0.5,5762,-17.36,0.0,-52.08,0.0
 2020-11-15,Rio Grande do Norte,Serra de São Bento,0.0,0,0,0.0,29,0,0.0,503.3,0.0,0.5,5762,-17.36,0.0,-52.08,0.0
 2020-11-13,Rio Grande do Norte,Serra de São Bento,-17.36,-1,0,0.0,29,0,0.0,503.3,0.0,0.5,5762,-17.36,0.0,-52.08,-17.36
@@ -33,18 +34,19 @@ date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases
 2020-11-06,Rio Grande do Norte,Serra de São Bento,0.0,0,0,0.0,30,0,0.0,520.65,0.0,0.52,5762,-17.36,0.0,-34.72,0.0
 2020-11-05,Rio Grande do Norte,Serra de São Bento,-17.36,-1,0,0.0,30,0,0.0,520.65,0.0,0.52,5762,-17.36,-17.36,-34.72,-17.36
 2020-11-04,Rio Grande do Norte,Serra de São Bento,17.36,1,0,0.0,31,0,0.0,538.01,0.0,0.54,5762,0.0,17.36,-17.36,17.36
-2020-11-03,Rio Grande do Norte,Serra de São Bento,0.0,0,0,0.0,30,0,0.0,520.65,0.0,0.52,5762,-17.36,0.0,-34.72,-17.36
-2020-11-02,Rio Grande do Norte,Serra de São Bento,0.0,0,0,0.0,30,0,0.0,520.65,0.0,0.52,5762,-17.36,0.0,-17.36,0.0
+2020-11-03,Rio Grande do Norte,Serra de São Bento,0.0,0,0,0.0,30,0,0.0,520.65,0.0,0.52,5762,-17.36,0.0,-34.72,0.0
+2020-11-02,Rio Grande do Norte,Serra de São Bento,0.0,0,0,0.0,30,0,0.0,520.65,0.0,0.52,5762,-17.36,0.0,-34.72,-17.36
 2020-11-01,Rio Grande do Norte,Serra de São Bento,0.0,0,0,0.0,30,0,0.0,520.65,0.0,0.52,5762,-17.36,0.0,-17.36,0.0
 2020-10-30,Rio Grande do Norte,Serra de São Bento,-17.36,-1,0,0.0,30,0,0.0,520.65,0.0,0.52,5762,-17.36,-52.07,-17.36,-17.36
 2020-10-29,Rio Grande do Norte,Serra de São Bento,0.0,0,0,0.0,31,0,0.0,538.01,0.0,0.54,5762,34.71,0.0,0.0,0.0
 2020-10-28,Rio Grande do Norte,Serra de São Bento,0.0,0,0,0.0,31,0,0.0,538.01,0.0,0.54,5762,34.71,0.0,0.0,0.0
 2020-10-27,Rio Grande do Norte,Serra de São Bento,0.0,0,0,0.0,31,0,0.0,538.01,0.0,0.54,5762,34.71,0.0,0.0,0.0
 2020-10-26,Rio Grande do Norte,Serra de São Bento,0.0,0,0,0.0,31,0,0.0,538.01,0.0,0.54,5762,34.71,0.0,0.0,0.0
-2020-10-25,Rio Grande do Norte,Serra de São Bento,0.0,0,0,0.0,31,0,0.0,538.01,0.0,0.54,5762,34.71,52.07,0.0,0.0
-2020-10-23,Rio Grande do Norte,Serra de São Bento,0.0,0,0,0.0,31,0,0.0,538.01,0.0,0.54,5762,-17.36,0.0,0.0,-17.36
-2020-10-22,Rio Grande do Norte,Serra de São Bento,34.71,2,0,0.0,31,0,0.0,538.01,0.0,0.54,5762,-17.36,34.71,17.36,17.35
-2020-10-21,Rio Grande do Norte,Serra de São Bento,0.0,0,0,0.0,29,0,0.0,503.3,0.0,0.5,5762,-52.07,0.0,0.01,0.0
+2020-10-25,Rio Grande do Norte,Serra de São Bento,0.0,0,0,0.0,31,0,0.0,538.01,0.0,0.54,5762,34.71,0.0,0.0,0.0
+2020-10-23,Rio Grande do Norte,Serra de São Bento,0.0,0,0,0.0,31,0,0.0,538.01,0.0,0.54,5762,34.71,52.07,0.0,0.0
+2020-10-22,Rio Grande do Norte,Serra de São Bento,34.71,2,0,0.0,31,0,0.0,538.01,0.0,0.54,5762,-17.36,34.71,0.0,17.35
+2020-10-21,Rio Grande do Norte,Serra de São Bento,0.0,0,0,0.0,29,0,0.0,503.3,0.0,0.5,5762,-52.07,0.0,-17.35,-17.36
+2020-10-20,Rio Grande do Norte,Serra de São Bento,0.0,0,0,0.0,29,0,0.0,503.3,0.0,0.5,5762,-52.07,0.0,0.01,0.0
 2020-10-19,Rio Grande do Norte,Serra de São Bento,0.0,0,0,0.0,29,0,0.0,503.3,0.0,0.5,5762,-52.07,0.0,0.01,0.0
 2020-10-18,Rio Grande do Norte,Serra de São Bento,0.0,0,0,0.0,29,0,0.0,503.3,0.0,0.5,5762,-52.07,0.0,0.01,0.0
 2020-10-16,Rio Grande do Norte,Serra de São Bento,0.0,0,0,0.0,29,0,0.0,503.3,0.0,0.5,5762,-52.07,0.0,0.01,0.0
