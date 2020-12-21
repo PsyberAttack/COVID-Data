@@ -1,4 +1,5 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-18,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,63,1,1.59,2862.34,45.43,2.86,2201,90.87,-136.3,454.33,0.0
 2020-12-17,Tocantins,Brasilândia do Tocantins,90.87,2,0,0.0,63,1,1.59,2862.34,45.43,2.86,2201,227.17,90.87,454.33,90.87
 2020-12-16,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,61,1,1.64,2771.47,45.43,2.77,2201,136.3,0.0,363.46,0.0
 2020-12-15,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,61,1,1.64,2771.47,45.43,2.77,2201,136.3,0.0,363.46,0.0
@@ -47,10 +48,10 @@ date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases
 2020-11-02,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,52,1,1.92,2362.56,45.43,2.36,2201,0.0,0.0,0.0,0.0
 2020-11-01,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,52,1,1.92,2362.56,45.43,2.36,2201,0.0,0.0,0.0,0.0
 2020-10-31,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,52,1,1.92,2362.56,45.43,2.36,2201,0.0,0.0,0.0,0.0
-2020-10-30,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,52,1,1.92,2362.56,45.43,2.36,2201,0.0,0.0,0.0,-45.43
-2020-10-29,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,52,1,1.92,2362.56,45.43,2.36,2201,0.0,0.0,45.43,0.0
-2020-10-28,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,52,1,1.92,2362.56,45.43,2.36,2201,0.0,0.0,45.43,0.0
-2020-10-27,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,52,1,1.92,2362.56,45.43,2.36,2201,0.0,0.0,45.43,0.0
+2020-10-30,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,52,1,1.92,2362.56,45.43,2.36,2201,0.0,0.0,0.0,0.0
+2020-10-29,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,52,1,1.92,2362.56,45.43,2.36,2201,0.0,0.0,0.0,0.0
+2020-10-28,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,52,1,1.92,2362.56,45.43,2.36,2201,0.0,0.0,0.0,0.0
+2020-10-27,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,52,1,1.92,2362.56,45.43,2.36,2201,0.0,0.0,0.0,-45.43
 2020-10-26,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,52,1,1.92,2362.56,45.43,2.36,2201,0.0,0.0,45.43,0.0
 2020-10-25,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,52,1,1.92,2362.56,45.43,2.36,2201,0.0,0.0,45.43,0.0
 2020-10-24,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,52,1,1.92,2362.56,45.43,2.36,2201,0.0,0.0,45.43,0.0
@@ -58,9 +59,12 @@ date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases
 2020-10-22,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,52,1,1.92,2362.56,45.43,2.36,2201,0.0,0.0,45.43,0.0
 2020-10-21,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,52,1,1.92,2362.56,45.43,2.36,2201,0.0,0.0,45.43,0.0
 2020-10-20,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,52,1,1.92,2362.56,45.43,2.36,2201,0.0,0.0,45.43,0.0
-2020-10-19,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,52,1,1.92,2362.56,45.43,2.36,2201,0.0,0.0,45.43,-45.43
-2020-10-18,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,52,1,1.92,2362.56,45.43,2.36,2201,0.0,0.0,90.86,-45.43
-2020-10-17,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,52,1,1.92,2362.56,45.43,2.36,2201,0.0,0.0,136.29,0.0
+2020-10-19,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,52,1,1.92,2362.56,45.43,2.36,2201,0.0,0.0,45.43,0.0
+2020-10-18,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,52,1,1.92,2362.56,45.43,2.36,2201,0.0,0.0,45.43,0.0
+2020-10-17,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,52,1,1.92,2362.56,45.43,2.36,2201,0.0,0.0,45.43,0.0
+2020-10-16,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,52,1,1.92,2362.56,45.43,2.36,2201,0.0,0.0,45.43,-45.43
+2020-10-15,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,52,1,1.92,2362.56,45.43,2.36,2201,0.0,0.0,90.86,-45.43
+2020-10-14,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,52,1,1.92,2362.56,45.43,2.36,2201,0.0,0.0,136.29,0.0
 2020-10-13,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,52,1,1.92,2362.56,45.43,2.36,2201,0.0,0.0,136.29,0.0
 2020-10-12,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,52,1,1.92,2362.56,45.43,2.36,2201,0.0,0.0,136.29,0.0
 2020-10-11,Tocantins,Brasilândia do Tocantins,0.0,0,0,0.0,52,1,1.92,2362.56,45.43,2.36,2201,0.0,0.0,136.29,0.0
