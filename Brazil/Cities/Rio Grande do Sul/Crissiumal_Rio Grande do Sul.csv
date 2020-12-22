@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Crissiumal,148.72,20,0,0.0,165,4,2.42,1226.95,29.74,1.23,13448,319.74,148.72,438.74,133.85
+2020-12-20,Rio Grande do Sul,Crissiumal,0.0,0,0,0.0,165,4,2.42,1226.95,29.74,1.23,13448,148.71,-14.87,423.85,-7.44
+2020-12-19,Rio Grande do Sul,Crissiumal,14.87,2,0,0.0,165,4,2.42,1226.95,29.74,1.23,13448,163.58,-111.54,431.29,7.43
+2020-12-18,Rio Grande do Sul,Crissiumal,0.0,0,0,0.0,163,4,2.45,1212.08,29.74,1.21,13448,275.12,-29.74,423.86,0.0
+2020-12-17,Rio Grande do Sul,Crissiumal,29.74,4,0,0.0,163,4,2.45,1212.08,29.74,1.21,13448,304.86,29.74,423.86,29.74
+2020-12-16,Rio Grande do Sul,Crissiumal,104.1,14,0,0.0,159,4,2.52,1182.33,29.74,1.18,13448,275.12,104.1,394.12,89.23
 2020-12-14,Rio Grande do Sul,Crissiumal,0.0,0,1,7.44,145,4,2.76,1078.23,29.74,1.08,13448,171.02,-7.44,304.89,14.87
 2020-12-13,Rio Grande do Sul,Crissiumal,0.0,0,0,0.0,145,3,2.07,1078.23,22.31,1.08,13448,178.46,-52.05,290.02,-22.31
 2020-12-12,Rio Grande do Sul,Crissiumal,14.87,2,0,0.0,145,3,2.07,1078.23,22.31,1.08,13448,230.51,14.87,312.33,14.87

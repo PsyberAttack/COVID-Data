@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Lindolfo Collor,346.88,21,0,0.0,204,5,2.45,3369.67,82.59,3.37,6054,644.21,346.88,991.09,346.88
+2020-12-20,Rio Grande do Sul,Lindolfo Collor,0.0,0,0,0.0,204,5,2.45,3369.67,82.59,3.37,6054,346.88,0.0,925.02,-49.55
+2020-12-19,Rio Grande do Sul,Lindolfo Collor,0.0,0,0,0.0,204,5,2.45,3369.67,82.59,3.37,6054,346.88,-99.11,974.57,-16.52
+2020-12-18,Rio Grande do Sul,Lindolfo Collor,0.0,0,0,0.0,204,5,2.45,3369.67,82.59,3.37,6054,445.99,0.0,991.09,0.0
+2020-12-17,Rio Grande do Sul,Lindolfo Collor,346.88,21,0,0.0,204,5,2.45,3369.67,82.59,3.37,6054,445.99,148.66,991.09,346.88
+2020-12-16,Rio Grande do Sul,Lindolfo Collor,0.0,0,0,0.0,183,5,2.73,3022.79,82.59,3.02,6054,297.33,0.0,644.21,0.0
 2020-12-14,Rio Grande do Sul,Lindolfo Collor,0.0,0,0,0.0,183,5,2.73,3022.79,82.59,3.02,6054,297.33,0.0,644.21,0.0
 2020-12-13,Rio Grande do Sul,Lindolfo Collor,0.0,0,0,0.0,183,5,2.73,3022.79,82.59,3.02,6054,297.33,-82.59,644.21,-33.04
 2020-12-12,Rio Grande do Sul,Lindolfo Collor,0.0,0,0,0.0,183,5,2.73,3022.79,82.59,3.02,6054,379.92,-82.59,677.25,0.0

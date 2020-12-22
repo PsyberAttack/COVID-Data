@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Alto Feliz,66.05,2,0,0.0,67,0,0.0,2212.68,0.0,2.21,3028,594.46,66.05,858.68,66.05
+2020-12-20,Rio Grande do Sul,Alto Feliz,0.0,0,0,0.0,67,0,0.0,2212.68,0.0,2.21,3028,66.05,-297.23,792.63,0.0
+2020-12-19,Rio Grande do Sul,Alto Feliz,0.0,0,0,0.0,67,0,0.0,2212.68,0.0,2.21,3028,363.28,-33.03,792.63,-66.05
+2020-12-18,Rio Grande do Sul,Alto Feliz,0.0,0,0,0.0,67,0,0.0,2212.68,0.0,2.21,3028,396.31,0.0,858.68,0.0
+2020-12-17,Rio Grande do Sul,Alto Feliz,66.05,2,0,0.0,67,0,0.0,2212.68,0.0,2.21,3028,396.31,-132.1,858.68,66.05
+2020-12-16,Rio Grande do Sul,Alto Feliz,0.0,0,0,0.0,65,0,0.0,2146.63,0.0,2.15,3028,528.41,0.0,792.63,0.0
 2020-12-14,Rio Grande do Sul,Alto Feliz,0.0,0,0,0.0,65,0,0.0,2146.63,0.0,2.15,3028,528.41,0.0,792.63,-33.03
 2020-12-13,Rio Grande do Sul,Alto Feliz,0.0,0,0,0.0,65,0,0.0,2146.63,0.0,2.15,3028,528.41,-33.03,825.66,0.0
 2020-12-12,Rio Grande do Sul,Alto Feliz,297.23,9,0,0.0,65,0,0.0,2146.63,0.0,2.15,3028,561.44,264.2,825.66,297.23

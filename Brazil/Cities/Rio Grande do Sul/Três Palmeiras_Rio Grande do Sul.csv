@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Três Palmeiras,702.41,30,0,0.0,128,2,1.56,2996.96,46.83,3.0,4271,796.06,702.41,1053.61,679.0
+2020-12-20,Rio Grande do Sul,Três Palmeiras,0.0,0,0,0.0,128,2,1.56,2996.96,46.83,3.0,4271,702.41,-23.41,1053.61,0.0
+2020-12-19,Rio Grande do Sul,Três Palmeiras,0.0,0,0,0.0,128,2,1.56,2996.96,46.83,3.0,4271,725.82,0.0,1053.61,0.0
+2020-12-18,Rio Grande do Sul,Três Palmeiras,515.1,22,0,0.0,128,2,1.56,2996.96,46.83,3.0,4271,725.82,444.86,1053.61,515.1
+2020-12-17,Rio Grande do Sul,Três Palmeiras,46.83,2,0,0.0,106,2,1.89,2481.85,46.83,2.48,4271,280.96,46.83,538.51,46.83
+2020-12-16,Rio Grande do Sul,Três Palmeiras,140.48,6,0,0.0,104,2,1.92,2435.03,46.83,2.44,4271,234.13,140.48,491.68,117.07
 2020-12-14,Rio Grande do Sul,Três Palmeiras,0.0,0,0,0.0,98,2,2.04,2294.54,46.83,2.29,4271,93.65,0.0,374.61,23.41
 2020-12-13,Rio Grande do Sul,Três Palmeiras,0.0,0,0,0.0,98,2,2.04,2294.54,46.83,2.29,4271,93.65,0.0,351.2,23.41
 2020-12-12,Rio Grande do Sul,Três Palmeiras,23.41,1,0,0.0,98,2,2.04,2294.54,46.83,2.29,4271,93.65,23.41,327.79,0.0

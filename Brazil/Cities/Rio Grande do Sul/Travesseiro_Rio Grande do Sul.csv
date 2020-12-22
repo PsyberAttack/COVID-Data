@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Travesseiro,85.62,2,0,0.0,67,4,5.97,2868.15,171.23,2.87,2336,171.24,85.62,513.71,-42.8
+2020-12-20,Rio Grande do Sul,Travesseiro,0.0,0,0,0.0,67,4,5.97,2868.15,171.23,2.87,2336,85.62,-42.81,513.71,0.0
+2020-12-19,Rio Grande do Sul,Travesseiro,0.0,0,0,0.0,67,4,5.97,2868.15,171.23,2.87,2336,128.43,0.0,513.71,0.0
+2020-12-18,Rio Grande do Sul,Travesseiro,42.81,1,0,0.0,67,4,5.97,2868.15,171.23,2.87,2336,128.43,42.81,513.71,42.81
+2020-12-17,Rio Grande do Sul,Travesseiro,42.81,1,0,0.0,66,4,6.06,2825.34,171.23,2.83,2336,85.62,0.0,470.9,42.81
+2020-12-16,Rio Grande do Sul,Travesseiro,0.0,0,0,0.0,65,4,6.15,2782.53,171.23,2.78,2336,85.62,0.0,428.09,-128.42
 2020-12-14,Rio Grande do Sul,Travesseiro,0.0,0,0,0.0,65,4,6.15,2782.53,171.23,2.78,2336,85.62,0.0,556.51,-42.81
 2020-12-13,Rio Grande do Sul,Travesseiro,0.0,0,0,0.0,65,4,6.15,2782.53,171.23,2.78,2336,85.62,0.0,599.32,-256.85
 2020-12-12,Rio Grande do Sul,Travesseiro,42.81,1,0,0.0,65,4,6.15,2782.53,171.23,2.78,2336,85.62,42.81,856.17,0.0

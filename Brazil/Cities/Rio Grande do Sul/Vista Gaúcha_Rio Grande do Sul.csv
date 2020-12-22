@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Vista Gaúcha,666.43,19,0,0.0,83,2,2.41,2911.26,70.15,2.91,2851,736.59,666.43,876.9,631.35
+2020-12-20,Rio Grande do Sul,Vista Gaúcha,0.0,0,0,0.0,83,2,2.41,2911.26,70.15,2.91,2851,666.43,-35.08,876.9,0.0
+2020-12-19,Rio Grande do Sul,Vista Gaúcha,666.43,19,0,0.0,83,2,2.41,2911.26,70.15,2.91,2851,701.51,631.35,876.9,666.43
+2020-12-18,Rio Grande do Sul,Vista Gaúcha,0.0,0,0,0.0,64,2,3.12,2244.83,70.15,2.24,2851,70.16,0.0,210.47,0.0
+2020-12-17,Rio Grande do Sul,Vista Gaúcha,0.0,0,0,0.0,64,2,3.12,2244.83,70.15,2.24,2851,70.16,0.0,210.47,0.0
+2020-12-16,Rio Grande do Sul,Vista Gaúcha,0.0,0,0,0.0,64,2,3.12,2244.83,70.15,2.24,2851,70.16,0.0,210.47,-35.08
 2020-12-14,Rio Grande do Sul,Vista Gaúcha,0.0,0,0,0.0,64,2,3.12,2244.83,70.15,2.24,2851,70.16,0.0,245.55,0.0
 2020-12-13,Rio Grande do Sul,Vista Gaúcha,0.0,0,1,35.08,64,2,3.12,2244.83,70.15,2.24,2851,70.16,0.0,245.55,0.0
 2020-12-12,Rio Grande do Sul,Vista Gaúcha,35.08,1,0,0.0,64,1,1.56,2244.83,35.08,2.24,2851,70.16,35.08,245.55,35.08

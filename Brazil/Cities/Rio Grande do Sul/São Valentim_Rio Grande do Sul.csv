@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,São Valentim,151.56,5,0,0.0,99,1,1.01,3000.91,30.31,3.0,3299,394.06,151.56,1030.61,-30.31
+2020-12-20,Rio Grande do Sul,São Valentim,0.0,0,0,0.0,99,1,1.01,3000.91,30.31,3.0,3299,151.56,-90.94,939.68,-30.31
+2020-12-19,Rio Grande do Sul,São Valentim,30.31,1,0,0.0,99,1,1.01,3000.91,30.31,3.0,3299,242.5,30.31,969.99,-30.31
+2020-12-18,Rio Grande do Sul,São Valentim,30.31,1,0,0.0,98,1,1.02,2970.6,30.31,2.97,3299,212.19,30.31,1000.3,30.31
+2020-12-17,Rio Grande do Sul,São Valentim,0.0,0,0,0.0,97,1,1.03,2940.28,30.31,2.94,3299,181.88,-151.56,969.99,0.0
+2020-12-16,Rio Grande do Sul,São Valentim,90.94,3,0,0.0,97,1,1.03,2940.28,30.31,2.94,3299,333.44,90.94,969.99,-90.93
 2020-12-14,Rio Grande do Sul,São Valentim,0.0,0,0,0.0,94,1,1.06,2849.35,30.31,2.85,3299,242.5,0.0,1060.92,-30.31
 2020-12-13,Rio Grande do Sul,São Valentim,0.0,0,0,0.0,94,1,1.06,2849.35,30.31,2.85,3299,242.5,0.0,1091.23,0.0
 2020-12-12,Rio Grande do Sul,São Valentim,90.94,3,0,0.0,94,1,1.06,2849.35,30.31,2.85,3299,242.5,0.0,1091.23,60.63

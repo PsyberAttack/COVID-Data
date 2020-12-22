@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Bossoroca,0.0,0,0,0.0,105,1,0.95,1672.24,15.93,1.67,6279,79.63,0.0,398.17,0.0
+2020-12-20,Rio Grande do Sul,Bossoroca,0.0,0,0,0.0,105,1,0.95,1672.24,15.93,1.67,6279,-0.0,-15.93,366.31,-15.93
+2020-12-19,Rio Grande do Sul,Bossoroca,0.0,0,0,0.0,105,1,0.95,1672.24,15.93,1.67,6279,15.93,0.0,382.24,-15.93
+2020-12-18,Rio Grande do Sul,Bossoroca,0.0,0,0,0.0,105,1,0.95,1672.24,15.93,1.67,6279,15.93,-31.85,398.17,0.0
+2020-12-17,Rio Grande do Sul,Bossoroca,-15.93,-1,0,0.0,105,1,0.95,1672.24,15.93,1.67,6279,47.78,-47.78,398.17,-15.93
+2020-12-16,Rio Grande do Sul,Bossoroca,15.93,1,0,0.0,106,1,0.94,1688.17,15.93,1.69,6279,95.56,15.93,414.1,15.93
 2020-12-14,Rio Grande do Sul,Bossoroca,0.0,0,0,0.0,105,1,0.95,1672.24,15.93,1.67,6279,79.63,0.0,398.17,0.0
 2020-12-13,Rio Grande do Sul,Bossoroca,0.0,0,0,0.0,105,1,0.95,1672.24,15.93,1.67,6279,79.63,-15.93,398.17,0.0
 2020-12-12,Rio Grande do Sul,Bossoroca,15.93,1,0,0.0,105,1,0.95,1672.24,15.93,1.67,6279,95.56,0.0,398.17,15.93

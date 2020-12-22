@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Alpestre,255.67,16,0,0.0,92,2,2.17,1470.12,31.96,1.47,6258,431.45,255.67,495.37,255.67
+2020-12-20,Rio Grande do Sul,Alpestre,0.0,0,0,0.0,92,2,2.17,1470.12,31.96,1.47,6258,255.68,0.0,495.38,0.0
+2020-12-19,Rio Grande do Sul,Alpestre,0.0,0,0,0.0,92,2,2.17,1470.12,31.96,1.47,6258,255.68,0.0,495.38,0.0
+2020-12-18,Rio Grande do Sul,Alpestre,159.8,10,0,0.0,92,2,2.17,1470.12,31.96,1.47,6258,255.68,159.8,495.38,159.8
+2020-12-17,Rio Grande do Sul,Alpestre,31.96,2,0,0.0,82,2,2.44,1310.32,31.96,1.31,6258,95.88,-143.82,335.58,31.96
+2020-12-16,Rio Grande do Sul,Alpestre,63.92,4,0,0.0,80,2,2.5,1278.36,31.96,1.28,6258,239.7,63.92,303.62,63.92
 2020-12-14,Rio Grande do Sul,Alpestre,0.0,0,0,0.0,76,2,2.63,1214.45,31.96,1.21,6258,175.78,0.0,239.7,0.0
 2020-12-13,Rio Grande do Sul,Alpestre,0.0,0,0,0.0,76,2,2.63,1214.45,31.96,1.21,6258,175.78,0.0,239.7,0.0
 2020-12-12,Rio Grande do Sul,Alpestre,0.0,0,0,0.0,76,2,2.63,1214.45,31.96,1.21,6258,175.78,0.0,239.7,-15.98

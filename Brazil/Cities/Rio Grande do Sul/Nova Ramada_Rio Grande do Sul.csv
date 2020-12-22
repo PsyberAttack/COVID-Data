@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Nova Ramada,44.6,1,1,44.6,57,1,1.75,2542.37,44.6,2.54,2242,312.21,0.0,1025.87,-44.61
+2020-12-20,Rio Grande do Sul,Nova Ramada,0.0,0,0,0.0,57,1,1.75,2542.37,44.6,2.54,2242,89.2,-178.41,892.06,0.0
+2020-12-19,Rio Grande do Sul,Nova Ramada,0.0,0,1,44.6,57,1,1.75,2542.37,44.6,2.54,2242,267.61,-44.6,892.06,-178.41
+2020-12-18,Rio Grande do Sul,Nova Ramada,0.0,0,0,0.0,57,0,0.0,2542.37,0.0,2.54,2242,312.21,0.0,1070.47,44.6
+2020-12-17,Rio Grande do Sul,Nova Ramada,0.0,0,0,0.0,57,0,0.0,2542.37,0.0,2.54,2242,312.21,0.0,1025.87,0.0
+2020-12-16,Rio Grande do Sul,Nova Ramada,44.6,1,0,0.0,57,0,0.0,2542.37,0.0,2.54,2242,312.21,0.0,1025.87,-44.61
 2020-12-14,Rio Grande do Sul,Nova Ramada,0.0,0,0,0.0,56,0,0.0,2497.77,0.0,2.5,2242,312.21,0.0,1070.48,-178.41
 2020-12-13,Rio Grande do Sul,Nova Ramada,44.6,1,0,0.0,56,0,0.0,2497.77,0.0,2.5,2242,312.21,-44.61,1248.89,44.6
 2020-12-12,Rio Grande do Sul,Nova Ramada,178.41,4,0,0.0,55,0,0.0,2453.17,0.0,2.45,2242,356.82,44.6,1204.29,89.2

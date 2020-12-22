@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Carlos Gomes,217.86,3,0,0.0,48,0,0.0,3485.84,0.0,3.49,1377,580.96,217.86,2759.59,217.86
+2020-12-20,Rio Grande do Sul,Carlos Gomes,0.0,0,0,0.0,48,0,0.0,3485.84,0.0,3.49,1377,217.86,-145.24,2541.73,0.0
+2020-12-19,Rio Grande do Sul,Carlos Gomes,0.0,0,0,0.0,48,0,0.0,3485.84,0.0,3.49,1377,363.1,0.0,2541.73,-217.86
+2020-12-18,Rio Grande do Sul,Carlos Gomes,72.62,1,0,0.0,48,0,0.0,3485.84,0.0,3.49,1377,363.1,0.0,2759.59,72.62
+2020-12-17,Rio Grande do Sul,Carlos Gomes,0.0,0,0,0.0,47,0,0.0,3413.22,0.0,3.41,1377,363.1,-145.24,2686.97,0.0
+2020-12-16,Rio Grande do Sul,Carlos Gomes,145.24,2,0,0.0,47,0,0.0,3413.22,0.0,3.41,1377,508.34,145.24,2686.97,145.24
 2020-12-14,Rio Grande do Sul,Carlos Gomes,0.0,0,0,0.0,45,0,0.0,3267.97,0.0,3.27,1377,363.1,0.0,2541.73,0.0
 2020-12-13,Rio Grande do Sul,Carlos Gomes,0.0,0,0,0.0,45,0,0.0,3267.97,0.0,3.27,1377,363.1,-508.35,2541.73,0.0
 2020-12-12,Rio Grande do Sul,Carlos Gomes,145.24,2,0,0.0,45,0,0.0,3267.97,0.0,3.27,1377,871.45,145.24,2541.73,145.24

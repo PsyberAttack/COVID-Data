@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Palmitinho,170.04,12,0,0.0,111,3,2.7,1572.91,42.51,1.57,7057,311.74,170.04,595.14,155.87
+2020-12-20,Rio Grande do Sul,Palmitinho,0.0,0,0,0.0,111,3,2.7,1572.91,42.51,1.57,7057,170.04,-42.51,552.63,-28.34
+2020-12-19,Rio Grande do Sul,Palmitinho,0.0,0,0,0.0,111,3,2.7,1572.91,42.51,1.57,7057,212.55,-99.19,580.97,0.0
+2020-12-18,Rio Grande do Sul,Palmitinho,141.7,10,0,0.0,111,3,2.7,1572.91,42.51,1.57,7057,311.74,141.7,580.97,127.53
+2020-12-17,Rio Grande do Sul,Palmitinho,0.0,0,0,0.0,101,3,2.97,1431.2,42.51,1.43,7057,170.04,0.0,453.44,0.0
+2020-12-16,Rio Grande do Sul,Palmitinho,28.34,2,0,0.0,101,3,2.97,1431.2,42.51,1.43,7057,170.04,28.34,453.44,14.17
 2020-12-14,Rio Grande do Sul,Palmitinho,0.0,0,0,0.0,99,3,3.03,1402.86,42.51,1.4,7057,141.7,-14.17,439.27,-85.02
 2020-12-13,Rio Grande do Sul,Palmitinho,0.0,0,0,0.0,99,3,3.03,1402.86,42.51,1.4,7057,155.87,0.0,524.29,-14.17
 2020-12-12,Rio Grande do Sul,Palmitinho,42.51,3,0,0.0,99,3,3.03,1402.86,42.51,1.4,7057,155.87,-28.34,538.46,42.51

@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Pouso Novo,549.12,9,0,0.0,29,3,10.34,1769.37,183.04,1.77,1639,671.14,549.12,915.19,549.12
+2020-12-20,Rio Grande do Sul,Pouso Novo,0.0,0,0,0.0,29,3,10.34,1769.37,183.04,1.77,1639,610.12,0.0,915.18,0.0
+2020-12-19,Rio Grande do Sul,Pouso Novo,61.01,1,0,0.0,29,3,10.34,1769.37,183.04,1.77,1639,610.12,0.0,915.18,61.01
+2020-12-18,Rio Grande do Sul,Pouso Novo,427.09,7,0,0.0,28,3,10.71,1708.36,183.04,1.71,1639,610.12,427.09,854.17,427.09
+2020-12-17,Rio Grande do Sul,Pouso Novo,0.0,0,0,0.0,21,3,14.29,1281.27,183.04,1.28,1639,183.03,0.0,427.08,0.0
+2020-12-16,Rio Grande do Sul,Pouso Novo,61.01,1,0,0.0,21,3,14.29,1281.27,183.04,1.28,1639,183.03,61.01,427.08,61.01
 2020-12-14,Rio Grande do Sul,Pouso Novo,0.0,0,0,0.0,20,3,15.0,1220.26,183.04,1.22,1639,122.02,0.0,366.07,0.0
 2020-12-13,Rio Grande do Sul,Pouso Novo,61.01,1,0,0.0,20,3,15.0,1220.26,183.04,1.22,1639,122.02,61.01,366.07,61.01
 2020-12-12,Rio Grande do Sul,Pouso Novo,0.0,0,0,0.0,19,3,15.79,1159.24,183.04,1.16,1639,61.01,0.0,305.06,0.0

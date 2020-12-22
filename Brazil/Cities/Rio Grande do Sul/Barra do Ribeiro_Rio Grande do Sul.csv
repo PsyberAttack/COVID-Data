@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Barra do Ribeiro,378.03,51,2,14.82,268,22,8.21,1986.51,163.07,1.99,13491,415.08,311.32,689.32,378.03
+2020-12-20,Rio Grande do Sul,Barra do Ribeiro,0.0,0,0,0.0,268,22,8.21,1986.51,163.07,1.99,13491,392.84,-14.82,607.78,-44.47
+2020-12-19,Rio Grande do Sul,Barra do Ribeiro,14.82,2,0,0.0,268,22,8.21,1986.51,163.07,1.99,13491,407.66,14.82,652.25,-22.24
+2020-12-18,Rio Grande do Sul,Barra do Ribeiro,22.24,3,1,7.41,266,22,8.27,1971.68,163.07,1.97,13491,392.84,14.83,674.49,22.24
+2020-12-17,Rio Grande do Sul,Barra do Ribeiro,14.82,2,1,7.41,263,21,7.98,1949.45,155.66,1.95,13491,378.01,14.82,652.25,14.82
+2020-12-16,Rio Grande do Sul,Barra do Ribeiro,326.14,44,0,0.0,261,20,7.66,1934.62,148.25,1.93,13491,363.19,259.43,637.43,326.14
 2020-12-14,Rio Grande do Sul,Barra do Ribeiro,0.0,0,1,7.41,217,20,9.22,1608.48,148.25,1.61,13491,103.76,0.0,311.29,-22.24
 2020-12-13,Rio Grande do Sul,Barra do Ribeiro,14.82,2,0,0.0,217,19,8.76,1608.48,140.83,1.61,13491,103.76,7.41,333.53,-66.72
 2020-12-12,Rio Grande do Sul,Barra do Ribeiro,14.82,2,0,0.0,215,19,8.84,1593.66,140.83,1.59,13491,96.35,14.82,400.25,14.82

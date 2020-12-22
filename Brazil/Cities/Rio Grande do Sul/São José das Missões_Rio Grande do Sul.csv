@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,São José das Missões,315.33,8,0,0.0,102,1,0.98,4020.5,39.42,4.02,2537,670.08,315.33,1970.82,315.33
+2020-12-20,Rio Grande do Sul,São José das Missões,0.0,0,0,0.0,102,1,0.98,4020.5,39.42,4.02,2537,354.76,-197.08,1970.83,0.0
+2020-12-19,Rio Grande do Sul,São José das Missões,0.0,0,0,0.0,102,1,0.98,4020.5,39.42,4.02,2537,551.84,0.0,1970.83,0.0
+2020-12-18,Rio Grande do Sul,São José das Missões,275.92,7,0,0.0,102,1,0.98,4020.5,39.42,4.02,2537,551.84,157.67,1970.83,275.92
+2020-12-17,Rio Grande do Sul,São José das Missões,0.0,0,0,0.0,95,1,1.05,3744.58,39.42,3.74,2537,394.17,0.0,1694.91,0.0
+2020-12-16,Rio Grande do Sul,São José das Missões,39.42,1,0,0.0,95,1,1.05,3744.58,39.42,3.74,2537,394.17,39.42,1694.91,39.42
 2020-12-14,Rio Grande do Sul,São José das Missões,0.0,0,0,0.0,94,1,1.06,3705.16,39.42,3.71,2537,354.75,0.0,1655.49,0.0
 2020-12-13,Rio Grande do Sul,São José das Missões,39.42,1,0,0.0,94,1,1.06,3705.16,39.42,3.71,2537,354.75,39.42,1655.49,0.0
 2020-12-12,Rio Grande do Sul,São José das Missões,197.08,5,0,0.0,93,1,1.08,3665.75,39.42,3.67,2537,315.33,197.08,1655.49,197.08

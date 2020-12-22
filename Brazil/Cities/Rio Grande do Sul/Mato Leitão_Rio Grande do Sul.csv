@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Mato Leitão,155.04,7,0,0.0,161,0,0.0,3565.89,0.0,3.57,4515,287.94,155.04,575.88,155.04
+2020-12-20,Rio Grande do Sul,Mato Leitão,0.0,0,0,0.0,161,0,0.0,3565.89,0.0,3.57,4515,155.05,-22.15,531.59,-44.3
+2020-12-19,Rio Grande do Sul,Mato Leitão,0.0,0,0,0.0,161,0,0.0,3565.89,0.0,3.57,4515,177.2,-44.3,575.89,0.0
+2020-12-18,Rio Grande do Sul,Mato Leitão,22.15,1,0,0.0,161,0,0.0,3565.89,0.0,3.57,4515,221.5,22.15,575.89,22.15
+2020-12-17,Rio Grande do Sul,Mato Leitão,66.45,3,0,0.0,160,0,0.0,3543.74,0.0,3.54,4515,199.35,0.0,553.74,66.45
+2020-12-16,Rio Grande do Sul,Mato Leitão,66.45,3,0,0.0,157,0,0.0,3477.3,0.0,3.48,4515,199.35,66.45,487.29,66.45
 2020-12-14,Rio Grande do Sul,Mato Leitão,0.0,0,0,0.0,154,0,0.0,3410.85,0.0,3.41,4515,132.9,0.0,420.84,0.0
 2020-12-13,Rio Grande do Sul,Mato Leitão,0.0,0,0,0.0,154,0,0.0,3410.85,0.0,3.41,4515,132.9,-22.15,420.84,-44.3
 2020-12-12,Rio Grande do Sul,Mato Leitão,22.15,1,0,0.0,154,0,0.0,3410.85,0.0,3.41,4515,155.05,22.15,465.14,0.0

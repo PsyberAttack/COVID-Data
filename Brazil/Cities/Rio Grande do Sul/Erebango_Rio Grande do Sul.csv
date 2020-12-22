@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Erebango,300.9,9,0,0.0,110,0,0.0,3677.7,0.0,3.68,2991,601.8,300.9,1972.55,267.47
+2020-12-20,Rio Grande do Sul,Erebango,0.0,0,0,0.0,110,0,0.0,3677.7,0.0,3.68,2991,300.9,-33.43,1872.25,-33.43
+2020-12-19,Rio Grande do Sul,Erebango,33.43,1,0,0.0,110,0,0.0,3677.7,0.0,3.68,2991,334.33,33.43,1905.68,-33.44
+2020-12-18,Rio Grande do Sul,Erebango,100.3,3,0,0.0,109,0,0.0,3644.27,0.0,3.64,2991,300.9,66.87,1939.12,100.3
+2020-12-17,Rio Grande do Sul,Erebango,66.87,2,0,0.0,106,0,0.0,3543.97,0.0,3.54,2991,234.03,-167.17,1838.82,66.87
+2020-12-16,Rio Grande do Sul,Erebango,100.3,3,0,0.0,104,0,0.0,3477.1,0.0,3.48,2991,401.2,100.3,1771.95,66.87
 2020-12-14,Rio Grande do Sul,Erebango,0.0,0,0,0.0,101,0,0.0,3376.8,0.0,3.38,2991,300.9,0.0,1705.08,-33.43
 2020-12-13,Rio Grande do Sul,Erebango,0.0,0,0,0.0,101,0,0.0,3376.8,0.0,3.38,2991,300.9,-100.3,1738.51,-33.43
 2020-12-12,Rio Grande do Sul,Erebango,33.43,1,0,0.0,101,0,0.0,3376.8,0.0,3.38,2991,401.2,0.0,1771.94,33.43

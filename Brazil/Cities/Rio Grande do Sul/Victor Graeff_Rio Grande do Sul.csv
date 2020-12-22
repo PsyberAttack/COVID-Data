@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Victor Graeff,416.38,12,0,0.0,98,2,2.04,3400.42,69.4,3.4,2882,1145.04,416.38,1526.71,416.38
+2020-12-20,Rio Grande do Sul,Victor Graeff,0.0,0,0,0.0,98,2,2.04,3400.42,69.4,3.4,2882,416.38,-208.19,1492.01,-69.4
+2020-12-19,Rio Grande do Sul,Victor Graeff,34.7,1,0,0.0,98,2,2.04,3400.42,69.4,3.4,2882,624.57,0.0,1561.41,69.4
+2020-12-18,Rio Grande do Sul,Victor Graeff,69.4,2,0,0.0,97,2,2.06,3365.72,69.4,3.37,2882,624.57,-104.09,1492.01,69.4
+2020-12-17,Rio Grande do Sul,Victor Graeff,138.79,4,0,0.0,95,2,2.11,3296.32,69.4,3.3,2882,728.66,-173.49,1422.61,138.79
+2020-12-16,Rio Grande do Sul,Victor Graeff,173.49,5,0,0.0,91,2,2.2,3157.53,69.4,3.16,2882,902.15,173.49,1283.82,173.49
 2020-12-14,Rio Grande do Sul,Victor Graeff,0.0,0,0,0.0,86,2,2.33,2984.04,69.4,2.98,2882,728.66,0.0,1110.33,0.0
 2020-12-13,Rio Grande do Sul,Victor Graeff,0.0,0,0,0.0,86,2,2.33,2984.04,69.4,2.98,2882,728.66,0.0,1110.33,0.0
 2020-12-12,Rio Grande do Sul,Victor Graeff,208.19,6,0,0.0,86,2,2.33,2984.04,69.4,2.98,2882,728.66,104.1,1110.33,208.19

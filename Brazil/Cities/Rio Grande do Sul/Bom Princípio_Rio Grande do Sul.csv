@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Bom Princípio,284.6,40,0,0.0,573,5,0.87,4076.84,35.57,4.08,14055,569.19,291.71,1081.45,277.49
+2020-12-20,Rio Grande do Sul,Bom Princípio,0.0,0,0,0.0,573,5,0.87,4076.84,35.57,4.08,14055,291.7,-184.99,967.6,-71.15
+2020-12-19,Rio Grande do Sul,Bom Princípio,0.0,0,0,0.0,573,5,0.87,4076.84,35.57,4.08,14055,476.69,-28.46,1038.75,-42.69
+2020-12-18,Rio Grande do Sul,Bom Princípio,249.02,35,0,0.0,573,5,0.87,4076.84,35.57,4.08,14055,505.15,249.02,1081.44,249.02
+2020-12-17,Rio Grande do Sul,Bom Princípio,7.11,1,0,0.0,538,5,0.93,3827.82,35.57,3.83,14055,256.13,-56.92,832.42,7.11
+2020-12-16,Rio Grande do Sul,Bom Princípio,28.46,4,0,0.0,537,5,0.93,3820.7,35.57,3.82,14055,313.05,35.57,825.31,21.35
 2020-12-14,Rio Grande do Sul,Bom Princípio,0.0,0,0,0.0,533,5,0.94,3792.24,35.57,3.79,14055,277.48,0.0,803.96,-28.46
 2020-12-13,Rio Grande do Sul,Bom Princípio,7.11,1,0,0.0,533,5,0.94,3792.24,35.57,3.79,14055,277.48,-42.69,832.42,-21.35
 2020-12-12,Rio Grande do Sul,Bom Princípio,184.99,26,0,0.0,532,5,0.94,3785.13,35.57,3.79,14055,320.17,92.5,853.77,177.88

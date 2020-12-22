@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Doutor Ricardo,605.14,12,0,0.0,73,0,0.0,3681.29,0.0,3.68,1983,958.14,605.14,1210.29,605.14
+2020-12-20,Rio Grande do Sul,Doutor Ricardo,0.0,0,0,0.0,73,0,0.0,3681.29,0.0,3.68,1983,605.14,-100.86,1210.29,0.0
+2020-12-19,Rio Grande do Sul,Doutor Ricardo,0.0,0,0,0.0,73,0,0.0,3681.29,0.0,3.68,1983,706.0,0.0,1210.29,0.0
+2020-12-18,Rio Grande do Sul,Doutor Ricardo,0.0,0,0,0.0,73,0,0.0,3681.29,0.0,3.68,1983,706.0,-252.14,1210.29,0.0
+2020-12-17,Rio Grande do Sul,Doutor Ricardo,0.0,0,0,0.0,73,0,0.0,3681.29,0.0,3.68,1983,958.14,0.0,1210.29,0.0
+2020-12-16,Rio Grande do Sul,Doutor Ricardo,605.14,12,0,0.0,73,0,0.0,3681.29,0.0,3.68,1983,958.14,605.14,1210.29,605.14
 2020-12-14,Rio Grande do Sul,Doutor Ricardo,0.0,0,0,0.0,61,0,0.0,3076.15,0.0,3.08,1983,353.0,0.0,605.15,0.0
 2020-12-13,Rio Grande do Sul,Doutor Ricardo,0.0,0,0,0.0,61,0,0.0,3076.15,0.0,3.08,1983,353.0,0.0,605.15,0.0
 2020-12-12,Rio Grande do Sul,Doutor Ricardo,100.86,2,0,0.0,61,0,0.0,3076.15,0.0,3.08,1983,353.0,-50.43,605.15,100.86

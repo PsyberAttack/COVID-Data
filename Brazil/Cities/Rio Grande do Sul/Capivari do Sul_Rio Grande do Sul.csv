@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Capivari do Sul,665.24,31,0,0.0,255,1,0.39,5472.1,21.46,5.47,4660,1223.19,665.24,3304.74,515.03
+2020-12-20,Rio Grande do Sul,Capivari do Sul,0.0,0,0,0.0,255,1,0.39,5472.1,21.46,5.47,4660,665.23,-257.51,2553.66,-150.21
+2020-12-19,Rio Grande do Sul,Capivari do Sul,193.13,9,0,0.0,255,1,0.39,5472.1,21.46,5.47,4660,922.74,107.29,2703.87,-407.73
+2020-12-18,Rio Grande do Sul,Capivari do Sul,150.21,7,0,0.0,246,1,0.41,5278.97,21.46,5.28,4660,815.45,64.37,3111.6,150.21
+2020-12-17,Rio Grande do Sul,Capivari do Sul,107.3,5,0,0.0,239,1,0.42,5128.76,21.46,5.13,4660,751.08,-21.46,2961.39,107.3
+2020-12-16,Rio Grande do Sul,Capivari do Sul,214.59,10,0,0.0,234,1,0.43,5021.46,21.46,5.02,4660,772.54,214.59,2854.09,64.38
 2020-12-14,Rio Grande do Sul,Capivari do Sul,0.0,0,0,0.0,224,1,0.45,4806.87,21.46,4.81,4660,557.95,0.0,2789.71,-64.38
 2020-12-13,Rio Grande do Sul,Capivari do Sul,0.0,0,0,0.0,224,1,0.45,4806.87,21.46,4.81,4660,557.95,-42.92,2854.09,-214.59
 2020-12-12,Rio Grande do Sul,Capivari do Sul,257.51,12,1,21.46,224,1,0.45,4806.87,21.46,4.81,4660,600.87,257.51,3068.68,107.3

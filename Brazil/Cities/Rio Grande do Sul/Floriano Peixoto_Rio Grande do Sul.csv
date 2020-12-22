@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Floriano Peixoto,226.5,4,1,56.63,57,1,1.75,3227.63,56.63,3.23,1766,509.63,226.5,1245.76,226.5
+2020-12-20,Rio Grande do Sul,Floriano Peixoto,0.0,0,0,0.0,57,1,1.75,3227.63,56.63,3.23,1766,226.5,-226.5,1132.51,0.0
+2020-12-19,Rio Grande do Sul,Floriano Peixoto,113.25,2,0,0.0,57,1,1.75,3227.63,56.63,3.23,1766,453.0,113.25,1132.51,0.0
+2020-12-18,Rio Grande do Sul,Floriano Peixoto,-56.63,-1,0,0.0,55,1,1.82,3114.38,56.63,3.11,1766,339.75,-56.63,1132.51,-56.63
+2020-12-17,Rio Grande do Sul,Floriano Peixoto,113.25,2,0,0.0,56,1,1.79,3171.01,56.63,3.17,1766,396.38,56.62,1189.14,113.25
+2020-12-16,Rio Grande do Sul,Floriano Peixoto,56.63,1,1,56.63,54,1,1.85,3057.76,56.63,3.06,1766,339.76,56.63,1075.89,56.63
 2020-12-14,Rio Grande do Sul,Floriano Peixoto,0.0,0,0,0.0,53,0,0.0,3001.13,0.0,3.0,1766,283.13,0.0,1019.26,-56.63
 2020-12-13,Rio Grande do Sul,Floriano Peixoto,0.0,0,0,0.0,53,0,0.0,3001.13,0.0,3.0,1766,283.13,0.0,1075.89,0.0
 2020-12-12,Rio Grande do Sul,Floriano Peixoto,226.5,4,0,0.0,53,0,0.0,3001.13,0.0,3.0,1766,283.13,0.0,1075.89,226.5

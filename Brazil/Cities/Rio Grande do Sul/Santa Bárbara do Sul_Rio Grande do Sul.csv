@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Santa Bárbara do Sul,162.62,13,2,25.02,404,13,3.22,5053.79,162.62,5.05,7994,350.27,150.11,1238.46,-50.04
+2020-12-20,Rio Grande do Sul,Santa Bárbara do Sul,0.0,0,0,0.0,404,13,3.22,5053.79,162.62,5.05,7994,162.63,-37.53,1113.37,-87.57
+2020-12-19,Rio Grande do Sul,Santa Bárbara do Sul,37.53,3,0,0.0,404,13,3.22,5053.79,162.62,5.05,7994,200.16,25.02,1200.94,0.0
+2020-12-18,Rio Grande do Sul,Santa Bárbara do Sul,25.02,2,0,0.0,401,13,3.24,5016.26,162.62,5.02,7994,175.14,-50.04,1200.94,25.02
+2020-12-17,Rio Grande do Sul,Santa Bárbara do Sul,87.57,7,1,12.51,399,13,3.26,4991.24,162.62,4.99,7994,225.18,25.02,1175.92,87.57
+2020-12-16,Rio Grande do Sul,Santa Bárbara do Sul,12.51,1,1,12.51,392,12,3.06,4903.68,150.11,4.9,7994,200.16,0.0,1088.35,-200.15
 2020-12-14,Rio Grande do Sul,Santa Bárbara do Sul,0.0,0,1,12.51,391,11,2.81,4891.17,137.6,4.89,7994,200.16,0.0,1288.5,-125.09
 2020-12-13,Rio Grande do Sul,Santa Bárbara do Sul,0.0,0,0,0.0,391,10,2.56,4891.17,125.09,4.89,7994,200.16,0.0,1413.59,-75.06
 2020-12-12,Rio Grande do Sul,Santa Bárbara do Sul,37.53,3,0,0.0,391,10,2.56,4891.17,125.09,4.89,7994,200.16,-75.05,1488.65,-100.07

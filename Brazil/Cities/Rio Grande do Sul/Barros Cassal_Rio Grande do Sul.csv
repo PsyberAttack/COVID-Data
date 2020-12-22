@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Barros Cassal,187.52,21,1,8.93,212,2,0.94,1893.03,17.86,1.89,11199,455.39,80.37,1410.83,187.52
+2020-12-20,Rio Grande do Sul,Barros Cassal,26.79,3,0,0.0,212,2,0.94,1893.03,17.86,1.89,11199,214.31,-44.64,1410.83,26.79
+2020-12-19,Rio Grande do Sul,Barros Cassal,26.79,3,0,0.0,209,2,0.96,1866.24,17.86,1.87,11199,258.95,-44.64,1384.04,26.79
+2020-12-18,Rio Grande do Sul,Barros Cassal,107.15,12,0,0.0,206,2,0.97,1839.45,17.86,1.84,11199,303.59,35.72,1357.25,107.15
+2020-12-17,Rio Grande do Sul,Barros Cassal,-8.93,-1,0,0.0,194,2,1.03,1732.3,17.86,1.73,11199,267.87,-35.72,1250.1,-8.93
+2020-12-16,Rio Grande do Sul,Barros Cassal,35.72,4,1,8.93,195,2,1.03,1741.23,17.86,1.74,11199,303.59,-71.43,1259.03,35.72
 2020-12-14,Rio Grande do Sul,Barros Cassal,26.79,3,0,0.0,191,1,0.52,1705.51,8.93,1.71,11199,375.02,-107.15,1223.31,26.79
 2020-12-13,Rio Grande do Sul,Barros Cassal,0.0,0,0,0.0,188,1,0.53,1678.72,8.93,1.68,11199,482.17,-98.22,1196.52,0.0
 2020-12-12,Rio Grande do Sul,Barros Cassal,71.43,8,0,0.0,188,1,0.53,1678.72,8.93,1.68,11199,580.39,53.57,1196.52,71.43

@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,São Francisco de Assis,70.9,13,0,0.0,474,4,0.84,2585.22,21.82,2.59,18335,229.07,70.9,1210.79,65.45
+2020-12-20,Rio Grande do Sul,São Francisco de Assis,0.0,0,0,0.0,474,4,0.84,2585.22,21.82,2.59,18335,70.9,-16.36,1074.44,-70.9
+2020-12-19,Rio Grande do Sul,São Francisco de Assis,0.0,0,0,0.0,474,4,0.84,2585.22,21.82,2.59,18335,87.26,-130.9,1145.34,-65.45
+2020-12-18,Rio Grande do Sul,São Francisco de Assis,5.45,1,0,0.0,474,4,0.84,2585.22,21.82,2.59,18335,218.16,-5.46,1210.79,5.45
+2020-12-17,Rio Grande do Sul,São Francisco de Assis,0.0,0,0,0.0,473,4,0.85,2579.77,21.82,2.58,18335,223.62,0.0,1205.34,0.0
+2020-12-16,Rio Grande do Sul,São Francisco de Assis,65.45,12,0,0.0,473,4,0.85,2579.77,21.82,2.58,18335,223.62,65.45,1205.34,60.0
 2020-12-14,Rio Grande do Sul,São Francisco de Assis,0.0,0,0,0.0,461,4,0.87,2514.32,21.82,2.51,18335,158.17,0.0,1145.34,0.0
 2020-12-13,Rio Grande do Sul,São Francisco de Assis,0.0,0,0,0.0,461,4,0.87,2514.32,21.82,2.51,18335,158.17,0.0,1145.34,-245.43
 2020-12-12,Rio Grande do Sul,São Francisco de Assis,16.36,3,0,0.0,461,4,0.87,2514.32,21.82,2.51,18335,158.17,16.36,1390.77,-21.82

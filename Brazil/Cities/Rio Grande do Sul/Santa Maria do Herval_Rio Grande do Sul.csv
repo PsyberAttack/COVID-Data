@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Santa Maria do Herval,315.91,20,0,0.0,198,3,1.52,3127.47,47.39,3.13,6331,884.54,315.91,1295.24,315.91
+2020-12-20,Rio Grande do Sul,Santa Maria do Herval,0.0,0,0,0.0,198,3,1.52,3127.47,47.39,3.13,6331,315.91,-126.36,1295.24,-15.8
+2020-12-19,Rio Grande do Sul,Santa Maria do Herval,31.59,2,0,0.0,198,3,1.52,3127.47,47.39,3.13,6331,442.27,-15.8,1311.04,47.39
+2020-12-18,Rio Grande do Sul,Santa Maria do Herval,63.18,4,0,0.0,196,3,1.53,3095.88,47.39,3.1,6331,458.07,-331.7,1263.65,63.18
+2020-12-17,Rio Grande do Sul,Santa Maria do Herval,110.57,7,0,0.0,192,3,1.56,3032.7,47.39,3.03,6331,789.77,110.57,1200.47,110.57
+2020-12-16,Rio Grande do Sul,Santa Maria do Herval,110.57,7,0,0.0,185,3,1.62,2922.13,47.39,2.92,6331,679.2,110.57,1089.9,110.57
 2020-12-14,Rio Grande do Sul,Santa Maria do Herval,-15.8,-1,0,0.0,178,3,1.69,2811.56,47.39,2.81,6331,568.63,-15.8,979.33,-15.8
 2020-12-13,Rio Grande do Sul,Santa Maria do Herval,15.8,1,0,0.0,179,3,1.68,2827.36,47.39,2.83,6331,584.43,-31.59,995.13,31.6
 2020-12-12,Rio Grande do Sul,Santa Maria do Herval,126.36,8,0,0.0,178,3,1.69,2811.56,47.39,2.81,6331,616.02,126.36,963.53,126.36

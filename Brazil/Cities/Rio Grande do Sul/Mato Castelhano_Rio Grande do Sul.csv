@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Mato Castelhano,393.7,10,0,0.0,113,2,1.77,4448.82,78.74,4.45,2540,708.66,393.7,1496.06,196.85
+2020-12-20,Rio Grande do Sul,Mato Castelhano,0.0,0,0,0.0,113,2,1.77,4448.82,78.74,4.45,2540,393.7,-157.48,1417.32,-78.74
+2020-12-19,Rio Grande do Sul,Mato Castelhano,236.22,6,0,0.0,113,2,1.77,4448.82,78.74,4.45,2540,551.18,78.74,1496.06,236.22
+2020-12-18,Rio Grande do Sul,Mato Castelhano,0.0,0,0,0.0,107,2,1.87,4212.6,78.74,4.21,2540,472.44,0.0,1259.84,0.0
+2020-12-17,Rio Grande do Sul,Mato Castelhano,118.11,3,0,0.0,107,2,1.87,4212.6,78.74,4.21,2540,472.44,118.11,1259.84,118.11
+2020-12-16,Rio Grande do Sul,Mato Castelhano,39.37,1,0,0.0,104,2,1.92,4094.49,78.74,4.09,2540,354.33,39.37,1141.73,-157.48
 2020-12-14,Rio Grande do Sul,Mato Castelhano,0.0,0,0,0.0,103,2,1.94,4055.12,78.74,4.06,2540,314.96,0.0,1299.21,0.0
 2020-12-13,Rio Grande do Sul,Mato Castelhano,0.0,0,0,0.0,103,2,1.94,4055.12,78.74,4.06,2540,314.96,-118.11,1299.21,-78.74
 2020-12-12,Rio Grande do Sul,Mato Castelhano,157.48,4,0,0.0,103,2,1.94,4055.12,78.74,4.06,2540,433.07,157.48,1377.95,157.48

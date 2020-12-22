@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Mariano Moro,492.37,10,0,0.0,90,1,1.11,4431.31,49.24,4.43,2031,1427.86,344.66,3101.91,492.37
+2020-12-20,Rio Grande do Sul,Mariano Moro,0.0,0,0,0.0,90,1,1.11,4431.31,49.24,4.43,2031,492.37,-393.89,3101.91,0.0
+2020-12-19,Rio Grande do Sul,Mariano Moro,0.0,0,0,0.0,90,1,1.11,4431.31,49.24,4.43,2031,886.26,-98.47,3101.91,0.0
+2020-12-18,Rio Grande do Sul,Mariano Moro,49.24,1,0,0.0,90,1,1.11,4431.31,49.24,4.43,2031,984.73,49.24,3101.91,49.24
+2020-12-17,Rio Grande do Sul,Mariano Moro,147.71,3,0,0.0,89,1,1.12,4382.08,49.24,4.38,2031,935.49,-295.42,3052.67,147.71
+2020-12-16,Rio Grande do Sul,Mariano Moro,295.42,6,0,0.0,86,1,1.16,4234.37,49.24,4.23,2031,1230.91,147.71,2904.96,295.42
 2020-12-14,Rio Grande do Sul,Mariano Moro,0.0,0,1,49.24,80,1,1.25,3938.95,49.24,3.94,2031,1083.2,-49.24,2609.54,0.0
 2020-12-13,Rio Grande do Sul,Mariano Moro,0.0,0,0,0.0,80,0,0.0,3938.95,0.0,3.94,2031,1132.44,-344.66,2609.54,0.0
 2020-12-12,Rio Grande do Sul,Mariano Moro,393.89,8,0,0.0,80,0,0.0,3938.95,0.0,3.94,2031,1477.1,295.42,2609.54,393.89

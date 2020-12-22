@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Sertão Santana,77.09,5,0,0.0,170,3,1.76,2621.03,46.25,2.62,6486,123.35,77.09,308.36,77.09
+2020-12-20,Rio Grande do Sul,Sertão Santana,0.0,0,0,0.0,170,3,1.76,2621.03,46.25,2.62,6486,107.94,-15.42,262.12,-46.25
+2020-12-19,Rio Grande do Sul,Sertão Santana,0.0,0,0,0.0,170,3,1.76,2621.03,46.25,2.62,6486,123.36,0.0,308.37,0.0
+2020-12-18,Rio Grande do Sul,Sertão Santana,30.84,2,0,0.0,170,3,1.76,2621.03,46.25,2.62,6486,123.36,30.84,308.37,30.84
+2020-12-17,Rio Grande do Sul,Sertão Santana,15.42,1,0,0.0,168,3,1.79,2590.19,46.25,2.59,6486,92.52,15.42,277.53,15.42
+2020-12-16,Rio Grande do Sul,Sertão Santana,30.84,2,0,0.0,167,3,1.8,2574.78,46.25,2.57,6486,77.1,30.84,262.11,30.84
 2020-12-14,Rio Grande do Sul,Sertão Santana,15.42,1,0,0.0,165,3,1.82,2543.94,46.25,2.54,6486,46.26,15.42,231.27,-15.42
 2020-12-13,Rio Grande do Sul,Sertão Santana,15.42,1,0,0.0,164,3,1.83,2528.52,46.25,2.53,6486,30.84,15.42,246.69,15.42
 2020-12-12,Rio Grande do Sul,Sertão Santana,15.42,1,0,0.0,163,3,1.84,2513.11,46.25,2.51,6486,15.42,15.42,231.27,15.42

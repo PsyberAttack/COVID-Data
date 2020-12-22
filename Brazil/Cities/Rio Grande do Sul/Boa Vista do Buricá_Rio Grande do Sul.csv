@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Boa Vista do Buricá,193.68,13,0,0.0,251,3,1.2,3739.57,44.7,3.74,6712,566.15,208.58,1698.46,74.49
+2020-12-20,Rio Grande do Sul,Boa Vista do Buricá,0.0,0,0,0.0,251,3,1.2,3739.57,44.7,3.74,6712,193.68,-119.19,1564.37,-44.7
+2020-12-19,Rio Grande do Sul,Boa Vista do Buricá,0.0,0,0,0.0,251,3,1.2,3739.57,44.7,3.74,6712,312.87,-163.89,1609.07,-89.39
+2020-12-18,Rio Grande do Sul,Boa Vista do Buricá,89.39,6,0,0.0,251,3,1.2,3739.57,44.7,3.74,6712,476.76,14.9,1698.46,89.39
+2020-12-17,Rio Grande do Sul,Boa Vista do Buricá,0.0,0,0,0.0,245,3,1.22,3650.18,44.7,3.65,6712,461.86,-14.9,1609.07,0.0
+2020-12-16,Rio Grande do Sul,Boa Vista do Buricá,104.29,7,0,0.0,245,3,1.22,3650.18,44.7,3.65,6712,476.76,119.19,1609.07,-14.9
 2020-12-14,Rio Grande do Sul,Boa Vista do Buricá,0.0,0,0,0.0,238,3,1.26,3545.89,44.7,3.55,6712,357.57,0.0,1623.97,-14.9
 2020-12-13,Rio Grande do Sul,Boa Vista do Buricá,0.0,0,0,0.0,238,3,1.26,3545.89,44.7,3.55,6712,357.57,-89.39,1638.87,0.0
 2020-12-12,Rio Grande do Sul,Boa Vista do Buricá,119.19,8,0,0.0,238,3,1.26,3545.89,44.7,3.55,6712,446.96,74.49,1638.87,74.49

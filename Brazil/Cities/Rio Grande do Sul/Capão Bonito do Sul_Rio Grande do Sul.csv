@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Capão Bonito do Sul,0.0,0,0,0.0,38,1,2.63,2297.46,60.46,2.3,1654,181.38,0.0,544.14,-60.46
+2020-12-20,Rio Grande do Sul,Capão Bonito do Sul,0.0,0,0,0.0,38,1,2.63,2297.46,60.46,2.3,1654,0.0,-181.38,544.14,0.0
+2020-12-19,Rio Grande do Sul,Capão Bonito do Sul,0.0,0,0,0.0,38,1,2.63,2297.46,60.46,2.3,1654,181.38,120.92,544.14,0.0
+2020-12-18,Rio Grande do Sul,Capão Bonito do Sul,0.0,0,0,0.0,38,1,2.63,2297.46,60.46,2.3,1654,60.46,0.0,544.14,0.0
+2020-12-17,Rio Grande do Sul,Capão Bonito do Sul,60.46,1,0,0.0,38,1,2.63,2297.46,60.46,2.3,1654,60.46,-60.46,544.14,60.46
+2020-12-16,Rio Grande do Sul,Capão Bonito do Sul,-60.46,-1,0,0.0,37,1,2.7,2237.0,60.46,2.24,1654,120.92,-60.46,483.68,-120.92
 2020-12-14,Rio Grande do Sul,Capão Bonito do Sul,0.0,0,0,0.0,38,1,2.63,2297.46,60.46,2.3,1654,181.38,0.0,604.6,0.0
 2020-12-13,Rio Grande do Sul,Capão Bonito do Sul,0.0,0,0,0.0,38,1,2.63,2297.46,60.46,2.3,1654,181.38,-60.46,604.6,-181.38
 2020-12-12,Rio Grande do Sul,Capão Bonito do Sul,181.38,3,0,0.0,38,1,2.63,2297.46,60.46,2.3,1654,241.84,120.92,785.98,181.38

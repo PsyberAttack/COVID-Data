@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,São Lourenço do Sul,213.39,93,2,4.59,816,19,2.33,1872.33,43.6,1.87,43582,500.22,211.1,977.46,162.91
+2020-12-20,Rio Grande do Sul,São Lourenço do Sul,0.0,0,0,0.0,816,19,2.33,1872.33,43.6,1.87,43582,243.23,-89.49,908.64,-2.29
+2020-12-19,Rio Grande do Sul,São Lourenço do Sul,48.19,21,0,0.0,816,19,2.33,1872.33,43.6,1.87,43582,332.72,9.18,910.93,-16.06
+2020-12-18,Rio Grande do Sul,São Lourenço do Sul,48.19,21,1,2.29,795,19,2.39,1824.15,43.6,1.82,43582,323.54,-16.06,926.99,45.9
+2020-12-17,Rio Grande do Sul,São Lourenço do Sul,34.42,15,1,2.29,774,18,2.33,1775.96,41.3,1.78,43582,339.6,-29.83,881.09,34.42
+2020-12-16,Rio Grande do Sul,São Lourenço do Sul,82.6,36,0,0.0,759,17,2.24,1741.54,39.01,1.74,43582,369.43,80.31,846.67,32.12
 2020-12-14,Rio Grande do Sul,São Lourenço do Sul,0.0,0,0,0.0,723,17,2.35,1658.94,39.01,1.66,43582,289.12,0.0,814.55,-13.77
 2020-12-13,Rio Grande do Sul,São Lourenço do Sul,29.83,13,0,0.0,723,17,2.35,1658.94,39.01,1.66,43582,289.12,-27.53,828.32,13.77
 2020-12-12,Rio Grande do Sul,São Lourenço do Sul,89.49,39,0,0.0,710,17,2.39,1629.11,39.01,1.63,43582,316.65,82.61,814.55,64.25

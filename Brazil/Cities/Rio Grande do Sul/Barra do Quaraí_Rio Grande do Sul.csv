@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Barra do Quaraí,0.0,0,0,0.0,144,1,0.69,3416.37,23.72,3.42,4215,47.45,-94.9,996.44,0.0
+2020-12-20,Rio Grande do Sul,Barra do Quaraí,0.0,0,0,0.0,144,1,0.69,3416.37,23.72,3.42,4215,0.0,-47.45,901.54,0.0
+2020-12-19,Rio Grande do Sul,Barra do Quaraí,0.0,0,0,0.0,144,1,0.69,3416.37,23.72,3.42,4215,47.45,0.0,901.54,0.0
+2020-12-18,Rio Grande do Sul,Barra do Quaraí,0.0,0,0,0.0,144,1,0.69,3416.37,23.72,3.42,4215,47.45,0.0,901.54,-94.9
+2020-12-17,Rio Grande do Sul,Barra do Quaraí,0.0,0,0,0.0,144,1,0.69,3416.37,23.72,3.42,4215,47.45,0.0,996.44,0.0
+2020-12-16,Rio Grande do Sul,Barra do Quaraí,0.0,0,0,0.0,144,1,0.69,3416.37,23.72,3.42,4215,47.45,-94.9,996.44,0.0
 2020-12-14,Rio Grande do Sul,Barra do Quaraí,0.0,0,0,0.0,144,1,0.69,3416.37,23.72,3.42,4215,142.35,0.0,996.44,-118.62
 2020-12-13,Rio Grande do Sul,Barra do Quaraí,0.0,0,0,0.0,144,1,0.69,3416.37,23.72,3.42,4215,142.35,-23.72,1115.06,0.0
 2020-12-12,Rio Grande do Sul,Barra do Quaraí,47.45,2,0,0.0,144,1,0.69,3416.37,23.72,3.42,4215,166.07,-47.45,1115.06,-166.07

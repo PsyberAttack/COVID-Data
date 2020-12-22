@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Santa Cecília do Sul,610.13,10,0,0.0,288,0,0.0,17571.69,0.0,17.57,1639,1342.29,610.13,3355.71,610.13
+2020-12-20,Rio Grande do Sul,Santa Cecília do Sul,0.0,0,0,0.0,288,0,0.0,17571.69,0.0,17.57,1639,610.13,-183.04,2989.63,-366.08
+2020-12-19,Rio Grande do Sul,Santa Cecília do Sul,122.03,2,0,0.0,288,0,0.0,17571.69,0.0,17.57,1639,793.17,0.0,3355.71,122.03
+2020-12-18,Rio Grande do Sul,Santa Cecília do Sul,183.04,3,0,0.0,286,0,0.0,17449.66,0.0,17.45,1639,793.17,61.01,3233.68,183.04
+2020-12-17,Rio Grande do Sul,Santa Cecília do Sul,61.01,1,0,0.0,283,0,0.0,17266.63,0.0,17.27,1639,732.16,-244.05,3050.64,61.01
+2020-12-16,Rio Grande do Sul,Santa Cecília do Sul,244.05,4,0,0.0,282,0,0.0,17205.61,0.0,17.21,1639,976.21,244.05,2989.63,244.05
 2020-12-14,Rio Grande do Sul,Santa Cecília do Sul,0.0,0,0,0.0,278,0,0.0,16961.56,0.0,16.96,1639,732.16,0.0,2745.58,0.0
 2020-12-13,Rio Grande do Sul,Santa Cecília do Sul,0.0,0,0,0.0,278,0,0.0,16961.56,0.0,16.96,1639,732.16,0.0,2745.58,0.0
 2020-12-12,Rio Grande do Sul,Santa Cecília do Sul,183.04,3,0,0.0,278,0,0.0,16961.56,0.0,16.96,1639,732.16,-61.01,2745.58,183.04

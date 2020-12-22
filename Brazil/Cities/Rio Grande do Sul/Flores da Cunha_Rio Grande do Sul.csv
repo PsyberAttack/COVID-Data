@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Flores da Cunha,403.32,124,0,0.0,1122,8,0.71,3649.37,26.02,3.65,30745,712.31,403.32,1362.82,387.06
+2020-12-20,Rio Grande do Sul,Flores da Cunha,0.0,0,0,0.0,1122,8,0.71,3649.37,26.02,3.65,30745,406.57,-308.99,1356.31,-6.51
+2020-12-19,Rio Grande do Sul,Flores da Cunha,45.54,14,0,0.0,1122,8,0.71,3649.37,26.02,3.65,30745,715.56,45.54,1362.82,45.54
+2020-12-18,Rio Grande do Sul,Flores da Cunha,100.83,31,0,0.0,1108,8,0.72,3603.84,26.02,3.6,30745,670.02,104.08,1317.28,100.83
+2020-12-17,Rio Grande do Sul,Flores da Cunha,74.81,23,0,0.0,1077,8,0.74,3503.01,26.02,3.5,30745,565.94,74.81,1216.45,74.81
+2020-12-16,Rio Grande do Sul,Flores da Cunha,182.14,56,0,0.0,1054,8,0.76,3428.2,26.02,3.43,30745,491.13,182.14,1141.64,165.88
 2020-12-14,Rio Grande do Sul,Flores da Cunha,0.0,0,0,0.0,998,8,0.8,3246.06,26.02,3.25,30745,308.99,0.0,975.76,-3.25
 2020-12-13,Rio Grande do Sul,Flores da Cunha,3.25,1,0,0.0,998,8,0.8,3246.06,26.02,3.25,30745,308.99,-136.61,979.01,0.0
 2020-12-12,Rio Grande do Sul,Flores da Cunha,308.99,95,0,0.0,997,8,0.8,3242.8,26.02,3.24,30745,445.6,100.83,979.01,195.15

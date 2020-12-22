@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Nova Boa Vista,281.69,5,0,0.0,112,1,0.89,6309.86,56.34,6.31,1775,788.73,281.69,5859.16,281.69
+2020-12-20,Rio Grande do Sul,Nova Boa Vista,0.0,0,0,0.0,112,1,0.89,6309.86,56.34,6.31,1775,281.69,-112.68,5802.82,-56.34
+2020-12-19,Rio Grande do Sul,Nova Boa Vista,0.0,0,0,0.0,112,1,0.89,6309.86,56.34,6.31,1775,394.37,-169.01,5859.16,0.0
+2020-12-18,Rio Grande do Sul,Nova Boa Vista,56.34,1,0,0.0,112,1,0.89,6309.86,56.34,6.31,1775,563.38,-112.67,5859.16,56.34
+2020-12-17,Rio Grande do Sul,Nova Boa Vista,0.0,0,0,0.0,111,1,0.9,6253.52,56.34,6.25,1775,676.05,-56.34,5802.82,0.0
+2020-12-16,Rio Grande do Sul,Nova Boa Vista,225.35,4,0,0.0,111,1,0.9,6253.52,56.34,6.25,1775,732.39,225.35,5802.82,225.35
 2020-12-14,Rio Grande do Sul,Nova Boa Vista,0.0,0,0,0.0,107,1,0.93,6028.17,56.34,6.03,1775,507.04,0.0,5577.47,0.0
 2020-12-13,Rio Grande do Sul,Nova Boa Vista,0.0,0,0,0.0,107,1,0.93,6028.17,56.34,6.03,1775,507.04,-338.03,5577.47,0.0
 2020-12-12,Rio Grande do Sul,Nova Boa Vista,112.68,2,0,0.0,107,1,0.93,6028.17,56.34,6.03,1775,845.07,56.34,5577.47,112.68

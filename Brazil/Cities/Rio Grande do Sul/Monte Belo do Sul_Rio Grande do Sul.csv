@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Monte Belo do Sul,196.23,5,0,0.0,98,3,3.06,3846.15,117.74,3.85,2548,706.44,196.23,1295.15,196.23
+2020-12-20,Rio Grande do Sul,Monte Belo do Sul,0.0,0,0,0.0,98,3,3.06,3846.15,117.74,3.85,2548,196.23,-353.22,1216.66,-78.49
+2020-12-19,Rio Grande do Sul,Monte Belo do Sul,78.49,2,0,0.0,98,3,3.06,3846.15,117.74,3.85,2548,549.45,39.24,1295.15,78.49
+2020-12-18,Rio Grande do Sul,Monte Belo do Sul,78.49,2,0,0.0,96,3,3.12,3767.66,117.74,3.77,2548,510.21,-39.25,1216.66,78.49
+2020-12-17,Rio Grande do Sul,Monte Belo do Sul,39.25,1,0,0.0,94,3,3.19,3689.17,117.74,3.69,2548,549.46,39.25,1138.17,39.25
+2020-12-16,Rio Grande do Sul,Monte Belo do Sul,0.0,0,0,0.0,93,3,3.23,3649.92,117.74,3.65,2548,510.21,0.0,1098.92,0.0
 2020-12-14,Rio Grande do Sul,Monte Belo do Sul,0.0,0,0,0.0,93,3,3.23,3649.92,117.74,3.65,2548,510.21,0.0,1098.92,0.0
 2020-12-13,Rio Grande do Sul,Monte Belo do Sul,0.0,0,0,0.0,93,3,3.23,3649.92,117.74,3.65,2548,510.21,-39.25,1098.92,-39.25
 2020-12-12,Rio Grande do Sul,Monte Belo do Sul,353.22,9,0,0.0,93,3,3.23,3649.92,117.74,3.65,2548,549.46,235.48,1138.17,353.22

@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Sapucaia do Sul,233.92,330,6,4.25,4786,118,2.47,3392.52,83.64,3.39,141075,455.79,227.54,994.51,224.0
+2020-12-20,Rio Grande do Sul,Sapucaia do Sul,0.71,1,0,0.0,4786,118,2.47,3392.52,83.64,3.39,141075,274.32,-75.14,913.0,-41.11
+2020-12-19,Rio Grande do Sul,Sapucaia do Sul,57.42,81,2,1.42,4785,118,2.47,3391.81,83.64,3.39,141075,349.46,4.26,954.11,29.78
+2020-12-18,Rio Grande do Sul,Sapucaia do Sul,29.77,42,0,0.0,4704,116,2.47,3334.4,82.23,3.33,141075,345.2,27.64,924.33,21.97
+2020-12-17,Rio Grande do Sul,Sapucaia do Sul,44.66,63,1,0.71,4662,116,2.49,3304.63,82.23,3.3,141075,317.56,-5.67,902.36,40.41
+2020-12-16,Rio Grande do Sul,Sapucaia do Sul,101.36,143,3,2.13,4599,115,2.5,3259.97,81.52,3.26,141075,323.23,94.98,861.95,91.44
 2020-12-14,Rio Grande do Sul,Sapucaia do Sul,12.05,17,1,0.71,4456,112,2.51,3158.6,79.39,3.16,141075,228.25,4.25,770.51,-16.3
 2020-12-13,Rio Grande do Sul,Sapucaia do Sul,28.35,40,0,0.0,4439,111,2.5,3146.55,78.68,3.15,141075,224.0,-2.84,786.81,-8.51
 2020-12-12,Rio Grande do Sul,Sapucaia do Sul,75.85,107,5,3.54,4399,111,2.52,3118.2,78.68,3.12,141075,226.84,49.62,795.32,51.04

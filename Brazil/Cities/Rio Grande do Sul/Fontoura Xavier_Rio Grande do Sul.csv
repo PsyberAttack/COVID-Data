@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Fontoura Xavier,164.98,17,0,0.0,234,6,2.56,2270.96,58.23,2.27,10304,300.84,164.98,543.45,164.98
+2020-12-20,Rio Grande do Sul,Fontoura Xavier,0.0,0,0,0.0,234,6,2.56,2270.96,58.23,2.27,10304,164.98,-67.93,543.45,0.0
+2020-12-19,Rio Grande do Sul,Fontoura Xavier,48.52,5,0,0.0,234,6,2.56,2270.96,58.23,2.27,10304,232.91,0.0,543.45,48.52
+2020-12-18,Rio Grande do Sul,Fontoura Xavier,19.41,2,0,0.0,229,6,2.62,2222.44,58.23,2.22,10304,232.91,0.0,494.93,19.41
+2020-12-17,Rio Grande do Sul,Fontoura Xavier,19.41,2,0,0.0,227,6,2.64,2203.03,58.23,2.2,10304,232.91,19.41,475.52,19.41
+2020-12-16,Rio Grande do Sul,Fontoura Xavier,77.64,8,0,0.0,225,6,2.67,2183.62,58.23,2.18,10304,213.5,77.64,456.11,77.64
 2020-12-14,Rio Grande do Sul,Fontoura Xavier,0.0,0,0,0.0,217,6,2.76,2105.98,58.23,2.11,10304,135.86,0.0,378.47,0.0
 2020-12-13,Rio Grande do Sul,Fontoura Xavier,0.0,0,1,9.7,217,6,2.76,2105.98,58.23,2.11,10304,135.86,0.0,378.47,0.0
 2020-12-12,Rio Grande do Sul,Fontoura Xavier,67.93,7,0,0.0,217,5,2.3,2105.98,48.52,2.11,10304,135.86,67.93,378.47,67.93

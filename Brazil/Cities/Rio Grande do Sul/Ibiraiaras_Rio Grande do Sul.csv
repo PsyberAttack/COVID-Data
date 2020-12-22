@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Ibiraiaras,192.78,14,1,13.77,342,13,3.8,4709.45,179.01,4.71,7262,330.48,192.78,674.73,137.7
+2020-12-20,Rio Grande do Sul,Ibiraiaras,0.0,0,0,0.0,342,13,3.8,4709.45,179.01,4.71,7262,192.78,-68.85,605.88,-68.85
+2020-12-19,Rio Grande do Sul,Ibiraiaras,13.77,1,0,0.0,342,13,3.8,4709.45,179.01,4.71,7262,261.63,-55.08,674.73,13.77
+2020-12-18,Rio Grande do Sul,Ibiraiaras,55.08,4,1,13.77,341,13,3.81,4695.68,179.01,4.7,7262,316.71,55.08,660.96,55.08
+2020-12-17,Rio Grande do Sul,Ibiraiaras,41.31,3,0,0.0,337,12,3.56,4640.59,165.24,4.64,7262,261.63,41.31,605.88,41.31
+2020-12-16,Rio Grande do Sul,Ibiraiaras,82.62,6,0,0.0,334,12,3.59,4599.28,165.24,4.6,7262,220.32,82.62,564.57,27.54
 2020-12-14,Rio Grande do Sul,Ibiraiaras,0.0,0,0,0.0,328,12,3.66,4516.66,165.24,4.52,7262,137.7,0.0,537.03,-13.77
 2020-12-13,Rio Grande do Sul,Ibiraiaras,0.0,0,0,0.0,328,12,3.66,4516.66,165.24,4.52,7262,137.7,-55.08,550.8,0.0
 2020-12-12,Rio Grande do Sul,Ibiraiaras,68.85,5,0,0.0,328,12,3.66,4516.66,165.24,4.52,7262,192.78,27.54,550.8,68.85

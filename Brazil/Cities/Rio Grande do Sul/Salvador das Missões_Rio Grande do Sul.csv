@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Salvador das Missões,256.13,7,1,36.59,82,2,2.44,3000.37,73.18,3.0,2733,512.26,256.13,1207.47,256.13
+2020-12-20,Rio Grande do Sul,Salvador das Missões,0.0,0,0,0.0,82,2,2.44,3000.37,73.18,3.0,2733,256.13,0.0,1134.29,0.0
+2020-12-19,Rio Grande do Sul,Salvador das Missões,73.18,2,0,0.0,82,2,2.44,3000.37,73.18,3.0,2733,256.13,36.59,1134.29,36.59
+2020-12-18,Rio Grande do Sul,Salvador das Missões,36.59,1,1,36.59,80,2,2.5,2927.19,73.18,2.93,2733,219.54,36.59,1097.7,0.0
+2020-12-17,Rio Grande do Sul,Salvador das Missões,109.77,3,0,0.0,79,1,1.27,2890.6,36.59,2.89,2733,182.95,-109.77,1097.7,109.77
+2020-12-16,Rio Grande do Sul,Salvador das Missões,36.59,1,0,0.0,76,1,1.32,2780.83,36.59,2.78,2733,292.72,36.59,987.93,36.59
 2020-12-14,Rio Grande do Sul,Salvador das Missões,0.0,0,0,0.0,75,1,1.33,2744.24,36.59,2.74,2733,256.13,0.0,951.34,-73.18
 2020-12-13,Rio Grande do Sul,Salvador das Missões,0.0,0,0,0.0,75,1,1.33,2744.24,36.59,2.74,2733,256.13,-73.18,1024.52,0.0
 2020-12-12,Rio Grande do Sul,Salvador das Missões,0.0,0,0,0.0,75,1,1.33,2744.24,36.59,2.74,2733,329.31,0.0,1024.52,-36.59

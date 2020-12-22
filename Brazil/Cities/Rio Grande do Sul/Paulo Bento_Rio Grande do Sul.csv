@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Paulo Bento,305.28,7,0,0.0,125,1,0.8,5451.37,43.61,5.45,2293,741.39,305.28,2834.71,305.28
+2020-12-20,Rio Grande do Sul,Paulo Bento,0.0,0,0,0.0,125,1,0.8,5451.37,43.61,5.45,2293,305.27,-174.44,2834.7,0.0
+2020-12-19,Rio Grande do Sul,Paulo Bento,0.0,0,0,0.0,125,1,0.8,5451.37,43.61,5.45,2293,479.71,0.0,2834.7,0.0
+2020-12-18,Rio Grande do Sul,Paulo Bento,174.44,4,0,0.0,125,1,0.8,5451.37,43.61,5.45,2293,479.71,-87.23,2834.7,174.44
+2020-12-17,Rio Grande do Sul,Paulo Bento,0.0,0,0,0.0,121,1,0.83,5276.93,43.61,5.28,2293,566.94,0.0,2660.26,0.0
+2020-12-16,Rio Grande do Sul,Paulo Bento,130.83,3,0,0.0,121,1,0.83,5276.93,43.61,5.28,2293,566.94,130.83,2660.26,130.83
 2020-12-14,Rio Grande do Sul,Paulo Bento,0.0,0,0,0.0,118,1,0.85,5146.1,43.61,5.15,2293,436.11,0.0,2529.43,0.0
 2020-12-13,Rio Grande do Sul,Paulo Bento,0.0,0,0,0.0,118,1,0.85,5146.1,43.61,5.15,2293,436.11,0.0,2529.43,-87.22
 2020-12-12,Rio Grande do Sul,Paulo Bento,174.44,4,0,0.0,118,1,0.85,5146.1,43.61,5.15,2293,436.11,-915.83,2616.65,174.44

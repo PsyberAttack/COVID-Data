@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Gramado Xavier,300.58,13,1,23.12,73,1,1.37,1687.86,23.12,1.69,4325,369.94,277.46,1063.58,300.58
+2020-12-20,Rio Grande do Sul,Gramado Xavier,0.0,0,0,0.0,73,1,1.37,1687.86,23.12,1.69,4325,300.58,-23.12,1017.34,0.0
+2020-12-19,Rio Grande do Sul,Gramado Xavier,23.12,1,0,0.0,73,1,1.37,1687.86,23.12,1.69,4325,323.7,23.12,1017.34,-23.12
+2020-12-18,Rio Grande do Sul,Gramado Xavier,92.49,4,1,23.12,72,1,1.39,1664.74,23.12,1.66,4325,300.58,69.37,1040.46,92.49
+2020-12-17,Rio Grande do Sul,Gramado Xavier,161.85,7,0,0.0,68,0,0.0,1572.25,0.0,1.57,4325,231.21,138.73,947.97,161.85
+2020-12-16,Rio Grande do Sul,Gramado Xavier,23.12,1,0,0.0,61,0,0.0,1410.4,0.0,1.41,4325,92.48,0.0,786.12,23.12
 2020-12-14,Rio Grande do Sul,Gramado Xavier,0.0,0,0,0.0,60,0,0.0,1387.28,0.0,1.39,4325,92.48,0.0,763.0,0.0
 2020-12-13,Rio Grande do Sul,Gramado Xavier,0.0,0,0,0.0,60,0,0.0,1387.28,0.0,1.39,4325,92.48,-92.49,763.0,0.0
 2020-12-12,Rio Grande do Sul,Gramado Xavier,23.12,1,0,0.0,60,0,0.0,1387.28,0.0,1.39,4325,184.97,-46.24,763.0,23.12

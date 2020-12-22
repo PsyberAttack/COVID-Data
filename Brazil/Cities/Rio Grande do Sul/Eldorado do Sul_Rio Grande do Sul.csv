@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Eldorado do Sul,142.91,59,1,2.42,1666,35,2.1,4035.36,84.78,4.04,41285,341.53,138.07,811.43,121.11
+2020-12-20,Rio Grande do Sul,Eldorado do Sul,2.42,1,0,0.0,1666,35,2.1,4035.36,84.78,4.04,41285,171.97,-77.51,753.29,-9.69
+2020-12-19,Rio Grande do Sul,Eldorado do Sul,36.33,15,0,0.0,1665,35,2.1,4032.94,84.78,4.03,41285,249.48,-43.6,762.98,0.0
+2020-12-18,Rio Grande do Sul,Eldorado do Sul,87.2,36,0,0.0,1650,35,2.12,3996.61,84.78,4.0,41285,293.08,77.51,762.98,79.93
+2020-12-17,Rio Grande do Sul,Eldorado do Sul,2.42,1,0,0.0,1614,35,2.17,3909.41,84.78,3.91,41285,215.57,2.42,683.05,0.0
+2020-12-16,Rio Grande do Sul,Eldorado do Sul,14.53,6,1,2.42,1613,35,2.17,3906.99,84.78,3.91,41285,213.15,9.69,683.05,-7.27
 2020-12-14,Rio Grande do Sul,Eldorado do Sul,16.96,7,1,2.42,1607,34,2.12,3892.45,82.35,3.89,41285,203.46,9.69,690.32,-12.11
 2020-12-13,Rio Grande do Sul,Eldorado do Sul,12.11,5,0,0.0,1600,33,2.06,3875.5,79.93,3.88,41285,193.77,7.27,702.43,-21.8
 2020-12-12,Rio Grande do Sul,Eldorado do Sul,79.93,33,0,0.0,1595,33,2.07,3863.39,79.93,3.86,41285,186.5,77.51,724.23,41.18

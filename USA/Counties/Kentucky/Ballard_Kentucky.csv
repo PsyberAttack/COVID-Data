@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-21,Kentucky,Ballard,0.0,0,-1,-12.53,217,2.0,0.92,2719.64,25.07,2.72,7979,32.32,200.52,-12.53,1052.75,-25.07
 2020-12-20,Kentucky,Ballard,37.6,3,1,12.53,217,3.0,1.38,2719.64,37.6,2.72,7979,32.32,213.05,25.07,1077.82,0.0
 2020-12-19,Kentucky,Ballard,100.26,8,0,0.0,214,2.0,0.93,2682.04,25.07,2.68,7979,32.32,187.98,37.6,1077.82,25.06
 2020-12-18,Kentucky,Ballard,37.6,3,0,0.0,206,2.0,0.97,2581.78,25.07,2.58,7979,32.32,150.38,-37.6,1052.76,25.07

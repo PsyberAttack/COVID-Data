@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-20,Rio Grande do Sul,Cerro Grande do Sul,57.19,7,0,0.0,103,5,4.85,841.57,40.85,0.84,12239,57.19,49.02,220.59,57.19
+2020-12-20,Rio Grande do Sul,Cerro Grande do Sul,0.0,0,0,0.0,103,5,4.85,841.57,40.85,0.84,12239,65.36,8.17,212.42,0.0
+2020-12-19,Rio Grande do Sul,Cerro Grande do Sul,0.0,0,0,0.0,103,5,4.85,841.57,40.85,0.84,12239,57.19,0.0,212.42,-8.17
+2020-12-18,Rio Grande do Sul,Cerro Grande do Sul,-8.17,-1,0,0.0,103,5,4.85,841.57,40.85,0.84,12239,57.19,-8.17,220.59,-8.17
+2020-12-17,Rio Grande do Sul,Cerro Grande do Sul,8.17,1,0,0.0,104,5,4.81,849.74,40.85,0.85,12239,65.36,8.17,228.76,8.17
+2020-12-16,Rio Grande do Sul,Cerro Grande do Sul,57.19,7,0,0.0,103,5,4.85,841.57,40.85,0.84,12239,57.19,49.02,220.59,57.19
 2020-12-14,Rio Grande do Sul,Cerro Grande do Sul,0.0,0,0,0.0,96,5,5.21,784.38,40.85,0.78,12239,8.17,-8.17,163.4,0.0
 2020-12-13,Rio Grande do Sul,Cerro Grande do Sul,8.17,1,0,0.0,96,5,5.21,784.38,40.85,0.78,12239,16.34,0.0,163.4,-8.17
 2020-12-12,Rio Grande do Sul,Cerro Grande do Sul,-8.17,-1,0,0.0,95,5,5.26,776.21,40.85,0.78,12239,16.34,-65.36,171.57,-8.17
