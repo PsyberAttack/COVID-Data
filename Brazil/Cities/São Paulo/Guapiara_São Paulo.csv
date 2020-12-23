@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-21,São Paulo,Guapiara,5.83,1,0,0.0,281,11,3.91,1637.82,64.11,1.64,17157,116.57,-75.77,821.84,-5.83
+2020-12-20,São Paulo,Guapiara,17.49,3,0,0.0,280,11,3.93,1631.99,64.11,1.63,17157,192.34,-75.77,827.67,5.83
 2020-12-18,São Paulo,Guapiara,-5.83,-1,0,0.0,277,11,3.97,1614.5,64.11,1.61,17157,268.11,-23.32,821.84,-17.49
 2020-12-17,São Paulo,Guapiara,99.08,17,0,0.0,278,11,3.96,1620.33,64.11,1.62,17157,291.43,-17.49,839.33,93.25
 2020-12-15,São Paulo,Guapiara,0.0,0,0,0.0,261,11,4.21,1521.24,64.11,1.52,17157,308.92,-110.74,746.08,0.0

@@ -1,13 +1,14 @@
 state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-Bayern,Neustadt an der Aisch-Bad Windsheim,3.99,4,0,0.0,1667,29,1.74,1660.95,28.89,1.66,100364,76.73,-54.8,678.54,-3.98
-Bayern,Neustadt an der Aisch-Bad Windsheim,0.0,0,0,0.0,1663,29,1.74,1656.97,28.89,1.66,100364,131.53,-13.95,682.52,-19.93
-Bayern,Neustadt an der Aisch-Bad Windsheim,4.98,5,0,0.0,1663,29,1.74,1656.97,28.89,1.66,100364,145.48,-6.98,702.45,-9.97
-Bayern,Neustadt an der Aisch-Bad Windsheim,19.93,20,0,0.0,1658,29,1.75,1651.99,28.89,1.65,100364,152.46,-11.95,712.42,7.97
-Bayern,Neustadt an der Aisch-Bad Windsheim,22.92,23,0,0.0,1638,29,1.77,1632.06,28.89,1.63,100364,164.41,-30.88,704.45,-10.96
-Bayern,Neustadt an der Aisch-Bad Windsheim,11.96,12,0,0.0,1615,29,1.8,1609.14,28.89,1.61,100364,195.29,-31.88,715.41,-21.92
-Bayern,Neustadt an der Aisch-Bad Windsheim,12.95,13,0,0.0,1603,29,1.81,1597.19,28.89,1.6,100364,227.17,-16.94,737.33,-13.95
-Bayern,Neustadt an der Aisch-Bad Windsheim,58.79,59,0,0.0,1590,29,1.82,1584.23,28.89,1.58,100364,244.11,41.85,751.28,-1.99
-Bayern,Neustadt an der Aisch-Bad Windsheim,13.95,14,1,1.0,1531,29,1.89,1525.45,28.89,1.53,100364,202.26,9.96,753.27,6.98
+Bayern,Neustadt an der Aisch-Bad Windsheim,5.98,6,0,0.0,1678,30,1.79,1671.91,29.89,1.67,100364,73.74,-7.97,621.75,-61.77
+Bayern,Neustadt an der Aisch-Bad Windsheim,5.98,6,0,0.0,1672,30,1.79,1665.94,29.89,1.67,100364,81.71,-52.81,683.52,-1.99
+Bayern,Neustadt an der Aisch-Bad Windsheim,0.0,0,0,0.0,1666,30,1.8,1659.96,29.89,1.66,100364,134.52,-13.95,685.51,-19.93
+Bayern,Neustadt an der Aisch-Bad Windsheim,4.98,5,0,0.0,1666,30,1.8,1659.96,29.89,1.66,100364,148.47,-6.98,705.44,-9.97
+Bayern,Neustadt an der Aisch-Bad Windsheim,19.93,20,0,0.0,1661,30,1.81,1654.98,29.89,1.65,100364,155.45,-11.95,715.41,7.97
+Bayern,Neustadt an der Aisch-Bad Windsheim,24.91,25,0,0.0,1641,30,1.83,1635.05,29.89,1.64,100364,167.4,-28.89,707.44,-8.97
+Bayern,Neustadt an der Aisch-Bad Windsheim,11.96,12,0,0.0,1616,30,1.86,1610.14,29.89,1.61,100364,196.29,-31.88,716.41,-21.92
+Bayern,Neustadt an der Aisch-Bad Windsheim,13.95,14,0,0.0,1604,30,1.87,1598.18,29.89,1.6,100364,228.17,-15.94,738.33,-12.95
+Bayern,Neustadt an der Aisch-Bad Windsheim,58.79,59,0,0.0,1590,30,1.89,1584.23,29.89,1.58,100364,244.11,41.85,751.28,-1.99
+Bayern,Neustadt an der Aisch-Bad Windsheim,13.95,14,2,1.99,1531,30,1.96,1525.45,29.89,1.53,100364,202.26,9.96,753.27,6.98
 Bayern,Neustadt an der Aisch-Bad Windsheim,11.96,12,1,1.0,1517,28,1.85,1511.5,27.9,1.51,100364,192.3,0.0,746.29,-6.97
 Bayern,Neustadt an der Aisch-Bad Windsheim,31.88,32,1,1.0,1505,27,1.79,1499.54,26.9,1.5,100364,192.3,0.99,753.26,-8.97
 Bayern,Neustadt an der Aisch-Bad Windsheim,53.8,54,0,0.0,1473,26,1.77,1467.66,25.91,1.47,100364,191.31,5.97,762.23,29.89
@@ -304,4 +305,4 @@ Bayern,Neustadt an der Aisch-Bad Windsheim,0.0,0,0,0.0,1,0,0.0,1.0,0.0,0.0,10036
 Bayern,Neustadt an der Aisch-Bad Windsheim,0.0,0,0,0.0,1,0,0.0,1.0,0.0,0.0,100364,1.0,0.0,1.0,0.0
 Bayern,Neustadt an der Aisch-Bad Windsheim,0.0,0,0,0.0,1,0,0.0,1.0,0.0,0.0,100364,1.0,0.0,1.0,0.0
 Bayern,Neustadt an der Aisch-Bad Windsheim,0.0,0,0,0.0,1,0,0.0,1.0,0.0,0.0,100364,1.0,0.0,1.0,0.0
-Bayern,Neustadt an der Aisch-Bad Windsheim,1.0,1,0,0.0,1,0,0.0,1.0,0.0,0.0,100364,1.0,,1.0,
+Bayern,Neustadt an der Aisch-Bad Windsheim,1.0,1,0,0.0,1,0,0.0,1.0,0.0,0.0,100364,1.0,1.0,1.0,1.0
