@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-23,Minnesota,Cook,18.54,1,0,0.0,102,0.0,0.0,1891.34,0.0,1.89,5393,3.71,55.62,-18.55,778.79,18.54
 2020-12-22,Minnesota,Cook,18.54,1,0,0.0,101,0.0,0.0,1872.8,0.0,1.87,5393,3.71,74.17,18.54,760.25,-18.55
 2020-12-21,Minnesota,Cook,0.0,0,0,0.0,100,0.0,0.0,1854.26,0.0,1.85,5393,3.71,55.63,0.0,778.8,-18.54
 2020-12-20,Minnesota,Cook,-18.54,-1,0,0.0,100,0.0,0.0,1854.26,0.0,1.85,5393,3.71,55.63,-74.17,797.34,-74.17

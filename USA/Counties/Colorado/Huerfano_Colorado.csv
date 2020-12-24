@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-23,Colorado,Huerfano,43.55,3,0,0.0,264,16.0,6.06,3832.2,232.25,3.83,6889,4.33,290.32,0.0,2003.19,-29.03
 2020-12-22,Colorado,Huerfano,43.55,3,1,14.52,261,16.0,6.13,3788.65,232.25,3.79,6889,4.33,290.32,-29.03,2032.22,14.52
 2020-12-21,Colorado,Huerfano,29.03,2,0,0.0,258,15.0,5.81,3745.1,217.74,3.75,6889,4.33,319.35,29.03,2017.7,0.0
 2020-12-20,Colorado,Huerfano,58.06,4,1,14.52,256,15.0,5.86,3716.07,217.74,3.72,6889,4.33,290.32,29.03,2017.7,43.54

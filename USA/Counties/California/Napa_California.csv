@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-23,California,Napa,90.38,126,1,0.72,5092,26.0,0.51,3652.35,18.65,3.65,139417,186.31,456.2,38.74,1549.31,56.67
 2020-12-22,California,Napa,71.73,100,1,0.72,4966,25.0,0.5,3561.98,17.93,3.56,139417,186.31,417.46,-25.82,1492.64,2.15
 2020-12-21,California,Napa,66.71,93,0,0.0,4866,24.0,0.49,3490.25,17.21,3.49,139417,186.31,443.28,-29.4,1490.49,45.19
 2020-12-20,California,Napa,60.25,84,0,0.0,4773,24.0,0.5,3423.54,17.21,3.42,139417,186.31,472.68,17.93,1445.3,32.28
