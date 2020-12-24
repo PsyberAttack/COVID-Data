@@ -1,5 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-23,Maharashtra,Wardha,0.0,0,0,0.0,9143,243,2.66,705.39,18.75,0.71,1296157,20.44,3.01,96.1,-6.48
+2020-12-24,Maharashtra,Wardha,3.24,42,1,0.08,9247,245,2.65,713.42,18.9,0.71,1296157,26.22,1.0,96.25,-4.63
+2020-12-23,Maharashtra,Wardha,4.78,62,1,0.08,9205,244,2.65,710.18,18.82,0.71,1296157,25.22,7.79,100.88,-1.7
 2020-12-22,Maharashtra,Wardha,1.85,24,1,0.08,9143,243,2.66,705.39,18.75,0.71,1296157,17.43,-1.85,102.58,-2.86
 2020-12-21,Maharashtra,Wardha,3.24,42,0,0.0,9119,242,2.65,703.54,18.67,0.7,1296157,19.28,1.7,105.44,0.39
 2020-12-20,Maharashtra,Wardha,5.01,65,2,0.15,9077,242,2.67,700.3,18.67,0.7,1296157,17.58,1.0,105.05,-2.78
