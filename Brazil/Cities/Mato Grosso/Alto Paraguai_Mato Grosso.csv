@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-24,Mato Grosso,Alto Paraguai,0.0,0,0,0.0,337,9,2.67,2967.59,79.25,2.97,11356,61.64,-8.81,140.91,0.0
-2020-12-23,Mato Grosso,Alto Paraguai,35.22,4,0,0.0,337,9,2.67,2967.59,79.25,2.97,11356,70.45,35.22,140.91,26.41
+2020-12-25,Mato Grosso,Alto Paraguai,0.0,0,0,0.0,337,9,2.67,2967.59,79.25,2.97,11356,61.64,0.0,140.91,0.0
+2020-12-24,Mato Grosso,Alto Paraguai,0.0,0,0,0.0,337,9,2.67,2967.59,79.25,2.97,11356,61.64,0.0,140.91,0.0
+2020-12-23,Mato Grosso,Alto Paraguai,17.61,2,0,0.0,337,9,2.67,2967.59,79.25,2.97,11356,61.64,8.8,140.91,17.61
+2020-12-22,Mato Grosso,Alto Paraguai,17.61,2,0,0.0,335,9,2.69,2949.98,79.25,2.95,11356,52.84,17.61,123.3,8.8
 2020-12-21,Mato Grosso,Alto Paraguai,17.61,2,0,0.0,333,9,2.7,2932.37,79.25,2.93,11356,35.23,17.61,114.5,17.61
 2020-12-20,Mato Grosso,Alto Paraguai,0.0,0,0,0.0,331,9,2.72,2914.76,79.25,2.91,11356,17.62,0.0,96.89,0.0
 2020-12-19,Mato Grosso,Alto Paraguai,8.81,1,0,0.0,331,9,2.72,2914.76,79.25,2.91,11356,17.62,8.81,96.89,-2095.8

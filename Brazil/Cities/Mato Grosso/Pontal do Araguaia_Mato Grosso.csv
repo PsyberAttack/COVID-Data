@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-24,Mato Grosso,Pontal do Araguaia,119.21,8,0,0.0,343,8,2.33,5111.01,119.21,5.11,6711,432.13,74.51,670.53,119.21
-2020-12-23,Mato Grosso,Pontal do Araguaia,119.21,8,0,0.0,335,8,2.39,4991.8,119.21,4.99,6711,357.62,119.21,551.32,119.21
+2020-12-25,Mato Grosso,Pontal do Araguaia,0.0,0,0,0.0,343,8,2.33,5111.01,119.21,5.11,6711,342.72,-59.6,655.62,0.0
+2020-12-24,Mato Grosso,Pontal do Araguaia,119.21,8,0,0.0,343,8,2.33,5111.01,119.21,5.11,6711,402.32,89.41,655.62,104.31
+2020-12-23,Mato Grosso,Pontal do Araguaia,44.7,3,0,0.0,335,8,2.39,4991.8,119.21,4.99,6711,312.91,0.0,551.31,44.7
+2020-12-22,Mato Grosso,Pontal do Araguaia,74.5,5,0,0.0,332,8,2.41,4947.1,119.21,4.95,6711,312.91,74.5,506.61,74.5
 2020-12-21,Mato Grosso,Pontal do Araguaia,104.31,7,0,0.0,327,8,2.45,4872.6,119.21,4.87,6711,238.41,104.31,432.11,104.31
 2020-12-20,Mato Grosso,Pontal do Araguaia,0.0,0,0,0.0,320,8,2.5,4768.29,119.21,4.77,6711,134.1,-29.8,327.8,0.0
 2020-12-19,Mato Grosso,Pontal do Araguaia,0.0,0,0,0.0,320,8,2.5,4768.29,119.21,4.77,6711,163.9,0.0,327.8,-2548.06
