@@ -1,7 +1,11 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-24,Mato Grosso do Sul,Laguna Carapã,0.0,0,0,0.0,72,1,1.39,980.79,13.62,0.98,7341,40.86,-40.87,258.82,0.0
-2020-12-23,Mato Grosso do Sul,Laguna Carapã,0.0,0,0,0.0,72,1,1.39,980.79,13.62,0.98,7341,81.73,0.0,258.82,0.0
-2020-12-22,Mato Grosso do Sul,Laguna Carapã,27.24,2,0,0.0,72,1,1.39,980.79,13.62,0.98,7341,81.73,27.24,258.82,27.24
+2020-12-24,Mato Grosso do Sul,Laguna Carapã,0.0,0,0,0.0,72,1,1.39,980.79,13.62,0.98,7341,27.24,-13.62,245.2,0.0
+2020-12-23,Mato Grosso do Sul,Laguna Carapã,0.0,0,0,0.0,72,1,1.39,980.79,13.62,0.98,7341,40.86,0.0,245.2,-13.62
+2020-12-22,Mato Grosso do Sul,Laguna Carapã,13.62,1,0,0.0,72,1,1.39,980.79,13.62,0.98,7341,40.86,13.62,258.82,13.62
+2020-12-21,Mato Grosso do Sul,Laguna Carapã,0.0,0,0,0.0,71,1,1.41,967.17,13.62,0.97,7341,27.24,0.0,245.2,0.0
+2020-12-20,Mato Grosso do Sul,Laguna Carapã,0.0,0,0,0.0,71,1,1.41,967.17,13.62,0.97,7341,27.24,-40.87,245.2,0.0
+2020-12-19,Mato Grosso do Sul,Laguna Carapã,13.62,1,0,0.0,71,1,1.41,967.17,13.62,0.97,7341,68.11,13.62,245.2,13.62
+2020-12-18,Mato Grosso do Sul,Laguna Carapã,0.0,0,0,0.0,70,1,1.43,953.55,13.62,0.95,7341,54.49,0.0,231.58,0.0
 2020-12-17,Mato Grosso do Sul,Laguna Carapã,13.62,1,0,0.0,70,1,1.43,953.55,13.62,0.95,7341,54.49,-27.25,231.58,13.62
 2020-12-16,Mato Grosso do Sul,Laguna Carapã,0.0,0,0,0.0,69,1,1.45,939.93,13.62,0.94,7341,81.74,-13.62,217.96,-13.62
 2020-12-15,Mato Grosso do Sul,Laguna Carapã,0.0,0,0,0.0,69,1,1.45,939.93,13.62,0.94,7341,95.36,-40.87,231.58,0.0

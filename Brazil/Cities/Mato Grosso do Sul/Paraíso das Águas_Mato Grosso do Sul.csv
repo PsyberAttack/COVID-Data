@@ -1,7 +1,11 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-24,Mato Grosso do Sul,Paraíso das Águas,0.0,0,1,18.0,128,4,3.12,2304.23,72.01,2.3,5555,108.01,0.0,738.08,0.0
-2020-12-23,Mato Grosso do Sul,Paraíso das Águas,0.0,0,0,0.0,128,3,2.34,2304.23,54.01,2.3,5555,108.01,0.0,738.08,-72.01
-2020-12-22,Mato Grosso do Sul,Paraíso das Águas,18.0,1,0,0.0,128,3,2.34,2304.23,54.01,2.3,5555,108.01,0.0,810.09,18.0
+2020-12-24,Mato Grosso do Sul,Paraíso das Águas,0.0,0,1,18.0,128,4,3.12,2304.23,72.01,2.3,5555,18.0,0.0,648.07,0.0
+2020-12-23,Mato Grosso do Sul,Paraíso das Águas,0.0,0,0,0.0,128,3,2.34,2304.23,54.01,2.3,5555,18.0,-18.0,648.07,-18.0
+2020-12-22,Mato Grosso do Sul,Paraíso das Águas,0.0,0,0,0.0,128,3,2.34,2304.23,54.01,2.3,5555,36.0,-54.01,666.07,0.0
+2020-12-21,Mato Grosso do Sul,Paraíso das Águas,18.0,1,0,0.0,128,3,2.34,2304.23,54.01,2.3,5555,90.01,0.0,666.07,-54.01
+2020-12-20,Mato Grosso do Sul,Paraíso das Águas,0.0,0,0,0.0,127,3,2.36,2286.23,54.01,2.29,5555,90.01,0.0,720.08,0.0
+2020-12-19,Mato Grosso do Sul,Paraíso das Águas,0.0,0,0,0.0,127,3,2.36,2286.23,54.01,2.29,5555,90.01,0.0,720.08,-72.01
+2020-12-18,Mato Grosso do Sul,Paraíso das Águas,0.0,0,0,0.0,127,3,2.36,2286.23,54.01,2.29,5555,90.01,-18.0,792.09,0.0
 2020-12-17,Mato Grosso do Sul,Paraíso das Águas,0.0,0,0,0.0,127,3,2.36,2286.23,54.01,2.29,5555,108.01,-54.01,792.09,-18.0
 2020-12-16,Mato Grosso do Sul,Paraíso das Águas,18.0,1,0,0.0,127,3,2.36,2286.23,54.01,2.29,5555,162.02,-90.01,810.09,0.0
 2020-12-15,Mato Grosso do Sul,Paraíso das Águas,54.01,3,0,0.0,126,3,2.38,2268.23,54.01,2.27,5555,252.03,54.01,810.09,54.01

@@ -1,7 +1,11 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-24,Mato Grosso do Sul,Nova Alvorada do Sul,0.0,0,0,0.0,689,8,1.16,3148.71,36.56,3.15,21882,178.23,0.0,438.72,0.0
-2020-12-23,Mato Grosso do Sul,Nova Alvorada do Sul,4.57,1,0,0.0,689,8,1.16,3148.71,36.56,3.15,21882,178.23,-4.57,438.72,0.0
-2020-12-22,Mato Grosso do Sul,Nova Alvorada do Sul,36.56,8,0,0.0,688,8,1.16,3144.14,36.56,3.14,21882,182.8,-22.85,438.72,4.57
+2020-12-24,Mato Grosso do Sul,Nova Alvorada do Sul,0.0,0,0,0.0,689,8,1.16,3148.71,36.56,3.15,21882,41.13,0.0,434.15,0.0
+2020-12-23,Mato Grosso do Sul,Nova Alvorada do Sul,4.57,1,0,0.0,689,8,1.16,3148.71,36.56,3.15,21882,41.13,-36.56,434.15,0.0
+2020-12-22,Mato Grosso do Sul,Nova Alvorada do Sul,0.0,0,0,0.0,688,8,1.16,3144.14,36.56,3.14,21882,77.69,-73.12,434.15,0.0
+2020-12-21,Mato Grosso do Sul,Nova Alvorada do Sul,18.28,4,0,0.0,688,8,1.16,3144.14,36.56,3.14,21882,150.81,-4.57,434.15,18.28
+2020-12-20,Mato Grosso do Sul,Nova Alvorada do Sul,0.0,0,0,0.0,684,8,1.17,3125.86,36.56,3.13,21882,155.38,0.0,415.87,0.0
+2020-12-19,Mato Grosso do Sul,Nova Alvorada do Sul,0.0,0,0,0.0,684,8,1.17,3125.86,36.56,3.13,21882,155.38,-9.14,415.87,-4.57
+2020-12-18,Mato Grosso do Sul,Nova Alvorada do Sul,18.28,4,0,0.0,684,8,1.17,3125.86,36.56,3.13,21882,164.52,-41.13,420.44,-13.71
 2020-12-17,Mato Grosso do Sul,Nova Alvorada do Sul,0.0,0,0,0.0,680,8,1.18,3107.58,36.56,3.11,21882,205.65,0.0,434.15,-9.14
 2020-12-16,Mato Grosso do Sul,Nova Alvorada do Sul,41.13,9,0,0.0,680,8,1.18,3107.58,36.56,3.11,21882,205.65,-13.71,443.29,36.56
 2020-12-15,Mato Grosso do Sul,Nova Alvorada do Sul,73.12,16,0,0.0,671,8,1.19,3066.45,36.56,3.07,21882,219.36,68.55,406.73,59.41
