@@ -1,4 +1,5 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,Maharashtra,Nashik,5.24,320,2,0.03,115579,1901,1.64,1891.93,31.12,1.89,6109052,29.05,0.66,144.34,-2.73
 2020-12-31,Maharashtra,Nashik,4.39,268,5,0.08,115259,1899,1.65,1886.69,31.09,1.89,6109052,28.39,0.97,147.07,-1.83
 2020-12-30,Maharashtra,Nashik,4.09,250,5,0.08,114991,1894,1.65,1882.31,31.0,1.88,6109052,27.42,-2.36,148.9,-4.18
 2020-12-29,Maharashtra,Nashik,5.32,325,3,0.05,114741,1889,1.65,1878.21,30.92,1.88,6109052,29.78,2.91,153.08,-0.75
