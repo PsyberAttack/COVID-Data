@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-31,Illinois,Ford,45.24,6,0,0.0,1227,43.0,3.5,9250.6,324.19,9.25,13264,27.31,414.66,-82.93,3068.46,-67.85
 2020-12-30,Illinois,Ford,113.09,15,2,15.08,1221,43.0,3.52,9205.37,324.19,9.21,13264,27.31,497.59,-15.08,3136.31,-67.85
 2020-12-29,Illinois,Ford,75.39,10,0,0.0,1206,41.0,3.4,9092.28,309.11,9.09,13264,27.31,512.67,-37.7,3204.16,-82.93
 2020-12-28,Illinois,Ford,82.93,11,2,15.08,1196,41.0,3.43,9016.89,309.11,9.02,13264,27.31,550.37,22.62,3287.09,22.62

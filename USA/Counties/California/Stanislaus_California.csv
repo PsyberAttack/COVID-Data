@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2020-12-31,California,Stanislaus,60.2,331,8,1.46,37524,616.0,1.64,6824.84,112.04,6.82,549815,367.52,516.9,-24.37,2362.06,4.73
 2020-12-30,California,Stanislaus,55.66,306,12,2.18,37193,608.0,1.63,6764.64,110.58,6.76,549815,367.52,541.27,-32.92,2357.33,-0.54
 2020-12-29,California,Stanislaus,65.11,358,10,1.82,36887,596.0,1.62,6708.98,108.4,6.71,549815,367.52,574.19,-38.92,2357.87,16.55
 2020-12-28,California,Stanislaus,101.12,556,8,1.46,36529,586.0,1.6,6643.87,106.58,6.64,549815,367.52,613.11,-7.46,2341.32,13.27
