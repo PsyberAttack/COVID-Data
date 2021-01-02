@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,Washington,Douglas,0.0,0,0,0.0,2716,15.0,0.55,6329.97,34.96,6.33,42907,23.58,368.24,0.0,1314.47,-188.78
 2020-12-31,Washington,Douglas,212.09,91,0,0.0,2716,15.0,0.55,6329.97,34.96,6.33,42907,23.58,368.24,212.09,1503.25,172.47
 2020-12-30,Washington,Douglas,0.0,0,1,2.33,2625,15.0,0.57,6117.88,34.96,6.12,42907,23.58,156.15,-139.84,1330.78,-100.22
 2020-12-29,Washington,Douglas,88.56,38,0,0.0,2625,14.0,0.53,6117.88,32.63,6.12,42907,23.58,295.99,11.65,1431.0,-16.32

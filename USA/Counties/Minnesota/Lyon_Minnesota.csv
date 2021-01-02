@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,Minnesota,Lyon,0.0,0,0,0.0,2847,29.0,1.02,11108.51,113.15,11.11,25629,35.87,335.55,0.0,1888.49,-136.56
 2020-12-31,Minnesota,Lyon,124.86,32,0,0.0,2847,29.0,1.02,11108.51,113.15,11.11,25629,35.87,335.55,54.63,2025.05,-35.12
 2020-12-30,Minnesota,Lyon,19.51,5,0,0.0,2815,29.0,1.03,10983.65,113.15,10.98,25629,35.87,280.92,-23.41,2060.17,-140.47
 2020-12-29,Minnesota,Lyon,74.13,19,0,0.0,2810,29.0,1.03,10964.14,113.15,10.96,25629,35.87,304.33,27.31,2200.64,11.7

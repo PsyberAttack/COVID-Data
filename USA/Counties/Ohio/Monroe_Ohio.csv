@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,Ohio,Monroe,0.0,0,0,0.0,735,24.0,3.27,5329.95,174.04,5.33,13790,30.26,558.37,0.0,2226.23,-130.53
 2020-12-31,Ohio,Monroe,152.28,21,0,0.0,735,24.0,3.27,5329.95,174.04,5.33,13790,30.26,558.37,36.25,2356.76,65.26
 2020-12-30,Ohio,Monroe,79.77,11,0,0.0,714,24.0,3.36,5177.66,174.04,5.18,13790,30.26,522.12,-36.26,2291.5,21.76
 2020-12-29,Ohio,Monroe,137.78,19,0,0.0,703,24.0,3.41,5097.9,174.04,5.1,13790,30.26,558.38,58.01,2269.74,-14.5

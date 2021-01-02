@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,Missouri,Madison,123.07,15,0,0.0,1215,10.0,0.82,9968.82,82.05,9.97,12188,24.65,639.97,57.43,2289.12,32.82
 2020-12-31,Missouri,Madison,155.89,19,0,0.0,1200,10.0,0.83,9845.75,82.05,9.85,12188,24.65,582.54,106.66,2256.3,49.23
 2020-12-30,Missouri,Madison,49.23,6,0,0.0,1181,10.0,0.85,9689.86,82.05,9.69,12188,24.65,475.88,-57.43,2207.07,16.41
 2020-12-29,Missouri,Madison,114.87,14,0,0.0,1175,10.0,0.85,9640.63,82.05,9.64,12188,24.65,533.31,41.03,2190.66,16.41

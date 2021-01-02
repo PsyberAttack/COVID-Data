@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,Texas,McLennan,0.0,0,1,0.39,19026,284.0,1.49,7472.69,111.54,7.47,254607,245.49,477.99,0.0,1606.01,-48.7
 2020-12-31,Texas,McLennan,96.62,246,2,0.79,19026,283.0,1.49,7472.69,111.15,7.47,254607,245.49,477.99,96.62,1654.71,41.24
 2020-12-30,Texas,McLennan,86.8,221,4,1.57,18780,281.0,1.5,7376.07,110.37,7.38,254607,245.49,381.37,23.96,1613.47,31.42
 2020-12-29,Texas,McLennan,82.09,209,4,1.57,18559,277.0,1.49,7289.27,108.8,7.29,254607,245.49,357.41,10.61,1582.05,34.57

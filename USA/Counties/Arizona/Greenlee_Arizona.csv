@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,Arizona,Greenlee,31.64,3,0,0.0,403,4.0,0.99,4249.71,42.18,4.25,9483,5.15,326.92,-42.18,1328.78,-94.9
 2020-12-31,Arizona,Greenlee,84.36,8,1,10.55,400,4.0,1.0,4218.07,42.18,4.22,9483,5.15,369.1,73.81,1423.68,-94.91
 2020-12-30,Arizona,Greenlee,52.73,5,0,0.0,392,3.0,0.77,4133.71,31.64,4.13,9483,5.15,295.29,0.0,1518.59,-42.18
 2020-12-29,Arizona,Greenlee,52.73,5,0,0.0,387,3.0,0.78,4080.99,31.64,4.08,9483,5.15,295.29,0.0,1560.77,-63.27

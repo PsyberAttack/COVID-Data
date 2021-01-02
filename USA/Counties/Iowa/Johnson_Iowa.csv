@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,Iowa,Johnson,25.78,39,0,0.0,11186,47.0,0.42,7395.21,31.07,7.4,151260,246.76,261.79,18.51,825.7,-28.43
 2020-12-31,Iowa,Johnson,50.24,76,0,0.0,11147,47.0,0.42,7369.43,31.07,7.37,151260,246.76,243.28,27.1,854.13,9.25
 2020-12-30,Iowa,Johnson,42.31,64,0,0.0,11071,47.0,0.42,7319.19,31.07,7.32,151260,246.76,216.18,11.9,844.88,-10.58
 2020-12-29,Iowa,Johnson,50.91,77,0,0.0,11007,47.0,0.43,7276.87,31.07,7.28,151260,246.76,204.28,18.52,855.46,4.63

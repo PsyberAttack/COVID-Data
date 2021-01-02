@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,Texas,Galveston,87.6,296,3,0.89,21725,220.0,1.01,6429.61,65.11,6.43,337890,891.68,567.94,87.6,1887.29,55.64
 2020-12-31,Texas,Galveston,92.34,312,1,0.3,21429,217.0,1.01,6342.0,64.22,6.34,337890,891.68,480.34,-19.53,1831.65,54.75
 2020-12-30,Texas,Galveston,71.92,243,2,0.59,21117,216.0,1.02,6249.67,63.93,6.25,337890,891.68,499.87,-90.26,1776.9,31.37
 2020-12-29,Texas,Galveston,64.81,219,3,0.89,20874,214.0,1.03,6177.75,63.33,6.18,337890,891.68,590.13,-16.28,1745.53,60.37

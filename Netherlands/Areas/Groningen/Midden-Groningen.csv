@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM1952,2021-01-02,Groningen,Midden-Groningen,24.67,15,0,0.0,1365,18,1.32,2244.92,29.6,2.24,60804,256.56,-31.25,1009.79,3.29
+GM1952,2021-01-01,Groningen,Midden-Groningen,26.31,16,0,0.0,1350,18,1.33,2220.25,29.6,2.22,60804,287.81,-6.58,1006.5,8.22
 GM1952,2020-12-31,Groningen,Midden-Groningen,41.12,25,1,1.64,1334,18,1.35,2193.93,29.6,2.19,60804,294.39,-6.57,998.28,11.52
 GM1952,2020-12-30,Groningen,Midden-Groningen,41.12,25,0,0.0,1309,17,1.3,2152.82,27.96,2.15,60804,300.96,-19.73,986.76,34.54
 GM1952,2020-12-29,Groningen,Midden-Groningen,29.6,18,1,1.64,1284,17,1.32,2111.7,27.96,2.11,60804,320.69,11.51,952.22,14.8

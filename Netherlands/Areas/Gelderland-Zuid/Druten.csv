@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0225,2021-01-02,Gelderland-Zuid,Druten,63.43,12,0,0.0,839,18,2.15,4434.93,95.15,4.43,18918,512.73,0.0,1813.08,52.86
+GM0225,2021-01-01,Gelderland-Zuid,Druten,37.0,7,0,0.0,827,18,2.18,4371.5,95.15,4.37,18918,512.73,-47.58,1760.22,21.14
 GM0225,2020-12-31,Gelderland-Zuid,Druten,63.43,12,0,0.0,820,18,2.2,4334.5,95.15,4.33,18918,560.31,-15.86,1739.08,37.0
 GM0225,2020-12-30,Gelderland-Zuid,Druten,105.72,20,0,0.0,808,18,2.23,4271.06,95.15,4.27,18918,576.17,-5.29,1702.08,105.72
 GM0225,2020-12-29,Gelderland-Zuid,Druten,74.0,14,0,0.0,788,18,2.28,4165.35,95.15,4.17,18918,581.46,26.43,1596.36,58.14

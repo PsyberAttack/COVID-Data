@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0553,2021-01-02,Hollands Midden,Lisse,34.85,8,0,0.0,1058,11,1.04,4608.62,47.92,4.61,22957,487.88,0.0,1903.59,-34.85
+GM0553,2021-01-01,Hollands Midden,Lisse,65.34,15,0,0.0,1050,11,1.05,4573.77,47.92,4.57,22957,487.88,21.78,1938.44,17.42
 GM0553,2020-12-31,Hollands Midden,Lisse,78.41,18,2,8.71,1035,11,1.06,4508.43,47.92,4.51,22957,466.1,-8.71,1921.02,56.63
 GM0553,2020-12-30,Hollands Midden,Lisse,117.61,27,0,0.0,1017,9,0.88,4430.02,39.2,4.43,22957,474.81,60.98,1864.39,78.41
 GM0553,2020-12-29,Hollands Midden,Lisse,56.63,13,1,4.36,990,9,0.91,4312.41,39.2,4.31,22957,413.83,-17.42,1785.98,39.21

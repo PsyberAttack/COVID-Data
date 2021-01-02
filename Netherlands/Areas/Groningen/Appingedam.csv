@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0003,2021-01-02,Groningen,Appingedam,25.76,3,0,0.0,305,1,0.33,2619.37,8.59,2.62,11644,266.23,-8.59,1528.67,-17.18
+GM0003,2021-01-01,Groningen,Appingedam,42.94,5,0,0.0,302,1,0.33,2593.61,8.59,2.59,11644,274.82,0.0,1545.85,-17.18
 GM0003,2020-12-31,Groningen,Appingedam,68.7,8,0,0.0,297,1,0.34,2550.67,8.59,2.55,11644,274.82,34.35,1563.03,0.0
 GM0003,2020-12-30,Groningen,Appingedam,60.12,7,0,0.0,289,1,0.35,2481.96,8.59,2.48,11644,240.47,42.94,1563.03,51.53
 GM0003,2020-12-29,Groningen,Appingedam,8.59,1,0,0.0,282,1,0.35,2421.85,8.59,2.42,11644,197.53,-17.17,1511.5,-17.17

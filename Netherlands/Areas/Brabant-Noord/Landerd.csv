@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM1685,2021-01-02,Brabant-Noord,Landerd,63.57,10,0,0.0,938,22,2.35,5963.13,139.86,5.96,15730,425.94,0.0,1805.43,12.71
+GM1685,2021-01-01,Brabant-Noord,Landerd,57.22,9,0,0.0,928,22,2.37,5899.55,139.86,5.9,15730,425.94,-31.78,1792.72,25.43
 GM1685,2020-12-31,Brabant-Noord,Landerd,63.57,10,0,0.0,919,22,2.39,5842.34,139.86,5.84,15730,457.72,-19.07,1767.29,38.14
 GM1685,2020-12-30,Brabant-Noord,Landerd,50.86,8,0,0.0,909,22,2.42,5778.77,139.86,5.78,15730,476.79,-57.21,1729.15,6.36
 GM1685,2020-12-29,Brabant-Noord,Landerd,6.36,1,0,0.0,901,22,2.44,5727.91,139.86,5.73,15730,534.0,-82.64,1722.79,-6.35

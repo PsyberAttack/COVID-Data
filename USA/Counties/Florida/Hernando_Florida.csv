@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,Florida,Hernando,0.0,0,0,0.0,7336,278.0,3.79,3843.55,145.65,3.84,190865,403.71,247.3,0.0,1093.43,-41.39
 2020-12-31,Florida,Hernando,55.54,106,3,1.57,7336,278.0,3.79,3843.55,145.65,3.84,190865,403.71,247.3,2.1,1134.82,24.1
 2020-12-30,Florida,Hernando,47.68,91,-1,-0.52,7230,275.0,3.8,3788.02,144.08,3.79,190865,403.71,245.2,11.53,1110.72,17.29
 2020-12-29,Florida,Hernando,34.06,65,12,6.29,7139,276.0,3.87,3740.34,144.6,3.74,190865,403.71,233.67,-6.81,1093.43,9.44

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,Pennsylvania,Blair,57.15,70,1,0.82,7956,176.0,2.21,6495.12,143.68,6.5,122492,232.96,394.32,18.78,2637.74,-39.18
 2020-12-31,Pennsylvania,Blair,48.17,59,2,1.63,7886,175.0,2.22,6437.97,142.87,6.44,122492,232.96,375.54,-73.47,2676.92,-31.84
 2020-12-30,Pennsylvania,Blair,49.8,61,0,0.0,7827,173.0,2.21,6389.81,141.23,6.39,122492,232.96,449.01,-35.92,2708.76,-29.39
 2020-12-29,Pennsylvania,Blair,82.45,101,5,4.08,7766,173.0,2.23,6340.01,141.23,6.34,122492,232.96,484.93,12.24,2738.15,8.98

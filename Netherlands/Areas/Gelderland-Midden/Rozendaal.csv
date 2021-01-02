@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0277,2021-01-02,Gelderland-Midden,Rozendaal,0.0,0,0,0.0,62,0,0.0,3636.36,0.0,3.64,1705,586.5,0.0,1876.8,58.65
+GM0277,2021-01-01,Gelderland-Midden,Rozendaal,0.0,0,0,0.0,62,0,0.0,3636.36,0.0,3.64,1705,586.5,0.0,1818.15,-234.6
 GM0277,2020-12-31,Gelderland-Midden,Rozendaal,58.65,1,0,0.0,62,0,0.0,3636.36,0.0,3.64,1705,586.5,-58.65,2052.75,0.0
 GM0277,2020-12-30,Gelderland-Midden,Rozendaal,234.6,4,0,0.0,61,0,0.0,3577.71,0.0,3.58,1705,645.15,175.95,2052.75,234.6
 GM0277,2020-12-29,Gelderland-Midden,Rozendaal,117.3,2,0,0.0,57,0,0.0,3343.11,0.0,3.34,1705,469.2,58.65,1818.15,117.3

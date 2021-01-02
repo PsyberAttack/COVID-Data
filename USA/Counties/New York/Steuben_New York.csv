@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,New York,Steuben,63.68,61,0,0.0,3467,120.0,3.46,3619.15,125.27,3.62,95796,68.89,386.23,-14.61,1576.26,2.09
 2020-12-31,New York,Steuben,86.64,83,0,0.0,3406,120.0,3.52,3555.47,125.27,3.56,95796,68.89,400.84,3.13,1574.17,52.19
 2020-12-30,New York,Steuben,76.2,73,0,0.0,3323,120.0,3.61,3468.83,125.27,3.47,95796,68.89,397.71,1.04,1521.98,33.4
 2020-12-29,New York,Steuben,49.06,47,1,1.04,3250,120.0,3.69,3392.63,125.27,3.39,95796,68.89,396.67,2.09,1488.58,20.88

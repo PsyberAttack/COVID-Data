@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,Illinois,Saline,0.0,0,0,0.0,1764,40.0,2.27,7378.9,167.32,7.38,23906,62.93,401.56,-100.39,2371.8,-75.29
 2020-12-31,Illinois,Saline,66.93,16,0,0.0,1764,40.0,2.27,7378.9,167.32,7.38,23906,62.93,501.95,-87.84,2447.09,-54.38
 2020-12-30,Illinois,Saline,112.94,27,0,0.0,1748,40.0,2.29,7311.97,167.32,7.31,23906,62.93,589.79,33.46,2501.47,41.83
 2020-12-29,Illinois,Saline,54.38,13,1,4.18,1721,40.0,2.32,7199.03,167.32,7.2,23906,62.93,556.33,-50.2,2459.64,12.55

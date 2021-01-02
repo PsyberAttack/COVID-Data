@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,Washington,Okanogan,0.0,0,0,0.0,1757,32.0,1.82,4170.23,75.95,4.17,42132,8.0,199.38,0.0,899.56,-21.36
 2020-12-31,Washington,Okanogan,61.71,26,0,0.0,1757,32.0,1.82,4170.23,75.95,4.17,42132,8.0,199.38,7.12,920.92,21.36
 2020-12-30,Washington,Okanogan,66.46,28,0,0.0,1731,32.0,1.85,4108.52,75.95,4.11,42132,8.0,192.26,-61.71,899.56,45.1
 2020-12-29,Washington,Okanogan,21.36,9,0,0.0,1703,32.0,1.88,4042.06,75.95,4.04,42132,8.0,253.97,7.12,854.46,14.24

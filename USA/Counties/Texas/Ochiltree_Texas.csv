@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,Texas,Ochiltree,180.96,18,0,0.0,912,17.0,1.86,9168.59,170.91,9.17,9947,10.84,311.66,180.96,2985.83,50.27
 2020-12-31,Texas,Ochiltree,60.32,6,1,10.05,894,17.0,1.9,8987.63,170.91,8.99,9947,10.84,130.7,60.32,2935.56,-201.07
 2020-12-30,Texas,Ochiltree,80.43,8,0,0.0,888,16.0,1.8,8927.31,160.85,8.93,9947,10.84,70.38,-301.59,3136.63,-120.64
 2020-12-29,Texas,Ochiltree,-10.05,-1,1,10.05,880,16.0,1.82,8846.89,160.85,8.85,9947,10.84,371.97,-60.32,3257.27,-30.16

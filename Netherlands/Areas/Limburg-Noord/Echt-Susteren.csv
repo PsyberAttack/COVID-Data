@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM1711,2021-01-02,Limburg-Noord,Echt-Susteren,113.86,36,0,0.0,1100,20,1.82,3479.03,63.26,3.48,31618,525.03,56.93,1859.72,91.72
+GM1711,2021-01-01,Limburg-Noord,Echt-Susteren,56.93,18,0,0.0,1064,20,1.88,3365.17,63.26,3.37,31618,468.1,-22.14,1768.0,25.3
 GM1711,2020-12-31,Limburg-Noord,Echt-Susteren,63.26,20,0,0.0,1046,20,1.91,3308.24,63.26,3.31,31618,490.24,-28.46,1742.7,34.8
 GM1711,2020-12-30,Limburg-Noord,Echt-Susteren,56.93,18,0,0.0,1026,20,1.95,3244.99,63.26,3.24,31618,518.7,-41.12,1707.9,31.63
 GM1711,2020-12-29,Limburg-Noord,Echt-Susteren,79.07,25,0,0.0,1008,20,1.98,3188.06,63.26,3.19,31618,559.82,-28.46,1676.27,53.77

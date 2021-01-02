@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,California,Mendocino,0.0,0,0,0.0,2558,26.0,1.02,2919.89,29.68,2.92,87606,24.98,278.52,0.0,982.81,-29.68
 2020-12-31,California,Mendocino,81.04,71,0,0.0,2558,26.0,1.02,2919.89,29.68,2.92,87606,24.98,278.52,81.04,1012.49,65.06
 2020-12-30,California,Mendocino,52.51,46,0,0.0,2487,26.0,1.05,2838.85,29.68,2.84,87606,24.98,197.48,27.4,947.43,23.97
 2020-12-29,California,Mendocino,18.26,16,0,0.0,2441,26.0,1.07,2786.34,29.68,2.79,87606,24.98,170.08,-22.83,923.46,-25.12

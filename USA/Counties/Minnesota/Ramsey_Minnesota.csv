@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,Minnesota,Ramsey,0.0,0,0,0.0,37111,688.0,1.85,6744.88,125.04,6.74,550210,3614.58,165.02,0.0,1310.23,-80.51
 2020-12-31,Minnesota,Ramsey,35.08,193,8,1.45,37111,688.0,1.85,6744.88,125.04,6.74,550210,3614.58,165.02,10.18,1390.74,-57.79
 2020-12-30,Minnesota,Ramsey,29.44,162,8,1.45,36918,680.0,1.84,6709.8,123.59,6.71,550210,3614.58,154.84,-1.28,1448.53,-48.89
 2020-12-29,Minnesota,Ramsey,13.45,74,7,1.27,36756,672.0,1.83,6680.36,122.14,6.68,550210,3614.58,156.12,-23.08,1497.42,-33.99

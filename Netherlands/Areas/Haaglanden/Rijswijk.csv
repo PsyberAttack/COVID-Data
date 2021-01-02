@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0603,2021-01-02,Haaglanden,Rijswijk,34.91,19,0,0.0,2715,67,2.47,4987.87,123.09,4.99,54432,275.58,-20.2,1262.14,9.19
+GM0603,2021-01-01,Haaglanden,Rijswijk,36.74,20,0,0.0,2696,67,2.49,4952.97,123.09,4.95,54432,295.78,-14.7,1252.95,1.83
 GM0603,2020-12-31,Haaglanden,Rijswijk,33.07,18,1,1.84,2676,67,2.5,4916.23,123.09,4.92,54432,310.48,-23.88,1251.12,-7.35
 GM0603,2020-12-30,Haaglanden,Rijswijk,44.09,24,1,1.84,2658,66,2.48,4883.16,121.25,4.88,54432,334.36,-29.4,1258.47,20.21
 GM0603,2020-12-29,Haaglanden,Rijswijk,34.91,19,1,1.84,2634,65,2.47,4839.07,119.42,4.84,54432,363.76,-16.53,1238.26,22.05

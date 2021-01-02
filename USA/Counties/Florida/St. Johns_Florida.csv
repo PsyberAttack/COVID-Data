@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,Florida,St. Johns,0.0,0,0,0.0,13072,113.0,0.86,5141.17,44.44,5.14,254261,423.26,420.43,0.0,1468.17,-47.98
 2020-12-31,Florida,St. Johns,95.96,244,1,0.39,13072,113.0,0.86,5141.17,44.44,5.14,254261,423.26,420.43,23.2,1516.15,44.04
 2020-12-30,Florida,St. Johns,66.07,168,0,0.0,12828,112.0,0.87,5045.21,44.05,5.05,254261,423.26,397.23,3.54,1472.11,5.5
 2020-12-29,Florida,St. Johns,70.4,179,0,0.0,12660,112.0,0.88,4979.14,44.05,4.98,254261,423.26,393.69,4.33,1466.61,31.46

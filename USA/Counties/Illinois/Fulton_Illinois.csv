@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,Illinois,Fulton,0.0,0,0,0.0,2342,31.0,1.32,6721.39,88.97,6.72,34844,40.25,278.39,-177.94,2009.0,-80.36
 2020-12-31,Illinois,Fulton,57.4,20,1,2.87,2342,31.0,1.32,6721.39,88.97,6.72,34844,40.25,456.33,-17.22,2089.36,-66.01
 2020-12-30,Illinois,Fulton,57.4,20,1,2.87,2322,30.0,1.29,6663.99,86.1,6.66,34844,40.25,473.55,-88.97,2155.37,-117.67
 2020-12-29,Illinois,Fulton,66.01,23,2,5.74,2302,29.0,1.26,6606.59,83.23,6.61,34844,40.25,562.52,2.87,2273.04,-5.74

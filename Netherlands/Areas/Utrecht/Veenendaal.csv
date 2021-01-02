@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0345,2021-01-02,Utrecht,Veenendaal,84.22,56,0,0.0,4753,42,0.88,7148.34,63.17,7.15,66491,539.91,3.01,3083.11,7.52
+GM0345,2021-01-01,Utrecht,Veenendaal,67.68,45,0,0.0,4697,42,0.89,7064.11,63.17,7.06,66491,536.9,-81.21,3075.59,-55.64
 GM0345,2020-12-31,Utrecht,Veenendaal,96.25,64,0,0.0,4652,42,0.9,6996.44,63.17,7.0,66491,618.11,-31.59,3131.23,34.59
 GM0345,2020-12-30,Utrecht,Veenendaal,81.21,54,1,1.5,4588,42,0.92,6900.18,63.17,6.9,66491,649.7,-36.1,3096.64,57.15
 GM0345,2020-12-29,Utrecht,Veenendaal,66.17,44,0,0.0,4534,41,0.9,6818.97,61.66,6.82,66491,685.8,-78.21,3039.49,31.58

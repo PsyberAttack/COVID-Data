@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0370,2021-01-02,Zaanstreek-Waterland,Beemster,19.95,2,0,0.0,331,2,0.6,3301.75,19.95,3.3,10025,199.51,-59.85,1047.42,-29.93
+GM0370,2021-01-01,Zaanstreek-Waterland,Beemster,29.93,3,0,0.0,329,2,0.61,3281.8,19.95,3.28,10025,259.36,-69.82,1077.35,9.98
 GM0370,2020-12-31,Zaanstreek-Waterland,Beemster,59.85,6,0,0.0,326,2,0.61,3251.87,19.95,3.25,10025,329.18,9.97,1067.37,29.92
 GM0370,2020-12-30,Zaanstreek-Waterland,Beemster,0.0,0,0,0.0,320,2,0.62,3192.02,19.95,3.19,10025,319.21,-19.95,1037.45,-9.98
 GM0370,2020-12-29,Zaanstreek-Waterland,Beemster,29.93,3,0,0.0,320,2,0.62,3192.02,19.95,3.19,10025,339.16,29.93,1047.43,0.0

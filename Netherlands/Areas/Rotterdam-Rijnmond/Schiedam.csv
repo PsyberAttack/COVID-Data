@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0606,2021-01-02,Rotterdam-Rijnmond,Schiedam,39.37,31,0,0.0,5075,53,1.04,6445.34,67.31,6.45,78739,233.68,1.27,1116.33,12.7
+GM0606,2021-01-01,Rotterdam-Rijnmond,Schiedam,34.29,27,3,3.81,5044,53,1.05,6405.97,67.31,6.41,78739,232.41,-15.24,1103.63,6.35
 GM0606,2020-12-31,Rotterdam-Rijnmond,Schiedam,50.8,40,0,0.0,5017,50,1.0,6371.68,63.5,6.37,78739,247.65,-6.35,1097.28,-5.08
 GM0606,2020-12-30,Rotterdam-Rijnmond,Schiedam,30.48,24,0,0.0,4977,50,1.0,6320.88,63.5,6.32,78739,254.0,8.89,1102.36,-20.32
 GM0606,2020-12-29,Rotterdam-Rijnmond,Schiedam,40.64,32,1,1.27,4953,50,1.01,6290.4,63.5,6.29,78739,245.11,19.05,1122.68,1.27

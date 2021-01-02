@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,Illinois,De Witt,0.0,0,0,0.0,915,25.0,2.73,5802.52,158.54,5.8,15769,39.67,298.05,-31.71,1585.39,-63.42
 2020-12-31,Illinois,De Witt,95.12,15,0,0.0,915,25.0,2.73,5802.52,158.54,5.8,15769,39.67,329.76,57.07,1648.81,25.36
 2020-12-30,Illinois,De Witt,82.44,13,0,0.0,900,25.0,2.78,5707.4,158.54,5.71,15769,39.67,272.69,-44.39,1623.45,38.05
 2020-12-29,Illinois,De Witt,50.73,8,1,6.34,887,25.0,2.82,5624.96,158.54,5.62,15769,39.67,317.08,-31.71,1585.4,-6.34

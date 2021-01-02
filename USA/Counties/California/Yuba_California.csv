@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,California,Yuba,0.0,0,0,0.0,3898,19.0,0.49,4994.81,24.35,4.99,78041,123.48,345.97,0.0,1915.66,-58.94
 2020-12-31,California,Yuba,51.26,40,1,1.28,3898,19.0,0.49,4994.81,24.35,4.99,78041,123.48,345.97,-43.56,1974.6,-8.96
 2020-12-30,California,Yuba,41.0,32,0,0.0,3858,18.0,0.47,4943.56,23.06,4.94,78041,123.48,389.53,-38.45,1983.56,-73.04
 2020-12-29,California,Yuba,26.91,21,0,0.0,3826,18.0,0.47,4902.55,23.06,4.9,78041,123.48,427.98,-62.79,2056.6,-53.82

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,Washington,Adams,0.0,0,0,0.0,1627,16.0,0.98,8234.22,80.98,8.23,19759,10.26,187.26,0.0,1255.11,-50.61
 2020-12-31,Washington,Adams,80.98,16,0,0.0,1627,16.0,0.98,8234.22,80.98,8.23,19759,10.26,187.26,55.68,1305.72,25.31
 2020-12-30,Washington,Adams,55.67,11,0,0.0,1611,16.0,0.99,8153.25,80.98,8.15,19759,10.26,131.58,-15.18,1280.41,15.18
 2020-12-29,Washington,Adams,30.37,6,0,0.0,1600,16.0,1.0,8097.58,80.98,8.1,19759,10.26,146.76,40.49,1265.23,15.19

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,Colorado,La Plata,33.74,19,0,0.0,2245,28.0,1.25,3986.86,49.72,3.99,56310,33.32,154.52,-8.88,1214.72,-76.36
 2020-12-31,Colorado,La Plata,35.52,20,0,0.0,2226,28.0,1.26,3953.12,49.72,3.95,56310,33.32,163.4,17.76,1291.08,-118.98
 2020-12-30,Colorado,La Plata,23.09,13,-1,-1.78,2206,28.0,1.27,3917.6,49.72,3.92,56310,33.32,145.64,-7.1,1410.06,-19.53
 2020-12-29,Colorado,La Plata,-3.55,-2,0,0.0,2193,29.0,1.32,3894.51,51.5,3.89,56310,33.32,152.74,-33.74,1429.59,-21.31

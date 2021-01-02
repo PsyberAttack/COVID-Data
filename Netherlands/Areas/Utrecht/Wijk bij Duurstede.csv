@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0352,2021-01-02,Utrecht,Wijk bij Duurstede,83.65,20,0,0.0,913,9,0.99,3818.49,37.64,3.82,23910,292.76,20.91,1250.52,50.19
+GM0352,2021-01-01,Utrecht,Wijk bij Duurstede,41.82,10,0,0.0,893,9,1.01,3734.84,37.64,3.73,23910,271.85,-29.28,1200.33,16.73
 GM0352,2020-12-31,Utrecht,Wijk bij Duurstede,75.28,18,0,0.0,883,9,1.02,3693.02,37.64,3.69,23910,301.13,20.91,1183.6,66.92
 GM0352,2020-12-30,Utrecht,Wijk bij Duurstede,12.55,3,0,0.0,865,9,1.04,3617.73,37.64,3.62,23910,280.22,-54.37,1116.68,-4.18
 GM0352,2020-12-29,Utrecht,Wijk bij Duurstede,20.91,5,1,4.18,862,9,1.04,3605.19,37.64,3.61,23910,334.59,-50.19,1120.86,8.36

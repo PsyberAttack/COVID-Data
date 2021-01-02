@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0503,2021-01-02,Haaglanden,Delft,45.34,47,0,0.0,5076,53,1.04,4896.83,51.13,4.9,103659,253.72,-13.51,1107.47,-16.4
+GM0503,2021-01-01,Haaglanden,Delft,30.87,32,0,0.0,5029,53,1.05,4851.48,51.13,4.85,103659,267.23,-4.82,1123.87,4.82
 GM0503,2020-12-31,Haaglanden,Delft,43.41,45,0,0.0,4997,53,1.06,4820.61,51.13,4.82,103659,272.05,1.93,1119.05,10.61
 GM0503,2020-12-30,Haaglanden,Delft,32.8,34,0,0.0,4952,53,1.07,4777.2,51.13,4.78,103659,270.12,-9.65,1108.44,-4.82
 GM0503,2020-12-29,Haaglanden,Delft,44.38,46,0,0.0,4918,53,1.08,4744.4,51.13,4.74,103659,279.77,-1.93,1113.26,27.02

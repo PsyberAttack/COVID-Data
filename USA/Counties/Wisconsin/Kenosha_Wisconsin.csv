@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,Wisconsin,Kenosha,44.89,76,0,0.0,13918,226.0,1.62,8221.4,133.5,8.22,169290,622.71,303.61,11.81,1702.37,-12.41
 2020-12-31,Wisconsin,Kenosha,62.02,105,1,0.59,13842,226.0,1.63,8176.5,133.5,8.18,169290,622.71,291.8,-13.0,1714.78,-20.68
 2020-12-30,Wisconsin,Kenosha,57.89,98,1,0.59,13737,225.0,1.64,8114.48,132.91,8.11,169290,622.71,304.8,-7.09,1735.46,-62.02
 2020-12-29,Wisconsin,Kenosha,57.89,98,3,1.77,13639,224.0,1.64,8056.59,132.32,8.06,169290,622.71,311.89,-20.67,1797.48,-89.19

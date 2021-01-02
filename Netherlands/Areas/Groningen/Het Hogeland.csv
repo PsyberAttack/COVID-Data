@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM1966,2021-01-02,Groningen,Het Hogeland,52.26,25,0,0.0,1361,16,1.18,2845.26,33.45,2.85,47834,432.75,4.18,1363.04,27.17
+GM1966,2021-01-01,Groningen,Het Hogeland,64.81,31,5,10.45,1336,16,1.2,2792.99,33.45,2.79,47834,428.57,14.64,1335.87,39.72
 GM1966,2020-12-31,Groningen,Het Hogeland,52.26,25,0,0.0,1305,11,0.84,2728.18,23.0,2.73,47834,413.93,-18.82,1296.15,16.72
 GM1966,2020-12-30,Groningen,Het Hogeland,64.81,31,0,0.0,1280,11,0.86,2675.92,23.0,2.68,47834,432.75,8.36,1279.43,39.72
 GM1966,2020-12-29,Groningen,Het Hogeland,56.45,27,3,6.27,1249,11,0.88,2611.11,23.0,2.61,47834,424.39,-10.45,1239.71,35.54

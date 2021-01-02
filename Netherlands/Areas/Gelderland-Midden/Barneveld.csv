@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0203,2021-01-02,Gelderland-Midden,Barneveld,96.48,57,0,0.0,4116,27,0.66,6967.18,45.7,6.97,59077,939.44,-37.24,3757.78,0.0
+GM0203,2021-01-01,Gelderland-Midden,Barneveld,123.57,73,0,0.0,4059,27,0.67,6870.69,45.7,6.87,59077,976.68,-44.01,3757.78,33.86
 GM0203,2020-12-31,Gelderland-Midden,Barneveld,152.34,90,2,3.39,3986,27,0.68,6747.13,45.7,6.75,59077,1020.69,-5.08,3723.92,115.1
 GM0203,2020-12-30,Gelderland-Midden,Barneveld,115.1,68,0,0.0,3896,25,0.64,6594.78,42.32,6.59,59077,1025.77,-79.56,3608.82,77.86
 GM0203,2020-12-29,Gelderland-Midden,Barneveld,108.33,64,2,3.39,3828,25,0.65,6479.68,42.32,6.48,59077,1105.33,-37.24,3530.96,77.86

@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0226,2021-01-02,Gelderland-Midden,Duiven,75.62,19,0,0.0,1144,8,0.7,4553.42,31.84,4.55,25124,477.62,-27.87,1707.47,51.74
+GM0226,2021-01-01,Gelderland-Midden,Duiven,43.78,11,0,0.0,1125,8,0.71,4477.79,31.84,4.48,25124,505.49,-31.84,1655.73,-27.86
 GM0226,2020-12-31,Gelderland-Midden,Duiven,51.74,13,0,0.0,1114,8,0.72,4434.01,31.84,4.43,25124,537.33,15.92,1683.59,0.0
 GM0226,2020-12-30,Gelderland-Midden,Duiven,67.66,17,0,0.0,1101,8,0.73,4382.26,31.84,4.38,25124,521.41,7.96,1683.59,43.78
 GM0226,2020-12-29,Gelderland-Midden,Duiven,55.72,14,0,0.0,1084,8,0.74,4314.6,31.84,4.31,25124,513.45,-11.94,1639.81,35.82

@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM1978,2021-01-02,Zuid-Holland-Zuid,Molenlanden,79.67,35,0,0.0,2404,21,0.87,5472.22,47.8,5.47,43931,491.69,0.0,1825.59,56.91
+GM1978,2021-01-01,Zuid-Holland-Zuid,Molenlanden,68.29,30,0,0.0,2369,21,0.89,5392.55,47.8,5.39,43931,491.69,-11.38,1768.68,29.59
 GM1978,2020-12-31,Zuid-Holland-Zuid,Molenlanden,56.91,25,0,0.0,2339,21,0.9,5324.26,47.8,5.32,43931,503.07,-43.25,1739.09,27.32
 GM1978,2020-12-30,Zuid-Holland-Zuid,Molenlanden,91.05,40,0,0.0,2314,21,0.91,5267.35,47.8,5.27,43931,546.32,25.04,1711.77,43.25
 GM1978,2020-12-29,Zuid-Holland-Zuid,Molenlanden,56.91,25,2,4.55,2274,21,0.92,5176.3,47.8,5.18,43931,521.28,0.0,1668.52,54.63

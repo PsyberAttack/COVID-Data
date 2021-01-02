@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,Texas,Carson,199.83,12,0,0.0,296,10.0,3.38,4929.23,166.53,4.93,6005,6.53,299.75,199.83,3030.81,149.87
 2020-12-31,Texas,Carson,-16.65,-1,1,16.65,284,10.0,3.52,4729.39,166.53,4.73,6005,6.53,99.92,-49.96,2880.94,-99.91
 2020-12-30,Texas,Carson,149.88,9,1,16.65,285,9.0,3.16,4746.04,149.88,4.75,6005,6.53,149.88,0.0,2980.85,49.96
 2020-12-29,Texas,Carson,-33.31,-2,0,0.0,276,8.0,2.9,4596.17,133.22,4.6,6005,6.53,149.88,-116.57,2930.89,-66.62

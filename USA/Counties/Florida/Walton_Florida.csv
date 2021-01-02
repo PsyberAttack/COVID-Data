@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,Florida,Walton,0.0,0,0,0.0,4891,48.0,0.98,6852.54,67.25,6.85,71375,68.78,437.13,0.0,1461.29,-65.85
 2020-12-31,Florida,Walton,102.28,73,2,2.8,4891,48.0,0.98,6852.54,67.25,6.85,71375,68.78,437.13,23.82,1527.14,43.44
 2020-12-30,Florida,Walton,85.46,61,1,1.4,4818,46.0,0.95,6750.26,64.45,6.75,71375,68.78,413.31,32.22,1483.7,23.81
 2020-12-29,Florida,Walton,70.05,50,2,2.8,4757,45.0,0.95,6664.8,63.05,6.66,71375,68.78,381.09,30.82,1459.89,35.02

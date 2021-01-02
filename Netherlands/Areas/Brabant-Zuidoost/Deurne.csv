@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0762,2021-01-02,Brabant-Zuidoost,Deurne,67.75,22,0,0.0,1581,35,2.21,4868.51,107.78,4.87,32474,323.33,21.56,1339.56,27.72
+GM0762,2021-01-01,Brabant-Zuidoost,Deurne,49.27,16,0,0.0,1559,35,2.25,4800.76,107.78,4.8,32474,301.77,-21.56,1311.84,18.48
 GM0762,2020-12-31,Brabant-Zuidoost,Deurne,46.19,15,0,0.0,1543,35,2.27,4751.49,107.78,4.75,32474,323.33,-9.24,1293.36,15.4
 GM0762,2020-12-30,Brabant-Zuidoost,Deurne,40.03,13,0,0.0,1528,35,2.29,4705.3,107.78,4.71,32474,332.57,6.16,1277.96,3.08
 GM0762,2020-12-29,Brabant-Zuidoost,Deurne,30.79,10,0,0.0,1515,35,2.31,4665.27,107.78,4.67,32474,326.41,-40.04,1274.88,3.08

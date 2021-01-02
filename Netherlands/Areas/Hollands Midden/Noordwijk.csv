@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0575,2021-01-02,Hollands Midden,Noordwijk,68.92,30,0,0.0,2013,12,0.6,4624.61,27.57,4.62,43528,422.71,-25.27,1550.72,43.65
+GM0575,2021-01-01,Hollands Midden,Noordwijk,45.95,20,0,0.0,1983,12,0.61,4555.69,27.57,4.56,43528,447.98,-43.65,1507.07,9.19
 GM0575,2020-12-31,Hollands Midden,Noordwijk,50.54,22,2,4.59,1963,12,0.61,4509.74,27.57,4.51,43528,491.63,-6.89,1497.88,4.59
 GM0575,2020-12-30,Hollands Midden,Noordwijk,64.33,28,0,0.0,1941,10,0.52,4459.2,22.97,4.46,43528,498.52,20.68,1493.29,36.76
 GM0575,2020-12-29,Hollands Midden,Noordwijk,66.62,29,0,0.0,1913,10,0.52,4394.87,22.97,4.39,43528,477.84,4.59,1456.53,48.24

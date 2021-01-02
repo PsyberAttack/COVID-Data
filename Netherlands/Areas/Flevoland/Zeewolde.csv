@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0050,2021-01-02,Flevoland,Zeewolde,79.45,18,0,0.0,850,9,1.06,3751.77,39.72,3.75,22656,436.97,17.66,1867.02,52.97
+GM0050,2021-01-01,Flevoland,Zeewolde,35.31,8,0,0.0,832,9,1.08,3672.32,39.72,3.67,22656,419.31,-52.97,1814.05,-8.83
 GM0050,2020-12-31,Flevoland,Zeewolde,70.62,16,0,0.0,824,9,1.09,3637.01,39.72,3.64,22656,472.28,0.0,1822.88,48.55
 GM0050,2020-12-30,Flevoland,Zeewolde,75.04,17,0,0.0,808,9,1.11,3566.38,39.72,3.57,22656,472.28,-30.89,1774.33,66.21
 GM0050,2020-12-29,Flevoland,Zeewolde,52.97,12,0,0.0,791,9,1.14,3491.35,39.72,3.49,22656,503.17,-39.72,1708.12,30.9

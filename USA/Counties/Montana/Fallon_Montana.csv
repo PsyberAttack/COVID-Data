@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,Montana,Fallon,0.0,0,0,0.0,268,2.0,0.75,9178.08,68.49,9.18,2920,1.8,102.74,0.0,547.95,-34.25
 2020-12-31,Montana,Fallon,68.49,2,0,0.0,268,2.0,0.75,9178.08,68.49,9.18,2920,1.8,102.74,68.49,582.2,0.0
 2020-12-30,Montana,Fallon,0.0,0,0,0.0,266,2.0,0.75,9109.59,68.49,9.11,2920,1.8,34.25,0.0,582.2,-34.25
 2020-12-29,Montana,Fallon,34.25,1,1,34.25,266,2.0,0.75,9109.59,68.49,9.11,2920,1.8,34.25,0.0,616.45,-171.23
