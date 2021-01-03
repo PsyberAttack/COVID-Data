@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-02,Illinois,Hamilton,73.5,6,0,0.0,607,10.0,1.65,7435.99,122.5,7.44,8163,18.78,600.26,61.25,2131.52,-61.25
 2021-01-01,Illinois,Hamilton,0.0,0,0,0.0,601,10.0,1.66,7362.49,122.5,7.36,8163,18.78,539.01,-12.25,2192.77,-134.75
 2020-12-31,Illinois,Hamilton,147.0,12,0,0.0,601,10.0,1.66,7362.49,122.5,7.36,8163,18.78,551.26,49.0,2327.52,73.5
 2020-12-30,Illinois,Hamilton,147.0,12,0,0.0,589,10.0,1.7,7215.48,122.5,7.22,8163,18.78,502.26,73.5,2254.02,73.5

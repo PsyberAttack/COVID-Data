@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-02,Wyoming,Johnson,23.64,2,0,0.0,520,6.0,1.15,6146.57,70.92,6.15,8460,2.04,35.45,-59.1,1749.37,-23.64
 2021-01-01,Wyoming,Johnson,0.0,0,0,0.0,518,6.0,1.16,6122.93,70.92,6.12,8460,2.04,94.55,0.0,1773.01,-224.59
 2020-12-31,Wyoming,Johnson,-189.13,-16,0,0.0,518,6.0,1.16,6122.93,70.92,6.12,8460,2.04,94.55,-189.13,1997.6,-271.87
 2020-12-30,Wyoming,Johnson,0.0,0,0,0.0,534,6.0,1.12,6312.06,70.92,6.31,8460,2.04,283.68,-47.28,2269.47,-165.48

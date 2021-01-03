@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-02,Pennsylvania,Lancaster,73.59,400,0,0.0,28725,741.0,2.58,5284.63,136.32,5.28,543557,575.88,398.86,27.6,1806.79,-4.78
 2021-01-01,Pennsylvania,Lancaster,58.69,319,10,1.84,28325,741.0,2.62,5211.05,136.32,5.21,543557,575.88,371.26,-2.39,1811.57,-73.77
 2020-12-31,Pennsylvania,Lancaster,66.23,360,9,1.66,28006,731.0,2.61,5152.36,134.48,5.15,543557,575.88,373.65,-9.75,1885.34,-3.31
 2020-12-30,Pennsylvania,Lancaster,68.81,374,10,1.84,27646,722.0,2.61,5086.13,132.83,5.09,543557,575.88,383.4,-17.47,1888.65,1.11

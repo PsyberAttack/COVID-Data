@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-02,Minnesota,Faribault,79.95,11,0,0.0,922,11.0,1.19,6701.56,79.95,6.7,13758,19.31,377.97,58.14,2020.64,-79.96
 2021-01-01,Minnesota,Faribault,0.0,0,0,0.0,911,11.0,1.21,6621.6,79.95,6.62,13758,19.31,319.83,0.0,2100.6,-94.49
 2020-12-31,Minnesota,Faribault,50.88,7,0,0.0,911,11.0,1.21,6621.6,79.95,6.62,13758,19.31,319.83,0.0,2195.09,-87.22
 2020-12-30,Minnesota,Faribault,101.76,14,1,7.27,904,11.0,1.22,6570.72,79.95,6.57,13758,19.31,319.83,58.15,2282.31,29.08

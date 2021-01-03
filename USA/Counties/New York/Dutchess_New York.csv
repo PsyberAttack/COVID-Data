@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-02,New York,Dutchess,75.58,222,3,1.02,12601,240.0,1.9,4290.17,81.71,4.29,293718,369.16,454.52,25.87,1581.79,22.13
 2021-01-01,New York,Dutchess,101.12,297,3,1.02,12379,237.0,1.91,4214.59,80.69,4.21,293718,369.16,428.65,36.09,1559.66,45.62
 2020-12-31,New York,Dutchess,72.52,213,1,0.34,12082,234.0,1.94,4113.47,79.67,4.11,293718,369.16,392.56,19.07,1514.04,30.64
 2020-12-30,New York,Dutchess,50.73,149,1,0.34,11869,233.0,1.96,4040.95,79.33,4.04,293718,369.16,373.49,-1.02,1483.4,-3.06

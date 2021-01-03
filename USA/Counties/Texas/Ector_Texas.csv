@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-02,Texas,Ector,0.0,0,1,0.62,11543,225.0,1.95,7119.86,138.78,7.12,162124,180.58,49.34,0.0,1103.48,0.0
 2021-01-01,Texas,Ector,0.0,0,1,0.62,11543,224.0,1.94,7119.86,138.17,7.12,162124,180.58,49.34,0.0,1103.48,-177.64
 2020-12-31,Texas,Ector,0.0,0,2,1.23,11543,223.0,1.93,7119.86,137.55,7.12,162124,180.58,49.34,0.0,1281.12,-84.5
 2020-12-30,Texas,Ector,0.0,0,1,0.62,11543,221.0,1.91,7119.86,136.32,7.12,162124,180.58,49.34,0.0,1365.62,-116.58

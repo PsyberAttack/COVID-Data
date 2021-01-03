@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-02,Texas,Burleson,0.0,0,1,5.44,937,15.0,1.6,5095.44,81.57,5.1,18389,27.9,119.65,0.0,1316.01,-76.13
 2021-01-01,Texas,Burleson,10.88,2,0,0.0,937,14.0,1.49,5095.44,76.13,5.1,18389,27.9,119.65,10.88,1392.14,-10.87
 2020-12-31,Texas,Burleson,21.75,4,0,0.0,935,14.0,1.5,5084.56,76.13,5.08,18389,27.9,108.77,-59.82,1403.01,10.87
 2020-12-30,Texas,Burleson,10.88,2,0,0.0,931,14.0,1.5,5062.81,76.13,5.06,18389,27.9,168.59,-32.62,1392.14,-21.75

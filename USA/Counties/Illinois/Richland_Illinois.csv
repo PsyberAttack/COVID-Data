@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-02,Illinois,Richland,234.73,37,0,0.0,1346,37.0,2.75,8538.98,234.73,8.54,15763,43.78,602.67,164.95,2778.67,76.13
 2021-01-01,Illinois,Richland,0.0,0,0,0.0,1309,37.0,2.83,8304.26,234.73,8.3,15763,43.78,437.72,-50.75,2702.54,-95.16
 2020-12-31,Illinois,Richland,126.88,20,3,19.03,1309,37.0,2.83,8304.26,234.73,8.3,15763,43.78,488.47,31.72,2797.7,12.69
 2020-12-30,Illinois,Richland,133.22,21,1,6.34,1289,34.0,2.64,8177.38,215.69,8.18,15763,43.78,456.75,44.4,2785.01,-69.79

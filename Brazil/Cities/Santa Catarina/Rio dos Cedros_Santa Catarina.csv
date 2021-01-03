@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,Santa Catarina,Rio dos Cedros,0.0,0,0,0.0,235,7,2.98,2012.68,59.95,2.01,11676,59.94,-25.69,333.97,0.0
+2020-12-31,Santa Catarina,Rio dos Cedros,17.13,2,0,0.0,235,7,2.98,2012.68,59.95,2.01,11676,85.63,0.0,333.97,-59.95
 2020-12-30,Santa Catarina,Rio dos Cedros,25.69,3,0,0.0,233,7,3.0,1995.55,59.95,2.0,11676,85.63,8.56,393.92,17.13
 2020-12-29,Santa Catarina,Rio dos Cedros,8.56,1,0,0.0,230,7,3.04,1969.85,59.95,1.97,11676,77.07,-25.7,376.79,-17.13
 2020-12-28,Santa Catarina,Rio dos Cedros,0.0,0,0,0.0,229,7,3.06,1961.29,59.95,1.96,11676,102.77,-8.56,393.92,-17.13

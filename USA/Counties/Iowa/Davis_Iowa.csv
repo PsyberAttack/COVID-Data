@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-02,Iowa,Davis,133.08,12,0,0.0,651,20.0,3.07,7219.7,221.8,7.22,9017,17.96,288.34,99.81,1663.51,121.99
 2021-01-01,Iowa,Davis,11.09,1,0,0.0,639,20.0,3.13,7086.61,221.8,7.09,9017,17.96,188.53,0.0,1541.52,-177.44
 2020-12-31,Iowa,Davis,11.09,1,2,22.18,638,20.0,3.13,7075.52,221.8,7.08,9017,17.96,188.53,-121.99,1718.96,-11.09
 2020-12-30,Iowa,Davis,11.09,1,0,0.0,637,18.0,2.83,7064.43,199.62,7.06,9017,17.96,310.52,-11.09,1730.05,-33.27

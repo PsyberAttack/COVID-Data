@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,Rio de Janeiro,Carmo,5.29,1,0,0.0,710,6,0.85,3757.61,31.75,3.76,18895,428.68,5.29,1735.9,-74.1
+2020-12-31,Rio de Janeiro,Carmo,148.19,28,0,0.0,709,6,0.85,3752.32,31.75,3.75,18895,423.39,121.73,1810.0,95.27
 2020-12-30,Rio de Janeiro,Carmo,0.0,0,0,0.0,681,6,0.88,3604.13,31.75,3.6,18895,301.66,-74.09,1714.73,-47.63
 2020-12-29,Rio de Janeiro,Carmo,185.23,35,1,5.29,681,6,0.88,3604.13,31.75,3.6,18895,375.75,179.94,1762.36,26.46
 2020-12-28,Rio de Janeiro,Carmo,52.92,10,0,0.0,646,5,0.77,3418.89,26.46,3.42,18895,195.81,-26.47,1735.9,5.29

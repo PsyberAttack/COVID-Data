@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-02,Texas,Kaufman,0.0,0,2,1.55,9306,124.0,1.33,7235.15,96.41,7.24,128622,164.76,611.87,0.0,2850.99,-46.65
 2021-01-01,Texas,Kaufman,24.88,32,4,3.11,9306,122.0,1.31,7235.15,94.85,7.24,128622,164.76,611.87,24.88,2897.64,-6.22
 2020-12-31,Texas,Kaufman,83.97,108,2,1.55,9274,118.0,1.27,7210.28,91.74,7.21,128622,164.76,586.99,-40.43,2903.86,-118.17
 2020-12-30,Texas,Kaufman,140.72,181,1,0.78,9166,116.0,1.27,7126.31,90.19,7.13,128622,164.76,627.42,1.55,3022.03,-153.94

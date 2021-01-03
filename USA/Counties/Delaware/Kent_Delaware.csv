@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-02,Delaware,Kent,89.61,160,0,0.0,9489,168.0,1.77,5314.48,94.09,5.31,178550,304.79,467.66,-31.92,2072.27,12.32
 2021-01-01,Delaware,Kent,87.37,156,1,0.56,9329,168.0,1.8,5224.87,94.09,5.22,178550,304.79,499.58,36.4,2059.95,-50.41
 2020-12-31,Delaware,Kent,86.25,154,2,1.12,9173,167.0,1.82,5137.5,93.53,5.14,178550,304.79,463.18,27.44,2110.36,17.92
 2020-12-30,Delaware,Kent,44.81,80,7,3.92,9019,165.0,1.83,5051.25,92.41,5.05,178550,304.79,435.74,-19.04,2092.44,-7.28

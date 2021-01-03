@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-02,Pennsylvania,Schuylkill,255.51,363,0,0.0,8311,248.0,2.98,5850.06,174.57,5.85,142067,182.46,747.53,164.71,2583.28,147.11
 2021-01-01,Pennsylvania,Schuylkill,92.21,131,3,2.11,7948,248.0,3.12,5594.54,174.57,5.59,142067,182.46,582.82,-0.7,2436.17,-7.74
 2020-12-31,Pennsylvania,Schuylkill,70.39,100,2,1.41,7817,245.0,3.13,5502.33,172.45,5.5,142067,182.46,583.52,-22.52,2443.91,5.63
 2020-12-30,Pennsylvania,Schuylkill,102.06,145,3,2.11,7717,243.0,3.15,5431.94,171.05,5.43,142067,182.46,606.04,2.11,2438.28,42.23

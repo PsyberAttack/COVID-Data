@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-02,Texas,Llano,0.0,0,1,4.62,666,13.0,1.95,3076.78,60.06,3.08,21646,23.17,355.73,0.0,1459.88,-23.1
 2021-01-01,Texas,Llano,36.96,8,0,0.0,666,12.0,1.8,3076.78,55.44,3.08,21646,23.17,355.73,36.96,1482.98,-9.24
 2020-12-31,Texas,Llano,50.82,11,1,4.62,658,12.0,1.82,3039.82,55.44,3.04,21646,23.17,318.77,4.62,1492.22,-9.24
 2020-12-30,Texas,Llano,175.55,38,1,4.62,647,11.0,1.7,2989.0,50.82,2.99,21646,23.17,314.15,133.97,1501.46,152.45

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-02,Texas,Mason,23.36,1,0,0.0,265,2.0,0.75,6191.59,46.73,6.19,4280,4.61,654.19,-23.37,2967.28,0.0
 2021-01-01,Texas,Mason,46.73,2,0,0.0,264,2.0,0.76,6168.22,46.73,6.17,4280,4.61,677.56,46.73,2967.28,-46.73
 2020-12-31,Texas,Mason,116.82,5,0,0.0,262,2.0,0.76,6121.5,46.73,6.12,4280,4.61,630.83,-46.73,3014.01,116.82
 2020-12-30,Texas,Mason,116.82,5,0,0.0,257,2.0,0.78,6004.67,46.73,6.0,4280,4.61,677.56,23.36,2897.19,70.09

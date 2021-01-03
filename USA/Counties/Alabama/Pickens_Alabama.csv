@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-02,Alabama,Pickens,35.11,7,0,0.0,1763,26.0,1.47,8842.41,130.4,8.84,19938,22.62,536.67,5.02,2292.11,-10.03
 2021-01-01,Alabama,Pickens,110.34,22,0,0.0,1756,26.0,1.48,8807.3,130.4,8.81,19938,22.62,531.65,10.03,2302.14,110.34
 2020-12-31,Alabama,Pickens,70.22,14,0,0.0,1734,26.0,1.5,8696.96,130.4,8.7,19938,22.62,521.62,-10.03,2191.8,-30.09
 2020-12-30,Alabama,Pickens,135.42,27,0,0.0,1720,26.0,1.51,8626.74,130.4,8.63,19938,22.62,531.65,70.22,2221.89,75.23

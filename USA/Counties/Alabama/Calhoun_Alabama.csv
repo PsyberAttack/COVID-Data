@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-02,Alabama,Calhoun,94.51,108,0,0.0,9692,157.0,1.62,8481.15,137.39,8.48,114277,188.62,432.28,67.38,2332.06,17.5
 2021-01-01,Alabama,Calhoun,78.76,90,1,0.88,9584,157.0,1.64,8386.64,137.39,8.39,114277,188.62,364.9,-5.25,2314.56,-35.0
 2020-12-31,Alabama,Calhoun,57.75,66,1,0.88,9494,156.0,1.64,8307.88,136.51,8.31,114277,188.62,370.15,-32.38,2349.56,-42.01
 2020-12-30,Alabama,Calhoun,72.63,83,6,5.25,9428,155.0,1.64,8250.13,135.64,8.25,114277,188.62,402.53,-25.38,2391.57,-12.25

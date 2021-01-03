@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,Santa Catarina,Pedras Grandes,0.0,0,0,0.0,203,8,3.94,5105.63,201.21,5.11,3976,50.3,0.0,980.85,-75.45
+2020-12-31,Santa Catarina,Pedras Grandes,0.0,0,0,0.0,203,8,3.94,5105.63,201.21,5.11,3976,50.3,-25.15,1056.3,-50.3
 2020-12-30,Santa Catarina,Pedras Grandes,-25.15,-1,0,0.0,203,8,3.94,5105.63,201.21,5.11,3976,75.45,-25.15,1106.6,-50.3
 2020-12-29,Santa Catarina,Pedras Grandes,25.15,1,0,0.0,204,8,3.92,5130.78,201.21,5.13,3976,100.6,0.0,1156.9,-50.3
 2020-12-28,Santa Catarina,Pedras Grandes,25.15,1,0,0.0,203,8,3.94,5105.63,201.21,5.11,3976,100.6,-25.15,1207.2,0.0

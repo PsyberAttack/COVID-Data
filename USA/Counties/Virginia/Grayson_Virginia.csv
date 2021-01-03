@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-02,Virginia,Grayson,6.4,1,1,6.4,794,25.0,3.15,5079.65,159.94,5.08,15631,35.38,268.7,6.4,1497.02,-95.96
 2021-01-01,Virginia,Grayson,19.19,3,0,0.0,793,24.0,3.03,5073.25,153.54,5.07,15631,35.38,262.3,-6.4,1592.98,6.39
 2020-12-31,Virginia,Grayson,102.36,16,0,0.0,790,24.0,3.04,5054.06,153.54,5.05,15631,35.38,268.7,25.59,1586.59,70.37
 2020-12-30,Virginia,Grayson,25.59,4,0,0.0,774,24.0,3.1,4951.7,153.54,4.95,15631,35.38,243.11,-95.96,1516.22,-12.8

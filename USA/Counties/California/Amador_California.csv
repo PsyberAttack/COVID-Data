@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-02,California,Amador,50.78,20,0,0.0,2512,24.0,0.96,6378.39,60.94,6.38,39383,66.24,865.86,-17.78,4435.93,-236.15
 2021-01-01,California,Amador,190.44,75,0,0.0,2492,24.0,0.96,6327.6,60.94,6.33,39383,66.24,883.64,96.49,4672.08,17.78
 2020-12-31,California,Amador,76.17,30,1,2.54,2417,24.0,0.99,6137.17,60.94,6.14,39383,66.24,787.15,-606.87,4654.3,50.78
 2020-12-30,California,Amador,337.71,133,0,0.0,2387,23.0,0.96,6060.99,58.4,6.06,39383,66.24,1394.02,276.77,4603.52,297.08

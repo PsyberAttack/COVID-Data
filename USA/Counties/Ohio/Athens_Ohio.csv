@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-02,Ohio,Athens,68.37,45,0,0.0,3146,9.0,0.29,4779.85,13.67,4.78,65818,130.69,282.59,16.71,1283.84,0.0
 2021-01-01,Ohio,Athens,0.0,0,0,0.0,3101,9.0,0.29,4711.48,13.67,4.71,65818,130.69,265.88,0.0,1283.84,-65.33
 2020-12-31,Ohio,Athens,44.06,29,0,0.0,3101,9.0,0.29,4711.48,13.67,4.71,65818,130.69,265.88,-18.23,1349.17,-21.27
 2020-12-30,Ohio,Athens,60.77,40,0,0.0,3072,9.0,0.29,4667.42,13.67,4.67,65818,130.69,284.11,27.34,1370.44,-1.52

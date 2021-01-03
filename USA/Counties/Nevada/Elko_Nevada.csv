@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-02,Nevada,Elko,20.97,11,0,0.0,3907,34.0,0.87,7447.58,64.81,7.45,52460,3.06,253.53,-7.62,1517.33,-112.46
 2021-01-01,Nevada,Elko,64.81,34,1,1.91,3896,34.0,0.87,7426.61,64.81,7.43,52460,3.06,261.15,26.69,1629.79,-76.25
 2020-12-31,Nevada,Elko,36.22,19,0,0.0,3862,33.0,0.85,7361.8,62.91,7.36,52460,3.06,234.46,-28.59,1706.04,-93.4
 2020-12-30,Nevada,Elko,53.37,28,0,0.0,3843,33.0,0.86,7325.58,62.91,7.33,52460,3.06,263.05,-17.16,1799.44,-38.13

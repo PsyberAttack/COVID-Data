@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-02,Texas,Red River,8.21,1,0,0.0,451,26.0,5.76,3704.31,213.55,3.7,12175,11.66,303.9,0.0,1683.77,-90.35
 2021-01-01,Texas,Red River,0.0,0,1,8.21,450,26.0,5.78,3696.1,213.55,3.7,12175,11.66,303.9,-139.63,1774.12,-32.85
 2020-12-31,Texas,Red River,114.99,14,0,0.0,450,25.0,5.56,3696.1,205.34,3.7,12175,11.66,443.53,90.35,1806.97,98.56
 2020-12-30,Texas,Red River,0.0,0,1,8.21,436,25.0,5.73,3581.11,205.34,3.58,12175,11.66,353.18,-24.64,1708.41,-8.21

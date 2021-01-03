@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-02,Texas,Stonewall,0.0,0,0,0.0,88,3.0,3.41,6461.09,220.26,6.46,1362,1.49,1101.31,0.0,4184.99,-73.42
 2021-01-01,Texas,Stonewall,146.84,2,0,0.0,88,3.0,3.41,6461.09,220.26,6.46,1362,1.49,1101.31,146.84,4258.41,73.42
 2020-12-31,Texas,Stonewall,146.84,2,0,0.0,86,3.0,3.49,6314.24,220.26,6.31,1362,1.49,954.47,-73.42,4184.99,-73.42
 2020-12-30,Texas,Stonewall,73.42,1,0,0.0,84,3.0,3.57,6167.4,220.26,6.17,1362,1.49,1027.89,-293.69,4258.41,0.0

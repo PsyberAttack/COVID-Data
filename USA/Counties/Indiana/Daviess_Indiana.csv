@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-02,Indiana,Daviess,75.42,25,1,3.02,2328,73.0,3.14,7023.26,220.23,7.02,33147,77.18,355.98,45.25,1481.28,-33.19
 2021-01-01,Indiana,Daviess,66.37,22,2,6.03,2303,72.0,3.13,6947.84,217.21,6.95,33147,77.18,310.73,15.08,1514.47,-30.17
 2020-12-31,Indiana,Daviess,72.4,24,0,0.0,2281,70.0,3.07,6881.47,211.18,6.88,33147,77.18,295.65,-21.12,1544.64,-3.02
 2020-12-30,Indiana,Daviess,66.37,22,3,9.05,2257,70.0,3.1,6809.06,211.18,6.81,33147,77.18,316.77,3.02,1547.66,-51.29

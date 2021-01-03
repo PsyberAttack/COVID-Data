@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-02,Texas,Brazoria,0.0,0,1,0.27,21553,243.0,1.13,5821.99,65.64,5.82,370200,271.75,421.66,0.0,1746.34,-52.13
 2021-01-01,Texas,Brazoria,76.18,282,4,1.08,21553,242.0,1.12,5821.99,65.37,5.82,370200,271.75,421.66,21.34,1798.47,30.53
 2020-12-31,Texas,Brazoria,95.35,353,4,1.08,21271,238.0,1.12,5745.81,64.29,5.75,370200,271.75,400.32,21.61,1767.94,73.47
 2020-12-30,Texas,Brazoria,62.13,230,2,0.54,20918,234.0,1.12,5650.46,63.21,5.65,370200,271.75,378.71,-35.65,1694.47,42.95

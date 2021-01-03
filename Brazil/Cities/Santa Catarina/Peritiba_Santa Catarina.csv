@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,Santa Catarina,Peritiba,0.0,0,0,0.0,139,1,0.72,4987.44,35.88,4.99,2787,0.0,0.0,358.8,0.0
+2020-12-31,Santa Catarina,Peritiba,0.0,0,0,0.0,139,1,0.72,4987.44,35.88,4.99,2787,0.0,0.0,358.8,-35.88
 2020-12-30,Santa Catarina,Peritiba,0.0,0,0,0.0,139,1,0.72,4987.44,35.88,4.99,2787,0.0,-35.88,394.68,0.0
 2020-12-29,Santa Catarina,Peritiba,-35.88,-1,0,0.0,139,1,0.72,4987.44,35.88,4.99,2787,35.88,-71.76,394.68,-107.64
 2020-12-28,Santa Catarina,Peritiba,35.88,1,0,0.0,140,1,0.71,5023.32,35.88,5.02,2787,107.64,35.88,502.32,35.88

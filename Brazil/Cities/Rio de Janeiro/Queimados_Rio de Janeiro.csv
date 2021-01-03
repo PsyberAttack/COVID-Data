@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,Rio de Janeiro,Queimados,15.97,24,0,0.0,3193,94,2.94,2124.15,62.53,2.12,150319,41.93,15.97,206.27,11.31
+2020-12-31,Rio de Janeiro,Queimados,15.3,23,1,0.67,3169,94,2.97,2108.18,62.53,2.11,150319,25.96,-11.31,194.96,-3.99
 2020-12-30,Rio de Janeiro,Queimados,0.67,1,1,0.67,3146,93,2.96,2092.88,61.87,2.09,150319,37.27,0.67,198.95,-5.32
 2020-12-29,Rio de Janeiro,Queimados,2.0,3,1,0.67,3145,92,2.93,2092.22,61.2,2.09,150319,36.6,-17.96,204.27,-6.65
 2020-12-28,Rio de Janeiro,Queimados,0.67,1,0,0.0,3142,91,2.9,2090.22,60.54,2.09,150319,54.56,-4.65,210.92,-1.33

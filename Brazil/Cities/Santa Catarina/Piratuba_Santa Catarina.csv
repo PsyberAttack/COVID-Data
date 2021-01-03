@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-01,Santa Catarina,Piratuba,0.0,0,0,0.0,268,2,0.75,6953.81,51.89,6.95,3854,207.57,0.0,596.79,0.0
+2020-12-31,Santa Catarina,Piratuba,51.89,2,0,0.0,268,2,0.75,6953.81,51.89,6.95,3854,207.57,51.89,596.79,0.0
 2020-12-30,Santa Catarina,Piratuba,51.89,2,1,25.95,266,2,0.75,6901.92,51.89,6.9,3854,155.68,51.89,596.79,-25.95
 2020-12-29,Santa Catarina,Piratuba,0.0,0,0,0.0,264,1,0.38,6850.03,25.95,6.85,3854,103.79,-25.95,622.74,-51.89
 2020-12-28,Santa Catarina,Piratuba,25.95,1,0,0.0,264,1,0.38,6850.03,25.95,6.85,3854,129.74,0.0,674.63,0.0

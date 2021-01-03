@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-02,Maryland,Cecil,65.16,67,2,1.95,3689,77.0,2.09,3587.61,74.88,3.59,102826,296.95,254.8,2.92,1303.19,7.78
 2021-01-01,Maryland,Cecil,50.57,52,1,0.97,3622,75.0,2.07,3522.46,72.94,3.52,102826,296.95,251.88,6.81,1295.41,5.83
 2020-12-31,Maryland,Cecil,32.09,33,0,0.0,3570,74.0,2.07,3471.88,71.97,3.47,102826,296.95,245.07,-12.65,1289.58,-9.73
 2020-12-30,Maryland,Cecil,28.2,29,2,1.95,3537,74.0,2.09,3439.79,71.97,3.44,102826,296.95,257.72,14.58,1299.31,-13.62

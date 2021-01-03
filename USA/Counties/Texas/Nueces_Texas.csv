@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-02,Texas,Nueces,0.0,0,0,0.0,29701,548.0,1.85,8198.69,151.27,8.2,362265,432.13,309.73,-45.27,1237.79,-27.6
 2021-01-01,Texas,Nueces,43.89,159,1,0.28,29701,548.0,1.85,8198.69,151.27,8.2,362265,432.13,355.0,-20.7,1265.39,0.28
 2020-12-31,Texas,Nueces,120.91,438,3,0.83,29542,547.0,1.85,8154.8,150.99,8.15,362265,432.13,375.7,59.9,1265.11,82.54
 2020-12-30,Texas,Nueces,41.68,151,0,0.0,29104,544.0,1.87,8033.9,150.17,8.03,362265,432.13,315.8,11.87,1182.57,-1.38
