@@ -1,5 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-03,Uttar_Pradesh,Deoria,0.0,0,0,0.0,6708,93,1.39,216.48,3.0,0.22,3098637,0.7,0.0,4.29,-0.45
+2021-01-04,Uttar_Pradesh,Deoria,0.0,0,2,0.06,6717,95,1.41,216.77,3.07,0.22,3098637,0.96,-0.03,4.35,-0.23
+2021-01-03,Uttar_Pradesh,Deoria,0.29,9,0,0.0,6717,93,1.38,216.77,3.0,0.22,3098637,0.99,0.29,4.58,-0.16
 2021-01-02,Uttar_Pradesh,Deoria,0.03,1,0,0.0,6708,93,1.39,216.48,3.0,0.22,3098637,0.7,-0.1,4.74,-0.26
 2021-01-01,Uttar_Pradesh,Deoria,0.29,9,1,0.03,6707,93,1.39,216.45,3.0,0.22,3098637,0.8,0.23,5.0,-0.16
 2020-12-31,Uttar_Pradesh,Deoria,0.0,0,0,0.0,6698,92,1.37,216.16,2.97,0.22,3098637,0.57,-0.23,5.16,-0.26

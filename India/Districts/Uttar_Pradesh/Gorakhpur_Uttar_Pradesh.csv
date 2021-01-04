@@ -1,5 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-03,Uttar_Pradesh,Gorakhpur,0.0,0,0,0.0,21036,343,1.63,474.18,7.73,0.47,4436275,3.44,-0.47,17.81,-0.99
+2021-01-04,Uttar_Pradesh,Gorakhpur,0.83,37,0,0.0,21105,345,1.63,475.74,7.78,0.48,4436275,4.43,0.27,18.5,-0.03
+2021-01-03,Uttar_Pradesh,Gorakhpur,0.72,32,2,0.05,21068,345,1.64,474.9,7.78,0.47,4436275,4.16,0.25,18.53,-0.27
 2021-01-02,Uttar_Pradesh,Gorakhpur,0.47,21,2,0.05,21036,343,1.63,474.18,7.73,0.47,4436275,3.91,0.0,18.8,-0.23
 2021-01-01,Uttar_Pradesh,Gorakhpur,1.24,55,1,0.02,21015,341,1.62,473.71,7.69,0.47,4436275,3.91,0.7,19.03,0.56
 2020-12-31,Uttar_Pradesh,Gorakhpur,0.0,0,0,0.0,20960,340,1.62,472.47,7.66,0.47,4436275,3.21,-0.77,18.47,-0.72

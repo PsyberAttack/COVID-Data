@@ -1,4 +1,6 @@
 date,country,region,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-02,Ecuador,Guayas,0.0,0,0,0.0,42,1,2.38,0.96,0.02,0.0,4387434,0.35,0.87,0.31,0.02
+2020-12-30,Ecuador,Guayas,-0.07,-3,0,0.0,42,1,2.38,0.96,0.02,0.0,4387434,-0.52,-1.07,0.29,-0.12
 2020-12-29,Ecuador,Guayas,0.8,35,-2,-0.05,45,1,2.22,1.03,0.02,0.0,4387434,0.55,0.8,0.41,1.3
 2020-12-28,Ecuador,Guayas,0.21,9,0,0.0,10,3,30.0,0.23,0.07,0.0,4387434,-0.25,0.21,-0.89,-0.7
 2020-12-27,Ecuador,Guayas,-0.02,-1,0,0.0,1,3,300.0,0.02,0.07,0.0,4387434,-0.46,-0.02,-0.19,0.32
