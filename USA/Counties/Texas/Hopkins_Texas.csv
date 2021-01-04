@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-03,Texas,Hopkins,100.52,37,0,0.0,2316,71.0,3.07,6291.77,192.88,6.29,36810,47.97,372.19,84.22,3811.48,100.52
 2021-01-02,Texas,Hopkins,48.9,18,1,2.72,2279,71.0,3.12,6191.25,192.88,6.19,36810,47.97,287.97,16.3,3710.96,-5.43
 2021-01-01,Texas,Hopkins,59.77,22,-1,-2.72,2261,70.0,3.1,6142.35,190.17,6.14,36810,47.97,271.67,0.0,3716.39,46.19
 2020-12-31,Texas,Hopkins,-8.15,-3,1,2.72,2239,71.0,3.17,6082.59,192.88,6.08,36810,47.97,271.67,-89.65,3670.2,-127.68

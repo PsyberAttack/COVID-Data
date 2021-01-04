@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-03,Florida,Polk,60.59,429,0,0.0,38843,791.0,2.04,5486.23,111.72,5.49,708009,393.96,450.13,23.44,1371.16,29.94
 2021-01-02,Florida,Polk,142.79,1011,1,0.14,38414,791.0,2.06,5425.64,111.72,5.43,708009,393.96,426.69,65.39,1341.22,103.52
 2021-01-01,Florida,Polk,0.0,0,0,0.0,37403,790.0,2.11,5282.84,111.58,5.28,708009,393.96,361.3,0.0,1237.7,-34.04
 2020-12-31,Florida,Polk,89.97,637,6,0.85,37403,790.0,2.11,5282.84,111.58,5.28,708009,393.96,361.3,19.91,1271.74,47.88

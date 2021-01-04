@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-03,Indiana,LaGrange,0.0,0,0,0.0,2070,58.0,2.8,5263.16,147.47,5.26,39330,103.6,200.87,-2.54,989.07,-45.77
 2021-01-02,Indiana,LaGrange,17.8,7,1,2.54,2070,58.0,2.8,5263.16,147.47,5.26,39330,103.6,203.41,-15.25,1034.84,-68.65
 2021-01-01,Indiana,LaGrange,45.77,18,1,2.54,2063,57.0,2.76,5245.36,144.93,5.25,39330,103.6,218.66,-2.54,1103.49,-30.51
 2020-12-31,Indiana,LaGrange,55.94,22,0,0.0,2045,56.0,2.74,5199.59,142.38,5.2,39330,103.6,221.2,43.23,1134.0,-20.34

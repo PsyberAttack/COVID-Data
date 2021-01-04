@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-03,Iowa,Lucas,11.57,1,0,0.0,591,8.0,1.35,6836.32,92.54,6.84,8645,20.08,601.5,-69.4,2637.39,-46.27
 2021-01-02,Iowa,Lucas,69.4,6,0,0.0,590,8.0,1.36,6824.75,92.54,6.82,8645,20.08,670.9,34.7,2683.66,11.56
 2021-01-01,Iowa,Lucas,104.11,9,1,11.57,584,8.0,1.37,6755.35,92.54,6.76,8645,20.08,636.2,46.27,2672.1,-34.7
 2020-12-31,Iowa,Lucas,57.84,5,0,0.0,575,7.0,1.22,6651.24,80.97,6.65,8645,20.08,589.93,-115.67,2706.8,11.57

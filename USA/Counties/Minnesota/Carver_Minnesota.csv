@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-03,Minnesota,Carver,49.25,51,0,0.0,6525,34.0,0.52,6301.24,32.83,6.3,103551,292.35,160.3,12.55,1091.25,-36.7
 2021-01-02,Minnesota,Carver,24.14,25,1,0.97,6474,34.0,0.53,6251.99,32.83,6.25,103551,292.35,147.75,-6.76,1127.95,-85.95
 2021-01-01,Minnesota,Carver,0.0,0,0,0.0,6449,33.0,0.51,6227.85,31.87,6.23,103551,292.35,154.51,0.0,1213.9,-91.74
 2020-12-31,Minnesota,Carver,32.83,34,0,0.0,6449,33.0,0.51,6227.85,31.87,6.23,103551,292.35,154.51,1.93,1305.64,-48.29

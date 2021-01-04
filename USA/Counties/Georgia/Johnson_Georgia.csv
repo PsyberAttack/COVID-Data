@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-03,Georgia,Johnson,123.61,12,0,0.0,762,34.0,4.46,7849.2,350.23,7.85,9708,32.04,927.07,82.41,2307.34,133.91
 2021-01-02,Georgia,Johnson,30.9,3,0,0.0,750,34.0,4.53,7725.59,350.23,7.73,9708,32.04,844.66,0.0,2173.43,-10.3
 2021-01-01,Georgia,Johnson,154.51,15,1,10.3,747,34.0,4.55,7694.68,350.23,7.69,9708,32.04,844.66,41.2,2183.73,133.91
 2020-12-31,Georgia,Johnson,123.61,12,0,0.0,732,33.0,4.51,7540.17,339.93,7.54,9708,32.04,803.46,-10.3,2049.82,103.01
