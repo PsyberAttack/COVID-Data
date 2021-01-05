@@ -1,7 +1,12 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-30,Minas Gerais,Senhora dos Remédios,9.56,1,0,0.0,78,3,3.85,745.77,28.68,0.75,10459,152.97,-9.56,315.5,9.56
-2020-12-29,Minas Gerais,Senhora dos Remédios,19.12,2,0,0.0,77,3,3.9,736.21,28.68,0.74,10459,162.53,9.56,305.94,0.0
-2020-12-28,Minas Gerais,Senhora dos Remédios,9.56,1,0,0.0,75,3,4.0,717.09,28.68,0.72,10459,152.97,9.56,305.94,9.56
+2021-01-04,Minas Gerais,Senhora dos Remédios,38.24,4,0,0.0,82,3,3.66,784.01,28.68,0.78,10459,66.92,28.68,334.62,38.24
+2020-12-30,Minas Gerais,Senhora dos Remédios,9.56,1,0,0.0,78,3,3.85,745.77,28.68,0.75,10459,38.24,9.56,296.38,9.56
+2020-12-29,Minas Gerais,Senhora dos Remédios,19.12,2,0,0.0,77,3,3.9,736.21,28.68,0.74,10459,28.68,-95.61,286.82,0.0
+2020-12-28,Minas Gerais,Senhora dos Remédios,0.0,0,0,0.0,75,3,4.0,717.09,28.68,0.72,10459,124.29,0.0,286.82,0.0
+2020-12-27,Minas Gerais,Senhora dos Remédios,0.0,0,0,0.0,75,3,4.0,717.09,28.68,0.72,10459,124.29,0.0,286.82,0.0
+2020-12-26,Minas Gerais,Senhora dos Remédios,0.0,0,0,0.0,75,3,4.0,717.09,28.68,0.72,10459,124.29,-19.12,286.82,0.0
+2020-12-25,Minas Gerais,Senhora dos Remédios,0.0,0,0,0.0,75,3,4.0,717.09,28.68,0.72,10459,143.41,-9.56,286.82,-19.12
+2020-12-24,Minas Gerais,Senhora dos Remédios,9.56,1,0,0.0,75,3,4.0,717.09,28.68,0.72,10459,152.97,9.56,305.94,9.56
 2020-12-23,Minas Gerais,Senhora dos Remédios,0.0,0,0,0.0,74,3,4.05,707.52,28.68,0.71,10459,143.41,0.0,296.38,0.0
 2020-12-22,Minas Gerais,Senhora dos Remédios,114.73,12,0,0.0,74,3,4.05,707.52,28.68,0.71,10459,143.41,105.17,296.38,105.17
 2020-12-21,Minas Gerais,Senhora dos Remédios,0.0,0,0,0.0,62,3,4.84,592.79,28.68,0.59,10459,38.24,0.0,191.21,0.0

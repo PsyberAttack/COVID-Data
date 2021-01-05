@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-04,São Paulo,Sales,15.8,1,0,0.0,105,6,5.71,1658.51,94.77,1.66,6331,142.16,0.0,252.75,15.8
+2021-01-03,São Paulo,Sales,63.18,4,0,0.0,104,6,5.77,1642.71,94.77,1.64,6331,142.16,63.18,236.95,63.18
 2020-12-31,São Paulo,Sales,0.0,0,0,0.0,100,6,6.0,1579.53,94.77,1.58,6331,78.98,-15.8,173.77,-15.8
 2020-12-29,São Paulo,Sales,0.0,0,0,0.0,100,6,6.0,1579.53,94.77,1.58,6331,94.78,0.0,189.57,0.0
 2020-12-28,São Paulo,Sales,0.0,0,1,15.8,100,6,6.0,1579.53,94.77,1.58,6331,94.78,0.0,189.57,0.0

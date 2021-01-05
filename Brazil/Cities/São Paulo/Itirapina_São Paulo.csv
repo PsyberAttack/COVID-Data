@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-04,São Paulo,Itirapina,0.0,0,1,5.51,500,11,2.2,2753.76,60.58,2.75,18157,313.93,-22.03,600.35,0.0
+2021-01-03,São Paulo,Itirapina,60.58,11,0,0.0,500,10,2.0,2753.76,55.08,2.75,18157,335.96,60.58,600.35,55.07
 2020-12-31,São Paulo,Itirapina,148.7,27,1,5.51,489,10,2.04,2693.18,55.08,2.69,18157,275.38,93.62,545.28,143.19
 2020-12-29,São Paulo,Itirapina,99.14,18,1,5.51,462,9,1.95,2544.47,49.57,2.54,18157,181.76,55.08,402.09,93.63
 2020-12-28,São Paulo,Itirapina,0.0,0,0,0.0,444,8,1.8,2445.34,44.06,2.45,18157,126.68,-27.54,308.46,-5.51

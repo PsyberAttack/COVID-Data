@@ -1,7 +1,12 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2020-12-30,Minas Gerais,Cachoeira de Minas,8.66,1,0,0.0,241,3,1.24,2087.12,25.98,2.09,11547,77.94,8.66,112.58,0.0
-2020-12-29,Minas Gerais,Cachoeira de Minas,0.0,0,0,0.0,240,3,1.25,2078.46,25.98,2.08,11547,69.28,0.0,112.58,-25.98
-2020-12-28,Minas Gerais,Cachoeira de Minas,0.0,0,0,0.0,240,3,1.25,2078.46,25.98,2.08,11547,69.28,0.0,138.56,0.0
+2021-01-04,Minas Gerais,Cachoeira de Minas,17.32,2,0,0.0,243,3,1.23,2104.44,25.98,2.1,11547,25.98,17.32,112.58,17.32
+2020-12-30,Minas Gerais,Cachoeira de Minas,8.66,1,0,0.0,241,3,1.24,2087.12,25.98,2.09,11547,8.66,-25.98,95.26,8.66
+2020-12-29,Minas Gerais,Cachoeira de Minas,0.0,0,0,0.0,240,3,1.25,2078.46,25.98,2.08,11547,34.64,0.0,86.6,0.0
+2020-12-28,Minas Gerais,Cachoeira de Minas,0.0,0,0,0.0,240,3,1.25,2078.46,25.98,2.08,11547,34.64,-34.64,86.6,0.0
+2020-12-27,Minas Gerais,Cachoeira de Minas,0.0,0,0,0.0,240,3,1.25,2078.46,25.98,2.08,11547,69.28,0.0,86.6,-17.32
+2020-12-26,Minas Gerais,Cachoeira de Minas,0.0,0,0,0.0,240,3,1.25,2078.46,25.98,2.08,11547,69.28,0.0,103.92,-8.66
+2020-12-25,Minas Gerais,Cachoeira de Minas,0.0,0,0,0.0,240,3,1.25,2078.46,25.98,2.08,11547,69.28,0.0,112.58,-25.98
+2020-12-24,Minas Gerais,Cachoeira de Minas,0.0,0,0,0.0,240,3,1.25,2078.46,25.98,2.08,11547,69.28,0.0,138.56,0.0
 2020-12-23,Minas Gerais,Cachoeira de Minas,34.64,4,0,0.0,240,3,1.25,2078.46,25.98,2.08,11547,69.28,43.3,138.56,8.66
 2020-12-22,Minas Gerais,Cachoeira de Minas,0.0,0,0,0.0,236,3,1.27,2043.82,25.98,2.04,11547,25.98,0.0,129.9,0.0
 2020-12-21,Minas Gerais,Cachoeira de Minas,34.64,4,0,0.0,236,3,1.27,2043.82,25.98,2.04,11547,25.98,34.64,129.9,51.96

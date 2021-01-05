@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-04,Texas,Culberson,0.0,0,0,0.0,286,4.0,1.4,12976.41,181.49,12.98,2204,0.58,-1043.55,0.0,2586.22,-45.37
 2021-01-03,Texas,Culberson,45.37,1,0,0.0,286,4.0,1.4,12976.41,181.49,12.98,2204,0.58,-1043.55,0.0,2631.59,136.11
 2021-01-02,Texas,Culberson,0.0,0,0,0.0,285,4.0,1.4,12931.03,181.49,12.93,2204,0.58,-1043.55,-45.37,2495.48,0.0
 2021-01-01,Texas,Culberson,-544.46,-12,1,45.37,285,4.0,1.4,12931.03,181.49,12.93,2204,0.58,-998.18,-816.69,2495.48,-725.95

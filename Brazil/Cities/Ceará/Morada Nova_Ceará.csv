@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-03,Ceará,Morada Nova,0.0,0,1,1.62,3091,49,1.59,4994.34,79.17,4.99,61890,179.35,0.0,691.56,0.0
+2021-01-02,Ceará,Morada Nova,-1.62,-1,0,0.0,3091,48,1.55,4994.34,77.56,4.99,61890,179.35,-1.62,691.56,-40.4
 2021-01-01,Ceará,Morada Nova,14.54,9,0,0.0,3092,48,1.55,4995.96,77.56,5.0,61890,180.97,-22.62,731.96,-33.93
 2020-12-31,Ceará,Morada Nova,43.63,27,0,0.0,3083,48,1.56,4981.42,77.56,4.98,61890,203.59,22.62,765.89,-12.92
 2020-12-30,Ceará,Morada Nova,84.02,52,0,0.0,3056,48,1.57,4937.79,77.56,4.94,61890,180.97,77.56,778.81,84.02

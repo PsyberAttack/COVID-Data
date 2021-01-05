@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-04,São Paulo,Parisi,0.0,0,0,0.0,132,6,4.55,6108.28,277.65,6.11,2161,138.82,0.0,740.37,0.0
+2021-01-03,São Paulo,Parisi,46.27,1,0,0.0,132,6,4.55,6108.28,277.65,6.11,2161,138.82,46.27,740.37,0.0
 2020-12-31,São Paulo,Parisi,0.0,0,0,0.0,131,6,4.58,6062.01,277.65,6.06,2161,92.55,0.0,740.37,-46.27
 2020-12-29,São Paulo,Parisi,92.55,2,0,0.0,131,6,4.58,6062.01,277.65,6.06,2161,92.55,92.55,786.64,92.55
 2020-12-28,São Paulo,Parisi,0.0,0,0,0.0,129,6,4.65,5969.46,277.65,5.97,2161,-0.0,-46.27,694.09,0.0
