@@ -1,4 +1,6 @@
 date,country,region,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-04,Honduras,Comayagua,0.0,0,0,0.0,3728,164,4.4,755.47,33.23,0.76,493466,40.53,-9.52,102.75,0.0
+2021-01-03,Honduras,Comayagua,2.43,12,0,0.0,3728,164,4.4,755.47,33.23,0.76,493466,50.05,-4.87,102.75,2.43
 2021-01-02,Honduras,Comayagua,4.86,24,1,0.2,3716,164,4.41,753.04,33.23,0.75,493466,54.92,3.85,100.32,-4.26
 2021-01-01,Honduras,Comayagua,9.73,48,0,0.0,3692,163,4.41,748.18,33.03,0.75,493466,51.07,9.73,104.58,9.73
 2020-12-31,Honduras,Comayagua,0.0,0,0,0.0,3644,163,4.47,738.45,33.03,0.74,493466,41.34,0.0,94.85,-7.5

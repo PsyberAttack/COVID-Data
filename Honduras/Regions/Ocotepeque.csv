@@ -1,4 +1,6 @@
 date,country,region,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-04,Honduras,Ocotepeque,0.0,0,0,0.0,1383,32,2.31,947.07,21.91,0.95,146030,9.58,-3.42,89.69,0.0
+2021-01-03,Honduras,Ocotepeque,0.0,0,1,0.68,1383,32,2.31,947.07,21.91,0.95,146030,13.0,-1.37,89.69,0.0
 2021-01-02,Honduras,Ocotepeque,0.68,1,0,0.0,1383,31,2.24,947.07,21.23,0.95,146030,14.37,-1.37,89.69,-13.02
 2021-01-01,Honduras,Ocotepeque,6.16,9,0,0.0,1382,31,2.24,946.38,21.23,0.95,146030,15.74,-17.12,102.71,6.16
 2020-12-31,Honduras,Ocotepeque,0.0,0,0,0.0,1373,31,2.26,940.22,21.23,0.94,146030,32.86,0.0,96.55,-4.11

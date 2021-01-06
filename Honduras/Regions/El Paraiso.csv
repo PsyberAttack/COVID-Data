@@ -1,4 +1,6 @@
 date,country,region,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-04,Honduras,El Paraiso,0.0,0,0,0.0,5038,122,2.42,1106.02,26.78,1.11,455507,48.74,0.0,135.9,0.0
+2021-01-03,Honduras,El Paraiso,1.32,6,0,0.0,5038,122,2.42,1106.02,26.78,1.11,455507,48.74,-3.07,135.9,1.32
 2021-01-02,Honduras,El Paraiso,1.32,6,0,0.0,5032,122,2.42,1104.7,26.78,1.1,455507,51.81,1.32,134.58,-12.07
 2021-01-01,Honduras,El Paraiso,21.95,100,0,0.0,5026,122,2.43,1103.39,26.78,1.1,455507,50.49,10.97,146.65,21.95
 2020-12-31,Honduras,El Paraiso,0.0,0,0,0.0,4926,122,2.48,1081.43,26.78,1.08,455507,39.52,0.0,124.7,-9.22
