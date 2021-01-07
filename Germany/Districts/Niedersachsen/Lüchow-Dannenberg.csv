@@ -1,8 +1,9 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-04,Niedersachsen,Lüchow-Dannenberg,4.13,2,0,0.0,354,11,3.11,731.04,22.72,0.73,48424,76.41,0.0,301.55,4.13
-2021-01-03,Niedersachsen,Lüchow-Dannenberg,8.26,4,0,0.0,352,11,3.12,726.91,22.72,0.73,48424,76.41,2.06,297.42,6.19
-2021-01-02,Niedersachsen,Lüchow-Dannenberg,2.07,1,0,0.0,348,11,3.16,718.65,22.72,0.72,48424,74.35,0.0,291.23,-6.19
-2021-01-01,Niedersachsen,Lüchow-Dannenberg,0.0,0,0,0.0,347,11,3.17,716.59,22.72,0.72,48424,74.35,-8.26,297.42,0.0
+2021-01-05,Niedersachsen,Lüchow-Dannenberg,8.26,4,0,0.0,360,11,3.06,743.43,22.72,0.74,48424,55.76,-24.78,313.94,8.26
+2021-01-04,Niedersachsen,Lüchow-Dannenberg,4.13,2,0,0.0,356,11,3.09,735.17,22.72,0.74,48424,80.54,0.0,305.68,4.13
+2021-01-03,Niedersachsen,Lüchow-Dannenberg,8.26,4,0,0.0,354,11,3.11,731.04,22.72,0.73,48424,80.54,2.06,301.55,6.19
+2021-01-02,Niedersachsen,Lüchow-Dannenberg,4.13,2,0,0.0,350,11,3.14,722.78,22.72,0.72,48424,78.48,2.06,295.36,-4.13
+2021-01-01,Niedersachsen,Lüchow-Dannenberg,2.07,1,0,0.0,348,11,3.16,718.65,22.72,0.72,48424,76.42,-6.19,299.49,2.07
 2020-12-31,Niedersachsen,Lüchow-Dannenberg,24.78,12,0,0.0,347,11,3.17,716.59,22.72,0.72,48424,82.61,22.71,297.42,24.78
 2020-12-30,Niedersachsen,Lüchow-Dannenberg,4.13,2,0,0.0,335,11,3.28,691.81,22.72,0.69,48424,59.9,-26.85,272.64,4.13
 2020-12-29,Niedersachsen,Lüchow-Dannenberg,33.04,16,1,2.07,333,11,3.3,687.68,22.72,0.69,48424,86.75,8.26,268.51,33.04
