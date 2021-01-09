@@ -1,5 +1,13 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-04,Minas Gerais,Santa Bárbara do Leste,24.55,2,0,0.0,228,11,4.82,2798.58,135.02,2.8,8147,110.47,0.0,1153.79,-61.37
+2021-01-08,Minas Gerais,Santa Bárbara do Leste,36.82,3,0,0.0,240,12,5.0,2945.87,147.29,2.95,8147,159.56,24.55,932.83,36.82
+2021-01-07,Minas Gerais,Santa Bárbara do Leste,73.65,6,1,12.27,237,12,5.06,2909.05,147.29,2.91,8147,135.01,73.65,896.01,-85.92
+2021-01-06,Minas Gerais,Santa Bárbara do Leste,24.55,2,0,0.0,231,11,4.76,2835.4,135.02,2.84,8147,61.36,-49.1,981.93,24.55
+2021-01-05,Minas Gerais,Santa Bárbara do Leste,12.27,1,0,0.0,229,11,4.8,2810.85,135.02,2.81,8147,110.46,12.27,957.38,-85.93
+2021-01-04,Minas Gerais,Santa Bárbara do Leste,0.0,0,0,0.0,228,11,4.82,2798.58,135.02,2.8,8147,98.19,0.0,1043.31,0.0
+2021-01-03,Minas Gerais,Santa Bárbara do Leste,12.27,1,0,0.0,228,11,4.82,2798.58,135.02,2.8,8147,98.19,0.0,1043.31,12.27
+2021-01-02,Minas Gerais,Santa Bárbara do Leste,0.0,0,0,0.0,227,11,4.85,2786.3,135.02,2.79,8147,98.19,0.0,1031.04,-49.1
+2021-01-01,Minas Gerais,Santa Bárbara do Leste,12.27,1,0,0.0,227,11,4.85,2786.3,135.02,2.79,8147,98.19,12.27,1080.14,-49.1
+2020-12-31,Minas Gerais,Santa Bárbara do Leste,0.0,0,0,0.0,226,11,4.87,2774.03,135.02,2.77,8147,85.92,-24.55,1129.24,-85.92
 2020-12-30,Minas Gerais,Santa Bárbara do Leste,73.65,6,0,0.0,226,11,4.87,2774.03,135.02,2.77,8147,110.47,-73.64,1215.16,49.1
 2020-12-29,Minas Gerais,Santa Bárbara do Leste,0.0,0,0,0.0,220,11,5.0,2700.38,135.02,2.7,8147,184.11,0.0,1166.06,-49.1
 2020-12-28,Minas Gerais,Santa Bárbara do Leste,0.0,0,0,0.0,220,11,5.0,2700.38,135.02,2.7,8147,184.11,-12.27,1215.16,0.0

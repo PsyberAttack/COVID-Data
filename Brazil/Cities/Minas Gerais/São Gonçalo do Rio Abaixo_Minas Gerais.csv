@@ -1,5 +1,13 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-04,Minas Gerais,São Gonçalo do Rio Abaixo,18.32,2,0,0.0,534,6,1.12,4890.11,54.95,4.89,10920,109.91,-45.78,1089.79,-109.89
+2021-01-08,Minas Gerais,São Gonçalo do Rio Abaixo,9.16,1,0,0.0,545,6,1.1,4990.84,54.95,4.99,10920,109.9,0.0,787.59,-54.94
+2021-01-07,Minas Gerais,São Gonçalo do Rio Abaixo,9.16,1,0,0.0,544,6,1.1,4981.68,54.95,4.98,10920,109.9,9.16,842.53,-27.47
+2021-01-06,Minas Gerais,São Gonçalo do Rio Abaixo,73.26,8,0,0.0,543,6,1.1,4972.53,54.95,4.97,10920,100.74,54.94,870.0,-36.63
+2021-01-05,Minas Gerais,São Gonçalo do Rio Abaixo,9.16,1,0,0.0,535,6,1.12,4899.27,54.95,4.9,10920,45.8,0.0,906.63,-9.16
+2021-01-04,Minas Gerais,São Gonçalo do Rio Abaixo,0.0,0,0,0.0,534,6,1.12,4890.11,54.95,4.89,10920,45.8,0.0,915.79,0.0
+2021-01-03,Minas Gerais,São Gonçalo do Rio Abaixo,0.0,0,0,0.0,534,6,1.12,4890.11,54.95,4.89,10920,45.8,-18.32,915.79,-73.26
+2021-01-02,Minas Gerais,São Gonçalo do Rio Abaixo,9.16,1,0,0.0,534,6,1.12,4890.11,54.95,4.89,10920,64.12,-18.31,989.05,-36.63
+2021-01-01,Minas Gerais,São Gonçalo do Rio Abaixo,9.16,1,0,0.0,533,6,1.13,4880.95,54.95,4.88,10920,82.43,-9.16,1025.68,-45.79
+2020-12-31,Minas Gerais,São Gonçalo do Rio Abaixo,0.0,0,0,0.0,532,6,1.13,4871.79,54.95,4.87,10920,91.59,-64.1,1071.47,-128.21
 2020-12-30,Minas Gerais,São Gonçalo do Rio Abaixo,18.32,2,0,0.0,532,6,1.13,4871.79,54.95,4.87,10920,155.69,-36.63,1199.68,-173.99
 2020-12-29,Minas Gerais,São Gonçalo do Rio Abaixo,9.16,1,0,0.0,530,6,1.13,4853.48,54.95,4.85,10920,192.32,-9.16,1373.67,9.16
 2020-12-28,Minas Gerais,São Gonçalo do Rio Abaixo,0.0,0,0,0.0,529,6,1.13,4844.32,54.95,4.84,10920,201.48,-9.16,1364.51,0.0
