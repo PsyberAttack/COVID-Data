@@ -1,8 +1,10 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-09,Berlin,Berlin Friedrichshain-Kreuzberg,1.08,3,0,0.0,9544,82,0.86,3425.96,29.44,3.43,278579,111.63,-7.54,594.81,-24.41
-2021-01-08,Berlin,Berlin Friedrichshain-Kreuzberg,22.97,64,0,0.0,9541,82,0.86,3424.88,29.44,3.42,278579,119.17,16.51,619.22,-17.95
-2021-01-07,Berlin,Berlin Friedrichshain-Kreuzberg,23.69,66,0,0.0,9477,82,0.87,3401.91,29.44,3.4,278579,102.66,13.64,637.17,-10.05
-2021-01-06,Berlin,Berlin Friedrichshain-Kreuzberg,31.59,88,0,0.0,9411,82,0.87,3378.22,29.44,3.38,278579,89.02,14.0,647.22,2.51
+2021-01-11,Berlin,Berlin Friedrichshain-Kreuzberg,6.46,18,0,0.0,9564,82,0.86,3433.14,29.44,3.43,278579,99.07,-11.13,538.81,-36.26
+2021-01-10,Berlin,Berlin Friedrichshain-Kreuzberg,0.0,0,0,0.0,9546,82,0.86,3426.68,29.44,3.43,278579,110.2,-2.15,575.07,-20.46
+2021-01-09,Berlin,Berlin Friedrichshain-Kreuzberg,1.08,3,0,0.0,9546,82,0.86,3426.68,29.44,3.43,278579,112.35,-7.54,595.53,-24.41
+2021-01-08,Berlin,Berlin Friedrichshain-Kreuzberg,22.97,64,0,0.0,9543,82,0.86,3425.6,29.44,3.43,278579,119.89,16.51,619.94,-17.95
+2021-01-07,Berlin,Berlin Friedrichshain-Kreuzberg,24.05,67,0,0.0,9479,82,0.87,3402.63,29.44,3.4,278579,103.38,14.0,637.89,-9.69
+2021-01-06,Berlin,Berlin Friedrichshain-Kreuzberg,31.95,89,0,0.0,9412,82,0.87,3378.57,29.44,3.38,278579,89.38,14.36,647.58,2.87
 2021-01-05,Berlin,Berlin Friedrichshain-Kreuzberg,12.56,35,0,0.0,9323,82,0.88,3346.63,29.44,3.35,278579,75.02,-5.39,644.71,-25.85
 2021-01-04,Berlin,Berlin Friedrichshain-Kreuzberg,17.59,49,1,0.36,9288,82,0.88,3334.06,29.44,3.33,278579,80.41,-2.51,670.56,-10.77
 2021-01-03,Berlin,Berlin Friedrichshain-Kreuzberg,2.15,6,0,0.0,9239,81,0.88,3316.47,29.08,3.32,278579,82.92,-8.26,681.33,-17.23
