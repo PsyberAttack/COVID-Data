@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-12,Montana,Jefferson,33.07,4,1,8.27,855,5.0,0.58,7067.87,41.33,7.07,12097,7.3,355.47,-66.13,1686.38,-74.39
 2021-01-11,Montana,Jefferson,8.27,1,0,0.0,851,4.0,0.47,7034.8,33.07,7.03,12097,7.3,421.6,-165.33,1760.77,8.27
 2021-01-10,Montana,Jefferson,-8.27,-1,0,0.0,850,4.0,0.47,7026.54,33.07,7.03,12097,7.3,586.93,-8.27,1752.5,-57.87
 2021-01-09,Montana,Jefferson,57.87,7,0,0.0,851,4.0,0.47,7034.8,33.07,7.03,12097,7.3,595.2,41.34,1810.37,-41.33
