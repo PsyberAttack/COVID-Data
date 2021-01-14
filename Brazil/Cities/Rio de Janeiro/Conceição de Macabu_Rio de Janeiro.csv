@@ -1,5 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-12,Rio de Janeiro,Conceição de Macabu,150.68,35,1,4.31,1193,24,2.01,5136.04,103.32,5.14,23228,361.64,150.68,516.66,146.37
+2021-01-12,Rio de Janeiro,Conceição de Macabu,55.97,13,0,0.0,1193,24,2.01,5136.04,103.32,5.14,23228,314.28,55.97,508.05,55.97
+2021-01-11,Rio de Janeiro,Conceição de Macabu,0.0,0,0,0.0,1180,24,2.03,5080.08,103.32,5.08,23228,258.31,-8.61,452.08,0.0
+2021-01-10,Rio de Janeiro,Conceição de Macabu,0.0,0,0,0.0,1180,24,2.03,5080.08,103.32,5.08,23228,266.92,-38.75,452.08,-8.61
+2021-01-09,Rio de Janeiro,Conceição de Macabu,94.71,22,1,4.31,1180,24,2.03,5080.08,103.32,5.08,23228,305.67,94.71,460.69,90.4
 2021-01-05,Rio de Janeiro,Conceição de Macabu,150.68,35,0,0.0,1158,23,1.99,4985.36,99.02,4.99,23228,210.96,146.37,370.29,-159.29
 2021-01-04,Rio de Janeiro,Conceição de Macabu,12.92,3,0,0.0,1123,23,2.05,4834.68,99.02,4.83,23228,64.59,12.92,529.58,12.92
 2021-01-03,Rio de Janeiro,Conceição de Macabu,0.0,0,0,0.0,1120,23,2.05,4821.77,99.02,4.82,23228,51.67,-4.31,516.66,0.0
