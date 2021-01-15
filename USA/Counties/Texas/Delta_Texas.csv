@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-14,Texas,Delta,18.7,1,1,18.7,201,5.0,2.49,3757.71,93.48,3.76,5349,20.83,654.34,0.0,1458.28,0.0
 2021-01-13,Texas,Delta,467.38,25,0,0.0,200,4.0,2.0,3739.02,74.78,3.74,5349,20.83,654.34,429.99,1458.28,467.38
 2021-01-12,Texas,Delta,56.09,3,0,0.0,175,4.0,2.29,3271.64,74.78,3.27,5349,20.83,224.35,18.7,990.9,-18.69
 2021-01-11,Texas,Delta,-18.7,-1,0,0.0,172,4.0,2.33,3215.55,74.78,3.22,5349,20.83,205.65,-74.79,1009.59,-18.7

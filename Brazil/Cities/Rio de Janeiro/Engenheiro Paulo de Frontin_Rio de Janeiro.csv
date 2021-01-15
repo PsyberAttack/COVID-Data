@@ -1,8 +1,12 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-12,Rio de Janeiro,Engenheiro Paulo de Frontin,99.99,14,0,0.0,710,12,1.69,5070.7,85.7,5.07,14002,635.63,99.99,2206.81,-21.42
-2021-01-11,Rio de Janeiro,Engenheiro Paulo de Frontin,0.0,0,0,0.0,696,12,1.72,4970.72,85.7,4.97,14002,535.64,0.0,2228.23,0.0
-2021-01-10,Rio de Janeiro,Engenheiro Paulo de Frontin,0.0,0,0,0.0,696,12,1.72,4970.72,85.7,4.97,14002,535.64,-149.98,2228.23,0.0
-2021-01-09,Rio de Janeiro,Engenheiro Paulo de Frontin,257.11,36,3,21.43,696,12,1.72,4970.72,85.7,4.97,14002,685.62,257.11,2228.23,57.14
+2021-01-13,Rio de Janeiro,Engenheiro Paulo de Frontin,7.14,1,0,0.0,711,12,1.69,5077.85,85.7,5.08,14002,349.95,-7.14,2056.83,-128.55
+2021-01-12,Rio de Janeiro,Engenheiro Paulo de Frontin,99.99,14,0,0.0,710,12,1.69,5070.7,85.7,5.07,14002,357.09,-178.54,2185.38,85.71
+2021-01-11,Rio de Janeiro,Engenheiro Paulo de Frontin,0.0,0,0,0.0,696,12,1.72,4970.72,85.7,4.97,14002,535.63,0.0,2099.67,0.0
+2021-01-10,Rio de Janeiro,Engenheiro Paulo de Frontin,0.0,0,0,0.0,696,12,1.72,4970.72,85.7,4.97,14002,535.63,0.0,2099.67,-7.14
+2021-01-09,Rio de Janeiro,Engenheiro Paulo de Frontin,149.98,21,2,14.28,696,12,1.72,4970.72,85.7,4.97,14002,535.63,149.98,2106.81,28.57
+2021-01-08,Rio de Janeiro,Engenheiro Paulo de Frontin,7.14,1,1,7.14,675,10,1.48,4820.74,71.42,4.82,14002,385.65,7.14,2078.24,7.14
+2021-01-07,Rio de Janeiro,Engenheiro Paulo de Frontin,85.7,12,0,0.0,674,9,1.34,4813.6,64.28,4.81,14002,378.51,-64.28,2071.1,85.7
+2021-01-06,Rio de Janeiro,Engenheiro Paulo de Frontin,14.28,2,0,0.0,662,9,1.36,4727.9,64.28,4.73,14002,442.79,14.28,1985.4,-185.69
 2021-01-05,Rio de Janeiro,Engenheiro Paulo de Frontin,278.53,39,0,0.0,660,9,1.36,4713.61,64.28,4.71,14002,428.51,114.27,2171.09,171.4
 2021-01-04,Rio de Janeiro,Engenheiro Paulo de Frontin,0.0,0,0,0.0,621,9,1.45,4435.08,64.28,4.44,14002,314.24,0.0,1999.69,0.0
 2021-01-03,Rio de Janeiro,Engenheiro Paulo de Frontin,0.0,0,0,0.0,621,9,1.45,4435.08,64.28,4.44,14002,314.24,0.0,1999.69,0.0

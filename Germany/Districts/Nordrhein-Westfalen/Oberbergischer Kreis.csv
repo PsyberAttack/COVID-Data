@@ -1,350 +1,351 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-13,Nordrhein-Westfalen,Oberbergischer Kreis,21.32,58,0,0.0,6739,112,1.66,2477.05,41.17,2.48,272057,181.58,-24.26,715.69,-11.39
-2021-01-12,Nordrhein-Westfalen,Oberbergischer Kreis,24.26,66,0,0.0,6681,112,1.68,2455.74,41.17,2.46,272057,205.84,-24.63,727.08,-11.39
-2021-01-11,Nordrhein-Westfalen,Oberbergischer Kreis,12.86,35,0,0.0,6615,112,1.69,2431.48,41.17,2.43,272057,230.47,-9.56,738.47,-11.03
-2021-01-10,Nordrhein-Westfalen,Oberbergischer Kreis,10.66,29,0,0.0,6580,112,1.7,2418.61,41.17,2.42,272057,240.03,-32.35,749.5,3.31
-2021-01-09,Nordrhein-Westfalen,Oberbergischer Kreis,27.94,76,0,0.0,6551,112,1.71,2407.95,41.17,2.41,272057,272.38,26.47,746.19,0.37
-2021-01-08,Nordrhein-Westfalen,Oberbergischer Kreis,41.17,112,0,0.0,6475,112,1.73,2380.02,41.17,2.38,272057,245.91,36.39,745.82,8.46
-2021-01-07,Nordrhein-Westfalen,Oberbergischer Kreis,43.37,118,0,0.0,6363,112,1.76,2338.85,41.17,2.34,272057,209.52,39.69,737.36,7.35
-2021-01-06,Nordrhein-Westfalen,Oberbergischer Kreis,45.58,124,0,0.0,6245,112,1.79,2295.47,41.17,2.3,272057,169.83,1.1,730.01,8.82
-2021-01-05,Nordrhein-Westfalen,Oberbergischer Kreis,48.89,133,0,0.0,6121,112,1.83,2249.9,41.17,2.25,272057,168.73,18.38,721.19,16.91
-2021-01-04,Nordrhein-Westfalen,Oberbergischer Kreis,22.42,61,2,0.74,5988,112,1.87,2201.01,41.17,2.2,272057,150.35,8.82,704.28,-13.23
-2021-01-03,Nordrhein-Westfalen,Oberbergischer Kreis,43.01,117,1,0.37,5927,110,1.86,2178.59,40.43,2.18,272057,141.53,-14.7,717.51,36.39
-2021-01-02,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,1,0.37,5810,109,1.88,2135.58,40.07,2.14,272057,156.23,-0.37,681.12,-25.73
-2021-01-01,Nordrhein-Westfalen,Oberbergischer Kreis,4.78,13,0,0.0,5806,108,1.86,2134.11,39.7,2.13,272057,156.6,2.21,706.85,-23.16
-2020-12-31,Nordrhein-Westfalen,Oberbergischer Kreis,3.68,10,0,0.0,5793,108,1.86,2129.33,39.7,2.13,272057,154.39,1.47,730.01,-23.15
-2020-12-30,Nordrhein-Westfalen,Oberbergischer Kreis,44.48,121,2,0.74,5783,108,1.87,2125.66,39.7,2.13,272057,152.92,6.25,753.16,5.52
-2020-12-29,Nordrhein-Westfalen,Oberbergischer Kreis,30.51,83,6,2.21,5662,106,1.87,2081.18,38.96,2.08,272057,146.67,2.94,747.64,-2.2
-2020-12-28,Nordrhein-Westfalen,Oberbergischer Kreis,13.6,37,0,0.0,5579,100,1.79,2050.67,36.76,2.05,272057,143.73,-38.23,749.84,-3.68
-2020-12-27,Nordrhein-Westfalen,Oberbergischer Kreis,57.71,157,0,0.0,5542,100,1.8,2037.07,36.76,2.04,272057,181.96,53.3,753.52,52.93
-2020-12-26,Nordrhein-Westfalen,Oberbergischer Kreis,1.84,5,0,0.0,5385,100,1.86,1979.36,36.76,1.98,272057,128.66,-9.92,700.59,-20.58
-2020-12-25,Nordrhein-Westfalen,Oberbergischer Kreis,2.57,7,1,0.37,5380,100,1.86,1977.53,36.76,1.98,272057,138.58,-29.78,721.17,-22.06
-2020-12-24,Nordrhein-Westfalen,Oberbergischer Kreis,2.21,6,0,0.0,5373,99,1.84,1974.95,36.39,1.97,272057,168.36,-43.0,743.23,-29.77
-2020-12-23,Nordrhein-Westfalen,Oberbergischer Kreis,38.23,104,2,0.74,5367,99,1.84,1972.75,36.39,1.97,272057,211.36,5.52,773.0,9.56
-2020-12-22,Nordrhein-Westfalen,Oberbergischer Kreis,27.57,75,1,0.37,5263,97,1.84,1934.52,35.65,1.93,272057,205.84,-8.08,763.44,-3.67
-2020-12-21,Nordrhein-Westfalen,Oberbergischer Kreis,51.83,141,0,0.0,5188,96,1.85,1906.95,35.29,1.91,272057,213.92,27.94,767.11,31.98
-2020-12-20,Nordrhein-Westfalen,Oberbergischer Kreis,4.41,12,0,0.0,5047,96,1.9,1855.13,35.29,1.86,272057,185.98,-2.94,735.13,1.1
-2020-12-19,Nordrhein-Westfalen,Oberbergischer Kreis,11.76,32,2,0.74,5035,96,1.91,1850.72,35.29,1.85,272057,188.92,-15.81,734.03,-6.25
-2020-12-18,Nordrhein-Westfalen,Oberbergischer Kreis,32.35,88,1,0.37,5003,94,1.88,1838.95,34.55,1.84,272057,204.73,-0.36,740.28,6.99
-2020-12-17,Nordrhein-Westfalen,Oberbergischer Kreis,45.21,123,3,1.1,4915,93,1.89,1806.61,34.18,1.81,272057,205.09,9.19,733.29,19.48
-2020-12-16,Nordrhein-Westfalen,Oberbergischer Kreis,32.71,89,1,0.37,4792,90,1.88,1761.4,33.08,1.76,272057,195.9,-4.05,713.81,-3.31
-2020-12-15,Nordrhein-Westfalen,Oberbergischer Kreis,35.65,97,0,0.0,4703,89,1.89,1728.68,32.71,1.73,272057,199.95,3.67,717.12,15.07
-2020-12-14,Nordrhein-Westfalen,Oberbergischer Kreis,23.89,65,0,0.0,4606,89,1.93,1693.03,32.71,1.69,272057,196.28,-11.76,702.05,5.14
-2020-12-13,Nordrhein-Westfalen,Oberbergischer Kreis,7.35,20,1,0.37,4541,89,1.96,1669.14,32.71,1.67,272057,208.04,0.73,696.91,1.1
-2020-12-12,Nordrhein-Westfalen,Oberbergischer Kreis,27.57,75,0,0.0,4521,88,1.95,1661.78,32.35,1.66,272057,207.31,0.37,695.81,8.09
-2020-12-11,Nordrhein-Westfalen,Oberbergischer Kreis,32.71,89,1,0.37,4446,88,1.98,1634.22,32.35,1.63,272057,206.94,4.77,687.72,4.77
-2020-12-10,Nordrhein-Westfalen,Oberbergischer Kreis,36.02,98,1,0.37,4357,87,2.0,1601.5,31.98,1.6,272057,202.17,9.19,682.95,9.19
-2020-12-09,Nordrhein-Westfalen,Oberbergischer Kreis,36.76,100,4,1.47,4259,86,2.02,1565.48,31.61,1.57,272057,192.98,-2.2,673.76,13.24
-2020-12-08,Nordrhein-Westfalen,Oberbergischer Kreis,31.98,87,3,1.1,4159,82,1.97,1528.72,30.14,1.53,272057,195.18,-0.73,660.52,7.35
-2020-12-07,Nordrhein-Westfalen,Oberbergischer Kreis,35.65,97,3,1.1,4072,79,1.94,1496.75,29.04,1.5,272057,195.91,18.37,653.17,16.9
-2020-12-06,Nordrhein-Westfalen,Oberbergischer Kreis,6.62,18,0,0.0,3975,76,1.91,1461.09,27.94,1.46,272057,177.54,1.84,636.27,2.58
-2020-12-05,Nordrhein-Westfalen,Oberbergischer Kreis,27.2,74,0,0.0,3957,76,1.92,1454.47,27.94,1.45,272057,175.7,4.78,633.69,4.41
-2020-12-04,Nordrhein-Westfalen,Oberbergischer Kreis,27.94,76,5,1.84,3883,76,1.96,1427.27,27.94,1.43,272057,170.92,3.31,629.28,10.3
-2020-12-03,Nordrhein-Westfalen,Oberbergischer Kreis,26.83,73,0,0.0,3807,71,1.86,1399.34,26.1,1.4,272057,167.61,-5.15,618.98,5.88
-2020-12-02,Nordrhein-Westfalen,Oberbergischer Kreis,38.96,106,3,1.1,3734,71,1.9,1372.51,26.1,1.37,272057,172.76,10.29,613.1,18.01
-2020-12-01,Nordrhein-Westfalen,Oberbergischer Kreis,32.71,89,0,0.0,3628,68,1.87,1333.54,24.99,1.33,272057,162.47,1.47,595.09,10.29
-2020-11-30,Nordrhein-Westfalen,Oberbergischer Kreis,17.28,47,2,0.74,3539,68,1.92,1300.83,24.99,1.3,272057,161.0,-2.57,584.8,-7.35
-2020-11-29,Nordrhein-Westfalen,Oberbergischer Kreis,4.78,13,1,0.37,3492,66,1.89,1283.55,24.26,1.28,272057,163.57,1.47,592.15,-5.14
-2020-11-28,Nordrhein-Westfalen,Oberbergischer Kreis,22.42,61,0,0.0,3479,65,1.87,1278.78,23.89,1.28,272057,162.1,4.41,597.29,6.25
-2020-11-27,Nordrhein-Westfalen,Oberbergischer Kreis,24.63,67,0,0.0,3418,65,1.9,1256.35,23.89,1.26,272057,157.69,-0.73,591.04,2.21
-2020-11-26,Nordrhein-Westfalen,Oberbergischer Kreis,31.98,87,3,1.1,3351,65,1.94,1231.73,23.89,1.23,272057,158.42,6.25,588.83,12.13
-2020-11-25,Nordrhein-Westfalen,Oberbergischer Kreis,28.67,78,3,1.1,3264,62,1.9,1199.75,22.79,1.2,272057,152.17,-7.35,576.7,3.68
-2020-11-24,Nordrhein-Westfalen,Oberbergischer Kreis,31.24,85,4,1.47,3186,59,1.85,1171.08,21.69,1.17,272057,159.52,10.66,573.02,8.82
-2020-11-23,Nordrhein-Westfalen,Oberbergischer Kreis,19.85,54,0,0.0,3101,55,1.77,1139.83,20.22,1.14,272057,148.86,1.1,564.2,1.84
-2020-11-22,Nordrhein-Westfalen,Oberbergischer Kreis,3.31,9,0,0.0,3047,55,1.81,1119.99,20.22,1.12,272057,147.76,-2.94,562.36,-10.29
-2020-11-21,Nordrhein-Westfalen,Oberbergischer Kreis,18.01,49,1,0.37,3038,55,1.81,1116.68,20.22,1.12,272057,150.7,-1.47,572.65,0.73
-2020-11-20,Nordrhein-Westfalen,Oberbergischer Kreis,25.36,69,1,0.37,2989,54,1.81,1098.67,19.85,1.1,272057,152.17,-2.58,571.92,8.45
-2020-11-19,Nordrhein-Westfalen,Oberbergischer Kreis,25.73,70,2,0.74,2920,53,1.82,1073.3,19.48,1.07,272057,154.75,-1.1,563.47,8.82
-2020-11-18,Nordrhein-Westfalen,Oberbergischer Kreis,36.02,98,0,0.0,2850,51,1.79,1047.57,18.75,1.05,272057,155.85,12.5,554.65,19.48
-2020-11-17,Nordrhein-Westfalen,Oberbergischer Kreis,20.58,56,2,0.74,2752,51,1.85,1011.55,18.75,1.01,272057,143.35,-4.05,535.17,8.82
-2020-11-16,Nordrhein-Westfalen,Oberbergischer Kreis,18.75,51,0,0.0,2696,49,1.82,990.97,18.01,0.99,272057,147.4,0.0,526.35,5.52
-2020-11-15,Nordrhein-Westfalen,Oberbergischer Kreis,6.25,17,1,0.37,2645,49,1.85,972.22,18.01,0.97,272057,147.4,2.21,520.83,-1.84
-2020-11-14,Nordrhein-Westfalen,Oberbergischer Kreis,19.48,53,0,0.0,2628,48,1.83,965.97,17.64,0.97,272057,145.19,-3.31,522.67,8.09
-2020-11-13,Nordrhein-Westfalen,Oberbergischer Kreis,27.94,76,1,0.37,2575,48,1.86,946.49,17.64,0.95,272057,148.5,10.3,514.58,16.55
-2020-11-12,Nordrhein-Westfalen,Oberbergischer Kreis,26.83,73,4,1.47,2499,47,1.88,918.56,17.28,0.92,272057,138.2,5.88,498.03,18.01
-2020-11-11,Nordrhein-Westfalen,Oberbergischer Kreis,23.52,64,1,0.37,2426,43,1.77,891.72,15.81,0.89,272057,132.32,2.57,480.02,15.43
-2020-11-10,Nordrhein-Westfalen,Oberbergischer Kreis,24.63,67,1,0.37,2362,42,1.78,868.2,15.44,0.87,272057,129.75,2.21,464.59,16.54
-2020-11-09,Nordrhein-Westfalen,Oberbergischer Kreis,18.75,51,2,0.74,2295,41,1.79,843.57,15.07,0.84,272057,127.54,-5.88,448.05,12.5
-2020-11-08,Nordrhein-Westfalen,Oberbergischer Kreis,4.04,11,0,0.0,2244,39,1.74,824.83,14.34,0.82,272057,133.42,-5.88,435.55,-0.37
-2020-11-07,Nordrhein-Westfalen,Oberbergischer Kreis,22.79,62,0,0.0,2233,39,1.75,820.78,14.34,0.82,272057,139.3,6.62,435.92,16.91
-2020-11-06,Nordrhein-Westfalen,Oberbergischer Kreis,17.64,48,0,0.0,2171,39,1.8,797.99,14.34,0.8,272057,132.68,-4.78,419.01,12.49
-2020-11-05,Nordrhein-Westfalen,Oberbergischer Kreis,20.95,57,3,1.1,2123,39,1.84,780.35,14.34,0.78,272057,137.46,1.1,406.52,15.44
-2020-11-04,Nordrhein-Westfalen,Oberbergischer Kreis,20.95,57,0,0.0,2066,36,1.74,759.4,13.23,0.76,272057,136.36,-4.04,391.08,15.07
-2020-11-03,Nordrhein-Westfalen,Oberbergischer Kreis,22.42,61,1,0.37,2009,36,1.79,738.45,13.23,0.74,272057,140.4,0.0,376.01,17.27
-2020-11-02,Nordrhein-Westfalen,Oberbergischer Kreis,24.63,67,2,0.74,1948,35,1.8,716.03,12.86,0.72,272057,140.4,6.62,358.74,17.28
-2020-11-01,Nordrhein-Westfalen,Oberbergischer Kreis,9.92,27,3,1.1,1881,33,1.75,691.4,12.13,0.69,272057,133.78,-3.68,341.46,7.71
-2020-10-31,Nordrhein-Westfalen,Oberbergischer Kreis,16.17,44,0,0.0,1854,30,1.62,681.47,11.03,0.68,272057,137.46,-1.11,333.75,14.33
-2020-10-30,Nordrhein-Westfalen,Oberbergischer Kreis,22.42,61,0,0.0,1810,30,1.66,665.3,11.03,0.67,272057,138.57,5.51,319.42,19.48
-2020-10-29,Nordrhein-Westfalen,Oberbergischer Kreis,19.85,54,0,0.0,1749,30,1.72,642.88,11.03,0.64,272057,133.06,2.94,299.94,18.38
-2020-10-28,Nordrhein-Westfalen,Oberbergischer Kreis,24.99,68,1,0.37,1695,30,1.77,623.03,11.03,0.62,272057,130.12,8.45,281.56,21.31
-2020-10-27,Nordrhein-Westfalen,Oberbergischer Kreis,22.42,61,2,0.74,1627,29,1.78,598.04,10.66,0.6,272057,121.67,10.66,260.25,16.17
-2020-10-26,Nordrhein-Westfalen,Oberbergischer Kreis,18.01,49,1,0.37,1566,27,1.72,575.61,9.92,0.58,272057,111.01,4.78,244.08,11.76
-2020-10-25,Nordrhein-Westfalen,Oberbergischer Kreis,13.6,37,1,0.37,1517,26,1.71,557.6,9.56,0.56,272057,106.23,5.51,232.32,12.13
-2020-10-24,Nordrhein-Westfalen,Oberbergischer Kreis,17.28,47,0,0.0,1480,25,1.69,544.0,9.19,0.54,272057,100.72,5.89,220.19,8.09
-2020-10-23,Nordrhein-Westfalen,Oberbergischer Kreis,16.91,46,0,0.0,1433,25,1.74,526.73,9.19,0.53,272057,94.83,5.52,212.1,11.4
-2020-10-22,Nordrhein-Westfalen,Oberbergischer Kreis,16.91,46,0,0.0,1387,25,1.8,509.82,9.19,0.51,272057,89.31,8.09,200.7,11.03
-2020-10-21,Nordrhein-Westfalen,Oberbergischer Kreis,16.54,45,0,0.0,1341,25,1.86,492.91,9.19,0.49,272057,81.22,8.45,189.67,11.39
-2020-10-20,Nordrhein-Westfalen,Oberbergischer Kreis,11.76,32,1,0.37,1296,25,1.93,476.37,9.19,0.48,272057,72.77,3.67,178.28,7.35
-2020-10-19,Nordrhein-Westfalen,Oberbergischer Kreis,13.23,36,0,0.0,1264,24,1.9,464.61,8.82,0.46,272057,69.1,6.98,170.93,7.72
-2020-10-18,Nordrhein-Westfalen,Oberbergischer Kreis,8.09,22,1,0.37,1228,24,1.95,451.38,8.82,0.45,272057,62.12,3.68,163.21,6.25
-2020-10-17,Nordrhein-Westfalen,Oberbergischer Kreis,11.39,31,1,0.37,1206,23,1.91,443.29,8.45,0.44,272057,58.44,5.51,156.96,6.24
-2020-10-16,Nordrhein-Westfalen,Oberbergischer Kreis,11.39,31,0,0.0,1175,22,1.87,431.89,8.09,0.43,272057,52.93,6.24,150.72,6.61
-2020-10-15,Nordrhein-Westfalen,Oberbergischer Kreis,8.82,24,2,0.74,1144,22,1.92,420.5,8.09,0.42,272057,46.69,3.31,144.11,5.51
-2020-10-14,Nordrhein-Westfalen,Oberbergischer Kreis,8.09,22,0,0.0,1120,20,1.79,411.68,7.35,0.41,272057,43.38,2.21,138.6,3.31
-2020-10-13,Nordrhein-Westfalen,Oberbergischer Kreis,8.09,22,0,0.0,1098,20,1.82,403.59,7.35,0.4,272057,41.17,2.94,135.29,5.52
-2020-10-12,Nordrhein-Westfalen,Oberbergischer Kreis,6.25,17,0,0.0,1076,20,1.86,395.51,7.35,0.4,272057,38.23,-1.1,129.77,-0.37
-2020-10-11,Nordrhein-Westfalen,Oberbergischer Kreis,4.41,12,0,0.0,1059,20,1.89,389.26,7.35,0.39,272057,39.33,2.2,130.14,1.84
-2020-10-10,Nordrhein-Westfalen,Oberbergischer Kreis,5.88,16,0,0.0,1047,20,1.91,384.85,7.35,0.38,272057,37.13,4.04,128.3,2.2
-2020-10-09,Nordrhein-Westfalen,Oberbergischer Kreis,5.15,14,0,0.0,1031,20,1.94,378.96,7.35,0.38,272057,33.09,2.21,126.1,0.0
-2020-10-08,Nordrhein-Westfalen,Oberbergischer Kreis,5.51,15,0,0.0,1017,20,1.97,373.82,7.35,0.37,272057,30.88,4.04,126.1,2.94
-2020-10-07,Nordrhein-Westfalen,Oberbergischer Kreis,5.88,16,0,0.0,1002,20,2.0,368.31,7.35,0.37,272057,26.84,2.2,123.16,2.94
-2020-10-06,Nordrhein-Westfalen,Oberbergischer Kreis,5.15,14,0,0.0,986,20,2.03,362.42,7.35,0.36,272057,24.64,-1.1,120.22,1.84
-2020-10-05,Nordrhein-Westfalen,Oberbergischer Kreis,7.35,20,0,0.0,972,20,2.06,357.28,7.35,0.36,272057,25.74,1.1,118.38,5.88
-2020-10-04,Nordrhein-Westfalen,Oberbergischer Kreis,2.21,6,0,0.0,952,20,2.1,349.93,7.35,0.35,272057,24.64,0.74,112.5,2.21
-2020-10-03,Nordrhein-Westfalen,Oberbergischer Kreis,1.84,5,0,0.0,946,20,2.11,347.72,7.35,0.35,272057,23.9,-7.35,110.29,0.74
-2020-10-02,Nordrhein-Westfalen,Oberbergischer Kreis,2.94,8,0,0.0,941,20,2.13,345.88,7.35,0.35,272057,31.25,-2.57,109.55,2.57
-2020-10-01,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,933,20,2.14,342.94,7.35,0.34,272057,33.82,-4.41,106.98,-0.74
-2020-09-30,Nordrhein-Westfalen,Oberbergischer Kreis,3.68,10,0,0.0,929,20,2.15,341.47,7.35,0.34,272057,38.23,-1.47,107.72,2.94
-2020-09-29,Nordrhein-Westfalen,Oberbergischer Kreis,6.25,17,0,0.0,919,20,2.18,337.8,7.35,0.34,272057,39.7,1.84,104.78,4.78
-2020-09-28,Nordrhein-Westfalen,Oberbergischer Kreis,6.25,17,0,0.0,902,20,2.22,331.55,7.35,0.33,272057,37.86,0.74,100.0,4.78
-2020-09-27,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,885,20,2.26,325.3,7.35,0.33,272057,37.12,-0.37,95.22,0.0
-2020-09-26,Nordrhein-Westfalen,Oberbergischer Kreis,9.19,25,0,0.0,881,20,2.27,323.83,7.35,0.32,272057,37.49,4.04,95.22,8.82
-2020-09-25,Nordrhein-Westfalen,Oberbergischer Kreis,5.51,15,0,0.0,856,20,2.34,314.64,7.35,0.31,272057,33.45,0.73,86.4,4.41
-2020-09-24,Nordrhein-Westfalen,Oberbergischer Kreis,5.88,16,0,0.0,841,20,2.38,309.13,7.35,0.31,272057,32.72,2.57,81.99,4.78
-2020-09-23,Nordrhein-Westfalen,Oberbergischer Kreis,5.15,14,0,0.0,825,20,2.42,303.25,7.35,0.3,272057,30.15,0.37,77.21,4.41
-2020-09-22,Nordrhein-Westfalen,Oberbergischer Kreis,4.41,12,0,0.0,811,20,2.47,298.1,7.35,0.3,272057,29.78,1.84,72.8,2.94
-2020-09-21,Nordrhein-Westfalen,Oberbergischer Kreis,5.51,15,0,0.0,799,20,2.5,293.69,7.35,0.29,272057,27.94,-1.11,69.86,5.14
-2020-09-20,Nordrhein-Westfalen,Oberbergischer Kreis,1.84,5,0,0.0,784,20,2.55,288.17,7.35,0.29,272057,29.05,-0.73,64.72,0.37
-2020-09-19,Nordrhein-Westfalen,Oberbergischer Kreis,5.15,14,0,0.0,779,20,2.57,286.34,7.35,0.29,272057,29.78,1.47,64.35,5.15
-2020-09-18,Nordrhein-Westfalen,Oberbergischer Kreis,4.78,13,0,0.0,765,20,2.61,281.19,7.35,0.28,272057,28.31,-0.37,59.2,2.94
-2020-09-17,Nordrhein-Westfalen,Oberbergischer Kreis,3.31,9,0,0.0,752,20,2.66,276.41,7.35,0.28,272057,28.68,0.74,56.26,1.47
-2020-09-16,Nordrhein-Westfalen,Oberbergischer Kreis,4.78,13,0,0.0,743,20,2.69,273.1,7.35,0.27,272057,27.94,1.84,54.79,2.94
-2020-09-15,Nordrhein-Westfalen,Oberbergischer Kreis,2.57,7,0,0.0,730,20,2.74,268.33,7.35,0.27,272057,26.1,-0.74,51.85,2.2
-2020-09-14,Nordrhein-Westfalen,Oberbergischer Kreis,6.62,18,0,0.0,723,20,2.77,265.75,7.35,0.27,272057,26.84,5.15,49.65,3.31
-2020-09-13,Nordrhein-Westfalen,Oberbergischer Kreis,2.57,7,0,0.0,705,20,2.84,259.14,7.35,0.26,272057,21.69,2.57,46.34,1.47
-2020-09-12,Nordrhein-Westfalen,Oberbergischer Kreis,3.68,10,0,0.0,698,20,2.87,256.56,7.35,0.26,272057,19.12,2.58,44.87,2.21
-2020-09-11,Nordrhein-Westfalen,Oberbergischer Kreis,5.15,14,0,0.0,688,20,2.91,252.89,7.35,0.25,272057,16.54,4.78,42.66,3.68
-2020-09-10,Nordrhein-Westfalen,Oberbergischer Kreis,2.57,7,0,0.0,674,20,2.97,247.74,7.35,0.25,272057,11.76,0.36,38.98,0.73
-2020-09-09,Nordrhein-Westfalen,Oberbergischer Kreis,2.94,8,0,0.0,667,20,3.0,245.17,7.35,0.25,272057,11.4,2.2,38.25,1.84
-2020-09-08,Nordrhein-Westfalen,Oberbergischer Kreis,3.31,9,0,0.0,659,20,3.03,242.23,7.35,0.24,272057,9.2,1.84,36.41,0.0
-2020-09-07,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,650,20,3.08,238.92,7.35,0.24,272057,7.36,0.0,36.41,1.1
-2020-09-06,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,646,20,3.1,237.45,7.35,0.24,272057,7.36,-1.47,35.31,0.0
-2020-09-05,Nordrhein-Westfalen,Oberbergischer Kreis,1.1,3,0,0.0,646,20,3.1,237.45,7.35,0.24,272057,8.83,0.73,35.31,-0.37
-2020-09-04,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,643,20,3.11,236.35,7.35,0.24,272057,8.1,-0.73,35.68,0.0
-2020-09-03,Nordrhein-Westfalen,Oberbergischer Kreis,2.21,6,0,0.0,642,20,3.12,235.98,7.35,0.24,272057,8.83,1.11,35.68,0.74
-2020-09-02,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,636,20,3.14,233.77,7.35,0.23,272057,7.72,0.0,34.94,0.0
-2020-09-01,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,634,20,3.15,233.04,7.35,0.23,272057,7.72,0.0,34.94,1.1
-2020-08-31,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,630,20,3.17,231.57,7.35,0.23,272057,7.72,1.1,33.84,-1.47
-2020-08-30,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,1,0.37,626,20,3.19,230.1,7.35,0.23,272057,6.62,0.0,35.31,1.1
-2020-08-29,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,622,19,3.05,228.63,6.98,0.23,272057,6.62,0.37,34.21,0.0
-2020-08-28,Nordrhein-Westfalen,Oberbergischer Kreis,1.1,3,0,0.0,621,19,3.06,228.26,6.98,0.23,272057,6.25,-0.74,34.21,0.0
-2020-08-27,Nordrhein-Westfalen,Oberbergischer Kreis,1.1,3,0,0.0,618,19,3.07,227.16,6.98,0.23,272057,6.99,-0.74,34.21,0.36
-2020-08-26,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,615,19,3.09,226.06,6.98,0.23,272057,7.73,-1.1,33.85,0.37
-2020-08-25,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,613,19,3.1,225.32,6.98,0.23,272057,8.83,1.1,33.48,1.1
-2020-08-24,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,609,19,3.12,223.85,6.98,0.22,272057,7.73,-2.94,32.38,0.37
-2020-08-23,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,608,19,3.12,223.48,6.98,0.22,272057,10.67,0.37,32.01,0.73
-2020-08-22,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,604,19,3.15,222.01,6.98,0.22,272057,10.3,-1.47,31.28,-0.74
-2020-08-21,Nordrhein-Westfalen,Oberbergischer Kreis,1.84,5,0,0.0,604,19,3.15,222.01,6.98,0.22,272057,11.77,0.37,32.02,0.74
-2020-08-20,Nordrhein-Westfalen,Oberbergischer Kreis,1.84,5,0,0.0,599,19,3.17,220.17,6.98,0.22,272057,11.4,0.0,31.28,0.74
-2020-08-19,Nordrhein-Westfalen,Oberbergischer Kreis,1.84,5,0,0.0,594,19,3.2,218.34,6.98,0.22,272057,11.4,0.74,30.54,1.47
-2020-08-18,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,589,19,3.23,216.5,6.98,0.22,272057,10.66,-2.94,29.07,0.37
-2020-08-17,Nordrhein-Westfalen,Oberbergischer Kreis,3.31,9,0,0.0,588,19,3.23,216.13,6.98,0.22,272057,13.6,2.94,28.7,2.21
-2020-08-16,Nordrhein-Westfalen,Oberbergischer Kreis,1.1,3,0,0.0,579,19,3.28,212.82,6.98,0.21,272057,10.66,1.1,26.49,1.1
-2020-08-15,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,576,19,3.3,211.72,6.98,0.21,272057,9.56,0.0,25.39,1.1
-2020-08-14,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,572,19,3.32,210.25,6.98,0.21,272057,9.56,1.1,24.29,1.47
-2020-08-13,Nordrhein-Westfalen,Oberbergischer Kreis,1.84,5,0,0.0,568,19,3.35,208.78,6.98,0.21,272057,8.46,0.37,22.82,1.84
-2020-08-12,Nordrhein-Westfalen,Oberbergischer Kreis,1.1,3,0,0.0,563,19,3.37,206.94,6.98,0.21,272057,8.09,0.36,20.98,0.73
-2020-08-11,Nordrhein-Westfalen,Oberbergischer Kreis,3.31,9,0,0.0,560,19,3.39,205.84,6.98,0.21,272057,7.73,2.94,20.25,3.31
-2020-08-10,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,551,19,3.45,202.53,6.98,0.2,272057,4.79,-2.57,16.94,0.37
-2020-08-09,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,550,19,3.45,202.16,6.98,0.2,272057,7.36,-0.37,16.57,0.0
-2020-08-08,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,550,19,3.45,202.16,6.98,0.2,272057,7.73,1.1,16.57,1.47
-2020-08-07,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,546,19,3.48,200.69,6.98,0.2,272057,6.63,-0.73,15.1,0.0
-2020-08-06,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,545,19,3.49,200.33,6.98,0.2,272057,7.36,0.73,15.1,1.1
-2020-08-05,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,541,19,3.51,198.86,6.98,0.2,272057,6.63,0.37,14.0,0.74
-2020-08-04,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,539,19,3.53,198.12,6.98,0.2,272057,6.26,0.0,13.26,-0.37
-2020-08-03,Nordrhein-Westfalen,Oberbergischer Kreis,2.94,8,0,0.0,538,19,3.53,197.75,6.98,0.2,272057,6.26,2.94,13.63,2.94
-2020-08-02,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,530,19,3.58,194.81,6.98,0.19,272057,3.32,-0.37,10.69,0.37
-2020-08-01,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,529,19,3.59,194.44,6.98,0.19,272057,3.69,-0.37,10.32,0.37
-2020-07-31,Nordrhein-Westfalen,Oberbergischer Kreis,1.1,3,0,0.0,528,19,3.6,194.08,6.98,0.19,272057,4.06,0.0,9.95,1.1
-2020-07-30,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,525,19,3.62,192.97,6.98,0.19,272057,4.06,-0.36,8.85,0.74
-2020-07-29,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,523,19,3.63,192.24,6.98,0.19,272057,4.42,0.0,8.11,0.37
-2020-07-28,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,522,19,3.64,191.87,6.98,0.19,272057,4.42,0.37,7.74,0.37
-2020-07-27,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,521,19,3.65,191.5,6.98,0.19,272057,4.05,-1.1,7.37,-0.74
-2020-07-26,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,521,19,3.65,191.5,6.98,0.19,272057,5.15,0.74,8.11,0.0
-2020-07-25,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,519,19,3.66,190.77,6.98,0.19,272057,4.41,0.37,8.11,0.0
-2020-07-24,Nordrhein-Westfalen,Oberbergischer Kreis,1.1,3,0,0.0,517,19,3.68,190.03,6.98,0.19,272057,4.04,1.1,8.11,0.73
-2020-07-23,Nordrhein-Westfalen,Oberbergischer Kreis,1.1,3,0,0.0,514,19,3.7,188.93,6.98,0.19,272057,2.94,1.1,7.38,1.1
-2020-07-22,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,511,19,3.72,187.83,6.98,0.19,272057,1.84,0.0,6.28,0.37
-2020-07-21,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,510,19,3.73,187.46,6.98,0.19,272057,1.84,0.0,5.91,0.0
-2020-07-20,Nordrhein-Westfalen,Oberbergischer Kreis,1.1,3,0,0.0,510,19,3.73,187.46,6.98,0.19,272057,1.84,1.1,5.91,1.1
-2020-07-19,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,507,19,3.75,186.36,6.98,0.19,272057,0.74,0.0,4.81,0.0
-2020-07-18,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,507,19,3.75,186.36,6.98,0.19,272057,0.74,0.37,4.81,0.0
-2020-07-17,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,506,19,3.75,185.99,6.98,0.19,272057,0.37,-0.37,4.81,-0.74
-2020-07-16,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,506,19,3.75,185.99,6.98,0.19,272057,0.74,-0.37,5.55,0.0
-2020-07-15,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,506,19,3.75,185.99,6.98,0.19,272057,1.11,0.37,5.55,0.37
-2020-07-14,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,505,19,3.76,185.62,6.98,0.19,272057,0.74,-0.74,5.18,-0.37
-2020-07-13,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,505,19,3.76,185.62,6.98,0.19,272057,1.48,0.0,5.55,0.0
-2020-07-12,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,505,19,3.76,185.62,6.98,0.19,272057,1.48,0.0,5.55,0.0
-2020-07-11,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,505,19,3.76,185.62,6.98,0.19,272057,1.48,0.0,5.55,0.0
-2020-07-10,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,505,19,3.76,185.62,6.98,0.19,272057,1.48,0.37,5.55,0.37
-2020-07-09,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,504,19,3.77,185.26,6.98,0.19,272057,1.11,0.37,5.18,0.37
-2020-07-08,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,503,19,3.78,184.89,6.98,0.18,272057,0.74,0.0,4.81,0.0
-2020-07-07,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,503,19,3.78,184.89,6.98,0.18,272057,0.74,0.74,4.81,0.74
-2020-07-06,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,501,19,3.79,184.15,6.98,0.18,272057,-0.0,-0.74,4.07,0.0
-2020-07-05,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,501,19,3.79,184.15,6.98,0.18,272057,0.74,-0.74,4.07,0.0
-2020-07-04,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,501,19,3.79,184.15,6.98,0.18,272057,1.48,-0.74,4.07,0.0
-2020-07-03,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,501,19,3.79,184.15,6.98,0.18,272057,2.22,-0.37,4.07,0.0
-2020-07-02,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,501,19,3.79,184.15,6.98,0.18,272057,2.59,0.0,4.07,0.0
-2020-07-01,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,501,19,3.79,184.15,6.98,0.18,272057,2.59,0.0,4.07,0.0
-2020-06-30,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,501,19,3.79,184.15,6.98,0.18,272057,2.59,0.0,4.07,0.0
-2020-06-29,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,501,19,3.79,184.15,6.98,0.18,272057,2.59,0.74,4.07,0.74
-2020-06-28,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,499,19,3.81,183.42,6.98,0.18,272057,1.85,0.74,3.33,0.74
-2020-06-27,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,497,19,3.82,182.68,6.98,0.18,272057,1.11,0.37,2.59,0.74
-2020-06-26,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,495,19,3.84,181.95,6.98,0.18,272057,0.74,-0.37,1.85,0.37
-2020-06-25,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,494,19,3.85,181.58,6.98,0.18,272057,1.11,0.0,1.48,-0.37
-2020-06-24,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,494,19,3.85,181.58,6.98,0.18,272057,1.11,0.0,1.85,-0.37
-2020-06-23,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,494,19,3.85,181.58,6.98,0.18,272057,1.11,-0.37,2.22,0.0
-2020-06-22,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,494,19,3.85,181.58,6.98,0.18,272057,1.48,0.0,2.22,-1.84
-2020-06-21,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,494,19,3.85,181.58,6.98,0.18,272057,1.48,0.0,4.06,0.0
-2020-06-20,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,494,19,3.85,181.58,6.98,0.18,272057,1.48,0.37,4.06,0.37
-2020-06-19,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,493,19,3.85,181.21,6.98,0.18,272057,1.11,0.74,3.69,0.74
-2020-06-18,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,491,19,3.87,180.48,6.98,0.18,272057,0.37,0.0,2.95,0.0
-2020-06-17,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,491,19,3.87,180.48,6.98,0.18,272057,0.37,0.0,2.95,-0.37
-2020-06-16,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,491,19,3.87,180.48,6.98,0.18,272057,0.37,0.37,3.32,0.37
-2020-06-15,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,-0.0,0.0,2.95,-0.37
-2020-06-14,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,-0.0,0.0,3.32,-0.74
-2020-06-13,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,-0.0,0.0,4.06,0.0
-2020-06-12,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,-0.0,0.0,4.06,-0.74
-2020-06-11,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,-0.0,0.0,4.8,-0.74
-2020-06-10,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,-0.0,0.0,5.54,-1.1
-2020-06-09,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,-0.0,0.0,6.64,-0.74
-2020-06-08,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,-0.0,0.0,7.38,-0.37
-2020-06-07,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,-0.0,0.0,7.75,-0.74
-2020-06-06,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,-0.0,0.0,8.49,0.0
-2020-06-05,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,-0.0,0.0,8.49,0.0
-2020-06-04,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,-0.0,-0.37,8.49,-0.74
-2020-06-03,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,0.37,-0.37,9.23,-1.1
-2020-06-02,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,0.74,0.0,10.33,0.0
-2020-06-01,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,0.74,-1.84,10.33,-0.37
-2020-05-31,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,2.58,0.0,10.7,0.0
-2020-05-30,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,2.58,0.0,10.7,0.0
-2020-05-29,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,2.58,0.0,10.7,-1.47
-2020-05-28,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,2.58,0.37,12.17,-0.37
-2020-05-27,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,489,19,3.89,179.74,6.98,0.18,272057,2.21,0.0,12.54,-0.37
-2020-05-26,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,488,19,3.89,179.37,6.98,0.18,272057,2.21,0.0,12.91,-0.74
-2020-05-25,Nordrhein-Westfalen,Oberbergischer Kreis,1.84,5,0,0.0,488,19,3.89,179.37,6.98,0.18,272057,2.21,1.47,13.65,1.47
-2020-05-24,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,483,19,3.93,177.54,6.98,0.18,272057,0.74,-0.74,12.18,0.0
-2020-05-23,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,483,19,3.93,177.54,6.98,0.18,272057,1.48,0.0,12.18,-0.74
-2020-05-22,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,483,19,3.93,177.54,6.98,0.18,272057,1.48,-0.74,12.92,-2.21
-2020-05-21,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,483,19,3.93,177.54,6.98,0.18,272057,2.22,-0.74,15.13,-0.74
-2020-05-20,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,483,19,3.93,177.54,6.98,0.18,272057,2.96,-0.73,15.87,-0.73
-2020-05-19,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,482,19,3.94,177.17,6.98,0.18,272057,3.69,-0.74,16.6,-0.74
-2020-05-18,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,482,19,3.94,177.17,6.98,0.18,272057,4.43,0.0,17.34,-0.73
-2020-05-17,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,481,19,3.95,176.8,6.98,0.18,272057,4.43,0.0,18.07,0.74
-2020-05-16,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,479,19,3.97,176.07,6.98,0.18,272057,4.43,0.0,17.33,-4.41
-2020-05-15,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,479,19,3.97,176.07,6.98,0.18,272057,4.43,0.74,21.74,-0.36
-2020-05-14,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,477,19,3.98,175.33,6.98,0.18,272057,3.69,0.0,22.1,-1.83
-2020-05-13,Nordrhein-Westfalen,Oberbergischer Kreis,1.1,3,0,0.0,475,19,4.0,174.6,6.98,0.17,272057,3.69,0.0,23.93,-0.37
-2020-05-12,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,472,19,4.03,173.49,6.98,0.17,272057,3.69,0.74,24.3,-2.2
-2020-05-11,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,470,19,4.04,172.76,6.98,0.17,272057,2.95,0.0,26.5,-0.37
-2020-05-10,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,469,19,4.05,172.39,6.98,0.17,272057,2.95,0.74,26.87,-0.73
-2020-05-09,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,467,19,4.07,171.66,6.98,0.17,272057,2.21,0.0,27.6,-1.84
-2020-05-08,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,467,19,4.07,171.66,6.98,0.17,272057,2.21,-1.47,29.44,-0.74
-2020-05-07,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,467,19,4.07,171.66,6.98,0.17,272057,3.68,0.0,30.18,-1.47
-2020-05-06,Nordrhein-Westfalen,Oberbergischer Kreis,1.1,3,0,0.0,465,19,4.09,170.92,6.98,0.17,272057,3.68,0.36,31.65,-0.74
-2020-05-05,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,462,19,4.11,169.82,6.98,0.17,272057,3.32,-0.74,32.39,-2.94
-2020-05-04,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,462,19,4.11,169.82,6.98,0.17,272057,4.06,0.0,35.33,-4.78
-2020-05-03,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,461,19,4.12,169.45,6.98,0.17,272057,4.06,0.0,40.11,-1.47
-2020-05-02,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,461,19,4.12,169.45,6.98,0.17,272057,4.06,-0.74,41.58,-4.41
-2020-05-01,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,461,19,4.12,169.45,6.98,0.17,272057,4.8,-0.74,45.99,0.0
-2020-04-30,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,457,19,4.16,167.98,6.98,0.17,272057,5.54,0.0,45.99,-4.41
-2020-04-29,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,455,19,4.18,167.24,6.98,0.17,272057,5.54,-0.36,50.4,-4.04
-2020-04-28,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,453,19,4.19,166.51,6.98,0.17,272057,5.9,0.0,54.44,-7.35
-2020-04-27,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,451,19,4.21,165.77,6.98,0.17,272057,5.9,-0.73,61.79,-1.1
-2020-04-26,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,450,19,4.22,165.41,6.98,0.17,272057,6.63,0.0,62.89,-4.78
-2020-04-25,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,1,0.37,450,19,4.22,165.41,6.98,0.17,272057,6.63,-3.67,67.67,-4.04
-2020-04-24,Nordrhein-Westfalen,Oberbergischer Kreis,2.21,6,0,0.0,448,18,4.02,164.67,6.62,0.16,272057,10.3,1.11,71.71,-0.73
-2020-04-23,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,442,18,4.07,162.47,6.62,0.16,272057,9.19,-1.83,72.44,-4.77
-2020-04-22,Nordrhein-Westfalen,Oberbergischer Kreis,1.1,3,0,0.0,440,18,4.09,161.73,6.62,0.16,272057,11.02,-0.37,77.21,-2.94
-2020-04-21,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,437,18,4.12,160.63,6.62,0.16,272057,11.39,-2.2,80.15,-5.51
-2020-04-20,Nordrhein-Westfalen,Oberbergischer Kreis,1.1,3,0,0.0,435,18,4.14,159.89,6.62,0.16,272057,13.59,0.36,85.66,-2.21
-2020-04-19,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,432,18,4.17,158.79,6.62,0.16,272057,13.23,-1.47,87.87,-5.15
-2020-04-18,Nordrhein-Westfalen,Oberbergischer Kreis,4.41,12,0,0.0,432,18,4.17,158.79,6.62,0.16,272057,14.7,2.57,93.02,0.0
-2020-04-17,Nordrhein-Westfalen,Oberbergischer Kreis,1.1,3,0,0.0,420,18,4.29,154.38,6.62,0.15,272057,12.13,0.36,93.02,-1.84
-2020-04-16,Nordrhein-Westfalen,Oberbergischer Kreis,2.57,7,0,0.0,417,18,4.32,153.28,6.62,0.15,272057,11.77,0.36,94.86,-2.94
-2020-04-15,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,410,18,4.39,150.7,6.62,0.15,272057,11.41,-0.37,97.8,-6.25
-2020-04-14,Nordrhein-Westfalen,Oberbergischer Kreis,2.94,8,1,0.37,406,18,4.43,149.23,6.62,0.15,272057,11.78,0.0,104.05,-1.84
-2020-04-13,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,398,17,4.27,146.29,6.25,0.15,272057,11.78,-4.41,105.89,-8.08
-2020-04-12,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,396,17,4.29,145.56,6.25,0.15,272057,16.19,0.0,113.97,-2.57
-2020-04-11,Nordrhein-Westfalen,Oberbergischer Kreis,1.84,5,0,0.0,392,17,4.34,144.09,6.25,0.14,272057,16.19,-2.57,116.54,-2.2
-2020-04-10,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,387,17,4.39,142.25,6.25,0.14,272057,18.76,-0.73,118.74,-5.51
-2020-04-09,Nordrhein-Westfalen,Oberbergischer Kreis,2.21,6,1,0.37,385,17,4.42,141.51,6.25,0.14,272057,19.49,-2.94,124.25,-0.73
-2020-04-08,Nordrhein-Westfalen,Oberbergischer Kreis,1.84,5,0,0.0,379,16,4.22,139.31,5.88,0.14,272057,22.43,-2.94,124.98,-1.84
-2020-04-07,Nordrhein-Westfalen,Oberbergischer Kreis,2.94,8,2,0.74,374,16,4.28,137.47,5.88,0.14,272057,25.37,-5.15,126.82,-0.74
-2020-04-06,Nordrhein-Westfalen,Oberbergischer Kreis,5.15,14,1,0.37,366,14,3.83,134.53,5.15,0.13,272057,30.52,3.68,127.56,4.05
-2020-04-05,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,1,0.37,352,13,3.69,129.38,4.78,0.13,272057,26.84,-3.31,123.51,0.37
-2020-04-04,Nordrhein-Westfalen,Oberbergischer Kreis,4.41,12,1,0.37,348,12,3.45,127.91,4.41,0.13,272057,30.15,-0.37,123.14,3.67
-2020-04-03,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,336,11,3.27,123.5,4.04,0.12,272057,30.52,-1.47,119.47,0.73
-2020-04-02,Nordrhein-Westfalen,Oberbergischer Kreis,5.15,14,0,0.0,332,11,3.31,122.03,4.04,0.12,272057,31.99,-0.36,118.74,3.68
-2020-04-01,Nordrhein-Westfalen,Oberbergischer Kreis,4.78,13,0,0.0,318,11,3.46,116.89,4.04,0.12,272057,32.35,0.74,115.06,4.41
-2020-03-31,Nordrhein-Westfalen,Oberbergischer Kreis,8.09,22,2,0.74,305,11,3.61,112.11,4.04,0.11,272057,31.61,1.84,110.65,8.09
-2020-03-30,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,1,0.37,283,9,3.18,104.02,3.31,0.1,272057,29.77,-1.84,102.56,1.47
-2020-03-29,Nordrhein-Westfalen,Oberbergischer Kreis,4.78,13,0,0.0,279,8,2.87,102.55,2.94,0.1,272057,31.61,-0.37,101.09,4.04
-2020-03-28,Nordrhein-Westfalen,Oberbergischer Kreis,4.78,13,0,0.0,266,8,3.01,97.77,2.94,0.1,272057,31.98,0.37,97.05,4.78
-2020-03-27,Nordrhein-Westfalen,Oberbergischer Kreis,2.94,8,0,0.0,253,8,3.16,93.0,2.94,0.09,272057,31.61,0.0,92.27,2.94
-2020-03-26,Nordrhein-Westfalen,Oberbergischer Kreis,5.51,15,0,0.0,245,8,3.27,90.05,2.94,0.09,272057,31.61,0.0,89.33,5.51
-2020-03-25,Nordrhein-Westfalen,Oberbergischer Kreis,4.04,11,1,0.37,230,8,3.48,84.54,2.94,0.08,272057,31.61,-3.68,83.82,4.04
-2020-03-24,Nordrhein-Westfalen,Oberbergischer Kreis,6.25,17,0,0.0,219,7,3.2,80.5,2.57,0.08,272057,35.29,1.47,79.78,6.25
-2020-03-23,Nordrhein-Westfalen,Oberbergischer Kreis,3.31,9,1,0.37,202,7,3.47,74.25,2.57,0.07,272057,33.82,-5.51,73.53,2.94
-2020-03-22,Nordrhein-Westfalen,Oberbergischer Kreis,5.15,14,1,0.37,193,6,3.11,70.94,2.21,0.07,272057,39.33,1.11,70.59,5.15
-2020-03-21,Nordrhein-Westfalen,Oberbergischer Kreis,4.41,12,1,0.37,179,5,2.79,65.8,1.84,0.07,272057,38.22,0.37,65.44,4.41
-2020-03-20,Nordrhein-Westfalen,Oberbergischer Kreis,2.94,8,0,0.0,167,4,2.4,61.38,1.47,0.06,272057,37.85,-3.31,61.03,2.94
-2020-03-19,Nordrhein-Westfalen,Oberbergischer Kreis,5.51,15,1,0.37,159,4,2.52,58.44,1.47,0.06,272057,41.16,2.57,58.09,5.51
-2020-03-18,Nordrhein-Westfalen,Oberbergischer Kreis,7.72,21,1,0.37,144,3,2.08,52.93,1.1,0.05,272057,38.59,4.04,52.58,7.72
-2020-03-17,Nordrhein-Westfalen,Oberbergischer Kreis,4.78,13,0,0.0,123,2,1.63,45.21,0.74,0.05,272057,34.55,1.1,44.86,4.78
-2020-03-16,Nordrhein-Westfalen,Oberbergischer Kreis,8.82,24,2,0.74,110,2,1.82,40.43,0.74,0.04,272057,33.45,7.72,40.08,8.82
-2020-03-15,Nordrhein-Westfalen,Oberbergischer Kreis,4.04,11,0,0.0,86,0,0.0,31.61,0.0,0.03,272057,25.73,2.94,31.26,4.04
-2020-03-14,Nordrhein-Westfalen,Oberbergischer Kreis,4.04,11,0,0.0,75,0,0.0,27.57,0.0,0.03,272057,22.79,3.3,27.22,4.04
-2020-03-13,Nordrhein-Westfalen,Oberbergischer Kreis,6.25,17,0,0.0,64,0,0.0,23.52,0.0,0.02,272057,19.49,5.51,23.18,6.25
-2020-03-12,Nordrhein-Westfalen,Oberbergischer Kreis,2.94,8,0,0.0,47,0,0.0,17.28,0.0,0.02,272057,13.98,1.47,16.93,2.94
-2020-03-11,Nordrhein-Westfalen,Oberbergischer Kreis,3.68,10,0,0.0,39,0,0.0,14.34,0.0,0.01,272057,12.51,3.31,13.99,3.68
-2020-03-10,Nordrhein-Westfalen,Oberbergischer Kreis,3.68,10,0,0.0,29,0,0.0,10.66,0.0,0.01,272057,9.2,3.68,10.31,3.68
-2020-03-09,Nordrhein-Westfalen,Oberbergischer Kreis,1.1,3,0,0.0,19,0,0.0,6.98,0.0,0.01,272057,5.52,1.1,6.63,1.1
-2020-03-08,Nordrhein-Westfalen,Oberbergischer Kreis,1.1,3,0,0.0,16,0,0.0,5.88,0.0,0.01,272057,4.42,0.36,5.53,1.1
-2020-03-07,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,13,0,0.0,4.78,0.0,0.0,272057,4.06,0.74,4.43,0.74
-2020-03-06,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,11,0,0.0,4.04,0.0,0.0,272057,3.32,0.74,3.69,0.74
-2020-03-05,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,9,0,0.0,3.31,0.0,0.0,272057,2.58,1.47,2.95,1.47
-2020-03-04,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,5,0,0.0,1.84,0.0,0.0,272057,1.11,0.37,1.48,0.37
-2020-03-03,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,4,0,0.0,1.47,0.0,0.0,272057,0.74,0.0,1.11,0.0
-2020-03-02,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,4,0,0.0,1.47,0.0,0.0,272057,0.74,-0.37,1.11,0.0
-2020-03-01,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,4,0,0.0,1.47,0.0,0.0,272057,1.11,0.74,1.11,0.74
-2020-02-29,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,2,0,0.0,0.74,0.0,0.0,272057,0.37,0.0,0.37,0.0
-2020-02-28,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,2,0,0.0,0.74,0.0,0.0,272057,0.37,0.0,0.37,-0.37
-2020-02-27,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,2,0,0.0,0.74,0.0,0.0,272057,0.37,0.0,0.74,0.0
-2020-02-26,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,2,0,0.0,0.74,0.0,0.0,272057,0.37,0.0,0.74,0.0
-2020-02-25,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,2,0,0.0,0.74,0.0,0.0,272057,0.37,0.0,0.74,0.0
-2020-02-24,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,2,0,0.0,0.74,0.0,0.0,272057,0.37,0.37,0.74,0.37
-2020-02-23,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,0.0,0.37,0.0
-2020-02-22,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,0.0,0.37,0.0
-2020-02-21,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,0.0,0.37,0.0
-2020-02-20,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,0.0,0.37,0.0
-2020-02-19,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,0.0,0.37,0.0
-2020-02-18,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,0.0,0.37,0.0
-2020-02-17,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,0.0,0.37,0.0
-2020-02-16,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,0.0,0.37,0.0
-2020-02-15,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,0.0,0.37,0.0
-2020-02-14,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,0.0,0.37,0.0
-2020-02-13,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,0.0,0.37,0.0
-2020-02-12,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,0.0,0.37,0.0
-2020-02-11,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,0.0,0.37,0.0
-2020-02-10,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,0.0,0.37,0.0
-2020-02-09,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,0.0,0.37,0.0
-2020-02-08,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,0.0,0.37,0.0
-2020-02-07,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,-0.37,0.37,0.0
-2020-02-06,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.37,0.0,0.37,0.0
-2020-02-05,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.37,0.0,0.37,0.0
-2020-02-04,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.37,0.0,0.37,0.0
-2020-02-03,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.37,0.0,0.37,0.0
-2020-02-02,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.37,0.0,0.37,0.0
-2020-02-01,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.37,0.0,0.37,0.0
-2020-01-31,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.37,0.37,0.37,0.37
+2021-01-14 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,35.29,96,0,0.0,6847,114,1.66,2516.75,41.9,2.52,272057,177.18,-8.08,707.22,-10.29
+2021-01-13 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,24.63,67,0,0.0,6751,114,1.69,2481.47,41.9,2.48,272057,185.26,-20.95,717.51,-5.51
+2021-01-12 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,24.26,66,0,0.0,6684,114,1.71,2456.84,41.9,2.46,272057,206.21,-21.69,723.02,1.84
+2021-01-11 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,13.23,36,0,0.0,6618,114,1.72,2432.58,41.9,2.43,272057,227.9,-8.46,721.18,-11.4
+2021-01-10 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,10.66,29,0,0.0,6582,114,1.73,2419.35,41.9,2.42,272057,236.36,-23.52,732.58,2.57
+2021-01-09 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,27.94,76,0,0.0,6553,114,1.74,2408.69,41.9,2.41,272057,259.88,26.1,730.01,-4.04
+2021-01-08 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,41.17,112,0,0.0,6477,114,1.76,2380.75,41.9,2.38,272057,233.78,35.66,734.05,5.88
+2021-01-07 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,43.37,118,0,0.0,6365,114,1.79,2339.58,41.9,2.34,272057,198.12,39.69,728.17,5.88
+2021-01-06 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,45.58,124,0,0.0,6247,114,1.82,2296.21,41.9,2.3,272057,158.43,-1.47,722.29,8.46
+2021-01-05 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,45.95,125,0,0.0,6123,114,1.86,2250.63,41.9,2.25,272057,159.9,13.24,713.83,13.97
+2021-01-04 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,21.69,59,2,0.74,5998,114,1.9,2204.69,41.9,2.2,272057,146.66,5.88,699.86,-15.43
+2021-01-03 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,34.18,93,1,0.37,5939,112,1.89,2183.0,41.17,2.18,272057,140.78,-25.37,715.29,27.2
+2021-01-02 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.84,5,1,0.37,5846,111,1.9,2148.81,40.8,2.15,272057,166.15,-1.47,688.09,-27.2
+2021-01-01 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,5.51,15,0,0.0,5841,110,1.88,2146.98,40.43,2.15,272057,167.62,2.57,715.29,-24.63
+2020-12-31 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,3.68,10,0,0.0,5826,110,1.89,2141.46,40.43,2.14,272057,165.05,1.11,739.92,-23.15
+2020-12-30 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,47.05,128,2,0.74,5816,110,1.89,2137.79,40.43,2.14,272057,163.94,7.72,763.07,7.72
+2020-12-29 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,32.71,89,6,2.21,5688,108,1.9,2090.74,39.7,2.09,272057,156.22,4.41,755.35,-0.37
+2020-12-28 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,15.81,43,0,0.0,5599,102,1.82,2058.02,37.49,2.06,272057,151.81,-31.61,755.72,-1.47
+2020-12-27 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,59.55,162,0,0.0,5556,102,1.84,2042.22,37.49,2.04,272057,183.42,55.14,757.19,54.4
+2020-12-26 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,3.31,9,0,0.0,5394,102,1.89,1982.67,37.49,1.98,272057,128.28,-8.45,702.79,-19.85
+2020-12-25 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,2.94,8,1,0.37,5385,102,1.89,1979.36,37.49,1.98,272057,136.73,-30.14,722.64,-22.42
+2020-12-24 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,2.57,7,0,0.0,5377,101,1.88,1976.42,37.12,1.98,272057,166.87,-43.01,745.06,-29.41
+2020-12-23 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,39.33,107,2,0.74,5370,101,1.88,1973.85,37.12,1.97,272057,209.88,9.19,774.47,10.66
+2020-12-22 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,28.3,77,2,0.74,5263,99,1.88,1934.52,36.39,1.93,272057,200.69,5.88,763.81,-2.94
+2020-12-21 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,47.42,129,0,0.0,5186,97,1.87,1906.22,35.65,1.91,272057,194.81,22.79,766.75,27.57
+2020-12-20 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,4.41,12,0,0.0,5057,97,1.92,1858.8,35.65,1.86,272057,172.02,-3.68,739.18,1.1
+2020-12-19 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,11.76,32,2,0.74,5045,97,1.92,1854.39,35.65,1.85,272057,175.7,-20.22,738.08,-6.25
+2020-12-18 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,33.08,90,1,0.37,5013,95,1.9,1842.63,34.92,1.84,272057,195.92,-2.21,744.33,7.72
+2020-12-17 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,45.58,124,3,1.1,4923,94,1.91,1809.55,34.55,1.81,272057,198.13,8.09,736.61,19.85
+2020-12-16 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,30.14,82,1,0.37,4799,91,1.9,1763.97,33.45,1.76,272057,190.04,-6.98,716.76,-5.51
+2020-12-15 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,22.42,61,0,0.0,4717,90,1.91,1733.83,33.08,1.73,272057,197.02,-9.56,722.27,1.84
+2020-12-14 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,24.63,67,1,0.37,4656,90,1.93,1711.41,33.08,1.71,272057,206.58,-12.49,720.43,5.88
+2020-12-13 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,8.09,22,1,0.37,4589,89,1.94,1686.78,32.71,1.69,272057,219.07,1.11,714.55,1.84
+2020-12-12 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,31.98,87,0,0.0,4567,88,1.93,1678.69,32.35,1.68,272057,217.96,2.94,712.71,12.5
+2020-12-11 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,35.29,96,1,0.37,4480,88,1.96,1646.71,32.35,1.65,272057,215.02,5.15,700.21,7.35
+2020-12-10 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,37.49,102,1,0.37,4384,87,1.98,1611.43,31.98,1.61,272057,209.87,10.66,692.86,10.66
+2020-12-09 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,37.12,101,4,1.47,4282,86,2.01,1573.93,31.61,1.57,272057,199.21,-2.21,682.2,13.6
+2020-12-08 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,31.98,87,3,1.1,4181,82,1.96,1536.81,30.14,1.54,272057,201.42,-1.1,668.6,7.35
+2020-12-07 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,37.12,101,3,1.1,4094,79,1.93,1504.83,29.04,1.5,272057,202.52,19.84,661.25,18.37
+2020-12-06 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,6.98,19,0,0.0,3993,76,1.9,1467.71,27.94,1.47,272057,182.68,1.83,642.88,2.94
+2020-12-05 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,29.04,79,0,0.0,3974,76,1.91,1460.72,27.94,1.46,272057,180.85,5.88,639.94,6.25
+2020-12-04 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,30.14,82,5,1.84,3895,76,1.95,1431.69,27.94,1.43,272057,174.97,4.78,633.69,12.5
+2020-12-03 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,26.83,73,0,0.0,3813,71,1.86,1401.54,26.1,1.4,272057,170.19,-5.15,621.19,5.88
+2020-12-02 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,39.33,107,3,1.1,3740,71,1.9,1374.71,26.1,1.37,272057,175.34,10.66,615.31,18.38
+2020-12-01 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,33.08,90,0,0.0,3633,68,1.87,1335.38,24.99,1.34,272057,164.68,1.84,596.93,10.66
+2020-11-30 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,17.28,47,2,0.74,3543,68,1.92,1302.3,24.99,1.3,272057,162.84,-2.57,586.27,-7.35
+2020-11-29 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,5.15,14,1,0.37,3496,66,1.89,1285.02,24.26,1.29,272057,165.41,1.84,593.62,-4.77
+2020-11-28 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,23.16,63,0,0.0,3482,65,1.87,1279.88,23.89,1.28,272057,163.57,5.15,598.39,6.99
+2020-11-27 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,25.36,69,0,0.0,3419,65,1.9,1256.72,23.89,1.26,272057,158.42,0.0,591.4,2.94
+2020-11-26 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,31.98,87,3,1.1,3350,65,1.94,1231.36,23.89,1.23,272057,158.42,6.25,588.46,12.13
+2020-11-25 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,28.67,78,3,1.1,3263,62,1.9,1199.38,22.79,1.2,272057,152.17,-6.98,576.33,3.68
+2020-11-24 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,31.24,85,4,1.47,3185,59,1.85,1170.71,21.69,1.17,272057,159.15,10.66,572.65,8.82
+2020-11-23 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,19.85,54,0,0.0,3100,55,1.77,1139.47,20.22,1.14,272057,148.49,1.1,563.83,1.84
+2020-11-22 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,3.31,9,0,0.0,3046,55,1.81,1119.62,20.22,1.12,272057,147.39,-2.94,561.99,-10.29
+2020-11-21 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,18.01,49,1,0.37,3037,55,1.81,1116.31,20.22,1.12,272057,150.33,-1.47,572.28,0.73
+2020-11-20 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,25.36,69,1,0.37,2988,54,1.81,1098.3,19.85,1.1,272057,151.8,-2.58,571.55,8.45
+2020-11-19 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,25.73,70,2,0.74,2919,53,1.82,1072.94,19.48,1.07,272057,154.38,-1.1,563.1,8.82
+2020-11-18 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,35.65,97,0,0.0,2849,51,1.79,1047.21,18.75,1.05,272057,155.48,12.13,554.28,19.11
+2020-11-17 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,20.58,56,2,0.74,2752,51,1.85,1011.55,18.75,1.01,272057,143.35,-4.05,535.17,8.82
+2020-11-16 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,18.75,51,0,0.0,2696,49,1.82,990.97,18.01,0.99,272057,147.4,0.0,526.35,5.52
+2020-11-15 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,6.25,17,1,0.37,2645,49,1.85,972.22,18.01,0.97,272057,147.4,2.21,520.83,-1.84
+2020-11-14 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,19.48,53,0,0.0,2628,48,1.83,965.97,17.64,0.97,272057,145.19,-3.31,522.67,8.09
+2020-11-13 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,27.94,76,1,0.37,2575,48,1.86,946.49,17.64,0.95,272057,148.5,10.3,514.58,16.55
+2020-11-12 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,26.83,73,4,1.47,2499,47,1.88,918.56,17.28,0.92,272057,138.2,5.88,498.03,18.01
+2020-11-11 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,23.52,64,1,0.37,2426,43,1.77,891.72,15.81,0.89,272057,132.32,2.57,480.02,15.43
+2020-11-10 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,24.63,67,1,0.37,2362,42,1.78,868.2,15.44,0.87,272057,129.75,2.21,464.59,16.54
+2020-11-09 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,18.75,51,2,0.74,2295,41,1.79,843.57,15.07,0.84,272057,127.54,-5.88,448.05,12.5
+2020-11-08 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,4.04,11,0,0.0,2244,39,1.74,824.83,14.34,0.82,272057,133.42,-5.88,435.55,-0.37
+2020-11-07 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,22.79,62,0,0.0,2233,39,1.75,820.78,14.34,0.82,272057,139.3,6.62,435.92,16.91
+2020-11-06 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,17.64,48,0,0.0,2171,39,1.8,797.99,14.34,0.8,272057,132.68,-4.78,419.01,12.49
+2020-11-05 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,20.95,57,3,1.1,2123,39,1.84,780.35,14.34,0.78,272057,137.46,1.1,406.52,15.44
+2020-11-04 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,20.95,57,0,0.0,2066,36,1.74,759.4,13.23,0.76,272057,136.36,-4.04,391.08,15.07
+2020-11-03 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,22.42,61,1,0.37,2009,36,1.79,738.45,13.23,0.74,272057,140.4,0.0,376.01,17.27
+2020-11-02 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,24.63,67,2,0.74,1948,35,1.8,716.03,12.86,0.72,272057,140.4,6.62,358.74,17.28
+2020-11-01 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,9.92,27,3,1.1,1881,33,1.75,691.4,12.13,0.69,272057,133.78,-3.68,341.46,7.71
+2020-10-31 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,16.17,44,0,0.0,1854,30,1.62,681.47,11.03,0.68,272057,137.46,-1.11,333.75,14.33
+2020-10-30 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,22.42,61,0,0.0,1810,30,1.66,665.3,11.03,0.67,272057,138.57,5.51,319.42,19.48
+2020-10-29 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,19.85,54,0,0.0,1749,30,1.72,642.88,11.03,0.64,272057,133.06,2.94,299.94,18.38
+2020-10-28 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,24.99,68,1,0.37,1695,30,1.77,623.03,11.03,0.62,272057,130.12,8.45,281.56,21.31
+2020-10-27 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,22.42,61,2,0.74,1627,29,1.78,598.04,10.66,0.6,272057,121.67,10.66,260.25,16.17
+2020-10-26 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,18.01,49,1,0.37,1566,27,1.72,575.61,9.92,0.58,272057,111.01,4.78,244.08,11.76
+2020-10-25 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,13.6,37,1,0.37,1517,26,1.71,557.6,9.56,0.56,272057,106.23,5.51,232.32,12.13
+2020-10-24 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,17.28,47,0,0.0,1480,25,1.69,544.0,9.19,0.54,272057,100.72,5.89,220.19,8.09
+2020-10-23 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,16.91,46,0,0.0,1433,25,1.74,526.73,9.19,0.53,272057,94.83,5.52,212.1,11.4
+2020-10-22 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,16.91,46,0,0.0,1387,25,1.8,509.82,9.19,0.51,272057,89.31,8.09,200.7,11.03
+2020-10-21 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,16.54,45,0,0.0,1341,25,1.86,492.91,9.19,0.49,272057,81.22,8.45,189.67,11.39
+2020-10-20 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,11.76,32,1,0.37,1296,25,1.93,476.37,9.19,0.48,272057,72.77,3.67,178.28,7.35
+2020-10-19 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,13.23,36,0,0.0,1264,24,1.9,464.61,8.82,0.46,272057,69.1,6.98,170.93,7.72
+2020-10-18 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,8.09,22,1,0.37,1228,24,1.95,451.38,8.82,0.45,272057,62.12,3.68,163.21,6.25
+2020-10-17 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,11.39,31,1,0.37,1206,23,1.91,443.29,8.45,0.44,272057,58.44,5.51,156.96,6.24
+2020-10-16 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,11.39,31,0,0.0,1175,22,1.87,431.89,8.09,0.43,272057,52.93,6.24,150.72,6.61
+2020-10-15 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,8.82,24,2,0.74,1144,22,1.92,420.5,8.09,0.42,272057,46.69,3.31,144.11,5.51
+2020-10-14 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,8.09,22,0,0.0,1120,20,1.79,411.68,7.35,0.41,272057,43.38,2.21,138.6,3.31
+2020-10-13 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,8.09,22,0,0.0,1098,20,1.82,403.59,7.35,0.4,272057,41.17,2.94,135.29,5.52
+2020-10-12 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,6.25,17,0,0.0,1076,20,1.86,395.51,7.35,0.4,272057,38.23,-1.1,129.77,-0.37
+2020-10-11 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,4.41,12,0,0.0,1059,20,1.89,389.26,7.35,0.39,272057,39.33,2.2,130.14,1.84
+2020-10-10 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,5.88,16,0,0.0,1047,20,1.91,384.85,7.35,0.38,272057,37.13,4.04,128.3,2.2
+2020-10-09 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,5.15,14,0,0.0,1031,20,1.94,378.96,7.35,0.38,272057,33.09,2.21,126.1,0.0
+2020-10-08 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,5.51,15,0,0.0,1017,20,1.97,373.82,7.35,0.37,272057,30.88,4.04,126.1,2.94
+2020-10-07 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,5.88,16,0,0.0,1002,20,2.0,368.31,7.35,0.37,272057,26.84,2.2,123.16,2.94
+2020-10-06 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,5.15,14,0,0.0,986,20,2.03,362.42,7.35,0.36,272057,24.64,-1.1,120.22,1.84
+2020-10-05 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,7.35,20,0,0.0,972,20,2.06,357.28,7.35,0.36,272057,25.74,1.1,118.38,5.88
+2020-10-04 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,2.21,6,0,0.0,952,20,2.1,349.93,7.35,0.35,272057,24.64,0.74,112.5,2.21
+2020-10-03 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.84,5,0,0.0,946,20,2.11,347.72,7.35,0.35,272057,23.9,-7.35,110.29,0.74
+2020-10-02 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,2.94,8,0,0.0,941,20,2.13,345.88,7.35,0.35,272057,31.25,-2.57,109.55,2.57
+2020-10-01 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,933,20,2.14,342.94,7.35,0.34,272057,33.82,-4.41,106.98,-0.74
+2020-09-30 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,3.68,10,0,0.0,929,20,2.15,341.47,7.35,0.34,272057,38.23,-1.47,107.72,2.94
+2020-09-29 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,6.25,17,0,0.0,919,20,2.18,337.8,7.35,0.34,272057,39.7,1.84,104.78,4.78
+2020-09-28 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,6.25,17,0,0.0,902,20,2.22,331.55,7.35,0.33,272057,37.86,0.74,100.0,4.78
+2020-09-27 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,885,20,2.26,325.3,7.35,0.33,272057,37.12,-0.37,95.22,0.0
+2020-09-26 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,9.19,25,0,0.0,881,20,2.27,323.83,7.35,0.32,272057,37.49,4.04,95.22,8.82
+2020-09-25 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,5.51,15,0,0.0,856,20,2.34,314.64,7.35,0.31,272057,33.45,0.73,86.4,4.41
+2020-09-24 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,5.88,16,0,0.0,841,20,2.38,309.13,7.35,0.31,272057,32.72,2.57,81.99,4.78
+2020-09-23 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,5.15,14,0,0.0,825,20,2.42,303.25,7.35,0.3,272057,30.15,0.37,77.21,4.41
+2020-09-22 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,4.41,12,0,0.0,811,20,2.47,298.1,7.35,0.3,272057,29.78,1.84,72.8,2.94
+2020-09-21 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,5.51,15,0,0.0,799,20,2.5,293.69,7.35,0.29,272057,27.94,-1.11,69.86,5.14
+2020-09-20 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.84,5,0,0.0,784,20,2.55,288.17,7.35,0.29,272057,29.05,-0.73,64.72,0.37
+2020-09-19 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,5.15,14,0,0.0,779,20,2.57,286.34,7.35,0.29,272057,29.78,1.47,64.35,5.15
+2020-09-18 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,4.78,13,0,0.0,765,20,2.61,281.19,7.35,0.28,272057,28.31,-0.37,59.2,2.94
+2020-09-17 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,3.31,9,0,0.0,752,20,2.66,276.41,7.35,0.28,272057,28.68,0.74,56.26,1.47
+2020-09-16 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,4.78,13,0,0.0,743,20,2.69,273.1,7.35,0.27,272057,27.94,1.84,54.79,2.94
+2020-09-15 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,2.57,7,0,0.0,730,20,2.74,268.33,7.35,0.27,272057,26.1,-0.74,51.85,2.2
+2020-09-14 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,6.62,18,0,0.0,723,20,2.77,265.75,7.35,0.27,272057,26.84,5.15,49.65,3.31
+2020-09-13 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,2.57,7,0,0.0,705,20,2.84,259.14,7.35,0.26,272057,21.69,2.57,46.34,1.47
+2020-09-12 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,3.68,10,0,0.0,698,20,2.87,256.56,7.35,0.26,272057,19.12,2.58,44.87,2.21
+2020-09-11 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,5.15,14,0,0.0,688,20,2.91,252.89,7.35,0.25,272057,16.54,4.78,42.66,3.68
+2020-09-10 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,2.57,7,0,0.0,674,20,2.97,247.74,7.35,0.25,272057,11.76,0.36,38.98,0.73
+2020-09-09 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,2.94,8,0,0.0,667,20,3.0,245.17,7.35,0.25,272057,11.4,2.2,38.25,1.84
+2020-09-08 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,3.31,9,0,0.0,659,20,3.03,242.23,7.35,0.24,272057,9.2,1.84,36.41,0.0
+2020-09-07 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,650,20,3.08,238.92,7.35,0.24,272057,7.36,0.0,36.41,1.1
+2020-09-06 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,646,20,3.1,237.45,7.35,0.24,272057,7.36,-1.47,35.31,0.0
+2020-09-05 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.1,3,0,0.0,646,20,3.1,237.45,7.35,0.24,272057,8.83,0.73,35.31,-0.37
+2020-09-04 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,643,20,3.11,236.35,7.35,0.24,272057,8.1,-0.73,35.68,0.0
+2020-09-03 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,2.21,6,0,0.0,642,20,3.12,235.98,7.35,0.24,272057,8.83,1.11,35.68,0.74
+2020-09-02 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,636,20,3.14,233.77,7.35,0.23,272057,7.72,0.0,34.94,0.0
+2020-09-01 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,634,20,3.15,233.04,7.35,0.23,272057,7.72,0.0,34.94,1.1
+2020-08-31 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,630,20,3.17,231.57,7.35,0.23,272057,7.72,1.1,33.84,-1.47
+2020-08-30 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,1,0.37,626,20,3.19,230.1,7.35,0.23,272057,6.62,0.0,35.31,1.1
+2020-08-29 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,622,19,3.05,228.63,6.98,0.23,272057,6.62,0.37,34.21,0.0
+2020-08-28 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.1,3,0,0.0,621,19,3.06,228.26,6.98,0.23,272057,6.25,-0.74,34.21,0.0
+2020-08-27 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.1,3,0,0.0,618,19,3.07,227.16,6.98,0.23,272057,6.99,-0.74,34.21,0.36
+2020-08-26 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,615,19,3.09,226.06,6.98,0.23,272057,7.73,-1.1,33.85,0.37
+2020-08-25 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,613,19,3.1,225.32,6.98,0.23,272057,8.83,1.1,33.48,1.1
+2020-08-24 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,609,19,3.12,223.85,6.98,0.22,272057,7.73,-2.94,32.38,0.37
+2020-08-23 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,608,19,3.12,223.48,6.98,0.22,272057,10.67,0.37,32.01,0.73
+2020-08-22 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,604,19,3.15,222.01,6.98,0.22,272057,10.3,-1.47,31.28,-0.74
+2020-08-21 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.84,5,0,0.0,604,19,3.15,222.01,6.98,0.22,272057,11.77,0.37,32.02,0.74
+2020-08-20 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.84,5,0,0.0,599,19,3.17,220.17,6.98,0.22,272057,11.4,0.0,31.28,0.74
+2020-08-19 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.84,5,0,0.0,594,19,3.2,218.34,6.98,0.22,272057,11.4,0.74,30.54,1.47
+2020-08-18 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,589,19,3.23,216.5,6.98,0.22,272057,10.66,-2.94,29.07,0.37
+2020-08-17 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,3.31,9,0,0.0,588,19,3.23,216.13,6.98,0.22,272057,13.6,2.94,28.7,2.21
+2020-08-16 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.1,3,0,0.0,579,19,3.28,212.82,6.98,0.21,272057,10.66,1.1,26.49,1.1
+2020-08-15 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,576,19,3.3,211.72,6.98,0.21,272057,9.56,0.0,25.39,1.1
+2020-08-14 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,572,19,3.32,210.25,6.98,0.21,272057,9.56,1.1,24.29,1.47
+2020-08-13 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.84,5,0,0.0,568,19,3.35,208.78,6.98,0.21,272057,8.46,0.37,22.82,1.84
+2020-08-12 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.1,3,0,0.0,563,19,3.37,206.94,6.98,0.21,272057,8.09,0.36,20.98,0.73
+2020-08-11 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,3.31,9,0,0.0,560,19,3.39,205.84,6.98,0.21,272057,7.73,2.94,20.25,3.31
+2020-08-10 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,551,19,3.45,202.53,6.98,0.2,272057,4.79,-2.57,16.94,0.37
+2020-08-09 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,550,19,3.45,202.16,6.98,0.2,272057,7.36,-0.37,16.57,0.0
+2020-08-08 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,550,19,3.45,202.16,6.98,0.2,272057,7.73,1.1,16.57,1.47
+2020-08-07 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,546,19,3.48,200.69,6.98,0.2,272057,6.63,-0.73,15.1,0.0
+2020-08-06 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,545,19,3.49,200.33,6.98,0.2,272057,7.36,0.73,15.1,1.1
+2020-08-05 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,541,19,3.51,198.86,6.98,0.2,272057,6.63,0.37,14.0,0.74
+2020-08-04 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,539,19,3.53,198.12,6.98,0.2,272057,6.26,0.0,13.26,-0.37
+2020-08-03 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,2.94,8,0,0.0,538,19,3.53,197.75,6.98,0.2,272057,6.26,2.94,13.63,2.94
+2020-08-02 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,530,19,3.58,194.81,6.98,0.19,272057,3.32,-0.37,10.69,0.37
+2020-08-01 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,529,19,3.59,194.44,6.98,0.19,272057,3.69,-0.37,10.32,0.37
+2020-07-31 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.1,3,0,0.0,528,19,3.6,194.08,6.98,0.19,272057,4.06,0.0,9.95,1.1
+2020-07-30 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,525,19,3.62,192.97,6.98,0.19,272057,4.06,-0.36,8.85,0.74
+2020-07-29 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,523,19,3.63,192.24,6.98,0.19,272057,4.42,0.0,8.11,0.37
+2020-07-28 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,522,19,3.64,191.87,6.98,0.19,272057,4.42,0.37,7.74,0.37
+2020-07-27 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,521,19,3.65,191.5,6.98,0.19,272057,4.05,-1.1,7.37,-0.74
+2020-07-26 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,521,19,3.65,191.5,6.98,0.19,272057,5.15,0.74,8.11,0.0
+2020-07-25 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,519,19,3.66,190.77,6.98,0.19,272057,4.41,0.37,8.11,0.0
+2020-07-24 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.1,3,0,0.0,517,19,3.68,190.03,6.98,0.19,272057,4.04,1.1,8.11,0.73
+2020-07-23 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.1,3,0,0.0,514,19,3.7,188.93,6.98,0.19,272057,2.94,1.1,7.38,1.1
+2020-07-22 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,511,19,3.72,187.83,6.98,0.19,272057,1.84,0.0,6.28,0.37
+2020-07-21 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,510,19,3.73,187.46,6.98,0.19,272057,1.84,0.0,5.91,0.0
+2020-07-20 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.1,3,0,0.0,510,19,3.73,187.46,6.98,0.19,272057,1.84,1.1,5.91,1.1
+2020-07-19 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,507,19,3.75,186.36,6.98,0.19,272057,0.74,0.0,4.81,0.0
+2020-07-18 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,507,19,3.75,186.36,6.98,0.19,272057,0.74,0.37,4.81,0.0
+2020-07-17 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,506,19,3.75,185.99,6.98,0.19,272057,0.37,-0.37,4.81,-0.74
+2020-07-16 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,506,19,3.75,185.99,6.98,0.19,272057,0.74,-0.37,5.55,0.0
+2020-07-15 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,506,19,3.75,185.99,6.98,0.19,272057,1.11,0.37,5.55,0.37
+2020-07-14 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,505,19,3.76,185.62,6.98,0.19,272057,0.74,-0.74,5.18,-0.37
+2020-07-13 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,505,19,3.76,185.62,6.98,0.19,272057,1.48,0.0,5.55,0.0
+2020-07-12 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,505,19,3.76,185.62,6.98,0.19,272057,1.48,0.0,5.55,0.0
+2020-07-11 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,505,19,3.76,185.62,6.98,0.19,272057,1.48,0.0,5.55,0.0
+2020-07-10 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,505,19,3.76,185.62,6.98,0.19,272057,1.48,0.37,5.55,0.37
+2020-07-09 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,504,19,3.77,185.26,6.98,0.19,272057,1.11,0.37,5.18,0.37
+2020-07-08 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,503,19,3.78,184.89,6.98,0.18,272057,0.74,0.0,4.81,0.0
+2020-07-07 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,503,19,3.78,184.89,6.98,0.18,272057,0.74,0.74,4.81,0.74
+2020-07-06 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,501,19,3.79,184.15,6.98,0.18,272057,-0.0,-0.74,4.07,0.0
+2020-07-05 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,501,19,3.79,184.15,6.98,0.18,272057,0.74,-0.74,4.07,0.0
+2020-07-04 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,501,19,3.79,184.15,6.98,0.18,272057,1.48,-0.74,4.07,0.0
+2020-07-03 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,501,19,3.79,184.15,6.98,0.18,272057,2.22,-0.37,4.07,0.0
+2020-07-02 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,501,19,3.79,184.15,6.98,0.18,272057,2.59,0.0,4.07,0.0
+2020-07-01 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,501,19,3.79,184.15,6.98,0.18,272057,2.59,0.0,4.07,0.0
+2020-06-30 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,501,19,3.79,184.15,6.98,0.18,272057,2.59,0.0,4.07,0.0
+2020-06-29 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,501,19,3.79,184.15,6.98,0.18,272057,2.59,0.74,4.07,0.74
+2020-06-28 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,499,19,3.81,183.42,6.98,0.18,272057,1.85,0.74,3.33,0.74
+2020-06-27 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,497,19,3.82,182.68,6.98,0.18,272057,1.11,0.37,2.59,0.74
+2020-06-26 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,495,19,3.84,181.95,6.98,0.18,272057,0.74,-0.37,1.85,0.37
+2020-06-25 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,494,19,3.85,181.58,6.98,0.18,272057,1.11,0.0,1.48,-0.37
+2020-06-24 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,494,19,3.85,181.58,6.98,0.18,272057,1.11,0.0,1.85,-0.37
+2020-06-23 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,494,19,3.85,181.58,6.98,0.18,272057,1.11,-0.37,2.22,0.0
+2020-06-22 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,494,19,3.85,181.58,6.98,0.18,272057,1.48,0.0,2.22,-1.84
+2020-06-21 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,494,19,3.85,181.58,6.98,0.18,272057,1.48,0.0,4.06,0.0
+2020-06-20 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,494,19,3.85,181.58,6.98,0.18,272057,1.48,0.37,4.06,0.37
+2020-06-19 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,493,19,3.85,181.21,6.98,0.18,272057,1.11,0.74,3.69,0.74
+2020-06-18 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,491,19,3.87,180.48,6.98,0.18,272057,0.37,0.0,2.95,0.0
+2020-06-17 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,491,19,3.87,180.48,6.98,0.18,272057,0.37,0.0,2.95,-0.37
+2020-06-16 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,491,19,3.87,180.48,6.98,0.18,272057,0.37,0.37,3.32,0.37
+2020-06-15 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,-0.0,0.0,2.95,-0.37
+2020-06-14 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,-0.0,0.0,3.32,-0.74
+2020-06-13 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,-0.0,0.0,4.06,0.0
+2020-06-12 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,-0.0,0.0,4.06,-0.74
+2020-06-11 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,-0.0,0.0,4.8,-0.74
+2020-06-10 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,-0.0,0.0,5.54,-1.1
+2020-06-09 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,-0.0,0.0,6.64,-0.74
+2020-06-08 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,-0.0,0.0,7.38,-0.37
+2020-06-07 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,-0.0,0.0,7.75,-0.74
+2020-06-06 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,-0.0,0.0,8.49,0.0
+2020-06-05 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,-0.0,0.0,8.49,0.0
+2020-06-04 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,-0.0,-0.37,8.49,-0.74
+2020-06-03 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,0.37,-0.37,9.23,-1.1
+2020-06-02 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,0.74,0.0,10.33,0.0
+2020-06-01 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,0.74,-1.84,10.33,-0.37
+2020-05-31 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,2.58,0.0,10.7,0.0
+2020-05-30 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,2.58,0.0,10.7,0.0
+2020-05-29 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,2.58,0.0,10.7,-1.47
+2020-05-28 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,490,19,3.88,180.11,6.98,0.18,272057,2.58,0.37,12.17,-0.37
+2020-05-27 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,489,19,3.89,179.74,6.98,0.18,272057,2.21,0.0,12.54,-0.37
+2020-05-26 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,488,19,3.89,179.37,6.98,0.18,272057,2.21,0.0,12.91,-0.74
+2020-05-25 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.84,5,0,0.0,488,19,3.89,179.37,6.98,0.18,272057,2.21,1.47,13.65,1.47
+2020-05-24 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,483,19,3.93,177.54,6.98,0.18,272057,0.74,-0.74,12.18,0.0
+2020-05-23 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,483,19,3.93,177.54,6.98,0.18,272057,1.48,0.0,12.18,-0.74
+2020-05-22 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,483,19,3.93,177.54,6.98,0.18,272057,1.48,-0.74,12.92,-2.21
+2020-05-21 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,483,19,3.93,177.54,6.98,0.18,272057,2.22,-0.74,15.13,-0.74
+2020-05-20 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,483,19,3.93,177.54,6.98,0.18,272057,2.96,-0.73,15.87,-0.73
+2020-05-19 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,482,19,3.94,177.17,6.98,0.18,272057,3.69,-0.74,16.6,-0.74
+2020-05-18 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,482,19,3.94,177.17,6.98,0.18,272057,4.43,0.0,17.34,-0.73
+2020-05-17 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,481,19,3.95,176.8,6.98,0.18,272057,4.43,0.0,18.07,0.74
+2020-05-16 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,479,19,3.97,176.07,6.98,0.18,272057,4.43,0.0,17.33,-4.41
+2020-05-15 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,479,19,3.97,176.07,6.98,0.18,272057,4.43,0.74,21.74,-0.36
+2020-05-14 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,477,19,3.98,175.33,6.98,0.18,272057,3.69,0.0,22.1,-1.83
+2020-05-13 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.1,3,0,0.0,475,19,4.0,174.6,6.98,0.17,272057,3.69,0.0,23.93,-0.37
+2020-05-12 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,472,19,4.03,173.49,6.98,0.17,272057,3.69,0.74,24.3,-2.2
+2020-05-11 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,470,19,4.04,172.76,6.98,0.17,272057,2.95,0.0,26.5,-0.37
+2020-05-10 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,469,19,4.05,172.39,6.98,0.17,272057,2.95,0.74,26.87,-0.73
+2020-05-09 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,467,19,4.07,171.66,6.98,0.17,272057,2.21,0.0,27.6,-1.84
+2020-05-08 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,467,19,4.07,171.66,6.98,0.17,272057,2.21,-1.47,29.44,-0.74
+2020-05-07 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,467,19,4.07,171.66,6.98,0.17,272057,3.68,0.0,30.18,-1.47
+2020-05-06 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.1,3,0,0.0,465,19,4.09,170.92,6.98,0.17,272057,3.68,0.36,31.65,-0.74
+2020-05-05 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,462,19,4.11,169.82,6.98,0.17,272057,3.32,-0.74,32.39,-2.94
+2020-05-04 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,462,19,4.11,169.82,6.98,0.17,272057,4.06,0.0,35.33,-4.78
+2020-05-03 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,461,19,4.12,169.45,6.98,0.17,272057,4.06,0.0,40.11,-1.47
+2020-05-02 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,461,19,4.12,169.45,6.98,0.17,272057,4.06,-0.74,41.58,-4.41
+2020-05-01 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,461,19,4.12,169.45,6.98,0.17,272057,4.8,-0.74,45.99,0.0
+2020-04-30 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,457,19,4.16,167.98,6.98,0.17,272057,5.54,0.0,45.99,-4.41
+2020-04-29 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,455,19,4.18,167.24,6.98,0.17,272057,5.54,-0.36,50.4,-4.04
+2020-04-28 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,453,19,4.19,166.51,6.98,0.17,272057,5.9,0.0,54.44,-7.35
+2020-04-27 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,451,19,4.21,165.77,6.98,0.17,272057,5.9,-0.73,61.79,-1.1
+2020-04-26 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,450,19,4.22,165.41,6.98,0.17,272057,6.63,0.0,62.89,-4.78
+2020-04-25 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,1,0.37,450,19,4.22,165.41,6.98,0.17,272057,6.63,-3.67,67.67,-4.04
+2020-04-24 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,2.21,6,0,0.0,448,18,4.02,164.67,6.62,0.16,272057,10.3,1.11,71.71,-0.73
+2020-04-23 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,442,18,4.07,162.47,6.62,0.16,272057,9.19,-1.83,72.44,-4.77
+2020-04-22 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.1,3,0,0.0,440,18,4.09,161.73,6.62,0.16,272057,11.02,-0.37,77.21,-2.94
+2020-04-21 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,437,18,4.12,160.63,6.62,0.16,272057,11.39,-2.2,80.15,-5.51
+2020-04-20 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.1,3,0,0.0,435,18,4.14,159.89,6.62,0.16,272057,13.59,0.36,85.66,-2.21
+2020-04-19 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,432,18,4.17,158.79,6.62,0.16,272057,13.23,-1.47,87.87,-5.15
+2020-04-18 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,4.41,12,0,0.0,432,18,4.17,158.79,6.62,0.16,272057,14.7,2.57,93.02,0.0
+2020-04-17 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.1,3,0,0.0,420,18,4.29,154.38,6.62,0.15,272057,12.13,0.36,93.02,-1.84
+2020-04-16 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,2.57,7,0,0.0,417,18,4.32,153.28,6.62,0.15,272057,11.77,0.36,94.86,-2.94
+2020-04-15 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,410,18,4.39,150.7,6.62,0.15,272057,11.41,-0.37,97.8,-6.25
+2020-04-14 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,2.94,8,1,0.37,406,18,4.43,149.23,6.62,0.15,272057,11.78,0.0,104.05,-1.84
+2020-04-13 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,398,17,4.27,146.29,6.25,0.15,272057,11.78,-4.41,105.89,-8.08
+2020-04-12 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,396,17,4.29,145.56,6.25,0.15,272057,16.19,0.0,113.97,-2.57
+2020-04-11 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.84,5,0,0.0,392,17,4.34,144.09,6.25,0.14,272057,16.19,-2.57,116.54,-2.2
+2020-04-10 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,387,17,4.39,142.25,6.25,0.14,272057,18.76,-0.73,118.74,-5.51
+2020-04-09 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,2.21,6,1,0.37,385,17,4.42,141.51,6.25,0.14,272057,19.49,-2.94,124.25,-0.73
+2020-04-08 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.84,5,0,0.0,379,16,4.22,139.31,5.88,0.14,272057,22.43,-2.94,124.98,-1.84
+2020-04-07 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,2.94,8,2,0.74,374,16,4.28,137.47,5.88,0.14,272057,25.37,-5.15,126.82,-0.74
+2020-04-06 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,5.15,14,1,0.37,366,14,3.83,134.53,5.15,0.13,272057,30.52,3.68,127.56,4.05
+2020-04-05 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,1,0.37,352,13,3.69,129.38,4.78,0.13,272057,26.84,-3.31,123.51,0.37
+2020-04-04 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,4.41,12,1,0.37,348,12,3.45,127.91,4.41,0.13,272057,30.15,-0.37,123.14,3.67
+2020-04-03 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,336,11,3.27,123.5,4.04,0.12,272057,30.52,-1.47,119.47,0.73
+2020-04-02 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,5.15,14,0,0.0,332,11,3.31,122.03,4.04,0.12,272057,31.99,-0.36,118.74,3.68
+2020-04-01 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,4.78,13,0,0.0,318,11,3.46,116.89,4.04,0.12,272057,32.35,0.74,115.06,4.41
+2020-03-31 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,8.09,22,2,0.74,305,11,3.61,112.11,4.04,0.11,272057,31.61,1.84,110.65,8.09
+2020-03-30 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,1,0.37,283,9,3.18,104.02,3.31,0.1,272057,29.77,-1.84,102.56,1.47
+2020-03-29 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,4.78,13,0,0.0,279,8,2.87,102.55,2.94,0.1,272057,31.61,-0.37,101.09,4.04
+2020-03-28 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,4.78,13,0,0.0,266,8,3.01,97.77,2.94,0.1,272057,31.98,0.37,97.05,4.78
+2020-03-27 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,2.94,8,0,0.0,253,8,3.16,93.0,2.94,0.09,272057,31.61,0.0,92.27,2.94
+2020-03-26 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,5.51,15,0,0.0,245,8,3.27,90.05,2.94,0.09,272057,31.61,0.0,89.33,5.51
+2020-03-25 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,4.04,11,1,0.37,230,8,3.48,84.54,2.94,0.08,272057,31.61,-3.68,83.82,4.04
+2020-03-24 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,6.25,17,0,0.0,219,7,3.2,80.5,2.57,0.08,272057,35.29,1.47,79.78,6.25
+2020-03-23 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,3.31,9,1,0.37,202,7,3.47,74.25,2.57,0.07,272057,33.82,-5.51,73.53,2.94
+2020-03-22 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,5.15,14,1,0.37,193,6,3.11,70.94,2.21,0.07,272057,39.33,1.11,70.59,5.15
+2020-03-21 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,4.41,12,1,0.37,179,5,2.79,65.8,1.84,0.07,272057,38.22,0.37,65.44,4.41
+2020-03-20 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,2.94,8,0,0.0,167,4,2.4,61.38,1.47,0.06,272057,37.85,-3.31,61.03,2.94
+2020-03-19 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,5.51,15,1,0.37,159,4,2.52,58.44,1.47,0.06,272057,41.16,2.57,58.09,5.51
+2020-03-18 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,7.72,21,1,0.37,144,3,2.08,52.93,1.1,0.05,272057,38.59,4.04,52.58,7.72
+2020-03-17 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,4.78,13,0,0.0,123,2,1.63,45.21,0.74,0.05,272057,34.55,1.1,44.86,4.78
+2020-03-16 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,8.82,24,2,0.74,110,2,1.82,40.43,0.74,0.04,272057,33.45,7.72,40.08,8.82
+2020-03-15 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,4.04,11,0,0.0,86,0,0.0,31.61,0.0,0.03,272057,25.73,2.94,31.26,4.04
+2020-03-14 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,4.04,11,0,0.0,75,0,0.0,27.57,0.0,0.03,272057,22.79,3.3,27.22,4.04
+2020-03-13 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,6.25,17,0,0.0,64,0,0.0,23.52,0.0,0.02,272057,19.49,5.51,23.18,6.25
+2020-03-12 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,2.94,8,0,0.0,47,0,0.0,17.28,0.0,0.02,272057,13.98,1.47,16.93,2.94
+2020-03-11 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,3.68,10,0,0.0,39,0,0.0,14.34,0.0,0.01,272057,12.51,3.31,13.99,3.68
+2020-03-10 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,3.68,10,0,0.0,29,0,0.0,10.66,0.0,0.01,272057,9.2,3.68,10.31,3.68
+2020-03-09 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.1,3,0,0.0,19,0,0.0,6.98,0.0,0.01,272057,5.52,1.1,6.63,1.1
+2020-03-08 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.1,3,0,0.0,16,0,0.0,5.88,0.0,0.01,272057,4.42,0.36,5.53,1.1
+2020-03-07 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,13,0,0.0,4.78,0.0,0.0,272057,4.06,0.74,4.43,0.74
+2020-03-06 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,11,0,0.0,4.04,0.0,0.0,272057,3.32,0.74,3.69,0.74
+2020-03-05 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,1.47,4,0,0.0,9,0,0.0,3.31,0.0,0.0,272057,2.58,1.47,2.95,1.47
+2020-03-04 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,5,0,0.0,1.84,0.0,0.0,272057,1.11,0.37,1.48,0.37
+2020-03-03 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,4,0,0.0,1.47,0.0,0.0,272057,0.74,0.0,1.11,0.0
+2020-03-02 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,4,0,0.0,1.47,0.0,0.0,272057,0.74,-0.37,1.11,0.0
+2020-03-01 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.74,2,0,0.0,4,0,0.0,1.47,0.0,0.0,272057,1.11,0.74,1.11,0.74
+2020-02-29 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,2,0,0.0,0.74,0.0,0.0,272057,0.37,0.0,0.37,0.0
+2020-02-28 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,2,0,0.0,0.74,0.0,0.0,272057,0.37,0.0,0.37,-0.37
+2020-02-27 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,2,0,0.0,0.74,0.0,0.0,272057,0.37,0.0,0.74,0.0
+2020-02-26 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,2,0,0.0,0.74,0.0,0.0,272057,0.37,0.0,0.74,0.0
+2020-02-25 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,2,0,0.0,0.74,0.0,0.0,272057,0.37,0.0,0.74,0.0
+2020-02-24 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,2,0,0.0,0.74,0.0,0.0,272057,0.37,0.37,0.74,0.37
+2020-02-23 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,0.0,0.37,0.0
+2020-02-22 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,0.0,0.37,0.0
+2020-02-21 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,0.0,0.37,0.0
+2020-02-20 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,0.0,0.37,0.0
+2020-02-19 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,0.0,0.37,0.0
+2020-02-18 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,0.0,0.37,0.0
+2020-02-17 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,0.0,0.37,0.0
+2020-02-16 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,0.0,0.37,0.0
+2020-02-15 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,0.0,0.37,0.0
+2020-02-14 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,0.0,0.37,0.0
+2020-02-13 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,0.0,0.37,0.0
+2020-02-12 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,0.0,0.37,0.0
+2020-02-11 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,0.0,0.37,0.0
+2020-02-10 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,0.0,0.37,0.0
+2020-02-09 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,0.0,0.37,0.0
+2020-02-08 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,0.0,0.37,0.0
+2020-02-07 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.0,-0.37,0.37,0.0
+2020-02-06 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.37,0.0,0.37,0.0
+2020-02-05 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.37,0.0,0.37,0.0
+2020-02-04 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.37,0.0,0.37,0.0
+2020-02-03 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.37,0.0,0.37,0.0
+2020-02-02 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.37,0.0,0.37,0.0
+2020-02-01 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.0,0,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.37,0.0,0.37,0.0
+2020-01-31 00:00:00+00:00,Nordrhein-Westfalen,Oberbergischer Kreis,0.37,1,0,0.0,1,0,0.0,0.37,0.0,0.0,272057,0.37,0.37,0.37,0.37
