@@ -1,15 +1,15 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-19,Rheinland-Pfalz,Altenkirchen (Westerwald),5.44,7,0,0.0,2001,40,2.0,1554.72,31.08,1.55,128705,55.17,-3.11,248.64,-5.44
-2021-01-18,Rheinland-Pfalz,Altenkirchen (Westerwald),1.55,2,0,0.0,1994,40,2.01,1549.28,31.08,1.55,128705,58.28,-1.56,254.08,-11.66
-2021-01-17,Rheinland-Pfalz,Altenkirchen (Westerwald),3.11,4,0,0.0,1992,40,2.01,1547.73,31.08,1.55,128705,59.84,-4.66,265.74,-4.66
-2021-01-16,Rheinland-Pfalz,Altenkirchen (Westerwald),4.66,6,0,0.0,1988,40,2.01,1544.62,31.08,1.54,128705,64.5,-9.33,270.4,-4.66
-2021-01-15,Rheinland-Pfalz,Altenkirchen (Westerwald),6.22,8,0,0.0,1982,40,2.02,1539.96,31.08,1.54,128705,73.83,-5.43,275.06,-5.43
-2021-01-14,Rheinland-Pfalz,Altenkirchen (Westerwald),7.77,10,0,0.0,1974,40,2.03,1533.74,31.08,1.53,128705,79.26,-22.53,280.49,-11.65
-2021-01-13,Rheinland-Pfalz,Altenkirchen (Westerwald),26.42,34,0,0.0,1964,40,2.04,1525.97,31.08,1.53,128705,101.79,18.65,292.14,13.21
-2021-01-12,Rheinland-Pfalz,Altenkirchen (Westerwald),8.55,11,1,0.78,1930,40,2.07,1499.55,31.08,1.5,128705,83.14,-7.77,278.93,-6.21
-2021-01-11,Rheinland-Pfalz,Altenkirchen (Westerwald),3.11,4,0,0.0,1919,39,2.03,1491.01,30.3,1.49,128705,90.91,-4.66,285.14,-12.43
-2021-01-10,Rheinland-Pfalz,Altenkirchen (Westerwald),7.77,10,0,0.0,1915,39,2.04,1487.9,30.3,1.49,128705,95.57,2.33,297.57,-16.32
-2021-01-09,Rheinland-Pfalz,Altenkirchen (Westerwald),13.99,18,0,0.0,1905,39,2.05,1480.13,30.3,1.48,128705,93.24,9.33,313.89,-2.33
+2021-01-19,Rheinland-Pfalz,Altenkirchen (Westerwald),10.88,14,0,0.0,2016,40,1.98,1566.37,31.08,1.57,128705,64.49,1.56,260.27,0.0
+2021-01-18,Rheinland-Pfalz,Altenkirchen (Westerwald),1.55,2,0,0.0,2002,40,2.0,1555.5,31.08,1.56,128705,62.93,-2.33,260.27,-11.66
+2021-01-17,Rheinland-Pfalz,Altenkirchen (Westerwald),3.88,5,0,0.0,2000,40,2.0,1553.94,31.08,1.55,128705,65.26,-3.89,271.93,-3.89
+2021-01-16,Rheinland-Pfalz,Altenkirchen (Westerwald),6.22,8,0,0.0,1995,40,2.01,1550.06,31.08,1.55,128705,69.15,-8.54,275.82,-3.1
+2021-01-15,Rheinland-Pfalz,Altenkirchen (Westerwald),6.22,8,0,0.0,1987,40,2.01,1543.84,31.08,1.54,128705,77.69,-5.43,278.92,-5.43
+2021-01-14,Rheinland-Pfalz,Altenkirchen (Westerwald),8.55,11,0,0.0,1979,40,2.02,1537.62,31.08,1.54,128705,83.12,-21.75,284.35,-10.87
+2021-01-13,Rheinland-Pfalz,Altenkirchen (Westerwald),27.19,35,0,0.0,1968,40,2.03,1529.08,31.08,1.53,128705,104.87,19.42,295.22,13.98
+2021-01-12,Rheinland-Pfalz,Altenkirchen (Westerwald),9.32,12,1,0.78,1933,40,2.07,1501.88,31.08,1.5,128705,85.45,-7.0,281.24,-5.44
+2021-01-11,Rheinland-Pfalz,Altenkirchen (Westerwald),3.88,5,0,0.0,1921,39,2.03,1492.56,30.3,1.49,128705,92.45,-3.89,286.68,-11.66
+2021-01-10,Rheinland-Pfalz,Altenkirchen (Westerwald),7.77,10,0,0.0,1916,39,2.04,1488.68,30.3,1.49,128705,96.34,2.33,298.34,-16.32
+2021-01-09,Rheinland-Pfalz,Altenkirchen (Westerwald),14.76,19,0,0.0,1906,39,2.05,1480.91,30.3,1.48,128705,94.01,10.1,314.66,-1.56
 2021-01-08,Rheinland-Pfalz,Altenkirchen (Westerwald),11.65,15,0,0.0,1887,39,2.07,1466.14,30.3,1.47,128705,83.91,5.43,316.22,-7.77
 2021-01-07,Rheinland-Pfalz,Altenkirchen (Westerwald),30.3,39,3,2.33,1872,39,2.08,1454.49,30.3,1.45,128705,78.48,19.42,323.99,-7.77
 2021-01-06,Rheinland-Pfalz,Altenkirchen (Westerwald),7.77,10,1,0.78,1833,36,1.96,1424.19,27.97,1.42,128705,59.06,-2.33,331.76,-11.65
