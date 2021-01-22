@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-19,Rio Grande do Norte,Severiano Melo,40.98,1,0,0.0,276,8,2.9,11311.48,327.87,11.31,2440,409.83,0.0,2663.9,0.0
+2021-01-18,Rio Grande do Norte,Severiano Melo,-40.98,-1,1,40.98,275,8,2.91,11270.49,327.87,11.27,2440,409.83,-40.98,2663.9,-614.75
 2021-01-03,Rio Grande do Norte,Severiano Melo,327.87,8,0,0.0,276,7,2.54,11311.48,286.89,11.31,2440,450.81,286.89,3278.65,204.92
 2021-01-01,Rio Grande do Norte,Severiano Melo,0.0,0,0,0.0,268,7,2.61,10983.61,286.89,10.98,2440,163.92,-122.95,3073.73,-614.75
 2020-12-31,Rio Grande do Norte,Severiano Melo,40.98,1,0,0.0,268,7,2.61,10983.61,286.89,10.98,2440,286.87,0.0,3688.48,-409.84
