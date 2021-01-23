@@ -1,5 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-22,Jharkhand,Palamu,0.0,0,0,0.0,3627,23,0.63,187.31,1.19,0.19,1936319,1.09,-0.57,9.42,-0.31
+2021-01-23,Jharkhand,Palamu,0.05,1,0,0.0,3628,24,0.66,187.37,1.24,0.19,1936319,0.93,-0.16,8.8,-0.62
+2021-01-22,Jharkhand,Palamu,0.0,0,1,0.05,3627,24,0.66,187.31,1.24,0.19,1936319,1.09,-0.57,9.42,-0.31
 2021-01-21,Jharkhand,Palamu,0.21,4,0,0.0,3627,23,0.63,187.31,1.19,0.19,1936319,1.66,0.21,9.73,-0.05
 2021-01-20,Jharkhand,Palamu,0.36,7,0,0.0,3623,23,0.63,187.11,1.19,0.19,1936319,1.45,0.0,9.78,-0.1
 2021-01-19,Jharkhand,Palamu,0.1,2,1,0.05,3616,23,0.64,186.75,1.19,0.19,1936319,1.45,0.0,9.88,-0.21
