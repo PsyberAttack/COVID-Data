@@ -1,6 +1,14 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-17,Rio Grande do Sul,São Francisco de Paula,0.0,0,0,0.0,137,7,5.11,631.05,32.24,0.63,21710,27.64,0.0,78.33,0.0
-2021-01-15,Rio Grande do Sul,São Francisco de Paula,13.82,3,-1,-4.61,137,7,5.11,631.05,32.24,0.63,21710,27.64,13.82,78.33,9.21
+2021-01-21,Rio Grande do Sul,São Francisco de Paula,0.0,0,0,0.0,138,7,5.07,635.65,32.24,0.64,21710,23.04,0.0,50.69,0.0
+2021-01-20,Rio Grande do Sul,São Francisco de Paula,0.0,0,0,0.0,138,7,5.07,635.65,32.24,0.64,21710,23.04,4.61,50.69,4.61
+2021-01-19,Rio Grande do Sul,São Francisco de Paula,4.61,1,0,0.0,138,7,5.07,635.65,32.24,0.64,21710,18.43,4.61,46.08,0.0
+2021-01-18,Rio Grande do Sul,São Francisco de Paula,0.0,0,0,0.0,137,7,5.11,631.05,32.24,0.63,21710,13.82,0.0,46.08,0.0
+2021-01-17,Rio Grande do Sul,São Francisco de Paula,0.0,0,0,0.0,137,7,5.11,631.05,32.24,0.63,21710,13.82,0.0,46.08,0.0
+2021-01-15,Rio Grande do Sul,São Francisco de Paula,4.61,1,0,0.0,137,7,5.11,631.05,32.24,0.63,21710,13.82,-9.21,46.08,-9.21
+2021-01-14,Rio Grande do Sul,São Francisco de Paula,13.82,3,0,0.0,136,7,5.15,626.44,32.24,0.63,21710,23.03,13.82,55.29,0.0
+2021-01-13,Rio Grande do Sul,São Francisco de Paula,0.0,0,0,0.0,133,7,5.26,612.62,32.24,0.61,21710,9.21,0.0,55.29,-4.61
+2021-01-12,Rio Grande do Sul,São Francisco de Paula,-4.61,-1,-1,-4.61,133,7,5.26,612.62,32.24,0.61,21710,9.21,-4.61,59.9,-4.61
+2021-01-11,Rio Grande do Sul,São Francisco de Paula,0.0,0,0,0.0,134,8,5.97,617.23,36.85,0.62,21710,13.82,0.0,64.51,-4.61
 2021-01-10,Rio Grande do Sul,São Francisco de Paula,0.0,0,0,0.0,134,8,5.97,617.23,36.85,0.62,21710,13.82,-4.61,69.12,0.0
 2021-01-09,Rio Grande do Sul,São Francisco de Paula,0.0,0,0,0.0,134,8,5.97,617.23,36.85,0.62,21710,18.43,0.0,69.12,0.0
 2021-01-08,Rio Grande do Sul,São Francisco de Paula,13.82,3,1,4.61,134,8,5.97,617.23,36.85,0.62,21710,18.43,13.82,69.12,13.82

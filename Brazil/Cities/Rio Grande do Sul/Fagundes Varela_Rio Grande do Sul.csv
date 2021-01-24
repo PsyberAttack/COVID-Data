@@ -1,6 +1,14 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-17,Rio Grande do Sul,Fagundes Varela,0.0,0,0,0.0,89,2,2.25,3258.88,73.23,3.26,2731,402.79,0.0,2306.86,0.0
-2021-01-15,Rio Grande do Sul,Fagundes Varela,366.17,10,0,0.0,89,2,2.25,3258.88,73.23,3.26,2731,402.79,366.17,2306.86,366.17
+2021-01-21,Rio Grande do Sul,Fagundes Varela,0.0,0,0,0.0,98,2,2.04,3588.43,73.23,3.59,2731,402.78,-292.93,1061.88,0.0
+2021-01-20,Rio Grande do Sul,Fagundes Varela,329.55,9,0,0.0,98,2,2.04,3588.43,73.23,3.59,2731,695.71,329.55,1061.88,329.55
+2021-01-19,Rio Grande do Sul,Fagundes Varela,0.0,0,0,0.0,89,2,2.25,3258.88,73.23,3.26,2731,366.16,0.0,732.33,0.0
+2021-01-18,Rio Grande do Sul,Fagundes Varela,0.0,0,0,0.0,89,2,2.25,3258.88,73.23,3.26,2731,366.16,0.0,732.33,0.0
+2021-01-17,Rio Grande do Sul,Fagundes Varela,0.0,0,0,0.0,89,2,2.25,3258.88,73.23,3.26,2731,366.16,0.0,732.33,-36.62
+2021-01-15,Rio Grande do Sul,Fagundes Varela,73.23,2,0,0.0,89,2,2.25,3258.88,73.23,3.26,2731,366.16,73.23,768.95,73.23
+2021-01-14,Rio Grande do Sul,Fagundes Varela,0.0,0,0,0.0,87,2,2.3,3185.65,73.23,3.19,2731,292.93,0.0,695.72,-109.85
+2021-01-13,Rio Grande do Sul,Fagundes Varela,292.93,8,0,0.0,87,2,2.3,3185.65,73.23,3.19,2731,292.93,256.31,805.57,-1135.12
+2021-01-12,Rio Grande do Sul,Fagundes Varela,0.0,0,0,0.0,79,2,2.53,2892.71,73.23,2.89,2731,36.62,0.0,1940.69,0.0
+2021-01-11,Rio Grande do Sul,Fagundes Varela,0.0,0,0,0.0,79,2,2.53,2892.71,73.23,2.89,2731,36.62,0.0,1940.69,0.0
 2021-01-10,Rio Grande do Sul,Fagundes Varela,0.0,0,0,0.0,79,2,2.53,2892.71,73.23,2.89,2731,36.62,0.0,1940.69,0.0
 2021-01-09,Rio Grande do Sul,Fagundes Varela,0.0,0,1,36.62,79,2,2.53,2892.71,73.23,2.89,2731,36.62,0.0,1940.69,0.0
 2021-01-08,Rio Grande do Sul,Fagundes Varela,0.0,0,0,0.0,79,1,1.27,2892.71,36.62,2.89,2731,36.62,0.0,1940.69,0.0

@@ -1,6 +1,14 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-17,Rio Grande do Sul,Dom Feliciano,0.0,0,0,0.0,123,5,4.07,797.98,32.44,0.8,15414,0.0,0.0,51.91,0.0
-2021-01-15,Rio Grande do Sul,Dom Feliciano,0.0,0,0,0.0,123,5,4.07,797.98,32.44,0.8,15414,0.0,0.0,51.91,0.0
+2021-01-21,Rio Grande do Sul,Dom Feliciano,6.49,1,0,0.0,124,5,4.03,804.46,32.44,0.8,15414,6.49,6.49,19.47,6.49
+2021-01-20,Rio Grande do Sul,Dom Feliciano,-6.49,-1,0,0.0,123,5,4.07,797.98,32.44,0.8,15414,0.0,-6.49,12.98,-12.98
+2021-01-19,Rio Grande do Sul,Dom Feliciano,6.49,1,0,0.0,124,5,4.03,804.46,32.44,0.8,15414,6.49,6.49,25.96,6.49
+2021-01-18,Rio Grande do Sul,Dom Feliciano,0.0,0,0,0.0,123,5,4.07,797.98,32.44,0.8,15414,0.0,0.0,19.47,-6.49
+2021-01-17,Rio Grande do Sul,Dom Feliciano,0.0,0,0,0.0,123,5,4.07,797.98,32.44,0.8,15414,0.0,0.0,25.96,-6.49
+2021-01-15,Rio Grande do Sul,Dom Feliciano,0.0,0,0,0.0,123,5,4.07,797.98,32.44,0.8,15414,0.0,0.0,32.45,0.0
+2021-01-14,Rio Grande do Sul,Dom Feliciano,0.0,0,0,0.0,123,5,4.07,797.98,32.44,0.8,15414,0.0,0.0,32.45,-19.46
+2021-01-13,Rio Grande do Sul,Dom Feliciano,0.0,0,0,0.0,123,5,4.07,797.98,32.44,0.8,15414,0.0,0.0,51.91,0.0
+2021-01-12,Rio Grande do Sul,Dom Feliciano,0.0,0,0,0.0,123,5,4.07,797.98,32.44,0.8,15414,0.0,0.0,51.91,0.0
+2021-01-11,Rio Grande do Sul,Dom Feliciano,0.0,0,0,0.0,123,5,4.07,797.98,32.44,0.8,15414,0.0,0.0,51.91,0.0
 2021-01-10,Rio Grande do Sul,Dom Feliciano,0.0,0,0,0.0,123,5,4.07,797.98,32.44,0.8,15414,0.0,0.0,51.91,12.98
 2021-01-09,Rio Grande do Sul,Dom Feliciano,0.0,0,0,0.0,123,5,4.07,797.98,32.44,0.8,15414,0.0,0.0,38.93,0.0
 2021-01-08,Rio Grande do Sul,Dom Feliciano,0.0,0,0,0.0,123,5,4.07,797.98,32.44,0.8,15414,0.0,-6.49,38.93,-19.46

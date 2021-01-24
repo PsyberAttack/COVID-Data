@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-23,Wisconsin,Forest,11.12,1,0,0.0,964,25.0,2.59,10721.83,278.06,10.72,8991,8.86,55.61,0.0,900.9,11.12
 2021-01-22,Wisconsin,Forest,0.0,0,0,0.0,963,25.0,2.6,10710.71,278.06,10.71,8991,8.86,55.61,0.0,889.78,-33.37
 2021-01-21,Wisconsin,Forest,33.37,3,0,0.0,963,25.0,2.6,10710.71,278.06,10.71,8991,8.86,55.61,33.37,923.15,-22.24
 2021-01-20,Wisconsin,Forest,0.0,0,0,0.0,960,25.0,2.6,10677.34,278.06,10.68,8991,8.86,22.24,-44.49,945.39,-33.37

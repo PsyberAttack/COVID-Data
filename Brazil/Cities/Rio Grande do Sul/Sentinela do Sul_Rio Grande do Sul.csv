@@ -1,6 +1,14 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-17,Rio Grande do Sul,Sentinela do Sul,0.0,0,0,0.0,100,5,5.0,1791.79,89.59,1.79,5581,412.11,0.0,645.05,0.0
-2021-01-15,Rio Grande do Sul,Sentinela do Sul,53.75,3,0,0.0,100,5,5.0,1791.79,89.59,1.79,5581,412.11,53.75,645.05,53.75
+2021-01-21,Rio Grande do Sul,Sentinela do Sul,35.84,2,0,0.0,106,5,4.72,1899.3,89.59,1.9,5581,143.35,35.84,680.89,35.84
+2021-01-20,Rio Grande do Sul,Sentinela do Sul,71.67,4,0,0.0,104,5,4.81,1863.47,89.59,1.86,5581,107.51,71.67,645.05,71.67
+2021-01-19,Rio Grande do Sul,Sentinela do Sul,0.0,0,0,0.0,100,5,5.0,1791.79,89.59,1.79,5581,35.84,-17.92,573.38,0.0
+2021-01-18,Rio Grande do Sul,Sentinela do Sul,0.0,0,0,0.0,100,5,5.0,1791.79,89.59,1.79,5581,53.76,0.0,573.38,0.0
+2021-01-17,Rio Grande do Sul,Sentinela do Sul,0.0,0,0,0.0,100,5,5.0,1791.79,89.59,1.79,5581,53.76,-71.67,573.38,-17.92
+2021-01-15,Rio Grande do Sul,Sentinela do Sul,17.92,1,0,0.0,100,5,5.0,1791.79,89.59,1.79,5581,125.43,-53.75,591.3,17.92
+2021-01-14,Rio Grande do Sul,Sentinela do Sul,17.92,1,0,0.0,99,5,5.05,1773.88,89.59,1.77,5581,179.18,-89.59,573.38,0.0
+2021-01-13,Rio Grande do Sul,Sentinela do Sul,0.0,0,0,0.0,98,5,5.1,1755.96,89.59,1.76,5581,268.77,-107.51,573.38,-35.84
+2021-01-12,Rio Grande do Sul,Sentinela do Sul,0.0,0,0,0.0,98,5,5.1,1755.96,89.59,1.76,5581,376.28,0.0,609.22,0.0
+2021-01-11,Rio Grande do Sul,Sentinela do Sul,17.92,1,0,0.0,98,5,5.1,1755.96,89.59,1.76,5581,376.28,17.92,609.22,17.92
 2021-01-10,Rio Grande do Sul,Sentinela do Sul,0.0,0,0,0.0,97,5,5.15,1738.04,89.59,1.74,5581,358.36,0.0,591.3,0.0
 2021-01-09,Rio Grande do Sul,Sentinela do Sul,71.67,4,0,0.0,97,5,5.15,1738.04,89.59,1.74,5581,358.36,71.67,591.3,71.67
 2021-01-08,Rio Grande do Sul,Sentinela do Sul,71.67,4,0,0.0,93,5,5.38,1666.37,89.59,1.67,5581,286.69,53.75,519.63,0.0

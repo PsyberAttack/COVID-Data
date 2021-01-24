@@ -1,6 +1,14 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-17,Rio Grande do Sul,Salvador das Missões,0.0,0,0,0.0,92,3,3.26,3366.26,109.77,3.37,2733,146.36,0.0,622.03,0.0
-2021-01-15,Rio Grande do Sul,Salvador das Missões,146.36,4,1,36.59,92,3,3.26,3366.26,109.77,3.37,2733,146.36,146.36,622.03,146.36
+2021-01-21,Rio Grande do Sul,Salvador das Missões,0.0,0,0,0.0,92,3,3.26,3366.26,109.77,3.37,2733,73.18,36.59,365.9,0.0
+2021-01-20,Rio Grande do Sul,Salvador das Missões,0.0,0,0,0.0,92,3,3.26,3366.26,109.77,3.37,2733,36.59,-109.77,365.9,0.0
+2021-01-19,Rio Grande do Sul,Salvador das Missões,0.0,0,0,0.0,92,3,3.26,3366.26,109.77,3.37,2733,146.36,0.0,365.9,0.0
+2021-01-18,Rio Grande do Sul,Salvador das Missões,0.0,0,0,0.0,92,3,3.26,3366.26,109.77,3.37,2733,146.36,0.0,365.9,0.0
+2021-01-17,Rio Grande do Sul,Salvador das Missões,0.0,0,0,0.0,92,3,3.26,3366.26,109.77,3.37,2733,146.36,0.0,365.9,-73.18
+2021-01-15,Rio Grande do Sul,Salvador das Missões,0.0,0,0,0.0,92,3,3.26,3366.26,109.77,3.37,2733,146.36,0.0,439.08,-36.59
+2021-01-14,Rio Grande do Sul,Salvador das Missões,73.18,2,1,36.59,92,3,3.26,3366.26,109.77,3.37,2733,146.36,73.18,475.67,-36.59
+2021-01-13,Rio Grande do Sul,Salvador das Missões,-36.59,-1,0,0.0,90,2,2.22,3293.08,73.18,3.29,2733,73.18,-36.59,512.26,-73.18
+2021-01-12,Rio Grande do Sul,Salvador das Missões,109.77,3,0,0.0,91,2,2.2,3329.67,73.18,3.33,2733,109.77,109.77,585.44,109.77
+2021-01-11,Rio Grande do Sul,Salvador das Missões,0.0,0,0,0.0,88,2,2.27,3219.9,73.18,3.22,2733,0.0,0.0,475.67,0.0
 2021-01-10,Rio Grande do Sul,Salvador das Missões,0.0,0,0,0.0,88,2,2.27,3219.9,73.18,3.22,2733,0.0,0.0,475.67,0.0
 2021-01-09,Rio Grande do Sul,Salvador das Missões,0.0,0,0,0.0,88,2,2.27,3219.9,73.18,3.22,2733,0.0,0.0,475.67,-36.59
 2021-01-08,Rio Grande do Sul,Salvador das Missões,0.0,0,0,0.0,88,2,2.27,3219.9,73.18,3.22,2733,0.0,0.0,512.26,0.0
