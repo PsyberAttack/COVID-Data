@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-24,Paraíba,Nova Olinda,0.0,0,0,0.0,119,6,5.04,2000.34,100.86,2.0,5949,184.91,0.0,1042.22,-50.43
+2021-01-23,Paraíba,Nova Olinda,16.81,1,0,0.0,119,6,5.04,2000.34,100.86,2.0,5949,184.91,-50.43,1092.65,0.0
 2021-01-22,Paraíba,Nova Olinda,50.43,3,0,0.0,118,6,5.08,1983.53,100.86,1.98,5949,235.34,33.62,1092.65,50.43
 2021-01-21,Paraíba,Nova Olinda,16.81,1,0,0.0,115,6,5.22,1933.1,100.86,1.93,5949,201.72,-84.05,1042.22,16.81
 2021-01-20,Paraíba,Nova Olinda,100.86,6,0,0.0,114,6,5.26,1916.29,100.86,1.92,5949,285.77,16.81,1025.41,84.05
