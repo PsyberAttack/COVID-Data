@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-19,Rio Grande do Norte,Campo Redondo,62.41,7,0,0.0,307,4,1.3,2736.92,35.66,2.74,11217,401.19,53.49,633.01,71.33
-2021-01-18,Rio Grande do Norte,Campo Redondo,312.03,35,0,0.0,300,4,1.33,2674.51,35.66,2.67,11217,347.7,312.03,561.68,312.03
+2021-01-20,Rio Grande do Norte,Campo Redondo,0.0,0,0,0.0,307,4,1.3,2736.92,35.66,2.74,11217,392.27,0.0,624.09,-8.92
+2021-01-19,Rio Grande do Norte,Campo Redondo,62.41,7,0,0.0,307,4,1.3,2736.92,35.66,2.74,11217,392.27,53.49,633.01,62.41
+2021-01-18,Rio Grande do Norte,Campo Redondo,0.0,0,0,0.0,300,4,1.33,2674.51,35.66,2.67,11217,338.78,-8.92,570.6,8.92
+2021-01-17,Rio Grande do Norte,Campo Redondo,312.03,35,0,0.0,300,4,1.33,2674.51,35.66,2.67,11217,347.7,312.03,561.68,312.03
 2021-01-03,Rio Grande do Norte,Campo Redondo,0.0,0,0,0.0,265,4,1.51,2362.49,35.66,2.36,11217,35.67,0.0,249.65,0.0
 2021-01-01,Rio Grande do Norte,Campo Redondo,26.75,3,0,0.0,265,4,1.51,2362.49,35.66,2.36,11217,35.67,17.83,249.65,26.75
 2020-12-31,Rio Grande do Norte,Campo Redondo,-8.92,-1,0,0.0,262,4,1.53,2335.74,35.66,2.34,11217,17.84,-8.92,222.9,-8.92

@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-19,Rio Grande do Norte,São Rafael,36.58,3,0,0.0,317,7,2.21,3864.91,85.35,3.86,8202,182.88,24.39,829.05,24.39
-2021-01-18,Rio Grande do Norte,São Rafael,97.54,8,0,0.0,314,7,2.23,3828.33,85.35,3.83,8202,158.49,85.35,804.66,85.35
+2021-01-20,Rio Grande do Norte,São Rafael,0.0,0,0,0.0,317,7,2.21,3864.91,85.35,3.86,8202,158.5,-24.38,829.05,0.0
+2021-01-19,Rio Grande do Norte,São Rafael,36.58,3,0,0.0,317,7,2.21,3864.91,85.35,3.86,8202,182.88,36.58,829.05,36.58
+2021-01-18,Rio Grande do Norte,São Rafael,0.0,0,0,0.0,314,7,2.23,3828.33,85.35,3.83,8202,146.3,-12.19,792.47,-12.19
+2021-01-17,Rio Grande do Norte,São Rafael,97.54,8,0,0.0,314,7,2.23,3828.33,85.35,3.83,8202,158.49,85.35,804.66,85.35
 2021-01-03,Rio Grande do Norte,São Rafael,24.38,2,0,0.0,306,7,2.29,3730.8,85.35,3.73,8202,73.14,24.38,719.31,12.19
 2021-01-01,Rio Grande do Norte,São Rafael,0.0,0,0,0.0,304,7,2.3,3706.41,85.35,3.71,8202,48.76,-12.19,707.12,-73.15
 2020-12-31,Rio Grande do Norte,São Rafael,0.0,0,0,0.0,304,7,2.3,3706.41,85.35,3.71,8202,60.95,-97.54,780.27,-12.19

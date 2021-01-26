@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-19,Rio Grande do Norte,Ouro Branco,228.6,11,0,0.0,163,1,0.61,3387.36,20.78,3.39,4812,914.38,187.04,2161.25,207.82
-2021-01-18,Rio Grande do Norte,Ouro Branco,519.53,25,0,0.0,152,1,0.66,3158.77,20.78,3.16,4812,727.34,519.53,1953.43,519.53
+2021-01-20,Rio Grande do Norte,Ouro Branco,0.0,0,0,0.0,163,1,0.61,3387.36,20.78,3.39,4812,893.6,-20.78,2140.47,-20.78
+2021-01-19,Rio Grande do Norte,Ouro Branco,228.6,11,0,0.0,163,1,0.61,3387.36,20.78,3.39,4812,914.38,228.6,2161.25,228.6
+2021-01-18,Rio Grande do Norte,Ouro Branco,0.0,0,0,0.0,152,1,0.66,3158.77,20.78,3.16,4812,685.78,-41.56,1932.65,-20.78
+2021-01-17,Rio Grande do Norte,Ouro Branco,519.53,25,0,0.0,152,1,0.66,3158.77,20.78,3.16,4812,727.34,519.53,1953.43,519.53
 2021-01-03,Rio Grande do Norte,Ouro Branco,145.47,7,0,0.0,127,1,0.79,2639.24,20.78,2.64,4812,207.81,83.13,1433.9,41.56
 2021-01-01,Rio Grande do Norte,Ouro Branco,0.0,0,0,0.0,120,1,0.83,2493.77,20.78,2.49,4812,124.68,-62.34,1392.34,0.0
 2020-12-31,Rio Grande do Norte,Ouro Branco,0.0,0,0,0.0,120,1,0.83,2493.77,20.78,2.49,4812,187.02,-41.56,1392.34,0.0

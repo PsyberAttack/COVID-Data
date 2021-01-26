@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-19,Rio Grande do Norte,Lagoa Salgada,48.51,4,0,0.0,170,3,1.76,2061.86,36.39,2.06,8245,218.31,24.25,448.77,60.64
-2021-01-18,Rio Grande do Norte,Lagoa Salgada,145.54,12,0,0.0,166,3,1.81,2013.34,36.39,2.01,8245,194.06,145.54,388.13,109.15
+2021-01-20,Rio Grande do Norte,Lagoa Salgada,0.0,0,0,0.0,170,3,1.76,2061.86,36.39,2.06,8245,206.18,0.0,448.77,0.0
+2021-01-19,Rio Grande do Norte,Lagoa Salgada,48.51,4,0,0.0,170,3,1.76,2061.86,36.39,2.06,8245,206.18,36.38,448.77,48.51
+2021-01-18,Rio Grande do Norte,Lagoa Salgada,0.0,0,0,0.0,166,3,1.81,2013.34,36.39,2.01,8245,169.8,-24.26,400.26,12.13
+2021-01-17,Rio Grande do Norte,Lagoa Salgada,145.54,12,0,0.0,166,3,1.81,2013.34,36.39,2.01,8245,194.06,145.54,388.13,109.15
 2021-01-03,Rio Grande do Norte,Lagoa Salgada,0.0,0,0,0.0,154,3,1.95,1867.8,36.39,1.87,8245,48.52,-12.13,278.98,0.0
 2021-01-01,Rio Grande do Norte,Lagoa Salgada,0.0,0,0,0.0,154,3,1.95,1867.8,36.39,1.87,8245,60.65,0.0,278.98,-48.51
 2020-12-31,Rio Grande do Norte,Lagoa Salgada,12.13,1,0,0.0,154,3,1.95,1867.8,36.39,1.87,8245,60.65,-12.13,327.49,12.13

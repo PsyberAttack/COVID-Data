@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-19,Rio Grande do Norte,Antônio Martins,55.98,4,0,0.0,125,2,1.6,1749.48,27.99,1.75,7145,685.79,55.98,923.73,27.99
-2021-01-18,Rio Grande do Norte,Antônio Martins,405.88,29,1,14.0,121,2,1.65,1693.49,27.99,1.69,7145,629.81,405.88,895.74,405.88
+2021-01-20,Rio Grande do Norte,Antônio Martins,0.0,0,0,0.0,125,2,1.6,1749.48,27.99,1.75,7145,559.83,-97.97,895.74,-27.99
+2021-01-19,Rio Grande do Norte,Antônio Martins,55.98,4,0,0.0,125,2,1.6,1749.48,27.99,1.75,7145,657.8,27.99,923.73,55.98
+2021-01-18,Rio Grande do Norte,Antônio Martins,0.0,0,0,0.0,121,2,1.65,1693.49,27.99,1.69,7145,629.81,0.0,867.75,-27.99
+2021-01-17,Rio Grande do Norte,Antônio Martins,405.88,29,1,14.0,121,2,1.65,1693.49,27.99,1.69,7145,629.81,405.88,895.74,405.88
 2021-01-03,Rio Grande do Norte,Antônio Martins,55.98,4,0,0.0,92,1,1.09,1287.61,14.0,1.29,7145,223.93,13.99,489.86,55.98
 2021-01-01,Rio Grande do Norte,Antônio Martins,0.0,0,0,0.0,88,1,1.14,1231.63,14.0,1.23,7145,209.94,-27.99,433.88,-41.99
 2020-12-31,Rio Grande do Norte,Antônio Martins,41.99,3,0,0.0,88,1,1.14,1231.63,14.0,1.23,7145,237.93,27.99,475.87,41.99

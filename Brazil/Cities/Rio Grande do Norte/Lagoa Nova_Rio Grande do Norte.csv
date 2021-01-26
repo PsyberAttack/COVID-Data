@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-19,Rio Grande do Norte,Lagoa Nova,25.62,4,0,0.0,211,2,0.95,1351.35,12.81,1.35,15614,409.9,19.22,672.45,19.22
-2021-01-18,Rio Grande do Norte,Lagoa Nova,307.42,48,0,0.0,207,2,0.97,1325.73,12.81,1.33,15614,390.68,307.42,653.23,307.42
+2021-01-20,Rio Grande do Norte,Lagoa Nova,0.0,0,0,0.0,211,2,0.95,1351.35,12.81,1.35,15614,365.07,0.0,666.05,-6.4
+2021-01-19,Rio Grande do Norte,Lagoa Nova,25.62,4,0,0.0,211,2,0.95,1351.35,12.81,1.35,15614,365.07,-19.21,672.45,25.62
+2021-01-18,Rio Grande do Norte,Lagoa Nova,0.0,0,0,0.0,207,2,0.97,1325.73,12.81,1.33,15614,384.28,-6.4,646.83,-6.4
+2021-01-17,Rio Grande do Norte,Lagoa Nova,307.42,48,0,0.0,207,2,0.97,1325.73,12.81,1.33,15614,390.68,307.42,653.23,307.42
 2021-01-03,Rio Grande do Norte,Lagoa Nova,0.0,0,0,0.0,159,2,1.26,1018.32,12.81,1.02,15614,83.26,-19.21,345.81,-12.81
 2021-01-01,Rio Grande do Norte,Lagoa Nova,38.43,6,0,0.0,159,2,1.26,1018.32,12.81,1.02,15614,102.47,-19.21,358.62,32.03
 2020-12-31,Rio Grande do Norte,Lagoa Nova,-6.4,-1,0,0.0,153,2,1.31,979.89,12.81,0.98,15614,121.68,-19.21,326.59,-6.4
