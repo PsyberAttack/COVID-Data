@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-24,São Paulo,Francisco Morato,26.16,46,1,0.57,4599,156,3.39,2615.39,88.71,2.62,175844,274.68,26.16,643.18,24.45
+2021-01-25,São Paulo,Francisco Morato,0.0,0,0,0.0,4599,156,3.39,2615.39,88.71,2.62,175844,183.69,-31.85,630.1,0.0
+2021-01-24,São Paulo,Francisco Morato,22.18,39,0,0.0,4599,156,3.39,2615.39,88.71,2.62,175844,215.54,-36.96,630.1,9.1
+2021-01-22,São Paulo,Francisco Morato,3.98,7,1,0.57,4560,156,3.42,2593.21,88.71,2.59,175844,252.5,3.98,621.0,2.27
 2021-01-21,São Paulo,Francisco Morato,66.54,117,0,0.0,4553,155,3.4,2589.23,88.15,2.59,175844,248.52,9.67,618.73,51.75
 2021-01-18,São Paulo,Francisco Morato,0.57,1,0,0.0,4436,155,3.49,2522.69,88.15,2.52,175844,238.85,-18.2,566.98,-26.73
 2021-01-17,São Paulo,Francisco Morato,67.67,119,0,0.0,4435,155,3.49,2522.12,88.15,2.52,175844,257.05,3.41,593.71,59.71

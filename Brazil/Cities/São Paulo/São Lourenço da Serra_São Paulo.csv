@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-24,São Paulo,São Lourenço da Serra,0.0,0,0,0.0,343,12,3.5,2167.46,75.83,2.17,15825,69.52,-6.32,309.66,-12.64
+2021-01-25,São Paulo,São Lourenço da Serra,0.0,0,0,0.0,343,12,3.5,2167.46,75.83,2.17,15825,50.56,-18.96,297.02,0.0
+2021-01-24,São Paulo,São Lourenço da Serra,0.0,0,0,0.0,343,12,3.5,2167.46,75.83,2.17,15825,69.52,0.0,297.02,-12.64
+2021-01-22,São Paulo,São Lourenço da Serra,0.0,0,0,0.0,343,12,3.5,2167.46,75.83,2.17,15825,69.52,-6.32,309.66,-12.64
 2021-01-21,São Paulo,São Lourenço da Serra,18.96,3,1,6.32,343,12,3.5,2167.46,75.83,2.17,15825,75.84,18.96,322.3,-12.64
 2021-01-18,São Paulo,São Lourenço da Serra,0.0,0,0,0.0,340,11,3.24,2148.5,69.51,2.15,15825,56.88,-6.32,334.94,-31.6
 2021-01-17,São Paulo,São Lourenço da Serra,18.96,3,0,0.0,340,11,3.24,2148.5,69.51,2.15,15825,63.2,12.64,366.54,0.0

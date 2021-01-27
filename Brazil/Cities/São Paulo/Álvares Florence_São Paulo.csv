@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-24,São Paulo,Álvares Florence,27.18,1,1,27.18,124,7,5.65,3370.48,190.27,3.37,3679,326.16,27.18,815.42,27.18
+2021-01-25,São Paulo,Álvares Florence,27.18,1,0,0.0,125,7,5.6,3397.66,190.27,3.4,3679,217.44,-27.18,842.6,27.18
+2021-01-24,São Paulo,Álvares Florence,27.18,1,0,0.0,124,7,5.65,3370.48,190.27,3.37,3679,244.62,-54.36,815.42,27.18
+2021-01-22,São Paulo,Álvares Florence,0.0,0,1,27.18,123,7,5.69,3343.3,190.27,3.34,3679,298.98,0.0,788.24,0.0
 2021-01-21,São Paulo,Álvares Florence,81.54,3,0,0.0,123,6,4.88,3343.3,163.09,3.34,3679,298.98,81.54,788.24,81.54
 2021-01-18,São Paulo,Álvares Florence,0.0,0,0,0.0,120,6,5.0,3261.76,163.09,3.26,3679,217.44,-27.18,706.7,0.0
 2021-01-17,São Paulo,Álvares Florence,54.36,2,0,0.0,120,6,5.0,3261.76,163.09,3.26,3679,244.62,54.36,706.7,54.36
