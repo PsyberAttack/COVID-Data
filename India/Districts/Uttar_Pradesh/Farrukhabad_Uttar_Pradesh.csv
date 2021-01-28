@@ -1,6 +1,7 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-26,Uttar_Pradesh,Farrukhabad,0.0,0,0,0.0,4687,88,1.88,248.31,4.66,0.25,1887577,0.69,-0.11,5.14,-0.53
-2021-01-25,Uttar_Pradesh,Farrukhabad,0.0,0,0,0.0,4687,88,1.88,248.31,4.66,0.25,1887577,0.8,-0.05,5.67,-0.53
+2021-01-27,Uttar_Pradesh,Farrukhabad,-0.05,-1,0,0.0,4694,88,1.87,248.68,4.66,0.25,1887577,0.95,-0.16,5.14,-0.42
+2021-01-26,Uttar_Pradesh,Farrukhabad,0.37,7,0,0.0,4695,88,1.87,248.73,4.66,0.25,1887577,1.11,0.26,5.56,-0.16
+2021-01-25,Uttar_Pradesh,Farrukhabad,0.05,1,0,0.0,4688,88,1.88,248.36,4.66,0.25,1887577,0.85,0.0,5.72,-0.48
 2021-01-24,Uttar_Pradesh,Farrukhabad,0.16,3,0,0.0,4687,88,1.88,248.31,4.66,0.25,1887577,0.85,0.11,6.2,0.0
 2021-01-23,Uttar_Pradesh,Farrukhabad,0.05,1,0,0.0,4684,88,1.88,248.15,4.66,0.25,1887577,0.74,0.0,6.2,-0.06
 2021-01-22,Uttar_Pradesh,Farrukhabad,0.32,6,1,0.05,4683,88,1.88,248.1,4.66,0.25,1887577,0.74,0.32,6.26,-0.16
