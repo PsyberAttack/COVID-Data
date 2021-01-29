@@ -1,4 +1,10 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-27,Rio de Janeiro,Trajano de Moraes,9.41,1,0,0.0,246,1,0.41,2315.08,9.41,2.32,10626,150.57,0.0,705.8,9.41
+2021-01-26,Rio de Janeiro,Trajano de Moraes,9.41,1,0,0.0,245,1,0.41,2305.67,9.41,2.31,10626,150.57,-28.23,696.39,9.41
+2021-01-25,Rio de Janeiro,Trajano de Moraes,0.0,0,0,0.0,244,1,0.41,2296.25,9.41,2.3,10626,178.8,0.0,686.98,0.0
+2021-01-24,Rio de Janeiro,Trajano de Moraes,0.0,0,0,0.0,244,1,0.41,2296.25,9.41,2.3,10626,178.8,0.0,686.98,0.0
+2021-01-23,Rio de Janeiro,Trajano de Moraes,84.7,9,0,0.0,244,1,0.41,2296.25,9.41,2.3,10626,178.8,-47.05,686.98,37.65
+2021-01-22,Rio de Janeiro,Trajano de Moraes,0.0,0,0,0.0,235,1,0.43,2211.56,9.41,2.21,10626,225.85,-37.64,649.33,-18.82
 2021-01-21,Rio de Janeiro,Trajano de Moraes,47.05,5,0,0.0,235,1,0.43,2211.56,9.41,2.21,10626,263.49,18.82,668.15,18.82
 2021-01-20,Rio de Janeiro,Trajano de Moraes,9.41,1,0,0.0,230,1,0.43,2164.5,9.41,2.16,10626,244.67,9.41,649.33,9.41
 2021-01-19,Rio de Janeiro,Trajano de Moraes,37.64,4,0,0.0,229,1,0.44,2155.09,9.41,2.16,10626,235.26,37.64,639.92,37.64

@@ -1,4 +1,10 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-01-27,Rio de Janeiro,Paty do Alferes,108.03,30,0,0.0,874,13,1.49,3147.39,46.81,3.15,27769,396.12,108.03,1789.75,108.03
+2021-01-26,Rio de Janeiro,Paty do Alferes,129.64,36,0,0.0,844,13,1.54,3039.36,46.81,3.04,27769,288.09,115.24,1681.72,129.64
+2021-01-25,Rio de Janeiro,Paty do Alferes,0.0,0,0,0.0,808,13,1.61,2909.72,46.81,2.91,27769,172.85,0.0,1552.08,0.0
+2021-01-24,Rio de Janeiro,Paty do Alferes,0.0,0,0,0.0,808,13,1.61,2909.72,46.81,2.91,27769,172.85,0.0,1552.08,0.0
+2021-01-23,Rio de Janeiro,Paty do Alferes,151.25,42,3,10.8,808,13,1.61,2909.72,46.81,2.91,27769,172.85,-302.49,1552.08,140.45
+2021-01-22,Rio de Janeiro,Paty do Alferes,0.0,0,0,0.0,766,10,1.31,2758.47,36.01,2.76,27769,475.34,-133.24,1411.63,-7.2
 2021-01-21,Rio de Janeiro,Paty do Alferes,7.2,2,0,0.0,766,10,1.31,2758.47,36.01,2.76,27769,608.58,-86.43,1418.83,-136.85
 2021-01-20,Rio de Janeiro,Paty do Alferes,0.0,0,0,0.0,764,10,1.31,2751.27,36.01,2.75,27769,695.01,-3.6,1555.68,0.0
 2021-01-19,Rio de Janeiro,Paty do Alferes,14.4,4,0,0.0,764,10,1.31,2751.27,36.01,2.75,27769,698.61,14.4,1555.68,3.6
