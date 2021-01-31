@@ -1,8 +1,11 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-29,Minas Gerais,Santa Rita de Caldas,33.52,3,0,0.0,270,8,2.96,3017.1,89.4,3.02,8949,312.88,33.52,435.79,33.52
-2021-01-28,Minas Gerais,Santa Rita de Caldas,55.87,5,0,0.0,267,8,3.0,2983.57,89.4,2.98,8949,279.36,11.17,402.27,55.87
-2021-01-27,Minas Gerais,Santa Rita de Caldas,-11.17,-1,0,0.0,262,8,3.05,2927.7,89.4,2.93,8949,268.19,-11.17,346.4,-11.17
-2021-01-26,Minas Gerais,Santa Rita de Caldas,234.66,21,0,0.0,263,8,3.04,2938.88,89.4,2.94,8949,279.36,223.49,357.57,223.49
+2021-01-29,Minas Gerais,Santa Rita de Caldas,33.52,3,0,0.0,270,8,2.96,3017.1,89.4,3.02,8949,312.88,33.52,424.62,22.35
+2021-01-28,Minas Gerais,Santa Rita de Caldas,55.87,5,0,0.0,267,8,3.0,2983.57,89.4,2.98,8949,279.36,55.87,402.27,55.87
+2021-01-27,Minas Gerais,Santa Rita de Caldas,-11.17,-1,0,0.0,262,8,3.05,2927.7,89.4,2.93,8949,223.49,-11.17,346.4,-11.17
+2021-01-26,Minas Gerais,Santa Rita de Caldas,100.57,9,0,0.0,263,8,3.04,2938.88,89.4,2.94,8949,234.66,100.57,357.57,100.57
+2021-01-25,Minas Gerais,Santa Rita de Caldas,0.0,0,0,0.0,254,8,3.15,2838.31,89.4,2.84,8949,134.09,-44.7,257.0,0.0
+2021-01-24,Minas Gerais,Santa Rita de Caldas,0.0,0,0,0.0,254,8,3.15,2838.31,89.4,2.84,8949,178.79,0.0,257.0,0.0
+2021-01-23,Minas Gerais,Santa Rita de Caldas,134.09,12,0,0.0,254,8,3.15,2838.31,89.4,2.84,8949,178.79,122.92,257.0,122.92
 2021-01-13,Minas Gerais,Santa Rita de Caldas,0.0,0,0,0.0,242,8,3.31,2704.21,89.4,2.7,8949,55.87,0.0,134.08,0.0
 2021-01-12,Minas Gerais,Santa Rita de Caldas,0.0,0,0,0.0,242,8,3.31,2704.21,89.4,2.7,8949,55.87,-44.7,134.08,0.0
 2021-01-11,Minas Gerais,Santa Rita de Caldas,0.0,0,0,0.0,242,8,3.31,2704.21,89.4,2.7,8949,100.57,0.0,134.08,0.0

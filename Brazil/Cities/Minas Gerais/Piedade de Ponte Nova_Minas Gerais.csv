@@ -1,8 +1,11 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
 2021-01-29,Minas Gerais,Piedade de Ponte Nova,48.31,2,0,0.0,106,3,2.83,2560.39,72.46,2.56,4140,579.71,48.31,1062.8,48.31
-2021-01-28,Minas Gerais,Piedade de Ponte Nova,0.0,0,0,0.0,104,3,2.88,2512.08,72.46,2.51,4140,531.4,-72.46,1014.49,0.0
-2021-01-27,Minas Gerais,Piedade de Ponte Nova,0.0,0,0,0.0,104,3,2.88,2512.08,72.46,2.51,4140,603.86,0.0,1014.49,0.0
-2021-01-26,Minas Gerais,Piedade de Ponte Nova,531.4,22,0,0.0,104,3,2.88,2512.08,72.46,2.51,4140,603.86,217.39,1014.49,531.4
+2021-01-28,Minas Gerais,Piedade de Ponte Nova,0.0,0,0,0.0,104,3,2.88,2512.08,72.46,2.51,4140,531.4,0.0,1014.49,0.0
+2021-01-27,Minas Gerais,Piedade de Ponte Nova,0.0,0,0,0.0,104,3,2.88,2512.08,72.46,2.51,4140,531.4,0.0,1014.49,0.0
+2021-01-26,Minas Gerais,Piedade de Ponte Nova,48.31,2,0,0.0,104,3,2.88,2512.08,72.46,2.51,4140,531.4,48.31,1014.49,48.31
+2021-01-25,Minas Gerais,Piedade de Ponte Nova,0.0,0,0,0.0,102,3,2.94,2463.77,72.46,2.46,4140,483.09,-72.46,966.18,0.0
+2021-01-24,Minas Gerais,Piedade de Ponte Nova,0.0,0,0,0.0,102,3,2.94,2463.77,72.46,2.46,4140,555.55,0.0,966.18,0.0
+2021-01-23,Minas Gerais,Piedade de Ponte Nova,483.09,20,0,0.0,102,3,2.94,2463.77,72.46,2.46,4140,555.55,169.08,966.18,483.09
 2021-01-13,Minas Gerais,Piedade de Ponte Nova,0.0,0,0,0.0,82,3,3.66,1980.68,72.46,1.98,4140,386.47,0.0,483.09,0.0
 2021-01-12,Minas Gerais,Piedade de Ponte Nova,0.0,0,0,0.0,82,3,3.66,1980.68,72.46,1.98,4140,386.47,0.0,483.09,-48.31
 2021-01-11,Minas Gerais,Piedade de Ponte Nova,0.0,0,1,24.15,82,3,3.66,1980.68,72.46,1.98,4140,386.47,0.0,531.4,0.0

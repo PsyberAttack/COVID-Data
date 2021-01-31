@@ -1,8 +1,11 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-29,Minas Gerais,Presidente Bernardes,18.63,1,0,0.0,62,2,3.23,1154.78,37.25,1.15,5369,521.53,-111.75,1005.8,18.63
-2021-01-28,Minas Gerais,Presidente Bernardes,18.63,1,0,0.0,61,2,3.28,1136.15,37.25,1.14,5369,633.28,18.63,987.17,18.63
-2021-01-27,Minas Gerais,Presidente Bernardes,0.0,0,0,0.0,60,2,3.33,1117.53,37.25,1.12,5369,614.65,-93.13,968.54,0.0
-2021-01-26,Minas Gerais,Presidente Bernardes,447.01,24,1,18.63,60,2,3.33,1117.53,37.25,1.12,5369,707.78,447.01,968.54,447.01
+2021-01-29,Minas Gerais,Presidente Bernardes,18.63,1,0,0.0,62,2,3.23,1154.78,37.25,1.15,5369,484.27,0.0,987.17,0.0
+2021-01-28,Minas Gerais,Presidente Bernardes,18.63,1,0,0.0,61,2,3.28,1136.15,37.25,1.14,5369,484.27,0.0,987.17,18.63
+2021-01-27,Minas Gerais,Presidente Bernardes,0.0,0,0,0.0,60,2,3.33,1117.53,37.25,1.12,5369,484.27,0.0,968.54,0.0
+2021-01-26,Minas Gerais,Presidente Bernardes,0.0,0,0,0.0,60,2,3.33,1117.53,37.25,1.12,5369,484.27,-130.38,968.54,0.0
+2021-01-25,Minas Gerais,Presidente Bernardes,0.0,0,0,0.0,60,2,3.33,1117.53,37.25,1.12,5369,614.65,0.0,968.54,0.0
+2021-01-24,Minas Gerais,Presidente Bernardes,37.25,2,0,0.0,60,2,3.33,1117.53,37.25,1.12,5369,614.65,-55.88,968.54,37.25
+2021-01-23,Minas Gerais,Presidente Bernardes,409.76,22,1,18.63,58,2,3.45,1080.28,37.25,1.08,5369,670.53,409.76,931.29,409.76
 2021-01-13,Minas Gerais,Presidente Bernardes,18.63,1,0,0.0,36,1,2.78,670.52,18.63,0.67,5369,260.77,18.63,521.53,18.63
 2021-01-12,Minas Gerais,Presidente Bernardes,18.63,1,0,0.0,35,1,2.86,651.89,18.63,0.65,5369,242.14,18.63,502.9,18.63
 2021-01-11,Minas Gerais,Presidente Bernardes,0.0,0,0,0.0,34,1,2.94,633.27,18.63,0.63,5369,223.51,0.0,484.27,0.0

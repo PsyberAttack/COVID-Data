@@ -1,8 +1,11 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-29,Minas Gerais,Madre de Deus de Minas,0.0,0,0,0.0,150,2,1.33,2942.33,39.23,2.94,5098,1373.09,0.0,1608.48,-19.62
-2021-01-28,Minas Gerais,Madre de Deus de Minas,0.0,0,0,0.0,150,2,1.33,2942.33,39.23,2.94,5098,1373.09,0.0,1628.1,-58.85
-2021-01-27,Minas Gerais,Madre de Deus de Minas,333.46,17,0,0.0,150,2,1.33,2942.33,39.23,2.94,5098,1373.09,333.46,1686.95,333.46
-2021-01-26,Minas Gerais,Madre de Deus de Minas,490.39,25,1,19.62,133,2,1.5,2608.87,39.23,2.61,5098,1039.63,490.39,1353.49,490.39
+2021-01-29,Minas Gerais,Madre de Deus de Minas,0.0,0,0,0.0,150,2,1.33,2942.33,39.23,2.94,5098,823.85,-19.62,1588.86,0.0
+2021-01-28,Minas Gerais,Madre de Deus de Minas,0.0,0,0,0.0,150,2,1.33,2942.33,39.23,2.94,5098,843.47,-529.62,1588.86,-19.62
+2021-01-27,Minas Gerais,Madre de Deus de Minas,333.46,17,0,0.0,150,2,1.33,2942.33,39.23,2.94,5098,1373.09,333.46,1608.48,333.46
+2021-01-26,Minas Gerais,Madre de Deus de Minas,0.0,0,0,0.0,133,2,1.5,2608.87,39.23,2.61,5098,1039.63,0.0,1275.02,-19.62
+2021-01-25,Minas Gerais,Madre de Deus de Minas,0.0,0,0,0.0,133,2,1.5,2608.87,39.23,2.61,5098,1039.63,0.0,1294.64,-58.85
+2021-01-24,Minas Gerais,Madre de Deus de Minas,0.0,0,1,19.62,133,2,1.5,2608.87,39.23,2.61,5098,1039.63,0.0,1353.49,0.0
+2021-01-23,Minas Gerais,Madre de Deus de Minas,490.39,25,0,0.0,133,1,0.75,2608.87,19.62,2.61,5098,1039.63,490.39,1353.49,490.39
 2021-01-13,Minas Gerais,Madre de Deus de Minas,19.62,1,0,0.0,108,1,0.93,2118.48,19.62,2.12,5098,549.24,19.62,863.1,-117.69
 2021-01-12,Minas Gerais,Madre de Deus de Minas,529.62,27,0,0.0,107,1,0.93,2098.86,19.62,2.1,5098,529.62,529.62,980.79,529.62
 2021-01-11,Minas Gerais,Madre de Deus de Minas,0.0,0,0,0.0,80,1,1.25,1569.24,19.62,1.57,5098,0.0,0.0,451.17,0.0

@@ -1,8 +1,11 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-29,Minas Gerais,Santa Helena de Minas,62.83,4,0,0.0,237,4,1.69,3722.9,62.83,3.72,6366,958.22,47.12,1994.99,31.41
-2021-01-28,Minas Gerais,Santa Helena de Minas,15.71,1,0,0.0,233,4,1.72,3660.07,62.83,3.66,6366,911.1,-31.42,1963.58,0.0
-2021-01-27,Minas Gerais,Santa Helena de Minas,109.96,7,0,0.0,232,4,1.72,3644.36,62.83,3.64,6366,942.52,109.96,1963.58,62.83
-2021-01-26,Minas Gerais,Santa Helena de Minas,722.59,46,1,15.71,225,4,1.78,3534.4,62.83,3.53,6366,832.56,298.46,1900.75,722.59
+2021-01-29,Minas Gerais,Santa Helena de Minas,62.83,4,0,0.0,237,4,1.69,3722.9,62.83,3.72,6366,911.09,15.7,1994.99,62.83
+2021-01-28,Minas Gerais,Santa Helena de Minas,15.71,1,0,0.0,233,4,1.72,3660.07,62.83,3.66,6366,895.39,15.71,1932.16,15.71
+2021-01-27,Minas Gerais,Santa Helena de Minas,109.96,7,0,0.0,232,4,1.72,3644.36,62.83,3.64,6366,879.68,109.96,1916.45,109.96
+2021-01-26,Minas Gerais,Santa Helena de Minas,15.71,1,0,0.0,225,4,1.78,3534.4,62.83,3.53,6366,769.72,0.0,1806.49,-15.71
+2021-01-25,Minas Gerais,Santa Helena de Minas,0.0,0,0,0.0,224,4,1.79,3518.69,62.83,3.52,6366,769.72,-47.13,1822.2,-15.71
+2021-01-24,Minas Gerais,Santa Helena de Minas,0.0,0,0,0.0,224,4,1.79,3518.69,62.83,3.52,6366,816.85,0.0,1837.91,-47.13
+2021-01-23,Minas Gerais,Santa Helena de Minas,706.88,45,1,15.71,224,4,1.79,3518.69,62.83,3.52,6366,816.85,282.75,1885.04,706.88
 2021-01-13,Minas Gerais,Santa Helena de Minas,47.13,3,0,0.0,179,3,1.68,2811.81,47.13,2.81,6366,534.1,47.13,1178.16,-94.25
 2021-01-12,Minas Gerais,Santa Helena de Minas,0.0,0,0,0.0,176,3,1.7,2764.69,47.13,2.76,6366,486.97,0.0,1272.41,0.0
 2021-01-11,Minas Gerais,Santa Helena de Minas,0.0,0,0,0.0,176,3,1.7,2764.69,47.13,2.76,6366,486.97,0.0,1272.41,-62.83

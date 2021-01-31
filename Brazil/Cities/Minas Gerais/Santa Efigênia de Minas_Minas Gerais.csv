@@ -1,8 +1,11 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-29,Minas Gerais,Santa Efigênia de Minas,45.36,2,0,0.0,148,4,2.7,3356.77,90.72,3.36,4409,340.21,45.36,680.42,22.68
-2021-01-28,Minas Gerais,Santa Efigênia de Minas,22.68,1,1,22.68,146,4,2.74,3311.41,90.72,3.31,4409,294.85,-22.68,657.74,-45.36
-2021-01-27,Minas Gerais,Santa Efigênia de Minas,45.36,2,0,0.0,145,3,2.07,3288.73,68.04,3.29,4409,317.53,45.36,703.1,45.36
-2021-01-26,Minas Gerais,Santa Efigênia de Minas,204.13,9,0,0.0,143,3,2.1,3243.37,68.04,3.24,4409,272.17,68.04,657.74,22.68
+2021-01-29,Minas Gerais,Santa Efigênia de Minas,45.36,2,0,0.0,148,4,2.7,3356.77,90.72,3.36,4409,317.53,45.36,589.7,-22.68
+2021-01-28,Minas Gerais,Santa Efigênia de Minas,22.68,1,1,22.68,146,4,2.74,3311.41,90.72,3.31,4409,272.17,22.68,612.38,0.0
+2021-01-27,Minas Gerais,Santa Efigênia de Minas,45.36,2,0,0.0,145,3,2.07,3288.73,68.04,3.29,4409,249.49,22.68,612.38,45.36
+2021-01-26,Minas Gerais,Santa Efigênia de Minas,0.0,0,0,0.0,143,3,2.1,3243.37,68.04,3.24,4409,226.81,0.0,567.02,-22.68
+2021-01-25,Minas Gerais,Santa Efigênia de Minas,0.0,0,0,0.0,143,3,2.1,3243.37,68.04,3.24,4409,226.81,-45.36,589.7,-68.04
+2021-01-24,Minas Gerais,Santa Efigênia de Minas,45.36,2,0,0.0,143,3,2.1,3243.37,68.04,3.24,4409,272.17,45.36,657.74,45.36
+2021-01-23,Minas Gerais,Santa Efigênia de Minas,158.77,7,0,0.0,141,3,2.13,3198.0,68.04,3.2,4409,226.81,22.68,612.38,-22.68
 2021-01-13,Minas Gerais,Santa Efigênia de Minas,0.0,0,0,0.0,134,3,2.24,3039.24,68.04,3.04,4409,204.13,0.0,635.06,0.0
 2021-01-12,Minas Gerais,Santa Efigênia de Minas,0.0,0,0,0.0,134,3,2.24,3039.24,68.04,3.04,4409,204.13,0.0,635.06,0.0
 2021-01-11,Minas Gerais,Santa Efigênia de Minas,22.68,1,0,0.0,134,3,2.24,3039.24,68.04,3.04,4409,204.13,22.68,635.06,22.68

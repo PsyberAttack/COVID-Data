@@ -1,8 +1,11 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-29,Minas Gerais,Presidente Kubitschek,0.0,0,0,0.0,38,1,2.63,1265.82,33.31,1.27,3002,266.49,0.0,532.97,0.0
-2021-01-28,Minas Gerais,Presidente Kubitschek,0.0,0,0,0.0,38,1,2.63,1265.82,33.31,1.27,3002,266.49,0.0,532.97,0.0
-2021-01-27,Minas Gerais,Presidente Kubitschek,0.0,0,0,0.0,38,1,2.63,1265.82,33.31,1.27,3002,266.49,-33.31,532.97,0.0
-2021-01-26,Minas Gerais,Presidente Kubitschek,166.56,5,0,0.0,38,1,2.63,1265.82,33.31,1.27,3002,299.8,166.56,532.97,166.56
+2021-01-29,Minas Gerais,Presidente Kubitschek,0.0,0,0,0.0,38,1,2.63,1265.82,33.31,1.27,3002,166.55,0.0,499.65,0.0
+2021-01-28,Minas Gerais,Presidente Kubitschek,0.0,0,0,0.0,38,1,2.63,1265.82,33.31,1.27,3002,166.55,-99.93,499.65,-33.31
+2021-01-27,Minas Gerais,Presidente Kubitschek,0.0,0,0,0.0,38,1,2.63,1265.82,33.31,1.27,3002,266.48,0.0,532.96,0.0
+2021-01-26,Minas Gerais,Presidente Kubitschek,33.31,1,0,0.0,38,1,2.63,1265.82,33.31,1.27,3002,266.48,33.31,532.96,33.31
+2021-01-25,Minas Gerais,Presidente Kubitschek,0.0,0,0,0.0,37,1,2.7,1232.51,33.31,1.23,3002,233.17,0.0,499.65,0.0
+2021-01-24,Minas Gerais,Presidente Kubitschek,0.0,0,0,0.0,37,1,2.7,1232.51,33.31,1.23,3002,233.17,-33.31,499.65,0.0
+2021-01-23,Minas Gerais,Presidente Kubitschek,133.24,4,0,0.0,37,1,2.7,1232.51,33.31,1.23,3002,266.48,133.24,499.65,133.24
 2021-01-13,Minas Gerais,Presidente Kubitschek,0.0,0,0,0.0,33,1,3.03,1099.27,33.31,1.1,3002,133.24,-33.31,366.41,0.0
 2021-01-12,Minas Gerais,Presidente Kubitschek,99.93,3,0,0.0,33,1,3.03,1099.27,33.31,1.1,3002,166.55,99.93,366.41,99.93
 2021-01-11,Minas Gerais,Presidente Kubitschek,0.0,0,0,0.0,30,1,3.33,999.33,33.31,1.0,3002,66.62,0.0,266.48,0.0

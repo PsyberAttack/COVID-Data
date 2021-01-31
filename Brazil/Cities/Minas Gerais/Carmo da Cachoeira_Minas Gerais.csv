@@ -1,8 +1,11 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-29,Minas Gerais,Carmo da Cachoeira,16.43,2,0,0.0,113,0,0.0,928.51,0.0,0.93,12170,213.63,16.43,254.71,16.43
-2021-01-28,Minas Gerais,Carmo da Cachoeira,8.22,1,0,0.0,111,0,0.0,912.08,0.0,0.91,12170,197.2,8.22,238.28,0.0
-2021-01-27,Minas Gerais,Carmo da Cachoeira,41.08,5,0,0.0,110,0,0.0,903.86,0.0,0.9,12170,188.98,41.08,238.28,41.08
-2021-01-26,Minas Gerais,Carmo da Cachoeira,106.82,13,0,0.0,105,0,0.0,862.78,0.0,0.86,12170,147.9,90.39,197.2,106.82
+2021-01-29,Minas Gerais,Carmo da Cachoeira,16.43,2,0,0.0,113,0,0.0,928.51,0.0,0.93,12170,172.55,16.43,254.71,16.43
+2021-01-28,Minas Gerais,Carmo da Cachoeira,8.22,1,0,0.0,111,0,0.0,912.08,0.0,0.91,12170,156.12,-32.86,238.28,8.22
+2021-01-27,Minas Gerais,Carmo da Cachoeira,41.08,5,0,0.0,110,0,0.0,903.86,0.0,0.9,12170,188.98,41.08,230.06,41.08
+2021-01-26,Minas Gerais,Carmo da Cachoeira,16.43,2,0,0.0,105,0,0.0,862.78,0.0,0.86,12170,147.9,16.43,188.98,16.43
+2021-01-25,Minas Gerais,Carmo da Cachoeira,0.0,0,0,0.0,103,0,0.0,846.34,0.0,0.85,12170,131.47,0.0,172.55,-8.22
+2021-01-24,Minas Gerais,Carmo da Cachoeira,0.0,0,0,0.0,103,0,0.0,846.34,0.0,0.85,12170,131.47,0.0,180.77,0.0
+2021-01-23,Minas Gerais,Carmo da Cachoeira,90.39,11,0,0.0,103,0,0.0,846.34,0.0,0.85,12170,131.47,73.96,180.77,90.39
 2021-01-13,Minas Gerais,Carmo da Cachoeira,0.0,0,0,0.0,92,0,0.0,755.96,0.0,0.76,12170,57.51,-16.43,90.38,0.0
 2021-01-12,Minas Gerais,Carmo da Cachoeira,41.08,5,0,0.0,92,0,0.0,755.96,0.0,0.76,12170,73.94,49.3,90.38,41.08
 2021-01-11,Minas Gerais,Carmo da Cachoeira,0.0,0,0,0.0,87,0,0.0,714.87,0.0,0.71,12170,24.64,0.0,49.3,0.0
