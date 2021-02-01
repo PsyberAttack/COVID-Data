@@ -1,5 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-31,Madhya_Pradesh,Damoh,0.0,0,0,0.0,2760,87,3.15,218.41,6.88,0.22,1263703,1.04,-0.08,8.19,-0.32
+2021-02-01,Madhya_Pradesh,Damoh,0.16,2,0,0.0,2764,88,3.18,218.72,6.96,0.22,1263703,1.04,-0.16,8.51,0.16
+2021-01-31,Madhya_Pradesh,Damoh,0.16,2,1,0.08,2762,88,3.19,218.56,6.96,0.22,1263703,1.2,0.08,8.35,-0.16
 2021-01-30,Madhya_Pradesh,Damoh,0.08,1,0,0.0,2760,87,3.15,218.41,6.88,0.22,1263703,1.12,-0.08,8.51,-0.24
 2021-01-29,Madhya_Pradesh,Damoh,0.16,2,0,0.0,2759,87,3.15,218.33,6.88,0.22,1263703,1.2,-0.39,8.75,-0.63
 2021-01-28,Madhya_Pradesh,Damoh,0.08,1,0,0.0,2757,87,3.16,218.17,6.88,0.22,1263703,1.59,-0.39,9.38,-0.87
