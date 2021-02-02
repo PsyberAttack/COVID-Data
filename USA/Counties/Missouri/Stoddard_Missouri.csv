@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Missouri,Stoddard,3.42,1,0,0.0,2230,35.0,1.57,7635.42,119.84,7.64,29206,35.48,99.29,-3.43,636.86,3.42
+2021-01-31,Missouri,Stoddard,3.42,1,0,0.0,2229,35.0,1.57,7631.99,119.84,7.63,29206,35.48,102.72,-41.09,633.44,-44.52
 2021-01-30,Missouri,Stoddard,6.85,2,0,0.0,2228,35.0,1.57,7628.57,119.84,7.63,29206,35.48,143.81,-17.12,677.96,-3.42
 2021-01-29,Missouri,Stoddard,41.09,12,0,0.0,2226,35.0,1.57,7621.72,119.84,7.62,29206,35.48,160.93,10.27,681.38,0.0
 2021-01-28,Missouri,Stoddard,17.12,5,0,0.0,2214,35.0,1.58,7580.63,119.84,7.58,29206,35.48,150.66,-3.42,681.38,-17.12

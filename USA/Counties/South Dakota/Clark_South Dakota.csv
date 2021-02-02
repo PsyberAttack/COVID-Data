@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,South Dakota,Clark,0.0,0,0,0.0,339,4.0,1.18,9066.6,106.98,9.07,3739,3.9,187.23,0.0,588.43,0.0
+2021-01-31,South Dakota,Clark,53.49,2,0,0.0,339,4.0,1.18,9066.6,106.98,9.07,3739,3.9,187.23,26.74,588.43,53.49
 2021-01-30,South Dakota,Clark,26.75,1,0,0.0,337,4.0,1.19,9013.11,106.98,9.01,3739,3.9,160.49,-26.74,534.94,-80.23
 2021-01-29,South Dakota,Clark,26.75,1,0,0.0,336,4.0,1.19,8986.36,106.98,8.99,3739,3.9,187.23,26.75,615.17,26.75
 2021-01-28,South Dakota,Clark,53.49,2,0,0.0,335,4.0,1.19,8959.61,106.98,8.96,3739,3.9,160.48,53.49,588.42,26.74

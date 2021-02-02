@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Wisconsin,Sawyer,6.06,1,0,0.0,1448,17.0,1.17,8781.61,103.1,8.78,16489,13.11,169.8,6.06,1037.04,0.0
+2021-01-31,Wisconsin,Sawyer,30.32,5,0,0.0,1447,17.0,1.17,8775.55,103.1,8.78,16489,13.11,163.74,-18.2,1037.04,-78.84
 2021-01-30,Wisconsin,Sawyer,30.32,5,0,0.0,1442,17.0,1.18,8745.22,103.1,8.75,16489,13.11,181.94,-60.65,1115.88,30.32
 2021-01-29,Wisconsin,Sawyer,18.19,3,0,0.0,1437,17.0,1.18,8714.9,103.1,8.71,16489,13.11,242.59,-72.78,1085.56,-84.91
 2021-01-28,Wisconsin,Sawyer,36.39,6,0,0.0,1434,17.0,1.19,8696.71,103.1,8.7,16489,13.11,315.37,18.2,1170.47,-36.39

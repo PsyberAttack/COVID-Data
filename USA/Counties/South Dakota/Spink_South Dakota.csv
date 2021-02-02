@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,South Dakota,Spink,15.4,1,0,0.0,763,25.0,3.28,11747.5,384.91,11.75,6495,4.32,123.19,0.0,816.04,15.4
+2021-01-31,South Dakota,Spink,0.0,0,0,0.0,762,25.0,3.28,11732.1,384.91,11.73,6495,4.32,123.19,-30.79,800.64,-46.19
 2021-01-30,South Dakota,Spink,15.4,1,0,0.0,762,25.0,3.28,11732.1,384.91,11.73,6495,4.32,153.98,-61.58,846.83,-46.19
 2021-01-29,South Dakota,Spink,15.4,1,0,0.0,761,25.0,3.29,11716.71,384.91,11.72,6495,4.32,215.56,15.4,893.02,15.4
 2021-01-28,South Dakota,Spink,-30.79,-2,0,0.0,760,25.0,3.29,11701.31,384.91,11.7,6495,4.32,200.16,-30.79,877.62,-107.77

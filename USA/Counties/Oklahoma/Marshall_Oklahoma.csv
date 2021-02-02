@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Oklahoma,Marshall,53.55,9,0,0.0,1696,12.0,0.71,10091.63,71.4,10.09,16806,45.23,499.81,53.55,2939.41,35.7
+2021-01-31,Oklahoma,Marshall,83.3,14,0,0.0,1687,12.0,0.71,10038.08,71.4,10.04,16806,45.23,446.26,53.55,2903.71,-178.51
 2021-01-30,Oklahoma,Marshall,107.1,18,0,0.0,1673,12.0,0.72,9954.78,71.4,9.95,16806,45.23,392.71,-35.71,3082.22,-83.31
 2021-01-29,Oklahoma,Marshall,130.91,22,0,0.0,1655,12.0,0.73,9847.67,71.4,9.85,16806,45.23,428.42,23.81,3165.53,130.91
 2021-01-28,Oklahoma,Marshall,29.75,5,0,0.0,1633,12.0,0.73,9716.77,71.4,9.72,16806,45.23,404.61,-136.86,3034.62,-41.65

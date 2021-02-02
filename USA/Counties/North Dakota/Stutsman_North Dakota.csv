@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,North Dakota,Stutsman,4.78,1,0,0.0,3239,76.0,2.35,15485.01,363.34,15.49,20917,9.41,66.92,0.0,435.02,-4.78
+2021-01-31,North Dakota,Stutsman,4.78,1,0,0.0,3238,76.0,2.35,15480.23,363.34,15.48,20917,9.41,66.92,4.78,439.8,0.0
 2021-01-30,North Dakota,Stutsman,9.56,2,1,4.78,3237,76.0,2.35,15475.45,363.34,15.48,20917,9.41,62.14,0.0,439.8,0.0
 2021-01-29,North Dakota,Stutsman,0.0,0,0,0.0,3235,75.0,2.32,15465.89,358.56,15.47,20917,9.41,62.14,-33.47,439.8,-47.81
 2021-01-28,North Dakota,Stutsman,23.9,5,0,0.0,3235,75.0,2.32,15465.89,358.56,15.47,20917,9.41,95.61,4.78,487.61,-43.03

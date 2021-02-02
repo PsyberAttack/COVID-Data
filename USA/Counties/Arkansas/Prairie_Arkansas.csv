@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Arkansas,Prairie,86.7,7,0,0.0,797,21.0,2.63,9871.19,260.09,9.87,8074,12.46,879.37,61.93,2861.05,61.93
+2021-01-31,Arkansas,Prairie,61.93,5,1,12.39,790,21.0,2.66,9784.49,260.09,9.78,8074,12.46,817.44,24.77,2799.12,12.39
 2021-01-30,Arkansas,Prairie,136.24,11,0,0.0,785,20.0,2.55,9722.57,247.71,9.72,8074,12.46,792.67,24.77,2786.73,61.93
 2021-01-29,Arkansas,Prairie,210.55,17,0,0.0,774,20.0,2.58,9586.33,247.71,9.59,8074,12.46,767.9,74.31,2724.8,99.08
 2021-01-28,Arkansas,Prairie,136.24,11,0,0.0,757,20.0,2.64,9375.77,247.71,9.38,8074,12.46,693.59,0.0,2625.72,-24.77

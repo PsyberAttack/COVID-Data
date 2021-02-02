@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Illinois,Vermilion,19.53,15,0,0.0,8040,120.0,1.49,10467.93,156.24,10.47,76806,85.5,304.66,-9.11,1822.78,-33.85
+2021-01-31,Illinois,Vermilion,33.85,26,0,0.0,8025,120.0,1.5,10448.4,156.24,10.45,76806,85.5,313.77,0.0,1856.63,-32.55
 2021-01-30,Illinois,Vermilion,41.66,32,0,0.0,7999,120.0,1.5,10414.55,156.24,10.41,76806,85.5,313.77,-24.74,1889.18,-113.28
 2021-01-29,Illinois,Vermilion,50.78,39,1,1.3,7967,120.0,1.51,10372.89,156.24,10.37,76806,85.5,338.51,-44.26,2002.46,50.78
 2021-01-28,Illinois,Vermilion,40.36,31,0,0.0,7928,119.0,1.5,10322.11,154.94,10.32,76806,85.5,382.77,-15.63,1951.68,-59.89

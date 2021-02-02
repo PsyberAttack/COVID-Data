@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Virginia,Charles City,43.22,3,0,0.0,345,9.0,2.61,4970.47,129.66,4.97,6941,37.97,273.72,-28.82,2045.79,28.81
+2021-01-31,Virginia,Charles City,28.81,2,0,0.0,342,9.0,2.63,4927.24,129.66,4.93,6941,37.97,302.54,0.0,2016.98,14.4
 2021-01-30,Virginia,Charles City,28.81,2,0,0.0,340,9.0,2.65,4898.43,129.66,4.9,6941,37.97,302.54,-14.41,2002.58,-57.63
 2021-01-29,Virginia,Charles City,43.22,3,0,0.0,338,9.0,2.66,4869.62,129.66,4.87,6941,37.97,316.95,0.0,2060.21,43.22
 2021-01-28,Virginia,Charles City,28.81,2,0,0.0,335,9.0,2.69,4826.39,129.66,4.83,6941,37.97,316.95,0.0,2016.99,0.0

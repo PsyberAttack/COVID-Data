@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,North Carolina,Beaufort,29.74,14,0,0.0,3802,71.0,1.87,8075.79,150.81,8.08,47079,56.59,329.24,6.38,2166.58,25.49
+2021-01-31,North Carolina,Beaufort,84.96,40,2,4.25,3788,71.0,1.87,8046.05,150.81,8.05,47079,56.59,322.86,36.11,2141.09,-112.58
 2021-01-30,North Carolina,Beaufort,0.0,0,0,0.0,3748,69.0,1.84,7961.09,146.56,7.96,47079,56.59,286.75,-133.82,2253.67,-324.99
 2021-01-29,North Carolina,Beaufort,33.99,16,0,0.0,3748,69.0,1.84,7961.09,146.56,7.96,47079,56.59,420.57,-70.09,2578.66,33.99
 2021-01-28,North Carolina,Beaufort,80.72,38,0,0.0,3732,69.0,1.85,7927.1,146.56,7.93,47079,56.59,490.66,36.11,2544.67,-44.6

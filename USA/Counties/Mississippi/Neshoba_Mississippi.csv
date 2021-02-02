@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Mississippi,Neshoba,6.87,2,0,0.0,3568,160.0,4.48,12250.64,549.36,12.25,29125,51.08,236.91,-24.03,1696.16,-34.33
+2021-01-31,Mississippi,Neshoba,20.6,6,0,0.0,3566,160.0,4.49,12243.78,549.36,12.24,29125,51.08,260.94,3.43,1730.49,-24.04
 2021-01-30,Mississippi,Neshoba,48.07,14,0,0.0,3560,160.0,4.49,12223.18,549.36,12.22,29125,51.08,257.51,-24.03,1754.53,-10.3
 2021-01-29,Mississippi,Neshoba,34.33,10,0,0.0,3546,160.0,4.51,12175.11,549.36,12.18,29125,51.08,281.54,-72.11,1764.83,-54.94
 2021-01-28,Mississippi,Neshoba,27.47,8,0,0.0,3536,160.0,4.52,12140.77,549.36,12.14,29125,51.08,353.65,-41.2,1819.77,-24.03

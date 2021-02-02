@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Georgia,Meriwether,47.47,10,0,0.0,1656,33.0,1.99,7860.26,156.64,7.86,21068,42.03,512.63,0.0,2325.81,4.75
+2021-01-31,Georgia,Meriwether,52.21,11,0,0.0,1646,33.0,2.0,7812.8,156.64,7.81,21068,42.03,512.63,18.98,2321.06,-4.75
 2021-01-30,Georgia,Meriwether,47.47,10,0,0.0,1635,33.0,2.02,7760.58,156.64,7.76,21068,42.03,493.65,-113.91,2325.81,-75.94
 2021-01-29,Georgia,Meriwether,147.14,31,1,4.75,1625,33.0,2.03,7713.12,156.64,7.71,21068,42.03,607.56,75.94,2401.75,61.7
 2021-01-28,Georgia,Meriwether,85.44,18,0,0.0,1594,32.0,2.01,7565.98,151.89,7.57,21068,42.03,531.62,-18.98,2340.05,-9.49

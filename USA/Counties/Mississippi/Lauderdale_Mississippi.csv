@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Mississippi,Lauderdale,14.6,11,0,0.0,6379,203.0,3.18,8469.54,269.53,8.47,75317,107.04,333.23,5.31,1666.25,-42.49
+2021-01-31,Mississippi,Lauderdale,33.19,25,1,1.33,6368,203.0,3.19,8454.93,269.53,8.45,75317,107.04,327.92,1.32,1708.74,-34.52
 2021-01-30,Mississippi,Lauderdale,38.5,29,1,1.33,6343,202.0,3.18,8421.74,268.2,8.42,75317,107.04,326.6,-1.33,1743.26,-11.95
 2021-01-29,Mississippi,Lauderdale,79.66,60,2,2.66,6314,201.0,3.18,8383.23,266.87,8.38,75317,107.04,327.93,35.85,1755.21,11.95
 2021-01-28,Mississippi,Lauderdale,55.76,42,1,1.33,6254,199.0,3.18,8303.57,264.22,8.3,75317,107.04,292.08,-35.85,1743.26,-31.87

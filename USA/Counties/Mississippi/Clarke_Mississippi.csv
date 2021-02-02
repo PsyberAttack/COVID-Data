@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Mississippi,Clarke,6.41,1,0,0.0,1575,64.0,4.06,10093.57,410.15,10.09,15604,22.56,570.37,-25.63,2230.19,-12.82
+2021-01-31,Mississippi,Clarke,83.31,13,0,0.0,1574,64.0,4.07,10087.16,410.15,10.09,15604,22.56,596.0,25.63,2243.01,19.22
 2021-01-30,Mississippi,Clarke,44.86,7,0,0.0,1561,64.0,4.1,10003.85,410.15,10.0,15604,22.56,570.37,-115.36,2223.79,-6.41
 2021-01-29,Mississippi,Clarke,134.58,21,2,12.82,1554,64.0,4.12,9958.98,410.15,9.96,15604,22.56,685.73,57.68,2230.2,108.95
 2021-01-28,Mississippi,Clarke,147.4,23,0,0.0,1533,62.0,4.04,9824.4,397.33,9.82,15604,22.56,628.05,32.04,2121.25,44.86

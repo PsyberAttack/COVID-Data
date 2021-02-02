@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Montana,Chouteau,17.41,1,0,0.0,443,5.0,1.13,7711.05,87.03,7.71,5745,1.45,243.7,17.41,1131.44,0.0
+2021-01-31,Montana,Chouteau,34.81,2,0,0.0,442,5.0,1.13,7693.65,87.03,7.69,5745,1.45,226.29,17.4,1131.44,17.4
 2021-01-30,Montana,Chouteau,34.81,2,0,0.0,440,5.0,1.14,7658.83,87.03,7.66,5745,1.45,208.89,34.81,1114.04,-52.22
 2021-01-29,Montana,Chouteau,69.63,4,0,0.0,438,5.0,1.14,7624.02,87.03,7.62,5745,1.45,174.08,69.63,1166.26,69.63
 2021-01-28,Montana,Chouteau,17.41,1,0,0.0,434,5.0,1.15,7554.4,87.03,7.55,5745,1.45,104.45,17.41,1096.63,-52.22

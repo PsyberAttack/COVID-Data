@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Michigan,Montcalm,12.51,8,0,0.0,5459,90.0,1.65,8533.95,140.7,8.53,63968,90.69,56.28,3.13,3373.55,-45.33
+2021-01-31,Michigan,Montcalm,0.0,0,0,0.0,5451,90.0,1.65,8521.45,140.7,8.52,63968,90.69,53.15,0.0,3418.88,0.0
 2021-01-30,Michigan,Montcalm,7.82,5,2,3.13,5451,90.0,1.65,8521.45,140.7,8.52,63968,90.69,53.15,-7.81,3418.88,-84.41
 2021-01-29,Michigan,Montcalm,6.25,4,0,0.0,5446,88.0,1.62,8513.63,137.57,8.51,63968,90.69,60.96,0.0,3503.29,6.25
 2021-01-28,Michigan,Montcalm,15.63,10,-1,-1.56,5442,88.0,1.62,8507.38,137.57,8.51,63968,90.69,60.96,-14.07,3497.04,15.63

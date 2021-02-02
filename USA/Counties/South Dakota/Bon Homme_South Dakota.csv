@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,South Dakota,Bon Homme,0.0,0,0,0.0,1500,25.0,1.67,21489.97,358.17,21.49,6980,12.39,257.88,286.53,300.87,-28.65
+2021-01-31,South Dakota,Bon Homme,14.33,1,0,0.0,1500,25.0,1.67,21489.97,358.17,21.49,6980,12.39,-28.65,14.33,329.52,0.0
 2021-01-30,South Dakota,Bon Homme,-14.33,-1,0,0.0,1499,25.0,1.67,21475.64,358.17,21.48,6980,12.39,-42.98,14.32,329.52,0.0
 2021-01-29,South Dakota,Bon Homme,-14.33,-1,0,0.0,1500,25.0,1.67,21489.97,358.17,21.49,6980,12.39,-57.3,-14.33,329.52,-14.33
 2021-01-28,South Dakota,Bon Homme,28.65,2,2,28.65,1501,25.0,1.67,21504.3,358.17,21.5,6980,12.39,-42.97,0.0,343.85,28.65

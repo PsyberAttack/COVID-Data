@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Virginia,Danville city,22.12,9,0,0.0,3664,66.0,1.8,9004.01,162.19,9.0,40693,950.83,648.77,-110.58,2939.08,-17.2
+2021-01-31,Virginia,Danville city,81.1,33,0,0.0,3655,66.0,1.81,8981.89,162.19,8.98,40693,950.83,759.35,-98.29,2956.28,27.04
 2021-01-30,Virginia,Danville city,78.64,32,0,0.0,3622,66.0,1.82,8900.79,162.19,8.9,40693,950.83,857.64,-41.77,2929.24,9.83
 2021-01-29,Virginia,Danville city,130.24,53,2,4.91,3590,66.0,1.84,8822.16,162.19,8.82,40693,950.83,899.41,93.38,2919.41,-66.35
 2021-01-28,Virginia,Danville city,132.7,54,0,0.0,3537,64.0,1.81,8691.91,157.28,8.69,40693,950.83,806.03,63.89,2985.76,103.21

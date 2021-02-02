@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Oklahoma,Jefferson,32.66,2,0,0.0,638,7.0,1.1,10419.73,114.32,10.42,6123,8.07,440.96,32.66,2760.07,16.33
+2021-01-31,Oklahoma,Jefferson,65.33,4,0,0.0,636,7.0,1.1,10387.07,114.32,10.39,6123,8.07,408.3,-32.66,2743.74,-359.3
 2021-01-30,Oklahoma,Jefferson,49.0,3,0,0.0,632,7.0,1.11,10321.74,114.32,10.32,6123,8.07,440.96,-16.33,3103.04,-48.99
 2021-01-29,Oklahoma,Jefferson,114.32,7,0,0.0,629,7.0,1.11,10272.74,114.32,10.27,6123,8.07,457.29,-32.67,3152.03,114.32
 2021-01-28,Oklahoma,Jefferson,114.32,7,0,0.0,622,7.0,1.13,10158.42,114.32,10.16,6123,8.07,489.96,48.99,3037.71,16.33

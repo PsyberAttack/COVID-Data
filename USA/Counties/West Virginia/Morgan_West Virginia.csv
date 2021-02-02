@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,West Virginia,Morgan,0.0,0,0,0.0,880,11.0,1.25,4947.43,61.84,4.95,17787,77.65,179.91,0.0,1085.06,-28.11
+2021-01-31,West Virginia,Morgan,28.11,5,0,0.0,880,11.0,1.25,4947.43,61.84,4.95,17787,77.65,179.91,22.49,1113.17,-61.84
 2021-01-30,West Virginia,Morgan,67.47,12,0,0.0,875,11.0,1.26,4919.32,61.84,4.92,17787,77.65,157.42,16.87,1175.01,16.87
 2021-01-29,West Virginia,Morgan,28.11,5,0,0.0,863,11.0,1.27,4851.86,61.84,4.85,17787,77.65,140.55,0.0,1158.14,-61.84
 2021-01-28,West Virginia,Morgan,0.0,0,0,0.0,858,11.0,1.28,4823.75,61.84,4.82,17787,77.65,140.55,-16.87,1219.98,-22.49

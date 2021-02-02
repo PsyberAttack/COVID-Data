@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Oregon,Deschutes,16.15,31,0,0.0,5434,45.0,0.83,2830.27,23.44,2.83,191996,63.63,115.63,6.77,639.08,-4.16
+2021-01-31,Oregon,Deschutes,0.0,0,0,0.0,5403,45.0,0.83,2814.12,23.44,2.81,191996,63.63,108.86,-11.98,643.24,-10.42
 2021-01-30,Oregon,Deschutes,13.02,25,2,1.04,5403,45.0,0.83,2814.12,23.44,2.81,191996,63.63,120.84,-7.81,653.66,-21.36
 2021-01-29,Oregon,Deschutes,20.31,39,0,0.0,5378,43.0,0.8,2801.1,22.4,2.8,191996,63.63,128.65,5.73,675.02,-34.9
 2021-01-28,Oregon,Deschutes,18.75,36,1,0.52,5339,43.0,0.81,2780.79,22.4,2.78,191996,63.63,122.92,3.12,709.92,-6.77

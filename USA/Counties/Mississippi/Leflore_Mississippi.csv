@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Mississippi,Leflore,20.75,6,0,0.0,3210,114.0,3.55,11099.97,394.2,11.1,28919,48.68,304.31,6.92,1652.93,-62.24
+2021-01-31,Mississippi,Leflore,38.04,11,0,0.0,3204,114.0,3.56,11079.22,394.2,11.08,28919,48.68,297.39,13.83,1715.17,-89.9
 2021-01-30,Mississippi,Leflore,17.29,5,0,0.0,3193,114.0,3.57,11041.18,394.2,11.04,28919,48.68,283.56,-55.33,1805.07,-6.92
 2021-01-29,Mississippi,Leflore,55.33,16,4,13.83,3188,114.0,3.58,11023.89,394.2,11.02,28919,48.68,338.89,17.29,1811.99,3.46
 2021-01-28,Mississippi,Leflore,82.99,24,0,0.0,3172,110.0,3.47,10968.57,380.37,10.97,28919,48.68,321.6,13.83,1808.53,-124.49

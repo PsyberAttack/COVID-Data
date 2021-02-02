@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Minnesota,Sibley,0.0,0,0,0.0,1113,7.0,0.63,7406.18,46.58,7.41,15028,25.52,79.85,-13.31,499.07,-39.93
+2021-01-31,Minnesota,Sibley,19.96,3,0,0.0,1113,7.0,0.63,7406.18,46.58,7.41,15028,25.52,93.16,-13.31,539.0,-13.31
 2021-01-30,Minnesota,Sibley,6.65,1,0,0.0,1110,7.0,0.63,7386.21,46.58,7.39,15028,25.52,106.47,-13.31,552.31,-33.28
 2021-01-29,Minnesota,Sibley,0.0,0,0,0.0,1109,7.0,0.63,7379.56,46.58,7.38,15028,25.52,119.78,-13.31,585.59,0.0
 2021-01-28,Minnesota,Sibley,39.93,6,0,0.0,1109,7.0,0.63,7379.56,46.58,7.38,15028,25.52,133.09,13.31,585.59,-26.61

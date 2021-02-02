@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Tennessee,Fentress,5.49,1,0,0.0,2209,39.0,1.77,12126.04,214.09,12.13,18217,36.54,170.18,0.0,1339.41,0.0
+2021-01-31,Tennessee,Fentress,21.96,4,0,0.0,2208,39.0,1.77,12120.55,214.09,12.12,18217,36.54,170.18,-32.93,1339.41,-76.85
 2021-01-30,Tennessee,Fentress,32.94,6,1,5.49,2204,39.0,1.77,12098.59,214.09,12.1,18217,36.54,203.11,-21.95,1416.26,-329.36
 2021-01-29,Tennessee,Fentress,32.94,6,1,5.49,2198,38.0,1.73,12065.65,208.6,12.07,18217,36.54,225.06,-16.46,1745.62,32.94
 2021-01-28,Tennessee,Fentress,54.89,10,0,0.0,2192,37.0,1.69,12032.72,203.11,12.03,18217,36.54,241.52,21.95,1712.68,0.0

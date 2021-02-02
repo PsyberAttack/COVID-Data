@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Pennsylvania,Clearfield,30.23,24,0,0.0,5627,100.0,1.78,7087.97,125.96,7.09,79388,69.35,322.46,3.78,1660.21,11.34
+2021-01-31,Pennsylvania,Clearfield,41.57,33,0,0.0,5603,100.0,1.78,7057.74,125.96,7.06,79388,69.35,318.68,22.68,1648.87,-20.15
 2021-01-30,Pennsylvania,Clearfield,60.46,48,3,3.78,5570,100.0,1.8,7016.17,125.96,7.02,79388,69.35,296.0,25.19,1669.02,-74.32
 2021-01-29,Pennsylvania,Clearfield,46.61,37,2,2.52,5522,97.0,1.76,6955.71,122.18,6.96,79388,69.35,270.81,2.52,1743.34,-98.25
 2021-01-28,Pennsylvania,Clearfield,59.2,47,1,1.26,5485,95.0,1.73,6909.1,119.67,6.91,79388,69.35,268.29,-13.86,1841.59,-25.2

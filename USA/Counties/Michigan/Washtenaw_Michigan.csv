@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Michigan,Washtenaw,62.0,230,2,0.54,17395,236.0,1.36,4689.15,63.62,4.69,370963,525.46,217.54,11.86,735.38,-17.52
+2021-01-31,Michigan,Washtenaw,0.0,0,0,0.0,17165,234.0,1.36,4627.15,63.08,4.63,370963,525.46,205.68,0.0,752.9,0.0
 2021-01-30,Michigan,Washtenaw,0.81,3,0,0.0,17165,234.0,1.36,4627.15,63.08,4.63,370963,525.46,205.68,0.81,752.9,-36.39
 2021-01-29,Michigan,Washtenaw,39.63,147,0,0.0,17162,234.0,1.36,4626.34,63.08,4.63,370963,525.46,204.87,23.19,789.29,39.63
 2021-01-28,Michigan,Washtenaw,54.18,201,3,0.81,17015,234.0,1.38,4586.71,63.08,4.59,370963,525.46,181.68,18.33,749.66,54.18

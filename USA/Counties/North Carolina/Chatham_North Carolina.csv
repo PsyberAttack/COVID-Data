@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,North Carolina,Chatham,24.61,18,0,0.0,3744,70.0,1.87,5119.02,95.71,5.12,73139,107.29,248.84,8.2,1047.33,8.2
+2021-01-31,North Carolina,Chatham,76.57,56,0,0.0,3726,70.0,1.88,5094.41,95.71,5.09,73139,107.29,240.64,50.59,1039.13,71.1
 2021-01-30,North Carolina,Chatham,0.0,0,0,0.0,3670,70.0,1.91,5017.84,95.71,5.02,73139,107.29,190.05,-50.59,968.03,-77.93
 2021-01-29,North Carolina,Chatham,49.22,36,1,1.37,3670,70.0,1.91,5017.84,95.71,5.02,73139,107.29,240.64,12.3,1045.96,49.22
 2021-01-28,North Carolina,Chatham,46.49,34,0,0.0,3634,69.0,1.9,4968.62,94.34,4.97,73139,107.29,228.34,2.74,996.74,1.37

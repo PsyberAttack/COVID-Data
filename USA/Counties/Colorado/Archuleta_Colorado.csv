@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Colorado,Archuleta,14.53,2,0,0.0,604,1.0,0.17,4387.94,7.26,4.39,13765,10.2,87.16,14.53,726.44,0.0
+2021-01-31,Colorado,Archuleta,0.0,0,0,0.0,602,1.0,0.17,4373.41,7.26,4.37,13765,10.2,72.63,0.0,726.44,-65.38
 2021-01-30,Colorado,Archuleta,0.0,0,0,0.0,602,1.0,0.17,4373.41,7.26,4.37,13765,10.2,72.63,-14.53,791.82,-43.59
 2021-01-29,Colorado,Archuleta,7.26,1,0,0.0,602,1.0,0.17,4373.41,7.26,4.37,13765,10.2,87.16,-65.39,835.41,-7.27
 2021-01-28,Colorado,Archuleta,7.26,1,0,0.0,601,1.0,0.17,4366.15,7.26,4.37,13765,10.2,152.55,-65.39,842.68,-101.71

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Virginia,Roanoke city,21.02,21,0,0.0,6949,119.0,1.71,6954.56,119.1,6.95,99920,2350.06,443.36,-34.02,1569.25,10.01
+2021-01-31,Virginia,Roanoke city,99.08,99,0,0.0,6928,119.0,1.72,6933.55,119.1,6.93,99920,2350.06,477.38,84.07,1559.24,39.03
 2021-01-30,Virginia,Roanoke city,72.06,72,0,0.0,6829,119.0,1.74,6834.47,119.1,6.83,99920,2350.06,393.31,-44.03,1520.21,43.04
 2021-01-29,Virginia,Roanoke city,70.06,70,3,3.0,6757,119.0,1.76,6762.41,119.1,6.76,99920,2350.06,437.34,25.02,1477.17,25.02
 2021-01-28,Virginia,Roanoke city,50.04,50,0,0.0,6687,116.0,1.73,6692.35,116.09,6.69,99920,2350.06,412.32,15.01,1452.15,13.01

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Virginia,Galax city,46.71,3,0,0.0,958,39.0,4.07,14915.15,607.19,14.92,6423,779.83,124.56,-15.57,1494.64,-15.57
+2021-01-31,Virginia,Galax city,15.57,1,0,0.0,955,39.0,4.08,14868.44,607.19,14.87,6423,779.83,140.13,-46.71,1510.21,-326.95
 2021-01-30,Virginia,Galax city,-15.57,-1,0,0.0,954,39.0,4.09,14852.87,607.19,14.85,6423,779.83,186.84,0.0,1837.16,0.0
 2021-01-29,Virginia,Galax city,31.14,2,1,15.57,955,39.0,4.08,14868.44,607.19,14.87,6423,779.83,186.84,62.28,1837.16,-62.27
 2021-01-28,Virginia,Galax city,31.14,2,0,0.0,953,38.0,3.99,14837.3,591.62,14.84,6423,779.83,124.56,-124.55,1899.43,-358.09

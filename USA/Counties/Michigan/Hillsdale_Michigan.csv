@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Michigan,Hillsdale,45.9,21,0,0.0,3153,68.0,2.16,6891.95,148.64,6.89,45749,76.48,174.87,8.74,1055.77,-4.37
+2021-01-31,Michigan,Hillsdale,0.0,0,0,0.0,3132,68.0,2.17,6846.05,148.64,6.85,45749,76.48,166.13,0.0,1060.14,0.0
 2021-01-30,Michigan,Hillsdale,6.56,3,0,0.0,3132,68.0,2.17,6846.05,148.64,6.85,45749,76.48,166.13,-19.67,1060.14,-122.4
 2021-01-29,Michigan,Hillsdale,19.67,9,0,0.0,3129,68.0,2.17,6839.49,148.64,6.84,45749,76.48,185.8,-17.49,1182.54,19.67
 2021-01-28,Michigan,Hillsdale,28.42,13,0,0.0,3120,68.0,2.18,6819.82,148.64,6.82,45749,76.48,203.29,-2.18,1162.87,28.42

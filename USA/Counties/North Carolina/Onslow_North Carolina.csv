@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,North Carolina,Onslow,23.27,46,1,0.51,13122,114.0,0.87,6637.9,57.67,6.64,197683,259.45,480.57,0.0,1887.37,-14.16
+2021-01-31,North Carolina,Onslow,182.62,361,4,2.02,13076,113.0,0.86,6614.63,57.16,6.61,197683,259.45,480.57,125.96,1901.53,118.88
 2021-01-30,North Carolina,Onslow,0.0,0,0,0.0,12715,109.0,0.86,6432.01,55.14,6.43,197683,259.45,354.61,-80.94,1782.65,-233.2
 2021-01-29,North Carolina,Onslow,76.38,151,0,0.0,12715,109.0,0.86,6432.01,55.14,6.43,197683,259.45,435.55,-28.33,2015.85,76.38
 2021-01-28,North Carolina,Onslow,74.87,148,4,2.02,12564,109.0,0.87,6355.63,55.14,6.36,197683,259.45,463.88,26.81,1939.47,32.38

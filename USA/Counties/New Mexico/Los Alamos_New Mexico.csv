@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,New Mexico,Los Alamos,0.0,0,0,0.0,448,2.0,0.45,2345.43,10.47,2.35,19101,174.92,120.41,-5.24,780.06,0.0
+2021-01-31,New Mexico,Los Alamos,20.94,4,0,0.0,448,2.0,0.45,2345.43,10.47,2.35,19101,174.92,125.65,0.0,780.06,15.7
 2021-01-30,New Mexico,Los Alamos,0.0,0,0,0.0,444,2.0,0.45,2324.49,10.47,2.32,19101,174.92,125.65,-10.47,764.36,-62.82
 2021-01-29,New Mexico,Los Alamos,26.18,5,0,0.0,444,2.0,0.45,2324.49,10.47,2.32,19101,174.92,136.12,-36.64,827.18,15.71
 2021-01-28,New Mexico,Los Alamos,31.41,6,0,0.0,439,2.0,0.46,2298.31,10.47,2.3,19101,174.92,172.76,5.23,811.47,-26.18

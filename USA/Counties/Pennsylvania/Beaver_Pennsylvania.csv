@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Pennsylvania,Beaver,20.64,34,1,0.61,11019,323.0,2.93,6688.64,196.06,6.69,164742,378.97,224.59,-3.64,1339.07,-16.99
+2021-01-31,Pennsylvania,Beaver,25.49,42,1,0.61,10985,322.0,2.93,6668.0,195.46,6.67,164742,378.97,228.23,6.67,1356.06,-1.22
 2021-01-30,Pennsylvania,Beaver,32.17,53,3,1.82,10943,321.0,2.93,6642.51,194.85,6.64,164742,378.97,221.56,3.64,1357.28,-91.05
 2021-01-29,Pennsylvania,Beaver,34.6,57,2,1.21,10890,318.0,2.92,6610.34,193.03,6.61,164742,378.97,217.92,-2.43,1448.33,-8.5
 2021-01-28,Pennsylvania,Beaver,44.92,74,2,1.21,10833,316.0,2.92,6575.74,191.82,6.58,164742,378.97,220.35,18.21,1456.83,-39.45

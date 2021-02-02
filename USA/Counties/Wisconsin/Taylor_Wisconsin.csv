@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Wisconsin,Taylor,4.9,1,0,0.0,1968,29.0,1.47,9641.39,142.07,9.64,20412,20.93,117.59,0.0,881.83,0.0
+2021-01-31,Wisconsin,Taylor,24.5,5,0,0.0,1967,29.0,1.47,9636.49,142.07,9.64,20412,20.93,117.59,0.0,881.83,-14.69
 2021-01-30,Wisconsin,Taylor,4.9,1,0,0.0,1962,29.0,1.48,9611.99,142.07,9.61,20412,20.93,117.59,-29.39,896.52,4.9
 2021-01-29,Wisconsin,Taylor,24.5,5,1,4.9,1961,29.0,1.48,9607.09,142.07,9.61,20412,20.93,146.98,-4.89,891.62,9.8
 2021-01-28,Wisconsin,Taylor,14.7,3,0,0.0,1956,28.0,1.43,9582.6,137.17,9.58,20412,20.93,151.87,-9.8,881.82,4.9

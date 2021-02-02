@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Puerto Rico,Morovis,3.33,1,0,0.0,1276,0.0,0.0,4243.71,0.0,4.24,30068,0.0,96.45,-33.25,552.09,-16.62
+2021-01-31,Puerto Rico,Morovis,3.33,1,0,0.0,1275,0.0,0.0,4240.39,0.0,4.24,30068,0.0,129.7,-23.28,568.71,3.33
 2021-01-30,Puerto Rico,Morovis,9.98,3,0,0.0,1274,0.0,0.0,4237.06,0.0,4.24,30068,0.0,152.98,-26.6,565.38,-19.95
 2021-01-29,Puerto Rico,Morovis,9.98,3,0,0.0,1271,0.0,0.0,4227.09,0.0,4.23,30068,0.0,179.58,-3.32,585.33,-23.28
 2021-01-28,Puerto Rico,Morovis,36.58,11,0,0.0,1268,0.0,0.0,4217.11,0.0,4.22,30068,0.0,182.9,36.58,608.61,36.58

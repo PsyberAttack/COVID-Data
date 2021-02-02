@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Kentucky,Crittenden,56.09,5,0,0.0,511,14.0,2.74,5731.91,157.04,5.73,8915,24.77,190.7,56.09,1166.62,-291.64
+2021-01-31,Kentucky,Crittenden,33.65,3,0,0.0,506,14.0,2.77,5675.83,157.04,5.68,8915,24.77,134.61,22.43,1458.26,-100.95
 2021-01-30,Kentucky,Crittenden,22.43,2,1,11.22,503,14.0,2.78,5642.18,157.04,5.64,8915,24.77,112.18,-22.44,1559.21,-291.65
 2021-01-29,Kentucky,Crittenden,11.22,1,0,0.0,501,13.0,2.59,5619.74,145.82,5.62,8915,24.77,134.62,-33.65,1850.86,11.22
 2021-01-28,Kentucky,Crittenden,11.22,1,0,0.0,500,13.0,2.6,5608.52,145.82,5.61,8915,24.77,168.27,-67.3,1839.64,11.22

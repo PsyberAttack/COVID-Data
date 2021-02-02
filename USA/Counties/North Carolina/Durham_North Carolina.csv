@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,North Carolina,Durham,0.0,0,0,0.0,19847,187.0,0.94,6266.04,59.04,6.27,316739,1105.73,262.36,-154.07,1356.3,-66.62
+2021-01-31,North Carolina,Durham,53.04,168,2,0.63,19847,187.0,0.94,6266.04,59.04,6.27,316739,1105.73,416.43,53.04,1422.92,29.05
 2021-01-30,North Carolina,Durham,0.0,0,0,0.0,19679,185.0,0.94,6213.0,58.41,6.21,316739,1105.73,363.39,0.0,1393.87,-28.73
 2021-01-29,North Carolina,Durham,62.83,199,1,0.32,19679,185.0,0.94,6213.0,58.41,6.21,316739,1105.73,363.39,4.11,1422.6,62.83
 2021-01-28,North Carolina,Durham,146.49,464,4,1.26,19480,184.0,0.94,6150.17,58.09,6.15,316739,1105.73,359.28,25.89,1359.77,73.56

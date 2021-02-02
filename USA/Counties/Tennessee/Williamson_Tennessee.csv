@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Tennessee,Williamson,35.82,83,1,0.43,23070,172.0,0.75,9955.59,74.22,9.96,231729,397.57,349.98,-0.43,1830.16,-45.31
+2021-01-31,Tennessee,Williamson,61.28,142,0,0.0,22987,171.0,0.74,9919.78,73.79,9.92,231729,397.57,350.41,3.45,1875.47,14.67
 2021-01-30,Tennessee,Williamson,29.78,69,0,0.0,22845,171.0,0.75,9858.5,73.79,9.86,231729,397.57,346.96,-28.48,1860.8,-242.09
 2021-01-29,Tennessee,Williamson,78.97,183,1,0.43,22776,171.0,0.75,9828.72,73.79,9.83,231729,397.57,375.44,22.87,2102.89,78.97
 2021-01-28,Tennessee,Williamson,25.89,60,4,1.73,22593,170.0,0.75,9749.75,73.36,9.75,231729,397.57,352.57,-15.97,2023.92,-69.91

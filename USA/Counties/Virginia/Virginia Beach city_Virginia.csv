@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Virginia,Virginia Beach city,46.42,209,2,0.44,26420,208.0,0.79,5868.65,46.2,5.87,450189,1839.58,404.28,-33.32,1912.53,-26.66
+2021-01-31,Virginia,Virginia Beach city,32.21,145,0,0.0,26211,206.0,0.79,5822.22,45.76,5.82,450189,1839.58,437.6,-23.54,1939.19,-50.64
 2021-01-30,Virginia,Virginia Beach city,67.53,304,3,0.67,26066,206.0,0.79,5790.01,45.76,5.79,450189,1839.58,461.14,-0.66,1989.83,39.1
 2021-01-29,Virginia,Virginia Beach city,51.76,233,2,0.44,25762,203.0,0.79,5722.49,45.09,5.72,450189,1839.58,461.8,16.66,1950.73,-26.21
 2021-01-28,Virginia,Virginia Beach city,73.3,330,6,1.33,25529,201.0,0.79,5670.73,44.65,5.67,450189,1839.58,445.14,38.2,1976.94,-1.11

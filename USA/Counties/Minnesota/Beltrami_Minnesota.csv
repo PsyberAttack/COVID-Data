@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Minnesota,Beltrami,4.27,2,0,0.0,3211,48.0,1.49,6854.23,102.46,6.85,46847,18.7,106.73,-4.27,597.7,-40.56
+2021-01-31,Minnesota,Beltrami,14.94,7,0,0.0,3209,48.0,1.5,6849.96,102.46,6.85,46847,18.7,111.0,0.0,638.26,-23.48
 2021-01-30,Minnesota,Beltrami,25.62,12,0,0.0,3202,48.0,1.5,6835.02,102.46,6.84,46847,18.7,111.0,4.27,661.74,-19.21
 2021-01-29,Minnesota,Beltrami,8.54,4,0,0.0,3190,48.0,1.5,6809.4,102.46,6.81,46847,18.7,106.73,-8.54,680.95,8.54
 2021-01-28,Minnesota,Beltrami,27.75,13,0,0.0,3186,48.0,1.51,6800.86,102.46,6.8,46847,18.7,115.27,-19.21,672.41,6.4

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,North Carolina,Gates,51.84,6,0,0.0,550,12.0,2.18,4752.44,103.69,4.75,11573,33.98,362.9,25.92,1538.02,34.56
+2021-01-31,North Carolina,Gates,138.25,16,0,0.0,544,12.0,2.21,4700.6,103.69,4.7,11573,33.98,336.98,138.25,1503.46,112.33
 2021-01-30,North Carolina,Gates,0.0,0,0,0.0,528,12.0,2.27,4562.34,103.69,4.56,11573,33.98,198.73,-51.84,1391.13,-86.41
 2021-01-29,North Carolina,Gates,34.56,4,0,0.0,528,12.0,2.27,4562.34,103.69,4.56,11573,33.98,250.57,-69.13,1477.54,34.56
 2021-01-28,North Carolina,Gates,69.13,8,0,0.0,524,12.0,2.29,4527.78,103.69,4.53,11573,33.98,319.7,17.29,1442.98,8.64

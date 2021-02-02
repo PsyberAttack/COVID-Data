@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,West Virginia,McDowell,16.46,3,0,0.0,1259,13.0,1.03,6908.85,71.34,6.91,18223,34.16,362.18,-21.95,1267.63,-21.95
+2021-01-31,West Virginia,McDowell,76.83,14,0,0.0,1256,13.0,1.04,6892.39,71.34,6.89,18223,34.16,384.13,60.37,1289.58,5.49
 2021-01-30,West Virginia,McDowell,54.88,10,0,0.0,1242,13.0,1.05,6815.56,71.34,6.82,18223,34.16,323.76,0.0,1284.09,-32.92
 2021-01-29,West Virginia,McDowell,65.85,12,1,5.49,1232,13.0,1.06,6760.69,71.34,6.76,18223,34.16,323.76,27.44,1317.01,-54.88
 2021-01-28,West Virginia,McDowell,104.26,19,1,5.49,1220,12.0,0.98,6694.84,65.85,6.69,18223,34.16,296.32,-10.98,1371.89,5.48

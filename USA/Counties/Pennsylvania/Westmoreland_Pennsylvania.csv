@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Pennsylvania,Westmoreland,17.97,63,1,0.29,24766,606.0,2.45,7063.67,172.84,7.06,350611,341.05,168.57,-26.52,1312.27,-48.2
+2021-01-31,Pennsylvania,Westmoreland,11.98,42,4,1.14,24703,605.0,2.45,7045.7,172.56,7.05,350611,341.05,195.09,-4.28,1360.47,-24.24
 2021-01-30,Pennsylvania,Westmoreland,24.24,85,7,2.0,24661,601.0,2.44,7033.72,171.42,7.03,350611,341.05,199.37,-15.69,1384.71,-77.01
 2021-01-29,Pennsylvania,Westmoreland,34.23,120,8,2.28,24576,594.0,2.42,7009.48,169.42,7.01,350611,341.05,215.06,8.28,1461.72,0.57
 2021-01-28,Pennsylvania,Westmoreland,25.1,88,7,2.0,24456,586.0,2.4,6975.25,167.14,6.98,350611,341.05,206.78,-5.42,1461.15,-49.91

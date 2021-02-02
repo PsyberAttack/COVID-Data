@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,North Carolina,Guilford,42.72,228,0,0.0,35206,414.0,1.18,6596.96,77.58,6.6,533670,826.25,343.47,-4.87,1720.15,-6.94
+2021-01-31,North Carolina,Guilford,101.94,544,13,2.44,34978,414.0,1.18,6554.24,77.58,6.55,533670,826.25,348.34,32.61,1727.09,42.73
 2021-01-30,North Carolina,Guilford,0.0,0,0,0.0,34434,401.0,1.16,6452.3,75.14,6.45,533670,826.25,315.73,-68.02,1684.36,-177.08
 2021-01-29,North Carolina,Guilford,50.41,269,11,2.06,34434,401.0,1.16,6452.3,75.14,6.45,533670,826.25,383.75,-20.98,1861.44,50.41
 2021-01-28,North Carolina,Guilford,68.58,366,6,1.12,34165,390.0,1.14,6401.9,73.08,6.4,533670,826.25,404.73,18.55,1811.03,13.49

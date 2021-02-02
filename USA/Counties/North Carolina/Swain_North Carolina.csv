@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,North Carolina,Swain,0.0,0,0,0.0,1068,15.0,1.4,7497.37,105.3,7.5,14245,26.99,315.9,-28.08,2407.86,-56.16
+2021-01-31,North Carolina,Swain,70.2,10,1,7.02,1068,15.0,1.4,7497.37,105.3,7.5,14245,26.99,343.98,14.04,2464.02,21.06
 2021-01-30,North Carolina,Swain,0.0,0,0,0.0,1058,14.0,1.32,7427.17,98.28,7.43,14245,26.99,329.94,-63.18,2442.96,-126.36
 2021-01-29,North Carolina,Swain,21.06,3,2,14.04,1058,14.0,1.32,7427.17,98.28,7.43,14245,26.99,393.12,-49.14,2569.32,21.06
 2021-01-28,North Carolina,Swain,112.32,16,1,7.02,1055,12.0,1.14,7406.11,84.24,7.41,14245,26.99,442.26,70.2,2548.26,14.04

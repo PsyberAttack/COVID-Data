@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Minnesota,Murray,0.0,0,0,0.0,928,8.0,0.86,11213.15,96.67,11.21,8276,11.74,181.26,-24.17,1909.17,-108.75
+2021-01-31,Minnesota,Murray,36.25,3,1,12.08,928,8.0,0.86,11213.15,96.67,11.21,8276,11.74,205.43,12.08,2017.92,12.08
 2021-01-30,Minnesota,Murray,60.42,5,0,0.0,925,7.0,0.76,11176.9,84.58,11.18,8276,11.74,193.35,12.09,2005.84,12.09
 2021-01-29,Minnesota,Murray,24.17,2,0,0.0,920,7.0,0.76,11116.48,84.58,11.12,8276,11.74,181.26,-48.33,1993.75,24.17
 2021-01-28,Minnesota,Murray,24.17,2,0,0.0,918,7.0,0.76,11092.32,84.58,11.09,8276,11.74,229.59,-48.33,1969.58,-24.16

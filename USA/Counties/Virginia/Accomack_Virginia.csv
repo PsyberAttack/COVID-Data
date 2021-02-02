@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Virginia,Accomack,70.96,23,0,0.0,2365,31.0,1.31,7296.68,95.64,7.3,32412,72.14,286.93,0.0,1777.11,-18.51
+2021-01-31,Virginia,Accomack,27.77,9,0,0.0,2342,31.0,1.32,7225.72,95.64,7.23,32412,72.14,286.93,-37.02,1795.62,-64.79
 2021-01-30,Virginia,Accomack,27.77,9,0,0.0,2333,31.0,1.33,7197.95,95.64,7.2,32412,72.14,323.95,-40.11,1860.41,-37.02
 2021-01-29,Virginia,Accomack,70.96,23,0,0.0,2324,31.0,1.33,7170.18,95.64,7.17,32412,72.14,364.06,46.28,1897.43,37.02
 2021-01-28,Virginia,Accomack,18.51,6,0,0.0,2301,31.0,1.35,7099.22,95.64,7.1,32412,72.14,317.78,-15.43,1860.41,0.0

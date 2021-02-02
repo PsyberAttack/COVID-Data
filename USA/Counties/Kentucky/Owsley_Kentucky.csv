@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Kentucky,Owsley,0.0,0,0,0.0,364,10.0,2.75,8139.53,223.61,8.14,4472,22.65,44.72,22.36,961.52,0.0
+2021-01-31,Kentucky,Owsley,0.0,0,0,0.0,364,10.0,2.75,8139.53,223.61,8.14,4472,22.65,22.36,0.0,961.52,-44.72
 2021-01-30,Kentucky,Owsley,0.0,0,0,0.0,364,10.0,2.75,8139.53,223.61,8.14,4472,22.65,22.36,-22.36,1006.24,-335.42
 2021-01-29,Kentucky,Owsley,22.36,1,0,0.0,364,10.0,2.75,8139.53,223.61,8.14,4472,22.65,44.72,22.36,1341.66,22.36
 2021-01-28,Kentucky,Owsley,22.36,1,0,0.0,363,10.0,2.75,8117.17,223.61,8.12,4472,22.65,22.36,-22.36,1319.3,22.36

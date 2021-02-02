@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Nebraska,Box Butte,0.0,0,0,0.0,871,9.0,1.03,8085.78,83.55,8.09,10772,10.02,157.81,-55.7,724.1,0.0
+2021-01-31,Nebraska,Box Butte,9.28,1,0,0.0,871,9.0,1.03,8085.78,83.55,8.09,10772,10.02,213.51,18.56,724.1,-74.27
 2021-01-30,Nebraska,Box Butte,9.28,1,0,0.0,870,9.0,1.03,8076.49,83.55,8.08,10772,10.02,194.95,-9.29,798.37,9.28
 2021-01-29,Nebraska,Box Butte,0.0,0,0,0.0,869,9.0,1.04,8067.21,83.55,8.07,10772,10.02,204.24,-18.57,789.09,-9.28
 2021-01-28,Nebraska,Box Butte,-9.28,-1,0,0.0,869,9.0,1.04,8067.21,83.55,8.07,10772,10.02,222.81,-74.26,798.37,-46.41

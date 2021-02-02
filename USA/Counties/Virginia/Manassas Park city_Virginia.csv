@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Virginia,Manassas Park city,0.0,0,0,0.0,1070,8.0,0.75,6182.47,46.22,6.18,17307,6855.31,57.78,-17.33,676.02,0.0
+2021-01-31,Virginia,Manassas Park city,17.33,3,0,0.0,1070,8.0,0.75,6182.47,46.22,6.18,17307,6855.31,75.11,11.55,676.02,-34.67
 2021-01-30,Virginia,Manassas Park city,0.0,0,0,0.0,1067,8.0,0.75,6165.14,46.22,6.17,17307,6855.31,63.56,-34.67,710.69,-17.33
 2021-01-29,Virginia,Manassas Park city,17.33,3,0,0.0,1067,8.0,0.75,6165.14,46.22,6.17,17307,6855.31,98.23,-11.56,728.02,-40.45
 2021-01-28,Virginia,Manassas Park city,11.56,2,0,0.0,1064,8.0,0.75,6147.8,46.22,6.15,17307,6855.31,109.79,0.0,768.47,-17.33

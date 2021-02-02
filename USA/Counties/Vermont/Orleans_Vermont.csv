@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Vermont,Orleans,7.43,2,0,0.0,360,5.0,1.39,1337.94,18.58,1.34,26907,38.79,44.6,-7.44,241.57,7.43
+2021-01-31,Vermont,Orleans,7.43,2,0,0.0,358,5.0,1.4,1330.51,18.58,1.33,26907,38.79,52.04,-7.44,234.14,3.71
 2021-01-30,Vermont,Orleans,3.72,1,0,0.0,356,5.0,1.4,1323.08,18.58,1.32,26907,38.79,59.48,-3.71,230.43,0.0
 2021-01-29,Vermont,Orleans,11.15,3,0,0.0,355,5.0,1.41,1319.36,18.58,1.32,26907,38.79,63.19,-7.43,230.43,11.15
 2021-01-28,Vermont,Orleans,14.87,4,0,0.0,352,5.0,1.42,1308.21,18.58,1.31,26907,38.79,70.62,11.15,219.28,7.44

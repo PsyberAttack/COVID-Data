@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Virginia,Goochland,34.42,8,0,0.0,1043,8.0,0.77,4487.18,34.42,4.49,23244,82.83,322.67,-47.32,1677.84,21.51
+2021-01-31,Virginia,Goochland,30.12,7,0,0.0,1035,8.0,0.77,4452.76,34.42,4.45,23244,82.83,369.99,4.31,1656.33,4.31
 2021-01-30,Virginia,Goochland,47.32,11,1,4.3,1028,8.0,0.78,4422.65,34.42,4.42,23244,82.83,365.68,-8.61,1652.02,-51.63
 2021-01-29,Virginia,Goochland,47.32,11,0,0.0,1017,7.0,0.69,4375.32,30.12,4.38,23244,82.83,374.29,-8.61,1703.65,8.6
 2021-01-28,Virginia,Goochland,73.14,17,0,0.0,1006,7.0,0.7,4328.0,30.12,4.33,23244,82.83,382.9,12.91,1695.05,51.63

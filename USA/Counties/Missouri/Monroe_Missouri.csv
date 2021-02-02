@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Missouri,Monroe,11.54,1,0,0.0,580,7.0,1.21,6694.37,80.79,6.69,8664,13.38,115.41,11.54,542.44,11.54
+2021-01-31,Missouri,Monroe,0.0,0,0,0.0,579,7.0,1.21,6682.83,80.79,6.68,8664,13.38,103.87,-23.08,530.9,-80.79
 2021-01-30,Missouri,Monroe,0.0,0,0,0.0,579,7.0,1.21,6682.83,80.79,6.68,8664,13.38,126.95,-11.54,611.69,-46.17
 2021-01-29,Missouri,Monroe,23.08,2,0,0.0,579,7.0,1.21,6682.83,80.79,6.68,8664,13.38,138.49,0.0,657.86,-46.17
 2021-01-28,Missouri,Monroe,57.71,5,0,0.0,577,7.0,1.21,6659.74,80.79,6.66,8664,13.38,138.49,34.63,704.03,34.63

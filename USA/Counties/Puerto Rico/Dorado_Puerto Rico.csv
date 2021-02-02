@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Puerto Rico,Dorado,27.95,10,0,0.0,2083,0.0,0.0,5821.85,0.0,5.82,35779,0.0,103.4,-2.79,544.96,11.18
+2021-01-31,Puerto Rico,Dorado,2.79,1,0,0.0,2073,0.0,0.0,5793.9,0.0,5.79,35779,0.0,106.19,-27.95,533.78,2.79
 2021-01-30,Puerto Rico,Dorado,16.77,6,0,0.0,2072,0.0,0.0,5791.11,0.0,5.79,35779,0.0,134.14,-16.77,530.99,-16.77
 2021-01-29,Puerto Rico,Dorado,30.74,11,0,0.0,2066,0.0,0.0,5774.34,0.0,5.77,35779,0.0,150.91,5.59,547.76,13.97
 2021-01-28,Puerto Rico,Dorado,13.97,5,0,0.0,2055,0.0,0.0,5743.59,0.0,5.74,35779,0.0,145.32,-13.98,533.79,-8.39

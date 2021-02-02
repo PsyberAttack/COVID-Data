@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Tennessee,Benton,6.18,1,0,0.0,1374,35.0,2.55,8489.87,216.26,8.49,16184,41.04,203.91,0.0,1013.38,-49.43
+2021-01-31,Tennessee,Benton,12.36,2,0,0.0,1373,35.0,2.55,8483.69,216.26,8.48,16184,41.04,203.91,0.0,1062.81,0.0
 2021-01-30,Tennessee,Benton,80.33,13,0,0.0,1371,35.0,2.55,8471.33,216.26,8.47,16184,41.04,203.91,55.61,1062.81,-111.22
 2021-01-29,Tennessee,Benton,30.89,5,0,0.0,1358,35.0,2.58,8391.0,216.26,8.39,16184,41.04,148.3,6.17,1174.03,30.89
 2021-01-28,Tennessee,Benton,0.0,0,0,0.0,1353,35.0,2.59,8360.11,216.26,8.36,16184,41.04,142.13,-30.89,1143.14,-6.18

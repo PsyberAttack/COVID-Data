@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Washington,Mason,10.69,7,1,1.53,2126,18.0,0.85,3245.45,27.48,3.25,65507,68.28,105.34,-15.26,694.59,-1.52
+2021-01-31,Washington,Mason,0.0,0,0,0.0,2119,17.0,0.8,3234.77,25.95,3.23,65507,68.28,120.6,0.0,696.11,-261.04
 2021-01-30,Washington,Mason,25.95,17,0,0.0,2119,17.0,0.8,3234.77,25.95,3.23,65507,68.28,120.6,6.1,957.15,25.95
 2021-01-29,Washington,Mason,27.48,18,-1,-1.53,2102,17.0,0.81,3208.82,25.95,3.21,65507,68.28,114.5,1.53,931.2,27.48
 2021-01-28,Washington,Mason,16.79,11,0,0.0,2084,18.0,0.86,3181.34,27.48,3.18,65507,68.28,112.97,-3.06,903.72,-24.43

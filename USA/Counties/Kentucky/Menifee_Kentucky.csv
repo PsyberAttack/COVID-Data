@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Kentucky,Menifee,15.5,1,0,0.0,334,10.0,2.99,5177.49,155.01,5.18,6451,31.69,589.05,15.5,1503.61,0.0
+2021-01-31,Kentucky,Menifee,31.0,2,0,0.0,333,10.0,3.0,5161.99,155.01,5.16,6451,31.69,573.55,-46.51,1503.61,-31.01
 2021-01-30,Kentucky,Menifee,15.5,1,0,0.0,331,10.0,3.02,5130.99,155.01,5.13,6451,31.69,620.06,-77.51,1534.62,-248.03
 2021-01-29,Kentucky,Menifee,77.51,5,0,0.0,330,10.0,3.03,5115.49,155.01,5.12,6451,31.69,697.57,62.01,1782.65,77.51
 2021-01-28,Kentucky,Menifee,139.51,9,0,0.0,325,10.0,3.08,5037.98,155.01,5.04,6451,31.69,635.56,77.5,1705.14,139.51

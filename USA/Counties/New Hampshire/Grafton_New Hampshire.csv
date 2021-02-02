@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,New Hampshire,Grafton,30.07,27,0,0.0,1977,14.0,0.71,2201.9,15.59,2.2,89786,52.55,172.63,1.11,834.23,8.91
+2021-01-31,New Hampshire,Grafton,10.02,9,0,0.0,1950,14.0,0.72,2171.83,15.59,2.17,89786,52.55,171.52,-15.6,825.32,-25.62
 2021-01-30,New Hampshire,Grafton,28.96,26,0,0.0,1941,14.0,0.72,2161.81,15.59,2.16,89786,52.55,187.12,-1.11,850.94,-26.73
 2021-01-29,New Hampshire,Grafton,24.5,22,0,0.0,1915,14.0,0.73,2132.85,15.59,2.13,89786,52.55,188.23,-17.82,877.67,24.5
 2021-01-28,New Hampshire,Grafton,17.82,16,0,0.0,1893,14.0,0.74,2108.35,15.59,2.11,89786,52.55,206.05,-52.35,853.17,10.02

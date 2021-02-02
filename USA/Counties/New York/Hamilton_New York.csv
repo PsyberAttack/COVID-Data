@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,New York,Hamilton,45.11,2,0,0.0,216,1.0,0.46,4871.45,22.55,4.87,4434,2.58,1127.65,45.11,2165.07,22.56
+2021-01-31,New York,Hamilton,0.0,0,0,0.0,214,1.0,0.47,4826.34,22.55,4.83,4434,2.58,1082.54,-112.76,2142.51,-90.21
 2021-01-30,New York,Hamilton,428.51,19,0,0.0,214,1.0,0.47,4826.34,22.55,4.83,4434,2.58,1195.3,428.51,2232.72,360.85
 2021-01-29,New York,Hamilton,22.55,1,0,0.0,195,1.0,0.51,4397.83,22.55,4.4,4434,2.58,766.79,-225.53,1871.87,-202.98
 2021-01-28,New York,Hamilton,496.17,22,0,0.0,194,1.0,0.52,4375.28,22.55,4.38,4434,2.58,992.32,428.51,2074.85,451.06

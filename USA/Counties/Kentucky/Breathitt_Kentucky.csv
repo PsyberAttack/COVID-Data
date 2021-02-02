@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Kentucky,Breathitt,47.15,6,0,0.0,836,3.0,0.36,6569.23,23.57,6.57,12726,25.84,275.04,0.0,1414.44,39.29
+2021-01-31,Kentucky,Breathitt,0.0,0,0,0.0,830,3.0,0.36,6522.08,23.57,6.52,12726,25.84,275.04,-31.43,1375.15,-39.29
 2021-01-30,Kentucky,Breathitt,47.15,6,0,0.0,830,3.0,0.36,6522.08,23.57,6.52,12726,25.84,306.47,15.72,1414.44,-369.32
 2021-01-29,Kentucky,Breathitt,39.29,5,0,0.0,824,3.0,0.36,6474.93,23.57,6.47,12726,25.84,290.75,39.29,1783.76,39.29
 2021-01-28,Kentucky,Breathitt,7.86,1,0,0.0,819,3.0,0.37,6435.64,23.57,6.44,12726,25.84,251.46,7.86,1744.47,7.86

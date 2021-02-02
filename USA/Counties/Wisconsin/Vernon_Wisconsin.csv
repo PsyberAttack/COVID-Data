@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Wisconsin,Vernon,9.75,3,0,0.0,1798,37.0,2.06,5840.51,120.19,5.84,30785,38.89,103.95,3.25,623.7,6.5
+2021-01-31,Wisconsin,Vernon,3.25,1,0,0.0,1795,37.0,2.06,5830.76,120.19,5.83,30785,38.89,100.7,-19.49,617.2,-22.74
 2021-01-30,Wisconsin,Vernon,12.99,4,0,0.0,1794,37.0,2.06,5827.51,120.19,5.83,30785,38.89,120.19,-13.0,639.94,-16.25
 2021-01-29,Wisconsin,Vernon,12.99,4,0,0.0,1790,37.0,2.07,5814.52,120.19,5.81,30785,38.89,133.19,-16.25,656.19,-13.0
 2021-01-28,Wisconsin,Vernon,16.24,5,0,0.0,1786,37.0,2.07,5801.53,120.19,5.8,30785,38.89,149.44,3.25,669.19,-81.21

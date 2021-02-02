@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Louisiana,Evangeline,41.86,14,0,0.0,3091,72.0,2.33,9242.59,215.29,9.24,33443,50.49,215.28,53.82,1321.62,11.96
+2021-01-31,Louisiana,Evangeline,29.9,10,0,0.0,3077,72.0,2.34,9200.73,215.29,9.2,33443,50.49,161.46,2.99,1309.66,-14.95
 2021-01-30,Louisiana,Evangeline,0.0,0,0,0.0,3067,72.0,2.35,9170.83,215.29,9.17,33443,50.49,158.47,0.0,1324.61,0.0
 2021-01-29,Louisiana,Evangeline,59.8,20,2,5.98,3067,72.0,2.35,9170.83,215.29,9.17,33443,50.49,158.47,-14.95,1324.61,59.8
 2021-01-28,Louisiana,Evangeline,5.98,2,2,5.98,3047,70.0,2.3,9111.02,209.31,9.11,33443,50.49,173.42,-41.86,1264.81,-74.75

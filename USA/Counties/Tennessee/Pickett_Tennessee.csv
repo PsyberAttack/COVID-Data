@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Tennessee,Pickett,0.0,0,0,0.0,706,21.0,2.97,13892.17,413.22,13.89,5082,31.18,275.48,0.0,2341.59,0.0
+2021-01-31,Tennessee,Pickett,19.68,1,0,0.0,706,21.0,2.97,13892.17,413.22,13.89,5082,31.18,275.48,-19.67,2341.59,-19.67
 2021-01-30,Tennessee,Pickett,59.03,3,0,0.0,705,21.0,2.98,13872.49,413.22,13.87,5082,31.18,295.15,59.03,2361.26,-295.16
 2021-01-29,Tennessee,Pickett,78.71,4,0,0.0,702,21.0,2.99,13813.46,413.22,13.81,5082,31.18,236.12,39.36,2656.42,78.71
 2021-01-28,Tennessee,Pickett,39.35,2,0,0.0,698,21.0,3.01,13734.75,413.22,13.73,5082,31.18,196.76,-19.68,2577.71,-39.36

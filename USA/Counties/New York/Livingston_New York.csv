@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,New York,Livingston,17.4,11,2,3.16,3031,48.0,1.58,4793.84,75.92,4.79,63227,100.08,216.7,-9.49,1564.22,-39.54
+2021-01-31,New York,Livingston,26.89,17,0,0.0,3020,46.0,1.52,4776.44,72.75,4.78,63227,100.08,226.19,-25.3,1603.76,-26.88
 2021-01-30,New York,Livingston,25.31,16,1,1.58,3003,46.0,1.53,4749.55,72.75,4.75,63227,100.08,251.49,-20.56,1630.64,-44.28
 2021-01-29,New York,Livingston,45.87,29,1,1.58,2987,45.0,1.51,4724.25,71.17,4.72,63227,100.08,272.05,-30.05,1674.92,-56.93
 2021-01-28,New York,Livingston,37.96,24,1,1.58,2958,44.0,1.49,4678.38,69.59,4.68,63227,100.08,302.1,-9.49,1731.85,-44.28

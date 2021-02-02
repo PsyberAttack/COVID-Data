@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Washington,Skagit,21.84,28,2,1.56,4116,52.0,1.26,3210.46,40.56,3.21,128206,74.1,113.1,1.56,575.64,11.7
+2021-01-31,Washington,Skagit,0.0,0,0,0.0,4088,50.0,1.22,3188.62,39.0,3.19,128206,74.1,111.54,0.0,563.94,-51.48
 2021-01-30,Washington,Skagit,21.06,27,0,0.0,4088,50.0,1.22,3188.62,39.0,3.19,128206,74.1,111.54,-15.6,615.42,21.06
 2021-01-29,Washington,Skagit,14.82,19,0,0.0,4061,50.0,1.23,3167.56,39.0,3.17,128206,74.1,127.14,-3.12,594.36,14.82
 2021-01-28,Washington,Skagit,23.4,30,3,2.34,4042,50.0,1.24,3152.74,39.0,3.15,128206,74.1,130.26,-6.24,579.54,-24.96

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Louisiana,Lafayette,30.48,74,1,0.41,20679,236.0,1.14,8517.52,97.21,8.52,242782,903.4,271.44,-1.24,1494.35,11.53
+2021-01-31,Louisiana,Lafayette,60.96,148,2,0.82,20605,235.0,1.14,8487.04,96.79,8.49,242782,903.4,272.68,11.94,1482.82,-42.84
 2021-01-30,Louisiana,Lafayette,0.0,0,0,0.0,20457,233.0,1.14,8426.08,95.97,8.43,242782,903.4,260.74,0.0,1525.66,0.0
 2021-01-29,Louisiana,Lafayette,29.24,71,1,0.41,20457,233.0,1.14,8426.08,95.97,8.43,242782,903.4,260.74,-27.6,1525.66,29.24
 2021-01-28,Louisiana,Lafayette,40.78,99,0,0.0,20386,232.0,1.14,8396.83,95.56,8.4,242782,903.4,288.34,-32.95,1496.42,-60.96

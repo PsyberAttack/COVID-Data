@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Mississippi,Jasper,85.22,14,0,0.0,1943,39.0,2.01,11827.37,237.4,11.83,16428,24.29,718.28,0.0,2696.58,30.44
+2021-01-31,Mississippi,Jasper,24.35,4,1,6.09,1929,39.0,2.02,11742.15,237.4,11.74,16428,24.29,718.28,-73.04,2666.14,-48.7
 2021-01-30,Mississippi,Jasper,60.87,10,-1,-6.09,1925,38.0,1.97,11717.8,231.31,11.72,16428,24.29,791.32,-42.61,2714.84,-12.18
 2021-01-29,Mississippi,Jasper,152.18,25,0,0.0,1915,39.0,2.04,11656.93,237.4,11.66,16428,24.29,833.93,42.61,2727.02,-42.61
 2021-01-28,Mississippi,Jasper,194.79,32,0,0.0,1890,39.0,2.06,11504.75,237.4,11.5,16428,24.29,791.32,97.4,2769.63,12.17

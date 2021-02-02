@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,California,Imperial,25.3,46,17,9.35,26206,548.0,2.09,14412.6,301.39,14.41,181827,43.53,274.45,-44.0,1790.2,-20.9
+2021-01-31,California,Imperial,63.25,115,0,0.0,26160,531.0,2.03,14387.3,292.04,14.39,181827,43.53,318.45,52.8,1811.1,-20.35
 2021-01-30,California,Imperial,33.55,61,0,0.0,26045,531.0,2.04,14324.06,292.04,14.32,181827,43.53,265.65,4.4,1831.45,-87.99
 2021-01-29,California,Imperial,67.65,123,4,2.2,25984,531.0,2.04,14290.51,292.04,14.29,181827,43.53,261.25,-3.3,1919.44,-57.19
 2021-01-28,California,Imperial,26.95,49,14,7.7,25861,527.0,2.04,14222.86,289.84,14.22,181827,43.53,264.55,1.1,1976.63,-49.5

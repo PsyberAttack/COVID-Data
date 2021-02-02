@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,West Virginia,Monongalia,22.55,24,0,0.0,7138,60.0,0.84,6707.39,56.38,6.71,106420,295.54,280.96,-20.67,1412.33,-31.01
+2021-01-31,West Virginia,Monongalia,35.71,38,0,0.0,7114,60.0,0.84,6684.83,56.38,6.68,106420,295.54,301.63,-13.15,1443.34,-43.22
 2021-01-30,West Virginia,Monongalia,44.16,47,1,0.94,7076,60.0,0.85,6649.13,56.38,6.65,106420,295.54,314.78,-4.7,1486.56,-18.8
 2021-01-29,West Virginia,Monongalia,79.87,85,1,0.94,7029,59.0,0.84,6604.96,55.44,6.6,106420,295.54,319.48,41.34,1505.36,-54.5
 2021-01-28,West Virginia,Monongalia,35.71,38,1,0.94,6944,58.0,0.84,6525.09,54.5,6.53,106420,295.54,278.14,-33.83,1559.86,21.61

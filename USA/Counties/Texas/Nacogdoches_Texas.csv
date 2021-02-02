@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Texas,Nacogdoches,47.18,31,0,0.0,3761,126.0,3.35,5723.55,191.75,5.72,65711,69.42,232.85,47.18,972.47,27.4
+2021-01-31,Texas,Nacogdoches,9.13,6,0,0.0,3730,126.0,3.38,5676.37,191.75,5.68,65711,69.42,185.67,7.61,945.07,-70.0
 2021-01-30,Texas,Nacogdoches,21.31,14,2,3.04,3724,126.0,3.38,5667.24,191.75,5.67,65711,69.42,178.06,-35.0,1015.07,-21.3
 2021-01-29,Texas,Nacogdoches,45.65,30,0,0.0,3710,124.0,3.34,5645.93,188.71,5.65,65711,69.42,213.06,-6.09,1036.37,-10.66
 2021-01-28,Texas,Nacogdoches,24.35,16,4,6.09,3680,124.0,3.37,5600.28,188.71,5.6,65711,69.42,219.15,1.52,1047.03,19.78

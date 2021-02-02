@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Colorado,Custer,0.0,0,0,0.0,160,1.0,0.62,3229.71,20.19,3.23,4954,6.71,20.19,0.0,201.88,0.0
+2021-01-31,Colorado,Custer,0.0,0,0,0.0,160,1.0,0.62,3229.71,20.19,3.23,4954,6.71,20.19,0.0,201.88,-40.37
 2021-01-30,Colorado,Custer,0.0,0,0,0.0,160,1.0,0.62,3229.71,20.19,3.23,4954,6.71,20.19,-40.37,242.25,0.0
 2021-01-29,Colorado,Custer,20.19,1,0,0.0,160,1.0,0.62,3229.71,20.19,3.23,4954,6.71,60.56,0.0,242.25,20.19
 2021-01-28,Colorado,Custer,0.0,0,0,0.0,159,1.0,0.63,3209.53,20.19,3.21,4954,6.71,60.56,0.0,222.06,-20.19

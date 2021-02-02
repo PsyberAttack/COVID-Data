@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Pennsylvania,Allegheny,13.87,169,1,0.08,69537,1521.0,2.19,5707.0,124.83,5.71,1218452,1668.84,173.0,-13.54,1089.49,-24.87
+2021-01-31,Pennsylvania,Allegheny,19.12,233,4,0.33,69368,1520.0,2.19,5693.13,124.75,5.69,1218452,1668.84,186.54,-4.35,1114.36,-12.07
 2021-01-30,Pennsylvania,Allegheny,26.76,326,16,1.31,69135,1516.0,2.19,5674.0,124.42,5.67,1218452,1668.84,190.89,-11.32,1126.43,-59.25
 2021-01-29,Pennsylvania,Allegheny,29.87,364,15,1.23,68809,1500.0,2.18,5647.25,123.11,5.65,1218452,1668.84,202.21,1.72,1185.68,-15.52
 2021-01-28,Pennsylvania,Allegheny,29.38,358,14,1.15,68445,1485.0,2.17,5617.37,121.88,5.62,1218452,1668.84,200.49,-5.5,1201.2,-37.18

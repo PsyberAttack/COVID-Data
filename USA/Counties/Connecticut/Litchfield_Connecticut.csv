@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Connecticut,Litchfield,96.07,174,4,2.21,10057,258.0,2.57,5552.95,142.45,5.55,181111,196.75,243.5,-28.16,1231.85,-3.87
+2021-01-31,Connecticut,Litchfield,0.0,0,0,0.0,9883,254.0,2.57,5456.87,140.25,5.46,181111,196.75,271.66,0.0,1235.72,0.0
 2021-01-30,Connecticut,Litchfield,0.0,0,0,0.0,9883,254.0,2.57,5456.87,140.25,5.46,181111,196.75,271.66,0.0,1235.72,-93.31
 2021-01-29,Connecticut,Litchfield,22.64,41,1,0.55,9883,254.0,2.57,5456.87,140.25,5.46,181111,196.75,271.66,-18.22,1329.03,22.64
 2021-01-28,Connecticut,Litchfield,33.13,60,1,0.55,9842,253.0,2.57,5434.24,139.69,5.43,181111,196.75,289.88,4.97,1306.39,3.31

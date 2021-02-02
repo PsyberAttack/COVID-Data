@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Washington,Ferry,13.07,1,0,0.0,200,4.0,2.0,2614.72,52.29,2.61,7649,3.47,26.14,0.0,261.47,13.07
+2021-01-31,Washington,Ferry,0.0,0,0,0.0,199,4.0,2.01,2601.65,52.29,2.6,7649,3.47,26.14,0.0,248.4,-52.29
 2021-01-30,Washington,Ferry,13.07,1,0,0.0,199,4.0,2.01,2601.65,52.29,2.6,7649,3.47,26.14,13.07,300.69,13.07
 2021-01-29,Washington,Ferry,13.07,1,0,0.0,198,4.0,2.02,2588.57,52.29,2.59,7649,3.47,13.07,13.07,287.62,13.07
 2021-01-28,Washington,Ferry,-13.07,-1,0,0.0,197,4.0,2.03,2575.5,52.29,2.58,7649,3.47,-0.0,-13.07,274.55,-52.29

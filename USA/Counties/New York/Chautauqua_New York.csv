@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,New York,Chautauqua,25.79,33,1,0.78,6514,98.0,1.5,5091.49,76.6,5.09,127939,120.67,360.33,-5.47,2031.46,-75.82
+2021-01-31,New York,Chautauqua,70.35,90,5,3.91,6481,97.0,1.5,5065.7,75.82,5.07,127939,120.67,365.8,18.76,2107.28,20.33
 2021-01-30,New York,Chautauqua,39.08,50,1,0.78,6391,92.0,1.44,4995.35,71.91,5.0,127939,120.67,347.04,-41.43,2086.95,-35.96
 2021-01-29,New York,Chautauqua,48.46,62,3,2.34,6341,91.0,1.44,4956.27,71.13,4.96,127939,120.67,388.47,-31.27,2122.91,-35.17
 2021-01-28,New York,Chautauqua,77.38,99,3,2.34,6279,88.0,1.4,4907.81,68.78,4.91,127939,120.67,419.74,13.29,2158.08,-11.72

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Illinois,Whiteside,21.57,12,2,3.6,5648,180.0,3.19,10153.53,323.59,10.15,55626,81.3,237.29,-30.56,1125.35,21.57
+2021-01-31,Illinois,Whiteside,0.0,0,0,0.0,5636,178.0,3.16,10131.95,319.99,10.13,55626,81.3,267.85,0.0,1103.78,-7.19
 2021-01-30,Illinois,Whiteside,46.74,26,0,0.0,5636,178.0,3.16,10131.95,319.99,10.13,55626,81.3,267.85,-30.56,1110.97,-17.98
 2021-01-29,Illinois,Whiteside,35.95,20,1,1.8,5610,178.0,3.17,10085.21,319.99,10.09,55626,81.3,298.41,35.95,1128.95,-10.79
 2021-01-28,Illinois,Whiteside,61.12,34,1,1.8,5590,177.0,3.17,10049.26,318.2,10.05,55626,81.3,262.46,-10.79,1139.74,-46.74

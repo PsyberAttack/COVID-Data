@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Mississippi,Copiah,28.03,8,0,0.0,2607,51.0,1.96,9133.59,178.68,9.13,28543,36.72,350.36,-7.0,1299.81,-3.5
+2021-01-31,Mississippi,Copiah,21.02,6,0,0.0,2599,51.0,1.96,9105.56,178.68,9.11,28543,36.72,357.36,-3.5,1303.31,-63.06
 2021-01-30,Mississippi,Copiah,31.53,9,1,3.5,2593,51.0,1.97,9084.54,178.68,9.08,28543,36.72,360.86,-17.52,1366.37,3.5
 2021-01-29,Mississippi,Copiah,77.08,22,0,0.0,2584,50.0,1.93,9053.01,175.17,9.05,28543,36.72,378.38,-31.53,1362.87,31.53
 2021-01-28,Mississippi,Copiah,56.06,16,1,3.5,2562,50.0,1.95,8975.93,175.17,8.98,28543,36.72,409.91,35.04,1331.34,-10.51

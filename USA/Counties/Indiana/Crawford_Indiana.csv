@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Indiana,Crawford,66.3,7,0,0.0,841,10.0,1.19,7965.52,94.71,7.97,10558,34.55,284.15,37.89,2055.33,47.36
+2021-01-31,Indiana,Crawford,47.36,5,0,0.0,834,10.0,1.2,7899.22,94.71,7.9,10558,34.55,246.26,-18.94,2007.97,-28.41
 2021-01-30,Indiana,Crawford,37.89,4,0,0.0,829,10.0,1.21,7851.87,94.71,7.85,10558,34.55,265.2,-28.41,2036.38,-56.82
 2021-01-29,Indiana,Crawford,56.83,6,0,0.0,825,10.0,1.21,7813.98,94.71,7.81,10558,34.55,293.61,-28.41,2093.2,-56.83
 2021-01-28,Indiana,Crawford,75.77,8,0,0.0,819,10.0,1.22,7757.15,94.71,7.76,10558,34.55,322.02,9.47,2150.03,0.0

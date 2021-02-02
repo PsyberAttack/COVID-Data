@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Maryland,Caroline,33.03,11,0,0.0,1899,16.0,0.84,5702.02,48.04,5.7,33304,104.26,384.34,12.01,1564.37,9.01
+2021-01-31,Maryland,Caroline,42.04,14,0,0.0,1888,16.0,0.85,5668.99,48.04,5.67,33304,104.26,372.33,15.02,1555.36,12.01
 2021-01-30,Maryland,Caroline,45.04,15,0,0.0,1874,16.0,0.85,5626.95,48.04,5.63,33304,104.26,357.31,-15.01,1543.35,-12.01
 2021-01-29,Maryland,Caroline,78.07,26,0,0.0,1859,16.0,0.86,5581.91,48.04,5.58,33304,104.26,372.32,-48.04,1555.36,12.01
 2021-01-28,Maryland,Caroline,27.02,9,0,0.0,1833,16.0,0.87,5503.84,48.04,5.5,33304,104.26,420.36,0.0,1543.35,-45.04

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Louisiana,Terrebonne,42.33,47,0,0.0,8676,183.0,2.11,7814.74,164.83,7.81,111021,90.27,440.46,-25.22,2010.44,14.41
+2021-01-31,Louisiana,Terrebonne,59.45,66,0,0.0,8629,183.0,2.12,7772.4,164.83,7.77,111021,90.27,465.68,-107.19,1996.03,-78.36
 2021-01-30,Louisiana,Terrebonne,0.0,0,0,0.0,8563,183.0,2.14,7712.96,164.83,7.71,111021,90.27,572.87,0.0,2074.39,0.0
 2021-01-29,Louisiana,Terrebonne,85.57,95,7,6.31,8563,183.0,2.14,7712.96,164.83,7.71,111021,90.27,572.87,39.63,2074.39,85.57
 2021-01-28,Louisiana,Terrebonne,68.46,76,2,1.8,8468,176.0,2.08,7627.39,158.53,7.63,111021,90.27,533.24,-40.53,1988.82,-54.04

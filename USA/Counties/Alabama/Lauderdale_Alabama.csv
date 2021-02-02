@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Alabama,Lauderdale,11.91,11,0,0.0,8191,156.0,1.9,8865.97,168.85,8.87,92387,138.3,265.19,-69.27,1611.71,-9.74
+2021-01-31,Alabama,Lauderdale,49.79,46,5,5.41,8180,156.0,1.91,8854.06,168.85,8.85,92387,138.3,334.46,23.81,1621.45,-24.9
 2021-01-30,Alabama,Lauderdale,0.0,0,0,0.0,8134,151.0,1.86,8804.27,163.44,8.8,92387,138.3,310.65,-53.04,1646.35,-50.87
 2021-01-29,Alabama,Lauderdale,49.79,46,24,25.98,8134,151.0,1.86,8804.27,163.44,8.8,92387,138.3,363.69,-20.57,1697.22,-45.46
 2021-01-28,Alabama,Lauderdale,42.21,39,6,6.49,8088,127.0,1.57,8754.48,137.47,8.75,92387,138.3,384.26,-8.66,1742.68,-73.61

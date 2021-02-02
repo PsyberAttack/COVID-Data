@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Missouri,Clinton,24.43,5,0,0.0,1479,60.0,4.06,7225.21,293.11,7.23,20470,48.86,141.67,0.0,898.9,24.43
+2021-01-31,Missouri,Clinton,29.31,6,0,0.0,1474,60.0,4.07,7200.78,293.11,7.2,20470,48.86,141.67,-9.77,874.47,-39.08
 2021-01-30,Missouri,Clinton,19.54,4,0,0.0,1468,60.0,4.09,7171.47,293.11,7.17,20470,48.86,151.44,0.0,913.55,-24.43
 2021-01-29,Missouri,Clinton,19.54,4,0,0.0,1464,60.0,4.1,7151.93,293.11,7.15,20470,48.86,151.44,14.65,937.98,-97.7
 2021-01-28,Missouri,Clinton,48.85,10,0,0.0,1460,60.0,4.11,7132.39,293.11,7.13,20470,48.86,136.79,19.54,1035.68,14.65

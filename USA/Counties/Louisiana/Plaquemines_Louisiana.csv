@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Louisiana,Plaquemines,12.82,3,0,0.0,2130,22.0,1.03,9098.68,93.98,9.1,23410,30.0,363.1,-21.35,1683.06,12.82
+2021-01-31,Louisiana,Plaquemines,64.08,15,0,0.0,2127,22.0,1.03,9085.86,93.98,9.09,23410,30.0,384.45,8.55,1670.24,-55.53
 2021-01-30,Louisiana,Plaquemines,0.0,0,0,0.0,2112,22.0,1.04,9021.79,93.98,9.02,23410,30.0,375.9,0.0,1725.77,0.0
 2021-01-29,Louisiana,Plaquemines,42.72,10,0,0.0,2112,22.0,1.04,9021.79,93.98,9.02,23410,30.0,375.9,29.9,1725.77,42.72
 2021-01-28,Louisiana,Plaquemines,85.43,20,0,0.0,2102,22.0,1.05,8979.07,93.98,8.98,23410,30.0,346.0,12.81,1683.05,29.9

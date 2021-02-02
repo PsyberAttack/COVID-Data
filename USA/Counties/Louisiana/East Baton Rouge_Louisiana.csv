@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Louisiana,East Baton Rouge,16.78,74,2,0.45,32718,675.0,2.06,7419.79,153.08,7.42,440956,968.41,305.92,-26.31,1465.68,-5.22
+2021-01-31,Louisiana,East Baton Rouge,76.42,337,4,0.91,32644,673.0,2.06,7403.01,152.62,7.4,440956,968.41,332.23,14.96,1470.9,-21.55
 2021-01-30,Louisiana,East Baton Rouge,0.0,0,0,0.0,32307,669.0,2.07,7326.58,151.72,7.33,440956,968.41,317.27,0.0,1492.45,0.0
 2021-01-29,Louisiana,East Baton Rouge,46.72,206,3,0.68,32307,669.0,2.07,7326.58,151.72,7.33,440956,968.41,317.27,5.67,1492.45,46.72
 2021-01-28,Louisiana,East Baton Rouge,42.41,187,2,0.45,32101,666.0,2.07,7279.86,151.04,7.28,440956,968.41,311.6,-10.43,1445.73,-6.35

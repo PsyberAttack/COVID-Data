@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Washington,Klickitat,9.05,2,0,0.0,609,5.0,0.82,2754.78,22.62,2.75,22107,11.81,72.37,-22.61,533.74,9.05
+2021-01-31,Washington,Klickitat,0.0,0,0,0.0,607,5.0,0.82,2745.74,22.62,2.75,22107,11.81,94.98,0.0,524.69,-67.85
 2021-01-30,Washington,Klickitat,4.52,1,0,0.0,607,5.0,0.82,2745.74,22.62,2.75,22107,11.81,94.98,4.52,592.54,4.52
 2021-01-29,Washington,Klickitat,18.09,4,0,0.0,606,5.0,0.83,2741.21,22.62,2.74,22107,11.81,90.46,0.0,588.02,18.09
 2021-01-28,Washington,Klickitat,13.57,3,1,4.52,602,5.0,0.83,2723.12,22.62,2.72,22107,11.81,90.46,-9.05,569.93,-135.7

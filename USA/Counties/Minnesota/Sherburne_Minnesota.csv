@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Minnesota,Sherburne,6.25,6,0,0.0,8407,71.0,0.84,8754.01,73.93,8.75,96036,221.84,98.93,-10.41,576.86,-71.85
+2021-01-31,Minnesota,Sherburne,4.17,4,0,0.0,8401,71.0,0.85,8747.76,73.93,8.75,96036,221.84,109.34,-14.57,648.71,-64.55
 2021-01-30,Minnesota,Sherburne,21.87,21,0,0.0,8397,71.0,0.85,8743.6,73.93,8.74,96036,221.84,123.91,0.0,713.26,-38.52
 2021-01-29,Minnesota,Sherburne,14.58,14,0,0.0,8376,71.0,0.85,8721.73,73.93,8.72,96036,221.84,123.91,-4.16,751.78,14.58
 2021-01-28,Minnesota,Sherburne,33.32,32,1,1.04,8362,71.0,0.85,8707.15,73.93,8.71,96036,221.84,128.07,13.54,737.2,-6.25

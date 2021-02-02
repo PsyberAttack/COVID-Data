@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Illinois,Scott,0.0,0,0,0.0,422,1.0,0.24,8566.79,20.3,8.57,4926,19.63,284.2,0.0,1766.1,-40.6
+2021-01-31,Illinois,Scott,20.3,1,0,0.0,422,1.0,0.24,8566.79,20.3,8.57,4926,19.63,284.2,0.0,1806.7,20.3
 2021-01-30,Illinois,Scott,60.9,3,0,0.0,421,1.0,0.24,8546.49,20.3,8.55,4926,19.63,284.2,-142.1,1786.4,-60.9
 2021-01-29,Illinois,Scott,40.6,2,0,0.0,418,1.0,0.24,8485.59,20.3,8.49,4926,19.63,426.3,20.3,1847.3,40.6
 2021-01-28,Illinois,Scott,40.6,2,0,0.0,416,1.0,0.24,8444.99,20.3,8.44,4926,19.63,406.0,-162.4,1806.7,0.0

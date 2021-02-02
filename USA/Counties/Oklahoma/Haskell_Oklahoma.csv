@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Oklahoma,Haskell,15.79,2,0,0.0,1151,8.0,0.7,9085.89,63.15,9.09,12668,21.97,299.96,-31.57,1910.31,-31.57
+2021-01-31,Oklahoma,Haskell,47.36,6,0,0.0,1149,8.0,0.7,9070.1,63.15,9.07,12668,21.97,331.53,-55.26,1941.88,-55.26
 2021-01-30,Oklahoma,Haskell,47.36,6,0,0.0,1143,8.0,0.7,9022.73,63.15,9.02,12668,21.97,386.79,-39.47,1997.14,-47.37
 2021-01-29,Oklahoma,Haskell,0.0,0,0,0.0,1137,8.0,0.7,8975.37,63.15,8.98,12668,21.97,426.26,-86.83,2044.51,0.0
 2021-01-28,Oklahoma,Haskell,94.73,12,0,0.0,1137,8.0,0.7,8975.37,63.15,8.98,12668,21.97,513.09,15.79,2044.51,-118.41

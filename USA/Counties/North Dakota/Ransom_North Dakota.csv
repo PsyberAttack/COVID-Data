@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,North Dakota,Ransom,19.09,1,0,0.0,595,16.0,2.69,11361.47,305.52,11.36,5237,6.07,95.46,38.18,763.77,19.09
+2021-01-31,North Dakota,Ransom,19.09,1,0,0.0,594,16.0,2.69,11342.37,305.52,11.34,5237,6.07,57.28,-38.19,744.68,19.09
 2021-01-30,North Dakota,Ransom,-19.09,-1,1,19.09,593,16.0,2.7,11323.28,305.52,11.32,5237,6.07,95.47,-38.18,725.59,-57.28
 2021-01-29,North Dakota,Ransom,0.0,0,0,0.0,594,15.0,2.53,11342.37,286.42,11.34,5237,6.07,133.65,-38.19,782.87,-57.28
 2021-01-28,North Dakota,Ransom,19.09,1,0,0.0,594,15.0,2.53,11342.37,286.42,11.34,5237,6.07,171.84,19.09,840.15,-57.29

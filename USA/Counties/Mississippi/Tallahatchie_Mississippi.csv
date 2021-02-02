@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Mississippi,Tallahatchie,42.9,6,0,0.0,1630,37.0,2.27,11653.68,264.53,11.65,13987,21.68,393.24,21.45,2659.65,14.3
+2021-01-31,Mississippi,Tallahatchie,42.9,6,1,7.15,1624,37.0,2.28,11610.78,264.53,11.61,13987,21.68,371.79,-28.59,2645.35,-28.59
 2021-01-30,Mississippi,Tallahatchie,142.99,20,0,0.0,1618,36.0,2.22,11567.88,257.38,11.57,13987,21.68,400.38,100.09,2673.94,114.39
 2021-01-29,Mississippi,Tallahatchie,35.75,5,1,7.15,1598,36.0,2.25,11424.89,257.38,11.42,13987,21.68,300.29,-14.3,2559.55,-50.04
 2021-01-28,Mississippi,Tallahatchie,35.75,5,0,0.0,1593,35.0,2.2,11389.15,250.23,11.39,13987,21.68,314.59,-443.27,2609.59,-28.6

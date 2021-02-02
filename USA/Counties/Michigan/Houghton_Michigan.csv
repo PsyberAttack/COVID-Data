@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Michigan,Houghton,11.04,4,1,2.76,2478,39.0,1.57,6841.71,107.68,6.84,36219,35.89,140.81,-44.18,1314.21,-16.57
+2021-01-31,Michigan,Houghton,0.0,0,0,0.0,2474,38.0,1.54,6830.67,104.92,6.83,36219,35.89,184.99,0.0,1330.78,0.0
 2021-01-30,Michigan,Houghton,11.04,4,0,0.0,2474,38.0,1.54,6830.67,104.92,6.83,36219,35.89,184.99,-24.85,1330.78,-38.66
 2021-01-29,Michigan,Houghton,16.57,6,0,0.0,2470,38.0,1.54,6819.63,104.92,6.82,36219,35.89,209.84,-22.08,1369.44,16.57
 2021-01-28,Michigan,Houghton,16.57,6,0,0.0,2464,38.0,1.54,6803.06,104.92,6.8,36219,35.89,231.92,-46.93,1352.87,16.57

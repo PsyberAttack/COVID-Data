@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Wisconsin,Crawford,0.0,0,0,0.0,1686,16.0,0.95,10349.27,98.21,10.35,16291,28.55,67.53,-12.28,478.82,-12.28
+2021-01-31,Wisconsin,Crawford,12.28,2,0,0.0,1686,16.0,0.95,10349.27,98.21,10.35,16291,28.55,79.81,12.28,491.1,-12.27
 2021-01-30,Wisconsin,Crawford,12.28,2,0,0.0,1684,16.0,0.95,10337.0,98.21,10.34,16291,28.55,67.53,6.14,503.37,-6.14
 2021-01-29,Wisconsin,Crawford,-6.14,-1,1,6.14,1682,16.0,0.95,10324.72,98.21,10.32,16291,28.55,61.39,-30.69,509.51,-24.56
 2021-01-28,Wisconsin,Crawford,24.55,4,0,0.0,1683,15.0,0.89,10330.86,92.08,10.33,16291,28.55,92.08,18.41,534.07,-6.14

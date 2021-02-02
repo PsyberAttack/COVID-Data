@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Maryland,Dorchester,43.75,14,0,0.0,2103,35.0,1.66,6572.29,109.38,6.57,31998,59.17,418.78,21.87,2078.27,-12.5
+2021-01-31,Maryland,Dorchester,46.88,15,0,0.0,2089,35.0,1.68,6528.53,109.38,6.53,31998,59.17,396.91,25.0,2090.77,-25.0
 2021-01-30,Maryland,Dorchester,106.26,34,0,0.0,2074,35.0,1.69,6481.66,109.38,6.48,31998,59.17,371.91,-40.62,2115.77,59.38
 2021-01-29,Maryland,Dorchester,28.13,9,2,6.25,2040,35.0,1.72,6375.4,109.38,6.38,31998,59.17,412.53,0.0,2056.39,-3.12
 2021-01-28,Maryland,Dorchester,43.75,14,2,6.25,2031,33.0,1.62,6347.27,103.13,6.35,31998,59.17,412.53,-25.0,2059.51,-65.63

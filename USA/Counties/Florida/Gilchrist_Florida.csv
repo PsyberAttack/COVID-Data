@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Florida,Gilchrist,10.96,2,0,0.0,1225,28.0,2.29,6710.12,153.37,6.71,18256,52.21,235.54,-38.34,980.51,-21.91
+2021-01-31,Florida,Gilchrist,38.34,7,0,0.0,1223,28.0,2.29,6699.17,153.37,6.7,18256,52.21,273.88,-32.87,1002.42,27.38
 2021-01-30,Florida,Gilchrist,38.34,7,0,0.0,1216,28.0,2.3,6660.82,153.37,6.66,18256,52.21,306.75,-10.96,975.04,-93.12
 2021-01-29,Florida,Gilchrist,32.87,6,0,0.0,1209,28.0,2.32,6622.48,153.37,6.62,18256,52.21,317.71,5.48,1068.16,32.87
 2021-01-28,Florida,Gilchrist,21.91,4,0,0.0,1203,28.0,2.33,6589.61,153.37,6.59,18256,52.21,312.23,0.0,1035.29,-87.64

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Minnesota,Norman,15.44,1,0,0.0,429,8.0,1.86,6625.48,123.55,6.63,6475,7.42,46.32,0.0,247.07,15.44
+2021-01-31,Minnesota,Norman,0.0,0,0,0.0,428,8.0,1.87,6610.04,123.55,6.61,6475,7.42,46.32,0.0,231.63,-15.44
 2021-01-30,Minnesota,Norman,15.44,1,0,0.0,428,8.0,1.87,6610.04,123.55,6.61,6475,7.42,46.32,0.0,247.07,-15.45
 2021-01-29,Minnesota,Norman,15.44,1,0,0.0,427,8.0,1.87,6594.59,123.55,6.59,6475,7.42,46.32,15.44,262.52,15.44
 2021-01-28,Minnesota,Norman,0.0,0,0,0.0,426,8.0,1.88,6579.15,123.55,6.58,6475,7.42,30.88,0.0,247.08,-30.89

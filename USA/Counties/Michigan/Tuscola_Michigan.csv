@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Michigan,Tuscola,28.56,15,0,0.0,3075,127.0,4.13,5855.36,241.83,5.86,52516,65.28,125.67,-1.91,685.51,-26.66
+2021-01-31,Michigan,Tuscola,0.0,0,0,0.0,3060,127.0,4.15,5826.8,241.83,5.83,52516,65.28,127.58,0.0,712.17,0.0
 2021-01-30,Michigan,Tuscola,19.04,10,0,0.0,3060,127.0,4.15,5826.8,241.83,5.83,52516,65.28,127.58,-9.52,712.17,-74.26
 2021-01-29,Michigan,Tuscola,13.33,7,0,0.0,3050,127.0,4.16,5807.75,241.83,5.81,52516,65.28,137.1,-19.04,786.43,13.33
 2021-01-28,Michigan,Tuscola,13.33,7,1,1.9,3043,127.0,4.17,5794.42,241.83,5.79,52516,65.28,156.14,7.62,773.1,13.33

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Vermont,Washington,13.76,8,0,0.0,1225,12.0,0.98,2106.98,20.64,2.11,58140,84.62,189.2,0.0,560.72,10.32
+2021-01-31,Vermont,Washington,8.6,5,0,0.0,1217,12.0,0.99,2093.22,20.64,2.09,58140,84.62,189.2,-17.2,550.4,-10.32
 2021-01-30,Vermont,Washington,20.64,12,0,0.0,1212,12.0,0.99,2084.62,20.64,2.08,58140,84.62,206.4,1.72,560.72,17.2
 2021-01-29,Vermont,Washington,29.24,17,0,0.0,1200,12.0,1.0,2063.98,20.64,2.06,58140,84.62,204.68,0.0,543.52,29.24
 2021-01-28,Vermont,Washington,29.24,17,0,0.0,1183,12.0,1.01,2034.74,20.64,2.03,58140,84.62,204.68,6.88,514.28,15.48

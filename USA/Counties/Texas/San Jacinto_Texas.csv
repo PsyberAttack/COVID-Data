@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Texas,San Jacinto,34.82,10,0,0.0,765,22.0,2.88,2663.74,76.6,2.66,28719,50.45,271.59,34.82,1048.09,20.89
+2021-01-31,Texas,San Jacinto,0.0,0,0,0.0,755,22.0,2.91,2628.92,76.6,2.63,28719,50.45,236.77,-3.48,1027.2,-66.16
 2021-01-30,Texas,San Jacinto,55.71,16,0,0.0,755,22.0,2.91,2628.92,76.6,2.63,28719,50.45,240.25,17.41,1093.36,27.85
 2021-01-29,Texas,San Jacinto,17.41,5,0,0.0,739,22.0,2.98,2573.21,76.6,2.57,28719,50.45,222.84,-55.71,1065.51,-13.93
 2021-01-28,Texas,San Jacinto,73.12,21,0,0.0,734,22.0,3.0,2555.8,76.6,2.56,28719,50.45,278.55,24.37,1079.44,76.6

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Virginia,Staunton city,32.1,8,0,0.0,2216,52.0,2.35,8891.74,208.65,8.89,24922,1251.07,240.76,-16.05,2130.69,-48.15
+2021-01-31,Virginia,Staunton city,16.05,4,0,0.0,2208,52.0,2.36,8859.64,208.65,8.86,24922,1251.07,256.81,-48.15,2178.84,-100.31
 2021-01-30,Virginia,Staunton city,28.09,7,1,4.01,2204,52.0,2.36,8843.59,208.65,8.84,24922,1251.07,304.96,-52.16,2279.15,-36.11
 2021-01-29,Virginia,Staunton city,44.14,11,0,0.0,2197,51.0,2.32,8815.5,204.64,8.82,24922,1251.07,357.12,-20.06,2315.26,-96.3
 2021-01-28,Virginia,Staunton city,56.18,14,1,4.01,2186,51.0,2.33,8771.37,204.64,8.77,24922,1251.07,377.18,32.1,2411.56,-28.08

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Virginia,Mathews,11.36,1,0,0.0,442,6.0,1.36,5021.59,68.17,5.02,8802,102.46,352.19,-34.08,1363.32,-22.72
+2021-01-31,Virginia,Mathews,34.08,3,0,0.0,441,6.0,1.36,5010.22,68.17,5.01,8802,102.46,386.27,-11.36,1386.04,-34.09
 2021-01-30,Virginia,Mathews,68.17,6,0,0.0,438,6.0,1.37,4976.14,68.17,4.98,8802,102.46,397.63,34.09,1420.13,56.81
 2021-01-29,Virginia,Mathews,124.97,11,0,0.0,432,6.0,1.39,4907.98,68.17,4.91,8802,102.46,363.54,68.16,1363.32,102.25
 2021-01-28,Virginia,Mathews,68.17,6,0,0.0,421,6.0,1.43,4783.0,68.17,4.78,8802,102.46,295.38,11.36,1261.07,22.73

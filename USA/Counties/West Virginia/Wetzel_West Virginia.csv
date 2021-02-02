@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,West Virginia,Wetzel,52.39,8,1,6.55,1013,19.0,1.88,6633.92,124.43,6.63,15270,42.65,379.84,39.29,1774.73,0.0
+2021-01-31,West Virginia,Wetzel,52.39,8,0,0.0,1005,18.0,1.79,6581.53,117.88,6.58,15270,42.65,340.55,45.84,1774.73,0.0
 2021-01-30,West Virginia,Wetzel,39.29,6,0,0.0,997,18.0,1.81,6529.14,117.88,6.53,15270,42.65,294.71,-32.75,1774.73,-26.2
 2021-01-29,West Virginia,Wetzel,26.2,4,0,0.0,991,18.0,1.82,6489.85,117.88,6.49,15270,42.65,327.46,-45.84,1800.93,-150.62
 2021-01-28,West Virginia,Wetzel,65.49,10,0,0.0,987,18.0,1.82,6463.65,117.88,6.46,15270,42.65,373.3,26.2,1951.55,65.49

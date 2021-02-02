@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,North Carolina,Cabarrus,42.59,90,0,0.0,16063,194.0,1.21,7600.48,91.79,7.6,211342,585.05,341.63,-5.67,1968.35,-23.65
+2021-01-31,North Carolina,Cabarrus,102.2,216,6,2.84,15973,194.0,1.21,7557.89,91.79,7.56,211342,585.05,347.3,44.47,1992.0,28.86
 2021-01-30,North Carolina,Cabarrus,0.0,0,0,0.0,15757,188.0,1.19,7455.69,88.96,7.46,211342,585.05,302.83,-85.64,1963.14,-211.51
 2021-01-29,North Carolina,Cabarrus,60.09,127,1,0.47,15757,188.0,1.19,7455.69,88.96,7.46,211342,585.05,388.47,-40.22,2174.65,60.09
 2021-01-28,North Carolina,Cabarrus,45.9,97,0,0.0,15630,187.0,1.2,7395.6,88.48,7.4,211342,585.05,428.69,-0.94,2114.56,-1.42

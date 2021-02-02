@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Pennsylvania,Cambria,14.42,19,0,0.0,10808,364.0,3.37,8204.66,276.32,8.2,131730,191.37,191.31,-27.33,1330.01,0.76
+2021-01-31,Pennsylvania,Cambria,21.26,28,0,0.0,10789,364.0,3.37,8190.24,276.32,8.19,131730,191.37,218.64,-0.75,1329.25,-18.97
 2021-01-30,Pennsylvania,Cambria,25.81,34,1,0.76,10761,364.0,3.38,8168.98,276.32,8.17,131730,191.37,219.39,-20.5,1348.22,-31.12
 2021-01-29,Pennsylvania,Cambria,47.83,63,2,1.52,10727,363.0,3.38,8143.17,275.56,8.14,131730,191.37,239.89,-4.55,1379.34,-18.21
 2021-01-28,Pennsylvania,Cambria,21.26,28,1,0.76,10664,361.0,3.39,8095.35,274.05,8.1,131730,191.37,244.44,-15.94,1397.55,-69.84

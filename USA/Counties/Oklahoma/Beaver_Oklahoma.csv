@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Oklahoma,Beaver,18.8,1,0,0.0,386,4.0,1.04,7257.0,75.2,7.26,5319,2.93,282.0,0.0,1278.42,-18.8
+2021-01-31,Oklahoma,Beaver,37.6,2,0,0.0,385,4.0,1.04,7238.2,75.2,7.24,5319,2.93,282.0,-206.81,1297.22,-75.2
 2021-01-30,Oklahoma,Beaver,37.6,2,0,0.0,383,4.0,1.04,7200.6,75.2,7.2,5319,2.93,488.81,37.6,1372.42,0.0
 2021-01-29,Oklahoma,Beaver,75.2,4,0,0.0,381,4.0,1.05,7163.0,75.2,7.16,5319,2.93,451.21,37.6,1372.42,75.2
 2021-01-28,Oklahoma,Beaver,0.0,0,0,0.0,377,4.0,1.06,7087.8,75.2,7.09,5319,2.93,413.61,-56.4,1297.22,-112.8

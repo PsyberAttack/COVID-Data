@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Minnesota,Isanti,17.51,7,0,0.0,2914,44.0,1.51,7291.2,110.09,7.29,39966,91.72,132.61,5.0,530.45,-52.55
+2021-01-31,Minnesota,Isanti,22.52,9,0,0.0,2907,44.0,1.51,7273.68,110.09,7.27,39966,91.72,127.61,2.5,583.0,-37.53
 2021-01-30,Minnesota,Isanti,27.52,11,0,0.0,2898,44.0,1.52,7251.16,110.09,7.25,39966,91.72,125.11,12.51,620.53,-7.51
 2021-01-29,Minnesota,Isanti,17.51,7,0,0.0,2887,44.0,1.52,7223.64,110.09,7.22,39966,91.72,112.6,-7.51,628.04,17.51
 2021-01-28,Minnesota,Isanti,30.03,12,1,2.5,2880,44.0,1.53,7206.13,110.09,7.21,39966,91.72,120.11,22.52,610.53,-10.0

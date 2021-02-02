@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Virginia,Rappahannock,41.37,3,0,0.0,266,2.0,0.75,3667.95,27.58,3.67,7252,27.23,262.01,13.79,1323.83,0.0
+2021-01-31,Virginia,Rappahannock,0.0,0,0,0.0,263,2.0,0.76,3626.59,27.58,3.63,7252,27.23,248.22,-55.16,1323.83,-41.37
 2021-01-30,Virginia,Rappahannock,13.79,1,0,0.0,263,2.0,0.76,3626.59,27.58,3.63,7252,27.23,303.38,-124.1,1365.2,13.79
 2021-01-29,Virginia,Rappahannock,27.58,2,0,0.0,262,2.0,0.76,3612.8,27.58,3.61,7252,27.23,427.48,-41.37,1351.41,13.79
 2021-01-28,Virginia,Rappahannock,68.95,5,0,0.0,260,2.0,0.77,3585.22,27.58,3.59,7252,27.23,468.85,55.16,1337.62,13.79

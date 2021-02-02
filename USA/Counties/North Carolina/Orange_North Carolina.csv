@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,North Carolina,Orange,43.14,63,0,0.0,6823,82.0,1.2,4672.42,56.15,4.67,146027,367.33,275.98,15.75,1062.14,12.32
+2021-01-31,North Carolina,Orange,87.66,128,0,0.0,6760,82.0,1.21,4629.28,56.15,4.63,146027,367.33,260.23,56.16,1049.82,63.69
 2021-01-30,North Carolina,Orange,0.0,0,0,0.0,6632,82.0,1.24,4541.63,56.15,4.54,146027,367.33,204.07,-35.61,986.13,-99.98
 2021-01-29,North Carolina,Orange,54.78,80,1,0.68,6632,82.0,1.24,4541.63,56.15,4.54,146027,367.33,239.68,6.16,1086.11,54.78
 2021-01-28,North Carolina,Orange,34.93,51,1,0.68,6552,81.0,1.24,4486.84,55.47,4.49,146027,367.33,233.52,-0.68,1031.33,-4.1

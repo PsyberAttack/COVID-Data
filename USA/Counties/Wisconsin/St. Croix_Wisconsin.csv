@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Wisconsin,St. Croix,10.03,9,0,0.0,7637,45.0,0.59,8514.5,50.17,8.51,89694,124.15,207.37,-13.38,1112.68,-5.58
+2021-01-31,Wisconsin,St. Croix,20.07,18,0,0.0,7628,45.0,0.59,8504.47,50.17,8.5,89694,124.15,220.75,-14.49,1118.26,-4.46
 2021-01-30,Wisconsin,St. Croix,23.41,21,1,1.11,7610,45.0,0.59,8484.4,50.17,8.48,89694,124.15,235.24,-17.84,1122.72,10.03
 2021-01-29,Wisconsin,St. Croix,34.56,31,0,0.0,7589,44.0,0.58,8460.99,49.06,8.46,89694,124.15,253.08,0.0,1112.69,-14.5
 2021-01-28,Wisconsin,St. Croix,55.75,50,0,0.0,7558,44.0,0.58,8426.43,49.06,8.43,89694,124.15,253.08,2.23,1127.19,8.92

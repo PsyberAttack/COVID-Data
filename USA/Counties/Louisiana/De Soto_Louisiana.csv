@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Louisiana,De Soto,14.58,4,2,7.29,2445,65.0,2.66,8911.65,236.92,8.91,27436,31.31,575.89,-189.53,2332.69,0.0
+2021-01-31,Louisiana,De Soto,142.15,39,2,7.29,2441,63.0,2.58,8897.07,229.63,8.9,27436,31.31,765.42,3.65,2332.69,7.29
 2021-01-30,Louisiana,De Soto,0.0,0,0,0.0,2402,61.0,2.54,8754.92,222.34,8.75,27436,31.31,761.77,0.0,2325.4,0.0
 2021-01-29,Louisiana,De Soto,43.74,12,0,0.0,2402,61.0,2.54,8754.92,222.34,8.75,27436,31.31,761.77,-94.76,2325.4,43.74
 2021-01-28,Louisiana,De Soto,171.31,47,0,0.0,2390,61.0,2.55,8711.18,222.34,8.71,27436,31.31,856.53,0.0,2281.66,76.54
