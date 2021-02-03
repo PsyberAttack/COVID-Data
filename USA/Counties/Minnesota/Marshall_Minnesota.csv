@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-02,Minnesota,Marshall,0.0,0,0,0.0,709,15.0,2.12,7550.59,159.74,7.55,9390,5.29,63.9,10.65,276.9,10.65
 2021-02-01,Minnesota,Marshall,10.65,1,0,0.0,709,15.0,2.12,7550.59,159.74,7.55,9390,5.29,53.25,0.0,266.25,-31.95
 2021-01-31,Minnesota,Marshall,0.0,0,0,0.0,708,15.0,2.12,7539.94,159.74,7.54,9390,5.29,53.25,0.0,298.2,-31.95
 2021-01-30,Minnesota,Marshall,31.95,3,0,0.0,708,15.0,2.12,7539.94,159.74,7.54,9390,5.29,53.25,31.95,330.15,10.65

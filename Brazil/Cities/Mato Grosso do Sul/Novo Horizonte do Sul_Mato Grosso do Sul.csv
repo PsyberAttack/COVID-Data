@@ -1,11 +1,13 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-01-31,Mato Grosso do Sul,Novo Horizonte do Sul,0.0,0,0,0.0,159,1,0.63,4168.85,26.22,4.17,3814,550.6,-209.75,3172.53,-78.66
-2021-01-30,Mato Grosso do Sul,Novo Horizonte do Sul,0.0,0,0,0.0,159,1,0.63,4168.85,26.22,4.17,3814,760.35,-314.63,3251.19,0.0
-2021-01-29,Mato Grosso do Sul,Novo Horizonte do Sul,262.19,10,1,26.22,159,1,0.63,4168.85,26.22,4.17,3814,1074.98,262.19,3251.19,235.97
-2021-01-28,Mato Grosso do Sul,Novo Horizonte do Sul,0.0,0,0,0.0,149,0,0.0,3906.66,0.0,3.91,3814,812.79,0.0,3015.22,-78.66
-2021-01-27,Mato Grosso do Sul,Novo Horizonte do Sul,0.0,0,0,0.0,149,0,0.0,3906.66,0.0,3.91,3814,812.79,-445.73,3093.88,0.0
-2021-01-26,Mato Grosso do Sul,Novo Horizonte do Sul,26.22,1,0,0.0,149,0,0.0,3906.66,0.0,3.91,3814,1258.52,26.22,3093.88,26.22
-2021-01-25,Mato Grosso do Sul,Novo Horizonte do Sul,262.19,10,0,0.0,148,0,0.0,3880.44,0.0,3.88,3814,1232.3,262.19,3067.66,262.19
+2021-01-31,Mato Grosso do Sul,Novo Horizonte do Sul,0.0,0,0,0.0,159,1,0.63,4168.85,26.22,4.17,3814,550.6,0.0,3172.53,0.0
+2021-01-30,Mato Grosso do Sul,Novo Horizonte do Sul,0.0,0,0,0.0,159,1,0.63,4168.85,26.22,4.17,3814,550.6,0.0,3172.53,0.0
+2021-01-29,Mato Grosso do Sul,Novo Horizonte do Sul,262.19,10,1,26.22,159,1,0.63,4168.85,26.22,4.17,3814,550.6,52.44,3172.53,183.53
+2021-01-28,Mato Grosso do Sul,Novo Horizonte do Sul,0.0,0,0,0.0,149,0,0.0,3906.66,0.0,3.91,3814,498.16,-314.63,2989.0,0.0
+2021-01-27,Mato Grosso do Sul,Novo Horizonte do Sul,0.0,0,0,0.0,149,0,0.0,3906.66,0.0,3.91,3814,812.79,0.0,2989.0,-26.22
+2021-01-26,Mato Grosso do Sul,Novo Horizonte do Sul,26.22,1,0,0.0,149,0,0.0,3906.66,0.0,3.91,3814,812.79,26.22,3015.22,-52.44
+2021-01-25,Mato Grosso do Sul,Novo Horizonte do Sul,262.19,10,0,0.0,148,0,0.0,3880.44,0.0,3.88,3814,786.57,-183.54,3067.66,262.19
+2021-01-24,Mato Grosso do Sul,Novo Horizonte do Sul,0.0,0,0,0.0,138,0,0.0,3618.25,0.0,3.62,3814,970.11,0.0,2805.47,0.0
+2021-01-23,Mato Grosso do Sul,Novo Horizonte do Sul,0.0,0,0,0.0,138,0,0.0,3618.25,0.0,3.62,3814,970.11,0.0,2805.47,0.0
 2021-01-22,Mato Grosso do Sul,Novo Horizonte do Sul,209.75,8,0,0.0,138,0,0.0,3618.25,0.0,3.62,3814,970.11,-235.98,2805.47,209.75
 2021-01-21,Mato Grosso do Sul,Novo Horizonte do Sul,314.63,12,0,0.0,130,0,0.0,3408.5,0.0,3.41,3814,1206.09,52.44,2595.72,314.63
 2021-01-20,Mato Grosso do Sul,Novo Horizonte do Sul,0.0,0,0,0.0,118,0,0.0,3093.86,0.0,3.09,3814,1153.65,-26.22,2281.09,-78.66

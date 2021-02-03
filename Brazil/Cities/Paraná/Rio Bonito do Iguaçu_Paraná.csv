@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-02,Paraná,Rio Bonito do Iguaçu,0.0,0,0,0.0,342,1,0.29,2577.44,7.54,2.58,13269,75.37,-52.75,844.1,-15.07
+2021-02-01,Paraná,Rio Bonito do Iguaçu,0.0,0,0,0.0,342,1,0.29,2577.44,7.54,2.58,13269,128.12,-75.36,859.17,0.0
+2021-01-31,Paraná,Rio Bonito do Iguaçu,30.15,4,0,0.0,342,1,0.29,2577.44,7.54,2.58,13269,203.48,30.15,859.17,-60.29
+2021-01-30,Paraná,Rio Bonito do Iguaçu,15.07,2,0,0.0,338,1,0.3,2547.29,7.54,2.55,13269,173.33,15.07,919.46,-15.08
 2021-01-29,Paraná,Rio Bonito do Iguaçu,0.0,0,0,0.0,336,1,0.3,2532.22,7.54,2.53,13269,158.26,-90.44,934.54,-15.07
 2021-01-28,Paraná,Rio Bonito do Iguaçu,0.0,0,0,0.0,336,1,0.3,2532.22,7.54,2.53,13269,248.7,0.0,949.61,-7.54
 2021-01-27,Paraná,Rio Bonito do Iguaçu,30.15,4,0,0.0,336,1,0.3,2532.22,7.54,2.53,13269,248.7,30.15,957.15,15.08

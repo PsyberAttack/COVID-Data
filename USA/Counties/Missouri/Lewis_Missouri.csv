@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-02,Missouri,Lewis,10.15,1,0,0.0,621,3.0,0.48,6301.37,30.44,6.3,9855,19.51,40.58,10.15,629.12,-10.14
 2021-02-01,Missouri,Lewis,-10.15,-1,0,0.0,620,3.0,0.48,6291.22,30.44,6.29,9855,19.51,30.43,-30.44,639.26,-10.15
 2021-01-31,Missouri,Lewis,0.0,0,0,0.0,621,3.0,0.48,6301.37,30.44,6.3,9855,19.51,60.87,0.0,649.41,-20.29
 2021-01-30,Missouri,Lewis,20.29,2,0,0.0,621,3.0,0.48,6301.37,30.44,6.3,9855,19.51,60.87,0.0,669.7,-40.59

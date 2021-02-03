@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-02,Paraná,Assis Chateaubriand,29.97,10,1,3.0,1746,26,1.49,5233.5,77.93,5.23,33362,212.81,-3.0,1639.58,-26.98
+2021-02-01,Paraná,Assis Chateaubriand,3.0,1,0,0.0,1736,25,1.44,5203.52,74.94,5.2,33362,215.81,-5.99,1666.56,-56.95
+2021-01-31,Paraná,Assis Chateaubriand,23.98,8,0,0.0,1735,25,1.44,5200.53,74.94,5.2,33362,221.8,-44.96,1723.51,-23.98
+2021-01-30,Paraná,Assis Chateaubriand,35.97,12,0,0.0,1727,25,1.45,5176.55,74.94,5.18,33362,266.76,-3.0,1747.49,29.98
 2021-01-29,Paraná,Assis Chateaubriand,41.96,14,1,3.0,1715,25,1.46,5140.58,74.94,5.14,33362,269.76,0.0,1717.51,20.98
 2021-01-28,Paraná,Assis Chateaubriand,53.95,18,0,0.0,1701,24,1.41,5098.62,71.94,5.1,33362,269.76,23.98,1696.53,-68.94
 2021-01-27,Paraná,Assis Chateaubriand,23.98,8,0,0.0,1683,24,1.43,5044.66,71.94,5.04,33362,245.78,-26.98,1765.47,-11.99
