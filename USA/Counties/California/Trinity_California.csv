@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-03,California,Trinity,0.0,0,0,0.0,261,5.0,1.92,2082.17,39.89,2.08,12535,3.94,0.0,15.96,111.7,-7.98
 2021-02-02,California,Trinity,0.0,0,0,0.0,261,5.0,1.92,2082.17,39.89,2.08,12535,3.94,-15.96,0.0,119.68,-15.96
 2021-02-01,California,Trinity,7.98,1,0,0.0,261,5.0,1.92,2082.17,39.89,2.08,12535,3.94,-15.96,7.98,135.64,7.98
 2021-01-31,California,Trinity,-7.98,-1,0,0.0,260,5.0,1.92,2074.19,39.89,2.07,12535,3.94,-23.94,0.0,127.66,-7.98

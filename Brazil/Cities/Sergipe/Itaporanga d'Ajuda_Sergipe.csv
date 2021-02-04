@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-02,Sergipe,Itaporanga d'Ajuda,0.0,0,0,0.0,1649,38,2.3,4799.74,110.61,4.8,34356,139.72,-29.11,876.13,-130.98
+2021-02-01,Sergipe,Itaporanga d'Ajuda,23.29,8,0,0.0,1649,38,2.3,4799.74,110.61,4.8,34356,168.83,0.0,1007.11,-72.76
+2021-01-31,Sergipe,Itaporanga d'Ajuda,8.73,3,0,0.0,1641,38,2.32,4776.46,110.61,4.78,34356,168.83,-66.95,1079.87,-8.73
+2021-01-29,Sergipe,Itaporanga d'Ajuda,32.02,11,0,0.0,1638,38,2.32,4767.73,110.61,4.77,34356,235.78,-8.73,1088.6,11.65
 2021-01-28,Sergipe,Itaporanga d'Ajuda,26.2,9,0,0.0,1627,38,2.34,4735.71,110.61,4.74,34356,244.51,37.84,1076.95,-34.92
 2021-01-27,Sergipe,Itaporanga d'Ajuda,52.39,18,0,0.0,1618,38,2.35,4709.51,110.61,4.71,34356,206.67,-32.02,1111.87,-2.91
 2021-01-26,Sergipe,Itaporanga d'Ajuda,-2.91,-1,1,2.91,1600,38,2.38,4657.12,110.61,4.66,34356,238.69,-37.84,1114.78,0.0

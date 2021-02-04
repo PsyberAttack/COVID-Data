@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-03,Iowa,Hancock,28.01,3,0,0.0,1348,25.0,1.85,12584.02,233.38,12.58,10712,18.76,140.04,0.0,1176.26,-102.68
 2021-02-02,Iowa,Hancock,9.34,1,0,0.0,1345,25.0,1.86,12556.01,233.38,12.56,10712,18.76,140.04,-46.67,1278.94,-84.01
 2021-02-01,Iowa,Hancock,-9.34,-1,0,0.0,1344,25.0,1.86,12546.68,233.38,12.55,10712,18.76,186.71,-56.02,1362.95,-93.36
 2021-01-31,Iowa,Hancock,0.0,0,1,9.34,1345,25.0,1.86,12556.01,233.38,12.56,10712,18.76,242.73,-37.34,1456.31,-28.01

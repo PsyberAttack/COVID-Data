@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Minas Gerais,Sete Lagoas,0.0,0,0,0.0,8827,74,0.84,3683.46,30.88,3.68,239639,231.18,0.0,1368.71,0.0
+2021-01-31,Minas Gerais,Sete Lagoas,0.0,0,1,0.42,8827,74,0.84,3683.46,30.88,3.68,239639,231.18,0.0,1368.71,0.0
+2021-01-30,Minas Gerais,Sete Lagoas,35.05,84,0,0.0,8827,73,0.83,3683.46,30.46,3.68,239639,231.18,-401.44,1368.71,2.5
 2021-01-29,Minas Gerais,Sete Lagoas,37.14,89,0,0.0,8743,73,0.83,3648.4,30.46,3.65,239639,632.62,-80.12,1366.21,-41.73
 2021-01-28,Minas Gerais,Sete Lagoas,43.4,104,0,0.0,8654,73,0.84,3611.27,30.46,3.61,239639,712.74,43.4,1407.94,-59.67
 2021-01-27,Minas Gerais,Sete Lagoas,41.31,99,0,0.0,8550,73,0.85,3567.87,30.46,3.57,239639,669.34,41.31,1467.61,41.31

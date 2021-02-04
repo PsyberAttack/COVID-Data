@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-03,Missouri,Dallas,11.93,2,0,0.0,794,22.0,2.77,4736.9,131.25,4.74,16762,30.99,77.57,-23.87,471.32,5.96
 2021-02-02,Missouri,Dallas,-5.97,-1,2,11.93,792,22.0,2.78,4724.97,131.25,4.72,16762,30.99,101.44,-23.87,465.36,-23.87
 2021-02-01,Missouri,Dallas,17.9,3,0,0.0,793,20.0,2.52,4730.94,119.32,4.73,16762,30.99,125.31,11.93,489.23,17.9
 2021-01-31,Missouri,Dallas,5.97,1,0,0.0,790,20.0,2.53,4713.04,119.32,4.71,16762,30.99,113.38,-11.93,471.33,-17.89

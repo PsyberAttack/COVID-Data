@@ -1,335 +1,336 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-02,Sachsen-Anhalt,Altmarkkreis Salzwedel,6.01,5,0,0.0,1279,53,4.14,1537.76,63.72,1.54,83173,46.89,-18.04,532.62,-14.43
-2021-02-01,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,1274,53,4.16,1531.75,63.72,1.53,83173,64.93,-18.03,547.05,-28.86
-2021-01-31,Sachsen-Anhalt,Altmarkkreis Salzwedel,6.01,5,0,0.0,1274,53,4.16,1531.75,63.72,1.53,83173,82.96,-15.63,575.91,-24.05
-2021-01-30,Sachsen-Anhalt,Altmarkkreis Salzwedel,3.61,3,0,0.0,1269,53,4.18,1525.74,63.72,1.53,83173,98.59,-19.23,599.96,-19.23
-2021-01-29,Sachsen-Anhalt,Altmarkkreis Salzwedel,7.21,6,0,0.0,1266,53,4.19,1522.13,63.72,1.52,83173,117.82,-13.23,619.19,-6.02
-2021-01-28,Sachsen-Anhalt,Altmarkkreis Salzwedel,8.42,7,0,0.0,1260,53,4.21,1514.91,63.72,1.51,83173,131.05,-16.83,625.21,0.0
-2021-01-27,Sachsen-Anhalt,Altmarkkreis Salzwedel,15.63,13,0,0.0,1253,53,4.23,1506.5,63.72,1.51,83173,147.88,-7.21,625.21,3.61
-2021-01-26,Sachsen-Anhalt,Altmarkkreis Salzwedel,24.05,20,0,0.0,1240,53,4.27,1490.87,63.72,1.49,83173,155.09,6.02,621.6,9.62
-2021-01-25,Sachsen-Anhalt,Altmarkkreis Salzwedel,18.03,15,0,0.0,1220,53,4.34,1466.82,63.72,1.47,83173,149.07,4.8,611.98,3.6
-2021-01-24,Sachsen-Anhalt,Altmarkkreis Salzwedel,21.64,18,0,0.0,1205,53,4.4,1448.79,63.72,1.45,83173,144.27,0.0,608.38,1.2
-2021-01-23,Sachsen-Anhalt,Altmarkkreis Salzwedel,22.84,19,1,1.2,1187,53,4.47,1427.15,63.72,1.43,83173,144.27,6.01,607.18,4.81
-2021-01-22,Sachsen-Anhalt,Altmarkkreis Salzwedel,20.44,17,0,0.0,1168,52,4.45,1404.3,62.52,1.4,83173,138.26,-10.82,602.37,-10.82
-2021-01-21,Sachsen-Anhalt,Altmarkkreis Salzwedel,25.25,21,1,1.2,1151,52,4.52,1383.86,62.52,1.38,83173,149.08,4.81,613.19,-1.2
-2021-01-20,Sachsen-Anhalt,Altmarkkreis Salzwedel,22.84,19,1,1.2,1130,51,4.51,1358.61,61.32,1.36,83173,144.27,-12.03,614.39,7.21
-2021-01-19,Sachsen-Anhalt,Altmarkkreis Salzwedel,18.03,15,1,1.2,1111,50,4.5,1335.77,60.12,1.34,83173,156.3,-2.41,607.18,-2.41
-2021-01-18,Sachsen-Anhalt,Altmarkkreis Salzwedel,13.23,11,0,0.0,1096,49,4.47,1317.74,58.91,1.32,83173,158.71,-9.61,609.59,-2.4
-2021-01-17,Sachsen-Anhalt,Altmarkkreis Salzwedel,21.64,18,0,0.0,1085,49,4.52,1304.51,58.91,1.3,83173,168.32,3.61,611.99,7.21
-2021-01-16,Sachsen-Anhalt,Altmarkkreis Salzwedel,16.83,14,1,1.2,1067,49,4.59,1282.87,58.91,1.28,83173,164.71,-19.24,604.78,6.01
-2021-01-15,Sachsen-Anhalt,Altmarkkreis Salzwedel,31.26,26,2,2.4,1053,48,4.56,1266.04,57.71,1.27,83173,183.95,7.21,598.77,21.64
-2021-01-14,Sachsen-Anhalt,Altmarkkreis Salzwedel,20.44,17,1,1.2,1027,46,4.48,1234.78,55.31,1.23,83173,176.74,-8.42,577.13,1.2
-2021-01-13,Sachsen-Anhalt,Altmarkkreis Salzwedel,34.87,29,1,1.2,1010,45,4.46,1214.34,54.1,1.21,83173,185.16,10.82,575.93,21.64
-2021-01-12,Sachsen-Anhalt,Altmarkkreis Salzwedel,20.44,17,2,2.4,981,44,4.49,1179.47,52.9,1.18,83173,174.34,0.0,554.29,1.2
-2021-01-11,Sachsen-Anhalt,Altmarkkreis Salzwedel,22.84,19,2,2.4,964,42,4.36,1159.03,50.5,1.16,83173,174.34,-6.02,553.09,7.21
-2021-01-10,Sachsen-Anhalt,Altmarkkreis Salzwedel,18.03,15,0,0.0,945,40,4.23,1136.19,48.09,1.14,83173,180.36,-12.03,545.88,3.6
-2021-01-09,Sachsen-Anhalt,Altmarkkreis Salzwedel,36.07,30,1,1.2,930,40,4.3,1118.15,48.09,1.12,83173,192.39,13.23,542.28,26.45
-2021-01-08,Sachsen-Anhalt,Altmarkkreis Salzwedel,24.05,20,0,0.0,900,39,4.33,1082.08,46.89,1.08,83173,179.16,10.82,515.83,7.22
-2021-01-07,Sachsen-Anhalt,Altmarkkreis Salzwedel,28.86,24,1,1.2,880,39,4.43,1058.04,46.89,1.06,83173,168.34,20.44,508.61,12.03
-2021-01-06,Sachsen-Anhalt,Altmarkkreis Salzwedel,24.05,20,2,2.4,856,38,4.44,1029.18,45.69,1.03,83173,147.9,12.03,496.58,7.22
-2021-01-05,Sachsen-Anhalt,Altmarkkreis Salzwedel,20.44,17,3,3.61,836,36,4.31,1005.13,43.28,1.01,83173,135.87,6.01,489.36,12.02
-2021-01-04,Sachsen-Anhalt,Altmarkkreis Salzwedel,28.86,24,1,1.2,819,33,4.03,984.69,39.68,0.98,83173,129.86,14.43,477.34,9.62
-2021-01-03,Sachsen-Anhalt,Altmarkkreis Salzwedel,30.06,25,0,0.0,795,32,4.03,955.84,38.47,0.96,83173,115.43,9.62,467.72,19.24
-2021-01-02,Sachsen-Anhalt,Altmarkkreis Salzwedel,22.84,19,0,0.0,770,32,4.16,925.78,38.47,0.93,83173,105.81,4.81,448.48,13.22
-2021-01-01,Sachsen-Anhalt,Altmarkkreis Salzwedel,13.23,11,1,1.2,751,32,4.26,902.94,38.47,0.9,83173,101.0,-18.03,435.26,4.81
-2020-12-31,Sachsen-Anhalt,Altmarkkreis Salzwedel,8.42,7,0,0.0,740,31,4.19,889.71,37.27,0.89,83173,119.03,-18.03,430.45,1.21
-2020-12-30,Sachsen-Anhalt,Altmarkkreis Salzwedel,12.02,10,0,0.0,733,31,4.23,881.3,37.27,0.88,83173,137.06,-3.61,429.24,3.6
-2020-12-29,Sachsen-Anhalt,Altmarkkreis Salzwedel,14.43,12,2,2.4,723,31,4.29,869.27,37.27,0.87,83173,140.67,-6.01,425.64,8.42
-2020-12-28,Sachsen-Anhalt,Altmarkkreis Salzwedel,14.43,12,2,2.4,711,29,4.08,854.84,34.87,0.85,83173,146.68,-1.2,417.22,-6.01
-2020-12-27,Sachsen-Anhalt,Altmarkkreis Salzwedel,20.44,17,0,0.0,699,27,3.86,840.42,32.46,0.84,83173,147.88,6.01,423.23,7.21
-2020-12-26,Sachsen-Anhalt,Altmarkkreis Salzwedel,18.03,15,1,1.2,682,27,3.96,819.98,32.46,0.82,83173,141.87,7.21,416.02,12.02
-2020-12-25,Sachsen-Anhalt,Altmarkkreis Salzwedel,31.26,26,0,0.0,667,26,3.9,801.94,31.26,0.8,83173,134.66,21.64,404.0,18.03
-2020-12-24,Sachsen-Anhalt,Altmarkkreis Salzwedel,26.45,22,2,2.4,641,26,4.06,770.68,31.26,0.77,83173,113.02,7.21,385.97,14.43
-2020-12-23,Sachsen-Anhalt,Altmarkkreis Salzwedel,15.63,13,0,0.0,619,24,3.88,744.23,28.86,0.74,83173,105.81,2.4,371.54,4.81
-2020-12-22,Sachsen-Anhalt,Altmarkkreis Salzwedel,20.44,17,1,1.2,606,24,3.96,728.6,28.86,0.73,83173,103.41,1.2,366.73,14.43
-2020-12-21,Sachsen-Anhalt,Altmarkkreis Salzwedel,15.63,13,1,1.2,589,23,3.9,708.16,27.65,0.71,83173,102.21,0.0,352.3,8.42
-2020-12-20,Sachsen-Anhalt,Altmarkkreis Salzwedel,14.43,12,0,0.0,576,22,3.82,692.53,26.45,0.69,83173,102.21,0.0,343.88,7.22
-2020-12-19,Sachsen-Anhalt,Altmarkkreis Salzwedel,10.82,9,0,0.0,564,22,3.9,678.1,26.45,0.68,83173,102.21,1.2,336.66,6.01
-2020-12-18,Sachsen-Anhalt,Altmarkkreis Salzwedel,9.62,8,0,0.0,555,22,3.96,667.28,26.45,0.67,83173,101.01,-7.21,330.65,1.2
-2020-12-17,Sachsen-Anhalt,Altmarkkreis Salzwedel,19.24,16,1,1.2,547,22,4.02,657.67,26.45,0.66,83173,108.22,2.41,329.45,-3.6
-2020-12-16,Sachsen-Anhalt,Altmarkkreis Salzwedel,13.23,11,1,1.2,531,21,3.95,638.43,25.25,0.64,83173,105.81,-3.6,333.05,7.22
-2020-12-15,Sachsen-Anhalt,Altmarkkreis Salzwedel,19.24,16,3,3.61,520,20,3.85,625.2,24.05,0.63,83173,109.41,10.82,325.83,4.81
-2020-12-14,Sachsen-Anhalt,Altmarkkreis Salzwedel,15.63,13,0,0.0,504,17,3.37,605.97,20.44,0.61,83173,98.59,-3.61,321.02,6.01
-2020-12-13,Sachsen-Anhalt,Altmarkkreis Salzwedel,14.43,12,1,1.2,491,17,3.46,590.34,20.44,0.59,83173,102.2,3.61,315.01,9.62
-2020-12-12,Sachsen-Anhalt,Altmarkkreis Salzwedel,9.62,8,0,0.0,479,16,3.34,575.91,19.24,0.58,83173,98.59,0.0,305.39,6.01
-2020-12-11,Sachsen-Anhalt,Altmarkkreis Salzwedel,16.83,14,1,1.2,471,16,3.4,566.29,19.24,0.57,83173,98.59,8.41,299.38,8.41
-2020-12-10,Sachsen-Anhalt,Altmarkkreis Salzwedel,16.83,14,0,0.0,457,15,3.28,549.46,18.03,0.55,83173,90.18,9.62,290.97,7.21
-2020-12-09,Sachsen-Anhalt,Altmarkkreis Salzwedel,16.83,14,1,1.2,443,15,3.39,532.62,18.03,0.53,83173,80.56,8.41,283.76,3.6
-2020-12-08,Sachsen-Anhalt,Altmarkkreis Salzwedel,8.42,7,0,0.0,429,14,3.26,515.79,16.83,0.52,83173,72.15,2.41,280.16,3.61
-2020-12-07,Sachsen-Anhalt,Altmarkkreis Salzwedel,19.24,16,2,2.4,422,14,3.32,507.38,16.83,0.51,83173,69.74,-1.2,276.55,16.84
-2020-12-06,Sachsen-Anhalt,Altmarkkreis Salzwedel,10.82,9,1,1.2,406,12,2.96,488.14,14.43,0.49,83173,70.94,-2.41,259.71,0.0
-2020-12-05,Sachsen-Anhalt,Altmarkkreis Salzwedel,9.62,8,0,0.0,397,11,2.77,477.32,13.23,0.48,83173,73.35,3.61,259.71,-2.4
-2020-12-04,Sachsen-Anhalt,Altmarkkreis Salzwedel,8.42,7,0,0.0,389,11,2.83,467.7,13.23,0.47,83173,69.74,-4.81,262.11,-3.6
-2020-12-03,Sachsen-Anhalt,Altmarkkreis Salzwedel,7.21,6,0,0.0,382,11,2.88,459.28,13.23,0.46,83173,74.55,-4.81,265.71,-1.21
-2020-12-02,Sachsen-Anhalt,Altmarkkreis Salzwedel,8.42,7,0,0.0,376,11,2.93,452.07,13.23,0.45,83173,79.36,-2.4,266.92,-7.21
-2020-12-01,Sachsen-Anhalt,Altmarkkreis Salzwedel,6.01,5,1,1.2,369,11,2.98,443.65,13.23,0.44,83173,81.76,0.0,274.13,2.4
-2020-11-30,Sachsen-Anhalt,Altmarkkreis Salzwedel,20.44,17,1,1.2,364,10,2.75,437.64,12.02,0.44,83173,81.76,13.23,271.73,10.82
-2020-11-29,Sachsen-Anhalt,Altmarkkreis Salzwedel,13.23,11,1,1.2,347,9,2.59,417.2,10.82,0.42,83173,68.53,6.02,260.91,7.22
-2020-11-28,Sachsen-Anhalt,Altmarkkreis Salzwedel,6.01,5,0,0.0,336,8,2.38,403.98,9.62,0.4,83173,62.51,1.2,253.69,2.4
-2020-11-27,Sachsen-Anhalt,Altmarkkreis Salzwedel,13.23,11,1,1.2,331,8,2.42,397.97,9.62,0.4,83173,61.31,4.81,251.29,1.21
-2020-11-26,Sachsen-Anhalt,Altmarkkreis Salzwedel,12.02,10,0,0.0,320,7,2.19,384.74,8.42,0.38,83173,56.5,-10.82,250.08,-1.21
-2020-11-25,Sachsen-Anhalt,Altmarkkreis Salzwedel,10.82,9,0,0.0,310,7,2.26,372.72,8.42,0.37,83173,67.32,4.81,251.29,7.21
-2020-11-24,Sachsen-Anhalt,Altmarkkreis Salzwedel,6.01,5,0,0.0,301,7,2.33,361.9,8.42,0.36,83173,62.51,-8.42,244.08,3.61
-2020-11-23,Sachsen-Anhalt,Altmarkkreis Salzwedel,7.21,6,0,0.0,296,7,2.36,355.88,8.42,0.36,83173,70.93,-2.41,240.47,-3.61
-2020-11-22,Sachsen-Anhalt,Altmarkkreis Salzwedel,7.21,6,0,0.0,290,7,2.41,348.67,8.42,0.35,83173,73.34,2.4,244.08,2.4
-2020-11-21,Sachsen-Anhalt,Altmarkkreis Salzwedel,4.81,4,0,0.0,284,7,2.46,341.46,8.42,0.34,83173,70.94,1.2,241.68,-2.4
-2020-11-20,Sachsen-Anhalt,Altmarkkreis Salzwedel,8.42,7,0,0.0,280,7,2.5,336.65,8.42,0.34,83173,69.74,0.0,244.08,4.81
-2020-11-19,Sachsen-Anhalt,Altmarkkreis Salzwedel,22.84,19,0,0.0,273,7,2.56,328.23,8.42,0.33,83173,69.74,13.22,239.27,20.44
-2020-11-18,Sachsen-Anhalt,Altmarkkreis Salzwedel,6.01,5,0,0.0,254,7,2.76,305.39,8.42,0.31,83173,56.52,-7.22,218.83,3.61
-2020-11-17,Sachsen-Anhalt,Altmarkkreis Salzwedel,14.43,12,0,0.0,249,7,2.81,299.38,8.42,0.3,83173,63.74,9.62,215.22,13.23
-2020-11-16,Sachsen-Anhalt,Altmarkkreis Salzwedel,9.62,8,1,1.2,237,7,2.95,284.95,8.42,0.28,83173,54.12,7.22,201.99,8.42
-2020-11-15,Sachsen-Anhalt,Altmarkkreis Salzwedel,4.81,4,0,0.0,229,6,2.62,275.33,7.21,0.28,83173,46.9,-6.01,193.57,3.61
-2020-11-14,Sachsen-Anhalt,Altmarkkreis Salzwedel,3.61,3,0,0.0,225,6,2.67,270.52,7.21,0.27,83173,52.91,-8.41,189.96,-1.2
-2020-11-13,Sachsen-Anhalt,Altmarkkreis Salzwedel,8.42,7,0,0.0,222,6,2.7,266.91,7.21,0.27,83173,61.32,-3.6,191.16,8.42
-2020-11-12,Sachsen-Anhalt,Altmarkkreis Salzwedel,9.62,8,1,1.2,215,6,2.79,258.5,7.21,0.26,83173,64.92,1.2,182.74,9.62
-2020-11-11,Sachsen-Anhalt,Altmarkkreis Salzwedel,13.23,11,0,0.0,207,5,2.42,248.88,6.01,0.25,83173,63.72,-2.4,173.12,12.03
-2020-11-10,Sachsen-Anhalt,Altmarkkreis Salzwedel,4.81,4,0,0.0,196,5,2.55,235.65,6.01,0.24,83173,66.12,1.2,161.09,4.81
-2020-11-09,Sachsen-Anhalt,Altmarkkreis Salzwedel,2.4,2,0,0.0,192,5,2.6,230.84,6.01,0.23,83173,64.92,-7.22,156.28,2.4
-2020-11-08,Sachsen-Anhalt,Altmarkkreis Salzwedel,10.82,9,0,0.0,190,5,2.63,228.44,6.01,0.23,83173,72.14,4.81,153.88,10.82
-2020-11-07,Sachsen-Anhalt,Altmarkkreis Salzwedel,12.02,10,0,0.0,181,5,2.76,217.62,6.01,0.22,83173,67.33,8.41,143.06,12.02
-2020-11-06,Sachsen-Anhalt,Altmarkkreis Salzwedel,12.02,10,0,0.0,171,5,2.92,205.6,6.01,0.21,83173,58.92,0.0,131.04,9.62
-2020-11-05,Sachsen-Anhalt,Altmarkkreis Salzwedel,8.42,7,2,2.4,161,5,3.11,193.57,6.01,0.19,83173,58.92,-4.81,121.42,8.42
-2020-11-04,Sachsen-Anhalt,Altmarkkreis Salzwedel,15.63,13,2,2.4,154,3,1.95,185.16,3.61,0.19,83173,63.73,12.02,113.0,15.63
-2020-11-03,Sachsen-Anhalt,Altmarkkreis Salzwedel,3.61,3,0,0.0,141,1,0.71,169.53,1.2,0.17,83173,51.71,1.21,97.37,3.61
-2020-11-02,Sachsen-Anhalt,Altmarkkreis Salzwedel,9.62,8,0,0.0,138,1,0.72,165.92,1.2,0.17,83173,50.5,-1.2,93.76,8.42
-2020-11-01,Sachsen-Anhalt,Altmarkkreis Salzwedel,6.01,5,0,0.0,130,1,0.77,156.3,1.2,0.16,83173,51.7,1.2,85.34,4.81
-2020-10-31,Sachsen-Anhalt,Altmarkkreis Salzwedel,3.61,3,0,0.0,125,1,0.8,150.29,1.2,0.15,83173,50.5,-3.6,80.53,3.61
-2020-10-30,Sachsen-Anhalt,Altmarkkreis Salzwedel,12.02,10,0,0.0,122,1,0.82,146.68,1.2,0.15,83173,54.1,8.41,76.92,12.02
-2020-10-29,Sachsen-Anhalt,Altmarkkreis Salzwedel,13.23,11,0,0.0,112,1,0.89,134.66,1.2,0.13,83173,45.69,10.83,64.9,13.23
-2020-10-28,Sachsen-Anhalt,Altmarkkreis Salzwedel,3.61,3,0,0.0,101,1,0.99,121.43,1.2,0.12,83173,34.86,1.21,51.67,3.61
-2020-10-27,Sachsen-Anhalt,Altmarkkreis Salzwedel,2.4,2,0,0.0,98,1,1.02,117.83,1.2,0.12,83173,33.65,1.2,48.06,2.4
-2020-10-26,Sachsen-Anhalt,Altmarkkreis Salzwedel,10.82,9,0,0.0,96,1,1.04,115.42,1.2,0.12,83173,32.45,9.62,45.66,9.62
-2020-10-25,Sachsen-Anhalt,Altmarkkreis Salzwedel,4.81,4,0,0.0,87,1,1.15,104.6,1.2,0.1,83173,22.83,3.61,36.04,4.81
-2020-10-24,Sachsen-Anhalt,Altmarkkreis Salzwedel,7.21,6,0,0.0,83,1,1.2,99.79,1.2,0.1,83173,19.22,2.4,31.23,6.01
-2020-10-23,Sachsen-Anhalt,Altmarkkreis Salzwedel,3.61,3,0,0.0,77,1,1.3,92.58,1.2,0.09,83173,16.82,3.61,25.22,3.61
-2020-10-22,Sachsen-Anhalt,Altmarkkreis Salzwedel,2.4,2,0,0.0,74,1,1.35,88.97,1.2,0.09,83173,13.21,2.4,21.61,2.4
-2020-10-21,Sachsen-Anhalt,Altmarkkreis Salzwedel,2.4,2,0,0.0,72,1,1.39,86.57,1.2,0.09,83173,10.81,1.2,19.21,0.0
-2020-10-20,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,70,1,1.43,84.16,1.2,0.08,83173,9.61,1.2,19.21,1.2
-2020-10-19,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,69,1,1.45,82.96,1.2,0.08,83173,8.41,1.2,18.01,1.2
-2020-10-18,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,68,1,1.47,81.76,1.2,0.08,83173,7.21,1.2,16.81,1.2
-2020-10-17,Sachsen-Anhalt,Altmarkkreis Salzwedel,4.81,4,0,0.0,67,1,1.49,80.55,1.2,0.08,83173,6.01,4.81,15.61,4.81
-2020-10-16,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,63,1,1.59,75.75,1.2,0.08,83173,1.2,-2.4,10.8,0.0
-2020-10-15,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,63,1,1.59,75.75,1.2,0.08,83173,3.6,0.0,10.8,-1.2
-2020-10-14,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,63,1,1.59,75.75,1.2,0.08,83173,3.6,1.2,12.0,1.2
-2020-10-13,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,62,1,1.61,74.54,1.2,0.07,83173,2.4,0.0,10.8,0.0
-2020-10-12,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,62,1,1.61,74.54,1.2,0.07,83173,2.4,-1.2,10.8,-2.4
-2020-10-11,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,62,1,1.61,74.54,1.2,0.07,83173,3.6,-1.2,13.2,0.0
-2020-10-10,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,62,1,1.61,74.54,1.2,0.07,83173,4.8,0.0,13.2,0.0
-2020-10-09,Sachsen-Anhalt,Altmarkkreis Salzwedel,2.4,2,0,0.0,62,1,1.61,74.54,1.2,0.07,83173,4.8,2.4,13.2,2.4
-2020-10-08,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,60,1,1.67,72.14,1.2,0.07,83173,2.4,0.0,10.8,-1.2
-2020-10-07,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,60,1,1.67,72.14,1.2,0.07,83173,2.4,0.0,12.0,0.0
-2020-10-06,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,60,1,1.67,72.14,1.2,0.07,83173,2.4,0.0,12.0,-4.81
-2020-10-05,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,60,1,1.67,72.14,1.2,0.07,83173,2.4,0.0,16.81,1.2
-2020-10-04,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,59,1,1.69,70.94,1.2,0.07,83173,2.4,1.2,15.61,1.2
-2020-10-03,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,58,1,1.72,69.73,1.2,0.07,83173,1.2,-1.2,14.41,0.0
-2020-10-02,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,58,1,1.72,69.73,1.2,0.07,83173,2.4,0.0,14.41,0.0
-2020-10-01,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,58,1,1.72,69.73,1.2,0.07,83173,2.4,0.0,14.41,0.0
-2020-09-30,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,58,1,1.72,69.73,1.2,0.07,83173,2.4,-2.4,14.41,0.0
-2020-09-29,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,58,1,1.72,69.73,1.2,0.07,83173,4.8,0.0,14.41,0.0
-2020-09-28,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,58,1,1.72,69.73,1.2,0.07,83173,4.8,1.2,14.41,1.2
-2020-09-27,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,57,1,1.75,68.53,1.2,0.07,83173,3.6,0.0,13.21,0.0
-2020-09-26,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,57,1,1.75,68.53,1.2,0.07,83173,3.6,1.2,13.21,-2.41
-2020-09-25,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,56,1,1.79,67.33,1.2,0.07,83173,2.4,0.0,15.62,0.0
-2020-09-24,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,56,1,1.79,67.33,1.2,0.07,83173,2.4,-1.2,15.62,0.0
-2020-09-23,Sachsen-Anhalt,Altmarkkreis Salzwedel,2.4,2,0,0.0,56,1,1.79,67.33,1.2,0.07,83173,3.6,2.4,15.62,2.4
-2020-09-22,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,54,1,1.85,64.92,1.2,0.06,83173,1.2,0.0,13.22,0.0
-2020-09-21,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,54,1,1.85,64.92,1.2,0.06,83173,1.2,-2.4,13.22,-1.2
-2020-09-20,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,54,1,1.85,64.92,1.2,0.06,83173,3.6,0.0,14.42,0.0
-2020-09-19,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,54,1,1.85,64.92,1.2,0.06,83173,3.6,0.0,14.42,-1.2
-2020-09-18,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,54,1,1.85,64.92,1.2,0.06,83173,3.6,0.0,15.62,0.0
-2020-09-17,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,54,1,1.85,64.92,1.2,0.06,83173,3.6,0.0,15.62,-1.2
-2020-09-16,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,53,1,1.89,63.72,1.2,0.06,83173,3.6,0.0,16.82,0.0
-2020-09-15,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,53,1,1.89,63.72,1.2,0.06,83173,3.6,-4.81,16.82,0.0
-2020-09-14,Sachsen-Anhalt,Altmarkkreis Salzwedel,2.4,2,0,0.0,53,1,1.89,63.72,1.2,0.06,83173,8.41,2.4,16.82,2.4
-2020-09-13,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,51,1,1.96,61.32,1.2,0.06,83173,6.01,0.0,14.42,0.0
-2020-09-12,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,51,1,1.96,61.32,1.2,0.06,83173,6.01,0.0,14.42,-2.4
-2020-09-11,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,51,1,1.96,61.32,1.2,0.06,83173,6.01,0.0,16.82,0.0
-2020-09-10,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,51,1,1.96,61.32,1.2,0.06,83173,6.01,1.2,16.82,1.2
-2020-09-09,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,50,1,2.0,60.12,1.2,0.06,83173,4.81,0.0,15.62,0.0
-2020-09-08,Sachsen-Anhalt,Altmarkkreis Salzwedel,4.81,4,0,0.0,50,1,2.0,60.12,1.2,0.06,83173,4.81,4.81,15.62,3.61
-2020-09-07,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,46,1,2.17,55.31,1.2,0.06,83173,-0.0,0.0,12.01,0.0
-2020-09-06,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,46,1,2.17,55.31,1.2,0.06,83173,-0.0,0.0,12.01,0.0
-2020-09-05,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,46,1,2.17,55.31,1.2,0.06,83173,-0.0,-3.61,12.01,0.0
-2020-09-04,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,46,1,2.17,55.31,1.2,0.06,83173,3.61,0.0,12.01,0.0
-2020-09-03,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,46,1,2.17,55.31,1.2,0.06,83173,3.61,0.0,12.01,0.0
-2020-09-02,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,46,1,2.17,55.31,1.2,0.06,83173,3.61,0.0,12.01,0.0
-2020-09-01,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,46,1,2.17,55.31,1.2,0.06,83173,3.61,0.0,12.01,0.0
-2020-08-31,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,46,1,2.17,55.31,1.2,0.06,83173,3.61,-1.2,12.01,0.0
-2020-08-30,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,46,1,2.17,55.31,1.2,0.06,83173,4.81,0.0,12.01,0.0
-2020-08-29,Sachsen-Anhalt,Altmarkkreis Salzwedel,3.61,3,0,0.0,46,1,2.17,55.31,1.2,0.06,83173,4.81,2.41,12.01,3.61
-2020-08-28,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,43,1,2.33,51.7,1.2,0.05,83173,2.4,0.0,8.4,0.0
-2020-08-27,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,43,1,2.33,51.7,1.2,0.05,83173,2.4,-2.4,8.4,0.0
-2020-08-26,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,43,1,2.33,51.7,1.2,0.05,83173,4.8,0.0,8.4,0.0
-2020-08-25,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,43,1,2.33,51.7,1.2,0.05,83173,4.8,0.0,8.4,0.0
-2020-08-24,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,43,1,2.33,51.7,1.2,0.05,83173,4.8,1.2,8.4,1.2
-2020-08-23,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,42,1,2.38,50.5,1.2,0.05,83173,3.6,0.0,7.2,0.0
-2020-08-22,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,42,1,2.38,50.5,1.2,0.05,83173,3.6,-1.2,7.2,1.2
-2020-08-21,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,41,1,2.44,49.29,1.2,0.05,83173,4.8,0.0,6.0,0.0
-2020-08-20,Sachsen-Anhalt,Altmarkkreis Salzwedel,2.4,2,0,0.0,41,1,2.44,49.29,1.2,0.05,83173,4.8,2.4,6.0,2.4
-2020-08-19,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,39,1,2.56,46.89,1.2,0.05,83173,2.4,0.0,3.6,-1.2
-2020-08-18,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,39,1,2.56,46.89,1.2,0.05,83173,2.4,-1.2,4.8,-1.2
-2020-08-17,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,39,1,2.56,46.89,1.2,0.05,83173,3.6,0.0,6.0,0.0
-2020-08-16,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,39,1,2.56,46.89,1.2,0.05,83173,3.6,0.0,6.0,0.0
-2020-08-15,Sachsen-Anhalt,Altmarkkreis Salzwedel,2.4,2,0,0.0,39,1,2.56,46.89,1.2,0.05,83173,3.6,2.4,6.0,2.4
-2020-08-14,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,37,1,2.7,44.49,1.2,0.04,83173,1.2,0.0,3.6,0.0
-2020-08-13,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,37,1,2.7,44.49,1.2,0.04,83173,1.2,0.0,3.6,0.0
-2020-08-12,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,37,1,2.7,44.49,1.2,0.04,83173,1.2,0.0,3.6,0.0
-2020-08-11,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,37,1,2.7,44.49,1.2,0.04,83173,1.2,1.2,3.6,1.2
-2020-08-10,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,-0.0,0.0,2.4,0.0
-2020-08-09,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,-0.0,0.0,2.4,0.0
-2020-08-08,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,-0.0,0.0,2.4,0.0
-2020-08-07,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,-0.0,0.0,2.4,0.0
-2020-08-06,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,-0.0,0.0,2.4,0.0
-2020-08-05,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,-0.0,0.0,2.4,0.0
-2020-08-04,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,-0.0,0.0,2.4,0.0
-2020-08-03,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,-0.0,0.0,2.4,0.0
-2020-08-02,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,-0.0,0.0,2.4,0.0
-2020-08-01,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,-0.0,0.0,2.4,0.0
-2020-07-31,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,-0.0,0.0,2.4,0.0
-2020-07-30,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,-0.0,0.0,2.4,0.0
-2020-07-29,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,-0.0,-1.2,2.4,0.0
-2020-07-28,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,1.2,-1.2,2.4,0.0
-2020-07-27,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,2.4,0.0,2.4,0.0
-2020-07-26,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,2.4,0.0,2.4,0.0
-2020-07-25,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,2.4,0.0,2.4,0.0
-2020-07-24,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,2.4,0.0,2.4,0.0
-2020-07-23,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,2.4,0.0,2.4,0.0
-2020-07-22,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,2.4,1.2,2.4,1.2
-2020-07-21,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,35,1,2.86,42.08,1.2,0.04,83173,1.2,1.2,1.2,1.2
-2020-07-20,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,0.0,0.0
-2020-07-19,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,0.0,-1.2
-2020-07-18,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,1.2,0.0
-2020-07-17,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,1.2,0.0
-2020-07-16,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,1.2,0.0
-2020-07-15,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,1.2,0.0
-2020-07-14,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,1.2,0.0
-2020-07-13,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,1.2,0.0
-2020-07-12,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,1.2,0.0
-2020-07-11,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,1.2,0.0
-2020-07-10,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,1.2,0.0
-2020-07-09,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,1.2,-1.2
-2020-07-08,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,2.4,0.0
-2020-07-07,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,2.4,0.0
-2020-07-06,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,2.4,0.0
-2020-07-05,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,2.4,0.0
-2020-07-04,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,2.4,0.0
-2020-07-03,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,2.4,0.0
-2020-07-02,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,2.4,0.0
-2020-07-01,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,2.4,0.0
-2020-06-30,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,2.4,0.0
-2020-06-29,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,2.4,0.0
-2020-06-28,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,-1.2,2.4,0.0
-2020-06-27,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,1.2,0.0,2.4,0.0
-2020-06-26,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,1.2,0.0,2.4,0.0
-2020-06-25,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,1.2,0.0,2.4,0.0
-2020-06-24,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,1.2,0.0,2.4,0.0
-2020-06-23,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,1.2,0.0,2.4,0.0
-2020-06-22,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,1.2,0.0,2.4,0.0
-2020-06-21,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,1.2,1.2,2.4,1.2
-2020-06-20,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,33,1,3.03,39.68,1.2,0.04,83173,-0.0,0.0,1.2,0.0
-2020-06-19,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,33,1,3.03,39.68,1.2,0.04,83173,-0.0,0.0,1.2,0.0
-2020-06-18,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,33,1,3.03,39.68,1.2,0.04,83173,-0.0,-1.2,1.2,0.0
-2020-06-17,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,33,1,3.03,39.68,1.2,0.04,83173,1.2,0.0,1.2,0.0
-2020-06-16,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,33,1,3.03,39.68,1.2,0.04,83173,1.2,0.0,1.2,0.0
-2020-06-15,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,33,1,3.03,39.68,1.2,0.04,83173,1.2,0.0,1.2,0.0
-2020-06-14,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,33,1,3.03,39.68,1.2,0.04,83173,1.2,0.0,1.2,-1.2
-2020-06-13,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,33,1,3.03,39.68,1.2,0.04,83173,1.2,0.0,2.4,0.0
-2020-06-12,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,33,1,3.03,39.68,1.2,0.04,83173,1.2,0.0,2.4,0.0
-2020-06-11,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,33,1,3.03,39.68,1.2,0.04,83173,1.2,1.2,2.4,1.2
-2020-06-10,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,1.2,0.0
-2020-06-09,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,1.2,0.0
-2020-06-08,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,1.2,0.0
-2020-06-07,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,1.2,0.0
-2020-06-06,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,1.2,0.0
-2020-06-05,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,1.2,0.0
-2020-06-04,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,1.2,0.0
-2020-06-03,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,1.2,0.0
-2020-06-02,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,1.2,0.0
-2020-06-01,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,1.2,0.0
-2020-05-31,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,1.2,0.0
-2020-05-30,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,1.2,0.0
-2020-05-29,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,1.2,0.0
-2020-05-28,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,1.2,0.0
-2020-05-27,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,1.2,0.0
-2020-05-26,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,1.2,-1.2
-2020-05-25,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,2.4,0.0
-2020-05-24,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,-1.2,2.4,0.0
-2020-05-23,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,1.2,0.0,2.4,0.0
-2020-05-22,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,1.2,0.0,2.4,0.0
-2020-05-21,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,1.2,0.0,2.4,0.0
-2020-05-20,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,1.2,0.0,2.4,0.0
-2020-05-19,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,1.2,0.0,2.4,0.0
-2020-05-18,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,1.2,0.0,2.4,0.0
-2020-05-17,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,1,1.2,32,1,3.12,38.47,1.2,0.04,83173,1.2,1.2,2.4,1.2
-2020-05-16,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,-0.0,0.0,1.2,0.0
-2020-05-15,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,-0.0,0.0,1.2,0.0
-2020-05-14,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,-0.0,0.0,1.2,0.0
-2020-05-13,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,-0.0,0.0,1.2,0.0
-2020-05-12,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,-0.0,0.0,1.2,0.0
-2020-05-11,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,-0.0,0.0,1.2,0.0
-2020-05-10,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,-0.0,0.0,1.2,0.0
-2020-05-09,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,-0.0,0.0,1.2,0.0
-2020-05-08,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,-0.0,0.0,1.2,-2.4
-2020-05-07,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,-0.0,0.0,3.6,0.0
-2020-05-06,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,-0.0,0.0,3.6,-3.61
-2020-05-05,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,-0.0,-1.2,7.21,0.0
-2020-05-04,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,1.2,0.0,7.21,-1.2
-2020-05-03,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,1.2,0.0,8.41,0.0
-2020-05-02,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,1.2,0.0,8.41,-1.2
-2020-05-01,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,1.2,0.0,9.61,-1.2
-2020-04-30,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,1.2,0.0,10.81,-2.4
-2020-04-29,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,1.2,0.0,13.21,-3.61
-2020-04-28,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,1.2,1.2,16.82,1.2
-2020-04-27,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,-0.0,0.0,15.62,0.0
-2020-04-26,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,-0.0,0.0,15.62,0.0
-2020-04-25,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,-0.0,0.0,15.62,-2.4
-2020-04-24,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,-0.0,0.0,18.02,0.0
-2020-04-23,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,-0.0,0.0,18.02,0.0
-2020-04-22,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,-0.0,0.0,18.02,0.0
-2020-04-21,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,-0.0,0.0,18.02,0.0
-2020-04-20,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,-0.0,0.0,18.02,-3.61
-2020-04-19,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,-0.0,0.0,21.63,0.0
-2020-04-18,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,-0.0,0.0,21.63,0.0
-2020-04-17,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,-0.0,-2.4,21.63,-2.4
-2020-04-16,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,2.4,0.0,24.03,-1.2
-2020-04-15,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,2.4,-3.61,25.23,-1.2
-2020-04-14,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,6.01,0.0,26.43,-3.61
-2020-04-13,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,6.01,-1.2,30.04,0.0
-2020-04-12,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,7.21,0.0,30.04,-1.2
-2020-04-11,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,7.21,-1.2,31.24,0.0
-2020-04-10,Sachsen-Anhalt,Altmarkkreis Salzwedel,2.4,2,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,8.41,1.2,31.24,0.0
-2020-04-09,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,28,0,0.0,33.66,0.0,0.03,83173,7.21,-2.4,31.24,0.0
-2020-04-08,Sachsen-Anhalt,Altmarkkreis Salzwedel,3.61,3,0,0.0,28,0,0.0,33.66,0.0,0.03,83173,9.61,0.0,31.24,3.61
-2020-04-07,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,25,0,0.0,30.06,0.0,0.03,83173,9.61,0.0,27.63,0.0
-2020-04-06,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,25,0,0.0,30.06,0.0,0.03,83173,9.61,1.2,27.63,1.2
-2020-04-05,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,24,0,0.0,28.86,0.0,0.03,83173,8.41,0.0,26.43,0.0
-2020-04-04,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,24,0,0.0,28.86,0.0,0.03,83173,8.41,-1.2,26.43,0.0
-2020-04-03,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,23,0,0.0,27.65,0.0,0.03,83173,9.61,1.2,26.43,0.0
-2020-04-02,Sachsen-Anhalt,Altmarkkreis Salzwedel,2.4,2,0,0.0,22,0,0.0,26.45,0.0,0.03,83173,8.41,2.4,26.43,2.4
-2020-04-01,Sachsen-Anhalt,Altmarkkreis Salzwedel,3.61,3,0,0.0,20,0,0.0,24.05,0.0,0.02,83173,6.01,3.61,24.03,3.61
-2020-03-31,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,17,0,0.0,20.44,0.0,0.02,83173,2.4,0.0,20.42,0.0
-2020-03-30,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,17,0,0.0,20.44,0.0,0.02,83173,2.4,-3.61,20.42,0.0
-2020-03-29,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,17,0,0.0,20.44,0.0,0.02,83173,6.01,0.0,20.42,0.0
-2020-03-28,Sachsen-Anhalt,Altmarkkreis Salzwedel,2.4,2,0,0.0,17,0,0.0,20.44,0.0,0.02,83173,6.01,2.4,20.42,2.4
-2020-03-27,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,15,0,0.0,18.03,0.0,0.02,83173,3.61,-2.4,18.02,0.0
-2020-03-26,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,15,0,0.0,18.03,0.0,0.02,83173,6.01,-1.2,18.02,0.0
-2020-03-25,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,15,0,0.0,18.03,0.0,0.02,83173,7.21,-1.2,18.02,0.0
-2020-03-24,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,15,0,0.0,18.03,0.0,0.02,83173,8.41,-3.61,18.02,0.0
-2020-03-23,Sachsen-Anhalt,Altmarkkreis Salzwedel,3.61,3,0,0.0,15,0,0.0,18.03,0.0,0.02,83173,12.02,3.61,18.02,3.61
-2020-03-22,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,12,0,0.0,14.43,0.0,0.01,83173,8.41,-1.2,14.41,0.0
-2020-03-21,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,12,0,0.0,14.43,0.0,0.01,83173,9.61,0.0,14.41,0.0
-2020-03-20,Sachsen-Anhalt,Altmarkkreis Salzwedel,2.4,2,0,0.0,12,0,0.0,14.43,0.0,0.01,83173,9.61,0.0,14.41,2.4
-2020-03-19,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,10,0,0.0,12.02,0.0,0.01,83173,9.61,1.2,12.01,1.2
-2020-03-18,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,9,0,0.0,10.82,0.0,0.01,83173,8.41,1.2,10.81,1.2
-2020-03-17,Sachsen-Anhalt,Altmarkkreis Salzwedel,3.61,3,0,0.0,8,0,0.0,9.62,0.0,0.01,83173,7.21,3.61,9.61,3.61
-2020-03-16,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,5,0,0.0,6.01,0.0,0.01,83173,3.6,0.0,6.0,0.0
-2020-03-15,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,5,0,0.0,6.01,0.0,0.01,83173,3.6,1.2,6.0,1.2
-2020-03-14,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,4,0,0.0,4.81,0.0,0.0,83173,2.4,-1.2,4.8,0.0
-2020-03-13,Sachsen-Anhalt,Altmarkkreis Salzwedel,2.4,2,0,0.0,4,0,0.0,4.81,0.0,0.0,83173,3.6,1.2,4.8,2.4
-2020-03-12,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,2,0,0.0,2.4,0.0,0.0,83173,2.4,0.0,2.4,0.0
-2020-03-11,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,2,0,0.0,2.4,0.0,0.0,83173,2.4,0.0,2.4,0.0
-2020-03-10,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,2,0,0.0,2.4,0.0,0.0,83173,2.4,0.0,2.4,0.0
-2020-03-09,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,2,0,0.0,2.4,0.0,0.0,83173,2.4,0.0,2.4,0.0
-2020-03-08,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,2,0,0.0,2.4,0.0,0.0,83173,2.4,0.0,2.4,0.0
-2020-03-07,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,2,0,0.0,2.4,0.0,0.0,83173,2.4,1.2,2.4,1.2
-2020-03-06,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,1,0,0.0,1.2,0.0,0.0,83173,1.2,1.2,1.2,1.2
+2021-02-03 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,4.81,4,0,0.0,1295,53,4.09,1557.0,63.72,1.56,83173,48.1,-12.02,527.82,-19.24
+2021-02-02 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,4.81,4,0,0.0,1291,53,4.11,1552.19,63.72,1.55,83173,60.12,-19.24,547.06,-15.63
+2021-02-01 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,3.61,3,0,0.0,1287,53,4.12,1547.38,63.72,1.55,83173,79.36,-14.42,562.69,-25.25
+2021-01-31 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,8.42,7,0,0.0,1284,53,4.13,1543.77,63.72,1.54,83173,93.78,-13.22,587.94,-21.64
+2021-01-30 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,4.81,4,0,0.0,1277,53,4.15,1535.35,63.72,1.54,83173,107.0,-19.24,609.58,-18.03
+2021-01-29 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,9.62,8,0,0.0,1273,53,4.16,1530.54,63.72,1.53,83173,126.24,-10.82,627.61,-3.61
+2021-01-28 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,12.02,10,0,0.0,1265,53,4.19,1520.93,63.72,1.52,83173,137.06,-13.23,631.22,3.6
+2021-01-27 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,16.83,14,0,0.0,1255,53,4.22,1508.9,63.72,1.51,83173,150.29,-6.01,627.62,4.81
+2021-01-26 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,24.05,20,0,0.0,1241,53,4.27,1492.07,63.72,1.49,83173,156.3,6.02,622.81,9.62
+2021-01-25 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,18.03,15,0,0.0,1221,53,4.34,1468.02,63.72,1.47,83173,150.28,4.8,613.19,3.6
+2021-01-24 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,21.64,18,0,0.0,1206,53,4.39,1449.99,63.72,1.45,83173,145.48,0.0,609.59,1.2
+2021-01-23 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,24.05,20,1,1.2,1188,53,4.46,1428.35,63.72,1.43,83173,145.48,7.22,608.39,6.02
+2021-01-22 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,20.44,17,0,0.0,1168,52,4.45,1404.3,62.52,1.4,83173,138.26,-10.82,602.37,-10.82
+2021-01-21 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,25.25,21,1,1.2,1151,52,4.52,1383.86,62.52,1.38,83173,149.08,6.01,613.19,-1.2
+2021-01-20 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,22.84,19,1,1.2,1130,51,4.51,1358.61,61.32,1.36,83173,143.07,-12.03,614.39,7.21
+2021-01-19 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,18.03,15,1,1.2,1111,50,4.5,1335.77,60.12,1.34,83173,155.1,-3.61,607.18,-2.41
+2021-01-18 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,13.23,11,0,0.0,1096,49,4.47,1317.74,58.91,1.32,83173,158.71,-9.61,609.59,-2.4
+2021-01-17 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,21.64,18,0,0.0,1085,49,4.52,1304.51,58.91,1.3,83173,168.32,3.61,611.99,7.21
+2021-01-16 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,16.83,14,1,1.2,1067,49,4.59,1282.87,58.91,1.28,83173,164.71,-19.24,604.78,6.01
+2021-01-15 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,31.26,26,2,2.4,1053,48,4.56,1266.04,57.71,1.27,83173,183.95,7.21,598.77,21.64
+2021-01-14 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,19.24,16,1,1.2,1027,46,4.48,1234.78,55.31,1.23,83173,176.74,-9.62,577.13,0.0
+2021-01-13 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,34.87,29,1,1.2,1011,45,4.45,1215.54,54.1,1.22,83173,186.36,10.82,577.13,21.64
+2021-01-12 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,21.64,18,2,2.4,982,44,4.48,1180.67,52.9,1.18,83173,175.54,1.2,555.49,2.4
+2021-01-11 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,22.84,19,2,2.4,964,42,4.36,1159.03,50.5,1.16,83173,174.34,-6.02,553.09,7.21
+2021-01-10 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,18.03,15,0,0.0,945,40,4.23,1136.19,48.09,1.14,83173,180.36,-12.03,545.88,3.6
+2021-01-09 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,36.07,30,1,1.2,930,40,4.3,1118.15,48.09,1.12,83173,192.39,13.23,542.28,26.45
+2021-01-08 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,24.05,20,0,0.0,900,39,4.33,1082.08,46.89,1.08,83173,179.16,10.82,515.83,7.22
+2021-01-07 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,28.86,24,1,1.2,880,39,4.43,1058.04,46.89,1.06,83173,168.34,20.44,508.61,12.03
+2021-01-06 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,24.05,20,2,2.4,856,38,4.44,1029.18,45.69,1.03,83173,147.9,12.03,496.58,7.22
+2021-01-05 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,20.44,17,3,3.61,836,36,4.31,1005.13,43.28,1.01,83173,135.87,6.01,489.36,12.02
+2021-01-04 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,28.86,24,1,1.2,819,33,4.03,984.69,39.68,0.98,83173,129.86,14.43,477.34,9.62
+2021-01-03 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,30.06,25,0,0.0,795,32,4.03,955.84,38.47,0.96,83173,115.43,9.62,467.72,19.24
+2021-01-02 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,22.84,19,0,0.0,770,32,4.16,925.78,38.47,0.93,83173,105.81,4.81,448.48,13.22
+2021-01-01 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,13.23,11,1,1.2,751,32,4.26,902.94,38.47,0.9,83173,101.0,-18.03,435.26,4.81
+2020-12-31 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,8.42,7,0,0.0,740,31,4.19,889.71,37.27,0.89,83173,119.03,-18.03,430.45,1.21
+2020-12-30 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,12.02,10,0,0.0,733,31,4.23,881.3,37.27,0.88,83173,137.06,-3.61,429.24,3.6
+2020-12-29 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,14.43,12,2,2.4,723,31,4.29,869.27,37.27,0.87,83173,140.67,-6.01,425.64,8.42
+2020-12-28 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,14.43,12,2,2.4,711,29,4.08,854.84,34.87,0.85,83173,146.68,-1.2,417.22,-6.01
+2020-12-27 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,20.44,17,0,0.0,699,27,3.86,840.42,32.46,0.84,83173,147.88,6.01,423.23,7.21
+2020-12-26 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,18.03,15,1,1.2,682,27,3.96,819.98,32.46,0.82,83173,141.87,7.21,416.02,12.02
+2020-12-25 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,31.26,26,0,0.0,667,26,3.9,801.94,31.26,0.8,83173,134.66,21.64,404.0,18.03
+2020-12-24 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,26.45,22,2,2.4,641,26,4.06,770.68,31.26,0.77,83173,113.02,7.21,385.97,14.43
+2020-12-23 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,15.63,13,0,0.0,619,24,3.88,744.23,28.86,0.74,83173,105.81,2.4,371.54,4.81
+2020-12-22 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,20.44,17,1,1.2,606,24,3.96,728.6,28.86,0.73,83173,103.41,1.2,366.73,14.43
+2020-12-21 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,15.63,13,1,1.2,589,23,3.9,708.16,27.65,0.71,83173,102.21,0.0,352.3,8.42
+2020-12-20 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,14.43,12,0,0.0,576,22,3.82,692.53,26.45,0.69,83173,102.21,0.0,343.88,7.22
+2020-12-19 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,10.82,9,0,0.0,564,22,3.9,678.1,26.45,0.68,83173,102.21,1.2,336.66,6.01
+2020-12-18 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,9.62,8,0,0.0,555,22,3.96,667.28,26.45,0.67,83173,101.01,-7.21,330.65,1.2
+2020-12-17 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,19.24,16,1,1.2,547,22,4.02,657.67,26.45,0.66,83173,108.22,2.41,329.45,-3.6
+2020-12-16 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,13.23,11,1,1.2,531,21,3.95,638.43,25.25,0.64,83173,105.81,-3.6,333.05,7.22
+2020-12-15 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,19.24,16,3,3.61,520,20,3.85,625.2,24.05,0.63,83173,109.41,10.82,325.83,4.81
+2020-12-14 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,15.63,13,0,0.0,504,17,3.37,605.97,20.44,0.61,83173,98.59,-3.61,321.02,6.01
+2020-12-13 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,14.43,12,1,1.2,491,17,3.46,590.34,20.44,0.59,83173,102.2,3.61,315.01,9.62
+2020-12-12 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,9.62,8,0,0.0,479,16,3.34,575.91,19.24,0.58,83173,98.59,0.0,305.39,6.01
+2020-12-11 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,16.83,14,1,1.2,471,16,3.4,566.29,19.24,0.57,83173,98.59,8.41,299.38,8.41
+2020-12-10 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,16.83,14,0,0.0,457,15,3.28,549.46,18.03,0.55,83173,90.18,9.62,290.97,7.21
+2020-12-09 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,16.83,14,1,1.2,443,15,3.39,532.62,18.03,0.53,83173,80.56,8.41,283.76,3.6
+2020-12-08 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,8.42,7,0,0.0,429,14,3.26,515.79,16.83,0.52,83173,72.15,2.41,280.16,3.61
+2020-12-07 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,19.24,16,2,2.4,422,14,3.32,507.38,16.83,0.51,83173,69.74,-1.2,276.55,16.84
+2020-12-06 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,10.82,9,1,1.2,406,12,2.96,488.14,14.43,0.49,83173,70.94,-2.41,259.71,0.0
+2020-12-05 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,9.62,8,0,0.0,397,11,2.77,477.32,13.23,0.48,83173,73.35,3.61,259.71,-2.4
+2020-12-04 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,8.42,7,0,0.0,389,11,2.83,467.7,13.23,0.47,83173,69.74,-4.81,262.11,-3.6
+2020-12-03 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,7.21,6,0,0.0,382,11,2.88,459.28,13.23,0.46,83173,74.55,-4.81,265.71,-1.21
+2020-12-02 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,8.42,7,0,0.0,376,11,2.93,452.07,13.23,0.45,83173,79.36,-2.4,266.92,-7.21
+2020-12-01 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,6.01,5,1,1.2,369,11,2.98,443.65,13.23,0.44,83173,81.76,0.0,274.13,2.4
+2020-11-30 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,20.44,17,1,1.2,364,10,2.75,437.64,12.02,0.44,83173,81.76,13.23,271.73,10.82
+2020-11-29 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,13.23,11,1,1.2,347,9,2.59,417.2,10.82,0.42,83173,68.53,6.02,260.91,7.22
+2020-11-28 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,6.01,5,0,0.0,336,8,2.38,403.98,9.62,0.4,83173,62.51,1.2,253.69,2.4
+2020-11-27 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,13.23,11,1,1.2,331,8,2.42,397.97,9.62,0.4,83173,61.31,4.81,251.29,1.21
+2020-11-26 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,12.02,10,0,0.0,320,7,2.19,384.74,8.42,0.38,83173,56.5,-10.82,250.08,-1.21
+2020-11-25 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,10.82,9,0,0.0,310,7,2.26,372.72,8.42,0.37,83173,67.32,4.81,251.29,7.21
+2020-11-24 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,6.01,5,0,0.0,301,7,2.33,361.9,8.42,0.36,83173,62.51,-8.42,244.08,3.61
+2020-11-23 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,7.21,6,0,0.0,296,7,2.36,355.88,8.42,0.36,83173,70.93,-2.41,240.47,-3.61
+2020-11-22 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,7.21,6,0,0.0,290,7,2.41,348.67,8.42,0.35,83173,73.34,2.4,244.08,2.4
+2020-11-21 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,4.81,4,0,0.0,284,7,2.46,341.46,8.42,0.34,83173,70.94,1.2,241.68,-2.4
+2020-11-20 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,8.42,7,0,0.0,280,7,2.5,336.65,8.42,0.34,83173,69.74,0.0,244.08,4.81
+2020-11-19 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,22.84,19,0,0.0,273,7,2.56,328.23,8.42,0.33,83173,69.74,13.22,239.27,20.44
+2020-11-18 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,6.01,5,0,0.0,254,7,2.76,305.39,8.42,0.31,83173,56.52,-7.22,218.83,3.61
+2020-11-17 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,14.43,12,0,0.0,249,7,2.81,299.38,8.42,0.3,83173,63.74,9.62,215.22,13.23
+2020-11-16 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,9.62,8,1,1.2,237,7,2.95,284.95,8.42,0.28,83173,54.12,7.22,201.99,8.42
+2020-11-15 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,4.81,4,0,0.0,229,6,2.62,275.33,7.21,0.28,83173,46.9,-6.01,193.57,3.61
+2020-11-14 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,3.61,3,0,0.0,225,6,2.67,270.52,7.21,0.27,83173,52.91,-8.41,189.96,-1.2
+2020-11-13 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,8.42,7,0,0.0,222,6,2.7,266.91,7.21,0.27,83173,61.32,-3.6,191.16,8.42
+2020-11-12 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,9.62,8,1,1.2,215,6,2.79,258.5,7.21,0.26,83173,64.92,1.2,182.74,9.62
+2020-11-11 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,13.23,11,0,0.0,207,5,2.42,248.88,6.01,0.25,83173,63.72,-2.4,173.12,12.03
+2020-11-10 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,4.81,4,0,0.0,196,5,2.55,235.65,6.01,0.24,83173,66.12,1.2,161.09,4.81
+2020-11-09 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,2.4,2,0,0.0,192,5,2.6,230.84,6.01,0.23,83173,64.92,-7.22,156.28,2.4
+2020-11-08 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,10.82,9,0,0.0,190,5,2.63,228.44,6.01,0.23,83173,72.14,4.81,153.88,10.82
+2020-11-07 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,12.02,10,0,0.0,181,5,2.76,217.62,6.01,0.22,83173,67.33,8.41,143.06,12.02
+2020-11-06 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,12.02,10,0,0.0,171,5,2.92,205.6,6.01,0.21,83173,58.92,0.0,131.04,9.62
+2020-11-05 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,8.42,7,2,2.4,161,5,3.11,193.57,6.01,0.19,83173,58.92,-4.81,121.42,8.42
+2020-11-04 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,15.63,13,2,2.4,154,3,1.95,185.16,3.61,0.19,83173,63.73,12.02,113.0,15.63
+2020-11-03 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,3.61,3,0,0.0,141,1,0.71,169.53,1.2,0.17,83173,51.71,1.21,97.37,3.61
+2020-11-02 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,9.62,8,0,0.0,138,1,0.72,165.92,1.2,0.17,83173,50.5,-1.2,93.76,8.42
+2020-11-01 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,6.01,5,0,0.0,130,1,0.77,156.3,1.2,0.16,83173,51.7,1.2,85.34,4.81
+2020-10-31 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,3.61,3,0,0.0,125,1,0.8,150.29,1.2,0.15,83173,50.5,-3.6,80.53,3.61
+2020-10-30 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,12.02,10,0,0.0,122,1,0.82,146.68,1.2,0.15,83173,54.1,8.41,76.92,12.02
+2020-10-29 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,13.23,11,0,0.0,112,1,0.89,134.66,1.2,0.13,83173,45.69,10.83,64.9,13.23
+2020-10-28 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,3.61,3,0,0.0,101,1,0.99,121.43,1.2,0.12,83173,34.86,1.21,51.67,3.61
+2020-10-27 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,2.4,2,0,0.0,98,1,1.02,117.83,1.2,0.12,83173,33.65,1.2,48.06,2.4
+2020-10-26 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,10.82,9,0,0.0,96,1,1.04,115.42,1.2,0.12,83173,32.45,9.62,45.66,9.62
+2020-10-25 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,4.81,4,0,0.0,87,1,1.15,104.6,1.2,0.1,83173,22.83,3.61,36.04,4.81
+2020-10-24 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,7.21,6,0,0.0,83,1,1.2,99.79,1.2,0.1,83173,19.22,2.4,31.23,6.01
+2020-10-23 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,3.61,3,0,0.0,77,1,1.3,92.58,1.2,0.09,83173,16.82,3.61,25.22,3.61
+2020-10-22 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,2.4,2,0,0.0,74,1,1.35,88.97,1.2,0.09,83173,13.21,2.4,21.61,2.4
+2020-10-21 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,2.4,2,0,0.0,72,1,1.39,86.57,1.2,0.09,83173,10.81,1.2,19.21,0.0
+2020-10-20 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,70,1,1.43,84.16,1.2,0.08,83173,9.61,1.2,19.21,1.2
+2020-10-19 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,69,1,1.45,82.96,1.2,0.08,83173,8.41,1.2,18.01,1.2
+2020-10-18 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,68,1,1.47,81.76,1.2,0.08,83173,7.21,1.2,16.81,1.2
+2020-10-17 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,4.81,4,0,0.0,67,1,1.49,80.55,1.2,0.08,83173,6.01,4.81,15.61,4.81
+2020-10-16 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,63,1,1.59,75.75,1.2,0.08,83173,1.2,-2.4,10.8,0.0
+2020-10-15 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,63,1,1.59,75.75,1.2,0.08,83173,3.6,0.0,10.8,-1.2
+2020-10-14 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,63,1,1.59,75.75,1.2,0.08,83173,3.6,1.2,12.0,1.2
+2020-10-13 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,62,1,1.61,74.54,1.2,0.07,83173,2.4,0.0,10.8,0.0
+2020-10-12 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,62,1,1.61,74.54,1.2,0.07,83173,2.4,-1.2,10.8,-2.4
+2020-10-11 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,62,1,1.61,74.54,1.2,0.07,83173,3.6,-1.2,13.2,0.0
+2020-10-10 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,62,1,1.61,74.54,1.2,0.07,83173,4.8,0.0,13.2,0.0
+2020-10-09 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,2.4,2,0,0.0,62,1,1.61,74.54,1.2,0.07,83173,4.8,2.4,13.2,2.4
+2020-10-08 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,60,1,1.67,72.14,1.2,0.07,83173,2.4,0.0,10.8,-1.2
+2020-10-07 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,60,1,1.67,72.14,1.2,0.07,83173,2.4,0.0,12.0,0.0
+2020-10-06 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,60,1,1.67,72.14,1.2,0.07,83173,2.4,0.0,12.0,-4.81
+2020-10-05 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,60,1,1.67,72.14,1.2,0.07,83173,2.4,0.0,16.81,1.2
+2020-10-04 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,59,1,1.69,70.94,1.2,0.07,83173,2.4,1.2,15.61,1.2
+2020-10-03 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,58,1,1.72,69.73,1.2,0.07,83173,1.2,-1.2,14.41,0.0
+2020-10-02 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,58,1,1.72,69.73,1.2,0.07,83173,2.4,0.0,14.41,0.0
+2020-10-01 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,58,1,1.72,69.73,1.2,0.07,83173,2.4,0.0,14.41,0.0
+2020-09-30 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,58,1,1.72,69.73,1.2,0.07,83173,2.4,-2.4,14.41,0.0
+2020-09-29 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,58,1,1.72,69.73,1.2,0.07,83173,4.8,0.0,14.41,0.0
+2020-09-28 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,58,1,1.72,69.73,1.2,0.07,83173,4.8,1.2,14.41,1.2
+2020-09-27 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,57,1,1.75,68.53,1.2,0.07,83173,3.6,0.0,13.21,0.0
+2020-09-26 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,57,1,1.75,68.53,1.2,0.07,83173,3.6,1.2,13.21,-2.41
+2020-09-25 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,56,1,1.79,67.33,1.2,0.07,83173,2.4,0.0,15.62,0.0
+2020-09-24 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,56,1,1.79,67.33,1.2,0.07,83173,2.4,-1.2,15.62,0.0
+2020-09-23 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,2.4,2,0,0.0,56,1,1.79,67.33,1.2,0.07,83173,3.6,2.4,15.62,2.4
+2020-09-22 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,54,1,1.85,64.92,1.2,0.06,83173,1.2,0.0,13.22,0.0
+2020-09-21 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,54,1,1.85,64.92,1.2,0.06,83173,1.2,-2.4,13.22,-1.2
+2020-09-20 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,54,1,1.85,64.92,1.2,0.06,83173,3.6,0.0,14.42,0.0
+2020-09-19 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,54,1,1.85,64.92,1.2,0.06,83173,3.6,0.0,14.42,-1.2
+2020-09-18 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,54,1,1.85,64.92,1.2,0.06,83173,3.6,0.0,15.62,0.0
+2020-09-17 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,54,1,1.85,64.92,1.2,0.06,83173,3.6,0.0,15.62,-1.2
+2020-09-16 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,53,1,1.89,63.72,1.2,0.06,83173,3.6,0.0,16.82,0.0
+2020-09-15 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,53,1,1.89,63.72,1.2,0.06,83173,3.6,-4.81,16.82,0.0
+2020-09-14 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,2.4,2,0,0.0,53,1,1.89,63.72,1.2,0.06,83173,8.41,2.4,16.82,2.4
+2020-09-13 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,51,1,1.96,61.32,1.2,0.06,83173,6.01,0.0,14.42,0.0
+2020-09-12 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,51,1,1.96,61.32,1.2,0.06,83173,6.01,0.0,14.42,-2.4
+2020-09-11 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,51,1,1.96,61.32,1.2,0.06,83173,6.01,0.0,16.82,0.0
+2020-09-10 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,51,1,1.96,61.32,1.2,0.06,83173,6.01,1.2,16.82,1.2
+2020-09-09 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,50,1,2.0,60.12,1.2,0.06,83173,4.81,0.0,15.62,0.0
+2020-09-08 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,4.81,4,0,0.0,50,1,2.0,60.12,1.2,0.06,83173,4.81,4.81,15.62,3.61
+2020-09-07 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,46,1,2.17,55.31,1.2,0.06,83173,-0.0,0.0,12.01,0.0
+2020-09-06 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,46,1,2.17,55.31,1.2,0.06,83173,-0.0,0.0,12.01,0.0
+2020-09-05 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,46,1,2.17,55.31,1.2,0.06,83173,-0.0,-3.61,12.01,0.0
+2020-09-04 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,46,1,2.17,55.31,1.2,0.06,83173,3.61,0.0,12.01,0.0
+2020-09-03 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,46,1,2.17,55.31,1.2,0.06,83173,3.61,0.0,12.01,0.0
+2020-09-02 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,46,1,2.17,55.31,1.2,0.06,83173,3.61,0.0,12.01,0.0
+2020-09-01 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,46,1,2.17,55.31,1.2,0.06,83173,3.61,0.0,12.01,0.0
+2020-08-31 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,46,1,2.17,55.31,1.2,0.06,83173,3.61,-1.2,12.01,0.0
+2020-08-30 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,46,1,2.17,55.31,1.2,0.06,83173,4.81,0.0,12.01,0.0
+2020-08-29 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,3.61,3,0,0.0,46,1,2.17,55.31,1.2,0.06,83173,4.81,2.41,12.01,3.61
+2020-08-28 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,43,1,2.33,51.7,1.2,0.05,83173,2.4,0.0,8.4,0.0
+2020-08-27 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,43,1,2.33,51.7,1.2,0.05,83173,2.4,-2.4,8.4,0.0
+2020-08-26 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,43,1,2.33,51.7,1.2,0.05,83173,4.8,0.0,8.4,0.0
+2020-08-25 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,43,1,2.33,51.7,1.2,0.05,83173,4.8,0.0,8.4,0.0
+2020-08-24 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,43,1,2.33,51.7,1.2,0.05,83173,4.8,1.2,8.4,1.2
+2020-08-23 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,42,1,2.38,50.5,1.2,0.05,83173,3.6,0.0,7.2,0.0
+2020-08-22 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,42,1,2.38,50.5,1.2,0.05,83173,3.6,-1.2,7.2,1.2
+2020-08-21 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,41,1,2.44,49.29,1.2,0.05,83173,4.8,0.0,6.0,0.0
+2020-08-20 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,2.4,2,0,0.0,41,1,2.44,49.29,1.2,0.05,83173,4.8,2.4,6.0,2.4
+2020-08-19 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,39,1,2.56,46.89,1.2,0.05,83173,2.4,0.0,3.6,-1.2
+2020-08-18 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,39,1,2.56,46.89,1.2,0.05,83173,2.4,-1.2,4.8,-1.2
+2020-08-17 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,39,1,2.56,46.89,1.2,0.05,83173,3.6,0.0,6.0,0.0
+2020-08-16 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,39,1,2.56,46.89,1.2,0.05,83173,3.6,0.0,6.0,0.0
+2020-08-15 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,2.4,2,0,0.0,39,1,2.56,46.89,1.2,0.05,83173,3.6,2.4,6.0,2.4
+2020-08-14 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,37,1,2.7,44.49,1.2,0.04,83173,1.2,0.0,3.6,0.0
+2020-08-13 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,37,1,2.7,44.49,1.2,0.04,83173,1.2,0.0,3.6,0.0
+2020-08-12 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,37,1,2.7,44.49,1.2,0.04,83173,1.2,0.0,3.6,0.0
+2020-08-11 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,37,1,2.7,44.49,1.2,0.04,83173,1.2,1.2,3.6,1.2
+2020-08-10 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,-0.0,0.0,2.4,0.0
+2020-08-09 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,-0.0,0.0,2.4,0.0
+2020-08-08 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,-0.0,0.0,2.4,0.0
+2020-08-07 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,-0.0,0.0,2.4,0.0
+2020-08-06 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,-0.0,0.0,2.4,0.0
+2020-08-05 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,-0.0,0.0,2.4,0.0
+2020-08-04 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,-0.0,0.0,2.4,0.0
+2020-08-03 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,-0.0,0.0,2.4,0.0
+2020-08-02 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,-0.0,0.0,2.4,0.0
+2020-08-01 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,-0.0,0.0,2.4,0.0
+2020-07-31 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,-0.0,0.0,2.4,0.0
+2020-07-30 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,-0.0,0.0,2.4,0.0
+2020-07-29 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,-0.0,-1.2,2.4,0.0
+2020-07-28 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,1.2,-1.2,2.4,0.0
+2020-07-27 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,2.4,0.0,2.4,0.0
+2020-07-26 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,2.4,0.0,2.4,0.0
+2020-07-25 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,2.4,0.0,2.4,0.0
+2020-07-24 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,2.4,0.0,2.4,0.0
+2020-07-23 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,2.4,0.0,2.4,0.0
+2020-07-22 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,36,1,2.78,43.28,1.2,0.04,83173,2.4,1.2,2.4,1.2
+2020-07-21 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,35,1,2.86,42.08,1.2,0.04,83173,1.2,1.2,1.2,1.2
+2020-07-20 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,0.0,0.0
+2020-07-19 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,0.0,-1.2
+2020-07-18 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,1.2,0.0
+2020-07-17 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,1.2,0.0
+2020-07-16 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,1.2,0.0
+2020-07-15 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,1.2,0.0
+2020-07-14 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,1.2,0.0
+2020-07-13 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,1.2,0.0
+2020-07-12 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,1.2,0.0
+2020-07-11 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,1.2,0.0
+2020-07-10 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,1.2,0.0
+2020-07-09 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,1.2,-1.2
+2020-07-08 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,2.4,0.0
+2020-07-07 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,2.4,0.0
+2020-07-06 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,2.4,0.0
+2020-07-05 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,2.4,0.0
+2020-07-04 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,2.4,0.0
+2020-07-03 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,2.4,0.0
+2020-07-02 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,2.4,0.0
+2020-07-01 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,2.4,0.0
+2020-06-30 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,2.4,0.0
+2020-06-29 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,0.0,2.4,0.0
+2020-06-28 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,-0.0,-1.2,2.4,0.0
+2020-06-27 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,1.2,0.0,2.4,0.0
+2020-06-26 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,1.2,0.0,2.4,0.0
+2020-06-25 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,1.2,0.0,2.4,0.0
+2020-06-24 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,1.2,0.0,2.4,0.0
+2020-06-23 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,1.2,0.0,2.4,0.0
+2020-06-22 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,1.2,0.0,2.4,0.0
+2020-06-21 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,34,1,2.94,40.88,1.2,0.04,83173,1.2,1.2,2.4,1.2
+2020-06-20 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,33,1,3.03,39.68,1.2,0.04,83173,-0.0,0.0,1.2,0.0
+2020-06-19 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,33,1,3.03,39.68,1.2,0.04,83173,-0.0,0.0,1.2,0.0
+2020-06-18 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,33,1,3.03,39.68,1.2,0.04,83173,-0.0,-1.2,1.2,0.0
+2020-06-17 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,33,1,3.03,39.68,1.2,0.04,83173,1.2,0.0,1.2,0.0
+2020-06-16 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,33,1,3.03,39.68,1.2,0.04,83173,1.2,0.0,1.2,0.0
+2020-06-15 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,33,1,3.03,39.68,1.2,0.04,83173,1.2,0.0,1.2,0.0
+2020-06-14 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,33,1,3.03,39.68,1.2,0.04,83173,1.2,0.0,1.2,-1.2
+2020-06-13 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,33,1,3.03,39.68,1.2,0.04,83173,1.2,0.0,2.4,0.0
+2020-06-12 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,33,1,3.03,39.68,1.2,0.04,83173,1.2,0.0,2.4,0.0
+2020-06-11 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,33,1,3.03,39.68,1.2,0.04,83173,1.2,1.2,2.4,1.2
+2020-06-10 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,1.2,0.0
+2020-06-09 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,1.2,0.0
+2020-06-08 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,1.2,0.0
+2020-06-07 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,1.2,0.0
+2020-06-06 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,1.2,0.0
+2020-06-05 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,1.2,0.0
+2020-06-04 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,1.2,0.0
+2020-06-03 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,1.2,0.0
+2020-06-02 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,1.2,0.0
+2020-06-01 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,1.2,0.0
+2020-05-31 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,1.2,0.0
+2020-05-30 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,1.2,0.0
+2020-05-29 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,1.2,0.0
+2020-05-28 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,1.2,0.0
+2020-05-27 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,1.2,0.0
+2020-05-26 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,1.2,-1.2
+2020-05-25 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,0.0,2.4,0.0
+2020-05-24 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,-0.0,-1.2,2.4,0.0
+2020-05-23 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,1.2,0.0,2.4,0.0
+2020-05-22 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,1.2,0.0,2.4,0.0
+2020-05-21 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,1.2,0.0,2.4,0.0
+2020-05-20 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,1.2,0.0,2.4,0.0
+2020-05-19 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,1.2,0.0,2.4,0.0
+2020-05-18 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,32,1,3.12,38.47,1.2,0.04,83173,1.2,0.0,2.4,0.0
+2020-05-17 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,1,1.2,32,1,3.12,38.47,1.2,0.04,83173,1.2,1.2,2.4,1.2
+2020-05-16 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,-0.0,0.0,1.2,0.0
+2020-05-15 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,-0.0,0.0,1.2,0.0
+2020-05-14 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,-0.0,0.0,1.2,0.0
+2020-05-13 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,-0.0,0.0,1.2,0.0
+2020-05-12 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,-0.0,0.0,1.2,0.0
+2020-05-11 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,-0.0,0.0,1.2,0.0
+2020-05-10 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,-0.0,0.0,1.2,0.0
+2020-05-09 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,-0.0,0.0,1.2,0.0
+2020-05-08 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,-0.0,0.0,1.2,-2.4
+2020-05-07 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,-0.0,0.0,3.6,0.0
+2020-05-06 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,-0.0,0.0,3.6,-3.61
+2020-05-05 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,-0.0,-1.2,7.21,0.0
+2020-05-04 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,1.2,0.0,7.21,-1.2
+2020-05-03 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,1.2,0.0,8.41,0.0
+2020-05-02 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,1.2,0.0,8.41,-1.2
+2020-05-01 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,1.2,0.0,9.61,-1.2
+2020-04-30 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,1.2,0.0,10.81,-2.4
+2020-04-29 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,1.2,0.0,13.21,-3.61
+2020-04-28 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,31,0,0.0,37.27,0.0,0.04,83173,1.2,1.2,16.82,1.2
+2020-04-27 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,-0.0,0.0,15.62,0.0
+2020-04-26 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,-0.0,0.0,15.62,0.0
+2020-04-25 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,-0.0,0.0,15.62,-2.4
+2020-04-24 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,-0.0,0.0,18.02,0.0
+2020-04-23 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,-0.0,0.0,18.02,0.0
+2020-04-22 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,-0.0,0.0,18.02,0.0
+2020-04-21 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,-0.0,0.0,18.02,0.0
+2020-04-20 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,-0.0,0.0,18.02,-3.61
+2020-04-19 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,-0.0,0.0,21.63,0.0
+2020-04-18 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,-0.0,0.0,21.63,0.0
+2020-04-17 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,-0.0,-2.4,21.63,-2.4
+2020-04-16 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,2.4,0.0,24.03,-1.2
+2020-04-15 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,2.4,-3.61,25.23,-1.2
+2020-04-14 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,6.01,0.0,26.43,-3.61
+2020-04-13 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,6.01,-1.2,30.04,0.0
+2020-04-12 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,7.21,0.0,30.04,-1.2
+2020-04-11 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,7.21,-1.2,31.24,0.0
+2020-04-10 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,2.4,2,0,0.0,30,0,0.0,36.07,0.0,0.04,83173,8.41,1.2,31.24,0.0
+2020-04-09 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,28,0,0.0,33.66,0.0,0.03,83173,7.21,-2.4,31.24,0.0
+2020-04-08 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,3.61,3,0,0.0,28,0,0.0,33.66,0.0,0.03,83173,9.61,0.0,31.24,3.61
+2020-04-07 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,25,0,0.0,30.06,0.0,0.03,83173,9.61,0.0,27.63,0.0
+2020-04-06 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,25,0,0.0,30.06,0.0,0.03,83173,9.61,1.2,27.63,1.2
+2020-04-05 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,24,0,0.0,28.86,0.0,0.03,83173,8.41,0.0,26.43,0.0
+2020-04-04 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,24,0,0.0,28.86,0.0,0.03,83173,8.41,-1.2,26.43,0.0
+2020-04-03 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,23,0,0.0,27.65,0.0,0.03,83173,9.61,1.2,26.43,0.0
+2020-04-02 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,2.4,2,0,0.0,22,0,0.0,26.45,0.0,0.03,83173,8.41,2.4,26.43,2.4
+2020-04-01 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,3.61,3,0,0.0,20,0,0.0,24.05,0.0,0.02,83173,6.01,3.61,24.03,3.61
+2020-03-31 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,17,0,0.0,20.44,0.0,0.02,83173,2.4,0.0,20.42,0.0
+2020-03-30 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,17,0,0.0,20.44,0.0,0.02,83173,2.4,-3.61,20.42,0.0
+2020-03-29 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,17,0,0.0,20.44,0.0,0.02,83173,6.01,0.0,20.42,0.0
+2020-03-28 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,2.4,2,0,0.0,17,0,0.0,20.44,0.0,0.02,83173,6.01,2.4,20.42,2.4
+2020-03-27 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,15,0,0.0,18.03,0.0,0.02,83173,3.61,-2.4,18.02,0.0
+2020-03-26 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,15,0,0.0,18.03,0.0,0.02,83173,6.01,-1.2,18.02,0.0
+2020-03-25 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,15,0,0.0,18.03,0.0,0.02,83173,7.21,-1.2,18.02,0.0
+2020-03-24 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,15,0,0.0,18.03,0.0,0.02,83173,8.41,-3.61,18.02,0.0
+2020-03-23 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,3.61,3,0,0.0,15,0,0.0,18.03,0.0,0.02,83173,12.02,3.61,18.02,3.61
+2020-03-22 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,12,0,0.0,14.43,0.0,0.01,83173,8.41,-1.2,14.41,0.0
+2020-03-21 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,12,0,0.0,14.43,0.0,0.01,83173,9.61,0.0,14.41,0.0
+2020-03-20 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,2.4,2,0,0.0,12,0,0.0,14.43,0.0,0.01,83173,9.61,0.0,14.41,2.4
+2020-03-19 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,10,0,0.0,12.02,0.0,0.01,83173,9.61,1.2,12.01,1.2
+2020-03-18 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,9,0,0.0,10.82,0.0,0.01,83173,8.41,1.2,10.81,1.2
+2020-03-17 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,3.61,3,0,0.0,8,0,0.0,9.62,0.0,0.01,83173,7.21,3.61,9.61,3.61
+2020-03-16 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,5,0,0.0,6.01,0.0,0.01,83173,3.6,0.0,6.0,0.0
+2020-03-15 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,5,0,0.0,6.01,0.0,0.01,83173,3.6,1.2,6.0,1.2
+2020-03-14 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,4,0,0.0,4.81,0.0,0.0,83173,2.4,-1.2,4.8,0.0
+2020-03-13 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,2.4,2,0,0.0,4,0,0.0,4.81,0.0,0.0,83173,3.6,1.2,4.8,2.4
+2020-03-12 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,2,0,0.0,2.4,0.0,0.0,83173,2.4,0.0,2.4,0.0
+2020-03-11 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,2,0,0.0,2.4,0.0,0.0,83173,2.4,0.0,2.4,0.0
+2020-03-10 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,2,0,0.0,2.4,0.0,0.0,83173,2.4,0.0,2.4,0.0
+2020-03-09 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,2,0,0.0,2.4,0.0,0.0,83173,2.4,0.0,2.4,0.0
+2020-03-08 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,0.0,0,0,0.0,2,0,0.0,2.4,0.0,0.0,83173,2.4,0.0,2.4,0.0
+2020-03-07 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,2,0,0.0,2.4,0.0,0.0,83173,2.4,1.2,2.4,1.2
+2020-03-06 00:00:00+00:00,Sachsen-Anhalt,Altmarkkreis Salzwedel,1.2,1,0,0.0,1,0,0.0,1.2,0.0,0.0,83173,1.2,1.2,1.2,1.2

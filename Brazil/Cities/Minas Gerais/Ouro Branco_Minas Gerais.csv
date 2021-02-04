@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Minas Gerais,Ouro Branco,0.0,0,0,0.0,1553,13,0.84,3931.65,32.91,3.93,39500,265.82,0.0,1526.59,0.0
+2021-01-31,Minas Gerais,Ouro Branco,2.53,1,0,0.0,1553,13,0.84,3931.65,32.91,3.93,39500,265.82,-70.89,1526.59,-12.66
+2021-01-30,Minas Gerais,Ouro Branco,60.76,24,0,0.0,1552,13,0.84,3929.11,32.91,3.93,39500,336.71,-445.57,1539.25,-37.97
 2021-01-29,Minas Gerais,Ouro Branco,83.54,33,0,0.0,1528,13,0.85,3868.35,32.91,3.87,39500,782.28,58.22,1577.22,-22.79
 2021-01-28,Minas Gerais,Ouro Branco,43.04,17,0,0.0,1495,13,0.87,3784.81,32.91,3.78,39500,724.06,-12.66,1600.01,43.04
 2021-01-27,Minas Gerais,Ouro Branco,50.63,20,1,2.53,1478,13,0.88,3741.77,32.91,3.74,39500,736.72,50.63,1556.97,50.63

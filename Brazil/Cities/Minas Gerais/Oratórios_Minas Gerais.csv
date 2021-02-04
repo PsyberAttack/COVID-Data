@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-01,Minas Gerais,Oratórios,0.0,0,0,0.0,126,3,2.38,2706.77,64.45,2.71,4655,42.96,0.0,1911.92,0.0
+2021-01-31,Minas Gerais,Oratórios,0.0,0,0,0.0,126,3,2.38,2706.77,64.45,2.71,4655,42.96,-128.89,1911.92,0.0
+2021-01-30,Minas Gerais,Oratórios,21.48,1,0,0.0,126,3,2.38,2706.77,64.45,2.71,4655,171.85,-322.24,1911.92,21.48
 2021-01-29,Minas Gerais,Oratórios,0.0,0,-1,-21.48,125,3,2.4,2685.28,64.45,2.69,4655,494.09,-64.45,1890.44,0.0
 2021-01-28,Minas Gerais,Oratórios,21.48,1,0,0.0,125,4,3.2,2685.28,85.93,2.69,4655,558.54,-300.75,1890.44,21.48
 2021-01-27,Minas Gerais,Oratórios,42.96,2,0,0.0,124,4,3.23,2663.8,85.93,2.66,4655,859.29,42.96,1868.96,42.96

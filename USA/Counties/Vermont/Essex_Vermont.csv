@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-03,Vermont,Essex,16.0,1,0,0.0,131,0.0,0.0,2096.0,0.0,2.1,6250,9.42,144.0,-16.0,656.0,-32.0
 2021-02-02,Vermont,Essex,-32.0,-2,0,0.0,130,0.0,0.0,2080.0,0.0,2.08,6250,9.42,160.0,-48.0,688.0,-112.0
 2021-02-01,Vermont,Essex,32.0,2,0,0.0,132,0.0,0.0,2112.0,0.0,2.11,6250,9.42,208.0,48.0,800.0,0.0
 2021-01-31,Vermont,Essex,16.0,1,0,0.0,130,0.0,0.0,2080.0,0.0,2.08,6250,9.42,160.0,-48.0,800.0,16.0
