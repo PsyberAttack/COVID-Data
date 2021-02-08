@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Tocantins,Brejinho de Nazaré,72.77,4,1,18.19,128,6,4.69,2328.54,109.15,2.33,5497,109.15,72.77,200.1,72.77
+2021-02-05,Tocantins,Brejinho de Nazaré,0.0,0,0,0.0,128,6,4.69,2328.54,109.15,2.33,5497,72.77,-18.19,200.1,0.0
+2021-02-04,Tocantins,Brejinho de Nazaré,0.0,0,0,0.0,128,6,4.69,2328.54,109.15,2.33,5497,90.96,-18.19,200.1,0.0
+2021-02-03,Tocantins,Brejinho de Nazaré,72.77,4,1,18.19,128,6,4.69,2328.54,109.15,2.33,5497,109.15,72.77,200.1,72.77
 2021-02-02,Tocantins,Brejinho de Nazaré,-18.19,-1,0,0.0,124,5,4.03,2255.78,90.96,2.26,5497,36.38,-18.19,127.33,-18.19
 2021-02-01,Tocantins,Brejinho de Nazaré,18.19,1,0,0.0,125,5,4.0,2273.97,90.96,2.27,5497,54.57,18.19,145.52,18.19
 2021-01-31,Tocantins,Brejinho de Nazaré,0.0,0,0,0.0,124,5,4.03,2255.78,90.96,2.26,5497,36.38,0.0,127.33,0.0

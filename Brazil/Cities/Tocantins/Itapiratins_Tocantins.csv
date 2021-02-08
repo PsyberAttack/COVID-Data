@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Tocantins,Itapiratins,0.0,0,0,0.0,253,0,0.0,6698.44,0.0,6.7,3777,52.96,0.0,344.21,-26.48
+2021-02-05,Tocantins,Itapiratins,26.48,1,0,0.0,254,0,0.0,6724.91,0.0,6.72,3777,52.96,26.48,344.21,26.48
+2021-02-04,Tocantins,Itapiratins,0.0,0,0,0.0,253,0,0.0,6698.44,0.0,6.7,3777,26.48,-26.48,317.73,-26.48
+2021-02-03,Tocantins,Itapiratins,0.0,0,0,0.0,253,0,0.0,6698.44,0.0,6.7,3777,52.96,0.0,344.21,-26.48
 2021-02-02,Tocantins,Itapiratins,26.48,1,0,0.0,253,0,0.0,6698.44,0.0,6.7,3777,52.96,0.0,370.69,26.48
 2021-02-01,Tocantins,Itapiratins,0.0,0,0,0.0,252,0,0.0,6671.96,0.0,6.67,3777,52.96,0.0,344.21,-105.9
 2021-01-31,Tocantins,Itapiratins,0.0,0,0,0.0,252,0,0.0,6671.96,0.0,6.67,3777,52.96,-52.95,450.11,0.0

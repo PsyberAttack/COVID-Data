@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Tocantins,Aguiarnópolis,0.0,0,0,0.0,481,10,2.08,7143.92,148.52,7.14,6733,59.41,0.0,222.78,0.0
+2021-02-05,Tocantins,Aguiarnópolis,0.0,0,0,0.0,481,10,2.08,7143.92,148.52,7.14,6733,14.85,0.0,222.78,0.0
+2021-02-04,Tocantins,Aguiarnópolis,0.0,0,0,0.0,481,10,2.08,7143.92,148.52,7.14,6733,14.85,-44.56,222.78,0.0
+2021-02-03,Tocantins,Aguiarnópolis,0.0,0,0,0.0,481,10,2.08,7143.92,148.52,7.14,6733,59.41,0.0,222.78,0.0
 2021-02-02,Tocantins,Aguiarnópolis,14.85,1,0,0.0,481,10,2.08,7143.92,148.52,7.14,6733,59.41,-14.85,222.78,29.7
 2021-02-01,Tocantins,Aguiarnópolis,-14.85,-1,0,0.0,480,10,2.08,7129.07,148.52,7.13,6733,74.26,-14.85,193.08,-14.85
 2021-01-31,Tocantins,Aguiarnópolis,0.0,0,0,0.0,481,10,2.08,7143.92,148.52,7.14,6733,89.11,0.0,207.93,0.0
