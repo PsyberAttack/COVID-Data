@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Minas Gerais,Carlos Chagas,0.0,0,0,0.0,873,7,0.8,4634.5,37.16,4.63,18837,440.62,0.0,1656.31,0.0
-2021-02-03,Minas Gerais,Carlos Chagas,79.63,15,0,0.0,873,7,0.8,4634.5,37.16,4.63,18837,440.62,79.63,1656.31,21.23
+2021-02-04,Minas Gerais,Carlos Chagas,0.0,0,0,0.0,873,7,0.8,4634.5,37.16,4.63,18837,297.29,-143.33,1656.31,0.0
+2021-02-03,Minas Gerais,Carlos Chagas,79.63,15,0,0.0,873,7,0.8,4634.5,37.16,4.63,18837,440.62,79.63,1656.31,79.63
+2021-02-02,Minas Gerais,Carlos Chagas,0.0,0,0,0.0,858,7,0.82,4554.87,37.16,4.55,18837,360.99,0.0,1576.68,-58.4
 2021-02-01,Minas Gerais,Carlos Chagas,90.25,17,0,0.0,858,7,0.82,4554.87,37.16,4.55,18837,360.99,21.24,1635.08,90.25
 2021-01-31,Minas Gerais,Carlos Chagas,0.0,0,0,0.0,841,7,0.83,4464.62,37.16,4.46,18837,339.75,-138.03,1544.83,-5.31
 2021-01-30,Minas Gerais,Carlos Chagas,95.56,18,0,0.0,841,7,0.83,4464.62,37.16,4.46,18837,477.78,-504.32,1550.14,53.09

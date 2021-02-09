@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Minas Gerais,São Gonçalo do Abaeté,0.0,0,0,0.0,69,2,2.9,822.51,23.84,0.82,8389,107.28,0.0,298.0,0.0
-2021-02-03,Minas Gerais,São Gonçalo do Abaeté,95.36,8,0,0.0,69,2,2.9,822.51,23.84,0.82,8389,107.28,83.44,298.0,95.36
+2021-02-04,Minas Gerais,São Gonçalo do Abaeté,0.0,0,0,0.0,69,2,2.9,822.51,23.84,0.82,8389,95.36,-11.92,298.0,0.0
+2021-02-03,Minas Gerais,São Gonçalo do Abaeté,35.76,3,0,0.0,69,2,2.9,822.51,23.84,0.82,8389,107.28,35.76,298.0,35.76
+2021-02-02,Minas Gerais,São Gonçalo do Abaeté,59.6,5,0,0.0,66,2,3.03,786.74,23.84,0.79,8389,71.52,47.68,262.24,59.6
 2021-02-01,Minas Gerais,São Gonçalo do Abaeté,0.0,0,0,0.0,61,2,3.28,727.14,23.84,0.73,8389,23.84,0.0,202.64,0.0
 2021-01-31,Minas Gerais,São Gonçalo do Abaeté,0.0,0,0,0.0,61,2,3.28,727.14,23.84,0.73,8389,23.84,0.0,202.64,0.0
 2021-01-30,Minas Gerais,São Gonçalo do Abaeté,0.0,0,0,0.0,61,2,3.28,727.14,23.84,0.73,8389,23.84,-83.44,202.64,0.0

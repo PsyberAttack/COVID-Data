@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Minas Gerais,Santana do Jacaré,20.74,1,1,20.74,66,6,9.09,1369.01,124.46,1.37,4821,186.69,20.74,871.2,20.74
+2021-02-04,Minas Gerais,Santana do Jacaré,20.74,1,1,20.74,66,6,9.09,1369.01,124.46,1.37,4821,145.2,-20.75,871.2,20.74
 2021-02-03,Minas Gerais,Santana do Jacaré,62.23,3,0,0.0,65,5,7.69,1348.27,103.71,1.35,4821,165.95,62.23,850.46,62.23
+2021-02-02,Minas Gerais,Santana do Jacaré,0.0,0,0,0.0,62,5,8.06,1286.04,103.71,1.29,4821,103.72,0.0,788.23,0.0
 2021-02-01,Minas Gerais,Santana do Jacaré,0.0,0,0,0.0,62,5,8.06,1286.04,103.71,1.29,4821,103.72,0.0,788.23,0.0
 2021-01-31,Minas Gerais,Santana do Jacaré,0.0,0,0,0.0,62,5,8.06,1286.04,103.71,1.29,4821,103.72,-62.23,788.23,0.0
 2021-01-30,Minas Gerais,Santana do Jacaré,20.74,1,0,0.0,62,5,8.06,1286.04,103.71,1.29,4821,165.95,-290.4,788.23,20.74

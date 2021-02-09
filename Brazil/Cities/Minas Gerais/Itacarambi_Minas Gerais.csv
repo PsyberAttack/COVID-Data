@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Minas Gerais,Itacarambi,0.0,0,0,0.0,290,5,1.72,1597.53,27.54,1.6,18153,27.55,-11.02,181.81,0.0
-2021-02-03,Minas Gerais,Itacarambi,16.53,3,0,0.0,290,5,1.72,1597.53,27.54,1.6,18153,38.57,-11.01,181.81,16.53
+2021-02-04,Minas Gerais,Itacarambi,0.0,0,0,0.0,290,5,1.72,1597.53,27.54,1.6,18153,27.55,0.0,176.3,-5.51
+2021-02-03,Minas Gerais,Itacarambi,11.02,2,0,0.0,290,5,1.72,1597.53,27.54,1.6,18153,27.55,0.0,181.81,11.02
+2021-02-02,Minas Gerais,Itacarambi,5.51,1,0,0.0,288,5,1.74,1586.51,27.54,1.59,18153,27.55,-22.03,170.79,5.51
 2021-02-01,Minas Gerais,Itacarambi,0.0,0,0,0.0,287,5,1.74,1581.01,27.54,1.58,18153,49.58,0.0,165.28,0.0
 2021-01-31,Minas Gerais,Itacarambi,0.0,0,0,0.0,287,5,1.74,1581.01,27.54,1.58,18153,49.58,0.0,165.28,-22.03
 2021-01-30,Minas Gerais,Itacarambi,5.51,1,0,0.0,287,5,1.74,1581.01,27.54,1.58,18153,49.58,-55.09,187.31,0.0

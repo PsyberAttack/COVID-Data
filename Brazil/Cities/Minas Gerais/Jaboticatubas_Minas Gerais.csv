@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Minas Gerais,Jaboticatubas,29.79,6,0,0.0,694,15,2.16,3445.37,74.47,3.45,20143,134.03,-24.82,1141.84,-14.89
-2021-02-03,Minas Gerais,Jaboticatubas,29.79,6,0,0.0,688,15,2.18,3415.58,74.47,3.42,20143,158.85,0.0,1156.73,19.86
+2021-02-04,Minas Gerais,Jaboticatubas,29.79,6,0,0.0,694,15,2.16,3445.37,74.47,3.45,20143,109.2,4.97,1097.15,-14.89
+2021-02-03,Minas Gerais,Jaboticatubas,24.82,5,0,0.0,688,15,2.18,3415.58,74.47,3.42,20143,104.23,-29.79,1112.04,-19.86
+2021-02-02,Minas Gerais,Jaboticatubas,4.96,1,0,0.0,683,15,2.2,3390.76,74.47,3.39,20143,134.02,-24.83,1131.9,-4.97
 2021-02-01,Minas Gerais,Jaboticatubas,24.82,5,-1,-4.96,682,15,2.2,3385.79,74.47,3.39,20143,158.85,0.0,1136.87,9.93
 2021-01-31,Minas Gerais,Jaboticatubas,4.96,1,0,0.0,677,16,2.36,3360.97,79.43,3.36,20143,158.85,-14.9,1126.94,-19.86
 2021-01-30,Minas Gerais,Jaboticatubas,4.96,1,1,4.96,676,16,2.37,3356.0,79.43,3.36,20143,173.75,-268.09,1146.8,-39.72

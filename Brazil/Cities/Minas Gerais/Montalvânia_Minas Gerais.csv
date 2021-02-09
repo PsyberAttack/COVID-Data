@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Minas Gerais,Montalvânia,20.17,3,0,0.0,395,9,2.28,2655.11,60.5,2.66,14877,73.93,6.73,161.31,20.17
-2021-02-03,Minas Gerais,Montalvânia,13.44,2,0,0.0,392,9,2.3,2634.94,60.5,2.63,14877,67.2,13.44,141.14,13.44
+2021-02-04,Minas Gerais,Montalvânia,20.17,3,0,0.0,395,9,2.28,2655.11,60.5,2.66,14877,60.49,6.73,161.31,20.17
+2021-02-03,Minas Gerais,Montalvânia,13.44,2,0,0.0,392,9,2.3,2634.94,60.5,2.63,14877,53.76,0.0,141.14,13.44
+2021-02-02,Minas Gerais,Montalvânia,0.0,0,0,0.0,390,9,2.31,2621.5,60.5,2.62,14877,53.76,0.0,127.7,0.0
 2021-02-01,Minas Gerais,Montalvânia,0.0,0,0,0.0,390,9,2.31,2621.5,60.5,2.62,14877,53.76,0.0,127.7,0.0
 2021-01-31,Minas Gerais,Montalvânia,0.0,0,1,6.72,390,9,2.31,2621.5,60.5,2.62,14877,53.76,0.0,127.7,-73.94
 2021-01-30,Minas Gerais,Montalvânia,13.44,2,0,0.0,390,8,2.05,2621.5,53.77,2.62,14877,53.76,-26.89,201.64,13.44

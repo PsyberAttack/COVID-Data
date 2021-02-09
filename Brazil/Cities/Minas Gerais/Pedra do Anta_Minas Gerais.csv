@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Minas Gerais,Pedra do Anta,65.53,2,0,0.0,73,0,0.0,2391.87,0.0,2.39,3052,229.38,32.76,982.99,65.53
-2021-02-03,Minas Gerais,Pedra do Anta,32.77,1,0,0.0,71,0,0.0,2326.34,0.0,2.33,3052,196.62,32.77,917.46,32.77
+2021-02-04,Minas Gerais,Pedra do Anta,65.53,2,0,0.0,73,0,0.0,2391.87,0.0,2.39,3052,196.61,32.76,982.99,65.53
+2021-02-03,Minas Gerais,Pedra do Anta,0.0,0,0,0.0,71,0,0.0,2326.34,0.0,2.33,3052,163.85,-32.77,917.46,0.0
+2021-02-02,Minas Gerais,Pedra do Anta,32.77,1,0,0.0,71,0,0.0,2326.34,0.0,2.33,3052,196.62,32.77,917.46,32.77
 2021-02-01,Minas Gerais,Pedra do Anta,0.0,0,0,0.0,70,0,0.0,2293.58,0.0,2.29,3052,163.85,0.0,884.69,0.0
 2021-01-31,Minas Gerais,Pedra do Anta,32.77,1,0,0.0,70,0,0.0,2293.58,0.0,2.29,3052,163.85,0.0,884.69,32.77
 2021-01-30,Minas Gerais,Pedra do Anta,32.77,1,0,0.0,69,0,0.0,2260.81,0.0,2.26,3052,163.85,-163.82,851.92,32.77

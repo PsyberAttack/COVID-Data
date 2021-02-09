@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Minas Gerais,Rio Piracicaba,111.58,16,0,0.0,787,8,1.02,5488.53,55.79,5.49,14339,418.43,6.97,1973.62,90.66
-2021-02-03,Minas Gerais,Rio Piracicaba,118.56,17,0,0.0,771,8,1.04,5376.94,55.79,5.38,14339,411.46,118.56,1882.96,104.61
+2021-02-04,Minas Gerais,Rio Piracicaba,111.58,16,0,0.0,787,8,1.02,5488.53,55.79,5.49,14339,418.43,111.58,1952.7,90.66
+2021-02-03,Minas Gerais,Rio Piracicaba,118.56,17,0,0.0,771,8,1.04,5376.94,55.79,5.38,14339,306.85,13.95,1862.04,97.64
+2021-02-02,Minas Gerais,Rio Piracicaba,0.0,0,0,0.0,754,8,1.06,5258.39,55.79,5.26,14339,292.9,0.0,1764.4,-13.95
 2021-02-01,Minas Gerais,Rio Piracicaba,0.0,0,0,0.0,754,8,1.06,5258.39,55.79,5.26,14339,292.9,0.0,1778.35,-13.95
 2021-01-31,Minas Gerais,Rio Piracicaba,41.84,6,0,0.0,754,8,1.06,5258.39,55.79,5.26,14339,292.9,0.0,1792.3,6.97
 2021-01-30,Minas Gerais,Rio Piracicaba,69.74,10,1,6.97,748,8,1.07,5216.54,55.79,5.22,14339,292.9,-648.58,1785.33,-76.71

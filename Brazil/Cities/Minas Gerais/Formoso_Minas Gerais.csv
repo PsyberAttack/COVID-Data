@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
 2021-02-04,Minas Gerais,Formoso,0.0,0,0,0.0,170,4,2.35,1777.87,41.83,1.78,9562,10.46,0.0,146.43,0.0
-2021-02-03,Minas Gerais,Formoso,10.46,1,0,0.0,170,4,2.35,1777.87,41.83,1.78,9562,10.46,0.0,146.43,10.46
+2021-02-03,Minas Gerais,Formoso,10.46,1,0,0.0,170,4,2.35,1777.87,41.83,1.78,9562,10.46,10.46,146.43,10.46
+2021-02-02,Minas Gerais,Formoso,0.0,0,0,0.0,169,4,2.37,1767.41,41.83,1.77,9562,-0.0,-10.46,135.97,0.0
 2021-02-01,Minas Gerais,Formoso,0.0,0,0,0.0,169,4,2.37,1767.41,41.83,1.77,9562,10.46,0.0,135.97,0.0
 2021-01-31,Minas Gerais,Formoso,0.0,0,0,0.0,169,4,2.37,1767.41,41.83,1.77,9562,10.46,0.0,135.97,0.0
 2021-01-30,Minas Gerais,Formoso,0.0,0,0,0.0,169,4,2.37,1767.41,41.83,1.77,9562,10.46,-62.75,135.97,-125.5

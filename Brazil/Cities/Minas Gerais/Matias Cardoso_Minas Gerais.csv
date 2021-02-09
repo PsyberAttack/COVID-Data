@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Minas Gerais,Matias Cardoso,8.96,1,0,0.0,100,4,4.0,896.3,35.85,0.9,11157,53.78,8.96,188.22,8.96
-2021-02-03,Minas Gerais,Matias Cardoso,17.93,2,0,0.0,99,4,4.04,887.34,35.85,0.89,11157,44.82,17.93,179.26,17.93
+2021-02-04,Minas Gerais,Matias Cardoso,8.96,1,0,0.0,100,4,4.0,896.3,35.85,0.9,11157,44.81,0.0,134.43,-44.82
+2021-02-03,Minas Gerais,Matias Cardoso,8.96,1,0,0.0,99,4,4.04,887.34,35.85,0.89,11157,44.81,8.96,179.25,8.96
+2021-02-02,Minas Gerais,Matias Cardoso,8.96,1,0,0.0,98,4,4.08,878.37,35.85,0.88,11157,35.85,8.96,170.29,8.96
 2021-02-01,Minas Gerais,Matias Cardoso,0.0,0,0,0.0,97,4,4.12,869.41,35.85,0.87,11157,26.89,0.0,161.33,0.0
 2021-01-31,Minas Gerais,Matias Cardoso,0.0,0,0,0.0,97,4,4.12,869.41,35.85,0.87,11157,26.89,0.0,161.33,0.0
 2021-01-30,Minas Gerais,Matias Cardoso,0.0,0,0,0.0,97,4,4.12,869.41,35.85,0.87,11157,26.89,-62.74,161.33,-26.89

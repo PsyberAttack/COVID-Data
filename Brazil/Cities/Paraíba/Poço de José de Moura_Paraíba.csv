@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-06,Paraíba,Poço de José de Moura,46.44,2,0,0.0,133,1,0.75,3088.0,23.22,3.09,4307,139.32,23.22,626.9,46.44
+2021-02-07,Paraíba,Poço de José de Moura,0.0,0,0,0.0,133,1,0.75,3088.0,23.22,3.09,4307,116.1,-23.22,557.25,0.0
+2021-02-06,Paraíba,Poço de José de Moura,23.22,1,0,0.0,133,1,0.75,3088.0,23.22,3.09,4307,139.32,23.22,557.25,-46.43
+2021-02-05,Paraíba,Poço de José de Moura,23.22,1,0,0.0,132,1,0.76,3064.78,23.22,3.06,4307,116.1,0.0,603.68,23.22
 2021-02-04,Paraíba,Poço de José de Moura,23.22,1,1,23.22,131,1,0.76,3041.56,23.22,3.04,4307,116.1,23.22,580.46,23.22
 2021-02-03,Paraíba,Poço de José de Moura,23.22,1,0,0.0,130,0,0.0,3018.34,0.0,3.02,4307,92.88,-69.65,557.24,23.22
 2021-02-02,Paraíba,Poço de José de Moura,23.22,1,0,0.0,129,0,0.0,2995.12,0.0,3.0,4307,162.53,23.22,534.02,23.22

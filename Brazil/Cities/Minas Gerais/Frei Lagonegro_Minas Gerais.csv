@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Minas Gerais,Frei Lagonegro,0.0,0,0,0.0,102,1,0.98,2932.72,28.75,2.93,3478,86.25,0.0,373.77,0.0
+2021-02-04,Minas Gerais,Frei Lagonegro,0.0,0,0,0.0,102,1,0.98,2932.72,28.75,2.93,3478,28.75,-57.5,373.77,0.0
 2021-02-03,Minas Gerais,Frei Lagonegro,28.75,1,0,0.0,102,1,0.98,2932.72,28.75,2.93,3478,86.25,28.75,373.77,28.75
+2021-02-02,Minas Gerais,Frei Lagonegro,0.0,0,0,0.0,101,1,0.99,2903.97,28.75,2.9,3478,57.5,0.0,345.02,0.0
 2021-02-01,Minas Gerais,Frei Lagonegro,0.0,0,0,0.0,101,1,0.99,2903.97,28.75,2.9,3478,57.5,0.0,345.02,0.0
 2021-01-31,Minas Gerais,Frei Lagonegro,0.0,0,0,0.0,101,1,0.99,2903.97,28.75,2.9,3478,57.5,0.0,345.02,0.0
 2021-01-30,Minas Gerais,Frei Lagonegro,0.0,0,0,0.0,101,1,0.99,2903.97,28.75,2.9,3478,57.5,-230.02,345.02,0.0

@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Minas Gerais,Frei Gaspar,0.0,0,0,0.0,247,1,0.4,4200.68,17.01,4.2,5880,153.06,-153.06,1190.47,0.0
-2021-02-03,Minas Gerais,Frei Gaspar,68.03,4,0,0.0,247,1,0.4,4200.68,17.01,4.2,5880,306.12,68.03,1190.47,68.03
+2021-02-04,Minas Gerais,Frei Gaspar,0.0,0,0,0.0,247,1,0.4,4200.68,17.01,4.2,5880,153.06,0.0,1156.46,-34.01
+2021-02-03,Minas Gerais,Frei Gaspar,68.03,4,0,0.0,247,1,0.4,4200.68,17.01,4.2,5880,153.06,-85.03,1190.47,68.03
+2021-02-02,Minas Gerais,Frei Gaspar,0.0,0,0,0.0,243,1,0.41,4132.65,17.01,4.13,5880,238.09,0.0,1122.44,0.0
 2021-02-01,Minas Gerais,Frei Gaspar,0.0,0,0,0.0,243,1,0.41,4132.65,17.01,4.13,5880,238.09,0.0,1122.44,0.0
 2021-01-31,Minas Gerais,Frei Gaspar,0.0,0,0,0.0,243,1,0.41,4132.65,17.01,4.13,5880,238.09,0.0,1122.44,0.0
 2021-01-30,Minas Gerais,Frei Gaspar,51.02,3,0,0.0,243,1,0.41,4132.65,17.01,4.13,5880,238.09,-799.32,1122.44,-68.03

@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Minas Gerais,Tupaciguara,0.0,0,0,0.0,917,18,1.96,3620.64,71.07,3.62,25327,134.25,-410.63,639.64,0.0
-2021-02-03,Minas Gerais,Tupaciguara,94.76,24,0,0.0,917,18,1.96,3620.64,71.07,3.62,25327,544.88,94.76,639.64,94.76
+2021-02-04,Minas Gerais,Tupaciguara,0.0,0,0,0.0,917,18,1.96,3620.64,71.07,3.62,25327,134.25,0.0,615.95,-23.69
+2021-02-03,Minas Gerais,Tupaciguara,71.07,18,0,0.0,917,18,1.96,3620.64,71.07,3.62,25327,134.25,-339.56,639.64,71.07
+2021-02-02,Minas Gerais,Tupaciguara,23.69,6,0,0.0,899,18,2.0,3549.57,71.07,3.55,25327,473.81,23.69,568.57,23.69
 2021-02-01,Minas Gerais,Tupaciguara,0.0,0,0,0.0,893,18,2.02,3525.88,71.07,3.53,25327,450.12,0.0,544.88,0.0
 2021-01-31,Minas Gerais,Tupaciguara,0.0,0,0,0.0,893,18,2.02,3525.88,71.07,3.53,25327,450.12,0.0,544.88,-15.79
 2021-01-30,Minas Gerais,Tupaciguara,3.95,1,0,0.0,893,18,2.02,3525.88,71.07,3.53,25327,450.12,3.95,560.67,3.95

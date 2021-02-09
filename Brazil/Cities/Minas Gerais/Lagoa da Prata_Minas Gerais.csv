@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Minas Gerais,Lagoa da Prata,23.0,12,0,0.0,1916,36,1.88,3672.96,69.01,3.67,52165,207.03,-5.75,1224.95,23.0
-2021-02-03,Minas Gerais,Lagoa da Prata,95.85,50,2,3.83,1904,36,1.89,3649.96,69.01,3.65,52165,212.78,93.93,1201.95,95.85
+2021-02-04,Minas Gerais,Lagoa da Prata,23.0,12,0,0.0,1916,36,1.88,3672.96,69.01,3.67,52165,207.03,23.0,1117.6,-84.35
+2021-02-03,Minas Gerais,Lagoa da Prata,24.92,13,2,3.83,1904,36,1.89,3649.96,69.01,3.65,52165,184.03,-3.83,1201.95,24.92
+2021-02-02,Minas Gerais,Lagoa da Prata,70.93,37,0,0.0,1891,34,1.8,3625.04,65.18,3.63,52165,187.86,69.01,1177.03,70.93
 2021-02-01,Minas Gerais,Lagoa da Prata,0.0,0,0,0.0,1854,34,1.83,3554.11,65.18,3.55,52165,118.85,0.0,1106.1,0.0
 2021-01-31,Minas Gerais,Lagoa da Prata,0.0,0,1,1.92,1854,34,1.83,3554.11,65.18,3.55,52165,118.85,-49.84,1106.1,0.0
 2021-01-30,Minas Gerais,Lagoa da Prata,0.0,0,0,0.0,1854,33,1.78,3554.11,63.26,3.55,52165,168.69,-314.39,1106.1,0.0

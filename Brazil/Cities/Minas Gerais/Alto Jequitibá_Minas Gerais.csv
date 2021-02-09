@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Minas Gerais,Alto Jequitibá,12.02,1,0,0.0,375,7,1.87,4508.84,84.16,4.51,8317,240.47,0.0,1178.3,12.02
-2021-02-03,Minas Gerais,Alto Jequitibá,36.07,3,0,0.0,374,7,1.87,4496.81,84.16,4.5,8317,240.47,24.05,1166.28,24.05
+2021-02-04,Minas Gerais,Alto Jequitibá,12.02,1,0,0.0,375,7,1.87,4508.84,84.16,4.51,8317,180.35,-48.1,1178.3,12.02
+2021-02-03,Minas Gerais,Alto Jequitibá,36.07,3,0,0.0,374,7,1.87,4496.81,84.16,4.5,8317,228.45,24.05,1166.28,36.07
+2021-02-02,Minas Gerais,Alto Jequitibá,0.0,0,0,0.0,371,7,1.89,4460.74,84.16,4.46,8317,204.4,-12.02,1130.21,-12.02
 2021-02-01,Minas Gerais,Alto Jequitibá,24.05,2,0,0.0,371,7,1.89,4460.74,84.16,4.46,8317,216.42,12.03,1142.23,12.03
 2021-01-31,Minas Gerais,Alto Jequitibá,72.14,6,0,0.0,369,7,1.9,4436.7,84.16,4.44,8317,204.39,48.09,1130.2,-12.02
 2021-01-30,Minas Gerais,Alto Jequitibá,12.02,1,0,0.0,363,7,1.93,4364.55,84.16,4.36,8317,156.3,-456.9,1142.22,-12.03

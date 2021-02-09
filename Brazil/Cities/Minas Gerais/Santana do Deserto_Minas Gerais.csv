@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Minas Gerais,Santana do Deserto,0.0,0,0,0.0,168,2,1.19,4225.35,50.3,4.23,3976,226.36,-100.6,1509.04,0.0
-2021-02-03,Minas Gerais,Santana do Deserto,150.91,6,0,0.0,168,2,1.19,4225.35,50.3,4.23,3976,326.96,100.61,1509.04,150.91
+2021-02-04,Minas Gerais,Santana do Deserto,0.0,0,0,0.0,168,2,1.19,4225.35,50.3,4.23,3976,150.91,-75.45,1509.04,0.0
+2021-02-03,Minas Gerais,Santana do Deserto,0.0,0,0,0.0,168,2,1.19,4225.35,50.3,4.23,3976,226.36,-100.6,1509.04,0.0
+2021-02-02,Minas Gerais,Santana do Deserto,150.91,6,0,0.0,168,2,1.19,4225.35,50.3,4.23,3976,326.96,100.61,1509.04,150.91
 2021-02-01,Minas Gerais,Santana do Deserto,0.0,0,0,0.0,162,2,1.23,4074.45,50.3,4.07,3976,226.35,0.0,1358.13,0.0
 2021-01-31,Minas Gerais,Santana do Deserto,0.0,0,0,0.0,162,2,1.23,4074.45,50.3,4.07,3976,226.35,0.0,1358.13,0.0
 2021-01-30,Minas Gerais,Santana do Deserto,0.0,0,0,0.0,162,2,1.23,4074.45,50.3,4.07,3976,226.35,-855.13,1358.13,-75.45

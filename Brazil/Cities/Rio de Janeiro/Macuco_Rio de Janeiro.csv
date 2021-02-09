@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-07,Rio de Janeiro,Macuco,0.0,0,0,0.0,431,4,0.93,7697.8,71.44,7.7,5599,785.84,0.0,2750.45,0.0
+2021-02-06,Rio de Janeiro,Macuco,35.72,2,0,0.0,431,4,0.93,7697.8,71.44,7.7,5599,785.84,-125.02,2750.45,-71.44
 2021-02-05,Rio de Janeiro,Macuco,196.46,11,0,0.0,429,4,0.93,7662.08,71.44,7.66,5599,910.86,196.46,2821.89,71.44
 2021-02-04,Rio de Janeiro,Macuco,53.58,3,0,0.0,418,4,0.96,7465.62,71.44,7.47,5599,714.4,-17.86,2750.45,35.72
 2021-02-03,Rio de Janeiro,Macuco,232.18,13,0,0.0,415,4,0.96,7412.04,71.44,7.41,5599,732.26,53.58,2714.73,232.18

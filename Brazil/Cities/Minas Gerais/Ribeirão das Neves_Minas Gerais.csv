@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Minas Gerais,Ribeirão das Neves,17.62,59,2,0.6,7912,222,2.81,2362.79,66.3,2.36,334858,129.9,7.47,646.24,17.62
-2021-02-03,Minas Gerais,Ribeirão das Neves,47.78,160,2,0.6,7853,220,2.8,2345.17,65.7,2.35,334858,122.43,32.85,628.62,47.78
+2021-02-04,Minas Gerais,Ribeirão das Neves,17.62,59,2,0.6,7912,222,2.81,2362.79,66.3,2.36,334858,93.77,-18.51,646.24,17.62
+2021-02-03,Minas Gerais,Ribeirão das Neves,43.0,144,2,0.6,7853,220,2.8,2345.17,65.7,2.35,334858,112.28,32.85,628.62,43.0
+2021-02-02,Minas Gerais,Ribeirão das Neves,4.78,16,0,0.0,7709,218,2.83,2302.17,65.1,2.3,334858,79.43,-10.15,585.62,4.78
 2021-02-01,Minas Gerais,Ribeirão das Neves,0.0,0,-1,-0.3,7693,218,2.83,2297.39,65.1,2.3,334858,89.58,0.0,580.84,-27.77
 2021-01-31,Minas Gerais,Ribeirão das Neves,0.0,0,3,0.9,7693,219,2.85,2297.39,65.4,2.3,334858,89.58,0.0,608.61,0.0
 2021-01-30,Minas Gerais,Ribeirão das Neves,22.99,77,5,1.49,7693,216,2.81,2297.39,64.5,2.3,334858,89.58,-178.89,608.61,5.37

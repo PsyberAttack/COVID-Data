@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Minas Gerais,Carmo do Rio Claro,0.0,0,0,0.0,168,8,4.76,791.52,37.69,0.79,21225,0.0,0.0,80.1,0.0
-2021-02-03,Minas Gerais,Carmo do Rio Claro,0.0,0,1,4.71,168,8,4.76,791.52,37.69,0.79,21225,0.0,0.0,80.1,-4.71
+2021-02-04,Minas Gerais,Carmo do Rio Claro,0.0,0,0,0.0,168,8,4.76,791.52,37.69,0.79,21225,0.0,0.0,61.25,-18.85
+2021-02-03,Minas Gerais,Carmo do Rio Claro,0.0,0,1,4.71,168,8,4.76,791.52,37.69,0.79,21225,0.0,0.0,80.1,0.0
+2021-02-02,Minas Gerais,Carmo do Rio Claro,0.0,0,0,0.0,168,7,4.17,791.52,32.98,0.79,21225,0.0,0.0,80.1,-4.71
 2021-02-01,Minas Gerais,Carmo do Rio Claro,0.0,0,0,0.0,168,7,4.17,791.52,32.98,0.79,21225,0.0,0.0,84.81,0.0
 2021-01-31,Minas Gerais,Carmo do Rio Claro,0.0,0,0,0.0,168,7,4.17,791.52,32.98,0.79,21225,0.0,0.0,84.81,-28.27
 2021-01-30,Minas Gerais,Carmo do Rio Claro,0.0,0,0,0.0,168,7,4.17,791.52,32.98,0.79,21225,0.0,0.0,113.08,0.0

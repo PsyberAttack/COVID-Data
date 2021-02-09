@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Minas Gerais,Belmiro Braga,0.0,0,0,0.0,75,3,4.0,2187.23,87.49,2.19,3429,58.33,0.0,612.43,0.0
-2021-02-03,Minas Gerais,Belmiro Braga,0.0,0,0,0.0,75,3,4.0,2187.23,87.49,2.19,3429,58.33,-58.33,612.43,0.0
+2021-02-04,Minas Gerais,Belmiro Braga,0.0,0,0,0.0,75,3,4.0,2187.23,87.49,2.19,3429,-0.0,-58.33,612.43,0.0
+2021-02-03,Minas Gerais,Belmiro Braga,0.0,0,0,0.0,75,3,4.0,2187.23,87.49,2.19,3429,58.33,0.0,612.43,0.0
+2021-02-02,Minas Gerais,Belmiro Braga,0.0,0,0,0.0,75,3,4.0,2187.23,87.49,2.19,3429,58.33,-58.33,612.43,0.0
 2021-02-01,Minas Gerais,Belmiro Braga,0.0,0,0,0.0,75,3,4.0,2187.23,87.49,2.19,3429,116.66,0.0,612.43,-87.49
 2021-01-31,Minas Gerais,Belmiro Braga,0.0,0,0,0.0,75,3,4.0,2187.23,87.49,2.19,3429,116.66,0.0,699.92,0.0
 2021-01-30,Minas Gerais,Belmiro Braga,0.0,0,0,0.0,75,3,4.0,2187.23,87.49,2.19,3429,116.66,-379.12,699.92,-145.82

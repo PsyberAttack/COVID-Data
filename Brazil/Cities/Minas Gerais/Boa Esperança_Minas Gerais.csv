@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Minas Gerais,Boa Esperança,14.95,6,1,2.49,982,30,3.05,2447.23,74.76,2.45,40127,201.86,14.95,1196.2,14.95
+2021-02-04,Minas Gerais,Boa Esperança,14.95,6,1,2.49,982,30,3.05,2447.23,74.76,2.45,40127,112.14,-74.77,1196.2,14.95
 2021-02-03,Minas Gerais,Boa Esperança,19.94,8,0,0.0,976,29,2.97,2432.28,72.27,2.43,40127,186.91,19.94,1181.25,19.94
+2021-02-02,Minas Gerais,Boa Esperança,0.0,0,0,0.0,968,29,3.0,2412.34,72.27,2.41,40127,166.97,0.0,1161.31,0.0
 2021-02-01,Minas Gerais,Boa Esperança,0.0,0,0,0.0,968,29,3.0,2412.34,72.27,2.41,40127,166.97,0.0,1161.31,-29.91
 2021-01-31,Minas Gerais,Boa Esperança,17.44,7,1,2.49,968,29,3.0,2412.34,72.27,2.41,40127,166.97,-72.28,1191.22,17.44
 2021-01-30,Minas Gerais,Boa Esperança,44.86,18,1,2.49,961,28,2.91,2394.9,69.78,2.39,40127,239.25,-356.37,1173.78,29.91

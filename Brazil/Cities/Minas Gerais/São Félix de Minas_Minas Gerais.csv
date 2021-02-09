@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Minas Gerais,São Félix de Minas,29.68,1,0,0.0,98,1,1.02,2908.88,29.68,2.91,3369,385.87,-59.37,1157.6,29.68
-2021-02-03,Minas Gerais,São Félix de Minas,118.73,4,0,0.0,97,1,1.03,2879.19,29.68,2.88,3369,445.24,118.73,1127.92,118.73
+2021-02-04,Minas Gerais,São Félix de Minas,29.68,1,0,0.0,98,1,1.02,2908.88,29.68,2.91,3369,356.19,0.0,1127.92,0.0
+2021-02-03,Minas Gerais,São Félix de Minas,118.73,4,0,0.0,97,1,1.03,2879.19,29.68,2.88,3369,356.19,29.68,1127.92,118.73
+2021-02-02,Minas Gerais,São Félix de Minas,0.0,0,0,0.0,93,1,1.08,2760.46,29.68,2.76,3369,326.51,0.0,1009.19,0.0
 2021-02-01,Minas Gerais,São Félix de Minas,0.0,0,0,0.0,93,1,1.08,2760.46,29.68,2.76,3369,326.51,-29.68,1009.19,0.0
 2021-01-31,Minas Gerais,São Félix de Minas,207.78,7,0,0.0,93,1,1.08,2760.46,29.68,2.76,3369,356.19,118.73,1009.19,207.78
 2021-01-30,Minas Gerais,São Félix de Minas,0.0,0,0,0.0,86,1,1.16,2552.69,29.68,2.55,3369,237.46,-207.78,801.41,0.0

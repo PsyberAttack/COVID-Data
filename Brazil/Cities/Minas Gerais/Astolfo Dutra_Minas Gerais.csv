@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Minas Gerais,Astolfo Dutra,7.05,1,1,7.05,747,13,1.74,5268.35,91.68,5.27,14179,91.69,-14.11,888.64,7.05
-2021-02-03,Minas Gerais,Astolfo Dutra,35.26,5,0,0.0,746,12,1.61,5261.3,84.63,5.26,14179,105.8,21.15,881.59,35.26
+2021-02-04,Minas Gerais,Astolfo Dutra,7.05,1,1,7.05,747,13,1.74,5268.35,91.68,5.27,14179,77.58,-7.06,888.64,7.05
+2021-02-03,Minas Gerais,Astolfo Dutra,0.0,0,0,0.0,746,12,1.61,5261.3,84.63,5.26,14179,84.64,-21.16,881.59,0.0
+2021-02-02,Minas Gerais,Astolfo Dutra,35.26,5,0,0.0,746,12,1.61,5261.3,84.63,5.26,14179,105.8,21.15,881.59,35.26
 2021-02-01,Minas Gerais,Astolfo Dutra,14.11,2,0,0.0,741,12,1.62,5226.04,84.63,5.23,14179,84.65,14.11,846.33,14.11
 2021-01-31,Minas Gerais,Astolfo Dutra,7.05,1,0,0.0,739,12,1.62,5211.93,84.63,5.21,14179,70.54,-7.06,832.22,-183.37
 2021-01-30,Minas Gerais,Astolfo Dutra,0.0,0,0,0.0,738,12,1.63,5204.88,84.63,5.2,14179,77.6,-218.63,1015.59,0.0

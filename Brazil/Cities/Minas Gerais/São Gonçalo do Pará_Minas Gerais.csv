@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Minas Gerais,São Gonçalo do Pará,0.0,0,0,0.0,171,8,4.68,1377.81,64.46,1.38,12411,0.0,-507.61,539.84,0.0
-2021-02-03,Minas Gerais,São Gonçalo do Pará,0.0,0,1,8.06,171,8,4.68,1377.81,64.46,1.38,12411,507.61,0.0,539.84,0.0
+2021-02-04,Minas Gerais,São Gonçalo do Pará,0.0,0,0,0.0,171,8,4.68,1377.81,64.46,1.38,12411,0.0,0.0,507.61,-32.23
+2021-02-03,Minas Gerais,São Gonçalo do Pará,0.0,0,1,8.06,171,8,4.68,1377.81,64.46,1.38,12411,0.0,-507.61,539.84,0.0
+2021-02-02,Minas Gerais,São Gonçalo do Pará,0.0,0,0,0.0,171,7,4.09,1377.81,56.4,1.38,12411,507.61,0.0,539.84,0.0
 2021-02-01,Minas Gerais,São Gonçalo do Pará,0.0,0,0,0.0,171,7,4.09,1377.81,56.4,1.38,12411,507.61,0.0,539.84,0.0
 2021-01-31,Minas Gerais,São Gonçalo do Pará,0.0,0,0,0.0,171,7,4.09,1377.81,56.4,1.38,12411,507.61,0.0,539.84,0.0
 2021-01-30,Minas Gerais,São Gonçalo do Pará,0.0,0,0,0.0,171,7,4.09,1377.81,56.4,1.38,12411,507.61,0.0,539.84,0.0

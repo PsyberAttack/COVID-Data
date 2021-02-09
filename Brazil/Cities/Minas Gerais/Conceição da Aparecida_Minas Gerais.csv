@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Minas Gerais,Conceição da Aparecida,0.0,0,0,0.0,219,4,1.83,2127.87,38.87,2.13,10292,204.04,-19.43,1136.81,0.0
-2021-02-03,Minas Gerais,Conceição da Aparecida,19.43,2,0,0.0,219,4,1.83,2127.87,38.87,2.13,10292,223.47,-38.87,1136.81,19.43
+2021-02-04,Minas Gerais,Conceição da Aparecida,0.0,0,0,0.0,219,4,1.83,2127.87,38.87,2.13,10292,204.04,0.0,1127.09,-9.72
+2021-02-03,Minas Gerais,Conceição da Aparecida,19.43,2,0,0.0,219,4,1.83,2127.87,38.87,2.13,10292,204.04,0.0,1136.81,19.43
+2021-02-02,Minas Gerais,Conceição da Aparecida,0.0,0,0,0.0,217,4,1.84,2108.43,38.87,2.11,10292,204.04,-58.3,1117.38,0.0
 2021-02-01,Minas Gerais,Conceição da Aparecida,38.87,4,0,0.0,217,4,1.84,2108.43,38.87,2.11,10292,262.34,38.87,1117.38,38.87
 2021-01-31,Minas Gerais,Conceição da Aparecida,19.43,2,0,0.0,213,4,1.88,2069.57,38.87,2.07,10292,223.47,-38.87,1078.51,-29.15
 2021-01-30,Minas Gerais,Conceição da Aparecida,58.3,6,0,0.0,211,4,1.9,2050.14,38.87,2.05,10292,262.34,-417.8,1107.66,58.3

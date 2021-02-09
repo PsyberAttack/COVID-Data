@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Minas Gerais,Guarda-Mor,0.0,0,0,0.0,160,0,0.0,2431.61,0.0,2.43,6580,30.4,-15.2,501.54,-30.4
-2021-02-03,Minas Gerais,Guarda-Mor,15.2,1,0,0.0,160,0,0.0,2431.61,0.0,2.43,6580,45.6,15.2,531.94,15.2
+2021-02-04,Minas Gerais,Guarda-Mor,0.0,0,0,0.0,160,0,0.0,2431.61,0.0,2.43,6580,30.4,0.0,501.54,0.0
+2021-02-03,Minas Gerais,Guarda-Mor,15.2,1,0,0.0,160,0,0.0,2431.61,0.0,2.43,6580,30.4,0.0,501.54,-15.2
+2021-02-02,Minas Gerais,Guarda-Mor,0.0,0,0,0.0,159,0,0.0,2416.41,0.0,2.42,6580,30.4,0.0,516.74,0.0
 2021-02-01,Minas Gerais,Guarda-Mor,0.0,0,0,0.0,159,0,0.0,2416.41,0.0,2.42,6580,30.4,0.0,516.74,0.0
 2021-01-31,Minas Gerais,Guarda-Mor,15.2,1,0,0.0,159,0,0.0,2416.41,0.0,2.42,6580,30.4,15.2,516.74,15.2
 2021-01-30,Minas Gerais,Guarda-Mor,0.0,0,0,0.0,158,0,0.0,2401.22,0.0,2.4,6580,15.2,-75.99,501.54,0.0

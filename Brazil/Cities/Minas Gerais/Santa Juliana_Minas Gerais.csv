@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Minas Gerais,Santa Juliana,35.71,5,0,0.0,550,22,4.0,3927.73,157.11,3.93,14003,71.41,35.71,228.52,35.71
-2021-02-03,Minas Gerais,Santa Juliana,-7.14,-1,0,0.0,545,22,4.04,3892.02,157.11,3.89,14003,35.7,-49.99,192.81,-7.14
+2021-02-04,Minas Gerais,Santa Juliana,35.71,5,0,0.0,550,22,4.0,3927.73,157.11,3.93,14003,49.99,14.29,228.52,35.71
+2021-02-03,Minas Gerais,Santa Juliana,-7.14,-1,0,0.0,545,22,4.04,3892.02,157.11,3.89,14003,35.7,-7.14,192.81,-7.14
+2021-02-02,Minas Gerais,Santa Juliana,0.0,0,0,0.0,546,22,4.03,3899.16,157.11,3.9,14003,42.84,-42.85,199.95,0.0
 2021-02-01,Minas Gerais,Santa Juliana,7.14,1,0,0.0,546,22,4.03,3899.16,157.11,3.9,14003,85.69,7.14,199.95,7.14
 2021-01-31,Minas Gerais,Santa Juliana,0.0,0,0,0.0,545,22,4.04,3892.02,157.11,3.89,14003,78.55,-7.14,192.81,0.0
 2021-01-30,Minas Gerais,Santa Juliana,7.14,1,0,0.0,545,22,4.04,3892.02,157.11,3.89,14003,85.69,-99.98,192.81,7.14

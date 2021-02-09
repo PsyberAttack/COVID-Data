@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
 2021-02-04,Minas Gerais,Cristiano Otoni,19.42,1,0,0.0,82,3,3.66,1592.23,58.25,1.59,5150,58.26,19.42,427.2,19.42
-2021-02-03,Minas Gerais,Cristiano Otoni,19.42,1,1,19.42,81,3,3.7,1572.82,58.25,1.57,5150,38.84,0.0,407.78,19.42
+2021-02-03,Minas Gerais,Cristiano Otoni,0.0,0,1,19.42,81,3,3.7,1572.82,58.25,1.57,5150,38.84,0.0,407.78,0.0
+2021-02-02,Minas Gerais,Cristiano Otoni,19.42,1,0,0.0,81,2,2.47,1572.82,38.83,1.57,5150,38.84,0.0,407.78,19.42
 2021-02-01,Minas Gerais,Cristiano Otoni,0.0,0,0,0.0,80,2,2.5,1553.4,38.83,1.55,5150,38.84,0.0,388.36,0.0
 2021-01-31,Minas Gerais,Cristiano Otoni,0.0,0,0,0.0,80,2,2.5,1553.4,38.83,1.55,5150,38.84,0.0,388.36,0.0
 2021-01-30,Minas Gerais,Cristiano Otoni,19.42,1,0,0.0,80,2,2.5,1553.4,38.83,1.55,5150,38.84,-252.42,388.36,19.42

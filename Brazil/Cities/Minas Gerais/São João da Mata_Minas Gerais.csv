@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Minas Gerais,São João da Mata,0.0,0,0,0.0,72,1,1.39,2619.13,36.38,2.62,2749,109.13,-36.38,1345.94,0.0
-2021-02-03,Minas Gerais,São João da Mata,36.38,1,0,0.0,72,1,1.39,2619.13,36.38,2.62,2749,145.51,36.38,1345.94,36.38
+2021-02-04,Minas Gerais,São João da Mata,0.0,0,0,0.0,72,1,1.39,2619.13,36.38,2.62,2749,109.13,0.0,1345.94,0.0
+2021-02-03,Minas Gerais,São João da Mata,36.38,1,0,0.0,72,1,1.39,2619.13,36.38,2.62,2749,109.13,0.0,1345.94,36.38
+2021-02-02,Minas Gerais,São João da Mata,0.0,0,0,0.0,71,1,1.41,2582.76,36.38,2.58,2749,109.13,0.0,1309.56,0.0
 2021-02-01,Minas Gerais,São João da Mata,0.0,0,0,0.0,71,1,1.41,2582.76,36.38,2.58,2749,109.13,-145.51,1309.56,0.0
 2021-01-31,Minas Gerais,São João da Mata,0.0,0,0,0.0,71,1,1.41,2582.76,36.38,2.58,2749,254.64,0.0,1309.56,0.0
 2021-01-30,Minas Gerais,São João da Mata,72.75,2,0,0.0,71,1,1.41,2582.76,36.38,2.58,2749,254.64,-691.16,1309.56,72.75

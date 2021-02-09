@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Minas Gerais,Virginópolis,19.03,2,0,0.0,301,3,1.0,2863.94,28.54,2.86,10510,161.74,-9.51,1712.63,19.03
-2021-02-03,Minas Gerais,Virginópolis,66.6,7,0,0.0,299,3,1.0,2844.91,28.54,2.84,10510,171.25,57.09,1693.6,66.6
+2021-02-04,Minas Gerais,Virginópolis,19.03,2,0,0.0,301,3,1.0,2863.94,28.54,2.86,10510,142.71,0.0,1674.57,-19.03
+2021-02-03,Minas Gerais,Virginópolis,66.6,7,0,0.0,299,3,1.0,2844.91,28.54,2.84,10510,142.71,38.06,1693.6,66.6
+2021-02-02,Minas Gerais,Virginópolis,0.0,0,0,0.0,292,3,1.03,2778.31,28.54,2.78,10510,104.65,-9.51,1627.0,0.0
 2021-02-01,Minas Gerais,Virginópolis,0.0,0,0,0.0,292,3,1.03,2778.31,28.54,2.78,10510,114.16,0.0,1627.0,0.0
 2021-01-31,Minas Gerais,Virginópolis,9.51,1,0,0.0,292,3,1.03,2778.31,28.54,2.78,10510,114.16,-28.55,1627.0,-47.58
 2021-01-30,Minas Gerais,Virginópolis,19.03,2,0,0.0,291,3,1.03,2768.79,28.54,2.77,10510,142.71,-504.28,1674.58,-95.15

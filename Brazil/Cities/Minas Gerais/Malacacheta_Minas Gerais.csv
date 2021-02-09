@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Minas Gerais,Malacacheta,16.09,3,0,0.0,504,3,0.6,2702.41,16.09,2.7,18650,91.15,-10.72,664.88,16.09
-2021-02-03,Minas Gerais,Malacacheta,64.34,12,0,0.0,501,3,0.6,2686.33,16.09,2.69,18650,101.87,48.25,648.79,64.34
+2021-02-04,Minas Gerais,Malacacheta,16.09,3,0,0.0,504,3,0.6,2702.41,16.09,2.7,18650,85.8,10.73,643.44,-5.36
+2021-02-03,Minas Gerais,Malacacheta,42.9,8,0,0.0,501,3,0.6,2686.33,16.09,2.69,18650,75.07,16.09,648.8,42.9
+2021-02-02,Minas Gerais,Malacacheta,21.45,4,0,0.0,493,3,0.61,2643.43,16.09,2.64,18650,58.98,5.36,605.9,21.45
 2021-02-01,Minas Gerais,Malacacheta,0.0,0,0,0.0,489,3,0.61,2621.98,16.09,2.62,18650,53.62,0.0,584.45,0.0
 2021-01-31,Minas Gerais,Malacacheta,0.0,0,0,0.0,489,3,0.61,2621.98,16.09,2.62,18650,53.62,0.0,584.45,-69.71
 2021-01-30,Minas Gerais,Malacacheta,5.36,1,0,0.0,489,3,0.61,2621.98,16.09,2.62,18650,53.62,-193.03,654.16,5.36

@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Minas Gerais,Novo Cruzeiro,0.0,0,0,0.0,1056,18,1.7,3370.46,57.45,3.37,31331,38.3,-22.34,759.64,0.0
-2021-02-03,Minas Gerais,Novo Cruzeiro,19.15,6,0,0.0,1056,18,1.7,3370.46,57.45,3.37,31331,60.64,19.15,759.64,19.15
+2021-02-04,Minas Gerais,Novo Cruzeiro,0.0,0,0,0.0,1056,18,1.7,3370.46,57.45,3.37,31331,25.53,-12.77,628.78,-130.86
+2021-02-03,Minas Gerais,Novo Cruzeiro,12.77,4,0,0.0,1056,18,1.7,3370.46,57.45,3.37,31331,38.3,-9.57,759.64,12.77
+2021-02-02,Minas Gerais,Novo Cruzeiro,6.38,2,0,0.0,1052,18,1.71,3357.7,57.45,3.36,31331,47.87,6.38,746.87,6.38
 2021-02-01,Minas Gerais,Novo Cruzeiro,0.0,0,0,0.0,1050,18,1.71,3351.31,57.45,3.35,31331,41.49,0.0,740.49,0.0
 2021-01-31,Minas Gerais,Novo Cruzeiro,0.0,0,0,0.0,1050,18,1.71,3351.31,57.45,3.35,31331,41.49,0.0,740.49,0.0
 2021-01-30,Minas Gerais,Novo Cruzeiro,3.19,1,0,0.0,1050,18,1.71,3351.31,57.45,3.35,31331,41.49,-82.99,740.49,-76.6

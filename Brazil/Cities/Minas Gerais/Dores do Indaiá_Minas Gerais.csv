@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-04,Minas Gerais,Dores do Indaiá,14.83,2,0,0.0,407,7,1.72,3018.62,51.92,3.02,13483,59.33,-66.75,1053.16,14.83
-2021-02-03,Minas Gerais,Dores do Indaiá,14.83,2,2,14.83,405,7,1.73,3003.78,51.92,3.0,13483,126.08,14.83,1038.33,14.83
+2021-02-04,Minas Gerais,Dores do Indaiá,14.83,2,0,0.0,407,7,1.72,3018.62,51.92,3.02,13483,51.91,7.41,1053.16,14.83
+2021-02-03,Minas Gerais,Dores do Indaiá,0.0,0,2,14.83,405,7,1.73,3003.78,51.92,3.0,13483,44.5,-81.58,1038.33,0.0
+2021-02-02,Minas Gerais,Dores do Indaiá,14.83,2,0,0.0,405,5,1.23,3003.78,37.08,3.0,13483,126.08,14.83,1038.33,14.83
 2021-02-01,Minas Gerais,Dores do Indaiá,0.0,0,0,0.0,403,5,1.24,2988.95,37.08,2.99,13483,111.25,0.0,1023.5,0.0
 2021-01-31,Minas Gerais,Dores do Indaiá,0.0,0,0,0.0,403,5,1.24,2988.95,37.08,2.99,13483,111.25,0.0,1023.5,0.0
 2021-01-30,Minas Gerais,Dores do Indaiá,0.0,0,0,0.0,403,5,1.24,2988.95,37.08,2.99,13483,111.25,-474.67,1023.5,-29.67
