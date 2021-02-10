@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-07,Mato Grosso do Sul,Paranaíba,0.0,0,0,0.0,1607,33,2.05,3812.76,78.3,3.81,42148,196.93,0.0,854.14,0.0
+2021-02-06,Mato Grosso do Sul,Paranaíba,-2.37,-1,0,0.0,1607,33,2.05,3812.76,78.3,3.81,42148,196.93,-2.37,854.14,-11.86
+2021-02-05,Mato Grosso do Sul,Paranaíba,52.2,22,1,2.37,1608,33,2.05,3815.13,78.3,3.82,42148,199.3,30.85,866.0,45.08
+2021-02-04,Mato Grosso do Sul,Paranaíba,21.35,9,0,0.0,1586,32,2.02,3762.93,75.92,3.76,42148,168.45,-33.22,820.92,11.86
 2021-02-03,Mato Grosso do Sul,Paranaíba,23.73,10,0,0.0,1577,32,2.03,3741.58,75.92,3.74,42148,201.67,-4.74,809.06,2.38
 2021-02-02,Mato Grosso do Sul,Paranaíba,30.84,13,0,0.0,1567,32,2.04,3717.85,75.92,3.72,42148,206.41,-49.83,806.68,16.6
 2021-02-01,Mato Grosso do Sul,Paranaíba,71.18,30,0,0.0,1554,32,2.06,3687.01,75.92,3.69,42148,256.24,-35.59,790.08,14.24

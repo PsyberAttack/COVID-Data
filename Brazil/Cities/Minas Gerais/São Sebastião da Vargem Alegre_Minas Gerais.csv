@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-08,Minas Gerais,São Sebastião da Vargem Alegre,0.0,0,0,0.0,114,1,0.88,3791.15,33.26,3.79,3007,-0.0,0.0,831.39,0.0
+2021-02-07,Minas Gerais,São Sebastião da Vargem Alegre,0.0,0,0,0.0,114,1,0.88,3791.15,33.26,3.79,3007,-0.0,0.0,831.39,0.0
+2021-02-06,Minas Gerais,São Sebastião da Vargem Alegre,0.0,0,0,0.0,114,1,0.88,3791.15,33.26,3.79,3007,-0.0,0.0,831.39,0.0
+2021-02-05,Minas Gerais,São Sebastião da Vargem Alegre,0.0,0,0,0.0,114,1,0.88,3791.15,33.26,3.79,3007,-0.0,0.0,831.39,0.0
 2021-02-04,Minas Gerais,São Sebastião da Vargem Alegre,0.0,0,0,0.0,114,1,0.88,3791.15,33.26,3.79,3007,-0.0,0.0,831.39,0.0
 2021-02-03,Minas Gerais,São Sebastião da Vargem Alegre,0.0,0,0,0.0,114,1,0.88,3791.15,33.26,3.79,3007,-0.0,0.0,831.39,0.0
 2021-02-02,Minas Gerais,São Sebastião da Vargem Alegre,0.0,0,0,0.0,114,1,0.88,3791.15,33.26,3.79,3007,-0.0,0.0,831.39,0.0
@@ -9,9 +13,12 @@ date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases
 2021-01-28,Minas Gerais,São Sebastião da Vargem Alegre,0.0,0,0,0.0,114,1,0.88,3791.15,33.26,3.79,3007,133.02,0.0,831.39,0.0
 2021-01-27,Minas Gerais,São Sebastião da Vargem Alegre,0.0,0,0,0.0,114,1,0.88,3791.15,33.26,3.79,3007,133.02,0.0,831.39,0.0
 2021-01-26,Minas Gerais,São Sebastião da Vargem Alegre,0.0,0,0,0.0,114,1,0.88,3791.15,33.26,3.79,3007,133.02,0.0,831.39,0.0
-2021-01-25,Minas Gerais,São Sebastião da Vargem Alegre,0.0,0,0,0.0,114,1,0.88,3791.15,33.26,3.79,3007,133.02,-698.37,831.39,0.0
-2021-01-24,Minas Gerais,São Sebastião da Vargem Alegre,0.0,0,0,0.0,114,1,0.88,3791.15,33.26,3.79,3007,831.39,0.0,831.39,0.0
-2021-01-23,Minas Gerais,São Sebastião da Vargem Alegre,133.02,4,0,0.0,114,1,0.88,3791.15,33.26,3.79,3007,831.39,133.02,831.39,-365.82
+2021-01-25,Minas Gerais,São Sebastião da Vargem Alegre,0.0,0,0,0.0,114,1,0.88,3791.15,33.26,3.79,3007,133.02,0.0,831.39,0.0
+2021-01-24,Minas Gerais,São Sebastião da Vargem Alegre,0.0,0,0,0.0,114,1,0.88,3791.15,33.26,3.79,3007,133.02,0.0,831.39,0.0
+2021-01-23,Minas Gerais,São Sebastião da Vargem Alegre,133.02,4,0,0.0,114,1,0.88,3791.15,33.26,3.79,3007,133.02,133.02,831.39,133.02
+2021-01-16,Minas Gerais,São Sebastião da Vargem Alegre,0.0,0,0,0.0,110,1,0.91,3658.13,33.26,3.66,3007,-0.0,-698.37,698.37,0.0
+2021-01-15,Minas Gerais,São Sebastião da Vargem Alegre,0.0,0,0,0.0,110,1,0.91,3658.13,33.26,3.66,3007,698.37,0.0,698.37,0.0
+2021-01-14,Minas Gerais,São Sebastião da Vargem Alegre,0.0,0,0,0.0,110,1,0.91,3658.13,33.26,3.66,3007,698.37,0.0,698.37,-498.84
 2021-01-13,Minas Gerais,São Sebastião da Vargem Alegre,0.0,0,0,0.0,110,1,0.91,3658.13,33.26,3.66,3007,698.37,0.0,1197.21,0.0
 2021-01-12,Minas Gerais,São Sebastião da Vargem Alegre,0.0,0,0,0.0,110,1,0.91,3658.13,33.26,3.66,3007,698.37,0.0,1197.21,0.0
 2021-01-11,Minas Gerais,São Sebastião da Vargem Alegre,0.0,0,0,0.0,110,1,0.91,3658.13,33.26,3.66,3007,698.37,0.0,1197.21,0.0
