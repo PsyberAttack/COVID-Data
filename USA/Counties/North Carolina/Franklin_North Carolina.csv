@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-11,North Carolina,Franklin,62.17,42,0,0.0,4964,42.0,0.85,7347.54,62.17,7.35,67560,137.37,285.67,11.84,1555.66,-19.24
+2021-02-10,North Carolina,Franklin,54.77,37,1,1.48,4922,42.0,0.85,7285.38,62.17,7.29,67560,137.37,273.83,-51.8,1574.9,8.88
 2021-02-09,North Carolina,Franklin,11.84,8,0,0.0,4885,41.0,0.84,7230.61,60.69,7.23,67560,137.37,325.63,-7.4,1566.02,-112.49
 2021-02-08,North Carolina,Franklin,20.72,14,0,0.0,4877,41.0,0.84,7218.77,60.69,7.22,67560,137.37,333.03,-16.28,1678.51,-56.25
 2021-02-07,North Carolina,Franklin,44.4,30,0,0.0,4863,41.0,0.84,7198.05,60.69,7.2,67560,137.37,349.31,-53.29,1734.76,10.36

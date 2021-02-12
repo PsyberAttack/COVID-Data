@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-11,Louisiana,East Carroll,14.21,1,0,0.0,1095,22.0,2.01,15560.61,312.63,15.56,7037,16.73,56.84,0.0,852.6,-28.42
+2021-02-10,Louisiana,East Carroll,28.42,2,0,0.0,1094,22.0,2.01,15546.4,312.63,15.55,7037,16.73,56.84,-71.05,881.02,-127.9
 2021-02-09,Louisiana,East Carroll,-14.21,-1,0,0.0,1092,22.0,2.01,15517.98,312.63,15.52,7037,16.73,127.89,-14.21,1008.92,-42.63
 2021-02-08,Louisiana,East Carroll,42.63,3,0,0.0,1093,22.0,2.01,15532.19,312.63,15.53,7037,16.73,142.1,42.63,1051.55,56.84
 2021-02-07,Louisiana,East Carroll,-28.42,-2,1,14.21,1090,22.0,2.02,15489.56,312.63,15.49,7037,16.73,99.47,-28.42,994.71,-213.16

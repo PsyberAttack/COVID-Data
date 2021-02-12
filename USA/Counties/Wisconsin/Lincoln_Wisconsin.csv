@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-11,Wisconsin,Lincoln,36.12,10,0,0.0,3048,73.0,2.4,11007.98,263.64,11.01,27689,31.51,130.02,14.45,722.32,10.84
+2021-02-10,Wisconsin,Lincoln,10.83,3,0,0.0,3038,73.0,2.4,10971.87,263.64,10.97,27689,31.51,115.57,-18.06,711.48,-14.45
 2021-02-09,Wisconsin,Lincoln,18.06,5,0,0.0,3035,73.0,2.41,10961.03,263.64,10.96,27689,31.51,133.63,3.61,725.93,-3.61
 2021-02-08,Wisconsin,Lincoln,3.61,1,0,0.0,3030,73.0,2.41,10942.97,263.64,10.94,27689,31.51,130.02,-3.61,729.54,-28.89
 2021-02-07,Wisconsin,Lincoln,14.45,4,0,0.0,3029,73.0,2.41,10939.36,263.64,10.94,27689,31.51,133.63,0.0,758.43,-21.67

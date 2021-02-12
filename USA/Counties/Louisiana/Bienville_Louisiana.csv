@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-11,Louisiana,Bienville,0.0,0,1,7.51,1545,69.0,4.47,11609.56,518.49,11.61,13308,16.4,90.18,-15.03,1292.47,-112.71
+2021-02-10,Louisiana,Bienville,-52.6,-7,0,0.0,1545,68.0,4.4,11609.56,510.97,11.61,13308,16.4,105.21,-67.63,1405.18,-60.11
 2021-02-09,Louisiana,Bienville,45.09,6,0,0.0,1552,68.0,4.38,11662.16,510.97,11.66,13308,16.4,172.84,-15.02,1465.29,-120.22
 2021-02-08,Louisiana,Bienville,15.03,2,0,0.0,1546,68.0,4.4,11617.07,510.97,11.62,13308,16.4,187.86,30.06,1585.51,-52.6
 2021-02-07,Louisiana,Bienville,52.6,7,1,7.51,1544,68.0,4.4,11602.04,510.97,11.6,13308,16.4,157.8,-60.11,1638.11,-105.2

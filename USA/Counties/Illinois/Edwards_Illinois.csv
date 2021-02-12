@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-11,Illinois,Edwards,62.58,4,0,0.0,514,10.0,1.95,8041.3,156.45,8.04,6392,28.74,156.44,46.94,907.37,0.0
+2021-02-10,Illinois,Edwards,0.0,0,0,0.0,510,10.0,1.96,7978.72,156.45,7.98,6392,28.74,109.5,-62.58,907.37,-46.93
 2021-02-09,Illinois,Edwards,15.64,1,1,15.64,510,10.0,1.96,7978.72,156.45,7.98,6392,28.74,172.08,-109.52,954.3,-31.29
 2021-02-08,Illinois,Edwards,0.0,0,0,0.0,509,9.0,1.77,7963.08,140.8,7.96,6392,28.74,281.6,0.0,985.59,-15.64
 2021-02-07,Illinois,Edwards,31.29,2,0,0.0,509,9.0,1.77,7963.08,140.8,7.96,6392,28.74,281.6,31.29,1001.23,31.29

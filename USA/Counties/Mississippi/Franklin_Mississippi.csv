@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-11,Mississippi,Franklin,12.84,1,0,0.0,737,19.0,2.58,9463.28,243.97,9.46,7788,13.81,141.24,12.84,1168.44,-25.68
+2021-02-10,Mississippi,Franklin,-12.84,-1,0,0.0,736,19.0,2.58,9450.44,243.97,9.45,7788,13.81,128.4,-25.68,1194.12,-51.36
 2021-02-09,Mississippi,Franklin,25.68,2,0,0.0,737,19.0,2.58,9463.28,243.97,9.46,7788,13.81,154.08,0.0,1245.48,25.68
 2021-02-08,Mississippi,Franklin,0.0,0,0,0.0,735,19.0,2.59,9437.6,243.97,9.44,7788,13.81,154.08,-12.84,1219.8,-12.84
 2021-02-07,Mississippi,Franklin,25.68,2,0,0.0,735,19.0,2.59,9437.6,243.97,9.44,7788,13.81,166.92,-12.84,1232.64,12.84

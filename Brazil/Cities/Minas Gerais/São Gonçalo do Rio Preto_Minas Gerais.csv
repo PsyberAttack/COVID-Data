@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-08,Minas Gerais,São Gonçalo do Rio Preto,0.0,0,0,0.0,22,0,0.0,694.66,0.0,0.69,3167,-0.0,0.0,536.81,0.0
-2021-02-07,Minas Gerais,São Gonçalo do Rio Preto,0.0,0,0,0.0,22,0,0.0,694.66,0.0,0.69,3167,-0.0,0.0,536.81,0.0
+2021-02-10,Minas Gerais,São Gonçalo do Rio Preto,0.0,0,0,0.0,22,0,0.0,694.66,0.0,0.69,3167,-0.0,0.0,442.08,0.0
+2021-02-08,Minas Gerais,São Gonçalo do Rio Preto,0.0,0,0,0.0,22,0,0.0,694.66,0.0,0.69,3167,-0.0,0.0,442.08,-31.58
+2021-02-07,Minas Gerais,São Gonçalo do Rio Preto,0.0,0,0,0.0,22,0,0.0,694.66,0.0,0.69,3167,-0.0,0.0,473.66,-63.15
 2021-02-06,Minas Gerais,São Gonçalo do Rio Preto,0.0,0,0,0.0,22,0,0.0,694.66,0.0,0.69,3167,-0.0,0.0,536.81,0.0
 2021-02-05,Minas Gerais,São Gonçalo do Rio Preto,0.0,0,0,0.0,22,0,0.0,694.66,0.0,0.69,3167,-0.0,-31.58,536.81,0.0
 2021-02-04,Minas Gerais,São Gonçalo do Rio Preto,0.0,0,0,0.0,22,0,0.0,694.66,0.0,0.69,3167,31.58,0.0,536.81,0.0
@@ -9,13 +10,16 @@ date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases
 2021-02-01,Minas Gerais,São Gonçalo do Rio Preto,0.0,0,0,0.0,22,0,0.0,694.66,0.0,0.69,3167,31.58,-31.58,536.81,0.0
 2021-01-31,Minas Gerais,São Gonçalo do Rio Preto,0.0,0,0,0.0,22,0,0.0,694.66,0.0,0.69,3167,63.16,0.0,536.81,0.0
 2021-01-30,Minas Gerais,São Gonçalo do Rio Preto,0.0,0,0,0.0,22,0,0.0,694.66,0.0,0.69,3167,63.16,-221.03,536.81,0.0
-2021-01-29,Minas Gerais,São Gonçalo do Rio Preto,31.58,1,0,0.0,22,0,0.0,694.66,0.0,0.69,3167,284.19,31.58,536.81,0.0
-2021-01-28,Minas Gerais,São Gonçalo do Rio Preto,0.0,0,0,0.0,21,0,0.0,663.09,0.0,0.66,3167,252.61,0.0,536.81,0.0
-2021-01-27,Minas Gerais,São Gonçalo do Rio Preto,0.0,0,0,0.0,21,0,0.0,663.09,0.0,0.66,3167,252.61,-31.58,536.81,0.0
-2021-01-26,Minas Gerais,São Gonçalo do Rio Preto,0.0,0,0,0.0,21,0,0.0,663.09,0.0,0.66,3167,284.19,0.0,536.81,0.0
-2021-01-25,Minas Gerais,São Gonçalo do Rio Preto,31.58,1,0,0.0,21,0,0.0,663.09,0.0,0.66,3167,284.19,0.0,536.81,31.58
-2021-01-24,Minas Gerais,São Gonçalo do Rio Preto,0.0,0,0,0.0,20,0,0.0,631.51,0.0,0.63,3167,284.19,0.0,505.23,0.0
-2021-01-23,Minas Gerais,São Gonçalo do Rio Preto,221.03,7,0,0.0,20,0,0.0,631.51,0.0,0.63,3167,284.19,126.3,505.23,221.03
+2021-01-29,Minas Gerais,São Gonçalo do Rio Preto,31.58,1,0,0.0,22,0,0.0,694.66,0.0,0.69,3167,284.19,31.58,536.81,31.58
+2021-01-28,Minas Gerais,São Gonçalo do Rio Preto,0.0,0,0,0.0,21,0,0.0,663.09,0.0,0.66,3167,252.61,0.0,505.23,0.0
+2021-01-27,Minas Gerais,São Gonçalo do Rio Preto,0.0,0,0,0.0,21,0,0.0,663.09,0.0,0.66,3167,252.61,0.0,505.23,0.0
+2021-01-26,Minas Gerais,São Gonçalo do Rio Preto,0.0,0,0,0.0,21,0,0.0,663.09,0.0,0.66,3167,252.61,0.0,505.23,-31.58
+2021-01-25,Minas Gerais,São Gonçalo do Rio Preto,31.58,1,0,0.0,21,0,0.0,663.09,0.0,0.66,3167,252.61,31.58,536.81,31.58
+2021-01-24,Minas Gerais,São Gonçalo do Rio Preto,0.0,0,0,0.0,20,0,0.0,631.51,0.0,0.63,3167,221.03,-31.58,505.23,0.0
+2021-01-23,Minas Gerais,São Gonçalo do Rio Preto,221.03,7,0,0.0,20,0,0.0,631.51,0.0,0.63,3167,252.61,221.03,505.23,221.03
+2021-01-20,Minas Gerais,São Gonçalo do Rio Preto,0.0,0,0,0.0,13,0,0.0,410.48,0.0,0.41,3167,31.58,-31.58,284.2,0.0
+2021-01-19,Minas Gerais,São Gonçalo do Rio Preto,0.0,0,0,0.0,13,0,0.0,410.48,0.0,0.41,3167,63.16,0.0,284.2,0.0
+2021-01-18,Minas Gerais,São Gonçalo do Rio Preto,0.0,0,0,0.0,13,0,0.0,410.48,0.0,0.41,3167,63.16,-94.73,284.2,0.0
 2021-01-16,Minas Gerais,São Gonçalo do Rio Preto,0.0,0,0,0.0,13,0,0.0,410.48,0.0,0.41,3167,157.89,0.0,284.2,0.0
 2021-01-15,Minas Gerais,São Gonçalo do Rio Preto,0.0,0,0,0.0,13,0,0.0,410.48,0.0,0.41,3167,157.89,-31.58,284.2,0.0
 2021-01-14,Minas Gerais,São Gonçalo do Rio Preto,31.58,1,0,0.0,13,0,0.0,410.48,0.0,0.41,3167,189.47,-31.57,284.2,0.0

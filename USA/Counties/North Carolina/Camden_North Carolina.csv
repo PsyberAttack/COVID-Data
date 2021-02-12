@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-11,North Carolina,Camden,37.35,4,0,0.0,509,5.0,0.98,4752.57,46.69,4.75,10710,44.56,289.45,0.0,1055.1,-28.01
+2021-02-10,North Carolina,Camden,65.36,7,0,0.0,505,5.0,0.99,4715.22,46.69,4.72,10710,44.56,289.45,28.01,1083.11,-130.72
 2021-02-09,North Carolina,Camden,18.67,2,0,0.0,498,5.0,1.0,4649.86,46.69,4.65,10710,44.56,261.44,18.67,1213.83,-56.03
 2021-02-08,North Carolina,Camden,37.35,4,0,0.0,496,5.0,1.01,4631.19,46.69,4.63,10710,44.56,242.77,9.34,1269.86,28.01
 2021-02-07,North Carolina,Camden,28.01,3,0,0.0,492,5.0,1.02,4593.84,46.69,4.59,10710,44.56,233.43,-84.03,1241.85,-18.68

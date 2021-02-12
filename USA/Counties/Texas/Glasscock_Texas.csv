@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-11,Texas,Glasscock,0.0,0,0,0.0,98,2.0,2.04,7060.52,144.09,7.06,1388,1.54,-144.09,-360.23,432.29,288.18
+2021-02-10,Texas,Glasscock,-144.09,-2,0,0.0,98,2.0,2.04,7060.52,144.09,7.06,1388,1.54,216.14,720.46,144.11,-144.09
 2021-02-09,Texas,Glasscock,0.0,0,0,0.0,100,2.0,2.0,7204.61,144.09,7.2,1388,1.54,-504.32,0.0,288.2,0.0
 2021-02-08,Texas,Glasscock,0.0,0,0,0.0,100,2.0,2.0,7204.61,144.09,7.2,1388,1.54,-504.32,0.0,288.2,0.0
 2021-02-07,Texas,Glasscock,0.0,0,0,0.0,100,2.0,2.0,7204.61,144.09,7.2,1388,1.54,-504.32,-72.05,288.2,0.0

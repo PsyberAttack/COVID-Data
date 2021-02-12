@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-11,California,Calaveras,6.58,3,2,4.39,1850,25.0,1.35,4056.84,54.82,4.06,45602,44.71,111.84,-21.93,782.88,-32.89
+2021-02-10,California,Calaveras,15.35,7,0,0.0,1847,23.0,1.25,4050.26,50.44,4.05,45602,44.71,133.77,13.16,815.77,-17.54
 2021-02-09,California,Calaveras,6.58,3,0,0.0,1840,23.0,1.25,4034.91,50.44,4.03,45602,44.71,120.61,-8.77,833.31,-17.54
 2021-02-08,California,Calaveras,10.96,5,0,0.0,1837,23.0,1.25,4028.33,50.44,4.03,45602,44.71,129.38,-21.93,850.85,-41.67
 2021-02-07,California,Calaveras,30.7,14,0,0.0,1832,23.0,1.26,4017.37,50.44,4.02,45602,44.71,151.31,17.54,892.52,-57.02

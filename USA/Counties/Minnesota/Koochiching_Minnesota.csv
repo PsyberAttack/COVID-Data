@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-11,Minnesota,Koochiching,8.04,1,0,0.0,613,11.0,1.79,4927.65,88.42,4.93,12440,4.01,16.08,8.04,273.34,-24.11
+2021-02-10,Minnesota,Koochiching,0.0,0,0,0.0,612,11.0,1.8,4919.61,88.42,4.92,12440,4.01,8.04,0.0,297.45,-24.12
 2021-02-09,Minnesota,Koochiching,8.04,1,0,0.0,612,11.0,1.8,4919.61,88.42,4.92,12440,4.01,8.04,16.08,321.57,8.04
 2021-02-08,Minnesota,Koochiching,0.0,0,0,0.0,611,11.0,1.8,4911.58,88.42,4.91,12440,4.01,-8.04,0.0,313.53,-8.04
 2021-02-07,Minnesota,Koochiching,-8.04,-1,0,0.0,611,11.0,1.8,4911.58,88.42,4.91,12440,4.01,-8.04,-8.04,321.57,-24.12

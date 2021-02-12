@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-11,California,Sacramento,17.85,275,8,0.52,89652,1360.0,1.52,5817.88,88.26,5.82,1540975,1596.13,145.22,-2.14,738.8,-51.39
+2021-02-10,California,Sacramento,7.2,111,17,1.1,89377,1352.0,1.51,5800.03,87.74,5.8,1540975,1596.13,147.36,-9.09,790.19,-70.15
 2021-02-09,California,Sacramento,22.58,348,17,1.1,89266,1335.0,1.5,5792.83,86.63,5.79,1540975,1596.13,156.45,3.37,860.34,-17.33
 2021-02-08,California,Sacramento,25.11,387,16,1.04,88918,1318.0,1.48,5770.24,85.53,5.77,1540975,1596.13,153.08,13.95,877.67,-34.07
 2021-02-07,California,Sacramento,35.04,540,0,0.0,88531,1302.0,1.47,5745.13,84.49,5.75,1540975,1596.13,139.13,30.63,911.74,-45.23

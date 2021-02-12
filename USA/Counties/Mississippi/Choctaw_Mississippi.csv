@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-11,Mississippi,Choctaw,0.0,0,1,12.08,682,15.0,2.2,8238.71,181.2,8.24,8278,19.79,169.12,-12.08,1063.04,-84.56
+2021-02-10,Mississippi,Choctaw,12.08,1,0,0.0,682,14.0,2.05,8238.71,169.12,8.24,8278,19.79,181.2,-12.08,1147.6,-48.32
 2021-02-09,Mississippi,Choctaw,24.16,2,0,0.0,681,14.0,2.06,8226.62,169.12,8.23,8278,19.79,193.28,0.0,1195.92,-60.4
 2021-02-08,Mississippi,Choctaw,36.24,3,0,0.0,679,14.0,2.06,8202.46,169.12,8.2,8278,19.79,193.28,36.24,1256.32,0.0
 2021-02-07,Mississippi,Choctaw,60.4,5,0,0.0,676,14.0,2.07,8166.22,169.12,8.17,8278,19.79,157.04,60.4,1256.32,24.16

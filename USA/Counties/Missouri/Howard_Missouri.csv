@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-11,Missouri,Howard,19.73,2,1,9.86,707,5.0,0.71,6974.45,49.32,6.97,10137,21.86,108.51,9.87,424.16,9.87
+2021-02-10,Missouri,Howard,19.73,2,0,0.0,705,4.0,0.57,6954.72,39.46,6.95,10137,21.86,98.64,9.87,414.29,0.0
 2021-02-09,Missouri,Howard,0.0,0,0,0.0,703,4.0,0.57,6934.99,39.46,6.93,10137,21.86,88.77,0.0,414.29,0.0
 2021-02-08,Missouri,Howard,19.73,2,0,0.0,703,4.0,0.57,6934.99,39.46,6.93,10137,21.86,88.77,19.73,414.29,-19.73
 2021-02-07,Missouri,Howard,39.46,4,0,0.0,701,4.0,0.57,6915.26,39.46,6.92,10137,21.86,69.04,19.73,434.02,-29.59

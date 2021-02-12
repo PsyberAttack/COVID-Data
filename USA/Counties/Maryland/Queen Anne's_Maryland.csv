@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-11,Maryland,Queen Anne's,25.87,13,0,0.0,2467,37.0,1.5,4909.36,73.63,4.91,50251,135.2,149.25,15.92,811.92,-31.84
+2021-02-10,Maryland,Queen Anne's,19.9,10,1,1.99,2454,37.0,1.51,4883.48,73.63,4.88,50251,135.2,133.33,3.98,843.76,-9.95
 2021-02-09,Maryland,Queen Anne's,7.96,4,0,0.0,2444,36.0,1.47,4863.58,71.64,4.86,50251,135.2,129.35,-7.96,853.71,-7.96
 2021-02-08,Maryland,Queen Anne's,3.98,2,0,0.0,2440,36.0,1.48,4855.62,71.64,4.86,50251,135.2,137.31,-1.99,861.67,-69.65
 2021-02-07,Maryland,Queen Anne's,31.84,16,1,1.99,2438,36.0,1.48,4851.64,71.64,4.85,50251,135.2,139.3,23.88,931.32,-35.82

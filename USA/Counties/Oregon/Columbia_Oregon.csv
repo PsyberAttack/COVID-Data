@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-11,Oregon,Columbia,22.91,12,0,0.0,1164,21.0,1.8,2222.35,40.09,2.22,52377,79.59,70.65,9.55,305.5,-5.73
+2021-02-10,Oregon,Columbia,7.64,4,0,0.0,1152,21.0,1.82,2199.44,40.09,2.2,52377,79.59,61.1,5.73,311.23,-17.18
 2021-02-09,Oregon,Columbia,5.73,3,1,1.91,1148,21.0,1.83,2191.8,40.09,2.19,52377,79.59,55.37,0.0,328.41,3.82
 2021-02-08,Oregon,Columbia,5.73,3,0,0.0,1145,20.0,1.75,2186.07,38.18,2.19,52377,79.59,55.37,5.73,324.59,-21.0
 2021-02-07,Oregon,Columbia,5.73,3,0,0.0,1142,20.0,1.75,2180.35,38.18,2.18,52377,79.59,49.64,5.73,345.59,-28.64

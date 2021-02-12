@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-09,Rondônia,Alvorada D'Oeste,0.0,0,0,0.0,445,8,1.8,3087.92,55.51,3.09,14411,263.69,-20.82,1276.8,0.0
+2021-02-08,Rondônia,Alvorada D'Oeste,55.51,8,0,0.0,445,8,1.8,3087.92,55.51,3.09,14411,284.51,6.94,1276.8,27.75
+2021-02-07,Rondônia,Alvorada D'Oeste,20.82,3,0,0.0,437,8,1.83,3032.41,55.51,3.03,14411,277.57,20.82,1249.05,-13.88
+2021-02-06,Rondônia,Alvorada D'Oeste,69.39,10,0,0.0,434,8,1.84,3011.59,55.51,3.01,14411,256.75,6.94,1262.93,20.82
 2021-02-04,Rondônia,Alvorada D'Oeste,27.76,4,0,0.0,424,8,1.89,2942.2,55.51,2.94,14411,249.81,20.82,1242.11,13.88
 2021-02-03,Rondônia,Alvorada D'Oeste,27.76,4,0,0.0,420,8,1.9,2914.44,55.51,2.91,14411,228.99,13.88,1228.23,27.76
 2021-02-02,Rondônia,Alvorada D'Oeste,62.45,9,0,0.0,416,8,1.92,2886.68,55.51,2.89,14411,215.11,-62.45,1200.47,-41.64

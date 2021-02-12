@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-11,West Virginia,Hardy,14.52,2,2,14.52,1245,20.0,1.61,9038.11,145.19,9.04,13775,23.66,101.64,-21.78,1655.18,0.0
+2021-02-10,West Virginia,Hardy,-7.26,-1,0,0.0,1243,18.0,1.45,9023.59,130.67,9.02,13775,23.66,123.42,-29.04,1655.18,-36.3
 2021-02-09,West Virginia,Hardy,14.52,2,0,0.0,1244,18.0,1.45,9030.85,130.67,9.03,13775,23.66,152.46,0.0,1691.48,-101.63
 2021-02-08,West Virginia,Hardy,-7.26,-1,0,0.0,1242,18.0,1.45,9016.33,130.67,9.02,13775,23.66,152.46,-21.78,1793.11,-72.6
 2021-02-07,West Virginia,Hardy,29.04,4,1,7.26,1243,18.0,1.45,9023.59,130.67,9.02,13775,23.66,174.24,0.0,1865.71,-442.83

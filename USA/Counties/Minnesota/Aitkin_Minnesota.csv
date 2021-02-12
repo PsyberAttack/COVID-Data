@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-11,Minnesota,Aitkin,0.0,0,0,0.0,1146,33.0,2.88,7206.64,207.52,7.21,15902,8.73,25.16,-75.46,503.09,-31.44
+2021-02-10,Minnesota,Aitkin,12.58,2,0,0.0,1146,33.0,2.88,7206.64,207.52,7.21,15902,8.73,100.62,12.58,534.53,-12.57
 2021-02-09,Minnesota,Aitkin,-25.15,-4,0,0.0,1144,33.0,2.88,7194.06,207.52,7.19,15902,8.73,88.04,-25.15,547.1,-31.44
 2021-02-08,Minnesota,Aitkin,6.29,1,0,0.0,1148,33.0,2.87,7219.22,207.52,7.22,15902,8.73,113.19,0.0,578.54,-37.73
 2021-02-07,Minnesota,Aitkin,6.29,1,0,0.0,1147,33.0,2.88,7212.93,207.52,7.21,15902,8.73,113.19,-12.58,616.27,-6.29

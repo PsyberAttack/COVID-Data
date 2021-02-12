@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-11,Minnesota,Hubbard,37.5,8,0,0.0,1575,39.0,2.48,7383.27,182.82,7.38,21332,23.04,93.76,-14.07,496.92,-28.13
+2021-02-10,Minnesota,Hubbard,28.13,6,0,0.0,1567,39.0,2.49,7345.77,182.82,7.35,21332,23.04,107.83,28.13,525.05,18.75
 2021-02-09,Minnesota,Hubbard,4.69,1,0,0.0,1561,39.0,2.5,7317.64,182.82,7.32,21332,23.04,79.7,4.69,506.3,-4.69
 2021-02-08,Minnesota,Hubbard,0.0,0,0,0.0,1560,39.0,2.5,7312.96,182.82,7.31,21332,23.04,75.01,-18.75,510.99,-18.75
 2021-02-07,Minnesota,Hubbard,18.75,4,0,0.0,1560,39.0,2.5,7312.96,182.82,7.31,21332,23.04,93.76,14.06,529.74,-4.69

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-11,Wisconsin,Buffalo,38.1,5,0,0.0,1330,7.0,0.53,10133.33,53.33,10.13,13125,19.42,129.54,30.48,1234.3,-22.85
+2021-02-10,Wisconsin,Buffalo,22.86,3,0,0.0,1325,7.0,0.53,10095.24,53.33,10.1,13125,19.42,99.06,-45.71,1257.15,-213.33
 2021-02-09,Wisconsin,Buffalo,0.0,0,0,0.0,1322,7.0,0.53,10072.38,53.33,10.07,13125,19.42,144.77,-38.1,1470.48,-68.57
 2021-02-08,Wisconsin,Buffalo,7.62,1,0,0.0,1322,7.0,0.53,10072.38,53.33,10.07,13125,19.42,182.87,-15.24,1539.05,-38.09
 2021-02-07,Wisconsin,Buffalo,15.24,2,0,0.0,1321,7.0,0.53,10064.76,53.33,10.06,13125,19.42,198.11,-22.86,1577.14,-53.33

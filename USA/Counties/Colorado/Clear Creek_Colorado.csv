@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-11,Colorado,Clear Creek,31.23,3,0,0.0,352,2.0,0.57,3664.76,20.82,3.66,9605,24.3,52.05,20.82,260.25,10.41
+2021-02-10,Colorado,Clear Creek,-10.41,-1,0,0.0,349,2.0,0.57,3633.52,20.82,3.63,9605,24.3,31.23,-20.82,249.84,-72.88
 2021-02-09,Colorado,Clear Creek,-10.41,-1,0,0.0,350,2.0,0.57,3643.94,20.82,3.64,9605,24.3,52.05,-10.41,322.72,-20.82
 2021-02-08,Colorado,Clear Creek,0.0,0,0,0.0,351,2.0,0.57,3654.35,20.82,3.65,9605,24.3,62.46,-20.82,343.54,-10.41
 2021-02-07,Colorado,Clear Creek,10.41,1,0,0.0,351,2.0,0.57,3654.35,20.82,3.65,9605,24.3,83.28,10.41,353.95,-41.65

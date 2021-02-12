@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-11,Montana,Liberty,0.0,0,0,0.0,110,1.0,0.91,4526.75,41.15,4.53,2430,1.7,164.6,0.0,288.05,0.0
+2021-02-10,Montana,Liberty,41.15,1,0,0.0,110,1.0,0.91,4526.75,41.15,4.53,2430,1.7,164.6,41.15,288.05,-41.15
 2021-02-09,Montana,Liberty,82.3,2,0,0.0,109,1.0,0.92,4485.6,41.15,4.49,2430,1.7,123.45,82.3,329.2,82.3
 2021-02-08,Montana,Liberty,41.15,1,0,0.0,107,1.0,0.93,4403.29,41.15,4.4,2430,1.7,41.15,41.15,246.9,41.15
 2021-02-07,Montana,Liberty,0.0,0,0,0.0,106,1.0,0.94,4362.14,41.15,4.36,2430,1.7,0.0,0.0,205.75,0.0

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-11,California,Tehama,45.37,29,0,0.0,4445,48.0,1.08,6954.44,75.1,6.95,63916,21.67,212.77,14.08,1339.24,10.95
+2021-02-10,California,Tehama,20.34,13,1,1.56,4416,48.0,1.09,6909.07,75.1,6.91,63916,21.67,198.69,-20.34,1328.29,-46.94
 2021-02-09,California,Tehama,10.95,7,0,0.0,4403,47.0,1.07,6888.73,73.53,6.89,63916,21.67,219.03,0.0,1375.23,-20.34
 2021-02-08,California,Tehama,25.03,16,0,0.0,4396,47.0,1.07,6877.78,73.53,6.88,63916,21.67,219.03,-17.21,1395.57,-57.89
 2021-02-07,California,Tehama,39.11,25,0,0.0,4380,47.0,1.07,6852.74,73.53,6.85,63916,21.67,236.24,-20.34,1453.46,-31.29

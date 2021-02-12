@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-11,North Carolina,Pitt,55.03,99,0,0.0,16422,72.0,0.44,9127.69,40.02,9.13,179914,275.79,336.28,0.0,1598.57,-26.12
+2021-02-10,North Carolina,Pitt,50.02,90,0,0.0,16323,72.0,0.44,9072.67,40.02,9.07,179914,275.79,336.28,-82.27,1624.69,-35.02
 2021-02-09,North Carolina,Pitt,18.9,34,0,0.0,16233,72.0,0.44,9022.64,40.02,9.02,179914,275.79,418.55,2.23,1659.71,-8.34
 2021-02-08,North Carolina,Pitt,31.13,56,0,0.0,16199,72.0,0.44,9003.75,40.02,9.0,179914,275.79,416.32,-3.89,1668.05,-32.23
 2021-02-07,North Carolina,Pitt,52.8,95,0,0.0,16143,72.0,0.45,8972.62,40.02,8.97,179914,275.79,420.21,-71.15,1700.28,-18.9

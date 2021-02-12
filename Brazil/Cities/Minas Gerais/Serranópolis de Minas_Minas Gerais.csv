@@ -1,4 +1,5 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-10,Minas Gerais,Serranópolis de Minas,83.66,4,0,0.0,64,0,0.0,1338.63,0.0,1.34,4781,125.49,83.66,355.57,83.66
 2021-02-08,Minas Gerais,Serranópolis de Minas,0.0,0,0,0.0,60,0,0.0,1254.97,0.0,1.25,4781,41.83,0.0,271.91,0.0
 2021-02-07,Minas Gerais,Serranópolis de Minas,0.0,0,0,0.0,60,0,0.0,1254.97,0.0,1.25,4781,41.83,0.0,271.91,0.0
 2021-02-06,Minas Gerais,Serranópolis de Minas,0.0,0,0,0.0,60,0,0.0,1254.97,0.0,1.25,4781,41.83,-41.83,271.91,0.0
@@ -10,12 +11,15 @@ date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases
 2021-01-31,Minas Gerais,Serranópolis de Minas,0.0,0,0,0.0,58,0,0.0,1213.14,0.0,1.21,4781,41.83,0.0,230.08,0.0
 2021-01-30,Minas Gerais,Serranópolis de Minas,41.83,2,0,0.0,58,0,0.0,1213.14,0.0,1.21,4781,41.83,20.91,230.08,41.83
 2021-01-29,Minas Gerais,Serranópolis de Minas,0.0,0,0,0.0,56,0,0.0,1171.3,0.0,1.17,4781,20.92,0.0,188.25,0.0
-2021-01-28,Minas Gerais,Serranópolis de Minas,0.0,0,0,0.0,56,0,0.0,1171.3,0.0,1.17,4781,20.92,-62.75,188.25,0.0
-2021-01-27,Minas Gerais,Serranópolis de Minas,0.0,0,0,0.0,56,0,0.0,1171.3,0.0,1.17,4781,83.67,0.0,188.25,-41.83
-2021-01-26,Minas Gerais,Serranópolis de Minas,0.0,0,0,0.0,56,0,0.0,1171.3,0.0,1.17,4781,83.67,0.0,230.08,0.0
-2021-01-25,Minas Gerais,Serranópolis de Minas,0.0,0,0,0.0,56,0,0.0,1171.3,0.0,1.17,4781,83.67,-104.58,230.08,0.0
-2021-01-24,Minas Gerais,Serranópolis de Minas,0.0,0,0,0.0,56,0,0.0,1171.3,0.0,1.17,4781,188.25,0.0,230.08,0.0
-2021-01-23,Minas Gerais,Serranópolis de Minas,20.92,1,0,0.0,56,0,0.0,1171.3,0.0,1.17,4781,188.25,20.92,230.08,20.92
+2021-01-28,Minas Gerais,Serranópolis de Minas,0.0,0,0,0.0,56,0,0.0,1171.3,0.0,1.17,4781,20.92,0.0,188.25,0.0
+2021-01-27,Minas Gerais,Serranópolis de Minas,0.0,0,0,0.0,56,0,0.0,1171.3,0.0,1.17,4781,20.92,0.0,188.25,0.0
+2021-01-26,Minas Gerais,Serranópolis de Minas,0.0,0,0,0.0,56,0,0.0,1171.3,0.0,1.17,4781,20.92,0.0,188.25,0.0
+2021-01-25,Minas Gerais,Serranópolis de Minas,0.0,0,0,0.0,56,0,0.0,1171.3,0.0,1.17,4781,20.92,-62.75,188.25,0.0
+2021-01-24,Minas Gerais,Serranópolis de Minas,0.0,0,0,0.0,56,0,0.0,1171.3,0.0,1.17,4781,83.67,0.0,188.25,-41.83
+2021-01-23,Minas Gerais,Serranópolis de Minas,20.92,1,0,0.0,56,0,0.0,1171.3,0.0,1.17,4781,83.67,20.92,230.08,20.92
+2021-01-20,Minas Gerais,Serranópolis de Minas,0.0,0,0,0.0,55,0,0.0,1150.39,0.0,1.15,4781,62.75,-104.58,209.16,0.0
+2021-01-19,Minas Gerais,Serranópolis de Minas,0.0,0,0,0.0,55,0,0.0,1150.39,0.0,1.15,4781,167.33,0.0,209.16,0.0
+2021-01-18,Minas Gerais,Serranópolis de Minas,0.0,0,0,0.0,55,0,0.0,1150.39,0.0,1.15,4781,167.33,0.0,209.16,0.0
 2021-01-16,Minas Gerais,Serranópolis de Minas,0.0,0,0,0.0,55,0,0.0,1150.39,0.0,1.15,4781,167.33,0.0,209.16,-83.66
 2021-01-15,Minas Gerais,Serranópolis de Minas,62.75,3,0,0.0,55,0,0.0,1150.39,0.0,1.15,4781,167.33,62.75,292.82,62.75
 2021-01-14,Minas Gerais,Serranópolis de Minas,0.0,0,0,0.0,52,0,0.0,1087.64,0.0,1.09,4781,104.58,0.0,230.07,0.0

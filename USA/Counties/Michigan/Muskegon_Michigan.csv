@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-11,Michigan,Muskegon,12.1,21,1,0.58,12569,315.0,2.51,7240.71,181.46,7.24,173588,344.5,55.87,-8.06,300.71,-223.52
+2021-02-10,Michigan,Muskegon,15.55,27,0,0.0,12548,314.0,2.5,7228.61,180.89,7.23,173588,344.5,63.93,5.18,524.23,-8.65
 2021-02-09,Michigan,Muskegon,5.76,10,0,0.0,12521,314.0,2.51,7213.06,180.89,7.21,173588,344.5,58.75,-2.88,532.88,-5.76
 2021-02-08,Michigan,Muskegon,9.79,17,0,0.0,12511,314.0,2.51,7207.3,180.89,7.21,173588,344.5,61.63,-7.49,538.64,-35.72
 2021-02-07,Michigan,Muskegon,0.0,0,0,0.0,12494,314.0,2.51,7197.5,180.89,7.2,173588,344.5,69.12,0.0,574.36,0.0

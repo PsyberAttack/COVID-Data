@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-11,Florida,Lafayette,45.81,4,0,0.0,1543,24.0,1.56,17670.64,274.85,17.67,8732,16.07,103.06,45.81,767.28,22.91
+2021-02-10,Florida,Lafayette,11.45,1,0,0.0,1539,24.0,1.56,17624.83,274.85,17.62,8732,16.07,57.25,11.45,744.37,-22.91
 2021-02-09,Florida,Lafayette,-34.36,-3,1,11.45,1538,24.0,1.56,17613.38,274.85,17.61,8732,16.07,45.8,-57.26,767.28,-91.62
 2021-02-08,Florida,Lafayette,11.45,1,0,0.0,1541,23.0,1.49,17647.73,263.4,17.65,8732,16.07,103.06,0.0,858.9,-22.91
 2021-02-07,Florida,Lafayette,0.0,0,0,0.0,1540,23.0,1.49,17636.28,263.4,17.64,8732,16.07,103.06,0.0,881.81,-34.36
