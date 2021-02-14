@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-10,São Paulo,Guarani d'Oeste,0.0,0,0,0.0,67,0,0.0,3350.0,0.0,3.35,2000,100.0,0.0,350.0,0.0
-2021-02-09,São Paulo,Guarani d'Oeste,0.0,0,0,0.0,67,0,0.0,3350.0,0.0,3.35,2000,100.0,0.0,350.0,-50.0
+2021-02-11,São Paulo,Guarani d'Oeste,0.0,0,0,0.0,67,0,0.0,3350.0,0.0,3.35,2000,0.0,-50.0,350.0,0.0
+2021-02-10,São Paulo,Guarani d'Oeste,0.0,0,0,0.0,67,0,0.0,3350.0,0.0,3.35,2000,50.0,-50.0,350.0,0.0
+2021-02-09,São Paulo,Guarani d'Oeste,0.0,0,0,0.0,67,0,0.0,3350.0,0.0,3.35,2000,100.0,0.0,350.0,0.0
+2021-02-08,São Paulo,Guarani d'Oeste,0.0,0,0,0.0,67,0,0.0,3350.0,0.0,3.35,2000,100.0,0.0,350.0,-50.0
 2021-02-07,São Paulo,Guarani d'Oeste,0.0,0,0,0.0,67,0,0.0,3350.0,0.0,3.35,2000,100.0,0.0,400.0,0.0
 2021-02-06,São Paulo,Guarani d'Oeste,0.0,0,0,0.0,67,0,0.0,3350.0,0.0,3.35,2000,100.0,0.0,400.0,0.0
 2021-02-05,São Paulo,Guarani d'Oeste,0.0,0,0,0.0,67,0,0.0,3350.0,0.0,3.35,2000,100.0,-150.0,400.0,0.0

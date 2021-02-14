@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-10,São Paulo,Santa Maria da Serra,32.4,2,0,0.0,236,1,0.42,3823.1,16.2,3.82,6173,404.99,-161.99,1668.58,16.2
-2021-02-09,São Paulo,Santa Maria da Serra,32.4,2,0,0.0,234,1,0.43,3790.7,16.2,3.79,6173,566.98,32.4,1652.38,32.4
+2021-02-11,São Paulo,Santa Maria da Serra,16.2,1,0,0.0,237,1,0.42,3839.3,16.2,3.84,6173,162.0,0.0,1652.38,16.2
+2021-02-10,São Paulo,Santa Maria da Serra,32.4,2,0,0.0,236,1,0.42,3823.1,16.2,3.82,6173,162.0,-210.59,1636.18,0.0
+2021-02-09,São Paulo,Santa Maria da Serra,0.0,0,0,0.0,234,1,0.43,3790.7,16.2,3.79,6173,372.59,-194.39,1636.18,-16.2
+2021-02-08,São Paulo,Santa Maria da Serra,32.4,2,0,0.0,234,1,0.43,3790.7,16.2,3.79,6173,566.98,32.4,1652.38,32.4
 2021-02-07,São Paulo,Santa Maria da Serra,0.0,0,0,0.0,232,1,0.43,3758.3,16.2,3.76,6173,534.58,-32.4,1619.98,0.0
 2021-02-06,São Paulo,Santa Maria da Serra,0.0,0,0,0.0,232,1,0.43,3758.3,16.2,3.76,6173,566.98,-81.0,1619.98,-16.2
 2021-02-05,São Paulo,Santa Maria da Serra,81.0,5,0,0.0,232,1,0.43,3758.3,16.2,3.76,6173,647.98,0.0,1636.18,81.0

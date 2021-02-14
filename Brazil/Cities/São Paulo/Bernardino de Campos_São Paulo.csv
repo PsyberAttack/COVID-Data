@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-10,São Paulo,Bernardino de Campos,8.97,1,0,0.0,226,6,2.65,2027.27,53.82,2.03,11148,71.76,-403.66,843.19,0.0
-2021-02-09,São Paulo,Bernardino de Campos,-8.97,-1,0,0.0,225,6,2.67,2018.3,53.82,2.02,11148,475.42,-8.97,843.19,-17.94
+2021-02-11,São Paulo,Bernardino de Campos,62.79,7,0,0.0,233,6,2.58,2090.06,53.82,2.09,11148,80.73,62.79,905.98,62.79
+2021-02-10,São Paulo,Bernardino de Campos,8.97,1,0,0.0,226,6,2.65,2027.27,53.82,2.03,11148,17.94,-44.85,843.19,8.97
+2021-02-09,São Paulo,Bernardino de Campos,-8.97,-1,0,0.0,225,6,2.67,2018.3,53.82,2.02,11148,62.79,-421.6,834.22,-17.94
+2021-02-08,São Paulo,Bernardino de Campos,0.0,0,0,0.0,226,6,2.65,2027.27,53.82,2.03,11148,484.39,0.0,852.16,-8.97
 2021-02-07,São Paulo,Bernardino de Campos,0.0,0,0,0.0,226,6,2.65,2027.27,53.82,2.03,11148,484.39,0.0,861.13,0.0
 2021-02-06,São Paulo,Bernardino de Campos,0.0,0,0,0.0,226,6,2.65,2027.27,53.82,2.03,11148,484.39,-17.94,861.13,-8.97
 2021-02-05,São Paulo,Bernardino de Campos,17.94,2,0,0.0,226,6,2.65,2027.27,53.82,2.03,11148,502.33,-53.82,870.1,17.94

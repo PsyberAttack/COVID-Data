@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-10,São Paulo,Monteiro Lobato,0.0,0,0,0.0,97,2,2.06,2084.68,42.98,2.08,4653,0.0,0.0,300.86,-21.49
-2021-02-09,São Paulo,Monteiro Lobato,0.0,0,0,0.0,97,2,2.06,2084.68,42.98,2.08,4653,0.0,0.0,322.35,0.0
+2021-02-11,São Paulo,Monteiro Lobato,0.0,0,0,0.0,97,2,2.06,2084.68,42.98,2.08,4653,21.49,0.0,300.86,0.0
+2021-02-10,São Paulo,Monteiro Lobato,0.0,0,0,0.0,97,2,2.06,2084.68,42.98,2.08,4653,21.49,21.49,300.86,0.0
+2021-02-09,São Paulo,Monteiro Lobato,0.0,0,0,0.0,97,2,2.06,2084.68,42.98,2.08,4653,0.0,0.0,300.86,-21.49
+2021-02-08,São Paulo,Monteiro Lobato,0.0,0,0,0.0,97,2,2.06,2084.68,42.98,2.08,4653,0.0,0.0,322.35,0.0
 2021-02-07,São Paulo,Monteiro Lobato,0.0,0,0,0.0,97,2,2.06,2084.68,42.98,2.08,4653,0.0,0.0,322.35,0.0
 2021-02-06,São Paulo,Monteiro Lobato,21.49,1,0,0.0,97,2,2.06,2084.68,42.98,2.08,4653,0.0,21.49,322.35,42.98
 2021-02-05,São Paulo,Monteiro Lobato,0.0,0,0,0.0,96,2,2.08,2063.19,42.98,2.06,4653,-21.49,0.0,279.37,-21.49

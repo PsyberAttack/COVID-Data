@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-10,Mato Grosso,Planalto da Serra,75.13,2,0,0.0,86,1,1.16,3230.65,37.57,3.23,2662,112.7,75.13,751.31,75.13
+2021-02-11,Mato Grosso,Planalto da Serra,0.0,0,0,0.0,86,1,1.16,3230.65,37.57,3.23,2662,75.13,0.0,751.31,0.0
+2021-02-10,Mato Grosso,Planalto da Serra,75.13,2,0,0.0,86,1,1.16,3230.65,37.57,3.23,2662,75.13,37.56,751.31,75.13
+2021-02-09,Mato Grosso,Planalto da Serra,0.0,0,0,0.0,84,1,1.19,3155.52,37.57,3.16,2662,37.57,0.0,676.18,0.0
 2021-02-08,Mato Grosso,Planalto da Serra,0.0,0,0,0.0,84,1,1.19,3155.52,37.57,3.16,2662,37.57,0.0,676.18,0.0
 2021-02-07,Mato Grosso,Planalto da Serra,0.0,0,0,0.0,84,1,1.19,3155.52,37.57,3.16,2662,37.57,0.0,676.18,0.0
 2021-02-06,Mato Grosso,Planalto da Serra,0.0,0,0,0.0,84,1,1.19,3155.52,37.57,3.16,2662,37.57,0.0,676.18,0.0
@@ -30,6 +32,7 @@ date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases
 2021-01-11,Mato Grosso,Planalto da Serra,0.0,0,0,0.0,66,0,0.0,2479.34,0.0,2.48,2662,-0.0,0.0,-0.0,0.0
 2021-01-10,Mato Grosso,Planalto da Serra,0.0,0,0,0.0,66,0,0.0,2479.34,0.0,2.48,2662,-0.0,0.0,-0.0,0.0
 2021-01-09,Mato Grosso,Planalto da Serra,0.0,0,0,0.0,66,0,0.0,2479.34,0.0,2.48,2662,-0.0,0.0,-0.0,0.0
+2021-01-08,Mato Grosso,Planalto da Serra,0.0,0,0,0.0,66,0,0.0,2479.34,0.0,2.48,2662,-0.0,0.0,-0.0,0.0
 2021-01-07,Mato Grosso,Planalto da Serra,0.0,0,0,0.0,66,0,0.0,2479.34,0.0,2.48,2662,-0.0,0.0,-0.0,0.0
 2021-01-06,Mato Grosso,Planalto da Serra,0.0,0,0,0.0,66,0,0.0,2479.34,0.0,2.48,2662,-0.0,0.0,-0.0,0.0
 2021-01-05,Mato Grosso,Planalto da Serra,0.0,0,0,0.0,66,0,0.0,2479.34,0.0,2.48,2662,-0.0,0.0,-0.0,0.0

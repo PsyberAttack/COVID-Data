@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-10,São Paulo,Presidente Bernardes,83.93,11,0,0.0,558,13,2.33,4257.59,99.19,4.26,13106,228.9,-38.15,801.15,30.52
-2021-02-09,São Paulo,Presidente Bernardes,7.63,1,0,0.0,547,13,2.38,4173.66,99.19,4.17,13106,267.05,7.63,770.63,-22.89
+2021-02-11,São Paulo,Presidente Bernardes,30.52,4,0,0.0,562,13,2.31,4288.11,99.19,4.29,13106,236.53,22.89,824.04,30.52
+2021-02-10,São Paulo,Presidente Bernardes,83.93,11,0,0.0,558,13,2.33,4257.59,99.19,4.26,13106,213.64,68.67,793.52,76.3
+2021-02-09,São Paulo,Presidente Bernardes,7.63,1,0,0.0,547,13,2.38,4173.66,99.19,4.17,13106,144.97,-114.45,717.22,-45.78
+2021-02-08,São Paulo,Presidente Bernardes,0.0,0,0,0.0,546,13,2.38,4166.03,99.19,4.17,13106,259.42,0.0,763.0,-30.52
 2021-02-07,São Paulo,Presidente Bernardes,0.0,0,0,0.0,546,13,2.38,4166.03,99.19,4.17,13106,259.42,-22.89,793.52,0.0
 2021-02-06,São Paulo,Presidente Bernardes,114.45,15,0,0.0,546,13,2.38,4166.03,99.19,4.17,13106,282.31,99.19,793.52,106.82
 2021-02-05,São Paulo,Presidente Bernardes,0.0,0,0,0.0,531,13,2.45,4051.58,99.19,4.05,13106,183.12,-22.89,686.7,-22.89

@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-10,Mato Grosso,Araguainha,0.0,0,0,0.0,15,0,0.0,1604.28,0.0,1.6,935,748.66,0.0,1069.51,0.0
+2021-02-11,Mato Grosso,Araguainha,0.0,0,0,0.0,15,0,0.0,1604.28,0.0,1.6,935,-0.0,-213.9,1069.51,0.0
+2021-02-10,Mato Grosso,Araguainha,0.0,0,0,0.0,15,0,0.0,1604.28,0.0,1.6,935,213.9,-534.76,1069.51,0.0
+2021-02-09,Mato Grosso,Araguainha,0.0,0,0,0.0,15,0,0.0,1604.28,0.0,1.6,935,748.66,0.0,1069.51,0.0
 2021-02-08,Mato Grosso,Araguainha,0.0,0,0,0.0,15,0,0.0,1604.28,0.0,1.6,935,748.66,0.0,1069.51,0.0
 2021-02-07,Mato Grosso,Araguainha,0.0,0,0,0.0,15,0,0.0,1604.28,0.0,1.6,935,748.66,0.0,1069.51,0.0
 2021-02-06,Mato Grosso,Araguainha,0.0,0,0,0.0,15,0,0.0,1604.28,0.0,1.6,935,748.66,0.0,1069.51,0.0
@@ -30,6 +32,7 @@ date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases
 2021-01-11,Mato Grosso,Araguainha,0.0,0,0,0.0,5,0,0.0,534.76,0.0,0.53,935,0.0,0.0,0.0,0.0
 2021-01-10,Mato Grosso,Araguainha,0.0,0,0,0.0,5,0,0.0,534.76,0.0,0.53,935,0.0,0.0,0.0,0.0
 2021-01-09,Mato Grosso,Araguainha,0.0,0,0,0.0,5,0,0.0,534.76,0.0,0.53,935,0.0,0.0,0.0,0.0
+2021-01-08,Mato Grosso,Araguainha,0.0,0,0,0.0,5,0,0.0,534.76,0.0,0.53,935,0.0,0.0,0.0,0.0
 2021-01-07,Mato Grosso,Araguainha,0.0,0,0,0.0,5,0,0.0,534.76,0.0,0.53,935,0.0,0.0,0.0,0.0
 2021-01-06,Mato Grosso,Araguainha,0.0,0,0,0.0,5,0,0.0,534.76,0.0,0.53,935,0.0,0.0,0.0,0.0
 2021-01-05,Mato Grosso,Araguainha,0.0,0,0,0.0,5,0,0.0,534.76,0.0,0.53,935,0.0,0.0,0.0,0.0

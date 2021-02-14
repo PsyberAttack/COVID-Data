@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-10,São Paulo,Campos Novos Paulista,0.0,0,0,0.0,168,3,1.79,3383.69,60.42,3.38,4965,100.7,-20.14,261.82,0.0
-2021-02-09,São Paulo,Campos Novos Paulista,0.0,0,1,20.14,168,3,1.79,3383.69,60.42,3.38,4965,120.84,-20.14,261.82,-80.56
+2021-02-11,São Paulo,Campos Novos Paulista,0.0,0,0,0.0,168,3,1.79,3383.69,60.42,3.38,4965,20.14,0.0,241.68,-20.14
+2021-02-10,São Paulo,Campos Novos Paulista,0.0,0,0,0.0,168,3,1.79,3383.69,60.42,3.38,4965,20.14,-80.56,261.82,0.0
+2021-02-09,São Paulo,Campos Novos Paulista,0.0,0,1,20.14,168,3,1.79,3383.69,60.42,3.38,4965,100.7,-20.14,261.82,0.0
+2021-02-08,São Paulo,Campos Novos Paulista,0.0,0,0,0.0,168,2,1.19,3383.69,40.28,3.38,4965,120.84,-20.14,261.82,-80.56
 2021-02-07,São Paulo,Campos Novos Paulista,20.14,1,0,0.0,168,2,1.19,3383.69,40.28,3.38,4965,140.98,0.0,342.38,20.14
 2021-02-06,São Paulo,Campos Novos Paulista,0.0,0,0,0.0,167,2,1.2,3363.54,40.28,3.36,4965,140.98,0.0,322.24,0.0
 2021-02-05,São Paulo,Campos Novos Paulista,0.0,0,0,0.0,167,2,1.2,3363.54,40.28,3.36,4965,140.98,-20.14,322.24,0.0
