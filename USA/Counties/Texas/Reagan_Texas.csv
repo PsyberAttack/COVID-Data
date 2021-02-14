@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-13,Texas,Reagan,53.46,2,0,0.0,365,8.0,2.19,9756.75,213.85,9.76,3741,3.18,133.65,0.0,213.82,-26.73
 2021-02-12,Texas,Reagan,106.92,4,0,0.0,363,8.0,2.2,9703.29,213.85,9.7,3741,3.18,133.65,53.46,240.55,106.92
 2021-02-11,Texas,Reagan,-80.19,-3,0,0.0,359,8.0,2.23,9596.36,213.85,9.6,3741,3.18,80.19,106.93,133.63,-213.84
 2021-02-10,Texas,Reagan,26.73,1,0,0.0,362,8.0,2.21,9676.56,213.85,9.68,3741,3.18,-26.74,-53.46,347.47,26.73
