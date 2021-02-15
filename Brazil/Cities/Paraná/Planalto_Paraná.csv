@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-14,Paraná,Planalto,0.0,0,0,0.0,708,2,0.28,5252.62,14.84,5.25,13479,140.97,0.0,771.62,0.0
+2021-02-13,Paraná,Planalto,22.26,3,0,0.0,708,2,0.28,5252.62,14.84,5.25,13479,140.97,0.0,771.62,-14.83
 2021-02-12,Paraná,Planalto,7.42,1,0,0.0,705,2,0.28,5230.36,14.84,5.23,13479,140.97,-22.26,786.45,-51.93
 2021-02-11,Paraná,Planalto,14.84,2,0,0.0,704,2,0.28,5222.94,14.84,5.22,13479,163.23,-7.42,838.38,-44.51
 2021-02-10,Paraná,Planalto,29.68,4,0,0.0,702,2,0.28,5208.1,14.84,5.21,13479,170.65,14.84,882.89,22.26
