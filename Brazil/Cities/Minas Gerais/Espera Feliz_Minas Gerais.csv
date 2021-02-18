@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-17,Minas Gerais,Espera Feliz,100.2,25,0,0.0,1445,21,1.45,5791.35,84.16,5.79,24951,392.77,36.07,1194.34,68.14
+2021-02-16,Minas Gerais,Espera Feliz,0.0,0,0,0.0,1420,21,1.48,5691.15,84.16,5.69,24951,356.7,0.0,1126.2,0.0
+2021-02-15,Minas Gerais,Espera Feliz,0.0,0,-1,-4.01,1420,21,1.48,5691.15,84.16,5.69,24951,356.7,-92.18,1126.2,-80.16
+2021-02-14,Minas Gerais,Espera Feliz,24.05,6,0,0.0,1420,22,1.55,5691.15,88.17,5.69,24951,448.88,24.05,1206.36,-8.01
 2021-02-13,Minas Gerais,Espera Feliz,72.14,18,1,4.01,1414,22,1.56,5667.11,88.17,5.67,24951,424.83,-52.1,1214.37,32.06
 2021-02-12,Minas Gerais,Espera Feliz,128.25,32,0,0.0,1396,21,1.5,5594.97,84.16,5.59,24951,476.93,80.16,1182.31,128.25
 2021-02-10,Minas Gerais,Espera Feliz,68.13,17,0,0.0,1364,21,1.54,5466.71,84.16,5.47,24951,396.77,68.13,1054.06,68.13
