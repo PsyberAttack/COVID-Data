@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-14,Bahia,Lafaiete Coutinho,26.85,1,0,0.0,228,3,1.32,6122.45,80.56,6.12,3724,107.41,-26.86,456.51,0.0
-2021-02-13,Bahia,Lafaiete Coutinho,0.0,0,0,0.0,227,3,1.32,6095.6,80.56,6.1,3724,134.27,0.0,456.51,0.0
+2021-02-14,Bahia,Lafaiete Coutinho,26.85,1,0,0.0,228,3,1.32,6122.45,80.56,6.12,3724,80.56,0.0,375.95,-53.71
+2021-02-13,Bahia,Lafaiete Coutinho,0.0,0,0,0.0,227,3,1.32,6095.6,80.56,6.1,3724,80.56,-53.71,429.66,-26.85
+2021-02-12,Bahia,Lafaiete Coutinho,0.0,0,0,0.0,227,3,1.32,6095.6,80.56,6.1,3724,134.27,0.0,456.51,0.0
 2021-02-11,Bahia,Lafaiete Coutinho,53.71,2,0,0.0,227,3,1.32,6095.6,80.56,6.1,3724,134.27,53.71,456.51,-107.41
 2021-02-10,Bahia,Lafaiete Coutinho,0.0,0,0,0.0,225,3,1.33,6041.89,80.56,6.04,3724,80.56,0.0,563.92,-26.85
 2021-02-09,Bahia,Lafaiete Coutinho,0.0,0,0,0.0,225,3,1.33,6041.89,80.56,6.04,3724,80.56,0.0,590.77,0.0
