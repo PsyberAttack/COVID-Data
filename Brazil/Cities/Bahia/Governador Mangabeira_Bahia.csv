@@ -1,4 +1,10 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-20,Bahia,Governador Mangabeira,0.0,0,0,0.0,496,5,1.01,2393.59,24.13,2.39,20722,130.29,0.0,723.88,-4.83
+2021-02-19,Bahia,Governador Mangabeira,9.65,2,0,0.0,496,5,1.01,2393.59,24.13,2.39,20722,130.29,-33.78,728.71,-4.83
+2021-02-18,Bahia,Governador Mangabeira,9.65,2,0,0.0,494,5,1.01,2383.94,24.13,2.38,20722,164.07,-4.83,733.54,-67.56
+2021-02-17,Bahia,Governador Mangabeira,14.48,3,0,0.0,492,5,1.02,2374.29,24.13,2.37,20722,168.9,9.65,801.1,-4.82
+2021-02-16,Bahia,Governador Mangabeira,48.26,10,0,0.0,489,5,1.02,2359.81,24.13,2.36,20722,159.25,38.61,805.92,43.43
+2021-02-15,Bahia,Governador Mangabeira,28.95,6,1,4.83,479,5,1.04,2311.55,24.13,2.31,20722,120.64,-24.13,762.49,14.47
 2021-02-14,Bahia,Governador Mangabeira,19.3,4,0,0.0,473,4,0.85,2282.6,19.3,2.28,20722,144.77,19.3,748.02,4.82
 2021-02-13,Bahia,Governador Mangabeira,0.0,0,1,4.83,469,4,0.85,2263.3,19.3,2.26,20722,125.47,-4.83,743.2,-24.13
 2021-02-12,Bahia,Governador Mangabeira,43.43,9,0,0.0,469,3,0.64,2263.3,14.48,2.26,20722,130.3,38.6,767.33,-14.48
