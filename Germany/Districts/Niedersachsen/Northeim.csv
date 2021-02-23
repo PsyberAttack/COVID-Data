@@ -1,4 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-22 00:00:00+00:00,Niedersachsen,Northeim,0.75,1,0,0.0,1454,29,1.99,1095.17,21.84,1.1,132765,16.56,-2.26,103.21,-5.28
+2021-02-21 00:00:00+00:00,Niedersachsen,Northeim,0.0,0,0,0.0,1453,29,2.0,1094.41,21.84,1.09,132765,18.82,-1.51,108.49,-3.01
 2021-02-20 00:00:00+00:00,Niedersachsen,Northeim,0.75,1,0,0.0,1453,29,2.0,1094.41,21.84,1.09,132765,20.33,-0.76,111.5,-2.26
 2021-02-19 00:00:00+00:00,Niedersachsen,Northeim,3.01,4,0,0.0,1452,29,2.0,1093.66,21.84,1.09,132765,21.09,-3.02,113.76,-3.77
 2021-02-18 00:00:00+00:00,Niedersachsen,Northeim,2.26,3,0,0.0,1448,29,2.0,1090.65,21.84,1.09,132765,24.11,-7.53,117.53,-6.78
