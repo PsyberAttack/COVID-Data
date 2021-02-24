@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-02-23,Texas,Franklin,9.29,1,0,0.0,685,24.0,3.5,6362.62,222.92,6.36,10766,37.86,120.77,0.0,873.15,-37.15
 2021-02-22,Texas,Franklin,18.58,2,0,0.0,684,24.0,3.51,6353.33,222.92,6.35,10766,37.86,120.77,9.29,910.3,18.58
 2021-02-21,Texas,Franklin,27.87,3,1,9.29,682,24.0,3.52,6334.76,222.92,6.33,10766,37.86,111.48,-9.28,891.72,27.87
 2021-02-20,Texas,Franklin,27.87,3,1,9.29,679,23.0,3.39,6306.89,213.64,6.31,10766,37.86,120.76,37.16,863.85,-18.57
