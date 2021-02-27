@@ -1,5 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-21,São Paulo,Palmares Paulista,0.0,0,0,0.0,574,21,3.66,4323.92,158.19,4.32,13275,113.0,0.0,564.98,-30.13
+2021-02-25,São Paulo,Palmares Paulista,112.99,15,0,0.0,591,21,3.55,4451.98,158.19,4.45,13275,188.33,75.33,670.44,90.39
+2021-02-23,São Paulo,Palmares Paulista,15.07,2,0,0.0,576,21,3.65,4338.98,158.19,4.34,13275,113.0,15.07,580.05,15.07
+2021-02-21,São Paulo,Palmares Paulista,0.0,0,0,0.0,574,21,3.66,4323.92,158.19,4.32,13275,97.93,-15.07,564.98,0.0
+2021-02-20,São Paulo,Palmares Paulista,0.0,0,0,0.0,574,21,3.66,4323.92,158.19,4.32,13275,113.0,0.0,564.98,-30.13
 2021-02-19,São Paulo,Palmares Paulista,0.0,0,1,7.53,574,21,3.66,4323.92,158.19,4.32,13275,113.0,-22.6,595.11,-37.66
 2021-02-18,São Paulo,Palmares Paulista,15.07,2,0,0.0,574,20,3.48,4323.92,150.66,4.32,13275,135.6,7.54,632.77,-30.13
 2021-02-17,São Paulo,Palmares Paulista,45.2,6,0,0.0,572,20,3.5,4308.85,150.66,4.31,13275,128.06,15.07,662.9,45.2

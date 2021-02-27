@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-24,Paraíba,Riacho dos Cavalos,23.46,2,0,0.0,345,8,2.32,4046.45,93.83,4.05,8526,222.86,23.46,1407.47,23.46
+2021-02-25,Paraíba,Riacho dos Cavalos,0.0,0,0,0.0,345,8,2.32,4046.45,93.83,4.05,8526,175.94,-11.73,1325.37,-11.73
+2021-02-24,Paraíba,Riacho dos Cavalos,23.46,2,0,0.0,345,8,2.32,4046.45,93.83,4.05,8526,187.67,-11.73,1337.1,-46.91
+2021-02-23,Paraíba,Riacho dos Cavalos,0.0,0,0,0.0,343,8,2.33,4022.99,93.83,4.02,8526,199.4,0.0,1384.01,0.0
 2021-02-22,Paraíba,Riacho dos Cavalos,11.73,1,0,0.0,343,8,2.33,4022.99,93.83,4.02,8526,199.4,0.0,1384.01,-93.83
 2021-02-21,Paraíba,Riacho dos Cavalos,105.56,9,0,0.0,342,8,2.34,4011.26,93.83,4.01,8526,199.4,11.73,1477.84,-387.05
 2021-02-20,Paraíba,Riacho dos Cavalos,35.19,3,0,0.0,333,8,2.4,3905.7,93.83,3.91,8526,187.67,35.19,1864.89,23.46
