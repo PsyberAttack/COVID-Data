@@ -1,6 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-25,São Paulo,Cândido Rodrigues,71.61,2,0,0.0,80,1,1.25,2864.3,35.8,2.86,2793,179.02,71.61,393.83,71.61
+2021-02-26,São Paulo,Cândido Rodrigues,35.8,1,0,0.0,81,1,1.23,2900.11,35.8,2.9,2793,214.81,35.8,393.82,0.0
+2021-02-25,São Paulo,Cândido Rodrigues,35.8,1,0,0.0,80,1,1.25,2864.3,35.8,2.86,2793,179.01,35.8,393.82,35.8
+2021-02-24,São Paulo,Cândido Rodrigues,35.8,1,0,0.0,79,1,1.27,2828.5,35.8,2.83,2793,143.21,35.8,358.02,35.8
 2021-02-23,São Paulo,Cândido Rodrigues,107.41,3,0,0.0,78,1,1.28,2792.7,35.8,2.79,2793,107.41,107.41,322.22,107.41
+2021-02-22,São Paulo,Cândido Rodrigues,0.0,0,0,0.0,75,1,1.33,2685.28,35.8,2.69,2793,-0.0,0.0,214.81,0.0
 2021-02-21,São Paulo,Cândido Rodrigues,0.0,0,0,0.0,75,1,1.33,2685.28,35.8,2.69,2793,-0.0,0.0,214.81,0.0
 2021-02-20,São Paulo,Cândido Rodrigues,0.0,0,0,0.0,75,1,1.33,2685.28,35.8,2.69,2793,-0.0,-35.8,214.81,0.0
 2021-02-19,São Paulo,Cândido Rodrigues,0.0,0,0,0.0,75,1,1.33,2685.28,35.8,2.69,2793,35.8,-71.61,214.81,0.0

@@ -1,6 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-25,São Paulo,Santo Antônio do Pinhal,14.68,1,0,0.0,249,3,1.2,3655.85,44.05,3.66,6811,88.08,14.68,543.23,14.68
+2021-02-26,São Paulo,Santo Antônio do Pinhal,88.09,6,0,0.0,255,3,1.18,3743.94,44.05,3.74,6811,146.81,58.73,543.23,44.04
+2021-02-25,São Paulo,Santo Antônio do Pinhal,14.68,1,0,0.0,249,3,1.2,3655.85,44.05,3.66,6811,88.08,14.68,499.19,0.0
+2021-02-24,São Paulo,Santo Antônio do Pinhal,0.0,0,0,0.0,248,3,1.21,3641.17,44.05,3.64,6811,73.4,0.0,499.19,-29.36
 2021-02-23,São Paulo,Santo Antônio do Pinhal,29.36,2,0,0.0,248,3,1.21,3641.17,44.05,3.64,6811,73.4,29.36,528.55,29.36
+2021-02-22,São Paulo,Santo Antônio do Pinhal,0.0,0,0,0.0,246,3,1.22,3611.8,44.05,3.61,6811,44.04,0.0,499.19,0.0
 2021-02-21,São Paulo,Santo Antônio do Pinhal,0.0,0,0,0.0,246,3,1.22,3611.8,44.05,3.61,6811,44.04,0.0,499.19,-14.68
 2021-02-20,São Paulo,Santo Antônio do Pinhal,14.68,1,0,0.0,246,3,1.22,3611.8,44.05,3.61,6811,44.04,-29.37,513.87,-58.73
 2021-02-19,São Paulo,Santo Antônio do Pinhal,29.36,2,0,0.0,245,3,1.22,3597.12,44.05,3.6,6811,73.41,-14.69,572.6,-117.46

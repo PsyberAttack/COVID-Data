@@ -1,6 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-25,São Paulo,Vargem Grande Paulista,13.31,7,1,1.9,1209,39,3.23,2298.61,74.15,2.3,52597,142.59,5.71,465.76,0.0
-2021-02-23,São Paulo,Vargem Grande Paulista,28.52,15,0,0.0,1202,38,3.16,2285.3,72.25,2.29,52597,136.88,26.62,465.76,22.82
+2021-02-26,São Paulo,Vargem Grande Paulista,3.8,2,0,0.0,1211,39,3.22,2302.41,74.15,2.3,52597,55.13,-76.05,441.03,-9.51
+2021-02-25,São Paulo,Vargem Grande Paulista,7.6,4,0,0.0,1209,39,3.23,2298.61,74.15,2.3,52597,131.18,0.0,450.54,3.8
+2021-02-24,São Paulo,Vargem Grande Paulista,5.7,3,1,1.9,1205,39,3.24,2291.01,74.15,2.29,52597,131.18,1.9,446.74,-5.71
+2021-02-23,São Paulo,Vargem Grande Paulista,15.21,8,0,0.0,1202,38,3.16,2285.3,72.25,2.29,52597,129.28,7.61,452.45,1.9
+2021-02-22,São Paulo,Vargem Grande Paulista,13.31,7,0,0.0,1194,38,3.18,2270.09,72.25,2.27,52597,121.67,11.41,450.55,7.61
 2021-02-21,São Paulo,Vargem Grande Paulista,0.0,0,0,0.0,1187,38,3.2,2256.78,72.25,2.26,52597,110.26,-1.9,442.94,-9.51
 2021-02-20,São Paulo,Vargem Grande Paulista,9.51,5,0,0.0,1187,38,3.2,2256.78,72.25,2.26,52597,112.16,1.91,452.45,-3.8
 2021-02-19,São Paulo,Vargem Grande Paulista,79.85,42,0,0.0,1182,38,3.21,2247.28,72.25,2.25,52597,110.25,64.64,456.25,68.44

@@ -1,6 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-25,São Paulo,Espírito Santo do Turvo,20.71,1,0,0.0,144,1,0.69,2981.98,20.71,2.98,4829,186.37,20.71,1221.77,0.0
-2021-02-23,São Paulo,Espírito Santo do Turvo,62.12,3,0,0.0,143,1,0.7,2961.28,20.71,2.96,4829,165.66,62.12,1221.77,41.41
+2021-02-26,São Paulo,Espírito Santo do Turvo,0.0,0,0,0.0,144,1,0.69,2981.98,20.71,2.98,4829,82.83,-41.42,724.78,-310.62
+2021-02-25,São Paulo,Espírito Santo do Turvo,20.71,1,0,0.0,144,1,0.69,2981.98,20.71,2.98,4829,124.25,-41.41,1035.4,-41.41
+2021-02-24,São Paulo,Espírito Santo do Turvo,0.0,0,0,0.0,143,1,0.7,2961.28,20.71,2.96,4829,165.66,0.0,1076.81,-124.25
+2021-02-23,São Paulo,Espírito Santo do Turvo,62.12,3,0,0.0,143,1,0.7,2961.28,20.71,2.96,4829,165.66,62.12,1201.06,41.41
+2021-02-22,São Paulo,Espírito Santo do Turvo,0.0,0,0,0.0,140,1,0.71,2899.15,20.71,2.9,4829,103.54,0.0,1159.65,-20.71
 2021-02-21,São Paulo,Espírito Santo do Turvo,0.0,0,0,0.0,140,1,0.71,2899.15,20.71,2.9,4829,103.54,0.0,1180.36,0.0
 2021-02-20,São Paulo,Espírito Santo do Turvo,0.0,0,0,0.0,140,1,0.71,2899.15,20.71,2.9,4829,103.54,-62.12,1180.36,0.0
 2021-02-19,São Paulo,Espírito Santo do Turvo,41.42,2,0,0.0,140,1,0.71,2899.15,20.71,2.9,4829,165.66,20.71,1180.36,0.0
