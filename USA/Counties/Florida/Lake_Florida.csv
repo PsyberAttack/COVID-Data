@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-03-01,Florida,Lake,6.73,24,1,0.28,24635,560.0,2.27,6910.34,157.08,6.91,356495,374.98,169.71,-7.86,777.33,-4.49
 2021-02-28,Florida,Lake,20.48,73,4,1.12,24611,559.0,2.27,6903.6,156.8,6.9,356495,374.98,177.57,-0.56,781.82,-15.14
 2021-02-27,Florida,Lake,26.09,93,1,0.28,24538,555.0,2.26,6883.13,155.68,6.88,356495,374.98,178.13,-6.73,796.96,-26.08
 2021-02-26,Florida,Lake,28.89,103,10,2.81,24445,554.0,2.27,6857.04,155.4,6.86,356495,374.98,184.86,12.62,823.04,-18.24

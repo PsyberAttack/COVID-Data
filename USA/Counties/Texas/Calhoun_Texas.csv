@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-03-01,Texas,Calhoun,0.0,0,0,0.0,1996,20.0,1.0,9257.46,92.76,9.26,21561,42.54,1187.33,0.0,1892.3,0.0
 2021-02-28,Texas,Calhoun,23.19,5,1,4.64,1996,20.0,1.0,9257.46,92.76,9.26,21561,42.54,1187.33,23.19,1892.3,23.19
 2021-02-27,Texas,Calhoun,0.0,0,2,9.28,1991,19.0,0.95,9234.27,88.12,9.23,21561,42.54,1164.14,0.0,1869.11,-176.24
 2021-02-26,Texas,Calhoun,27.83,6,1,4.64,1991,17.0,0.85,9234.27,78.85,9.23,21561,42.54,1164.14,4.64,2045.35,-4.64

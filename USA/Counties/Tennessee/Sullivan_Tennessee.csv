@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-03-01,Tennessee,Sullivan,11.42,18,0,0.0,14336,273.0,1.9,9092.52,173.15,9.09,157668,381.4,135.73,1.91,657.7,0.0
 2021-02-28,Tennessee,Sullivan,8.25,13,0,0.0,14318,273.0,1.91,9081.11,173.15,9.08,157668,381.4,133.82,-3.8,657.7,-25.36
 2021-02-27,Tennessee,Sullivan,25.37,40,0,0.0,14305,273.0,1.91,9072.86,173.15,9.07,157668,381.4,137.62,-4.44,683.06,9.51
 2021-02-26,Tennessee,Sullivan,16.49,26,0,0.0,14265,273.0,1.91,9047.49,173.15,9.05,157668,381.4,142.06,-20.3,673.55,-43.13

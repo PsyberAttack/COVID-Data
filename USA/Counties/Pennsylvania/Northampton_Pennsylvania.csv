@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-03-01,Pennsylvania,Northampton,13.45,41,0,0.0,26855,644.0,2.4,8810.49,211.28,8.81,304807,824.59,212.27,-7.87,1072.8,-33.14
 2021-02-28,Pennsylvania,Northampton,21.98,67,1,0.33,26814,644.0,2.4,8797.04,211.28,8.8,304807,824.59,220.14,-5.91,1105.94,-20.01
 2021-02-27,Pennsylvania,Northampton,27.89,85,0,0.0,26747,643.0,2.4,8775.06,210.95,8.78,304807,824.59,226.05,-4.26,1125.95,-31.16
 2021-02-26,Pennsylvania,Northampton,37.07,113,4,1.31,26662,643.0,2.41,8747.17,210.95,8.75,304807,824.59,230.31,-3.28,1157.11,-109.91
