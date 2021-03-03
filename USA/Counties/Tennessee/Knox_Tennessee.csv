@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-03-02,Tennessee,Knox,15.04,70,-1,-0.21,47035,581.0,1.24,10108.77,124.87,10.11,465289,915.33,159.03,0.43,840.35,-7.74
 2021-03-01,Tennessee,Knox,15.69,73,1,0.21,46965,582.0,1.24,10093.73,125.08,10.09,465289,915.33,158.6,-6.02,848.09,-36.32
 2021-02-28,Tennessee,Knox,21.49,100,2,0.43,46892,581.0,1.24,10078.04,124.87,10.08,465289,915.33,164.62,-4.52,884.41,-7.95
 2021-02-27,Tennessee,Knox,47.28,220,1,0.21,46792,579.0,1.24,10056.55,124.44,10.06,465289,915.33,169.14,15.26,892.36,10.74

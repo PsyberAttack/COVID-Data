@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-03-02,Maryland,Worcester,5.79,3,1,1.93,3270,93.0,2.84,6309.94,179.46,6.31,51823,110.66,69.48,-1.93,355.11,0.0
 2021-03-01,Maryland,Worcester,1.93,1,0,0.0,3267,92.0,2.82,6304.15,177.53,6.3,51823,110.66,71.41,-1.93,355.11,-9.65
 2021-02-28,Maryland,Worcester,5.79,3,0,0.0,3266,92.0,2.82,6302.22,177.53,6.3,51823,110.66,73.34,3.86,364.76,-32.8
 2021-02-27,Maryland,Worcester,7.72,4,0,0.0,3263,92.0,2.82,6296.43,177.53,6.3,51823,110.66,69.48,-3.86,397.56,-28.94

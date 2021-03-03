@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-03-02,Alabama,Jackson,15.46,8,1,1.93,6503,103.0,1.58,12569.58,199.09,12.57,51736,47.99,102.44,0.0,481.27,9.66
 2021-03-01,Alabama,Jackson,5.8,3,0,0.0,6495,102.0,1.57,12554.12,197.15,12.55,51736,47.99,102.44,-1.93,471.61,-5.8
 2021-02-28,Alabama,Jackson,9.66,5,0,0.0,6492,102.0,1.57,12548.32,197.15,12.55,51736,47.99,104.37,-9.67,477.41,-77.32
 2021-02-27,Alabama,Jackson,7.73,4,0,0.0,6487,102.0,1.57,12538.66,197.15,12.54,51736,47.99,114.04,0.0,554.73,7.73
