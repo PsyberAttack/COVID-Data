@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-03-02,Bahia,Cafarnaum,5.42,1,0,0.0,675,11,1.63,3661.12,59.66,3.66,18437,21.69,5.42,341.7,0.0
+2021-03-01,Bahia,Cafarnaum,0.0,0,1,5.42,674,11,1.63,3655.69,59.66,3.66,18437,16.27,-10.85,341.7,-54.24
 2021-02-28,Bahia,Cafarnaum,0.0,0,0,0.0,674,10,1.48,3655.69,54.24,3.66,18437,27.12,-10.85,395.94,-10.85
 2021-02-27,Bahia,Cafarnaum,0.0,0,0,0.0,674,10,1.48,3655.69,54.24,3.66,18437,37.97,0.0,406.79,-32.54
 2021-02-26,Bahia,Cafarnaum,16.27,3,0,0.0,674,10,1.48,3655.69,54.24,3.66,18437,37.97,10.85,439.33,5.42

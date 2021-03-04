@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-03-02,Bahia,Boquira,0.0,0,0,0.0,330,5,1.52,1534.31,23.25,1.53,21508,55.8,-4.65,74.4,0.0
+2021-03-01,Bahia,Boquira,4.65,1,0,0.0,330,5,1.52,1534.31,23.25,1.53,21508,60.45,0.0,74.4,4.65
 2021-02-28,Bahia,Boquira,13.95,3,0,0.0,329,5,1.52,1529.66,23.25,1.53,21508,60.45,13.95,69.75,13.95
 2021-02-27,Bahia,Boquira,13.95,3,0,0.0,326,5,1.53,1515.72,23.25,1.52,21508,46.5,13.95,55.8,9.3
 2021-02-26,Bahia,Boquira,18.6,4,0,0.0,323,5,1.55,1501.77,23.25,1.5,21508,32.55,13.95,46.5,18.6

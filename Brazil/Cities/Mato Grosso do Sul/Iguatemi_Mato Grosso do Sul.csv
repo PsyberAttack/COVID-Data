@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-26,Mato Grosso do Sul,Iguatemi,62.2,10,0,0.0,637,7,1.1,3961.94,43.54,3.96,16078,223.92,-18.66,727.74,62.2
-2021-02-25,Mato Grosso do Sul,Iguatemi,87.08,14,1,6.22,627,7,1.12,3899.74,43.54,3.9,16078,242.58,87.08,665.54,80.86
+2021-02-26,Mato Grosso do Sul,Iguatemi,62.2,10,0,0.0,637,7,1.1,3961.94,43.54,3.96,16078,223.91,62.2,659.31,-6.22
+2021-02-25,Mato Grosso do Sul,Iguatemi,99.51,16,1,6.22,627,7,1.12,3899.74,43.54,3.9,16078,161.71,18.65,665.53,99.51
+2021-02-20,Mato Grosso do Sul,Iguatemi,-12.44,-2,0,0.0,611,6,0.98,3800.22,37.32,3.8,16078,143.06,-12.44,566.02,-18.66
 2021-02-19,Mato Grosso do Sul,Iguatemi,-6.22,-1,0,0.0,613,6,0.98,3812.66,37.32,3.81,16078,155.5,-43.54,584.68,-68.42
 2021-02-18,Mato Grosso do Sul,Iguatemi,24.88,4,0,0.0,614,6,0.98,3818.88,37.32,3.82,16078,199.04,24.88,653.1,24.88
 2021-02-17,Mato Grosso do Sul,Iguatemi,43.54,7,1,6.22,610,6,0.98,3794.0,37.32,3.79,16078,174.16,49.76,628.22,37.32

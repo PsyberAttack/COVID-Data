@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-03-02,Espírito Santo,Afonso Cláudio,88.28,27,0,0.0,2514,41,1.63,8219.45,134.05,8.22,30586,425.04,49.05,1673.98,39.24
+2021-02-28,Espírito Santo,Afonso Cláudio,49.04,15,0,0.0,2487,41,1.65,8131.17,134.05,8.13,30586,375.99,39.23,1634.74,35.96
+2021-02-27,Espírito Santo,Afonso Cláudio,49.04,15,0,0.0,2472,41,1.66,8082.13,134.05,8.08,30586,336.76,16.35,1598.78,-16.35
+2021-02-25,Espírito Santo,Afonso Cláudio,78.47,24,1,3.27,2457,41,1.67,8033.09,134.05,8.03,30586,320.41,16.35,1615.13,32.7
 2021-02-24,Espírito Santo,Afonso Cláudio,75.2,23,0,0.0,2433,40,1.64,7954.62,130.78,7.95,30586,304.06,-29.42,1582.43,58.85
 2021-02-23,Espírito Santo,Afonso Cláudio,65.39,20,1,3.27,2410,40,1.66,7879.42,130.78,7.88,30586,333.48,49.04,1523.58,-94.81
 2021-02-22,Espírito Santo,Afonso Cláudio,19.62,6,0,0.0,2390,39,1.63,7814.03,127.51,7.81,30586,284.44,13.08,1618.39,16.35

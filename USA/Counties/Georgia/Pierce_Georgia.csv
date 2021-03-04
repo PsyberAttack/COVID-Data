@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-03-03,Georgia,Pierce,25.79,5,0,0.0,2335,51.0,2.18,12042.91,263.04,12.04,19389,56.95,149.59,-15.47,686.01,-15.47
 2021-03-02,Georgia,Pierce,36.1,7,1,5.16,2330,51.0,2.19,12017.12,263.04,12.02,19389,56.95,165.06,10.31,701.48,25.78
 2021-03-01,Georgia,Pierce,5.16,1,0,0.0,2323,50.0,2.15,11981.02,257.88,11.98,19389,56.95,154.75,5.16,675.7,-25.79
 2021-02-28,Georgia,Pierce,10.32,2,0,0.0,2322,50.0,2.15,11975.86,257.88,11.98,19389,56.95,149.59,10.32,701.49,0.0

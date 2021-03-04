@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-03-01,Rondônia,Santa Luzia D'Oeste,15.4,1,0,0.0,548,5,0.91,8437.26,76.98,8.44,6495,246.35,-261.74,1262.54,15.4
+2021-02-28,Rondônia,Santa Luzia D'Oeste,0.0,0,0,0.0,547,5,0.91,8421.86,76.98,8.42,6495,508.09,0.0,1247.14,-15.4
+2021-02-27,Rondônia,Santa Luzia D'Oeste,0.0,0,0,0.0,547,5,0.91,8421.86,76.98,8.42,6495,508.09,0.0,1262.54,-200.15
+2021-02-26,Rondônia,Santa Luzia D'Oeste,30.79,2,-1,-15.4,547,5,0.91,8421.86,76.98,8.42,6495,508.09,30.79,1462.69,-46.19
 2021-02-25,Rondônia,Santa Luzia D'Oeste,92.38,6,0,0.0,545,6,1.1,8391.07,92.38,8.39,6495,477.3,30.79,1508.88,-200.15
 2021-02-24,Rondônia,Santa Luzia D'Oeste,46.19,3,2,30.79,539,6,1.11,8298.69,92.38,8.3,6495,446.51,30.79,1709.03,-184.76
 2021-02-23,Rondônia,Santa Luzia D'Oeste,61.59,4,0,0.0,536,4,0.75,8252.5,61.59,8.25,6495,415.72,-184.75,1893.79,61.59

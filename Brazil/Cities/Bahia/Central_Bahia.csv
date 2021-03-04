@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-03-02,Bahia,Central,0.0,0,0,0.0,244,6,2.46,1413.18,34.75,1.41,17266,57.92,0.0,98.46,0.0
+2021-03-01,Bahia,Central,17.38,3,0,0.0,244,6,2.46,1413.18,34.75,1.41,17266,57.92,-5.79,98.46,11.59
 2021-02-28,Bahia,Central,5.79,1,0,0.0,241,6,2.49,1395.81,34.75,1.4,17266,63.71,0.0,86.87,-11.59
 2021-02-27,Bahia,Central,17.38,3,0,0.0,240,6,2.5,1390.02,34.75,1.39,17266,63.71,17.38,98.46,17.38
 2021-02-26,Bahia,Central,5.79,1,0,0.0,237,6,2.53,1372.64,34.75,1.37,17266,46.33,5.79,81.08,5.79

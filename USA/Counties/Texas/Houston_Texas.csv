@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-03-03,Texas,Houston,12.95,3,0,0.0,1549,42.0,2.71,6685.66,181.28,6.69,23169,18.82,51.8,17.27,375.52,-12.95
 2021-03-02,Texas,Houston,12.95,3,0,0.0,1546,42.0,2.72,6672.71,181.28,6.67,23169,18.82,34.53,12.95,388.47,-30.21
 2021-03-01,Texas,Houston,0.0,0,0,0.0,1543,42.0,2.72,6659.76,181.28,6.66,23169,18.82,21.58,-4.32,418.68,-34.53
 2021-02-28,Texas,Houston,0.0,0,1,4.32,1543,42.0,2.72,6659.76,181.28,6.66,23169,18.82,25.9,-4.32,453.21,-4.32

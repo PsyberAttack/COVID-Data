@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-03-02,Bahia,Santa Luzia,7.94,1,0,0.0,729,12,1.65,5787.09,95.26,5.79,12597,158.78,-206.4,508.08,-71.44
+2021-03-01,Bahia,Santa Luzia,0.0,0,1,7.94,728,12,1.65,5779.15,95.26,5.78,12597,365.18,0.0,579.52,0.0
 2021-02-28,Bahia,Santa Luzia,15.88,2,0,0.0,728,11,1.51,5779.15,87.32,5.78,12597,365.18,15.88,579.52,15.88
 2021-02-27,Bahia,Santa Luzia,103.2,13,0,0.0,726,11,1.52,5763.28,87.32,5.76,12597,349.3,103.2,563.64,31.75
 2021-02-26,Bahia,Santa Luzia,7.94,1,0,0.0,713,11,1.54,5660.08,87.32,5.66,12597,246.1,7.94,531.89,0.0
