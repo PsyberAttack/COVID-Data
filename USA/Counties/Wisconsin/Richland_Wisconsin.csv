@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-03-04,Wisconsin,Richland,5.75,1,0,0.0,1323,15.0,1.13,7613.51,86.32,7.61,17377,29.65,23.0,0.0,293.42,-11.51
 2021-03-03,Wisconsin,Richland,11.51,2,0,0.0,1322,15.0,1.13,7607.76,86.32,7.61,17377,29.65,23.0,-5.75,304.93,0.0
 2021-03-02,Wisconsin,Richland,-11.51,-2,1,5.75,1320,15.0,1.14,7596.25,86.32,7.6,17377,29.65,28.75,-17.26,304.93,-23.02
 2021-03-01,Wisconsin,Richland,5.75,1,0,0.0,1322,14.0,1.06,7607.76,80.57,7.61,17377,29.65,46.01,-23.02,327.95,-5.76

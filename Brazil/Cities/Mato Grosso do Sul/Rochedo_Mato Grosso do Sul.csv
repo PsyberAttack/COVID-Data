@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-26,Mato Grosso do Sul,Rochedo,18.19,1,0,0.0,263,3,1.14,4782.69,54.56,4.78,5499,218.23,18.19,454.66,0.0
-2021-02-25,Mato Grosso do Sul,Rochedo,127.3,7,1,18.19,262,3,1.15,4764.5,54.56,4.76,5499,200.04,109.11,454.66,90.93
+2021-02-26,Mato Grosso do Sul,Rochedo,18.19,1,0,0.0,263,3,1.14,4782.69,54.56,4.78,5499,181.86,-18.18,454.66,18.19
+2021-02-25,Mato Grosso do Sul,Rochedo,127.3,7,1,18.19,262,3,1.15,4764.5,54.56,4.76,5499,200.04,127.3,436.47,109.11
+2021-02-21,Mato Grosso do Sul,Rochedo,0.0,0,0,0.0,255,2,0.78,4637.21,36.37,4.64,5499,72.74,-18.19,327.36,-36.37
 2021-02-20,Mato Grosso do Sul,Rochedo,0.0,0,0,0.0,255,2,0.78,4637.21,36.37,4.64,5499,90.93,0.0,363.73,0.0
 2021-02-19,Mato Grosso do Sul,Rochedo,0.0,0,0,0.0,255,2,0.78,4637.21,36.37,4.64,5499,90.93,-18.19,363.73,-72.74
 2021-02-18,Mato Grosso do Sul,Rochedo,-18.19,-1,0,0.0,255,2,0.78,4637.21,36.37,4.64,5499,109.12,-18.19,436.47,-18.19

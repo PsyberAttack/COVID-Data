@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-03-04,Louisiana,Catahoula,10.41,1,0,0.0,1057,35.0,3.31,11001.25,364.28,11.0,9608,13.57,41.64,0.0,322.66,52.04
 2021-03-03,Louisiana,Catahoula,-10.41,-1,1,10.41,1056,35.0,3.31,10990.84,364.28,10.99,9608,13.57,41.64,-62.45,270.62,-41.63
 2021-03-02,Louisiana,Catahoula,0.0,0,0,0.0,1057,34.0,3.22,11001.25,353.87,11.0,9608,13.57,104.09,0.0,312.25,-52.04
 2021-03-01,Louisiana,Catahoula,20.82,2,0,0.0,1057,34.0,3.22,11001.25,353.87,11.0,9608,13.57,104.09,10.41,364.29,62.45

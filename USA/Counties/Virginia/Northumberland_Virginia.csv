@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-03-04,Virginia,Northumberland,8.23,1,0,0.0,669,19.0,2.84,5507.53,156.42,5.51,12147,63.46,82.32,-8.23,600.94,-16.47
 2021-03-03,Virginia,Northumberland,-8.23,-1,1,8.23,668,19.0,2.84,5499.3,156.42,5.5,12147,63.46,90.55,-24.69,617.41,-16.46
 2021-03-02,Virginia,Northumberland,8.23,1,1,8.23,669,18.0,2.69,5507.53,148.18,5.51,12147,63.46,115.24,0.0,633.87,-24.7
 2021-03-01,Virginia,Northumberland,16.46,2,1,8.23,668,17.0,2.54,5499.3,139.95,5.5,12147,63.46,115.24,-16.47,658.57,-32.93

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-03-04,Texas,Jack,11.31,1,0,0.0,601,15.0,2.5,6796.34,169.63,6.8,8843,9.71,45.24,0.0,248.81,11.31
 2021-03-03,Texas,Jack,11.31,1,0,0.0,600,15.0,2.5,6785.03,169.63,6.79,8843,9.71,45.24,0.0,237.5,-11.31
 2021-03-02,Texas,Jack,0.0,0,0,0.0,599,15.0,2.5,6773.72,169.63,6.77,8843,9.71,45.24,11.31,248.81,-90.47
 2021-03-01,Texas,Jack,0.0,0,0,0.0,599,15.0,2.5,6773.72,169.63,6.77,8843,9.71,33.93,0.0,339.28,0.0
