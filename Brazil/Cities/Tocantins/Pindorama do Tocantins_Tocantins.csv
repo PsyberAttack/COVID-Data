@@ -1,10 +1,13 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-28,Tocantins,Pindorama do Tocantins,22.49,1,0,0.0,137,0,0.0,3080.73,0.0,3.08,4447,269.85,0.0,472.24,22.49
-2021-02-27,Tocantins,Pindorama do Tocantins,0.0,0,0,0.0,136,0,0.0,3058.24,0.0,3.06,4447,269.85,0.0,449.75,-89.95
-2021-02-26,Tocantins,Pindorama do Tocantins,89.95,4,0,0.0,136,0,0.0,3058.24,0.0,3.06,4447,269.85,67.46,539.7,22.49
-2021-02-25,Tocantins,Pindorama do Tocantins,44.97,2,0,0.0,132,0,0.0,2968.29,0.0,2.97,4447,202.39,44.97,517.21,44.97
-2021-02-24,Tocantins,Pindorama do Tocantins,0.0,0,0,0.0,130,0,0.0,2923.32,0.0,2.92,4447,157.42,0.0,472.24,-112.44
-2021-02-23,Tocantins,Pindorama do Tocantins,22.49,1,0,0.0,130,0,0.0,2923.32,0.0,2.92,4447,157.42,22.49,584.68,0.0
+2021-03-03,Tocantins,Pindorama do Tocantins,89.95,4,0,0.0,141,0,0.0,3170.68,0.0,3.17,4447,247.36,67.46,539.7,89.95
+2021-03-02,Tocantins,Pindorama do Tocantins,0.0,0,0,0.0,137,0,0.0,3080.73,0.0,3.08,4447,179.9,0.0,449.75,-22.49
+2021-02-28,Tocantins,Pindorama do Tocantins,22.49,1,0,0.0,137,0,0.0,3080.73,0.0,3.08,4447,179.9,-67.46,472.24,22.49
+2021-02-27,Tocantins,Pindorama do Tocantins,0.0,0,0,0.0,136,0,0.0,3058.24,0.0,3.06,4447,247.36,-22.49,449.75,0.0
+2021-02-26,Tocantins,Pindorama do Tocantins,89.95,4,0,0.0,136,0,0.0,3058.24,0.0,3.06,4447,269.85,89.95,449.75,0.0
+2021-02-25,Tocantins,Pindorama do Tocantins,44.97,2,0,0.0,132,0,0.0,2968.29,0.0,2.97,4447,179.9,22.48,449.75,-22.49
+2021-02-24,Tocantins,Pindorama do Tocantins,0.0,0,0,0.0,130,0,0.0,2923.32,0.0,2.92,4447,157.42,0.0,472.24,0.0
+2021-02-23,Tocantins,Pindorama do Tocantins,22.49,1,0,0.0,130,0,0.0,2923.32,0.0,2.92,4447,157.42,22.49,472.24,-89.95
+2021-02-22,Tocantins,Pindorama do Tocantins,0.0,0,0,0.0,129,0,0.0,2900.83,0.0,2.9,4447,134.93,0.0,562.19,-22.49
 2021-02-21,Tocantins,Pindorama do Tocantins,89.95,4,0,0.0,129,0,0.0,2900.83,0.0,2.9,4447,134.93,89.95,584.68,89.95
 2021-02-20,Tocantins,Pindorama do Tocantins,22.49,1,0,0.0,125,0,0.0,2810.88,0.0,2.81,4447,44.98,22.49,494.73,22.49
 2021-02-19,Tocantins,Pindorama do Tocantins,0.0,0,0,0.0,124,0,0.0,2788.4,0.0,2.79,4447,22.49,0.0,472.24,-179.9

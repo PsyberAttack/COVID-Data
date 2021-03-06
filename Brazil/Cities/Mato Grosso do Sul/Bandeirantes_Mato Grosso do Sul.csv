@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-26,Mato Grosso do Sul,Bandeirantes,73.66,5,0,0.0,338,6,1.78,4979.38,88.39,4.98,6788,795.53,58.93,1517.38,58.93
-2021-02-25,Mato Grosso do Sul,Bandeirantes,279.91,19,1,14.73,333,6,1.8,4905.72,88.39,4.91,6788,736.6,14.74,1458.45,250.45
+2021-02-26,Mato Grosso do Sul,Bandeirantes,73.66,5,0,0.0,338,6,1.78,4979.38,88.39,4.98,6788,589.28,-73.66,1517.38,73.66
+2021-02-25,Mato Grosso do Sul,Bandeirantes,58.93,4,1,14.73,333,6,1.8,4905.72,88.39,4.91,6788,662.94,0.0,1443.72,58.93
+2021-02-23,Mato Grosso do Sul,Bandeirantes,88.39,6,0,0.0,329,5,1.52,4846.79,73.66,4.85,6788,662.94,73.66,1384.79,73.66
+2021-02-22,Mato Grosso do Sul,Bandeirantes,132.59,9,0,0.0,323,5,1.55,4758.4,73.66,4.76,6788,589.28,-132.58,1311.13,103.13
 2021-02-21,Mato Grosso do Sul,Bandeirantes,0.0,0,0,0.0,314,5,1.59,4625.81,73.66,4.63,6788,721.86,0.0,1208.0,0.0
 2021-02-20,Mato Grosso do Sul,Bandeirantes,88.39,6,0,0.0,314,5,1.59,4625.81,73.66,4.63,6788,721.86,73.66,1208.0,88.39
 2021-02-19,Mato Grosso do Sul,Bandeirantes,147.32,10,1,14.73,308,5,1.62,4537.42,73.66,4.54,6788,648.2,0.0,1119.61,132.59

@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-26,Mato Grosso do Sul,Vicentina,16.39,1,0,0.0,361,10,2.77,5916.09,163.88,5.92,6102,81.95,0.0,524.44,-81.94
-2021-02-25,Mato Grosso do Sul,Vicentina,32.78,2,0,0.0,360,10,2.78,5899.71,163.88,5.9,6102,81.95,32.78,606.38,0.0
+2021-02-26,Mato Grosso do Sul,Vicentina,16.39,1,0,0.0,361,10,2.77,5916.09,163.88,5.92,6102,65.56,32.78,442.5,-81.94
+2021-02-25,Mato Grosso do Sul,Vicentina,32.78,2,0,0.0,360,10,2.78,5899.71,163.88,5.9,6102,32.78,0.0,524.44,49.17
+2021-02-23,Mato Grosso do Sul,Vicentina,0.0,0,0,0.0,358,10,2.79,5866.93,163.88,5.87,6102,32.78,-16.39,475.27,-98.33
+2021-02-22,Mato Grosso do Sul,Vicentina,0.0,0,0,0.0,358,10,2.79,5866.93,163.88,5.87,6102,49.17,0.0,573.6,-32.78
 2021-02-21,Mato Grosso do Sul,Vicentina,0.0,0,0,0.0,358,10,2.79,5866.93,163.88,5.87,6102,49.17,-49.16,606.38,0.0
 2021-02-20,Mato Grosso do Sul,Vicentina,0.0,0,0,0.0,358,10,2.79,5866.93,163.88,5.87,6102,98.33,0.0,606.38,0.0
 2021-02-19,Mato Grosso do Sul,Vicentina,16.39,1,0,0.0,358,10,2.79,5866.93,163.88,5.87,6102,98.33,16.39,606.38,16.39

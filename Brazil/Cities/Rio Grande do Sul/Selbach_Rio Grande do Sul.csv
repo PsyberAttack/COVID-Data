@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-03-04,Rio Grande do Sul,Selbach,78.43,4,0,0.0,314,10,3.18,6156.86,196.08,6.16,5100,176.47,-19.61,823.52,19.61
+2021-03-03,Rio Grande do Sul,Selbach,98.04,5,0,0.0,310,10,3.23,6078.43,196.08,6.08,5100,196.08,-58.82,803.91,98.04
+2021-03-02,Rio Grande do Sul,Selbach,-19.61,-1,0,0.0,305,10,3.28,5980.39,196.08,5.98,5100,254.9,-78.43,705.87,-19.61
+2021-03-01,Rio Grande do Sul,Selbach,19.61,1,0,0.0,306,10,3.27,6000.0,196.08,6.0,5100,333.33,19.61,725.48,19.61
 2021-02-27,Rio Grande do Sul,Selbach,0.0,0,0,0.0,305,10,3.28,5980.39,196.08,5.98,5100,313.72,0.0,705.87,-58.82
 2021-02-26,Rio Grande do Sul,Selbach,19.61,1,1,19.61,305,10,3.28,5980.39,196.08,5.98,5100,313.72,19.61,764.69,-19.61
 2021-02-25,Rio Grande do Sul,Selbach,-19.61,-1,0,0.0,304,9,2.96,5960.78,176.47,5.96,5100,294.11,-19.61,784.3,-19.61
