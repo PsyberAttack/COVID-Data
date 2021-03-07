@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-03,Tocantins,Cariri do Tocantins,22.82,1,0,0.0,372,6,1.61,8489.27,136.92,8.49,4382,296.66,-91.28,1597.4,-91.28
-2021-03-02,Tocantins,Cariri do Tocantins,91.28,4,1,22.82,371,6,1.62,8466.45,136.92,8.47,4382,387.94,91.28,1688.68,91.28
+2021-03-04,Tocantins,Cariri do Tocantins,91.28,4,0,0.0,376,6,1.6,8580.56,136.92,8.58,4382,319.48,22.82,1643.04,91.28
+2021-03-03,Tocantins,Cariri do Tocantins,22.82,1,0,0.0,372,6,1.61,8489.27,136.92,8.49,4382,296.66,22.82,1551.76,-22.82
+2021-03-02,Tocantins,Cariri do Tocantins,68.46,3,1,22.82,371,6,1.62,8466.45,136.92,8.47,4382,273.84,-45.64,1574.58,-45.64
+2021-03-01,Tocantins,Cariri do Tocantins,22.82,1,0,0.0,368,5,1.36,8397.99,114.1,8.4,4382,319.48,22.82,1620.22,22.82
 2021-02-28,Tocantins,Cariri do Tocantins,22.82,1,0,0.0,367,5,1.36,8375.17,114.1,8.38,4382,296.66,-91.28,1597.4,-22.82
 2021-02-27,Tocantins,Cariri do Tocantins,22.82,1,0,0.0,366,5,1.37,8352.35,114.1,8.35,4382,387.94,22.82,1620.22,22.82
 2021-02-26,Tocantins,Cariri do Tocantins,68.46,3,0,0.0,365,5,1.37,8329.53,114.1,8.33,4382,365.12,-45.64,1597.4,-136.93

@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-03,Tocantins,São Miguel do Tocantins,24.71,3,0,0.0,410,10,2.44,3377.54,82.38,3.38,12139,156.52,24.71,395.43,0.0
-2021-03-02,Tocantins,São Miguel do Tocantins,32.95,4,0,0.0,407,10,2.46,3352.83,82.38,3.35,12139,131.81,0.0,395.43,32.95
+2021-03-04,Tocantins,São Miguel do Tocantins,41.19,5,0,0.0,415,10,2.41,3418.73,82.38,3.42,12139,123.57,41.19,428.38,32.95
+2021-03-03,Tocantins,São Miguel do Tocantins,24.71,3,0,0.0,410,10,2.44,3377.54,82.38,3.38,12139,82.38,-49.43,395.43,24.71
+2021-03-02,Tocantins,São Miguel do Tocantins,32.95,4,0,0.0,407,10,2.46,3352.83,82.38,3.35,12139,131.81,32.95,370.72,8.24
+2021-03-01,Tocantins,São Miguel do Tocantins,0.0,0,0,0.0,403,10,2.48,3319.88,82.38,3.32,12139,98.86,-32.95,362.48,0.0
 2021-02-28,Tocantins,São Miguel do Tocantins,8.24,1,0,0.0,403,10,2.48,3319.88,82.38,3.32,12139,131.81,8.24,362.48,8.24
 2021-02-27,Tocantins,São Miguel do Tocantins,0.0,0,0,0.0,402,10,2.49,3311.64,82.38,3.31,12139,123.57,0.0,354.24,0.0
 2021-02-26,Tocantins,São Miguel do Tocantins,16.48,2,0,0.0,402,10,2.49,3311.64,82.38,3.31,12139,123.57,-8.23,354.24,16.48
