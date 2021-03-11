@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-08,Alagoas,Major Isidoro,20.2,4,0,0.0,491,10,2.04,2479.3,50.49,2.48,19804,35.35,0.0,136.35,20.2
+2021-03-09,Alagoas,Major Isidoro,10.1,2,0,0.0,493,10,2.03,2489.4,50.49,2.49,19804,35.35,5.05,141.4,10.1
+2021-03-08,Alagoas,Major Isidoro,20.2,4,0,0.0,491,10,2.04,2479.3,50.49,2.48,19804,30.3,15.15,131.3,15.15
+2021-03-07,Alagoas,Major Isidoro,0.0,0,0,0.0,487,10,2.05,2459.1,50.49,2.46,19804,15.15,-20.2,116.15,0.0
 2021-03-06,Alagoas,Major Isidoro,0.0,0,0,0.0,487,10,2.05,2459.1,50.49,2.46,19804,35.35,-10.1,116.15,0.0
 2021-03-05,Alagoas,Major Isidoro,10.1,2,0,0.0,487,10,2.05,2459.1,50.49,2.46,19804,45.45,-10.1,116.15,5.05
 2021-03-04,Alagoas,Major Isidoro,0.0,0,0,0.0,485,10,2.06,2449.0,50.49,2.45,19804,55.55,-5.05,111.1,0.0

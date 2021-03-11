@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-08,Alagoas,Lagoa da Canoa,5.6,1,0,0.0,626,15,2.4,3506.61,84.02,3.51,17852,16.8,5.6,78.41,5.6
+2021-03-09,Alagoas,Lagoa da Canoa,0.0,0,0,0.0,626,15,2.4,3506.61,84.02,3.51,17852,11.2,-5.6,72.81,-5.6
+2021-03-08,Alagoas,Lagoa da Canoa,0.0,0,0,0.0,626,15,2.4,3506.61,84.02,3.51,17852,16.8,0.0,78.41,0.0
+2021-03-07,Alagoas,Lagoa da Canoa,5.6,1,0,0.0,626,15,2.4,3506.61,84.02,3.51,17852,16.8,5.6,78.41,5.6
 2021-03-06,Alagoas,Lagoa da Canoa,0.0,0,0,0.0,625,15,2.4,3501.01,84.02,3.5,17852,11.2,0.0,72.81,0.0
 2021-03-05,Alagoas,Lagoa da Canoa,0.0,0,0,0.0,625,15,2.4,3501.01,84.02,3.5,17852,11.2,0.0,72.81,0.0
 2021-03-04,Alagoas,Lagoa da Canoa,5.6,1,1,5.6,625,15,2.4,3501.01,84.02,3.5,17852,11.2,5.6,72.81,5.6

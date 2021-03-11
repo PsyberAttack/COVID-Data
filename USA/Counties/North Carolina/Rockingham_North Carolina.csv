@@ -1,5 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-09,North Carolina,Rockingham,0.0,0,0,0.0,6912,61.0,0.88,7621.57,67.26,7.62,90690,160.33,67.26,-2.21,470.83,-34.18
+2021-03-10,North Carolina,Rockingham,4.41,4,0,0.0,6922,61.0,0.88,7632.59,67.26,7.63,90690,160.33,73.88,0.0,465.32,-12.13
+2021-03-09,North Carolina,Rockingham,6.62,6,0,0.0,6918,61.0,0.88,7628.18,67.26,7.63,90690,160.33,73.88,4.41,477.45,-27.56
 2021-03-08,North Carolina,Rockingham,9.92,9,0,0.0,6912,61.0,0.88,7621.57,67.26,7.62,90690,160.33,69.47,-18.75,505.01,-2.21
 2021-03-07,North Carolina,Rockingham,0.0,0,0,0.0,6903,61.0,0.88,7611.64,67.26,7.61,90690,160.33,88.22,0.0,507.22,-31.98
 2021-03-06,North Carolina,Rockingham,15.44,14,0,0.0,6903,61.0,0.88,7611.64,67.26,7.61,90690,160.33,88.22,-3.31,539.2,-15.43

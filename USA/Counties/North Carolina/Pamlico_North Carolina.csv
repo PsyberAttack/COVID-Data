@@ -1,5 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-09,North Carolina,Pamlico,0.0,0,0,0.0,975,10.0,1.03,7695.34,78.93,7.7,12670,37.65,110.51,-15.79,1183.9,-39.46
+2021-03-10,North Carolina,Pamlico,31.57,4,0,0.0,980,10.0,1.02,7734.81,78.93,7.73,12670,37.65,126.29,7.89,1144.43,-47.36
+2021-03-09,North Carolina,Pamlico,7.89,1,0,0.0,976,10.0,1.02,7703.24,78.93,7.7,12670,37.65,118.4,-7.9,1191.79,-31.57
 2021-03-08,North Carolina,Pamlico,23.68,3,0,0.0,975,10.0,1.03,7695.34,78.93,7.7,12670,37.65,126.3,-15.78,1223.36,15.79
 2021-03-07,North Carolina,Pamlico,0.0,0,0,0.0,972,10.0,1.03,7671.67,78.93,7.67,12670,37.65,142.08,0.0,1207.57,-86.82
 2021-03-06,North Carolina,Pamlico,-7.89,-1,0,0.0,972,10.0,1.03,7671.67,78.93,7.67,12670,37.65,142.08,-71.03,1294.39,-63.14

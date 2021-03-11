@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-02-26,Mato Grosso do Sul,Porto Murtinho,23.35,4,0,0.0,586,18,3.07,3420.7,105.07,3.42,17131,75.88,17.51,402.76,11.68
-2021-02-25,Mato Grosso do Sul,Porto Murtinho,23.35,4,1,5.84,582,18,3.09,3397.35,105.07,3.4,17131,58.37,17.51,391.08,29.19
+2021-02-28,Mato Grosso do Sul,Porto Murtinho,11.67,2,0,0.0,588,18,3.06,3432.37,105.07,3.43,17131,70.04,11.67,373.57,11.67
+2021-02-26,Mato Grosso do Sul,Porto Murtinho,23.35,4,0,0.0,586,18,3.07,3420.7,105.07,3.42,17131,58.37,5.84,361.9,-17.51
+2021-02-25,Mato Grosso do Sul,Porto Murtinho,17.51,3,1,5.84,582,18,3.09,3397.35,105.07,3.4,17131,52.53,11.67,379.41,5.84
+2021-02-24,Mato Grosso do Sul,Porto Murtinho,5.84,1,0,0.0,579,17,2.94,3379.84,99.24,3.38,17131,40.86,0.0,373.57,11.68
 2021-02-23,Mato Grosso do Sul,Porto Murtinho,0.0,0,0,0.0,578,17,2.94,3374.0,99.24,3.37,17131,40.86,-5.84,361.89,-5.84
 2021-02-22,Mato Grosso do Sul,Porto Murtinho,11.67,2,0,0.0,578,17,2.94,3374.0,99.24,3.37,17131,46.7,-70.05,367.73,0.0
 2021-02-21,Mato Grosso do Sul,Porto Murtinho,0.0,0,0,0.0,576,17,2.95,3362.33,99.24,3.36,17131,116.75,5.84,367.73,0.0
