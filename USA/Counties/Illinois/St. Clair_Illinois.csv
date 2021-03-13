@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-03-12,Illinois,St. Clair,19.54,51,1,0.38,28657,524.0,1.83,10977.21,200.72,10.98,261059,396.91,149.39,-0.76,587.99,-15.32
 2021-03-11,Illinois,St. Clair,27.96,73,2,0.77,28606,523.0,1.83,10957.68,200.34,10.96,261059,396.91,150.15,9.19,603.31,-6.13
 2021-03-10,Illinois,St. Clair,22.22,58,6,2.3,28533,521.0,1.83,10929.71,199.57,10.93,261059,396.91,140.96,1.92,609.44,-8.81
 2021-03-09,Illinois,St. Clair,16.47,43,0,0.0,28475,515.0,1.81,10907.5,197.27,10.91,261059,396.91,139.04,-1.15,618.25,-10.73

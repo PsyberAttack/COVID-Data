@@ -1,6 +1,8 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-10 00:00:00+00:00,Schleswig-Holstein,Dithmarschen,0.75,1,0,0.0,1352,40,2.96,1014.94,30.03,1.01,133210,12.0,-2.25,50.26,-1.5
-2021-03-09 00:00:00+00:00,Schleswig-Holstein,Dithmarschen,1.5,2,0,0.0,1351,40,2.96,1014.19,30.03,1.01,133210,14.25,0.0,51.76,-2.25
+2021-03-12 00:00:00+00:00,Schleswig-Holstein,Dithmarschen,3.75,5,0,0.0,1359,40,2.94,1020.19,30.03,1.02,133210,10.5,0.75,51.76,3.75
+2021-03-11 00:00:00+00:00,Schleswig-Holstein,Dithmarschen,0.0,0,0,0.0,1354,40,2.95,1016.44,30.03,1.02,133210,9.75,-3.75,48.01,-3.75
+2021-03-10 00:00:00+00:00,Schleswig-Holstein,Dithmarschen,1.5,2,0,0.0,1354,40,2.95,1016.44,30.03,1.02,133210,13.5,-1.5,51.76,-0.75
+2021-03-09 00:00:00+00:00,Schleswig-Holstein,Dithmarschen,2.25,3,0,0.0,1352,40,2.96,1014.94,30.03,1.01,133210,15.0,0.75,52.51,-1.5
 2021-03-08 00:00:00+00:00,Schleswig-Holstein,Dithmarschen,0.75,1,0,0.0,1349,40,2.97,1012.69,30.03,1.01,133210,14.25,-1.5,54.01,-1.5
 2021-03-07 00:00:00+00:00,Schleswig-Holstein,Dithmarschen,1.5,2,0,0.0,1348,40,2.97,1011.94,30.03,1.01,133210,15.75,0.75,55.51,-1.5
 2021-03-06 00:00:00+00:00,Schleswig-Holstein,Dithmarschen,0.75,1,0,0.0,1346,40,2.97,1010.43,30.03,1.01,133210,15.0,-0.75,57.01,-2.25
