@@ -1,8 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-12,São Paulo,Santa Cruz da Esperança,0.0,0,0,0.0,74,3,4.05,3459.56,140.25,3.46,2139,46.75,-93.5,327.25,0.0
-2021-03-11,São Paulo,Santa Cruz da Esperança,0.0,0,0,0.0,74,3,4.05,3459.56,140.25,3.46,2139,140.25,0.0,327.25,0.0
-2021-03-10,São Paulo,Santa Cruz da Esperança,46.75,1,0,0.0,74,3,4.05,3459.56,140.25,3.46,2139,140.25,46.75,327.25,0.0
-2021-03-09,São Paulo,Santa Cruz da Esperança,0.0,0,0,0.0,73,3,4.11,3412.81,140.25,3.41,2139,93.5,0.0,327.25,0.0
+2021-03-12,São Paulo,Santa Cruz da Esperança,0.0,0,0,0.0,74,3,4.05,3459.56,140.25,3.46,2139,46.75,0.0,140.25,-187.0
+2021-03-11,São Paulo,Santa Cruz da Esperança,0.0,0,0,0.0,74,3,4.05,3459.56,140.25,3.46,2139,46.75,-93.5,327.25,0.0
+2021-03-10,São Paulo,Santa Cruz da Esperança,46.75,1,0,0.0,74,3,4.05,3459.56,140.25,3.46,2139,140.25,46.75,327.25,46.75
+2021-03-09,São Paulo,Santa Cruz da Esperança,0.0,0,0,0.0,73,3,4.11,3412.81,140.25,3.41,2139,93.5,0.0,280.5,-46.75
+2021-03-08,São Paulo,Santa Cruz da Esperança,0.0,0,0,0.0,73,3,4.11,3412.81,140.25,3.41,2139,93.5,0.0,327.25,0.0
 2021-03-07,São Paulo,Santa Cruz da Esperança,0.0,0,0,0.0,73,3,4.11,3412.81,140.25,3.41,2139,93.5,0.0,327.25,0.0
 2021-03-06,São Paulo,Santa Cruz da Esperança,0.0,0,0,0.0,73,3,4.11,3412.81,140.25,3.41,2139,93.5,0.0,327.25,-280.5
 2021-03-05,São Paulo,Santa Cruz da Esperança,0.0,0,0,0.0,73,3,4.11,3412.81,140.25,3.41,2139,93.5,0.0,607.75,-841.51

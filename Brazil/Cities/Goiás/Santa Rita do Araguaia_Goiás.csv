@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-03-12,Goiás,Santa Rita do Araguaia,11.42,1,0,0.0,238,4,1.68,2718.14,45.68,2.72,8756,171.31,0.0,913.65,-22.84
+2021-03-11,Goiás,Santa Rita do Araguaia,-11.42,-1,0,0.0,237,4,1.69,2706.72,45.68,2.71,8756,171.31,-34.26,936.49,-22.84
 2021-03-10,Goiás,Santa Rita do Araguaia,0.0,0,0,0.0,238,4,1.68,2718.14,45.68,2.72,8756,205.57,-22.84,959.33,-11.42
 2021-03-09,Goiás,Santa Rita do Araguaia,22.84,2,0,0.0,238,4,1.68,2718.14,45.68,2.72,8756,228.41,-137.05,970.75,22.84
 2021-03-08,Goiás,Santa Rita do Araguaia,148.47,13,1,11.42,236,4,1.69,2695.29,45.68,2.7,8756,365.46,45.68,947.91,137.05

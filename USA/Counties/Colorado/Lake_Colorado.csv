@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-03-13,Colorado,Lake,0.0,0,-1,-12.78,671,0.0,0.0,8576.18,0.0,8.58,7824,20.76,127.8,0.0,639.03,-51.12
 2021-03-12,Colorado,Lake,12.78,1,1,12.78,671,1.0,0.15,8576.18,12.78,8.58,7824,20.76,127.8,0.0,690.15,-38.34
 2021-03-11,Colorado,Lake,12.78,1,0,0.0,670,0.0,0.0,8563.39,0.0,8.56,7824,20.76,127.8,12.78,728.49,-25.56
 2021-03-10,Colorado,Lake,25.56,2,0,0.0,669,0.0,0.0,8550.61,0.0,8.55,7824,20.76,115.02,38.34,754.05,-25.56
