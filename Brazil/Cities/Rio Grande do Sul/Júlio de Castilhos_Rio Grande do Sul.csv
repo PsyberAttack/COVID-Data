@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-14,Rio Grande do Sul,Júlio de Castilhos,51.83,10,0,0.0,991,10,1.01,5136.58,51.83,5.14,19293,658.27,15.55,1554.98,-10.37
-2021-03-13,Rio Grande do Sul,Júlio de Castilhos,114.03,22,2,10.37,981,10,1.02,5084.75,51.83,5.08,19293,642.72,20.73,1565.35,72.56
+2021-03-14,Rio Grande do Sul,Júlio de Castilhos,51.83,10,0,0.0,991,10,1.01,5136.58,51.83,5.14,19293,357.64,-191.78,1389.12,51.83
+2021-03-13,Rio Grande do Sul,Júlio de Castilhos,36.28,7,1,5.18,981,10,1.02,5084.75,51.83,5.08,19293,549.42,-20.74,1337.29,-129.58
+2021-03-12,Rio Grande do Sul,Júlio de Castilhos,25.92,5,0,0.0,974,9,0.92,5048.46,46.65,5.05,19293,570.16,-10.36,1466.87,-36.28
+2021-03-11,Rio Grande do Sul,Júlio de Castilhos,51.83,10,1,5.18,969,9,0.93,5022.55,46.65,5.02,19293,580.52,-41.47,1503.15,10.36
 2021-03-10,Rio Grande do Sul,Júlio de Castilhos,108.85,21,0,0.0,959,8,0.83,4970.71,41.47,4.97,19293,621.99,-36.28,1492.79,108.85
 2021-03-09,Rio Grande do Sul,Júlio de Castilhos,82.93,16,0,0.0,938,8,0.85,4861.87,41.47,4.86,19293,658.27,82.93,1383.94,82.93
 2021-03-08,Rio Grande do Sul,Júlio de Castilhos,0.0,0,0,0.0,922,8,0.87,4778.94,41.47,4.78,19293,575.34,-25.92,1301.01,-5.18

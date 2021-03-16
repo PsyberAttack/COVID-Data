@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-14,Rio Grande do Sul,Vicente Dutra,0.0,0,0,0.0,108,3,2.78,2312.63,64.24,2.31,4670,535.33,0.0,985.0,0.0
-2021-03-13,Rio Grande do Sul,Vicente Dutra,149.89,7,0,0.0,108,3,2.78,2312.63,64.24,2.31,4670,535.33,85.65,985.0,149.89
+2021-03-14,Rio Grande do Sul,Vicente Dutra,0.0,0,0,0.0,108,3,2.78,2312.63,64.24,2.31,4670,364.03,-85.65,985.0,0.0
+2021-03-13,Rio Grande do Sul,Vicente Dutra,149.89,7,0,0.0,108,3,2.78,2312.63,64.24,2.31,4670,449.68,64.24,985.0,149.89
+2021-03-12,Rio Grande do Sul,Vicente Dutra,0.0,0,0,0.0,101,3,2.97,2162.74,64.24,2.16,4670,385.44,0.0,835.11,0.0
+2021-03-11,Rio Grande do Sul,Vicente Dutra,0.0,0,0,0.0,101,3,2.97,2162.74,64.24,2.16,4670,385.44,-64.24,835.11,0.0
 2021-03-10,Rio Grande do Sul,Vicente Dutra,171.31,8,0,0.0,101,3,2.97,2162.74,64.24,2.16,4670,449.68,21.42,835.11,171.31
 2021-03-09,Rio Grande do Sul,Vicente Dutra,42.83,2,0,0.0,93,3,3.23,1991.43,64.24,1.99,4670,428.26,42.83,663.8,42.83
 2021-03-08,Rio Grande do Sul,Vicente Dutra,0.0,0,0,0.0,91,3,3.3,1948.61,64.24,1.95,4670,385.43,0.0,620.97,0.0

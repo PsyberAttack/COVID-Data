@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-14,Rio Grande do Sul,Coronel Pilar,0.0,0,0,0.0,70,1,1.43,4299.75,61.43,4.3,1628,614.26,0.0,737.12,0.0
+2021-03-14,Rio Grande do Sul,Coronel Pilar,0.0,0,0,0.0,70,1,1.43,4299.75,61.43,4.3,1628,552.83,-61.43,737.12,0.0
 2021-03-13,Rio Grande do Sul,Coronel Pilar,61.43,1,0,0.0,70,1,1.43,4299.75,61.43,4.3,1628,614.26,61.43,737.12,61.43
+2021-03-12,Rio Grande do Sul,Coronel Pilar,0.0,0,0,0.0,69,1,1.45,4238.33,61.43,4.24,1628,552.83,0.0,675.69,0.0
+2021-03-11,Rio Grande do Sul,Coronel Pilar,0.0,0,0,0.0,69,1,1.45,4238.33,61.43,4.24,1628,552.83,0.0,675.69,0.0
 2021-03-10,Rio Grande do Sul,Coronel Pilar,245.7,4,0,0.0,69,1,1.45,4238.33,61.43,4.24,1628,552.83,245.7,675.69,245.7
 2021-03-09,Rio Grande do Sul,Coronel Pilar,245.7,4,0,0.0,65,1,1.54,3992.63,61.43,3.99,1628,307.13,245.7,429.99,245.7
 2021-03-08,Rio Grande do Sul,Coronel Pilar,0.0,0,0,0.0,61,1,1.64,3746.93,61.43,3.75,1628,61.43,0.0,184.29,0.0

@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-14,Rio Grande do Sul,Manoel Viana,27.4,2,0,0.0,262,5,1.91,3589.53,68.5,3.59,7299,630.22,0.0,1096.02,27.4
-2021-03-13,Rio Grande do Sul,Manoel Viana,164.41,12,2,27.4,260,5,1.92,3562.13,68.5,3.56,7299,630.22,137.01,1068.62,178.11
+2021-03-14,Rio Grande do Sul,Manoel Viana,27.4,2,0,0.0,262,5,1.91,3589.53,68.5,3.59,7299,315.1,-246.61,986.41,0.0
+2021-03-13,Rio Grande do Sul,Manoel Viana,27.4,2,0,0.0,260,5,1.92,3562.13,68.5,3.56,7299,561.71,-13.7,986.41,-54.8
+2021-03-12,Rio Grande do Sul,Manoel Viana,27.4,2,0,0.0,258,5,1.94,3534.73,68.5,3.53,7299,575.41,0.0,1041.21,27.4
+2021-03-11,Rio Grande do Sul,Manoel Viana,109.6,8,2,27.4,256,5,1.95,3507.33,68.5,3.51,7299,575.41,82.2,1013.81,123.3
 2021-03-10,Rio Grande do Sul,Manoel Viana,82.2,6,0,0.0,248,3,1.21,3397.73,41.1,3.4,7299,493.21,82.2,890.51,82.2
 2021-03-09,Rio Grande do Sul,Manoel Viana,27.4,2,0,0.0,242,3,1.24,3315.52,41.1,3.32,7299,411.01,27.4,808.31,13.7
 2021-03-08,Rio Grande do Sul,Manoel Viana,13.7,1,0,0.0,240,3,1.25,3288.12,41.1,3.29,7299,383.61,13.7,794.61,-27.4

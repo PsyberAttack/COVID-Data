@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-14,Rio Grande do Sul,Dom Pedrito,114.4,44,0,0.0,1476,21,1.42,3837.65,54.6,3.84,38461,657.8,106.6,1651.0,114.4
-2021-03-13,Rio Grande do Sul,Dom Pedrito,85.8,33,2,5.2,1432,21,1.47,3723.25,54.6,3.72,38461,551.2,13.0,1536.6,52.0
+2021-03-14,Rio Grande do Sul,Dom Pedrito,114.4,44,0,0.0,1476,21,1.42,3837.65,54.6,3.84,38461,369.2,-101.4,1612.0,106.6
+2021-03-13,Rio Grande do Sul,Dom Pedrito,10.4,4,1,2.6,1432,21,1.47,3723.25,54.6,3.72,38461,470.6,-62.4,1505.4,-20.8
+2021-03-12,Rio Grande do Sul,Dom Pedrito,-5.2,-2,1,2.6,1428,20,1.4,3712.85,52.0,3.71,38461,533.0,-13.0,1526.2,-5.2
+2021-03-11,Rio Grande do Sul,Dom Pedrito,80.6,31,0,0.0,1430,19,1.33,3718.05,49.4,3.72,38461,546.0,7.8,1531.4,46.8
 2021-03-10,Rio Grande do Sul,Dom Pedrito,26.0,10,0,0.0,1399,19,1.36,3637.45,49.4,3.64,38461,538.2,-145.6,1484.6,-18.2
 2021-03-09,Rio Grande do Sul,Dom Pedrito,93.6,36,1,2.6,1389,19,1.37,3611.45,49.4,3.61,38461,683.8,59.8,1502.8,93.6
 2021-03-08,Rio Grande do Sul,Dom Pedrito,49.4,19,1,2.6,1353,18,1.33,3517.85,46.8,3.52,38461,624.0,-52.0,1409.2,15.6

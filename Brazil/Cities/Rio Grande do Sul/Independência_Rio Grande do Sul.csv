@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-14,Rio Grande do Sul,Independência,0.0,0,0,0.0,278,2,0.72,4507.86,32.43,4.51,6167,227.02,-16.22,778.35,-16.22
-2021-03-13,Rio Grande do Sul,Independência,113.51,7,0,0.0,278,2,0.72,4507.86,32.43,4.51,6167,243.24,48.65,794.57,64.86
+2021-03-14,Rio Grande do Sul,Independência,0.0,0,0,0.0,278,2,0.72,4507.86,32.43,4.51,6167,227.02,0.0,745.92,0.0
+2021-03-13,Rio Grande do Sul,Independência,0.0,0,0,0.0,278,2,0.72,4507.86,32.43,4.51,6167,227.02,0.0,745.92,-32.43
+2021-03-12,Rio Grande do Sul,Independência,64.86,4,0,0.0,278,2,0.72,4507.86,32.43,4.51,6167,227.02,48.64,778.35,48.64
+2021-03-11,Rio Grande do Sul,Independência,48.65,3,0,0.0,274,2,0.73,4443.0,32.43,4.44,6167,178.38,-16.21,729.71,0.0
 2021-03-10,Rio Grande do Sul,Independência,97.29,6,0,0.0,271,2,0.74,4394.36,32.43,4.39,6167,194.59,97.29,729.71,97.29
 2021-03-09,Rio Grande do Sul,Independência,16.22,1,0,0.0,265,2,0.75,4297.07,32.43,4.3,6167,97.3,-16.21,632.42,16.22
 2021-03-08,Rio Grande do Sul,Independência,0.0,0,0,0.0,264,2,0.76,4280.85,32.43,4.28,6167,113.51,-64.86,616.2,0.0

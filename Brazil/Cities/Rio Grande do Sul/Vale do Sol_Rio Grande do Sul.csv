@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-14,Rio Grande do Sul,Vale do Sol,0.0,0,0,0.0,119,5,4.2,1010.1,42.44,1.01,11781,322.56,-8.49,483.84,0.0
-2021-03-13,Rio Grande do Sul,Vale do Sol,59.42,7,1,8.49,119,5,4.2,1010.1,42.44,1.01,11781,331.05,59.42,483.84,50.93
+2021-03-14,Rio Grande do Sul,Vale do Sol,0.0,0,0,0.0,119,5,4.2,1010.1,42.44,1.01,11781,220.7,-101.86,466.86,0.0
+2021-03-13,Rio Grande do Sul,Vale do Sol,0.0,0,0,0.0,119,5,4.2,1010.1,42.44,1.01,11781,322.56,0.0,466.86,-16.98
+2021-03-12,Rio Grande do Sul,Vale do Sol,42.44,5,0,0.0,119,5,4.2,1010.1,42.44,1.01,11781,322.56,33.95,483.84,42.44
+2021-03-11,Rio Grande do Sul,Vale do Sol,16.98,2,1,8.49,114,5,4.39,967.66,42.44,0.97,11781,288.61,16.98,441.4,8.49
 2021-03-10,Rio Grande do Sul,Vale do Sol,8.49,1,0,0.0,112,4,3.57,950.68,33.95,0.95,11781,271.63,8.49,432.91,8.49
 2021-03-09,Rio Grande do Sul,Vale do Sol,152.79,18,0,0.0,111,4,3.6,942.2,33.95,0.94,11781,263.14,144.3,424.42,152.79
 2021-03-08,Rio Grande do Sul,Vale do Sol,0.0,0,0,0.0,93,4,4.3,789.41,33.95,0.79,11781,118.84,-8.49,271.63,0.0

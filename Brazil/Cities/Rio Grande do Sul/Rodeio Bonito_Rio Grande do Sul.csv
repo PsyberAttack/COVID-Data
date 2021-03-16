@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-14,Rio Grande do Sul,Rodeio Bonito,0.0,0,0,0.0,309,3,0.97,5266.75,51.13,5.27,5867,1397.65,0.0,2283.96,-34.09
-2021-03-13,Rio Grande do Sul,Rodeio Bonito,272.71,16,1,17.04,309,3,0.97,5266.75,51.13,5.27,5867,1397.65,272.71,2318.05,272.71
+2021-03-14,Rio Grande do Sul,Rodeio Bonito,0.0,0,0,0.0,309,3,0.97,5266.75,51.13,5.27,5867,664.74,-715.87,2283.96,0.0
+2021-03-13,Rio Grande do Sul,Rodeio Bonito,17.04,1,0,0.0,309,3,0.97,5266.75,51.13,5.27,5867,1380.61,0.0,2283.96,17.04
+2021-03-12,Rio Grande do Sul,Rodeio Bonito,255.67,15,0,0.0,308,3,0.97,5249.7,51.13,5.25,5867,1380.61,255.67,2266.92,221.58
+2021-03-11,Rio Grande do Sul,Rodeio Bonito,0.0,0,1,17.04,293,3,1.02,4994.03,51.13,4.99,5867,1124.94,0.0,2045.34,0.0
 2021-03-10,Rio Grande do Sul,Rodeio Bonito,323.85,19,0,0.0,293,2,0.68,4994.03,34.09,4.99,5867,1124.94,323.85,2045.34,323.85
 2021-03-09,Rio Grande do Sul,Rodeio Bonito,68.18,4,0,0.0,274,2,0.73,4670.19,34.09,4.67,5867,801.09,68.18,1721.49,68.18
 2021-03-08,Rio Grande do Sul,Rodeio Bonito,0.0,0,0,0.0,270,2,0.74,4602.01,34.09,4.6,5867,732.91,0.0,1653.31,-17.04

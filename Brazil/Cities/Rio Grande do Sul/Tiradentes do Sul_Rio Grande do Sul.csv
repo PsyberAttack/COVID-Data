@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-14,Rio Grande do Sul,Tiradentes do Sul,0.0,0,0,0.0,147,2,1.36,2577.14,35.06,2.58,5704,473.35,0.0,1244.73,0.0
-2021-03-13,Rio Grande do Sul,Tiradentes do Sul,210.38,12,0,0.0,147,2,1.36,2577.14,35.06,2.58,5704,473.35,122.72,1244.73,140.25
+2021-03-14,Rio Grande do Sul,Tiradentes do Sul,0.0,0,0,0.0,147,2,1.36,2577.14,35.06,2.58,5704,350.63,-105.19,1122.01,-70.13
+2021-03-13,Rio Grande do Sul,Tiradentes do Sul,87.66,5,0,0.0,147,2,1.36,2577.14,35.06,2.58,5704,455.82,70.13,1192.14,35.07
+2021-03-12,Rio Grande do Sul,Tiradentes do Sul,35.06,2,0,0.0,142,2,1.41,2489.48,35.06,2.49,5704,385.69,35.06,1157.07,35.06
+2021-03-11,Rio Grande do Sul,Tiradentes do Sul,87.66,5,0,0.0,140,2,1.43,2454.42,35.06,2.45,5704,350.63,0.0,1122.01,17.53
 2021-03-10,Rio Grande do Sul,Tiradentes do Sul,122.72,7,0,0.0,135,2,1.48,2366.76,35.06,2.37,5704,350.63,122.72,1104.48,122.72
 2021-03-09,Rio Grande do Sul,Tiradentes do Sul,17.53,1,0,0.0,128,2,1.56,2244.04,35.06,2.24,5704,227.91,-35.06,981.76,17.53
 2021-03-08,Rio Grande do Sul,Tiradentes do Sul,0.0,0,0,0.0,127,2,1.57,2226.51,35.06,2.23,5704,262.97,-17.53,964.23,-35.06

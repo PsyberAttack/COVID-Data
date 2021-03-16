@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-14,Rio Grande do Sul,Novo Machado,0.0,0,0,0.0,106,1,0.94,3189.89,30.09,3.19,3323,511.59,-120.37,2016.24,-30.09
-2021-03-13,Rio Grande do Sul,Novo Machado,150.47,5,0,0.0,106,1,0.94,3189.89,30.09,3.19,3323,631.96,-30.09,2046.33,90.28
+2021-03-14,Rio Grande do Sul,Novo Machado,0.0,0,0,0.0,106,1,0.94,3189.89,30.09,3.19,3323,300.94,-180.56,1775.5,-30.09
+2021-03-13,Rio Grande do Sul,Novo Machado,150.47,5,0,0.0,106,1,0.94,3189.89,30.09,3.19,3323,481.5,120.38,1805.59,-60.18
+2021-03-12,Rio Grande do Sul,Novo Machado,0.0,0,0,0.0,101,1,0.99,3039.42,30.09,3.04,3323,361.12,-120.37,1865.77,-30.09
+2021-03-11,Rio Grande do Sul,Novo Machado,0.0,0,0,0.0,101,1,0.99,3039.42,30.09,3.04,3323,481.49,-180.56,1895.86,-60.19
 2021-03-10,Rio Grande do Sul,Novo Machado,60.19,2,0,0.0,101,1,0.99,3039.42,30.09,3.04,3323,662.05,-30.09,1956.05,60.19
 2021-03-09,Rio Grande do Sul,Novo Machado,90.28,3,0,0.0,99,1,1.01,2979.24,30.09,2.98,3323,692.14,90.28,1895.86,90.28
 2021-03-08,Rio Grande do Sul,Novo Machado,0.0,0,0,0.0,96,1,1.04,2888.96,30.09,2.89,3323,601.86,0.0,1805.58,-30.09

@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-14,Rio Grande do Sul,Linha Nova,0.0,0,0,0.0,84,1,1.19,4900.82,58.34,4.9,1714,525.09,0.0,1691.96,0.0
-2021-03-13,Rio Grande do Sul,Linha Nova,116.69,2,0,0.0,84,1,1.19,4900.82,58.34,4.9,1714,525.09,116.69,1691.96,116.69
+2021-03-14,Rio Grande do Sul,Linha Nova,0.0,0,0,0.0,84,1,1.19,4900.82,58.34,4.9,1714,175.02,-350.06,1691.95,0.0
+2021-03-13,Rio Grande do Sul,Linha Nova,58.34,1,0,0.0,84,1,1.19,4900.82,58.34,4.9,1714,525.08,58.34,1691.95,58.34
+2021-03-12,Rio Grande do Sul,Linha Nova,58.34,1,0,0.0,83,1,1.2,4842.47,58.34,4.84,1714,466.74,58.34,1633.61,58.34
+2021-03-11,Rio Grande do Sul,Linha Nova,0.0,0,0,0.0,82,1,1.22,4784.13,58.34,4.78,1714,408.4,0.0,1575.27,0.0
 2021-03-10,Rio Grande do Sul,Linha Nova,0.0,0,0,0.0,82,1,1.22,4784.13,58.34,4.78,1714,408.4,0.0,1575.27,0.0
 2021-03-09,Rio Grande do Sul,Linha Nova,58.34,1,0,0.0,82,1,1.22,4784.13,58.34,4.78,1714,408.4,-991.84,1575.27,58.34
 2021-03-08,Rio Grande do Sul,Linha Nova,0.0,0,0,0.0,81,1,1.23,4725.79,58.34,4.73,1714,1400.24,0.0,1516.93,-58.34

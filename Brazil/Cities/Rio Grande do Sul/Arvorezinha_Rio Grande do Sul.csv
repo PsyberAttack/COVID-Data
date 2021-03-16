@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-14,Rio Grande do Sul,Arvorezinha,0.0,0,0,0.0,584,15,2.57,5602.46,143.9,5.6,10424,364.55,-47.97,2005.0,-57.56
-2021-03-13,Rio Grande do Sul,Arvorezinha,95.93,10,0,0.0,584,15,2.57,5602.46,143.9,5.6,10424,412.52,-57.56,2062.56,57.56
+2021-03-14,Rio Grande do Sul,Arvorezinha,0.0,0,0,0.0,584,15,2.57,5602.46,143.9,5.6,10424,201.47,-86.34,1985.82,0.0
+2021-03-13,Rio Grande do Sul,Arvorezinha,19.19,2,0,0.0,584,15,2.57,5602.46,143.9,5.6,10424,287.81,-57.56,1985.82,0.0
+2021-03-12,Rio Grande do Sul,Arvorezinha,57.56,6,0,0.0,582,15,2.58,5583.27,143.9,5.58,10424,345.37,9.59,1985.82,0.0
+2021-03-11,Rio Grande do Sul,Arvorezinha,19.19,2,0,0.0,576,15,2.6,5525.71,143.9,5.53,10424,335.78,-134.3,1985.82,-19.18
 2021-03-10,Rio Grande do Sul,Arvorezinha,47.97,5,0,0.0,574,15,2.61,5506.52,143.9,5.51,10424,470.08,47.97,2005.0,47.97
 2021-03-09,Rio Grande do Sul,Arvorezinha,57.56,6,1,9.59,569,15,2.64,5458.56,143.9,5.46,10424,422.11,-268.61,1957.03,57.56
 2021-03-08,Rio Grande do Sul,Arvorezinha,0.0,0,0,0.0,563,14,2.49,5401.0,134.31,5.4,10424,690.72,0.0,1899.47,0.0

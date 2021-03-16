@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-14,Rio Grande do Sul,Campos Borges,30.12,1,0,0.0,247,1,0.4,7439.76,30.12,7.44,3320,1536.14,-150.6,3132.51,-90.36
-2021-03-13,Rio Grande do Sul,Campos Borges,391.57,13,0,0.0,246,1,0.41,7409.64,30.12,7.41,3320,1686.74,361.45,3222.87,301.21
+2021-03-14,Rio Grande do Sul,Campos Borges,30.12,1,0,0.0,247,1,0.4,7439.76,30.12,7.44,3320,843.36,-572.29,3042.14,30.12
+2021-03-13,Rio Grande do Sul,Campos Borges,180.72,6,0,0.0,246,1,0.41,7409.64,30.12,7.41,3320,1415.65,90.36,3012.02,90.36
+2021-03-12,Rio Grande do Sul,Campos Borges,60.24,2,0,0.0,240,1,0.42,7228.92,30.12,7.23,3320,1325.29,-120.48,2921.66,-60.24
+2021-03-11,Rio Grande do Sul,Campos Borges,150.6,5,0,0.0,238,1,0.42,7168.67,30.12,7.17,3320,1445.77,120.48,2981.9,60.24
 2021-03-10,Rio Grande do Sul,Campos Borges,120.48,4,0,0.0,233,1,0.43,7018.07,30.12,7.02,3320,1325.29,120.48,2921.66,120.48
 2021-03-09,Rio Grande do Sul,Campos Borges,301.2,10,0,0.0,229,1,0.44,6897.59,30.12,6.9,3320,1204.81,120.48,2801.18,301.2
 2021-03-08,Rio Grande do Sul,Campos Borges,0.0,0,0,0.0,219,1,0.46,6596.39,30.12,6.6,3320,1084.33,-240.96,2499.98,-60.24

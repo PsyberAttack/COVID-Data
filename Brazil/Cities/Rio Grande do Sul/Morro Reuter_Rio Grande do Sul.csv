@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-14,Rio Grande do Sul,Morro Reuter,0.0,0,0,0.0,441,8,1.81,6883.1,124.86,6.88,6407,1123.78,-405.81,1935.4,-62.43
-2021-03-13,Rio Grande do Sul,Morro Reuter,702.36,45,0,0.0,441,8,1.81,6883.1,124.86,6.88,6407,1529.59,561.89,1997.83,624.32
+2021-03-14,Rio Grande do Sul,Morro Reuter,0.0,0,0,0.0,441,8,1.81,6883.1,124.86,6.88,6407,749.19,-171.69,1904.18,0.0
+2021-03-13,Rio Grande do Sul,Morro Reuter,0.0,0,0,0.0,441,8,1.81,6883.1,124.86,6.88,6407,920.88,-202.9,1904.18,-31.22
+2021-03-12,Rio Grande do Sul,Morro Reuter,374.59,24,0,0.0,441,8,1.81,6883.1,124.86,6.88,6407,1123.78,-31.22,1935.4,312.16
+2021-03-11,Rio Grande do Sul,Morro Reuter,327.77,21,0,0.0,417,8,1.92,6508.51,124.86,6.51,6407,1155.0,187.3,1623.24,249.73
 2021-03-10,Rio Grande do Sul,Morro Reuter,31.22,2,1,15.61,396,8,2.02,6180.74,124.86,6.18,6407,967.7,31.22,1373.51,15.61
 2021-03-09,Rio Grande do Sul,Morro Reuter,15.61,1,1,15.61,394,7,1.78,6149.52,109.26,6.15,6407,936.48,15.61,1357.9,15.61
 2021-03-08,Rio Grande do Sul,Morro Reuter,0.0,0,0,0.0,393,6,1.53,6133.92,93.65,6.13,6407,920.87,-15.61,1342.29,-109.26

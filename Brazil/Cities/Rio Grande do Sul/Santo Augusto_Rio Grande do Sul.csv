@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-14,Rio Grande do Sul,Santo Augusto,165.65,23,1,7.2,724,10,1.38,5214.26,72.02,5.21,13885,561.75,158.45,1750.07,93.63
-2021-03-13,Rio Grande do Sul,Santo Augusto,14.4,2,0,0.0,701,9,1.28,5048.61,64.82,5.05,13885,403.3,-14.41,1656.44,7.2
+2021-03-14,Rio Grande do Sul,Santo Augusto,165.65,23,1,7.2,724,10,1.38,5214.26,72.02,5.21,13885,532.94,144.04,1750.07,165.65
+2021-03-13,Rio Grande do Sul,Santo Augusto,14.4,2,0,0.0,701,9,1.28,5048.61,64.82,5.05,13885,388.9,7.2,1584.42,14.4
+2021-03-12,Rio Grande do Sul,Santo Augusto,0.0,0,0,0.0,699,9,1.29,5034.21,64.82,5.03,13885,381.7,-7.2,1570.02,-72.02
+2021-03-11,Rio Grande do Sul,Santo Augusto,0.0,0,0,0.0,699,9,1.29,5034.21,64.82,5.03,13885,388.9,-28.81,1642.04,-7.2
 2021-03-10,Rio Grande do Sul,Santo Augusto,14.4,2,0,0.0,699,9,1.29,5034.21,64.82,5.03,13885,417.71,-252.07,1649.24,-7.21
 2021-03-09,Rio Grande do Sul,Santo Augusto,7.2,1,0,0.0,697,9,1.29,5019.81,64.82,5.02,13885,669.78,0.0,1656.45,-36.01
 2021-03-08,Rio Grande do Sul,Santo Augusto,331.29,46,0,0.0,696,9,1.29,5012.6,64.82,5.01,13885,669.78,331.29,1692.46,331.29

@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-03-14,Rio de Janeiro,Areal,0.0,0,0,0.0,399,19,4.76,3173.72,151.13,3.17,12572,95.44,-47.73,190.88,0.0
+2021-03-13,Rio de Janeiro,Areal,7.95,1,0,0.0,399,19,4.76,3173.72,151.13,3.17,12572,143.17,0.0,190.88,7.95
 2021-03-12,Rio de Janeiro,Areal,39.77,5,1,7.95,398,19,4.77,3165.77,151.13,3.17,12572,143.17,39.77,182.93,39.77
 2021-03-11,Rio de Janeiro,Areal,39.77,5,3,23.86,393,18,4.58,3125.99,143.18,3.13,12572,103.4,39.77,143.16,39.77
 2021-03-10,Rio de Janeiro,Areal,0.0,0,0,0.0,388,15,3.87,3086.22,119.31,3.09,12572,63.63,0.0,103.39,0.0

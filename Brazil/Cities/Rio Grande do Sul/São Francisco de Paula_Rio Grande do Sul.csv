@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-14,Rio Grande do Sul,São Francisco de Paula,9.21,2,0,0.0,191,9,4.71,879.78,41.46,0.88,21710,216.49,9.21,244.14,9.21
-2021-03-13,Rio Grande do Sul,São Francisco de Paula,64.49,14,1,4.61,189,9,4.76,870.57,41.46,0.87,21710,207.28,64.49,234.93,64.49
+2021-03-14,Rio Grande do Sul,São Francisco de Paula,9.21,2,0,0.0,191,9,4.71,879.78,41.46,0.88,21710,115.14,-87.52,244.13,9.21
+2021-03-13,Rio Grande do Sul,São Francisco de Paula,9.21,2,0,0.0,189,9,4.76,870.57,41.46,0.87,21710,202.66,4.6,234.92,9.21
+2021-03-12,Rio Grande do Sul,São Francisco de Paula,0.0,0,0,0.0,187,9,4.81,861.35,41.46,0.86,21710,198.06,0.0,225.71,0.0
+2021-03-11,Rio Grande do Sul,São Francisco de Paula,55.27,12,1,4.61,187,9,4.81,861.35,41.46,0.86,21710,198.06,55.27,225.71,55.27
 2021-03-10,Rio Grande do Sul,São Francisco de Paula,9.21,2,0,0.0,175,8,4.57,806.08,36.85,0.81,21710,142.79,9.21,170.44,9.21
 2021-03-09,Rio Grande do Sul,São Francisco de Paula,0.0,0,0,0.0,173,8,4.62,796.87,36.85,0.8,21710,133.58,-4.61,161.23,0.0
 2021-03-08,Rio Grande do Sul,São Francisco de Paula,32.24,7,1,4.61,173,8,4.62,796.87,36.85,0.8,21710,138.19,32.24,161.23,32.24

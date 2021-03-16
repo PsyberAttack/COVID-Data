@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-14,Rio Grande do Sul,Cambará do Sul,15.55,1,0,0.0,276,3,1.09,4291.71,46.65,4.29,6431,155.5,15.55,248.8,15.55
-2021-03-13,Rio Grande do Sul,Cambará do Sul,15.55,1,0,0.0,275,3,1.09,4276.16,46.65,4.28,6431,139.95,-15.55,233.25,15.55
+2021-03-14,Rio Grande do Sul,Cambará do Sul,15.55,1,0,0.0,276,3,1.09,4291.71,46.65,4.29,6431,124.4,-15.55,248.8,15.55
+2021-03-13,Rio Grande do Sul,Cambará do Sul,15.55,1,0,0.0,275,3,1.09,4276.16,46.65,4.28,6431,139.95,15.55,233.25,15.55
+2021-03-12,Rio Grande do Sul,Cambará do Sul,0.0,0,0,0.0,274,3,1.09,4260.61,46.65,4.26,6431,124.4,0.0,217.7,0.0
+2021-03-11,Rio Grande do Sul,Cambará do Sul,0.0,0,0,0.0,274,3,1.09,4260.61,46.65,4.26,6431,124.4,-31.1,217.7,0.0
 2021-03-10,Rio Grande do Sul,Cambará do Sul,77.75,5,0,0.0,274,3,1.09,4260.61,46.65,4.26,6431,155.5,77.75,217.7,77.75
 2021-03-09,Rio Grande do Sul,Cambará do Sul,-15.55,-1,0,0.0,269,3,1.12,4182.86,46.65,4.18,6431,77.75,-15.55,139.95,-15.55
 2021-03-08,Rio Grande do Sul,Cambará do Sul,31.1,2,0,0.0,270,3,1.11,4198.41,46.65,4.2,6431,93.3,31.1,155.5,31.1

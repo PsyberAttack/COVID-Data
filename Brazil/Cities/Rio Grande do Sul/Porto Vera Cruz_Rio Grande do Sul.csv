@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-14,Rio Grande do Sul,Porto Vera Cruz,0.0,0,0,0.0,67,2,2.99,4926.47,147.06,4.93,1360,1544.12,0.0,3235.31,0.0
-2021-03-13,Rio Grande do Sul,Porto Vera Cruz,220.59,3,0,0.0,67,2,2.99,4926.47,147.06,4.93,1360,1544.12,220.59,3235.31,220.59
+2021-03-14,Rio Grande do Sul,Porto Vera Cruz,0.0,0,0,0.0,67,2,2.99,4926.47,147.06,4.93,1360,514.71,-882.35,3235.31,0.0
+2021-03-13,Rio Grande do Sul,Porto Vera Cruz,0.0,0,0,0.0,67,2,2.99,4926.47,147.06,4.93,1360,1397.06,-147.06,3235.31,0.0
+2021-03-12,Rio Grande do Sul,Porto Vera Cruz,73.53,1,0,0.0,67,2,2.99,4926.47,147.06,4.93,1360,1544.12,73.53,3235.31,73.53
+2021-03-11,Rio Grande do Sul,Porto Vera Cruz,147.06,2,0,0.0,66,2,3.03,4852.94,147.06,4.85,1360,1470.59,147.06,3161.78,147.06
 2021-03-10,Rio Grande do Sul,Porto Vera Cruz,294.12,4,0,0.0,64,2,3.12,4705.88,147.06,4.71,1360,1323.53,294.12,3014.72,294.12
 2021-03-09,Rio Grande do Sul,Porto Vera Cruz,0.0,0,0,0.0,60,2,3.33,4411.76,147.06,4.41,1360,1029.41,-294.12,2720.6,0.0
 2021-03-08,Rio Grande do Sul,Porto Vera Cruz,0.0,0,0,0.0,60,2,3.33,4411.76,147.06,4.41,1360,1323.53,-588.24,2720.6,0.0

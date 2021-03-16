@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-14,Rio Grande do Sul,Santa Tereza,0.0,0,0,0.0,163,3,1.84,9427.41,173.51,9.43,1729,751.88,0.0,1561.6,0.0
-2021-03-13,Rio Grande do Sul,Santa Tereza,173.51,3,0,0.0,163,3,1.84,9427.41,173.51,9.43,1729,751.88,173.51,1561.6,173.51
+2021-03-14,Rio Grande do Sul,Santa Tereza,0.0,0,0,0.0,163,3,1.84,9427.41,173.51,9.43,1729,462.7,-289.18,1503.76,-57.84
+2021-03-13,Rio Grande do Sul,Santa Tereza,115.67,2,0,0.0,163,3,1.84,9427.41,173.51,9.43,1729,751.88,115.67,1561.6,115.67
+2021-03-12,Rio Grande do Sul,Santa Tereza,0.0,0,0,0.0,161,3,1.86,9311.74,173.51,9.31,1729,636.21,0.0,1445.93,0.0
+2021-03-11,Rio Grande do Sul,Santa Tereza,57.84,1,0,0.0,161,3,1.86,9311.74,173.51,9.31,1729,636.21,57.84,1445.93,57.84
 2021-03-10,Rio Grande do Sul,Santa Tereza,57.84,1,0,0.0,160,3,1.88,9253.9,173.51,9.25,1729,578.37,57.84,1388.09,57.84
 2021-03-09,Rio Grande do Sul,Santa Tereza,231.35,4,0,0.0,159,3,1.89,9196.07,173.51,9.2,1729,520.53,231.35,1330.25,231.35
 2021-03-08,Rio Grande do Sul,Santa Tereza,0.0,0,0,0.0,155,3,1.94,8964.72,173.51,8.96,1729,289.18,0.0,1098.9,0.0

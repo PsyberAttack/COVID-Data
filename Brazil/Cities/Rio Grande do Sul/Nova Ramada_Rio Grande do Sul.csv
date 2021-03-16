@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-14,Rio Grande do Sul,Nova Ramada,0.0,0,0,0.0,142,1,0.7,6333.63,44.6,6.33,2242,713.64,-133.81,2051.73,0.0
-2021-03-13,Rio Grande do Sul,Nova Ramada,356.82,8,0,0.0,142,1,0.7,6333.63,44.6,6.33,2242,847.45,356.82,2051.73,178.41
+2021-03-14,Rio Grande do Sul,Nova Ramada,0.0,0,0,0.0,142,1,0.7,6333.63,44.6,6.33,2242,401.43,-312.22,1962.54,-44.6
+2021-03-13,Rio Grande do Sul,Nova Ramada,178.41,4,0,0.0,142,1,0.7,6333.63,44.6,6.33,2242,713.65,178.41,2007.14,133.81
+2021-03-12,Rio Grande do Sul,Nova Ramada,89.21,2,0,0.0,138,1,0.72,6155.22,44.6,6.16,2242,535.24,-44.6,1873.33,89.21
+2021-03-11,Rio Grande do Sul,Nova Ramada,89.21,2,0,0.0,136,1,0.74,6066.01,44.6,6.07,2242,579.84,89.21,1784.12,-89.2
 2021-03-10,Rio Grande do Sul,Nova Ramada,0.0,0,0,0.0,134,1,0.75,5976.81,44.6,5.98,2242,490.63,0.0,1873.32,0.0
 2021-03-09,Rio Grande do Sul,Nova Ramada,44.6,1,0,0.0,134,1,0.75,5976.81,44.6,5.98,2242,490.63,0.0,1873.32,44.6
 2021-03-08,Rio Grande do Sul,Nova Ramada,0.0,0,0,0.0,133,1,0.75,5932.2,44.6,5.93,2242,490.63,-312.22,1828.72,-223.02

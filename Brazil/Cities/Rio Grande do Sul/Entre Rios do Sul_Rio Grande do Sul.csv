@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-14,Rio Grande do Sul,Entre Rios do Sul,71.63,2,0,0.0,144,4,2.78,5157.59,143.27,5.16,2792,608.88,71.63,1181.96,35.81
-2021-03-13,Rio Grande do Sul,Entre Rios do Sul,71.63,2,0,0.0,142,4,2.82,5085.96,143.27,5.09,2792,537.25,71.63,1146.15,71.63
+2021-03-14,Rio Grande do Sul,Entre Rios do Sul,71.63,2,0,0.0,144,4,2.78,5157.59,143.27,5.16,2792,250.71,-286.54,1146.14,35.81
+2021-03-13,Rio Grande do Sul,Entre Rios do Sul,0.0,0,0,0.0,142,4,2.82,5085.96,143.27,5.09,2792,537.25,0.0,1110.33,0.0
+2021-03-12,Rio Grande do Sul,Entre Rios do Sul,71.63,2,0,0.0,142,4,2.82,5085.96,143.27,5.09,2792,537.25,71.63,1110.33,35.81
+2021-03-11,Rio Grande do Sul,Entre Rios do Sul,0.0,0,0,0.0,140,4,2.86,5014.33,143.27,5.01,2792,465.62,0.0,1074.52,0.0
 2021-03-10,Rio Grande do Sul,Entre Rios do Sul,107.45,3,0,0.0,140,4,2.86,5014.33,143.27,5.01,2792,465.62,0.0,1074.52,-71.63
 2021-03-09,Rio Grande do Sul,Entre Rios do Sul,0.0,0,0,0.0,137,4,2.92,4906.88,143.27,4.91,2792,465.62,0.0,1146.15,0.0
 2021-03-08,Rio Grande do Sul,Entre Rios do Sul,0.0,0,0,0.0,137,4,2.92,4906.88,143.27,4.91,2792,465.62,-322.35,1146.15,0.0

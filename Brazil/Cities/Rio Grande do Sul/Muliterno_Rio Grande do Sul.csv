@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-14,Rio Grande do Sul,Muliterno,0.0,0,0,0.0,151,1,0.66,7976.76,52.83,7.98,1893,633.92,0.0,1637.63,0.0
-2021-03-13,Rio Grande do Sul,Muliterno,52.83,1,0,0.0,151,1,0.66,7976.76,52.83,7.98,1893,633.92,0.0,1637.63,52.83
+2021-03-14,Rio Grande do Sul,Muliterno,0.0,0,0,0.0,151,1,0.66,7976.76,52.83,7.98,1893,633.92,0.0,1584.8,0.0
+2021-03-13,Rio Grande do Sul,Muliterno,52.83,1,0,0.0,151,1,0.66,7976.76,52.83,7.98,1893,633.92,52.83,1584.8,0.0
+2021-03-12,Rio Grande do Sul,Muliterno,0.0,0,0,0.0,150,1,0.67,7923.93,52.83,7.92,1893,581.09,0.0,1584.8,0.0
+2021-03-11,Rio Grande do Sul,Muliterno,0.0,0,0,0.0,150,1,0.67,7923.93,52.83,7.92,1893,581.09,-52.83,1584.8,0.0
 2021-03-10,Rio Grande do Sul,Muliterno,528.26,10,0,0.0,150,1,0.67,7923.93,52.83,7.92,1893,633.92,316.96,1584.8,528.26
 2021-03-09,Rio Grande do Sul,Muliterno,52.83,1,0,0.0,140,1,0.71,7395.67,52.83,7.4,1893,316.96,52.83,1056.54,52.83
 2021-03-08,Rio Grande do Sul,Muliterno,0.0,0,0,0.0,139,1,0.72,7342.84,52.83,7.34,1893,264.13,-52.83,1003.71,0.0

@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-14,Rio Grande do Sul,Cerro Grande,0.0,0,0,0.0,191,3,1.57,8264.82,129.81,8.26,2311,302.89,-216.36,1903.94,0.0
-2021-03-13,Rio Grande do Sul,Cerro Grande,129.81,3,0,0.0,191,3,1.57,8264.82,129.81,8.26,2311,519.25,129.81,1903.94,86.54
+2021-03-14,Rio Grande do Sul,Cerro Grande,0.0,0,0,0.0,191,3,1.57,8264.82,129.81,8.26,2311,216.35,-86.54,1903.94,0.0
+2021-03-13,Rio Grande do Sul,Cerro Grande,43.27,1,0,0.0,191,3,1.57,8264.82,129.81,8.26,2311,302.89,43.27,1903.94,43.27
+2021-03-12,Rio Grande do Sul,Cerro Grande,43.27,1,0,0.0,190,3,1.58,8221.55,129.81,8.22,2311,259.62,-173.09,1860.67,43.27
+2021-03-11,Rio Grande do Sul,Cerro Grande,43.27,1,0,0.0,189,3,1.59,8178.28,129.81,8.18,2311,432.71,43.27,1817.4,0.0
 2021-03-10,Rio Grande do Sul,Cerro Grande,86.54,2,0,0.0,188,3,1.6,8135.01,129.81,8.14,2311,389.44,86.54,1817.4,86.54
 2021-03-09,Rio Grande do Sul,Cerro Grande,0.0,0,0,0.0,186,3,1.61,8048.46,129.81,8.05,2311,302.9,-216.36,1730.86,0.0
 2021-03-08,Rio Grande do Sul,Cerro Grande,0.0,0,0,0.0,186,3,1.61,8048.46,129.81,8.05,2311,519.26,0.0,1730.86,0.0

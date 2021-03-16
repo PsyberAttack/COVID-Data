@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-14,Rio Grande do Sul,Faxinal do Soturno,29.95,2,0,0.0,300,3,1.0,4493.04,44.93,4.49,6677,509.21,29.95,1827.16,0.0
-2021-03-13,Rio Grande do Sul,Faxinal do Soturno,149.77,10,0,0.0,298,3,1.01,4463.08,44.93,4.46,6677,479.26,-104.84,1827.16,89.86
+2021-03-14,Rio Grande do Sul,Faxinal do Soturno,29.95,2,0,0.0,300,3,1.0,4493.04,44.93,4.49,6677,389.39,-29.96,1797.21,0.0
+2021-03-13,Rio Grande do Sul,Faxinal do Soturno,89.86,6,0,0.0,298,3,1.01,4463.08,44.93,4.46,6677,419.35,29.95,1797.21,89.86
+2021-03-12,Rio Grande do Sul,Faxinal do Soturno,14.98,1,0,0.0,292,3,1.03,4373.22,44.93,4.37,6677,389.4,14.98,1707.35,-14.97
+2021-03-11,Rio Grande do Sul,Faxinal do Soturno,44.93,3,0,0.0,291,3,1.03,4358.24,44.93,4.36,6677,374.42,-209.68,1722.32,-14.98
 2021-03-10,Rio Grande do Sul,Faxinal do Soturno,59.91,4,0,0.0,288,3,1.04,4313.31,44.93,4.31,6677,584.1,44.93,1737.3,59.91
 2021-03-09,Rio Grande do Sul,Faxinal do Soturno,164.74,11,0,0.0,284,3,1.06,4253.41,44.93,4.25,6677,539.17,-239.63,1677.39,164.74
 2021-03-08,Rio Grande do Sul,Faxinal do Soturno,-14.98,-1,1,14.98,273,3,1.1,4088.66,44.93,4.09,6677,778.8,-14.98,1512.65,-59.91

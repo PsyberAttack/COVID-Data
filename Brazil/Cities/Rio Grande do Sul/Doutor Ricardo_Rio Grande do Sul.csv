@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-14,Rio Grande do Sul,Doutor Ricardo,0.0,0,0,0.0,220,1,0.45,11094.3,50.43,11.09,1983,3126.58,-50.43,4740.3,0.0
-2021-03-13,Rio Grande do Sul,Doutor Ricardo,857.29,17,1,50.43,220,1,0.45,11094.3,50.43,11.09,1983,3177.01,453.86,4740.3,857.29
+2021-03-14,Rio Grande do Sul,Doutor Ricardo,0.0,0,0,0.0,220,1,0.45,11094.3,50.43,11.09,1983,1059.01,-2067.57,4538.59,0.0
+2021-03-13,Rio Grande do Sul,Doutor Ricardo,605.14,12,0,0.0,220,1,0.45,11094.3,50.43,11.09,1983,3126.58,605.14,4538.59,403.43
+2021-03-12,Rio Grande do Sul,Doutor Ricardo,151.29,3,0,0.0,208,1,0.48,10489.16,50.43,10.49,1983,2521.44,100.86,4135.16,151.29
+2021-03-11,Rio Grande do Sul,Doutor Ricardo,100.86,2,1,50.43,205,1,0.49,10337.87,50.43,10.34,1983,2420.58,-302.57,3983.87,100.86
 2021-03-10,Rio Grande do Sul,Doutor Ricardo,100.86,2,0,0.0,203,0,0.0,10237.01,0.0,10.24,1983,2723.15,100.86,3883.01,100.86
 2021-03-09,Rio Grande do Sul,Doutor Ricardo,50.43,1,0,0.0,201,0,0.0,10136.16,0.0,10.14,1983,2622.29,50.43,3782.15,50.43
 2021-03-08,Rio Grande do Sul,Doutor Ricardo,50.43,1,0,0.0,200,0,0.0,10085.73,0.0,10.09,1983,2571.86,0.0,3731.72,50.43

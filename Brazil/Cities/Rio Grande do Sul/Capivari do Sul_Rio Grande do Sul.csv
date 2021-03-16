@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-14,Rio Grande do Sul,Capivari do Sul,0.0,0,0,0.0,569,2,0.35,12210.3,42.92,12.21,4660,2317.6,0.0,4806.88,0.0
-2021-03-13,Rio Grande do Sul,Capivari do Sul,536.48,25,0,0.0,569,2,0.35,12210.3,42.92,12.21,4660,2317.6,193.13,4806.88,536.48
+2021-03-14,Rio Grande do Sul,Capivari do Sul,0.0,0,0,0.0,569,2,0.35,12210.3,42.92,12.21,4660,1330.47,-643.78,4871.26,64.38
+2021-03-13,Rio Grande do Sul,Capivari do Sul,193.13,9,0,0.0,569,2,0.35,12210.3,42.92,12.21,4660,1974.25,-150.22,4806.88,193.13
+2021-03-12,Rio Grande do Sul,Capivari do Sul,128.76,6,0,0.0,560,2,0.36,12017.17,42.92,12.02,4660,2124.47,128.76,4613.75,128.76
+2021-03-11,Rio Grande do Sul,Capivari do Sul,214.59,10,0,0.0,554,2,0.36,11888.41,42.92,11.89,4660,1995.71,-128.76,4484.99,214.59
 2021-03-10,Rio Grande do Sul,Capivari do Sul,278.97,13,0,0.0,544,2,0.37,11673.82,42.92,11.67,4660,2124.47,300.43,4270.4,278.97
 2021-03-09,Rio Grande do Sul,Capivari do Sul,515.02,24,0,0.0,531,2,0.38,11394.85,42.92,11.39,4660,1824.04,407.72,3991.43,515.02
 2021-03-08,Rio Grande do Sul,Capivari do Sul,0.0,0,0,0.0,507,2,0.39,10879.83,42.92,10.88,4660,1416.32,-300.43,3476.41,0.0

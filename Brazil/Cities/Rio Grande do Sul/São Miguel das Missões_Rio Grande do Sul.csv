@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-14,Rio Grande do Sul,São Miguel das Missões,0.0,0,0,0.0,299,5,1.67,3896.78,65.16,3.9,7673,495.25,13.03,1016.59,0.0
-2021-03-13,Rio Grande do Sul,São Miguel das Missões,78.2,6,0,0.0,299,5,1.67,3896.78,65.16,3.9,7673,482.22,78.2,1016.59,52.13
+2021-03-14,Rio Grande do Sul,São Miguel das Missões,0.0,0,0,0.0,299,5,1.67,3896.78,65.16,3.9,7673,169.42,-91.23,990.51,-26.07
+2021-03-13,Rio Grande do Sul,São Miguel das Missões,65.16,5,0,0.0,299,5,1.67,3896.78,65.16,3.9,7673,260.65,-169.43,1016.58,65.16
+2021-03-12,Rio Grande do Sul,São Miguel das Missões,13.03,1,0,0.0,294,5,1.7,3831.62,65.16,3.83,7673,430.08,26.06,951.42,13.03
+2021-03-11,Rio Grande do Sul,São Miguel das Missões,0.0,0,0,0.0,293,5,1.71,3818.58,65.16,3.82,7673,404.02,0.0,938.39,-26.07
 2021-03-10,Rio Grande do Sul,São Miguel das Missões,104.26,8,0,0.0,293,5,1.71,3818.58,65.16,3.82,7673,404.02,104.26,964.46,104.26
 2021-03-09,Rio Grande do Sul,São Miguel das Missões,0.0,0,0,0.0,285,5,1.75,3714.32,65.16,3.71,7673,299.76,-78.2,860.2,0.0
 2021-03-08,Rio Grande do Sul,São Miguel das Missões,-13.03,-1,0,0.0,285,5,1.75,3714.32,65.16,3.71,7673,377.96,-52.13,860.2,-104.26

@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-14,Rio Grande do Sul,David Canabarro,168.78,8,0,0.0,498,8,1.61,10506.33,168.78,10.51,4740,1540.09,105.49,4915.63,42.2
-2021-03-13,Rio Grande do Sul,David Canabarro,210.97,10,0,0.0,490,8,1.63,10337.55,168.78,10.34,4740,1434.6,-337.55,4873.43,189.87
+2021-03-14,Rio Grande do Sul,David Canabarro,168.78,8,0,0.0,498,8,1.61,10506.33,168.78,10.51,4740,1033.76,-232.06,4789.04,147.68
+2021-03-13,Rio Grande do Sul,David Canabarro,63.29,3,0,0.0,490,8,1.63,10337.55,168.78,10.34,4740,1265.82,-42.2,4641.36,-42.2
+2021-03-12,Rio Grande do Sul,David Canabarro,84.39,4,0,0.0,487,8,1.64,10274.26,168.78,10.27,4740,1308.02,21.1,4683.56,-42.19
+2021-03-11,Rio Grande do Sul,David Canabarro,63.29,3,0,0.0,483,8,1.66,10189.87,168.78,10.19,4740,1286.92,-485.23,4725.75,42.19
 2021-03-10,Rio Grande do Sul,David Canabarro,84.39,4,1,21.1,480,8,1.67,10126.58,168.78,10.13,4740,1772.15,-63.29,4683.56,-21.1
 2021-03-09,Rio Grande do Sul,David Canabarro,506.33,24,1,21.1,476,7,1.47,10042.19,147.68,10.04,4740,1835.44,443.04,4704.66,506.33
 2021-03-08,Rio Grande do Sul,David Canabarro,63.29,3,0,0.0,452,6,1.33,9535.86,126.58,9.54,4740,1392.4,21.1,4198.33,-63.29

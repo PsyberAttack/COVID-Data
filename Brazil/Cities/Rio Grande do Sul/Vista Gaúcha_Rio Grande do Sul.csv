@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-14,Rio Grande do Sul,Vista Gaúcha,35.08,1,0,0.0,143,4,2.8,5015.78,140.3,5.02,2851,1648.55,35.08,1753.78,35.08
-2021-03-13,Rio Grande do Sul,Vista Gaúcha,876.89,25,0,0.0,142,4,2.82,4980.71,140.3,4.98,2851,1613.47,876.89,1718.7,876.89
+2021-03-14,Rio Grande do Sul,Vista Gaúcha,35.08,1,0,0.0,143,4,2.8,5015.78,140.3,5.02,2851,1648.55,35.08,1718.7,0.0
+2021-03-13,Rio Grande do Sul,Vista Gaúcha,0.0,0,0,0.0,142,4,2.82,4980.71,140.3,4.98,2851,1613.47,0.0,1718.7,0.0
+2021-03-12,Rio Grande do Sul,Vista Gaúcha,876.89,25,0,0.0,142,4,2.82,4980.71,140.3,4.98,2851,1613.47,876.89,1718.7,876.89
+2021-03-11,Rio Grande do Sul,Vista Gaúcha,0.0,0,0,0.0,117,4,3.42,4103.82,140.3,4.1,2851,736.58,0.0,841.81,0.0
 2021-03-10,Rio Grande do Sul,Vista Gaúcha,0.0,0,0,0.0,117,4,3.42,4103.82,140.3,4.1,2851,736.58,0.0,841.81,0.0
 2021-03-09,Rio Grande do Sul,Vista Gaúcha,666.43,19,0,0.0,117,4,3.42,4103.82,140.3,4.1,2851,736.58,666.43,841.81,666.43
 2021-03-08,Rio Grande do Sul,Vista Gaúcha,70.15,2,0,0.0,98,4,4.08,3437.39,140.3,3.44,2851,70.15,70.15,175.38,70.15
