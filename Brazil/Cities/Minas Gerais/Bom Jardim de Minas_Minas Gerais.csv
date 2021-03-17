@@ -1,5 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-12,Minas Gerais,Bom Jardim de Minas,463.39,30,0,0.0,149,1,0.67,2301.51,15.45,2.3,6474,463.39,463.39,818.68,447.94
+2021-03-12,Minas Gerais,Bom Jardim de Minas,0.0,0,0,0.0,149,1,0.67,2301.51,15.45,2.3,6474,463.39,0.0,741.44,0.0
+2021-03-11,Minas Gerais,Bom Jardim de Minas,15.45,1,0,0.0,149,1,0.67,2301.51,15.45,2.3,6474,463.39,15.45,741.44,-46.34
+2021-03-10,Minas Gerais,Bom Jardim de Minas,108.12,7,0,0.0,148,1,0.68,2286.07,15.45,2.29,6474,447.94,108.12,787.78,92.67
+2021-03-09,Minas Gerais,Bom Jardim de Minas,339.82,22,0,0.0,141,1,0.71,2177.94,15.45,2.18,6474,339.82,339.82,695.11,324.37
 2021-02-18,Minas Gerais,Bom Jardim de Minas,0.0,0,0,0.0,119,1,0.84,1838.12,15.45,1.84,6474,0.0,-46.34,370.74,-15.45
 2021-02-17,Minas Gerais,Bom Jardim de Minas,0.0,0,0,0.0,119,1,0.84,1838.12,15.45,1.84,6474,46.34,0.0,386.19,-30.89
 2021-02-16,Minas Gerais,Bom Jardim de Minas,0.0,0,0,0.0,119,1,0.84,1838.12,15.45,1.84,6474,46.34,0.0,417.08,0.0

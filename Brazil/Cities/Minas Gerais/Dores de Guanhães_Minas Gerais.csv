@@ -1,5 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-12,Minas Gerais,Dores de Guanhães,212.81,11,0,0.0,106,3,2.83,2050.69,58.04,2.05,5169,232.16,154.77,619.09,212.81
+2021-03-12,Minas Gerais,Dores de Guanhães,0.0,0,0,0.0,106,3,2.83,2050.69,58.04,2.05,5169,232.16,0.0,561.05,0.0
+2021-03-11,Minas Gerais,Dores de Guanhães,58.04,3,0,0.0,106,3,2.83,2050.69,58.04,2.05,5169,232.16,38.69,561.05,38.69
+2021-03-10,Minas Gerais,Dores de Guanhães,38.69,2,0,0.0,103,3,2.91,1992.65,58.04,1.99,5169,193.47,58.04,522.36,0.0
+2021-03-09,Minas Gerais,Dores de Guanhães,116.08,6,0,0.0,101,3,2.97,1953.96,58.04,1.95,5169,135.43,58.04,522.36,116.08
 2021-02-18,Minas Gerais,Dores de Guanhães,0.0,0,0,0.0,95,3,3.16,1837.88,58.04,1.84,5169,77.39,0.0,406.28,-38.69
 2021-02-17,Minas Gerais,Dores de Guanhães,19.35,1,0,0.0,95,3,3.16,1837.88,58.04,1.84,5169,77.39,-19.34,444.97,19.35
 2021-02-16,Minas Gerais,Dores de Guanhães,0.0,0,0,0.0,94,3,3.19,1818.53,58.04,1.82,5169,96.73,0.0,425.62,0.0

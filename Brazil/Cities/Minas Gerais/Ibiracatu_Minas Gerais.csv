@@ -1,5 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-12,Minas Gerais,Ibiracatu,111.11,6,1,18.52,80,1,1.25,1481.48,18.52,1.48,5400,129.63,111.11,444.45,111.11
+2021-03-12,Minas Gerais,Ibiracatu,74.07,4,0,0.0,80,1,1.25,1481.48,18.52,1.48,5400,129.63,74.07,351.86,55.55
+2021-03-11,Minas Gerais,Ibiracatu,0.0,0,1,18.52,76,1,1.32,1407.41,18.52,1.41,5400,55.56,0.0,296.31,0.0
+2021-03-10,Minas Gerais,Ibiracatu,0.0,0,0,0.0,76,0,0.0,1407.41,0.0,1.41,5400,55.56,0.0,296.31,-74.07
+2021-03-09,Minas Gerais,Ibiracatu,37.04,2,0,0.0,76,0,0.0,1407.41,0.0,1.41,5400,55.56,37.04,370.38,37.04
 2021-02-18,Minas Gerais,Ibiracatu,0.0,0,0,0.0,74,0,0.0,1370.37,0.0,1.37,5400,18.52,-55.56,333.34,-18.52
 2021-02-17,Minas Gerais,Ibiracatu,18.52,1,0,0.0,74,0,0.0,1370.37,0.0,1.37,5400,74.08,18.52,351.86,-111.11
 2021-02-16,Minas Gerais,Ibiracatu,0.0,0,0,0.0,73,0,0.0,1351.85,0.0,1.35,5400,55.56,0.0,462.97,0.0

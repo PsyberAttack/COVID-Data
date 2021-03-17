@@ -1,5 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-12,Minas Gerais,Olímpio Noronha,143.52,4,0,0.0,91,1,1.1,3265.16,35.88,3.27,2787,215.28,71.76,609.96,143.52
+2021-03-12,Minas Gerais,Olímpio Noronha,0.0,0,0,0.0,91,1,1.1,3265.16,35.88,3.27,2787,215.28,0.0,538.2,-71.76
+2021-03-11,Minas Gerais,Olímpio Noronha,35.88,1,0,0.0,91,1,1.1,3265.16,35.88,3.27,2787,215.28,35.88,609.96,35.88
+2021-03-10,Minas Gerais,Olímpio Noronha,0.0,0,0,0.0,90,1,1.11,3229.28,35.88,3.23,2787,179.4,0.0,574.08,0.0
+2021-03-09,Minas Gerais,Olímpio Noronha,107.64,3,0,0.0,90,1,1.11,3229.28,35.88,3.23,2787,179.4,35.88,574.08,107.64
 2021-02-18,Minas Gerais,Olímpio Noronha,0.0,0,0,0.0,87,1,1.15,3121.64,35.88,3.12,2787,143.52,0.0,466.44,-71.76
 2021-02-17,Minas Gerais,Olímpio Noronha,0.0,0,0,0.0,87,1,1.15,3121.64,35.88,3.12,2787,143.52,0.0,538.2,-35.88
 2021-02-16,Minas Gerais,Olímpio Noronha,71.76,2,0,0.0,87,1,1.15,3121.64,35.88,3.12,2787,143.52,71.76,574.08,71.76

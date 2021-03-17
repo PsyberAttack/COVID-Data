@@ -1,7 +1,9 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-12 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,1.93,5,0,0.0,5587,129,2.31,2156.06,49.78,2.16,259130,42.84,0.77,191.04,-10.03
-2021-03-11 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,5.4,14,0,0.0,5582,129,2.31,2154.13,49.78,2.15,259130,42.07,-0.39,201.07,5.4
-2021-03-10 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,3.09,8,0,0.0,5568,129,2.32,2148.73,49.78,2.15,259130,42.46,1.16,195.67,1.93
+2021-03-14 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,14.66,38,0,0.0,5624,130,2.31,2170.34,50.17,2.17,259130,42.83,2.31,185.24,-5.41
+2021-03-13 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,0.0,0,0,0.0,5586,130,2.33,2155.67,50.17,2.16,259130,40.52,-1.93,190.65,0.0
+2021-03-12 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,1.93,5,1,0.39,5586,130,2.33,2155.67,50.17,2.16,259130,42.45,0.77,190.65,-10.03
+2021-03-11 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,5.4,14,0,0.0,5581,129,2.31,2153.75,49.78,2.15,259130,41.68,-0.39,200.68,5.4
+2021-03-10 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,2.7,7,0,0.0,5567,129,2.32,2148.34,49.78,2.15,259130,42.07,0.77,195.28,1.54
 2021-03-09 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,0.39,1,0,0.0,5560,129,2.32,2145.64,49.78,2.15,259130,41.3,-8.1,193.74,-0.77
 2021-03-08 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,17.75,46,0,0.0,5559,129,2.32,2145.26,49.78,2.15,259130,49.4,8.87,194.51,6.94
 2021-03-07 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,12.35,32,0,0.0,5513,129,2.34,2127.5,49.78,2.13,259130,40.53,5.79,187.57,8.88

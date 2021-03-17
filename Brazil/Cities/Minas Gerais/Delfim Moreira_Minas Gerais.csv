@@ -1,5 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-12,Minas Gerais,Delfim Moreira,523.36,42,4,49.84,212,8,3.77,2641.74,99.69,2.64,8025,660.43,510.9,1196.25,510.9
+2021-03-12,Minas Gerais,Delfim Moreira,12.46,1,1,12.46,212,8,3.77,2641.74,99.69,2.64,8025,585.67,12.46,1146.42,0.0
+2021-03-11,Minas Gerais,Delfim Moreira,62.31,5,1,12.46,211,7,3.32,2629.28,87.23,2.63,8025,573.21,62.31,1146.42,24.93
+2021-03-10,Minas Gerais,Delfim Moreira,0.0,0,0,0.0,206,6,2.91,2566.98,74.77,2.57,8025,510.9,-74.77,1121.49,0.0
+2021-03-09,Minas Gerais,Delfim Moreira,448.6,36,2,24.92,206,6,2.91,2566.98,74.77,2.57,8025,585.67,436.14,1121.49,436.14
 2021-02-18,Minas Gerais,Delfim Moreira,24.92,2,0,0.0,170,4,2.35,2118.38,49.84,2.12,8025,149.53,-99.69,685.35,24.92
 2021-02-17,Minas Gerais,Delfim Moreira,24.92,2,0,0.0,168,4,2.38,2093.46,49.84,2.09,8025,249.22,-49.85,660.43,24.92
 2021-02-16,Minas Gerais,Delfim Moreira,12.46,1,0,0.0,166,4,2.41,2068.54,49.84,2.07,8025,299.07,12.46,635.51,12.46

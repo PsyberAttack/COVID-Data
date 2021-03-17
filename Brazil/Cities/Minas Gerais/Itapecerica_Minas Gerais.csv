@@ -1,5 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-12,Minas Gerais,Itapecerica,261.92,57,2,9.19,606,12,1.98,2784.67,55.14,2.78,21762,284.9,257.32,500.9,188.4
+2021-03-12,Minas Gerais,Itapecerica,0.0,0,0,0.0,606,12,1.98,2784.67,55.14,2.78,21762,280.31,0.0,418.19,-27.57
+2021-03-11,Minas Gerais,Itapecerica,22.98,5,1,4.6,606,12,1.98,2784.67,55.14,2.78,21762,280.31,22.98,445.76,9.19
+2021-03-10,Minas Gerais,Itapecerica,73.52,16,0,0.0,601,11,1.83,2761.69,50.55,2.76,21762,257.33,68.92,436.57,32.16
+2021-03-09,Minas Gerais,Itapecerica,165.43,36,1,4.6,585,11,1.88,2688.17,50.55,2.69,21762,188.41,160.83,404.41,91.91
 2021-02-18,Minas Gerais,Itapecerica,18.38,4,0,0.0,549,10,1.82,2522.75,45.95,2.52,21762,27.58,0.0,312.5,18.38
 2021-02-17,Minas Gerais,Itapecerica,0.0,0,0,0.0,545,10,1.83,2504.37,45.95,2.5,21762,27.58,-32.17,294.12,-45.95
 2021-02-16,Minas Gerais,Itapecerica,0.0,0,0,0.0,545,10,1.83,2504.37,45.95,2.5,21762,59.75,0.0,340.07,0.0

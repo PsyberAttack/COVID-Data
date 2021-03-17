@@ -1,5 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-12,Minas Gerais,Soledade de Minas,97.55,6,0,0.0,163,0,0.0,2649.98,0.0,2.65,6151,162.58,113.81,812.89,97.55
+2021-03-12,Minas Gerais,Soledade de Minas,0.0,0,0,0.0,163,0,0.0,2649.98,0.0,2.65,6151,97.55,-48.77,585.28,0.0
+2021-03-11,Minas Gerais,Soledade de Minas,0.0,0,0,0.0,163,0,0.0,2649.98,0.0,2.65,6151,146.32,0.0,585.28,0.0
+2021-03-10,Minas Gerais,Soledade de Minas,0.0,0,0,0.0,163,0,0.0,2649.98,0.0,2.65,6151,146.32,-16.26,585.28,-227.61
+2021-03-09,Minas Gerais,Soledade de Minas,97.55,6,0,0.0,163,0,0.0,2649.98,0.0,2.65,6151,162.58,113.81,812.89,97.55
 2021-02-18,Minas Gerais,Soledade de Minas,0.0,0,0,0.0,157,0,0.0,2552.43,0.0,2.55,6151,48.77,-146.32,715.34,0.0
 2021-02-17,Minas Gerais,Soledade de Minas,0.0,0,0,0.0,157,0,0.0,2552.43,0.0,2.55,6151,195.09,-130.06,715.34,-97.55
 2021-02-16,Minas Gerais,Soledade de Minas,0.0,0,0,0.0,157,0,0.0,2552.43,0.0,2.55,6151,325.15,0.0,812.89,0.0

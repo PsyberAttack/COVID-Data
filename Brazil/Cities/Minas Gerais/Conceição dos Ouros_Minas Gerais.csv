@@ -1,5 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-12,Minas Gerais,Conceição dos Ouros,240.59,28,2,17.19,366,10,2.73,3144.87,85.93,3.14,11638,463.99,111.7,1434.95,240.59
+2021-03-12,Minas Gerais,Conceição dos Ouros,0.0,0,0,0.0,366,10,2.73,3144.87,85.93,3.14,11638,386.66,0.0,1005.32,-429.63
+2021-03-11,Minas Gerais,Conceição dos Ouros,0.0,0,0,0.0,366,10,2.73,3144.87,85.93,3.14,11638,386.66,-68.74,1434.95,0.0
+2021-03-10,Minas Gerais,Conceição dos Ouros,0.0,0,1,8.59,366,10,2.73,3144.87,85.93,3.14,11638,455.4,-8.59,1434.95,0.0
+2021-03-09,Minas Gerais,Conceição dos Ouros,240.59,28,1,8.59,366,9,2.46,3144.87,77.33,3.14,11638,463.99,111.7,1434.95,240.59
 2021-02-18,Minas Gerais,Conceição dos Ouros,137.48,16,0,0.0,338,8,2.37,2904.28,68.74,2.9,11638,352.29,137.48,1194.36,137.48
 2021-02-17,Minas Gerais,Conceição dos Ouros,8.59,1,0,0.0,322,8,2.48,2766.8,68.74,2.77,11638,214.81,8.59,1056.88,8.59
 2021-02-16,Minas Gerais,Conceição dos Ouros,0.0,0,0,0.0,321,8,2.49,2758.21,68.74,2.76,11638,206.22,0.0,1048.29,0.0

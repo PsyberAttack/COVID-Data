@@ -1,5 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-12,Minas Gerais,Santana do Riacho,442.37,19,1,23.28,115,2,1.74,2677.53,46.57,2.68,4295,512.22,442.37,1140.85,395.8
+2021-03-12,Minas Gerais,Santana do Riacho,0.0,0,0,0.0,115,2,1.74,2677.53,46.57,2.68,4295,512.23,0.0,977.88,0.0
+2021-03-11,Minas Gerais,Santana do Riacho,46.57,2,0,0.0,115,2,1.74,2677.53,46.57,2.68,4295,512.23,46.57,977.88,-116.41
+2021-03-10,Minas Gerais,Santana do Riacho,23.28,1,0,0.0,113,2,1.77,2630.97,46.57,2.63,4295,465.66,23.28,1094.29,23.28
+2021-03-09,Minas Gerais,Santana do Riacho,372.53,16,1,23.28,112,2,1.79,2607.68,46.57,2.61,4295,442.38,372.53,1071.01,325.96
 2021-02-18,Minas Gerais,Santana do Riacho,23.28,1,0,0.0,96,1,1.04,2235.16,23.28,2.24,4295,69.85,-23.29,745.05,-69.85
 2021-02-17,Minas Gerais,Santana do Riacho,46.57,2,0,0.0,95,1,1.05,2211.87,23.28,2.21,4295,93.14,23.29,814.9,-46.56
 2021-02-16,Minas Gerais,Santana do Riacho,0.0,0,0,0.0,93,1,1.08,2165.31,23.28,2.17,4295,69.85,0.0,861.46,0.0

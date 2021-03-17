@@ -1,5 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-12,Minas Gerais,Lagoa Dourada,707.2,92,2,15.37,372,6,1.61,2859.56,46.12,2.86,13009,776.38,614.96,1606.54,653.39
+2021-03-12,Minas Gerais,Lagoa Dourada,92.24,12,0,0.0,372,6,1.61,2859.56,46.12,2.86,13009,745.62,84.55,1537.36,76.87
+2021-03-11,Minas Gerais,Lagoa Dourada,0.0,0,0,0.0,360,6,1.67,2767.31,46.12,2.77,13009,661.07,0.0,1460.49,-38.43
+2021-03-10,Minas Gerais,Lagoa Dourada,15.37,2,0,0.0,360,6,1.67,2767.31,46.12,2.77,13009,661.07,-7.69,1498.92,0.0
+2021-03-09,Minas Gerais,Lagoa Dourada,599.58,78,2,15.37,358,6,1.68,2751.94,46.12,2.75,13009,668.76,507.34,1498.92,545.77
 2021-02-18,Minas Gerais,Lagoa Dourada,7.69,1,0,0.0,280,4,1.43,2152.36,30.75,2.15,13009,161.42,-38.43,953.15,-15.37
 2021-02-17,Minas Gerais,Lagoa Dourada,15.37,2,0,0.0,279,4,1.43,2144.67,30.75,2.14,13009,199.85,-69.19,968.52,-46.13
 2021-02-16,Minas Gerais,Lagoa Dourada,15.37,2,0,0.0,277,4,1.44,2129.3,30.75,2.13,13009,269.04,15.37,1014.65,15.37

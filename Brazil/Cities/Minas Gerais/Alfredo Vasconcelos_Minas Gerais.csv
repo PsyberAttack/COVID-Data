@@ -1,5 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-12,Minas Gerais,Alfredo Vasconcelos,57.91,4,0,0.0,146,5,3.42,2113.8,72.39,2.11,6907,115.82,43.43,492.25,0.0
+2021-03-12,Minas Gerais,Alfredo Vasconcelos,14.48,1,0,0.0,146,5,3.42,2113.8,72.39,2.11,6907,72.39,14.48,419.86,-57.91
+2021-03-11,Minas Gerais,Alfredo Vasconcelos,0.0,0,0,0.0,145,5,3.45,2099.32,72.39,2.1,6907,57.91,0.0,477.77,0.0
+2021-03-10,Minas Gerais,Alfredo Vasconcelos,0.0,0,0,0.0,145,5,3.45,2099.32,72.39,2.1,6907,57.91,-43.43,477.77,0.0
+2021-03-09,Minas Gerais,Alfredo Vasconcelos,43.43,3,0,0.0,145,5,3.45,2099.32,72.39,2.1,6907,101.34,28.95,477.77,-14.48
 2021-02-18,Minas Gerais,Alfredo Vasconcelos,0.0,0,0,0.0,142,5,3.52,2055.89,72.39,2.06,6907,72.39,-14.48,492.25,-14.48
 2021-02-17,Minas Gerais,Alfredo Vasconcelos,14.48,1,0,0.0,142,5,3.52,2055.89,72.39,2.06,6907,86.87,14.48,506.73,-28.95
 2021-02-16,Minas Gerais,Alfredo Vasconcelos,0.0,0,0,0.0,141,5,3.55,2041.41,72.39,2.04,6907,72.39,0.0,535.68,0.0

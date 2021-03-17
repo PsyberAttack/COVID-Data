@@ -1,5 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-12,Minas Gerais,Maripá de Minas,336.36,10,0,0.0,134,2,1.49,4507.23,67.27,4.51,2973,370.0,302.72,538.19,235.45
+2021-03-12,Minas Gerais,Maripá de Minas,0.0,0,0,0.0,134,2,1.49,4507.23,67.27,4.51,2973,336.36,0.0,504.55,-33.64
+2021-03-11,Minas Gerais,Maripá de Minas,0.0,0,0,0.0,134,2,1.49,4507.23,67.27,4.51,2973,336.36,0.0,538.19,0.0
+2021-03-10,Minas Gerais,Maripá de Minas,0.0,0,0,0.0,134,2,1.49,4507.23,67.27,4.51,2973,336.36,-33.64,538.19,0.0
+2021-03-09,Minas Gerais,Maripá de Minas,336.36,10,0,0.0,134,2,1.49,4507.23,67.27,4.51,2973,370.0,302.72,538.19,235.45
 2021-02-18,Minas Gerais,Maripá de Minas,0.0,0,0,0.0,124,2,1.61,4170.87,67.27,4.17,2973,67.28,-33.64,302.74,0.0
 2021-02-17,Minas Gerais,Maripá de Minas,0.0,0,0,0.0,124,2,1.61,4170.87,67.27,4.17,2973,100.92,0.0,302.74,-33.64
 2021-02-16,Minas Gerais,Maripá de Minas,0.0,0,0,0.0,124,2,1.61,4170.87,67.27,4.17,2973,100.92,0.0,336.38,0.0

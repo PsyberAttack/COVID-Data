@@ -1,5 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-12,Minas Gerais,Santa Cruz do Escalvado,315.26,15,1,21.02,237,5,2.11,4981.08,105.09,4.98,4758,357.3,273.23,1387.13,315.26
+2021-03-12,Minas Gerais,Santa Cruz do Escalvado,42.03,2,0,0.0,237,5,2.11,4981.08,105.09,4.98,4758,315.25,42.03,1366.1,21.01
+2021-03-11,Minas Gerais,Santa Cruz do Escalvado,42.03,2,0,0.0,235,5,2.13,4939.05,105.09,4.94,4758,273.22,21.01,1345.09,42.03
+2021-03-10,Minas Gerais,Santa Cruz do Escalvado,0.0,0,0,0.0,233,5,2.15,4897.02,105.09,4.9,4758,252.21,-21.02,1303.06,0.0
+2021-03-09,Minas Gerais,Santa Cruz do Escalvado,231.19,11,1,21.02,233,5,2.15,4897.02,105.09,4.9,4758,273.23,189.16,1303.06,231.19
 2021-02-18,Minas Gerais,Santa Cruz do Escalvado,0.0,0,-1,-21.02,222,4,1.8,4665.83,84.07,4.67,4758,84.07,-21.02,1071.87,-126.1
 2021-02-17,Minas Gerais,Santa Cruz do Escalvado,0.0,0,0,0.0,222,5,2.25,4665.83,105.09,4.67,4758,105.09,-63.05,1197.97,-126.1
 2021-02-16,Minas Gerais,Santa Cruz do Escalvado,0.0,0,0,0.0,222,5,2.25,4665.83,105.09,4.67,4758,168.14,0.0,1324.07,0.0

@@ -1,5 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-12,Minas Gerais,Machacalis,435.94,31,0,0.0,393,4,1.02,5526.65,56.25,5.53,7111,478.13,435.94,956.25,435.94
+2021-03-12,Minas Gerais,Machacalis,0.0,0,0,0.0,393,4,1.02,5526.65,56.25,5.53,7111,435.94,0.0,900.0,-28.13
+2021-03-11,Minas Gerais,Machacalis,70.31,5,0,0.0,393,4,1.02,5526.65,56.25,5.53,7111,435.94,70.31,928.13,56.25
+2021-03-10,Minas Gerais,Machacalis,98.44,7,0,0.0,388,4,1.03,5456.34,56.25,5.46,7111,365.63,56.25,871.88,84.38
+2021-03-09,Minas Gerais,Machacalis,267.19,19,0,0.0,381,4,1.05,5357.9,56.25,5.36,7111,309.38,267.19,787.5,267.19
 2021-02-18,Minas Gerais,Machacalis,0.0,0,0,0.0,362,4,1.1,5090.7,56.25,5.09,7111,42.19,-70.31,520.31,0.0
 2021-02-17,Minas Gerais,Machacalis,0.0,0,0,0.0,362,4,1.1,5090.7,56.25,5.09,7111,112.5,0.0,520.31,-98.44
 2021-02-16,Minas Gerais,Machacalis,0.0,0,0,0.0,362,4,1.1,5090.7,56.25,5.09,7111,112.5,0.0,618.75,0.0
