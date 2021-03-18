@@ -1,8 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-12,Minas Gerais,Ouro Verde de Minas,84.26,5,0,0.0,143,5,3.5,2409.84,84.26,2.41,5934,185.37,84.26,455.01,50.56
-2021-03-11,Minas Gerais,Ouro Verde de Minas,67.41,4,0,0.0,138,5,3.62,2325.58,84.26,2.33,5934,101.11,67.41,404.45,67.41
-2021-03-10,Minas Gerais,Ouro Verde de Minas,0.0,0,0,0.0,134,5,3.73,2258.17,84.26,2.26,5934,33.7,0.0,337.04,-134.82
-2021-03-09,Minas Gerais,Ouro Verde de Minas,33.7,2,0,0.0,134,5,3.73,2258.17,84.26,2.26,5934,33.7,33.7,471.86,16.85
+2021-03-12,Minas Gerais,Ouro Verde de Minas,84.26,5,0,0.0,143,5,3.5,2409.84,84.26,2.41,5934,185.37,84.26,455.01,84.26
+2021-03-11,Minas Gerais,Ouro Verde de Minas,67.41,4,0,0.0,138,5,3.62,2325.58,84.26,2.33,5934,101.11,67.41,370.75,33.71
+2021-03-10,Minas Gerais,Ouro Verde de Minas,0.0,0,0,0.0,134,5,3.73,2258.17,84.26,2.26,5934,33.7,0.0,337.04,0.0
+2021-03-09,Minas Gerais,Ouro Verde de Minas,16.85,1,0,0.0,134,5,3.73,2258.17,84.26,2.26,5934,33.7,16.85,337.04,-117.97
+2021-03-08,Minas Gerais,Ouro Verde de Minas,16.85,1,0,0.0,133,5,3.76,2241.32,84.26,2.24,5934,16.85,16.85,455.01,0.0
 2021-02-18,Minas Gerais,Ouro Verde de Minas,0.0,0,0,0.0,132,5,3.79,2224.47,84.26,2.22,5934,0.0,0.0,455.01,0.0
 2021-02-17,Minas Gerais,Ouro Verde de Minas,0.0,0,0,0.0,132,5,3.79,2224.47,84.26,2.22,5934,0.0,0.0,455.01,0.0
 2021-02-16,Minas Gerais,Ouro Verde de Minas,0.0,0,0,0.0,132,5,3.79,2224.47,84.26,2.22,5934,0.0,0.0,455.01,0.0

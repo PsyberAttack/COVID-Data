@@ -1,8 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-12,Minas Gerais,Divino das Laranjeiras,0.0,0,0,0.0,199,2,1.01,3996.79,40.17,4.0,4979,341.43,-20.08,461.92,0.0
-2021-03-11,Minas Gerais,Divino das Laranjeiras,80.34,4,0,0.0,199,2,1.01,3996.79,40.17,4.0,4979,361.51,80.34,461.92,80.34
+2021-03-12,Minas Gerais,Divino das Laranjeiras,0.0,0,0,0.0,199,2,1.01,3996.79,40.17,4.0,4979,341.43,0.0,441.84,-20.08
+2021-03-11,Minas Gerais,Divino das Laranjeiras,80.34,4,0,0.0,199,2,1.01,3996.79,40.17,4.0,4979,341.43,60.26,461.92,80.34
 2021-03-10,Minas Gerais,Divino das Laranjeiras,20.08,1,0,0.0,195,2,1.03,3916.45,40.17,3.92,4979,281.17,20.08,381.58,20.08
-2021-03-09,Minas Gerais,Divino das Laranjeiras,241.01,12,0,0.0,194,2,1.03,3896.36,40.17,3.9,4979,261.09,241.01,361.5,241.01
+2021-03-09,Minas Gerais,Divino das Laranjeiras,0.0,0,0,0.0,194,2,1.03,3896.36,40.17,3.9,4979,261.09,0.0,361.5,0.0
+2021-03-08,Minas Gerais,Divino das Laranjeiras,241.01,12,0,0.0,194,2,1.03,3896.36,40.17,3.9,4979,261.09,241.01,361.5,241.01
 2021-02-18,Minas Gerais,Divino das Laranjeiras,0.0,0,0,0.0,182,2,1.1,3655.35,40.17,3.66,4979,20.08,0.0,120.49,0.0
 2021-02-17,Minas Gerais,Divino das Laranjeiras,0.0,0,0,0.0,182,2,1.1,3655.35,40.17,3.66,4979,20.08,20.08,120.49,-40.17
 2021-02-16,Minas Gerais,Divino das Laranjeiras,0.0,0,0,0.0,182,2,1.1,3655.35,40.17,3.66,4979,0.0,0.0,160.66,0.0

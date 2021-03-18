@@ -1,8 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-12,Minas Gerais,Santana de Cataguases,51.65,2,0,0.0,299,0,0.0,7722.11,0.0,7.72,3872,335.74,51.65,723.13,25.82
-2021-03-11,Minas Gerais,Santana de Cataguases,51.65,2,0,0.0,297,0,0.0,7670.45,0.0,7.67,3872,284.09,51.65,697.31,25.82
-2021-03-10,Minas Gerais,Santana de Cataguases,51.65,2,0,0.0,295,0,0.0,7618.8,0.0,7.62,3872,232.44,51.65,671.49,-51.66
-2021-03-09,Minas Gerais,Santana de Cataguases,154.96,6,0,0.0,293,0,0.0,7567.15,0.0,7.57,3872,180.79,154.96,723.15,-103.3
+2021-03-12,Minas Gerais,Santana de Cataguases,51.65,2,0,0.0,299,0,0.0,7722.11,0.0,7.72,3872,309.91,25.82,723.13,51.65
+2021-03-11,Minas Gerais,Santana de Cataguases,51.65,2,0,0.0,297,0,0.0,7670.45,0.0,7.67,3872,284.09,51.65,671.48,25.82
+2021-03-10,Minas Gerais,Santana de Cataguases,51.65,2,0,0.0,295,0,0.0,7618.8,0.0,7.62,3872,232.44,51.65,645.66,25.82
+2021-03-09,Minas Gerais,Santana de Cataguases,25.83,1,0,0.0,293,0,0.0,7567.15,0.0,7.57,3872,180.79,25.83,619.84,-77.48
+2021-03-08,Minas Gerais,Santana de Cataguases,129.13,5,0,0.0,292,0,0.0,7541.32,0.0,7.54,3872,154.96,129.13,697.32,-129.13
 2021-02-18,Minas Gerais,Santana de Cataguases,0.0,0,0,0.0,287,0,0.0,7412.19,0.0,7.41,3872,25.83,-25.83,826.45,-284.09
 2021-02-17,Minas Gerais,Santana de Cataguases,0.0,0,0,0.0,287,0,0.0,7412.19,0.0,7.41,3872,51.66,0.0,1110.54,-77.48
 2021-02-16,Minas Gerais,Santana de Cataguases,25.83,1,0,0.0,287,0,0.0,7412.19,0.0,7.41,3872,51.66,25.83,1188.02,25.83

@@ -1,8 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-12,Minas Gerais,São João Batista do Glória,67.09,5,0,0.0,545,11,2.02,7312.49,147.59,7.31,7453,845.3,67.09,2173.62,-67.08
-2021-03-11,Minas Gerais,São João Batista do Glória,0.0,0,0,0.0,540,11,2.04,7245.4,147.59,7.25,7453,778.21,0.0,2240.7,-67.09
-2021-03-10,Minas Gerais,São João Batista do Glória,67.09,5,1,13.42,540,11,2.04,7245.4,147.59,7.25,7453,778.21,26.84,2307.79,-40.25
-2021-03-09,Minas Gerais,São João Batista do Glória,576.95,43,1,13.42,535,10,1.87,7178.32,134.17,7.18,7453,751.37,469.61,2348.04,375.69
+2021-03-12,Minas Gerais,São João Batista do Glória,67.09,5,0,0.0,545,11,2.02,7312.49,147.59,7.31,7453,805.05,26.84,2173.62,67.09
+2021-03-11,Minas Gerais,São João Batista do Glória,0.0,0,0,0.0,540,11,2.04,7245.4,147.59,7.25,7453,778.21,0.0,2106.53,-134.17
+2021-03-10,Minas Gerais,São João Batista do Glória,67.09,5,1,13.42,540,11,2.04,7245.4,147.59,7.25,7453,778.21,67.09,2240.7,0.0
+2021-03-09,Minas Gerais,São João Batista do Glória,67.09,5,0,0.0,535,10,1.87,7178.32,134.17,7.18,7453,711.12,26.84,2240.7,-40.25
+2021-03-08,Minas Gerais,São João Batista do Glória,509.86,38,1,13.42,530,10,1.89,7111.23,134.17,7.11,7453,684.28,402.52,2280.95,308.6
 2021-02-18,Minas Gerais,São João Batista do Glória,53.67,4,0,0.0,492,9,1.83,6601.37,120.76,6.6,7453,281.76,-120.76,1972.35,26.84
 2021-02-17,Minas Gerais,São João Batista do Glória,40.25,3,2,26.83,488,9,1.84,6547.7,120.76,6.55,7453,402.52,40.25,1945.51,-53.67
 2021-02-16,Minas Gerais,São João Batista do Glória,40.25,3,0,0.0,485,7,1.44,6507.45,93.92,6.51,7453,362.27,40.25,1999.18,40.25

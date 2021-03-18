@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-15,Mato Grosso,General Carneiro,0.0,0,0,0.0,459,12,2.61,8285.2,216.61,8.29,5540,18.05,0.0,342.95,0.0
-2021-03-14,Mato Grosso,General Carneiro,0.0,0,0,0.0,459,12,2.61,8285.2,216.61,8.29,5540,18.05,-18.05,342.95,0.0
+2021-03-16,Mato Grosso,General Carneiro,36.1,2,0,0.0,461,12,2.6,8321.3,216.61,8.32,5540,54.15,36.1,324.9,0.0
+2021-03-15,Mato Grosso,General Carneiro,0.0,0,0,0.0,459,12,2.61,8285.2,216.61,8.29,5540,18.05,0.0,324.9,-18.05
+2021-03-14,Mato Grosso,General Carneiro,0.0,0,0,0.0,459,12,2.61,8285.2,216.61,8.29,5540,18.05,0.0,342.95,0.0
+2021-03-13,Mato Grosso,General Carneiro,0.0,0,0,0.0,459,12,2.61,8285.2,216.61,8.29,5540,18.05,-18.05,342.95,0.0
 2021-03-12,Mato Grosso,General Carneiro,0.0,0,0,0.0,459,12,2.61,8285.2,216.61,8.29,5540,36.1,0.0,342.95,0.0
 2021-03-11,Mato Grosso,General Carneiro,18.05,1,0,0.0,459,12,2.61,8285.2,216.61,8.29,5540,36.1,0.0,342.95,18.05
 2021-03-10,Mato Grosso,General Carneiro,0.0,0,0,0.0,458,12,2.62,8267.15,216.61,8.27,5540,36.1,-54.15,324.9,0.0

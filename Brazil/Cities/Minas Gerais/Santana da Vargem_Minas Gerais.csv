@@ -1,8 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-12,Minas Gerais,Santana da Vargem,28.17,2,0,0.0,132,3,2.27,1859.15,42.25,1.86,7100,126.76,28.17,253.5,14.09
-2021-03-11,Minas Gerais,Santana da Vargem,0.0,0,0,0.0,130,3,2.31,1830.99,42.25,1.83,7100,98.59,0.0,239.41,0.0
+2021-03-12,Minas Gerais,Santana da Vargem,28.17,2,0,0.0,132,3,2.27,1859.15,42.25,1.86,7100,126.76,28.17,253.5,28.17
+2021-03-11,Minas Gerais,Santana da Vargem,0.0,0,0,0.0,130,3,2.31,1830.99,42.25,1.83,7100,98.59,0.0,225.33,-14.08
 2021-03-10,Minas Gerais,Santana da Vargem,28.17,2,0,0.0,130,3,2.31,1830.99,42.25,1.83,7100,98.59,28.17,239.41,28.17
-2021-03-09,Minas Gerais,Santana da Vargem,70.42,5,0,0.0,128,3,2.34,1802.82,42.25,1.8,7100,70.42,56.34,211.24,14.08
+2021-03-09,Minas Gerais,Santana da Vargem,14.08,1,0,0.0,128,3,2.34,1802.82,42.25,1.8,7100,70.42,14.08,211.24,14.08
+2021-03-08,Minas Gerais,Santana da Vargem,56.34,4,0,0.0,127,3,2.36,1788.73,42.25,1.79,7100,56.34,42.26,197.16,0.0
 2021-02-18,Minas Gerais,Santana da Vargem,0.0,0,0,0.0,123,3,2.44,1732.39,42.25,1.73,7100,14.08,0.0,197.16,-56.34
 2021-02-17,Minas Gerais,Santana da Vargem,0.0,0,0,0.0,123,3,2.44,1732.39,42.25,1.73,7100,14.08,0.0,253.5,-28.17
 2021-02-16,Minas Gerais,Santana da Vargem,0.0,0,0,0.0,123,3,2.44,1732.39,42.25,1.73,7100,14.08,0.0,281.67,0.0

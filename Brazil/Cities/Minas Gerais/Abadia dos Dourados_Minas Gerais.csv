@@ -1,8 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-12,Minas Gerais,Abadia dos Dourados,114.47,8,0,0.0,306,7,2.29,4378.31,100.16,4.38,6989,1631.14,71.55,2804.4,114.47
-2021-03-11,Minas Gerais,Abadia dos Dourados,0.0,0,0,0.0,298,7,2.35,4263.84,100.16,4.26,6989,1559.59,-71.54,2689.93,0.0
-2021-03-10,Minas Gerais,Abadia dos Dourados,0.0,0,0,0.0,298,7,2.35,4263.84,100.16,4.26,6989,1631.13,-100.16,2689.93,0.0
-2021-03-09,Minas Gerais,Abadia dos Dourados,1516.67,106,5,71.54,298,7,2.35,4263.84,100.16,4.26,6989,1731.29,887.11,2689.93,1516.67
+2021-03-12,Minas Gerais,Abadia dos Dourados,114.47,8,0,0.0,306,7,2.29,4378.31,100.16,4.38,6989,1631.14,114.47,2790.09,100.16
+2021-03-11,Minas Gerais,Abadia dos Dourados,0.0,0,0,0.0,298,7,2.35,4263.84,100.16,4.26,6989,1516.67,-42.92,2689.93,0.0
+2021-03-10,Minas Gerais,Abadia dos Dourados,0.0,0,0,0.0,298,7,2.35,4263.84,100.16,4.26,6989,1559.59,-71.54,2689.93,0.0
+2021-03-09,Minas Gerais,Abadia dos Dourados,0.0,0,1,14.31,298,7,2.35,4263.84,100.16,4.26,6989,1631.13,-100.16,2689.93,0.0
+2021-03-08,Minas Gerais,Abadia dos Dourados,1516.67,106,4,57.23,298,6,2.01,4263.84,85.85,4.26,6989,1731.29,887.11,2689.93,1516.67
 2021-02-18,Minas Gerais,Abadia dos Dourados,0.0,0,0,0.0,192,2,1.04,2747.17,28.62,2.75,6989,844.18,0.0,1173.26,0.0
 2021-02-17,Minas Gerais,Abadia dos Dourados,0.0,0,0,0.0,192,2,1.04,2747.17,28.62,2.75,6989,844.18,-171.7,1173.26,0.0
 2021-02-16,Minas Gerais,Abadia dos Dourados,0.0,0,0,0.0,192,2,1.04,2747.17,28.62,2.75,6989,1015.88,0.0,1173.26,0.0

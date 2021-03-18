@@ -1,8 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-12,Minas Gerais,Fronteira dos Vales,65.49,3,0,0.0,146,4,2.74,3187.08,87.32,3.19,4581,1113.3,-43.66,1462.58,21.83
-2021-03-11,Minas Gerais,Fronteira dos Vales,0.0,0,0,0.0,143,4,2.8,3121.59,87.32,3.12,4581,1156.96,0.0,1440.75,0.0
-2021-03-10,Minas Gerais,Fronteira dos Vales,0.0,0,0,0.0,143,4,2.8,3121.59,87.32,3.12,4581,1156.96,0.0,1440.75,-109.15
-2021-03-09,Minas Gerais,Fronteira dos Vales,1047.81,48,3,65.49,143,4,2.8,3121.59,87.32,3.12,4581,1156.96,960.49,1549.9,1004.15
+2021-03-12,Minas Gerais,Fronteira dos Vales,65.49,3,0,0.0,146,4,2.74,3187.08,87.32,3.19,4581,1113.3,65.49,1462.58,65.49
+2021-03-11,Minas Gerais,Fronteira dos Vales,0.0,0,0,0.0,143,4,2.8,3121.59,87.32,3.12,4581,1047.81,-109.15,1397.09,-43.66
+2021-03-10,Minas Gerais,Fronteira dos Vales,0.0,0,0,0.0,143,4,2.8,3121.59,87.32,3.12,4581,1156.96,0.0,1440.75,0.0
+2021-03-09,Minas Gerais,Fronteira dos Vales,0.0,0,0,0.0,143,4,2.8,3121.59,87.32,3.12,4581,1156.96,0.0,1440.75,-109.15
+2021-03-08,Minas Gerais,Fronteira dos Vales,1047.81,48,3,65.49,143,4,2.8,3121.59,87.32,3.12,4581,1156.96,960.49,1549.9,1004.15
 2021-02-18,Minas Gerais,Fronteira dos Vales,0.0,0,0,0.0,95,1,1.05,2073.78,21.83,2.07,4581,196.47,0.0,545.75,0.0
 2021-02-17,Minas Gerais,Fronteira dos Vales,0.0,0,0,0.0,95,1,1.05,2073.78,21.83,2.07,4581,196.47,0.0,545.75,0.0
 2021-02-16,Minas Gerais,Fronteira dos Vales,0.0,0,0,0.0,95,1,1.05,2073.78,21.83,2.07,4581,196.47,0.0,545.75,0.0
