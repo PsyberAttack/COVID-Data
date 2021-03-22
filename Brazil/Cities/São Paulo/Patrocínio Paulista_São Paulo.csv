@@ -1,4 +1,10 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-03-20,São Paulo,Patrocínio Paulista,0.0,0,0,0.0,483,12,2.48,3292.43,81.8,3.29,14670,40.9,-13.63,272.68,-6.82
+2021-03-19,São Paulo,Patrocínio Paulista,0.0,0,0,0.0,483,12,2.48,3292.43,81.8,3.29,14670,54.53,-20.45,279.5,-6.82
+2021-03-18,São Paulo,Patrocínio Paulista,20.45,3,0,0.0,483,12,2.48,3292.43,81.8,3.29,14670,74.98,6.82,286.32,-47.72
+2021-03-17,São Paulo,Patrocínio Paulista,13.63,2,0,0.0,480,12,2.5,3271.98,81.8,3.27,14670,68.16,-34.09,334.04,-20.45
+2021-03-16,São Paulo,Patrocínio Paulista,0.0,0,0,0.0,478,12,2.51,3258.35,81.8,3.26,14670,102.25,-6.82,354.49,-34.08
+2021-03-15,São Paulo,Patrocínio Paulista,6.82,1,0,0.0,478,12,2.51,3258.35,81.8,3.26,14670,109.07,6.82,388.57,-27.26
 2021-03-14,São Paulo,Patrocínio Paulista,0.0,0,0,0.0,477,12,2.52,3251.53,81.8,3.25,14670,102.25,0.0,415.83,0.0
 2021-03-13,São Paulo,Patrocínio Paulista,13.63,2,0,0.0,477,12,2.52,3251.53,81.8,3.25,14670,102.25,6.81,415.83,0.0
 2021-03-12,São Paulo,Patrocínio Paulista,20.45,3,0,0.0,475,12,2.53,3237.9,81.8,3.24,14670,95.44,27.27,415.83,-34.08
