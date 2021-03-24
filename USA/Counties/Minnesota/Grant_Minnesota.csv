@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-03-23,Minnesota,Grant,0.0,0,0,0.0,501,8.0,1.6,8320.88,132.87,8.32,6021,10.99,99.66,0.0,282.36,-33.22
 2021-03-22,Minnesota,Grant,0.0,0,0,0.0,501,8.0,1.6,8320.88,132.87,8.32,6021,10.99,99.66,0.0,315.58,-16.61
 2021-03-21,Minnesota,Grant,16.61,1,0,0.0,501,8.0,1.6,8320.88,132.87,8.32,6021,10.99,99.66,16.61,332.19,16.61
 2021-03-20,Minnesota,Grant,33.22,2,0,0.0,500,8.0,1.6,8304.27,132.87,8.3,6021,10.99,83.05,33.22,315.58,49.83
