@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-03-26,Illinois,Johnson,8.03,1,1,8.03,1367,19.0,1.39,10974.63,152.54,10.97,12456,36.22,24.09,8.03,160.59,8.03
 2021-03-25,Illinois,Johnson,8.03,1,0,0.0,1366,18.0,1.32,10966.6,144.51,10.97,12456,36.22,16.06,8.03,152.56,-8.03
 2021-03-24,Illinois,Johnson,0.0,0,0,0.0,1365,18.0,1.32,10958.57,144.51,10.96,12456,36.22,8.03,-16.06,160.59,-48.17
 2021-03-23,Illinois,Johnson,8.03,1,0,0.0,1365,18.0,1.32,10958.57,144.51,10.96,12456,36.22,24.09,8.03,208.76,-16.05
