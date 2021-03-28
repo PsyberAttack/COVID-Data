@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-24,São Paulo,Mirante do Paranapanema,49.29,9,0,0.0,381,10,2.62,2086.64,54.77,2.09,18259,109.53,21.91,268.37,16.43
-2021-03-23,São Paulo,Mirante do Paranapanema,0.0,0,0,0.0,372,10,2.69,2037.35,54.77,2.04,18259,87.62,0.0,251.94,0.0
+2021-03-25,São Paulo,Mirante do Paranapanema,5.48,1,1,5.48,382,11,2.88,2092.12,60.24,2.09,18259,71.2,-10.95,279.33,10.96
+2021-03-24,São Paulo,Mirante do Paranapanema,49.29,9,0,0.0,381,10,2.62,2086.64,54.77,2.09,18259,82.15,21.91,268.37,49.29
+2021-03-23,São Paulo,Mirante do Paranapanema,0.0,0,0,0.0,372,10,2.69,2037.35,54.77,2.04,18259,60.24,-27.38,219.08,-32.86
+2021-03-22,São Paulo,Mirante do Paranapanema,0.0,0,0,0.0,372,10,2.69,2037.35,54.77,2.04,18259,87.62,0.0,251.94,0.0
 2021-03-21,São Paulo,Mirante do Paranapanema,0.0,0,0,0.0,372,10,2.69,2037.35,54.77,2.04,18259,87.62,0.0,251.94,0.0
 2021-03-20,São Paulo,Mirante do Paranapanema,10.95,2,1,5.48,372,10,2.69,2037.35,54.77,2.04,18259,87.62,5.47,251.94,0.0
 2021-03-19,São Paulo,Mirante do Paranapanema,5.48,1,0,0.0,370,9,2.43,2026.4,49.29,2.03,18259,82.15,5.48,251.94,-5.47

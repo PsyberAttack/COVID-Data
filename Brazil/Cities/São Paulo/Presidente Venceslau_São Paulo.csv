@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-24,São Paulo,Presidente Venceslau,103.76,41,0,0.0,1489,54,3.63,3768.09,136.65,3.77,39516,351.76,106.29,642.77,78.45
-2021-03-23,São Paulo,Presidente Venceslau,2.53,1,0,0.0,1448,54,3.73,3664.34,136.65,3.66,39516,245.47,2.53,564.32,2.53
+2021-03-25,São Paulo,Presidente Venceslau,25.31,10,0,0.0,1499,54,3.6,3793.4,136.65,3.79,39516,222.71,-111.34,642.78,15.19
+2021-03-24,São Paulo,Presidente Venceslau,103.76,41,0,0.0,1489,54,3.63,3768.09,136.65,3.77,39516,334.05,86.05,627.59,88.58
+2021-03-23,São Paulo,Presidente Venceslau,2.53,1,0,0.0,1448,54,3.73,3664.34,136.65,3.66,39516,248.0,5.06,539.01,-22.78
+2021-03-22,São Paulo,Presidente Venceslau,0.0,0,0,0.0,1447,54,3.73,3661.81,136.65,3.66,39516,242.94,0.0,561.79,0.0
 2021-03-21,São Paulo,Presidente Venceslau,0.0,0,0,0.0,1447,54,3.73,3661.81,136.65,3.66,39516,242.94,0.0,561.79,0.0
 2021-03-20,São Paulo,Presidente Venceslau,25.31,10,0,0.0,1447,54,3.73,3661.81,136.65,3.66,39516,242.94,22.78,561.79,0.0
 2021-03-19,São Paulo,Presidente Venceslau,65.8,26,1,2.53,1437,54,3.76,3636.5,136.65,3.64,39516,220.16,68.33,561.79,50.62

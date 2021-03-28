@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-24,São Paulo,Natividade da Serra,15.01,1,0,0.0,83,1,1.2,1246.06,15.01,1.25,6661,30.02,15.01,165.12,-15.02
-2021-03-23,São Paulo,Natividade da Serra,0.0,0,0,0.0,82,1,1.22,1231.05,15.01,1.23,6661,15.01,0.0,180.14,-15.01
+2021-03-25,São Paulo,Natividade da Serra,15.01,1,0,0.0,84,1,1.19,1261.07,15.01,1.26,6661,45.03,15.01,165.12,15.01
+2021-03-24,São Paulo,Natividade da Serra,15.01,1,0,0.0,83,1,1.2,1246.06,15.01,1.25,6661,30.02,15.01,150.11,0.0
+2021-03-23,São Paulo,Natividade da Serra,0.0,0,0,0.0,82,1,1.22,1231.05,15.01,1.23,6661,15.01,0.0,150.11,-30.03
+2021-03-22,São Paulo,Natividade da Serra,0.0,0,0,0.0,82,1,1.22,1231.05,15.01,1.23,6661,15.01,0.0,180.14,-15.01
 2021-03-21,São Paulo,Natividade da Serra,0.0,0,0,0.0,82,1,1.22,1231.05,15.01,1.23,6661,15.01,0.0,195.15,0.0
 2021-03-20,São Paulo,Natividade da Serra,15.01,1,0,0.0,82,1,1.22,1231.05,15.01,1.23,6661,15.01,15.01,195.15,-30.03
 2021-03-19,São Paulo,Natividade da Serra,0.0,0,0,0.0,81,1,1.23,1216.03,15.01,1.22,6661,0.0,0.0,225.18,-30.03

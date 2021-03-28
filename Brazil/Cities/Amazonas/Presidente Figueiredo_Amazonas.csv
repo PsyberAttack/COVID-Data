@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-25,Amazonas,Presidente Figueiredo,19.29,7,0,0.0,5564,88,1.58,15336.7,242.56,15.34,36279,181.91,2.75,810.39,-19.3
-2021-03-24,Amazonas,Presidente Figueiredo,52.37,19,0,0.0,5557,88,1.58,15317.4,242.56,15.32,36279,179.16,-8.27,829.69,44.1
+2021-03-26,Amazonas,Presidente Figueiredo,27.56,10,0,0.0,5574,88,1.58,15364.26,242.56,15.36,36279,159.85,2.75,774.55,-13.79
+2021-03-25,Amazonas,Presidente Figueiredo,19.29,7,0,0.0,5564,88,1.58,15336.7,242.56,15.34,36279,157.1,-5.52,788.34,-2.76
+2021-03-24,Amazonas,Presidente Figueiredo,22.05,8,0,0.0,5557,88,1.58,15317.4,242.56,15.32,36279,162.62,5.51,791.1,-16.54
+2021-03-23,Amazonas,Presidente Figueiredo,30.32,11,0,0.0,5549,88,1.59,15295.35,242.56,15.3,36279,157.11,-30.32,807.64,22.05
 2021-03-22,Amazonas,Presidente Figueiredo,22.05,8,0,0.0,5538,88,1.59,15265.03,242.56,15.27,36279,187.43,-11.03,785.59,-22.05
 2021-03-21,Amazonas,Presidente Figueiredo,19.29,7,0,0.0,5530,88,1.59,15242.98,242.56,15.24,36279,198.46,-13.79,807.64,-8.27
 2021-03-20,Amazonas,Presidente Figueiredo,19.29,7,0,0.0,5523,88,1.59,15223.68,242.56,15.22,36279,212.25,-22.06,815.91,-8.27

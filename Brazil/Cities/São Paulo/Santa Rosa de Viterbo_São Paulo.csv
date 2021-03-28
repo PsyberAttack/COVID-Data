@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-24,São Paulo,Santa Rosa de Viterbo,41.45,11,0,0.0,1104,16,1.45,4159.76,60.29,4.16,26540,271.29,22.61,512.44,15.07
-2021-03-23,São Paulo,Santa Rosa de Viterbo,30.14,8,0,0.0,1093,16,1.46,4118.31,60.29,4.12,26540,248.68,30.14,497.37,26.37
+2021-03-25,São Paulo,Santa Rosa de Viterbo,11.3,3,0,0.0,1107,16,1.45,4171.06,60.29,4.17,26540,192.16,-26.38,489.83,11.3
+2021-03-24,São Paulo,Santa Rosa de Viterbo,41.45,11,0,0.0,1104,16,1.45,4159.76,60.29,4.16,26540,218.54,-11.3,478.53,7.54
+2021-03-23,São Paulo,Santa Rosa de Viterbo,30.14,8,0,0.0,1093,16,1.46,4118.31,60.29,4.12,26540,229.84,11.3,470.99,3.76
+2021-03-22,São Paulo,Santa Rosa de Viterbo,0.0,0,0,0.0,1085,16,1.47,4088.17,60.29,4.09,26540,218.54,0.0,467.23,-3.77
 2021-03-21,São Paulo,Santa Rosa de Viterbo,26.38,7,0,0.0,1085,16,1.47,4088.17,60.29,4.09,26540,218.54,18.84,471.0,22.61
 2021-03-20,São Paulo,Santa Rosa de Viterbo,52.75,14,0,0.0,1078,16,1.48,4061.79,60.29,4.06,26540,199.7,22.61,448.39,41.45
 2021-03-19,São Paulo,Santa Rosa de Viterbo,30.14,8,0,0.0,1064,16,1.5,4009.04,60.29,4.01,26540,177.09,22.6,406.94,26.37

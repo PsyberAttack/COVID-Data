@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-03-27,Texas,Montgomery,0.0,0,2,0.34,48926,512.0,1.05,8279.56,86.64,8.28,590925,566.77,145.87,0.0,664.57,0.0
 2021-03-26,Texas,Montgomery,15.91,94,1,0.17,48926,510.0,1.04,8279.56,86.31,8.28,590925,566.77,145.87,-23.01,664.57,-7.27
 2021-03-25,Texas,Montgomery,20.14,119,5,0.85,48832,509.0,1.04,8263.65,86.14,8.26,590925,566.77,168.88,-8.29,671.84,-27.75
 2021-03-24,Texas,Montgomery,35.03,207,5,0.85,48713,504.0,1.03,8243.52,85.29,8.24,590925,566.77,177.17,23.01,699.59,11.34
