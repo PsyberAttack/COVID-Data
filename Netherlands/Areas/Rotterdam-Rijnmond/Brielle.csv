@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0501,2021-03-28,Rotterdam-Rijnmond,Brielle,46.29,8,0,0.0,1081,9,0.83,6255.06,52.08,6.26,17282,271.95,0.0,839.03,34.72
+GM0501,2021-03-27,Rotterdam-Rijnmond,Brielle,52.08,9,0,0.0,1073,9,0.84,6208.77,52.08,6.21,17282,271.95,-34.72,804.31,40.51
 GM0501,2021-03-26,Rotterdam-Rijnmond,Brielle,40.5,7,0,0.0,1064,9,0.85,6156.69,52.08,6.16,17282,306.67,11.57,763.8,5.78
 GM0501,2021-03-25,Rotterdam-Rijnmond,Brielle,46.29,8,0,0.0,1057,9,0.85,6116.19,52.08,6.12,17282,295.1,23.14,758.02,17.36
 GM0501,2021-03-24,Rotterdam-Rijnmond,Brielle,46.29,8,0,0.0,1049,9,0.86,6069.9,52.08,6.07,17282,271.96,5.79,740.66,46.29
