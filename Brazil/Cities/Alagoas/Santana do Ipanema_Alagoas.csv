@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-03-27,Alagoas,Santana do Ipanema,46.17,22,0,0.0,3389,47,1.39,7111.68,98.63,7.11,47654,451.17,25.19,1313.66,37.78
+2021-03-26,Alagoas,Santana do Ipanema,138.5,66,3,6.3,3367,47,1.4,7065.51,98.63,7.07,47654,425.98,23.08,1275.88,67.15
+2021-03-23,Alagoas,Santana do Ipanema,37.77,18,0,0.0,3301,44,1.33,6927.02,92.33,6.93,47654,402.9,-46.17,1208.73,14.69
+2021-03-22,Alagoas,Santana do Ipanema,23.08,11,0,0.0,3283,44,1.34,6889.24,92.33,6.89,47654,449.07,-37.78,1194.04,6.29
 2021-03-21,Alagoas,Santana do Ipanema,65.05,31,0,0.0,3272,44,1.34,6866.16,92.33,6.87,47654,486.85,12.59,1187.75,10.49
 2021-03-20,Alagoas,Santana do Ipanema,52.46,25,2,4.2,3241,44,1.36,6801.11,92.33,6.8,47654,474.26,29.38,1177.26,48.26
 2021-03-19,Alagoas,Santana do Ipanema,88.14,42,2,4.2,3216,42,1.31,6748.65,88.14,6.75,47654,444.88,65.06,1129.0,79.75
