@@ -1,4 +1,6 @@
 date,country,region,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-03-29,Mexico,Chiapas,0.04,2,0,0.0,9817,1376,14.02,188.14,26.37,0.19,5217908,1.51,-0.15,7.0,-0.07
+2021-03-28,Mexico,Chiapas,0.15,8,1,0.02,9815,1376,14.02,188.1,26.37,0.19,5217908,1.66,0.0,7.07,0.07
 2021-03-27,Mexico,Chiapas,0.54,28,0,0.0,9807,1375,14.02,187.95,26.35,0.19,5217908,1.66,0.37,7.0,0.33
 2021-03-26,Mexico,Chiapas,0.29,15,2,0.04,9779,1375,14.06,187.41,26.35,0.19,5217908,1.29,-0.05,6.67,-0.04
 2021-03-25,Mexico,Chiapas,0.13,7,0,0.0,9764,1373,14.06,187.12,26.31,0.19,5217908,1.34,0.02,6.71,-0.25
