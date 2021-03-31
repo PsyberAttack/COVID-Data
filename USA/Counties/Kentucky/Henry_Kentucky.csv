@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-03-30,Kentucky,Henry,0.0,0,0,0.0,1290,10.0,0.78,8009.44,62.09,8.01,16106,56.26,55.89,-24.84,353.94,6.21
 2021-03-29,Kentucky,Henry,6.21,1,0,0.0,1290,10.0,0.78,8009.44,62.09,8.01,16106,56.26,80.73,0.0,347.73,-24.83
 2021-03-28,Kentucky,Henry,6.21,1,0,0.0,1289,10.0,0.78,8003.23,62.09,8.0,16106,56.26,80.73,-6.21,372.56,-12.42
 2021-03-27,Kentucky,Henry,-18.63,-3,1,6.21,1288,10.0,0.78,7997.02,62.09,8.0,16106,56.26,86.94,-31.05,384.98,-49.67

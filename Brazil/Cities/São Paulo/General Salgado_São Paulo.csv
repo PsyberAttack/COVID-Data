@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-03-29,São Paulo,General Salgado,0.0,0,0,0.0,645,11,1.71,5934.31,101.21,5.93,10869,653.23,-9.2,1554.87,0.0
+2021-03-28,São Paulo,General Salgado,0.0,0,1,9.2,645,11,1.71,5934.31,101.21,5.93,10869,662.43,-18.4,1554.87,0.0
 2021-03-27,São Paulo,General Salgado,165.61,18,0,0.0,645,10,1.55,5934.31,92.0,5.93,10869,680.83,55.2,1554.87,156.41
 2021-03-26,São Paulo,General Salgado,82.8,9,0,0.0,627,10,1.59,5768.7,92.0,5.77,10869,625.63,9.2,1398.46,73.6
 2021-03-25,São Paulo,General Salgado,202.41,22,0,0.0,618,10,1.62,5685.9,92.0,5.69,10869,616.43,36.8,1324.86,174.81
