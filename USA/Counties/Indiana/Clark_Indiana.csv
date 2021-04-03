@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-01,Indiana,Clark,15.34,18,0,0.0,12460,195.0,1.57,10616.91,166.16,10.62,117360,314.77,73.28,4.26,358.73,-0.85
 2021-03-31,Indiana,Clark,10.22,12,0,0.0,12442,195.0,1.57,10601.57,166.16,10.6,117360,314.77,69.02,-1.71,359.58,-9.38
 2021-03-30,Indiana,Clark,2.56,3,0,0.0,12430,195.0,1.57,10591.34,166.16,10.59,117360,314.77,70.73,-6.81,368.96,-6.81
 2021-03-29,Indiana,Clark,5.96,7,1,0.85,12427,195.0,1.57,10588.79,166.16,10.59,117360,314.77,77.54,-5.97,375.77,-10.23

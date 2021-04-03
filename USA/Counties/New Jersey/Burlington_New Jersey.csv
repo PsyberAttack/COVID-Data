@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-01,New Jersey,Burlington,54.56,243,2,0.45,40095,793.0,1.98,9002.34,178.05,9.0,445384,557.2,295.25,13.02,954.93,26.05
 2021-03-31,New Jersey,Burlington,36.15,161,2,0.45,39852,791.0,1.98,8947.78,177.6,8.95,445384,557.2,282.23,1.57,928.88,10.33
 2021-03-30,New Jersey,Burlington,45.13,201,-2,-0.45,39691,789.0,1.99,8911.64,177.15,8.91,445384,557.2,280.66,4.04,918.55,18.86
 2021-03-29,New Jersey,Burlington,38.39,171,5,1.12,39490,791.0,2.0,8866.51,177.6,8.87,445384,557.2,276.62,6.51,899.69,12.79

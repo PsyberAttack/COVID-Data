@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-01,Virginia,Appomattox,6.31,1,0,0.0,1479,23.0,1.56,9336.53,145.19,9.34,15841,47.4,63.14,-12.63,353.53,-31.57
 2021-03-31,Virginia,Appomattox,12.63,2,0,0.0,1478,23.0,1.56,9330.22,145.19,9.33,15841,47.4,75.77,-18.93,385.1,0.0
 2021-03-30,Virginia,Appomattox,-6.31,-1,0,0.0,1476,23.0,1.56,9317.59,145.19,9.32,15841,47.4,94.7,-12.62,385.1,-18.94
 2021-03-29,Virginia,Appomattox,12.63,2,0,0.0,1477,23.0,1.56,9323.91,145.19,9.32,15841,47.4,107.32,0.0,404.04,0.0
