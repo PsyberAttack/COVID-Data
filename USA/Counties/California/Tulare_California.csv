@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-02,California,Tulare,6.23,29,1,0.21,49100,817.0,1.66,10539.62,175.37,10.54,465861,96.56,30.06,0.0,192.56,-2.36
 2021-04-01,California,Tulare,3.65,17,1,0.21,49071,816.0,1.66,10533.4,175.16,10.53,465861,96.56,30.06,-2.79,194.92,-6.87
 2021-03-31,California,Tulare,3.22,15,0,0.0,49054,815.0,1.66,10529.75,174.94,10.53,465861,96.56,32.85,-1.72,201.79,-2.79
 2021-03-30,California,Tulare,7.3,34,0,0.0,49039,815.0,1.66,10526.53,174.94,10.53,465861,96.56,34.57,-2.57,204.58,-8.37

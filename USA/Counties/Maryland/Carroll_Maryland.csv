@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-02,Maryland,Carroll,17.81,30,1,0.59,8346,218.0,2.61,4955.2,129.43,4.96,168429,376.27,144.27,-2.97,437.55,0.0
 2021-04-01,Maryland,Carroll,30.28,51,0,0.0,8316,217.0,2.61,4937.39,128.84,4.94,168429,376.27,147.24,10.09,437.55,27.31
 2021-03-31,Maryland,Carroll,23.75,40,0,0.0,8265,217.0,2.63,4907.11,128.84,4.91,168429,376.27,137.15,13.66,410.24,15.44
 2021-03-30,Maryland,Carroll,16.62,28,0,0.0,8225,217.0,2.64,4883.36,128.84,4.88,168429,376.27,123.49,0.0,394.8,12.46

@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-02,North Carolina,Martin,0.0,0,0,0.0,2152,38.0,1.77,9492.3,167.62,9.49,22671,49.67,66.16,0.0,286.67,-13.23
 2021-04-01,North Carolina,Martin,17.64,4,0,0.0,2152,38.0,1.77,9492.3,167.62,9.49,22671,49.67,66.16,-4.41,299.9,-13.24
 2021-03-31,North Carolina,Martin,4.41,1,0,0.0,2148,38.0,1.77,9474.66,167.62,9.47,22671,49.67,70.57,-17.64,313.14,-4.41
 2021-03-30,North Carolina,Martin,13.23,3,1,4.41,2147,38.0,1.77,9470.25,167.62,9.47,22671,49.67,88.21,8.82,317.55,4.41
