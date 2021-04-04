@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-03,Oregon,Curry,13.15,3,1,4.38,560,9.0,1.61,2454.74,39.45,2.45,22813,14.01,105.2,0.0,534.78,4.38
 2021-04-02,Oregon,Curry,30.68,7,0,0.0,557,8.0,1.44,2441.59,35.07,2.44,22813,14.01,105.2,30.68,530.4,8.76
 2021-04-01,Oregon,Curry,21.92,5,0,0.0,550,8.0,1.45,2410.91,35.07,2.41,22813,14.01,74.52,-4.38,521.64,13.15
 2021-03-31,Oregon,Curry,8.77,2,0,0.0,545,8.0,1.47,2388.99,35.07,2.39,22813,14.01,78.9,4.39,508.49,8.77
