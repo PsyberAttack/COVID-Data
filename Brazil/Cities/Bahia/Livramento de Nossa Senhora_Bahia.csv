@@ -1,8 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-04-02,Bahia,Livramento de Nossa Senhora,10.93,5,1,2.19,1858,23,1.24,4062.8,50.29,4.06,45732,299.57,-4.38,874.68,2.18
-2021-04-01,Bahia,Livramento de Nossa Senhora,37.17,17,0,0.0,1853,22,1.19,4051.87,48.11,4.05,45732,303.95,19.68,872.5,26.24
-2021-03-31,Bahia,Livramento de Nossa Senhora,45.92,21,2,4.37,1836,22,1.2,4014.69,48.11,4.01,45732,284.27,0.0,846.26,39.36
-2021-03-28,Bahia,Livramento de Nossa Senhora,56.85,26,0,0.0,1815,20,1.1,3968.77,43.73,3.97,45732,284.27,28.42,806.9,43.73
+2021-04-02,Bahia,Livramento de Nossa Senhora,10.93,5,1,2.19,1858,23,1.24,4062.8,50.29,4.06,45732,205.55,-83.1,859.38,-4.38
+2021-04-01,Bahia,Livramento de Nossa Senhora,37.17,17,0,0.0,1853,22,1.19,4051.87,48.11,4.05,45732,288.65,21.86,863.76,28.42
+2021-03-31,Bahia,Livramento de Nossa Senhora,45.92,21,2,4.37,1836,22,1.2,4014.69,48.11,4.01,45732,266.79,28.43,835.34,34.99
+2021-03-28,Bahia,Livramento de Nossa Senhora,34.99,16,0,0.0,1815,20,1.1,3968.77,43.73,3.97,45732,238.36,-10.93,800.35,28.43
+2021-03-27,Bahia,Livramento de Nossa Senhora,21.87,10,0,0.0,1799,20,1.11,3933.79,43.73,3.93,45732,249.29,-6.56,771.92,8.75
 2021-03-26,Bahia,Livramento de Nossa Senhora,19.68,9,0,0.0,1789,20,1.12,3911.92,43.73,3.91,45732,255.85,0.0,763.17,13.12
 2021-03-25,Bahia,Livramento de Nossa Senhora,34.99,16,0,0.0,1780,20,1.12,3892.24,43.73,3.89,45732,255.85,-41.54,750.05,26.24
 2021-03-24,Bahia,Livramento de Nossa Senhora,94.03,43,1,2.19,1764,20,1.13,3857.26,43.73,3.86,45732,297.39,45.92,723.81,94.03
