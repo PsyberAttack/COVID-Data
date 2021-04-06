@@ -1,12 +1,14 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-04-01 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,2.47,7,0,0.0,8532,119,1.39,3011.96,42.01,3.01,283271,78.37,-12.36,346.35,-1.77
-2021-03-31 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,12.0,34,0,0.0,8525,119,1.4,3009.49,42.01,3.01,283271,90.73,-3.89,348.12,-1.06
-2021-03-30 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,19.77,56,0,0.0,8491,119,1.4,2997.48,42.01,3.0,283271,94.62,-4.24,349.18,9.53
-2021-03-29 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,23.3,66,0,0.0,8435,119,1.41,2977.71,42.01,2.98,283271,98.86,-1.06,339.65,16.59
-2021-03-28 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.06,3,0,0.0,8369,119,1.42,2954.41,42.01,2.95,283271,99.92,-3.18,323.06,-1.41
-2021-03-27 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,3.53,10,0,0.0,8366,119,1.42,2953.36,42.01,2.95,283271,103.1,0.35,324.47,2.12
-2021-03-26 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,16.24,46,0,0.0,8356,119,1.42,2949.83,42.01,2.95,283271,102.75,0.35,322.35,5.65
-2021-03-25 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,14.83,42,0,0.0,8310,119,1.43,2933.59,42.01,2.93,283271,102.4,-0.35,316.7,6.0
+2021-04-03 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,0.71,2,0,0.0,8559,119,1.39,3021.49,42.01,3.02,283271,68.49,-2.82,340.7,-1.41
+2021-04-02 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,0.35,1,0,0.0,8557,119,1.39,3020.78,42.01,3.02,283271,71.31,-16.24,342.11,-12.71
+2021-04-01 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,5.65,16,0,0.0,8556,119,1.39,3020.43,42.01,3.02,283271,87.55,-8.47,354.82,1.41
+2021-03-31 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,15.53,44,0,0.0,8540,119,1.39,3014.78,42.01,3.01,283271,96.02,-0.36,353.41,2.47
+2021-03-30 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,21.18,60,0,0.0,8496,119,1.4,2999.25,42.01,3.0,283271,96.38,-2.83,350.94,10.94
+2021-03-29 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,24.01,68,0,0.0,8436,119,1.41,2978.07,42.01,2.98,283271,99.21,-0.35,340.0,17.3
+2021-03-28 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.06,3,0,0.0,8368,119,1.42,2954.06,42.01,2.95,283271,99.56,-3.18,322.7,-1.41
+2021-03-27 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,3.53,10,0,0.0,8365,119,1.42,2953.0,42.01,2.95,283271,102.74,0.35,324.11,2.12
+2021-03-26 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,16.59,47,0,0.0,8355,119,1.42,2949.47,42.01,2.95,283271,102.39,0.7,321.99,6.0
+2021-03-25 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,14.12,40,0,0.0,8308,119,1.43,2932.88,42.01,2.93,283271,101.69,-1.06,315.99,5.29
 2021-03-24 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,15.89,45,0,0.0,8268,119,1.44,2918.76,42.01,2.92,283271,102.75,-6.7,310.7,5.65
 2021-03-23 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,24.01,68,0,0.0,8223,119,1.45,2902.87,42.01,2.9,283271,109.45,4.59,305.05,7.42
 2021-03-22 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,24.36,69,0,0.0,8155,119,1.46,2878.87,42.01,2.88,283271,104.86,3.18,297.63,15.89

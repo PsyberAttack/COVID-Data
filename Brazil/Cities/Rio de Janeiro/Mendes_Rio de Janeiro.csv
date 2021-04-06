@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-04,Rio de Janeiro,Mendes,0.0,0,0,0.0,1300,8,0.62,6983.99,42.98,6.98,18614,96.69,0.0,628.54,0.0
+2021-04-03,Rio de Janeiro,Mendes,10.74,2,2,10.74,1300,8,0.62,6983.99,42.98,6.98,18614,96.69,-5.38,628.54,10.74
+2021-04-02,Rio de Janeiro,Mendes,0.0,0,0,0.0,1298,6,0.46,6973.25,32.23,6.97,18614,102.07,0.0,617.8,-64.47
 2021-04-01,Rio de Janeiro,Mendes,75.21,14,2,10.74,1298,6,0.46,6973.25,32.23,6.97,18614,102.07,59.09,682.27,69.84
 2021-03-31,Rio de Janeiro,Mendes,5.37,1,0,0.0,1284,4,0.31,6898.03,21.49,6.9,18614,42.98,-118.19,612.43,0.0
 2021-03-30,Rio de Janeiro,Mendes,0.0,0,0,0.0,1283,4,0.31,6892.66,21.49,6.89,18614,161.17,-32.23,612.43,-59.1

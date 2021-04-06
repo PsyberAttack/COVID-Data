@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-04,Goiás,Campo Alegre de Goiás,0.0,0,0,0.0,166,9,5.42,2187.38,118.59,2.19,7589,131.76,0.0,527.07,0.0
+2021-04-03,Goiás,Campo Alegre de Goiás,0.0,0,0,0.0,166,9,5.42,2187.38,118.59,2.19,7589,131.76,0.0,527.07,-118.59
+2021-04-02,Goiás,Campo Alegre de Goiás,0.0,0,0,0.0,166,9,5.42,2187.38,118.59,2.19,7589,131.76,-171.3,645.66,-52.71
+2021-04-01,Goiás,Campo Alegre de Goiás,26.35,2,0,0.0,166,9,5.42,2187.38,118.59,2.19,7589,303.06,26.35,698.37,26.35
 2021-03-31,Goiás,Campo Alegre de Goiás,13.18,1,0,0.0,164,9,5.49,2161.02,118.59,2.16,7589,276.71,-39.53,672.02,13.18
 2021-03-30,Goiás,Campo Alegre de Goiás,26.35,2,0,0.0,163,9,5.52,2147.85,118.59,2.15,7589,316.24,13.17,658.84,26.35
 2021-03-29,Goiás,Campo Alegre de Goiás,65.88,5,2,26.35,161,9,5.59,2121.49,118.59,2.12,7589,303.07,65.88,632.49,65.88
