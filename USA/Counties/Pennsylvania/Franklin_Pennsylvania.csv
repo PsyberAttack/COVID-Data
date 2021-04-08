@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-07,Pennsylvania,Franklin,35.52,55,1,0.65,13799,344.0,2.49,8912.07,222.17,8.91,154835,200.51,195.69,4.52,666.51,8.39
+2021-04-06,Pennsylvania,Franklin,48.44,75,2,1.29,13744,343.0,2.5,8876.55,221.53,8.88,154835,200.51,191.17,-1.29,658.12,24.54
 2021-04-05,Pennsylvania,Franklin,13.56,21,0,0.0,13669,341.0,2.49,8828.11,220.23,8.83,154835,200.51,192.46,-1.29,633.58,7.75
 2021-04-04,Pennsylvania,Franklin,15.5,24,0,0.0,13648,341.0,2.5,8814.54,220.23,8.81,154835,200.51,193.75,1.94,625.83,4.52
 2021-04-03,Pennsylvania,Franklin,27.13,42,1,0.65,13624,341.0,2.5,8799.04,220.23,8.8,154835,200.51,191.81,4.53,621.31,16.15

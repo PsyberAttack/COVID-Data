@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-05,São Paulo,Rosana,0.0,0,0,0.0,772,15,1.94,4638.59,90.13,4.64,16643,402.57,0.0,1153.65,0.0
+2021-04-04,São Paulo,Rosana,0.0,0,1,6.01,772,15,1.94,4638.59,90.13,4.64,16643,402.57,-6.01,1153.65,0.0
 2021-04-03,São Paulo,Rosana,0.0,0,0,0.0,772,14,1.81,4638.59,84.12,4.64,16643,408.58,0.0,1153.65,0.0
 2021-04-02,São Paulo,Rosana,0.0,0,0,0.0,772,14,1.81,4638.59,84.12,4.64,16643,408.58,-12.02,1153.65,-102.15
 2021-04-01,São Paulo,Rosana,258.37,43,1,6.01,772,14,1.81,4638.59,84.12,4.64,16643,420.6,252.36,1255.8,258.37

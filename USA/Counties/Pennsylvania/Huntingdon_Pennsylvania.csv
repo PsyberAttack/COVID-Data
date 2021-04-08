@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-07,Pennsylvania,Huntingdon,33.21,15,0,0.0,4629,127.0,2.74,10248.41,281.17,10.25,45168,51.64,143.91,2.21,473.78,-19.92
+2021-04-06,Pennsylvania,Huntingdon,17.71,8,0,0.0,4614,127.0,2.75,10215.2,281.17,10.22,45168,51.64,141.7,2.21,493.7,-119.56
 2021-04-05,Pennsylvania,Huntingdon,6.64,3,0,0.0,4606,127.0,2.76,10197.48,281.17,10.2,45168,51.64,139.49,0.0,613.26,-4.43
 2021-04-04,Pennsylvania,Huntingdon,4.43,2,1,2.21,4603,127.0,2.76,10190.84,281.17,10.19,45168,51.64,139.49,-6.64,617.69,-11.07
 2021-04-03,Pennsylvania,Huntingdon,26.57,12,0,0.0,4601,126.0,2.74,10186.42,278.96,10.19,45168,51.64,146.13,-17.71,628.76,6.64

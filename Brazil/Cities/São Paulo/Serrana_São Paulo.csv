@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-05,São Paulo,Serrana,2.22,1,0,0.0,3435,68,1.98,7615.23,150.75,7.62,45107,239.44,2.22,1345.7,0.0
+2021-04-04,São Paulo,Serrana,0.0,0,1,2.22,3434,68,1.98,7613.01,150.75,7.61,45107,237.22,0.0,1345.7,0.0
 2021-04-03,São Paulo,Serrana,0.0,0,0,0.0,3434,67,1.95,7613.01,148.54,7.61,45107,237.22,-130.8,1345.7,-155.19
 2021-04-02,São Paulo,Serrana,75.38,34,0,0.0,3434,67,1.95,7613.01,148.54,7.61,45107,368.02,77.6,1500.89,75.38
 2021-04-01,São Paulo,Serrana,57.64,26,0,0.0,3400,67,1.97,7537.63,148.54,7.54,45107,290.42,-39.91,1425.51,55.42

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-07,New York,Rensselaer,23.21,37,0,0.0,10285,135.0,1.31,6450.62,84.67,6.45,159442,244.37,176.24,3.77,611.48,14.43
+2021-04-06,New York,Rensselaer,19.44,31,0,0.0,10248,135.0,1.32,6427.42,84.67,6.43,159442,244.37,172.47,-6.9,597.05,6.27
 2021-04-05,New York,Rensselaer,22.58,36,1,0.63,10217,135.0,1.32,6407.97,84.67,6.41,159442,244.37,179.37,3.76,590.78,-3.76
 2021-04-04,New York,Rensselaer,27.6,44,1,0.63,10181,134.0,1.32,6385.39,84.04,6.39,159442,244.37,175.61,-0.62,594.54,10.04
 2021-04-03,New York,Rensselaer,28.85,46,0,0.0,10137,133.0,1.31,6357.8,83.42,6.36,159442,244.37,176.23,8.78,584.5,0.63

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-07,Virginia,Covington city,0.0,0,0,0.0,575,12.0,2.09,10531.14,219.78,10.53,5460,998.41,109.9,-18.32,476.22,-18.32
+2021-04-06,Virginia,Covington city,18.32,1,0,0.0,575,12.0,2.09,10531.14,219.78,10.53,5460,998.41,128.22,18.32,494.54,73.27
 2021-04-05,Virginia,Covington city,0.0,0,0,0.0,574,12.0,2.09,10512.82,219.78,10.51,5460,998.41,109.9,0.0,421.27,0.0
 2021-04-04,Virginia,Covington city,-18.32,-1,0,0.0,574,12.0,2.09,10512.82,219.78,10.51,5460,998.41,109.9,-18.32,421.27,-18.32
 2021-04-03,Virginia,Covington city,73.26,4,0,0.0,575,12.0,2.09,10531.14,219.78,10.53,5460,998.41,128.22,73.26,439.59,73.26

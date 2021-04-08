@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-07,California,San Diego,9.81,328,3,0.09,272257,3588.0,1.32,8143.21,107.32,8.14,3343364,794.38,57.04,1.14,242.16,-0.63
+2021-04-06,California,San Diego,6.34,212,2,0.06,271929,3585.0,1.32,8133.39,107.23,8.13,3343364,794.38,55.9,-0.45,242.79,-7.81
 2021-04-05,California,San Diego,3.8,127,0,0.0,271717,3583.0,1.32,8127.05,107.17,8.13,3343364,794.38,56.35,-4.87,250.6,-10.98
 2021-04-04,California,San Diego,5.77,193,12,0.36,271590,3583.0,1.32,8123.26,107.17,8.12,3343364,794.38,61.22,-0.36,261.58,5.77
 2021-04-03,California,San Diego,8.94,299,3,0.09,271397,3571.0,1.32,8117.48,106.81,8.12,3343364,794.38,61.58,2.18,255.81,-3.65

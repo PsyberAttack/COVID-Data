@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-07,Kentucky,Livingston,10.82,1,0,0.0,797,20.0,2.51,8623.67,216.4,8.62,9242,29.52,97.38,-10.82,248.86,0.0
+2021-04-06,Kentucky,Livingston,-10.82,-1,0,0.0,796,20.0,2.51,8612.85,216.4,8.61,9242,29.52,108.2,-10.82,248.86,-10.82
 2021-04-05,Kentucky,Livingston,21.64,2,0,0.0,797,20.0,2.51,8623.67,216.4,8.62,9242,29.52,119.02,21.64,259.68,10.82
 2021-04-04,Kentucky,Livingston,0.0,0,0,0.0,795,20.0,2.52,8602.03,216.4,8.6,9242,29.52,97.38,-32.46,248.86,-21.64
 2021-04-03,Kentucky,Livingston,43.28,4,0,0.0,795,20.0,2.52,8602.03,216.4,8.6,9242,29.52,129.84,32.46,270.5,43.28

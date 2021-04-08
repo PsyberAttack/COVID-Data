@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-07,Minnesota,Kittson,23.54,1,0,0.0,431,22.0,5.1,10145.95,517.89,10.15,4248,3.87,141.24,47.08,353.1,23.54
+2021-04-06,Minnesota,Kittson,70.62,3,0,0.0,430,22.0,5.12,10122.41,517.89,10.12,4248,3.87,94.16,70.62,329.56,-47.08
 2021-04-05,Minnesota,Kittson,23.54,1,0,0.0,427,22.0,5.15,10051.79,517.89,10.05,4248,3.87,23.54,23.54,376.64,23.54
 2021-04-04,Minnesota,Kittson,0.0,0,0,0.0,426,22.0,5.16,10028.25,517.89,10.03,4248,3.87,0.0,-23.54,353.1,-23.54
 2021-04-03,Minnesota,Kittson,0.0,0,0,0.0,426,22.0,5.16,10028.25,517.89,10.03,4248,3.87,23.54,-70.62,376.64,-23.54

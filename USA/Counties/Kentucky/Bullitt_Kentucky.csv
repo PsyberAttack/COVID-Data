@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-07,Kentucky,Bullitt,16.04,13,-1,-1.23,6841,71.0,1.04,8438.49,87.58,8.44,81069,272.93,44.41,-3.7,342.94,-7.4
+2021-04-06,Kentucky,Bullitt,4.93,4,0,0.0,6828,72.0,1.05,8422.45,88.81,8.42,81069,272.93,48.11,0.0,350.34,-1.24
 2021-04-05,Kentucky,Bullitt,-1.23,-1,1,1.23,6824,72.0,1.06,8417.52,88.81,8.42,81069,272.93,48.11,-17.27,351.58,-29.6
 2021-04-04,Kentucky,Bullitt,0.0,0,0,0.0,6825,71.0,1.04,8418.75,87.58,8.42,81069,272.93,65.38,-9.87,381.18,0.0
 2021-04-03,Kentucky,Bullitt,12.34,10,1,1.23,6825,71.0,1.04,8418.75,87.58,8.42,81069,272.93,75.25,-40.7,381.18,-8.63

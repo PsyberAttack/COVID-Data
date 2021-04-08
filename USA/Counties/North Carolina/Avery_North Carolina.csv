@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-07,North Carolina,Avery,5.71,1,0,0.0,2009,20.0,1.0,11476.72,114.25,11.48,17505,70.77,79.98,-22.85,794.07,-34.28
+2021-04-06,North Carolina,Avery,-5.71,-1,0,0.0,2008,20.0,1.0,11471.01,114.25,11.47,17505,70.77,102.83,-11.42,828.35,-39.99
 2021-04-05,North Carolina,Avery,39.99,7,0,0.0,2009,20.0,1.0,11476.72,114.25,11.48,17505,70.77,114.25,-137.1,868.34,-5.71
 2021-04-04,North Carolina,Avery,0.0,0,0,0.0,2002,20.0,1.0,11436.73,114.25,11.44,17505,70.77,251.35,0.0,874.05,0.0
 2021-04-03,North Carolina,Avery,0.0,0,0,0.0,2002,20.0,1.0,11436.73,114.25,11.44,17505,70.77,251.35,0.0,874.05,-5.71

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-07,Minnesota,Le Sueur,52.64,15,0,0.0,2611,22.0,0.84,9163.33,77.21,9.16,28494,63.51,231.63,3.51,737.04,35.09
+2021-04-06,Minnesota,Le Sueur,17.55,5,0,0.0,2596,22.0,0.85,9110.69,77.21,9.11,28494,63.51,228.12,-14.04,701.95,-10.53
 2021-04-05,Minnesota,Le Sueur,7.02,2,0,0.0,2591,22.0,0.85,9093.14,77.21,9.09,28494,63.51,242.16,-14.04,712.48,0.0
 2021-04-04,Minnesota,Le Sueur,0.0,0,0,0.0,2589,22.0,0.85,9086.12,77.21,9.09,28494,63.51,256.2,-17.55,712.48,-17.55
 2021-04-03,Minnesota,Le Sueur,35.1,10,0,0.0,2589,22.0,0.85,9086.12,77.21,9.09,28494,63.51,273.75,-3.5,730.03,10.53

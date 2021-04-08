@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-07,Kentucky,Garrard,11.39,2,0,0.0,1466,31.0,2.11,8348.52,176.54,8.35,17560,76.32,28.48,0.0,273.33,-5.69
+2021-04-06,Kentucky,Garrard,-5.69,-1,0,0.0,1464,31.0,2.12,8337.13,176.54,8.34,17560,76.32,28.48,-28.47,279.02,-28.47
 2021-04-05,Kentucky,Garrard,-17.08,-3,0,0.0,1465,31.0,2.12,8342.82,176.54,8.34,17560,76.32,56.95,-22.77,307.49,-22.77
 2021-04-04,Kentucky,Garrard,0.0,0,0,0.0,1468,31.0,2.11,8359.91,176.54,8.36,17560,76.32,79.72,-5.69,330.26,-11.39
 2021-04-03,Kentucky,Garrard,17.08,3,0,0.0,1468,31.0,2.11,8359.91,176.54,8.36,17560,76.32,85.41,45.55,341.65,17.08

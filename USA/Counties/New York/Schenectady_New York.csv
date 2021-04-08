@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-07,New York,Schenectady,30.9,48,0,0.0,12046,189.0,1.57,7754.1,121.66,7.75,155350,759.36,144.2,0.65,613.47,20.6
+2021-04-06,New York,Schenectady,7.08,11,1,0.64,11998,189.0,1.58,7723.21,121.66,7.72,155350,759.36,143.55,-17.38,592.87,-8.37
 2021-04-05,New York,Schenectady,23.17,36,0,0.0,11987,188.0,1.57,7716.12,121.02,7.72,155350,759.36,160.93,10.3,601.24,14.16
 2021-04-04,New York,Schenectady,21.89,34,0,0.0,11951,188.0,1.57,7692.95,121.02,7.69,155350,759.36,150.63,-3.86,587.08,3.22
 2021-04-03,New York,Schenectady,14.81,23,1,0.64,11917,188.0,1.58,7671.07,121.02,7.67,155350,759.36,154.49,-7.72,583.86,-5.79

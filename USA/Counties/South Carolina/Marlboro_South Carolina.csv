@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-07,South Carolina,Marlboro,3.79,1,0,0.0,3143,51.0,1.62,11906.21,193.2,11.91,26398,55.01,64.4,3.79,367.45,-15.15
+2021-04-06,South Carolina,Marlboro,3.79,1,0,0.0,3142,51.0,1.62,11902.42,193.2,11.9,26398,55.01,60.61,-15.15,382.6,-3.79
 2021-04-05,South Carolina,Marlboro,-3.79,-1,0,0.0,3141,51.0,1.62,11898.63,193.2,11.9,26398,55.01,75.76,-3.79,386.39,-15.15
 2021-04-04,South Carolina,Marlboro,0.0,0,0,0.0,3142,51.0,1.62,11902.42,193.2,11.9,26398,55.01,79.55,-11.36,401.54,-15.15
 2021-04-03,South Carolina,Marlboro,15.15,4,0,0.0,3142,51.0,1.62,11902.42,193.2,11.9,26398,55.01,90.91,-7.58,416.69,-18.94

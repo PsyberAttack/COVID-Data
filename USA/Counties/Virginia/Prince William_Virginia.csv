@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-07,Virginia,Prince William,22.01,103,1,0.21,42655,474.0,1.11,9114.1,101.28,9.11,468011,1393.97,154.05,8.98,542.71,9.19
+2021-04-06,Virginia,Prince William,16.88,79,1,0.21,42552,473.0,1.11,9092.09,101.07,9.09,468011,1393.97,145.07,-2.99,533.52,1.5
 2021-04-05,Virginia,Prince William,16.88,79,2,0.43,42473,472.0,1.11,9075.21,100.85,9.08,468011,1393.97,148.06,1.92,532.02,6.84
 2021-04-04,Virginia,Prince William,19.23,90,2,0.43,42394,470.0,1.11,9058.33,100.42,9.06,468011,1393.97,146.14,-0.43,525.18,4.7
 2021-04-03,Virginia,Prince William,25.0,117,0,0.0,42304,468.0,1.11,9039.1,100.0,9.04,468011,1393.97,146.57,1.5,520.48,3.42

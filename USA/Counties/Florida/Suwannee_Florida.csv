@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-07,Florida,Suwannee,22.63,10,0,0.0,5240,136.0,2.6,11857.62,307.75,11.86,44191,64.18,56.59,18.1,199.17,11.32
+2021-04-06,Florida,Suwannee,4.53,2,1,2.26,5230,136.0,2.6,11834.99,307.75,11.83,44191,64.18,38.49,0.0,187.85,2.27
 2021-04-05,Florida,Suwannee,4.53,2,0,0.0,5228,135.0,2.58,11830.46,305.49,11.83,44191,64.18,38.49,2.27,185.58,4.53
 2021-04-04,Florida,Suwannee,4.53,2,0,0.0,5226,135.0,2.58,11825.94,305.49,11.83,44191,64.18,36.22,4.53,181.05,-2.26
 2021-04-03,Florida,Suwannee,0.0,0,0,0.0,5224,135.0,2.58,11821.41,305.49,11.82,44191,64.18,31.69,-6.79,183.31,-13.58

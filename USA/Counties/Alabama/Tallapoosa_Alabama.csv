@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-07,Alabama,Tallapoosa,9.88,4,0,0.0,3886,147.0,3.78,9595.77,362.99,9.6,40497,56.52,96.31,7.41,558.07,-27.16
+2021-04-06,Alabama,Tallapoosa,12.35,5,1,2.47,3882,147.0,3.79,9585.9,362.99,9.59,40497,56.52,88.9,9.88,585.23,-9.87
 2021-04-05,Alabama,Tallapoosa,4.94,2,0,0.0,3877,146.0,3.77,9573.55,360.52,9.57,40497,56.52,79.02,-2.47,595.1,7.41
 2021-04-04,Alabama,Tallapoosa,2.47,1,0,0.0,3875,146.0,3.77,9568.61,360.52,9.57,40497,56.52,81.49,2.47,587.69,2.47
 2021-04-03,Alabama,Tallapoosa,2.47,1,0,0.0,3874,146.0,3.77,9566.14,360.52,9.57,40497,56.52,79.02,4.94,585.22,-12.35

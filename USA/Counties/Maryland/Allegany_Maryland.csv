@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-07,Maryland,Allegany,39.45,28,0,0.0,6589,204.0,3.1,9283.55,287.43,9.28,70975,168.11,81.72,11.27,228.27,35.22
+2021-04-06,Maryland,Allegany,1.41,1,0,0.0,6561,204.0,3.11,9244.1,287.43,9.24,70975,168.11,70.45,-1.41,193.05,0.0
 2021-04-05,Maryland,Allegany,0.0,0,0,0.0,6560,204.0,3.11,9242.69,287.43,9.24,70975,168.11,71.86,-12.68,193.05,-1.41
 2021-04-04,Maryland,Allegany,2.82,2,0,0.0,6560,204.0,3.11,9242.69,287.43,9.24,70975,168.11,84.54,-15.5,194.46,-1.41
 2021-04-03,Maryland,Allegany,15.5,11,0,0.0,6558,204.0,3.11,9239.87,287.43,9.24,70975,168.11,100.04,4.23,195.87,12.68

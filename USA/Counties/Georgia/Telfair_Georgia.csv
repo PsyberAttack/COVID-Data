@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-07,Georgia,Telfair,6.3,1,1,6.3,1276,55.0,4.31,8037.29,346.43,8.04,15876,36.3,37.8,-6.3,170.1,0.0
+2021-04-06,Georgia,Telfair,6.3,1,0,0.0,1275,54.0,4.24,8030.99,340.14,8.03,15876,36.3,44.1,0.0,170.1,6.3
 2021-04-05,Georgia,Telfair,0.0,0,0,0.0,1274,54.0,4.24,8024.69,340.14,8.02,15876,36.3,44.1,0.0,163.8,-6.3
 2021-04-04,Georgia,Telfair,0.0,0,0,0.0,1274,54.0,4.24,8024.69,340.14,8.02,15876,36.3,44.1,-6.3,170.1,-6.3
 2021-04-03,Georgia,Telfair,12.6,2,0,0.0,1274,54.0,4.24,8024.69,340.14,8.02,15876,36.3,50.4,12.6,176.4,18.9

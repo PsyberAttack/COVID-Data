@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-07,Kentucky,McLean,21.62,2,0,0.0,860,27.0,3.14,9295.29,291.83,9.3,9252,36.64,43.24,0.0,216.2,21.62
+2021-04-06,Kentucky,McLean,0.0,0,0,0.0,858,27.0,3.15,9273.67,291.83,9.27,9252,36.64,43.24,0.0,194.58,-10.81
 2021-04-05,Kentucky,McLean,0.0,0,0,0.0,858,27.0,3.15,9273.67,291.83,9.27,9252,36.64,43.24,-10.81,205.39,0.0
 2021-04-04,Kentucky,McLean,0.0,0,0,0.0,858,27.0,3.15,9273.67,291.83,9.27,9252,36.64,54.05,10.81,205.39,0.0
 2021-04-03,Kentucky,McLean,10.81,1,0,0.0,858,27.0,3.15,9273.67,291.83,9.27,9252,36.64,43.24,0.0,205.39,-10.81
