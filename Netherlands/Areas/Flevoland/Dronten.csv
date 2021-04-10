@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0303,2021-04-10,Flevoland,Dronten,38.49,16,0,0.0,2499,23,0.92,6011.69,55.33,6.01,41569,235.76,0.0,777.03,28.87
+GM0303,2021-04-09,Flevoland,Dronten,38.49,16,0,0.0,2483,23,0.93,5973.2,55.33,5.97,41569,235.76,12.03,748.16,28.87
 GM0303,2021-04-08,Flevoland,Dronten,24.06,10,0,0.0,2467,23,0.93,5934.71,55.33,5.93,41569,223.73,-7.21,719.29,9.63
 GM0303,2021-04-07,Flevoland,Dronten,31.27,13,0,0.0,2457,23,0.94,5910.65,55.33,5.91,41569,230.94,-12.03,709.66,9.62
 GM0303,2021-04-06,Flevoland,Dronten,33.68,14,0,0.0,2444,23,0.94,5879.38,55.33,5.88,41569,242.97,0.0,700.04,26.46
