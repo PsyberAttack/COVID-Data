@@ -1,6 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-04-08,Santa Catarina,Trombudo Central,27.17,2,2,27.17,890,13,1.46,12092.39,176.63,12.09,7360,706.52,0.0,3043.47,0.0
-2021-04-07,Santa Catarina,Trombudo Central,366.85,27,1,13.59,888,11,1.24,12065.22,149.46,12.07,7360,706.52,244.57,3043.47,244.57
+2021-04-09,Santa Catarina,Trombudo Central,108.7,8,0,0.0,898,13,1.45,12201.09,176.63,12.2,7360,584.23,0.0,2730.97,-230.97
+2021-04-08,Santa Catarina,Trombudo Central,27.17,2,2,27.17,890,13,1.46,12092.39,176.63,12.09,7360,584.23,-27.18,2961.94,-27.18
+2021-04-07,Santa Catarina,Trombudo Central,258.15,19,0,0.0,888,11,1.24,12065.22,149.46,12.07,7360,611.41,190.22,2989.12,230.98
+2021-04-05,Santa Catarina,Trombudo Central,40.76,3,0,0.0,869,11,1.27,11807.07,149.46,11.81,7360,421.19,13.59,2758.14,13.59
+2021-04-04,Santa Catarina,Trombudo Central,67.93,5,1,13.59,866,11,1.27,11766.3,149.46,11.77,7360,407.6,-54.35,2744.55,-54.35
 2021-04-02,Santa Catarina,Trombudo Central,67.93,5,1,13.59,861,10,1.16,11698.37,135.87,11.7,7360,461.95,27.17,2798.9,-40.77
 2021-04-01,Santa Catarina,Trombudo Central,13.59,1,0,0.0,856,9,1.05,11630.43,122.28,11.63,7360,434.78,-176.63,2839.67,-135.87
 2021-03-31,Santa Catarina,Trombudo Central,108.7,8,0,0.0,855,9,1.05,11616.85,122.28,11.62,7360,611.41,81.53,2975.54,67.94

@@ -1,6 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-04-08,Santa Catarina,São José do Cerrito,96.44,8,1,12.06,500,7,1.4,6027.73,84.39,6.03,8295,578.67,48.22,1675.73,96.44
-2021-04-07,Santa Catarina,São José do Cerrito,132.61,11,0,0.0,492,6,1.22,5931.28,72.33,5.93,8295,530.45,132.61,1579.29,132.61
+2021-04-09,Santa Catarina,São José do Cerrito,12.06,1,0,0.0,501,7,1.4,6039.78,84.39,6.04,8295,385.78,-48.22,1555.18,-60.27
+2021-04-08,Santa Catarina,São José do Cerrito,96.44,8,1,12.06,500,7,1.4,6027.73,84.39,6.03,8295,434.0,12.05,1615.45,72.33
+2021-04-07,Santa Catarina,São José do Cerrito,48.22,4,0,0.0,492,6,1.22,5931.28,72.33,5.93,8295,421.95,-12.06,1543.12,12.05
+2021-04-05,Santa Catarina,São José do Cerrito,0.0,0,0,0.0,488,6,1.23,5883.06,72.33,5.88,8295,434.01,-48.22,1531.07,0.0
+2021-04-04,Santa Catarina,São José do Cerrito,84.39,7,0,0.0,488,6,1.23,5883.06,72.33,5.88,8295,482.23,84.39,1531.07,84.39
 2021-04-02,Santa Catarina,São José do Cerrito,36.17,3,0,0.0,481,6,1.25,5798.67,72.33,5.8,8295,397.84,-24.11,1446.68,36.17
 2021-04-01,Santa Catarina,São José do Cerrito,108.5,9,1,12.06,478,6,1.26,5762.51,72.33,5.76,8295,421.95,0.0,1410.51,72.33
 2021-03-31,Santa Catarina,São José do Cerrito,60.28,5,0,0.0,469,5,1.07,5654.01,60.28,5.65,8295,421.95,-24.11,1338.18,12.06
