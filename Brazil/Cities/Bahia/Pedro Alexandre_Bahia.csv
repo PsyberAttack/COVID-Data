@@ -1,4 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-10,Bahia,Pedro Alexandre,12.0,2,0,0.0,165,3,1.82,989.98,18.0,0.99,16667,54.0,-6.0,324.0,12.0
+2021-04-09,Bahia,Pedro Alexandre,12.0,2,0,0.0,163,3,1.84,977.98,18.0,0.98,16667,60.0,12.0,312.0,0.0
+2021-04-08,Bahia,Pedro Alexandre,0.0,0,1,6.0,161,3,1.86,965.98,18.0,0.97,16667,48.0,-12.0,312.0,-18.0
+2021-04-07,Bahia,Pedro Alexandre,12.0,2,0,0.0,161,2,1.24,965.98,12.0,0.97,16667,60.0,-12.0,330.0,-6.0
+2021-04-05,Bahia,Pedro Alexandre,0.0,0,0,0.0,159,2,1.26,953.98,12.0,0.95,16667,72.0,0.0,336.0,0.0
 2021-04-04,Bahia,Pedro Alexandre,12.0,2,0,0.0,159,2,1.26,953.98,12.0,0.95,16667,72.0,-12.0,336.0,12.0
 2021-04-02,Bahia,Pedro Alexandre,6.0,1,0,0.0,157,2,1.27,941.98,12.0,0.94,16667,84.0,6.0,324.0,0.0
 2021-04-01,Bahia,Pedro Alexandre,18.0,3,0,0.0,156,2,1.28,935.98,12.0,0.94,16667,78.0,-12.0,324.0,18.0
