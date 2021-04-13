@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-11,Rio de Janeiro,Mangaratiba,2.25,1,0,0.0,2239,77,3.44,5035.08,173.16,5.04,44468,44.99,-103.44,609.44,0.0
+2021-04-10,Rio de Janeiro,Mangaratiba,6.75,3,1,2.25,2238,77,3.44,5032.83,173.16,5.03,44468,148.43,-89.95,609.44,-2.25
 2021-04-09,Rio de Janeiro,Mangaratiba,9.0,4,1,2.25,2235,76,3.4,5026.09,170.91,5.03,44468,238.38,9.0,611.69,-15.74
 2021-04-08,Rio de Janeiro,Mangaratiba,6.75,3,0,0.0,2231,75,3.36,5017.09,168.66,5.02,44468,229.38,-6.74,627.43,6.75
 2021-04-07,Rio de Janeiro,Mangaratiba,15.74,7,6,13.49,2228,75,3.37,5010.34,168.66,5.01,44468,236.12,8.99,620.68,8.99

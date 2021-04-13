@@ -1,5 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-04-11,Arkansas,Montgomery,0.0,0,0,0.0,751,33.0,4.39,8415.51,369.79,8.42,8924,11.44,0.0,0.0,89.67,0.0
+2021-04-12,Arkansas,Montgomery,0.0,0,0,0.0,752,33.0,4.39,8426.71,369.79,8.43,8924,11.44,11.21,0.0,100.88,0.0
+2021-04-11,Arkansas,Montgomery,11.21,1,0,0.0,752,33.0,4.39,8426.71,369.79,8.43,8924,11.44,11.21,11.21,100.88,11.21
 2021-04-10,Arkansas,Montgomery,0.0,0,0,0.0,751,33.0,4.39,8415.51,369.79,8.42,8924,11.44,0.0,0.0,89.67,-11.21
 2021-04-09,Arkansas,Montgomery,0.0,0,0,0.0,751,33.0,4.39,8415.51,369.79,8.42,8924,11.44,0.0,0.0,100.88,-22.41
 2021-04-08,Arkansas,Montgomery,0.0,0,0,0.0,751,33.0,4.39,8415.51,369.79,8.42,8924,11.44,0.0,-11.21,123.29,0.0
