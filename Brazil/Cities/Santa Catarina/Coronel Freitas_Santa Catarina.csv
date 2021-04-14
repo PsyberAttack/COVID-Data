@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-12,Santa Catarina,Coronel Freitas,20.04,2,0,0.0,1366,24,1.76,13686.0,240.46,13.69,9981,150.29,20.04,991.91,120.23
+2021-04-11,Santa Catarina,Coronel Freitas,-20.04,-2,0,0.0,1364,24,1.76,13665.97,240.46,13.67,9981,130.25,-40.08,871.68,-110.21
+2021-04-10,Santa Catarina,Coronel Freitas,10.02,1,1,10.02,1366,24,1.76,13686.0,240.46,13.69,9981,170.33,-20.04,981.89,0.0
 2021-04-09,Santa Catarina,Coronel Freitas,20.04,2,0,0.0,1365,23,1.68,13675.98,230.44,13.68,9981,190.37,10.02,981.89,-280.53
 2021-04-08,Santa Catarina,Coronel Freitas,20.04,2,0,0.0,1363,23,1.69,13655.95,230.44,13.66,9981,180.35,-10.02,1262.42,30.06
 2021-04-07,Santa Catarina,Coronel Freitas,100.19,10,1,10.02,1361,23,1.69,13635.91,230.44,13.64,9981,190.37,60.11,1232.36,90.17

@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-12,Santa Catarina,Rancho Queimado,104.24,3,0,0.0,333,2,0.6,11570.54,69.49,11.57,2878,277.97,104.24,1285.62,34.75
+2021-04-11,Santa Catarina,Rancho Queimado,0.0,0,0,0.0,330,2,0.61,11466.3,69.49,11.47,2878,173.73,-34.75,1250.87,-173.73
+2021-04-10,Santa Catarina,Rancho Queimado,-34.75,-1,0,0.0,330,2,0.61,11466.3,69.49,11.47,2878,208.48,-34.75,1424.6,-208.48
 2021-04-09,Santa Catarina,Rancho Queimado,34.75,1,0,0.0,331,2,0.6,11501.04,69.49,11.5,2878,243.23,0.0,1633.08,-69.49
 2021-04-08,Santa Catarina,Rancho Queimado,0.0,0,0,0.0,330,2,0.61,11466.3,69.49,11.47,2878,243.23,0.0,1702.57,-34.75
 2021-04-07,Santa Catarina,Rancho Queimado,173.73,5,0,0.0,330,2,0.61,11466.3,69.49,11.47,2878,243.23,173.73,1737.32,69.49
