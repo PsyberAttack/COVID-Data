@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-18,Michigan,Presque Isle,0.0,0,0,0.0,905,30.0,3.31,7104.73,235.52,7.1,12738,19.34,533.83,0.0,1687.83,0.0
+2021-04-17,Michigan,Presque Isle,62.8,8,0,0.0,905,30.0,3.31,7104.73,235.52,7.1,12738,19.34,533.83,-7.85,1687.83,-23.56
 2021-04-16,Michigan,Presque Isle,125.61,16,0,0.0,897,30.0,3.34,7041.92,235.52,7.04,12738,19.34,541.68,62.81,1711.39,102.06
 2021-04-15,Michigan,Presque Isle,70.65,9,0,0.0,881,30.0,3.41,6916.31,235.52,6.92,12738,19.34,478.87,23.55,1609.33,54.95
 2021-04-14,Michigan,Presque Isle,133.46,17,0,0.0,872,30.0,3.44,6845.66,235.52,6.85,12738,19.34,455.32,15.7,1554.38,133.46

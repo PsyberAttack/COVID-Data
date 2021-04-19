@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-18,Montana,Glacier,0.0,0,0,0.0,1528,42.0,2.75,11115.15,305.52,11.12,13747,4.59,-7.27,0.0,29.1,-7.27
+2021-04-17,Montana,Glacier,-7.27,-1,0,0.0,1528,42.0,2.75,11115.15,305.52,11.12,13747,4.59,-7.27,-21.82,36.37,-7.27
 2021-04-16,Montana,Glacier,0.0,0,0,0.0,1529,42.0,2.75,11122.43,305.52,11.12,13747,4.59,14.55,0.0,43.64,0.0
 2021-04-15,Montana,Glacier,0.0,0,2,14.55,1529,42.0,2.75,11122.43,305.52,11.12,13747,4.59,14.55,0.0,43.64,0.0
 2021-04-14,Montana,Glacier,7.27,1,0,0.0,1529,40.0,2.62,11122.43,290.97,11.12,13747,4.59,14.55,0.0,43.64,7.27

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-18,Minnesota,Lake,0.0,0,0,0.0,784,19.0,2.42,7355.98,178.27,7.36,10658,5.05,56.3,0.0,272.11,-9.38
+2021-04-17,Minnesota,Lake,18.77,2,0,0.0,784,19.0,2.42,7355.98,178.27,7.36,10658,5.05,56.3,9.39,281.49,0.0
 2021-04-16,Minnesota,Lake,18.77,2,0,0.0,782,19.0,2.43,7337.21,178.27,7.34,10658,5.05,46.91,-9.38,281.49,9.39
 2021-04-15,Minnesota,Lake,9.38,1,0,0.0,780,19.0,2.44,7318.45,178.27,7.32,10658,5.05,56.29,9.38,272.1,18.76
 2021-04-14,Minnesota,Lake,9.38,1,0,0.0,779,19.0,2.44,7309.06,178.27,7.31,10658,5.05,46.91,-9.39,253.34,-18.77

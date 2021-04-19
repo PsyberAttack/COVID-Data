@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-18,Virginia,Norton city,0.0,0,0,0.0,262,7.0,2.67,6602.82,176.41,6.6,3968,530.67,25.2,0.0,378.0,0.0
+2021-04-17,Virginia,Norton city,-25.2,-1,0,0.0,262,7.0,2.67,6602.82,176.41,6.6,3968,530.67,25.2,-50.4,378.0,-50.4
 2021-04-16,Virginia,Norton city,-25.2,-1,0,0.0,263,7.0,2.66,6628.02,176.41,6.63,3968,530.67,75.6,-25.2,428.4,-50.4
 2021-04-15,Virginia,Norton city,0.0,0,0,0.0,264,7.0,2.65,6653.23,176.41,6.65,3968,530.67,100.8,-25.2,478.8,-25.2
 2021-04-14,Virginia,Norton city,25.2,1,0,0.0,264,7.0,2.65,6653.23,176.41,6.65,3968,530.67,126.0,-25.2,504.0,25.2

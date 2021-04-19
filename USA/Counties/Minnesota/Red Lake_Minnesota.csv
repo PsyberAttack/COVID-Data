@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-18,Minnesota,Red Lake,0.0,0,0,0.0,387,7.0,1.81,9677.42,175.04,9.68,3999,9.25,150.04,-50.01,400.12,0.0
+2021-04-17,Minnesota,Red Lake,-25.01,-1,0,0.0,387,7.0,1.81,9677.42,175.04,9.68,3999,9.25,200.05,-25.01,400.12,-25.01
 2021-04-16,Minnesota,Red Lake,75.02,3,0,0.0,388,7.0,1.8,9702.43,175.04,9.7,3999,9.25,225.06,0.0,425.13,50.01
 2021-04-15,Minnesota,Red Lake,75.02,3,0,0.0,385,7.0,1.82,9627.41,175.04,9.63,3999,9.25,225.06,75.02,375.12,75.02
 2021-04-14,Minnesota,Red Lake,0.0,0,0,0.0,382,7.0,1.83,9552.39,175.04,9.55,3999,9.25,150.04,-25.01,300.1,0.0

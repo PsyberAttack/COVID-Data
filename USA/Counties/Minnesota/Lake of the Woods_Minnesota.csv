@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-18,Minnesota,Lake of the Woods,53.22,2,0,0.0,307,3.0,0.98,8169.24,79.83,8.17,3758,2.9,372.54,53.22,1676.43,26.61
+2021-04-17,Minnesota,Lake of the Woods,0.0,0,0,0.0,305,3.0,0.98,8116.02,79.83,8.12,3758,2.9,319.32,-53.22,1649.82,0.0
 2021-04-16,Minnesota,Lake of the Woods,159.66,6,0,0.0,305,3.0,0.98,8116.02,79.83,8.12,3758,2.9,372.54,26.61,1649.82,106.44
 2021-04-15,Minnesota,Lake of the Woods,26.61,1,0,0.0,299,3.0,1.0,7956.36,79.83,7.96,3758,2.9,345.93,-53.22,1543.38,-79.83
 2021-04-14,Minnesota,Lake of the Woods,26.61,1,1,26.61,298,3.0,1.01,7929.75,79.83,7.93,3758,2.9,399.15,26.61,1623.21,-79.83

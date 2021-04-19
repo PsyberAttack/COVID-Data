@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-18,Michigan,Roscommon,0.0,0,0,0.0,1707,45.0,2.64,7147.04,188.41,7.15,23884,45.94,343.31,0.0,1515.64,0.0
+2021-04-17,Michigan,Roscommon,37.68,9,0,0.0,1707,45.0,2.64,7147.04,188.41,7.15,23884,45.94,343.31,-12.56,1515.64,-8.38
 2021-04-16,Michigan,Roscommon,75.36,18,0,0.0,1698,45.0,2.65,7109.36,188.41,7.11,23884,45.94,355.87,12.56,1524.02,-33.5
 2021-04-15,Michigan,Roscommon,37.68,9,2,8.37,1680,45.0,2.68,7034.0,188.41,7.03,23884,45.94,343.31,-58.62,1557.52,-37.68
 2021-04-14,Michigan,Roscommon,20.93,5,0,0.0,1671,43.0,2.57,6996.32,180.04,7.0,23884,45.94,401.93,-41.87,1595.2,-79.56

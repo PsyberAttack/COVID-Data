@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-18,Arkansas,Independence,0.0,0,0,0.0,3737,122.0,3.26,9918.25,323.8,9.92,37678,49.32,18.58,0.0,84.93,0.0
+2021-04-17,Arkansas,Independence,5.31,2,0,0.0,3737,122.0,3.26,9918.25,323.8,9.92,37678,49.32,18.58,7.96,84.93,0.0
 2021-04-16,Arkansas,Independence,2.65,1,0,0.0,3735,122.0,3.27,9912.95,323.8,9.91,37678,49.32,10.62,-10.62,84.93,-10.62
 2021-04-15,Arkansas,Independence,-2.65,-1,0,0.0,3734,122.0,3.27,9910.29,323.8,9.91,37678,49.32,21.24,-5.3,95.55,-10.61
 2021-04-14,Arkansas,Independence,5.31,2,1,2.65,3735,122.0,3.27,9912.95,323.8,9.91,37678,49.32,26.54,2.66,106.16,7.96

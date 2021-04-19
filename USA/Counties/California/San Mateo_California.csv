@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-18,California,San Mateo,6.5,50,0,0.0,41157,560.0,1.36,5348.23,72.77,5.35,769545,1715.3,36.27,-3.64,155.87,-1.95
+2021-04-17,California,San Mateo,7.41,57,0,0.0,41107,560.0,1.36,5341.73,72.77,5.34,769545,1715.3,39.91,1.43,157.82,4.94
 2021-04-16,California,San Mateo,4.55,35,4,0.52,41050,560.0,1.36,5334.32,72.77,5.33,769545,1715.3,38.48,-1.43,152.88,-0.13
 2021-04-15,California,San Mateo,7.8,60,0,0.0,41015,556.0,1.36,5329.77,72.25,5.33,769545,1715.3,39.91,0.13,153.01,3.64
 2021-04-14,California,San Mateo,4.55,35,0,0.0,40955,556.0,1.36,5321.98,72.25,5.32,769545,1715.3,39.78,0.52,149.37,-0.78
