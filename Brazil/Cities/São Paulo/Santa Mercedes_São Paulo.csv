@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-19,São Paulo,Santa Mercedes,0.0,0,0,0.0,109,3,2.75,3708.74,102.08,3.71,2939,306.23,-68.05,1327.0,0.0
+2021-04-18,São Paulo,Santa Mercedes,68.05,2,0,0.0,109,3,2.75,3708.74,102.08,3.71,2939,374.28,-136.1,1327.0,68.05
+2021-04-16,São Paulo,Santa Mercedes,238.18,7,0,0.0,107,3,2.8,3640.69,102.08,3.64,2939,510.38,272.21,1258.95,170.13
 2021-04-12,São Paulo,Santa Mercedes,0.0,0,0,0.0,100,3,3.0,3402.52,102.08,3.4,2939,238.17,0.0,1088.82,0.0
 2021-04-11,São Paulo,Santa Mercedes,34.03,1,0,0.0,100,3,3.0,3402.52,102.08,3.4,2939,238.17,0.0,1088.82,34.03
 2021-04-10,São Paulo,Santa Mercedes,-34.03,-1,0,0.0,99,3,3.03,3368.49,102.08,3.37,2939,238.17,-34.03,1054.79,-238.18

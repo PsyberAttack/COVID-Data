@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-04-18,Rio Grande do Sul,Serafina Corrêa,45.71,8,0,0.0,2130,22,1.03,12170.04,125.7,12.17,17502,285.67,34.28,1416.99,-51.42
+2021-04-19,Rio Grande do Sul,Serafina Corrêa,0.0,0,1,5.71,2130,23,1.08,12170.04,131.41,12.17,17502,262.82,-5.71,1228.44,-171.41
+2021-04-18,Rio Grande do Sul,Serafina Corrêa,11.43,2,0,0.0,2130,22,1.03,12170.04,125.7,12.17,17502,268.53,-5.71,1399.85,-5.71
+2021-04-17,Rio Grande do Sul,Serafina Corrêa,34.28,6,0,0.0,2128,22,1.03,12158.61,125.7,12.16,17502,274.24,22.85,1405.56,-62.85
 2021-04-16,Rio Grande do Sul,Serafina Corrêa,22.85,4,1,5.71,2122,22,1.04,12124.33,125.7,12.12,17502,251.39,-57.14,1468.41,-165.7
 2021-04-15,Rio Grande do Sul,Serafina Corrêa,17.14,3,1,5.71,2118,21,0.99,12101.47,119.99,12.1,17502,308.53,22.85,1634.11,-22.86
 2021-04-14,Rio Grande do Sul,Serafina Corrêa,34.28,6,1,5.71,2115,20,0.95,12084.33,114.27,12.08,17502,285.68,17.14,1656.97,-28.57

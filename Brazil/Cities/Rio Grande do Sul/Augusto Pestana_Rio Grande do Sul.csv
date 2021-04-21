@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-04-18,Rio Grande do Sul,Augusto Pestana,105.09,7,0,0.0,305,5,1.64,4578.89,75.06,4.58,6661,360.31,90.08,1050.9,45.04
+2021-04-19,Rio Grande do Sul,Augusto Pestana,-15.01,-1,1,15.01,304,6,1.97,4563.88,90.08,4.56,6661,360.31,0.0,975.84,-60.05
+2021-04-18,Rio Grande do Sul,Augusto Pestana,0.0,0,0,0.0,305,5,1.64,4578.89,75.06,4.58,6661,360.31,0.0,1035.89,-15.01
+2021-04-17,Rio Grande do Sul,Augusto Pestana,105.09,7,0,0.0,305,5,1.64,4578.89,75.06,4.58,6661,360.31,90.08,1050.9,45.04
 2021-04-16,Rio Grande do Sul,Augusto Pestana,15.01,1,0,0.0,298,5,1.68,4473.8,75.06,4.47,6661,270.23,15.01,1005.86,-75.07
 2021-04-15,Rio Grande do Sul,Augusto Pestana,30.03,2,0,0.0,297,5,1.68,4458.79,75.06,4.46,6661,255.22,30.03,1080.93,30.03
 2021-04-14,Rio Grande do Sul,Augusto Pestana,15.01,1,1,15.01,295,5,1.69,4428.76,75.06,4.43,6661,225.19,15.01,1050.9,15.01
