@@ -1,5 +1,10 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-03-16,Rio Grande do Norte,Serrinha dos Pintos,2750.0,132,0,0.0,347,1,0.29,7229.17,20.83,7.23,4800,4437.5,2520.83,5562.5,2729.17
+2021-03-16,Rio Grande do Norte,Serrinha dos Pintos,166.67,8,0,0.0,347,1,0.29,7229.17,20.83,7.23,4800,2750.0,166.67,5416.66,104.17
+2021-02-25,Rio Grande do Norte,Serrinha dos Pintos,0.0,0,0,0.0,339,1,0.29,7062.5,20.83,7.06,4800,2583.33,0.0,5312.49,0.0
+2021-02-24,Rio Grande do Norte,Serrinha dos Pintos,20.83,1,0,0.0,339,1,0.29,7062.5,20.83,7.06,4800,2583.33,-1479.17,5312.49,-20.84
+2021-02-23,Rio Grande do Norte,Serrinha dos Pintos,83.33,4,0,0.0,338,1,0.3,7041.67,20.83,7.04,4800,4062.5,-104.17,5333.33,41.66
+2021-02-22,Rio Grande do Norte,Serrinha dos Pintos,0.0,0,0,0.0,334,1,0.3,6958.33,20.83,6.96,4800,4166.67,0.0,5291.67,0.0
+2021-02-21,Rio Grande do Norte,Serrinha dos Pintos,2479.17,119,0,0.0,334,1,0.3,6958.33,20.83,6.96,4800,4166.67,2250.0,5291.67,2458.34
 2021-01-20,Rio Grande do Norte,Serrinha dos Pintos,0.0,0,0,0.0,215,1,0.47,4479.17,20.83,4.48,4800,1916.67,0.0,2833.33,0.0
 2021-01-19,Rio Grande do Norte,Serrinha dos Pintos,0.0,0,0,0.0,215,1,0.47,4479.17,20.83,4.48,4800,1916.67,-20.83,2833.33,0.0
 2021-01-18,Rio Grande do Norte,Serrinha dos Pintos,0.0,0,0,0.0,215,1,0.47,4479.17,20.83,4.48,4800,1937.5,0.0,2833.33,41.67
