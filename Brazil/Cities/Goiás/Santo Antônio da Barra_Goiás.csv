@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-23,Goiás,Santo Antônio da Barra,0.0,0,0,0.0,370,4,1.08,7674.76,82.97,7.67,4821,228.17,0.0,1431.25,0.0
+2021-04-22,Goiás,Santo Antônio da Barra,0.0,0,0,0.0,370,4,1.08,7674.76,82.97,7.67,4821,228.17,20.74,1431.25,-20.74
+2021-04-21,Goiás,Santo Antônio da Barra,228.17,11,0,0.0,370,4,1.08,7674.76,82.97,7.67,4821,207.43,228.17,1451.99,228.17
+2021-04-20,Goiás,Santo Antônio da Barra,0.0,0,0,0.0,359,4,1.11,7446.59,82.97,7.45,4821,-20.74,-20.74,1223.82,-41.49
 2021-04-19,Goiás,Santo Antônio da Barra,0.0,0,0,0.0,359,4,1.11,7446.59,82.97,7.45,4821,-0.0,20.74,1265.31,0.0
 2021-04-18,Goiás,Santo Antônio da Barra,0.0,0,0,0.0,359,4,1.11,7446.59,82.97,7.45,4821,-20.74,-643.02,1265.31,0.0
 2021-04-17,Goiás,Santo Antônio da Barra,0.0,0,0,0.0,359,4,1.11,7446.59,82.97,7.45,4821,622.28,-290.4,1265.31,0.0
