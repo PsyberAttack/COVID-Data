@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-26,Illinois,Ford,7.54,1,0,0.0,1711,54.0,3.16,12899.58,407.12,12.9,13264,27.31,75.4,0.0,550.41,0.0
 2021-04-25,Illinois,Ford,15.08,2,0,0.0,1710,54.0,3.16,12892.04,407.12,12.89,13264,27.31,75.4,-15.08,550.41,7.54
 2021-04-24,Illinois,Ford,15.08,2,0,0.0,1708,54.0,3.16,12876.96,407.12,12.88,13264,27.31,90.48,-30.16,542.87,15.08
 2021-04-23,Illinois,Ford,-7.54,-1,0,0.0,1706,54.0,3.17,12861.88,407.12,12.86,13264,27.31,120.64,-30.16,527.79,-15.08
