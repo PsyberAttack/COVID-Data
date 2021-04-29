@@ -1,13 +1,15 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
 2021-04-15,Rio Grande do Norte,Senador Elói de Souza,0.0,0,0,0.0,145,3,2.07,2382.52,49.29,2.38,6086,213.6,-262.9,1133.74,0.0
-2021-04-14,Rio Grande do Norte,Senador Elói de Souza,16.43,1,0,0.0,145,3,2.07,2382.52,49.29,2.38,6086,476.5,-131.45,1133.74,0.0
-2021-04-13,Rio Grande do Norte,Senador Elói de Souza,65.72,4,0,0.0,144,3,2.08,2366.09,49.29,2.37,6086,607.95,49.29,1133.74,32.86
-2021-04-11,Rio Grande do Norte,Senador Elói de Souza,0.0,0,0,0.0,140,3,2.14,2300.36,49.29,2.3,6086,558.66,-65.72,1100.88,0.0
-2021-04-08,Rio Grande do Norte,Senador Elói de Souza,49.29,3,0,0.0,140,3,2.14,2300.36,49.29,2.3,6086,624.38,32.86,1100.88,49.29
-2021-04-06,Rio Grande do Norte,Senador Elói de Souza,82.16,5,0,0.0,137,3,2.19,2251.07,49.29,2.25,6086,591.52,82.16,1051.59,82.16
-2021-04-05,Rio Grande do Norte,Senador Elói de Souza,0.0,0,0,0.0,132,3,2.27,2168.91,49.29,2.17,6086,509.36,-328.62,969.43,-16.43
-2021-04-04,Rio Grande do Norte,Senador Elói de Souza,262.9,16,0,0.0,132,3,2.27,2168.91,49.29,2.17,6086,837.98,262.9,985.86,262.9
-2021-03-16,Rio Grande do Norte,Senador Elói de Souza,147.88,9,0,0.0,116,3,2.59,1906.01,49.29,1.91,6086,575.08,147.88,722.96,131.45
+2021-04-14,Rio Grande do Norte,Senador Elói de Souza,16.43,1,0,0.0,145,3,2.07,2382.52,49.29,2.38,6086,476.5,-115.02,1133.74,16.43
+2021-04-13,Rio Grande do Norte,Senador Elói de Souza,65.72,4,0,0.0,144,3,2.08,2366.09,49.29,2.37,6086,591.52,49.29,1117.31,65.72
+2021-04-11,Rio Grande do Norte,Senador Elói de Souza,0.0,0,0,0.0,140,3,2.14,2300.36,49.29,2.3,6086,542.23,0.0,1051.59,-16.43
+2021-04-08,Rio Grande do Norte,Senador Elói de Souza,49.29,3,0,0.0,140,3,2.14,2300.36,49.29,2.3,6086,542.23,32.86,1068.02,16.43
+2021-04-06,Rio Grande do Norte,Senador Elói de Souza,82.16,5,0,0.0,137,3,2.19,2251.07,49.29,2.25,6086,509.37,16.44,1051.59,82.16
+2021-04-05,Rio Grande do Norte,Senador Elói de Souza,0.0,0,0,0.0,132,3,2.27,2168.91,49.29,2.17,6086,492.93,-16.43,969.43,0.0
+2021-04-04,Rio Grande do Norte,Senador Elói de Souza,262.9,16,0,0.0,132,3,2.27,2168.91,49.29,2.17,6086,509.36,262.9,969.43,262.9
+2021-03-16,Rio Grande do Norte,Senador Elói de Souza,131.45,8,0,0.0,116,3,2.59,1906.01,49.29,1.91,6086,246.46,-197.17,706.53,115.02
+2021-03-01,Rio Grande do Norte,Senador Elói de Souza,16.43,1,0,0.0,108,3,2.78,1774.56,49.29,1.77,6086,443.63,16.43,591.51,16.43
+2021-02-28,Rio Grande do Norte,Senador Elói de Souza,0.0,0,0,0.0,107,3,2.8,1758.13,49.29,1.76,6086,427.2,0.0,575.08,-16.43
 2021-02-25,Rio Grande do Norte,Senador Elói de Souza,16.43,1,0,0.0,107,3,2.8,1758.13,49.29,1.76,6086,427.2,16.43,591.51,16.43
 2021-02-24,Rio Grande do Norte,Senador Elói de Souza,65.72,4,0,0.0,106,3,2.83,1741.7,49.29,1.74,6086,410.77,-16.44,575.08,65.72
 2021-02-23,Rio Grande do Norte,Senador Elói de Souza,16.43,1,1,16.43,102,3,2.94,1675.98,49.29,1.68,6086,427.21,16.43,509.36,-32.86
