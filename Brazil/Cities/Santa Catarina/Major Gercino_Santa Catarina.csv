@@ -1,4 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-04-29,Santa Catarina,Major Gercino,0.0,0,0,0.0,306,6,1.96,8890.18,174.32,8.89,3442,174.31,-116.21,1394.52,-29.05
+2021-04-28,Santa Catarina,Major Gercino,0.0,0,0,0.0,306,6,1.96,8890.18,174.32,8.89,3442,290.52,0.0,1423.57,-29.05
+2021-04-27,Santa Catarina,Major Gercino,29.05,1,1,29.05,306,6,1.96,8890.18,174.32,8.89,3442,290.52,29.05,1452.62,29.05
+2021-04-26,Santa Catarina,Major Gercino,29.05,1,0,0.0,305,5,1.64,8861.13,145.26,8.86,3442,261.47,-58.11,1423.57,0.0
+2021-04-25,Santa Catarina,Major Gercino,-29.05,-1,0,0.0,304,5,1.64,8832.07,145.26,8.83,3442,319.58,-29.05,1423.57,0.0
 2021-04-24,Santa Catarina,Major Gercino,116.21,4,0,0.0,305,5,1.64,8861.13,145.26,8.86,3442,348.63,0.0,1423.57,58.1
 2021-04-23,Santa Catarina,Major Gercino,29.05,1,0,0.0,301,5,1.66,8744.92,145.26,8.74,3442,348.63,29.05,1365.47,0.0
 2021-04-22,Santa Catarina,Major Gercino,116.21,4,0,0.0,300,5,1.67,8715.86,145.26,8.72,3442,319.58,-145.27,1365.47,58.1
