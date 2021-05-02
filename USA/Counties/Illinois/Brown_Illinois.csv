@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-01,Illinois,Brown,15.25,1,0,0.0,696,12.0,1.72,10616.23,183.04,10.62,6556,21.45,76.27,0.0,228.79,15.25
 2021-04-30,Illinois,Brown,0.0,0,0,0.0,695,12.0,1.73,10600.98,183.04,10.6,6556,21.45,76.27,-15.25,213.54,-15.25
 2021-04-29,Illinois,Brown,30.51,2,0,0.0,695,12.0,1.73,10600.98,183.04,10.6,6556,21.45,91.52,61.02,228.79,30.51
 2021-04-28,Illinois,Brown,-15.25,-1,0,0.0,693,12.0,1.73,10570.47,183.04,10.57,6556,21.45,30.5,-45.76,198.28,-15.25
