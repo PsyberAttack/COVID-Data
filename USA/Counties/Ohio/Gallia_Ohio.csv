@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-02,Ohio,Gallia,10.01,3,0,0.0,2348,48.0,2.04,7832.15,160.11,7.83,29979,64.26,33.36,10.01,136.79,10.01
 2021-05-01,Ohio,Gallia,3.34,1,0,0.0,2345,48.0,2.05,7822.14,160.11,7.82,29979,64.26,23.35,-10.0,126.78,-6.67
 2021-04-30,Ohio,Gallia,10.01,3,1,3.34,2344,48.0,2.05,7818.81,160.11,7.82,29979,64.26,33.35,6.67,133.45,0.0
 2021-04-29,Ohio,Gallia,6.67,2,0,0.0,2341,47.0,2.01,7808.8,156.78,7.81,29979,64.26,26.68,6.67,133.45,-6.67

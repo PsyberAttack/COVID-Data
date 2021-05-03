@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-02,Washington,Grays Harbor,0.0,0,0,0.0,3807,62.0,1.63,5151.49,83.9,5.15,73901,38.87,100.14,0.0,336.93,0.0
 2021-05-01,Washington,Grays Harbor,21.65,16,0,0.0,3807,62.0,1.63,5151.49,83.9,5.15,73901,38.87,100.14,9.47,336.93,13.53
 2021-04-30,Washington,Grays Harbor,5.41,4,-1,-1.35,3791,62.0,1.64,5129.84,83.9,5.13,73901,38.87,90.67,-9.47,323.4,2.7
 2021-04-29,Washington,Grays Harbor,36.54,27,0,0.0,3787,63.0,1.66,5124.42,85.25,5.12,73901,38.87,100.14,12.18,320.7,31.13
