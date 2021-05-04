@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-02,Goiás,Quirinópolis,0.0,0,0,0.0,2653,105,3.96,5299.11,209.73,5.3,50065,429.44,-5.99,1186.44,0.0
+2021-05-01,Goiás,Quirinópolis,0.0,0,1,2.0,2653,105,3.96,5299.11,209.73,5.3,50065,435.43,0.0,1186.44,0.0
 2021-04-30,Goiás,Quirinópolis,-5.99,-3,1,2.0,2653,104,3.92,5299.11,207.73,5.3,50065,435.43,-51.93,1186.44,-7.99
 2021-04-29,Goiás,Quirinópolis,245.68,123,5,9.99,2656,103,3.88,5305.1,205.73,5.31,50065,487.36,143.81,1194.43,245.68
 2021-04-28,Goiás,Quirinópolis,45.94,23,0,0.0,2533,98,3.87,5059.42,195.75,5.06,50065,343.55,15.98,948.75,37.95

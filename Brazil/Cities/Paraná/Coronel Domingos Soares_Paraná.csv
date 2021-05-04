@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-02,Paraná,Coronel Domingos Soares,0.0,0,1,13.34,1005,8,0.8,13405.36,106.71,13.41,7497,720.29,-53.35,2947.84,0.0
+2021-05-01,Paraná,Coronel Domingos Soares,173.4,13,0,0.0,1005,7,0.7,13405.36,93.37,13.41,7497,773.64,160.06,2947.84,173.4
 2021-04-30,Paraná,Coronel Domingos Soares,146.73,11,0,0.0,992,7,0.71,13231.96,93.37,13.23,7497,613.58,120.05,2774.44,106.71
 2021-04-29,Paraná,Coronel Domingos Soares,146.73,11,1,13.34,981,7,0.71,13085.23,93.37,13.09,7497,493.53,53.36,2667.73,-13.33
 2021-04-28,Paraná,Coronel Domingos Soares,13.34,1,0,0.0,970,6,0.62,12938.51,80.03,12.94,7497,440.17,-40.01,2681.06,-13.34

@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-02,Rio de Janeiro,Carapebus,6.13,1,0,0.0,1314,10,0.76,8060.86,61.35,8.06,16301,128.81,6.13,687.05,6.13
+2021-05-01,Rio de Janeiro,Carapebus,30.67,5,1,6.13,1313,10,0.76,8054.72,61.35,8.05,16301,122.68,18.4,680.92,30.67
 2021-04-30,Rio de Janeiro,Carapebus,18.4,3,0,0.0,1308,9,0.69,8024.05,55.21,8.02,16301,104.28,-24.54,650.25,6.13
 2021-04-29,Rio de Janeiro,Carapebus,18.4,3,0,0.0,1305,9,0.69,8005.64,55.21,8.01,16301,128.82,-18.41,644.12,18.4
 2021-04-28,Rio de Janeiro,Carapebus,6.13,1,0,0.0,1302,9,0.69,7987.24,55.21,7.99,16301,147.23,-6.14,625.72,-30.68

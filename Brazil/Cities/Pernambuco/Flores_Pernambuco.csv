@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-02,Pernambuco,Flores,0.0,0,0,0.0,809,29,3.58,3575.85,128.18,3.58,22624,35.36,0.0,238.68,0.0
+2021-05-01,Pernambuco,Flores,4.42,1,0,0.0,809,29,3.58,3575.85,128.18,3.58,22624,35.36,-4.42,238.68,4.42
 2021-04-30,Pernambuco,Flores,0.0,0,1,4.42,808,29,3.59,3571.43,128.18,3.57,22624,39.78,-8.84,234.26,-8.84
 2021-04-29,Pernambuco,Flores,4.42,1,0,0.0,808,28,3.47,3571.43,123.76,3.57,22624,48.62,-4.42,243.1,0.0
 2021-04-28,Pernambuco,Flores,0.0,0,0,0.0,807,28,3.47,3567.01,123.76,3.57,22624,53.04,-13.26,243.1,-4.42

@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-02,Paraná,Alvorada do Sul,0.0,0,0,0.0,630,21,3.33,5523.41,184.11,5.52,11406,17.54,0.0,184.13,0.0
+2021-05-01,Paraná,Alvorada do Sul,0.0,0,1,8.77,630,21,3.33,5523.41,184.11,5.52,11406,17.54,0.0,184.13,0.0
 2021-04-30,Paraná,Alvorada do Sul,8.77,1,0,0.0,630,20,3.17,5523.41,175.35,5.52,11406,17.54,8.77,184.13,-43.83
 2021-04-29,Paraná,Alvorada do Sul,0.0,0,1,8.77,629,20,3.18,5514.64,175.35,5.51,11406,8.77,-8.77,227.96,-96.44
 2021-04-28,Paraná,Alvorada do Sul,8.77,1,1,8.77,629,19,3.02,5514.64,166.58,5.51,11406,17.54,8.77,324.4,8.77

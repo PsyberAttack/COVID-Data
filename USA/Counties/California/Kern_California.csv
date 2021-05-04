@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-03,California,Kern,2.68,24,0,0.0,108652,1354.0,1.25,12116.01,150.99,12.12,896764,110.27,37.81,-1.0,242.23,0.45
 2021-05-02,California,Kern,3.35,30,0,0.0,108628,1354.0,1.25,12113.33,150.99,12.11,896764,110.27,38.81,0.67,241.78,-1.11
 2021-05-01,California,Kern,5.91,53,1,0.11,108598,1354.0,1.25,12109.99,150.99,12.11,896764,110.27,38.14,-0.89,242.89,-4.24
 2021-04-30,California,Kern,7.36,66,4,0.45,108545,1353.0,1.25,12104.08,150.88,12.1,896764,110.27,39.03,0.22,247.13,2.79
