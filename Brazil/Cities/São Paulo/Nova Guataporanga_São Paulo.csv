@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-04,São Paulo,Nova Guataporanga,0.0,0,0,0.0,162,2,1.23,6994.82,86.36,6.99,2316,302.25,0.0,820.39,0.0
+2021-05-03,São Paulo,Nova Guataporanga,0.0,0,0,0.0,162,2,1.23,6994.82,86.36,6.99,2316,302.25,-43.18,820.39,0.0
+2021-05-02,São Paulo,Nova Guataporanga,43.18,1,0,0.0,162,2,1.23,6994.82,86.36,6.99,2316,345.43,43.18,820.39,-43.18
+2021-04-30,São Paulo,Nova Guataporanga,43.18,1,1,43.18,161,2,1.24,6951.64,86.36,6.95,2316,302.25,43.18,863.57,43.18
 2021-04-26,São Paulo,Nova Guataporanga,0.0,0,0,0.0,160,1,0.62,6908.46,43.18,6.91,2316,259.07,-43.18,820.39,0.0
 2021-04-25,São Paulo,Nova Guataporanga,43.18,1,0,0.0,160,1,0.62,6908.46,43.18,6.91,2316,302.25,0.0,820.39,43.18
 2021-04-23,São Paulo,Nova Guataporanga,172.71,4,0,0.0,159,1,0.63,6865.28,43.18,6.87,2316,302.25,43.18,777.21,172.71

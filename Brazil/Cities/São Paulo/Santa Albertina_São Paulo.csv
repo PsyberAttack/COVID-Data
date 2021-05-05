@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-04,São Paulo,Santa Albertina,0.0,0,0,0.0,535,17,3.18,8904.79,282.96,8.9,6008,133.15,0.0,915.42,0.0
+2021-05-03,São Paulo,Santa Albertina,0.0,0,0,0.0,535,17,3.18,8904.79,282.96,8.9,6008,133.15,0.0,915.42,0.0
+2021-05-02,São Paulo,Santa Albertina,33.29,2,3,49.93,535,17,3.18,8904.79,282.96,8.9,6008,133.15,-83.22,915.42,0.0
+2021-04-30,São Paulo,Santa Albertina,49.93,3,0,0.0,533,14,2.63,8871.5,233.02,8.87,6008,216.37,33.29,915.42,49.93
 2021-04-26,São Paulo,Santa Albertina,0.0,0,0,0.0,530,14,2.64,8821.57,233.02,8.82,6008,183.08,0.0,865.49,-33.29
 2021-04-25,São Paulo,Santa Albertina,49.93,3,0,0.0,530,14,2.64,8821.57,233.02,8.82,6008,183.08,-16.65,898.78,33.29
 2021-04-23,São Paulo,Santa Albertina,0.0,0,0,0.0,527,14,2.66,8771.64,233.02,8.77,6008,199.73,-482.69,865.49,-33.29
