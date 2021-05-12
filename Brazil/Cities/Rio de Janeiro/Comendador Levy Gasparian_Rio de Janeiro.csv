@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-10,Rio de Janeiro,Comendador Levy Gasparian,0.0,0,0,0.0,613,21,3.43,7160.38,245.3,7.16,8561,151.84,0.0,1156.39,0.0
+2021-05-09,Rio de Janeiro,Comendador Levy Gasparian,0.0,0,0,0.0,613,21,3.43,7160.38,245.3,7.16,8561,151.84,0.0,1156.39,-455.55
+2021-05-08,Rio de Janeiro,Comendador Levy Gasparian,11.68,1,0,0.0,613,21,3.43,7160.38,245.3,7.16,8561,151.84,-46.72,1611.94,-327.07
+2021-05-07,Rio de Janeiro,Comendador Levy Gasparian,35.04,3,1,11.68,612,21,3.43,7148.7,245.3,7.15,8561,198.56,-81.77,1939.01,23.36
 2021-05-06,Rio de Janeiro,Comendador Levy Gasparian,46.72,4,0,0.0,609,20,3.28,7113.65,233.62,7.11,8561,280.33,-23.37,1915.65,-397.15
 2021-05-05,Rio de Janeiro,Comendador Levy Gasparian,58.4,5,0,0.0,605,20,3.31,7066.93,233.62,7.07,8561,303.7,-105.13,2312.8,58.4
 2021-05-04,Rio de Janeiro,Comendador Levy Gasparian,0.0,0,0,0.0,600,20,3.33,7008.53,233.62,7.01,8561,408.83,0.0,2254.4,0.0

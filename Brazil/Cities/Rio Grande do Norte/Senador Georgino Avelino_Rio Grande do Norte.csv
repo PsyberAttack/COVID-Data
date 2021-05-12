@@ -1,13 +1,17 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-04-15,Rio Grande do Norte,Senador Georgino Avelino,0.0,0,0,0.0,130,4,3.08,2927.93,90.09,2.93,4440,225.24,-405.41,1599.12,0.0
-2021-04-14,Rio Grande do Norte,Senador Georgino Avelino,135.14,6,0,0.0,130,4,3.08,2927.93,90.09,2.93,4440,630.65,-360.36,1599.12,112.62
-2021-04-13,Rio Grande do Norte,Senador Georgino Avelino,0.0,0,0,0.0,124,4,3.23,2792.79,90.09,2.79,4440,991.01,0.0,1486.5,-45.05
-2021-04-11,Rio Grande do Norte,Senador Georgino Avelino,45.05,2,0,0.0,124,4,3.23,2792.79,90.09,2.79,4440,991.01,22.53,1531.55,45.05
-2021-04-08,Rio Grande do Norte,Senador Georgino Avelino,45.05,2,0,0.0,122,4,3.28,2747.75,90.09,2.75,4440,968.48,45.05,1486.5,45.05
-2021-04-06,Rio Grande do Norte,Senador Georgino Avelino,0.0,0,0,0.0,120,4,3.33,2702.7,90.09,2.7,4440,923.43,-22.52,1441.45,0.0
-2021-04-05,Rio Grande do Norte,Senador Georgino Avelino,0.0,0,0,0.0,120,4,3.33,2702.7,90.09,2.7,4440,945.95,-112.61,1441.45,0.0
-2021-04-04,Rio Grande do Norte,Senador Georgino Avelino,405.41,18,0,0.0,120,4,3.33,2702.7,90.09,2.7,4440,1058.56,405.41,1441.45,382.89
-2021-03-16,Rio Grande do Norte,Senador Georgino Avelino,495.5,22,2,45.05,102,4,3.92,2297.3,90.09,2.3,4440,653.15,360.36,1058.56,472.98
+2021-04-25,Rio Grande do Norte,Senador Georgino Avelino,45.05,2,0,0.0,132,4,3.03,2972.97,90.09,2.97,4440,270.29,45.05,1599.11,45.05
+2021-04-15,Rio Grande do Norte,Senador Georgino Avelino,0.0,0,0,0.0,130,4,3.08,2927.93,90.09,2.93,4440,225.24,-405.41,1554.06,-45.05
+2021-04-14,Rio Grande do Norte,Senador Georgino Avelino,135.14,6,0,0.0,130,4,3.08,2927.93,90.09,2.93,4440,630.65,112.62,1599.11,135.14
+2021-04-13,Rio Grande do Norte,Senador Georgino Avelino,0.0,0,0,0.0,124,4,3.23,2792.79,90.09,2.79,4440,518.03,-67.57,1463.97,0.0
+2021-04-11,Rio Grande do Norte,Senador Georgino Avelino,45.05,2,0,0.0,124,4,3.23,2792.79,90.09,2.79,4440,585.6,-337.83,1463.97,45.05
+2021-04-08,Rio Grande do Norte,Senador Georgino Avelino,45.05,2,0,0.0,122,4,3.28,2747.75,90.09,2.75,4440,923.43,22.53,1418.92,22.53
+2021-04-06,Rio Grande do Norte,Senador Georgino Avelino,0.0,0,0,0.0,120,4,3.33,2702.7,90.09,2.7,4440,900.9,0.0,1396.39,-45.05
+2021-04-05,Rio Grande do Norte,Senador Georgino Avelino,0.0,0,0,0.0,120,4,3.33,2702.7,90.09,2.7,4440,900.9,-22.52,1441.44,0.0
+2021-04-04,Rio Grande do Norte,Senador Georgino Avelino,405.41,18,0,0.0,120,4,3.33,2702.7,90.09,2.7,4440,923.42,405.41,1441.44,405.41
+2021-03-16,Rio Grande do Norte,Senador Georgino Avelino,22.52,1,0,0.0,102,4,3.92,2297.3,90.09,2.3,4440,518.01,0.0,1036.03,22.52
+2021-03-11,Rio Grande do Norte,Senador Georgino Avelino,67.57,3,0,0.0,101,4,3.96,2274.77,90.09,2.27,4440,518.01,-45.04,1013.51,67.57
+2021-03-10,Rio Grande do Norte,Senador Georgino Avelino,382.88,17,0,0.0,98,4,4.08,2207.21,90.09,2.21,4440,563.05,382.88,945.94,360.36
+2021-03-04,Rio Grande do Norte,Senador Georgino Avelino,22.52,1,2,45.05,81,4,4.94,1824.32,90.09,1.82,4440,180.17,-112.62,585.58,0.0
 2021-03-03,Rio Grande do Norte,Senador Georgino Avelino,0.0,0,0,0.0,80,2,2.5,1801.8,45.05,1.8,4440,292.79,0.0,585.58,0.0
 2021-03-02,Rio Grande do Norte,Senador Georgino Avelino,22.52,1,0,0.0,80,2,2.5,1801.8,45.05,1.8,4440,292.79,-67.57,585.58,22.52
 2021-03-01,Rio Grande do Norte,Senador Georgino Avelino,0.0,0,0,0.0,79,2,2.53,1779.28,45.05,1.78,4440,360.36,-22.52,563.06,0.0

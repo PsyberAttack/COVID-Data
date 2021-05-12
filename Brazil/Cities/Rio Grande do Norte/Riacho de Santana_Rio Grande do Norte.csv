@@ -1,13 +1,17 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-04-15,Rio Grande do Norte,Riacho de Santana,0.0,0,0,0.0,124,0,0.0,2949.57,0.0,2.95,4204,23.79,-95.15,547.12,0.0
-2021-04-14,Rio Grande do Norte,Riacho de Santana,0.0,0,0,0.0,124,0,0.0,2949.57,0.0,2.95,4204,118.94,-95.15,547.12,0.0
-2021-04-13,Rio Grande do Norte,Riacho de Santana,23.79,1,0,0.0,124,0,0.0,2949.57,0.0,2.95,4204,214.09,23.79,547.12,0.0
-2021-04-11,Rio Grande do Norte,Riacho de Santana,0.0,0,0,0.0,123,0,0.0,2925.78,0.0,2.93,4204,190.3,0.0,547.12,-23.79
-2021-04-08,Rio Grande do Norte,Riacho de Santana,0.0,0,0,0.0,123,0,0.0,2925.78,0.0,2.93,4204,190.3,0.0,570.91,0.0
-2021-04-06,Rio Grande do Norte,Riacho de Santana,0.0,0,0,0.0,123,0,0.0,2925.78,0.0,2.93,4204,190.3,0.0,570.91,-23.79
-2021-04-05,Rio Grande do Norte,Riacho de Santana,0.0,0,0,0.0,123,0,0.0,2925.78,0.0,2.93,4204,190.3,0.0,594.7,0.0
-2021-04-04,Rio Grande do Norte,Riacho de Santana,95.15,4,0,0.0,123,0,0.0,2925.78,0.0,2.93,4204,190.3,95.15,594.7,95.15
-2021-03-16,Rio Grande do Norte,Riacho de Santana,95.15,4,0,0.0,119,0,0.0,2830.64,0.0,2.83,4204,95.15,95.15,499.55,71.36
+2021-04-25,Rio Grande do Norte,Riacho de Santana,190.29,8,0,0.0,132,0,0.0,3139.87,0.0,3.14,4204,214.08,190.29,689.83,190.29
+2021-04-15,Rio Grande do Norte,Riacho de Santana,0.0,0,0,0.0,124,0,0.0,2949.57,0.0,2.95,4204,23.79,-95.15,499.54,-23.79
+2021-04-14,Rio Grande do Norte,Riacho de Santana,0.0,0,0,0.0,124,0,0.0,2949.57,0.0,2.95,4204,118.94,0.0,523.33,0.0
+2021-04-13,Rio Grande do Norte,Riacho de Santana,23.79,1,0,0.0,124,0,0.0,2949.57,0.0,2.95,4204,118.94,0.0,523.33,0.0
+2021-04-11,Rio Grande do Norte,Riacho de Santana,0.0,0,0,0.0,123,0,0.0,2925.78,0.0,2.93,4204,118.94,-47.57,523.33,0.0
+2021-04-08,Rio Grande do Norte,Riacho de Santana,0.0,0,0,0.0,123,0,0.0,2925.78,0.0,2.93,4204,166.51,-23.79,523.33,0.0
+2021-04-06,Rio Grande do Norte,Riacho de Santana,0.0,0,0,0.0,123,0,0.0,2925.78,0.0,2.93,4204,190.3,0.0,523.33,-23.79
+2021-04-05,Rio Grande do Norte,Riacho de Santana,0.0,0,0,0.0,123,0,0.0,2925.78,0.0,2.93,4204,190.3,0.0,547.12,-23.79
+2021-04-04,Rio Grande do Norte,Riacho de Santana,95.15,4,0,0.0,123,0,0.0,2925.78,0.0,2.93,4204,190.3,95.15,570.91,95.15
+2021-03-16,Rio Grande do Norte,Riacho de Santana,0.0,0,0,0.0,119,0,0.0,2830.64,0.0,2.83,4204,95.15,0.0,475.76,-23.79
+2021-03-11,Rio Grande do Norte,Riacho de Santana,23.79,1,0,0.0,119,0,0.0,2830.64,0.0,2.83,4204,95.15,23.79,499.55,23.79
+2021-03-10,Rio Grande do Norte,Riacho de Santana,47.57,2,0,0.0,118,0,0.0,2806.85,0.0,2.81,4204,71.36,47.57,475.76,47.57
+2021-03-04,Rio Grande do Norte,Riacho de Santana,23.79,1,0,0.0,116,0,0.0,2759.28,0.0,2.76,4204,23.79,23.79,428.19,0.0
 2021-03-03,Rio Grande do Norte,Riacho de Santana,0.0,0,0,0.0,115,0,0.0,2735.49,0.0,2.74,4204,-0.0,0.0,428.19,0.0
 2021-03-02,Rio Grande do Norte,Riacho de Santana,0.0,0,0,0.0,115,0,0.0,2735.49,0.0,2.74,4204,-0.0,-237.87,428.19,0.0
 2021-03-01,Rio Grande do Norte,Riacho de Santana,0.0,0,0,0.0,115,0,0.0,2735.49,0.0,2.74,4204,237.87,0.0,428.19,0.0

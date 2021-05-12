@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-10,Rio de Janeiro,Barra do Piraí,0.0,0,0,0.0,5094,269,5.28,5075.02,268.0,5.08,100374,257.03,0.0,865.78,-1.0
+2021-05-09,Rio de Janeiro,Barra do Piraí,14.94,15,0,0.0,5094,269,5.28,5075.02,268.0,5.08,100374,257.03,-5.98,866.78,-18.93
+2021-05-08,Rio de Janeiro,Barra do Piraí,65.75,66,1,1.0,5079,269,5.3,5060.08,268.0,5.06,100374,263.01,32.87,885.71,48.81
+2021-05-07,Rio de Janeiro,Barra do Piraí,26.9,27,1,1.0,5013,268,5.35,4994.32,267.0,4.99,100374,230.14,-37.86,836.9,-3.98
 2021-05-06,Rio de Janeiro,Barra do Piraí,44.83,45,4,3.99,4986,267,5.35,4967.42,266.01,4.97,100374,268.0,16.93,840.88,-19.93
 2021-05-05,Rio de Janeiro,Barra do Piraí,63.76,64,3,2.99,4941,263,5.32,4922.59,262.02,4.92,100374,251.07,-1.0,860.81,59.77
 2021-05-04,Rio de Janeiro,Barra do Piraí,40.85,41,7,6.97,4877,260,5.33,4858.83,259.03,4.86,100374,252.07,-55.79,801.04,32.88
