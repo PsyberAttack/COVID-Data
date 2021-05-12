@@ -1,34 +1,34 @@
-WeekEnding,Region,LTLA,Weekly_Cases,Sequenced,%Sequenced,Lineage,New_Lineage,%Lineage,Total_Lineage,Population,ONS_Code
-2021-04-10,East of England,Maldon,7,3,42.86,B.1.1.7,3,100.0,108,64926,E07000074
-2021-04-03,East of England,Maldon,10,2,20.0,B.1.1.7,2,100.0,105,64926,E07000074
-2021-03-27,East of England,Maldon,13,3,23.08,B.1.1.7,3,100.0,103,64926,E07000074
-2021-03-20,East of England,Maldon,7,2,28.57,B.1.1.7,2,100.0,100,64926,E07000074
-2021-03-13,East of England,Maldon,5,1,20.0,Lineage data suppressed,1,100.0,7,64926,E07000074
-2021-03-06,East of England,Maldon,11,1,9.09,B.1.1.7,1,100.0,98,64926,E07000074
-2021-02-27,East of England,Maldon,27,2,7.41,B.1.1.7,2,100.0,97,64926,E07000074
-2021-02-20,East of England,Maldon,47,12,25.53,B.1.1.7,12,100.0,95,64926,E07000074
-2021-02-13,East of England,Maldon,55,3,5.45,B.1.1.7,3,100.0,83,64926,E07000074
-2021-02-06,East of England,Maldon,93,2,2.15,B.1.1.7,2,100.0,80,64926,E07000074
-2021-01-30,East of England,Maldon,134,11,8.21,B.1.1.7,11,100.0,78,64926,E07000074
-2021-01-23,East of England,Maldon,242,20,8.26,B.1.1.7,20,100.0,67,64926,E07000074
-2021-01-16,East of England,Maldon,321,5,1.56,B.1.1.7,5,100.0,47,64926,E07000074
-2021-01-09,East of England,Maldon,524,15,2.86,B.1.1.7,15,100.0,42,64926,E07000074
-2021-01-02,East of England,Maldon,663,13,1.96,B.1.1.7,13,100.0,27,64926,E07000074
-2020-12-26,East of England,Maldon,477,3,0.63,B.1.1.7,3,100.0,14,64926,E07000074
-2020-12-19,East of England,Maldon,369,7,1.9,B.1.1.7,6,85.71,11,64926,E07000074
-2020-12-19,East of England,Maldon,369,7,1.9,B.1.177,1,14.29,7,64926,E07000074
-2020-12-12,East of England,Maldon,167,1,0.6,B.1.1.7,1,100.0,5,64926,E07000074
-2020-12-05,East of England,Maldon,85,2,2.35,B.1.1.7,2,100.0,4,64926,E07000074
-2020-11-28,East of England,Maldon,36,2,5.56,B.1.1.315,1,50.0,1,64926,E07000074
-2020-11-28,East of England,Maldon,36,2,5.56,B.1.1.7,1,50.0,2,64926,E07000074
-2020-11-14,East of England,Maldon,65,7,10.77,B.1.160,1,14.29,1,64926,E07000074
-2020-11-14,East of England,Maldon,65,7,10.77,B.1.177,5,71.43,6,64926,E07000074
-2020-11-14,East of England,Maldon,65,7,10.77,B.1.235,1,14.29,1,64926,E07000074
-2020-11-07,East of England,Maldon,39,3,7.69,B.1.1.7,1,33.33,1,64926,E07000074
-2020-11-07,East of England,Maldon,39,3,7.69,B.1.177,1,33.33,1,64926,E07000074
-2020-11-07,East of England,Maldon,39,3,7.69,B.1.258,1,33.33,1,64926,E07000074
-2020-10-31,East of England,Maldon,38,1,2.63,Lineage data suppressed,1,100.0,6,64926,E07000074
-2020-10-24,East of England,Maldon,40,2,5.0,Lineage data suppressed,2,100.0,5,64926,E07000074
-2020-10-17,East of England,Maldon,31,2,6.45,Lineage data suppressed,2,100.0,3,64926,E07000074
-2020-10-03,East of England,Maldon,13,1,7.69,B.1.1.37,1,100.0,1,64926,E07000074
-2020-09-05,East of England,Maldon,3,1,33.33,Lineage data suppressed,1,100.0,1,64926,E07000074
+WeekEnding,Region,LTLA,Cases_100K,Weekly_Cases,Sequenced,%Sequenced,Lineage,New_Lineage,%Lineage,Total_Lineage,Population,ONS_Code
+2021-04-10,East of England,Maldon,10.78,7,3,42.86,B.1.1.7,3,100.0,108,64926,E07000074
+2021-04-03,East of England,Maldon,15.4,10,2,20.0,B.1.1.7,2,100.0,105,64926,E07000074
+2021-03-27,East of England,Maldon,20.02,13,3,23.08,B.1.1.7,3,100.0,103,64926,E07000074
+2021-03-20,East of England,Maldon,10.78,7,2,28.57,B.1.1.7,2,100.0,100,64926,E07000074
+2021-03-13,East of England,Maldon,7.7,5,1,20.0,Lineage data suppressed,1,100.0,7,64926,E07000074
+2021-03-06,East of England,Maldon,16.94,11,1,9.09,B.1.1.7,1,100.0,98,64926,E07000074
+2021-02-27,East of England,Maldon,41.59,27,2,7.41,B.1.1.7,2,100.0,97,64926,E07000074
+2021-02-20,East of England,Maldon,72.39,47,12,25.53,B.1.1.7,12,100.0,95,64926,E07000074
+2021-02-13,East of England,Maldon,84.71,55,3,5.45,B.1.1.7,3,100.0,83,64926,E07000074
+2021-02-06,East of England,Maldon,143.24,93,2,2.15,B.1.1.7,2,100.0,80,64926,E07000074
+2021-01-30,East of England,Maldon,206.39,134,11,8.21,B.1.1.7,11,100.0,78,64926,E07000074
+2021-01-23,East of England,Maldon,372.73,242,20,8.26,B.1.1.7,20,100.0,67,64926,E07000074
+2021-01-16,East of England,Maldon,494.41,321,5,1.56,B.1.1.7,5,100.0,47,64926,E07000074
+2021-01-09,East of England,Maldon,807.07,524,15,2.86,B.1.1.7,15,100.0,42,64926,E07000074
+2021-01-02,East of England,Maldon,1021.16,663,13,1.96,B.1.1.7,13,100.0,27,64926,E07000074
+2020-12-26,East of England,Maldon,734.68,477,3,0.63,B.1.1.7,3,100.0,14,64926,E07000074
+2020-12-19,East of England,Maldon,568.34,369,7,1.9,B.1.1.7,6,85.71,11,64926,E07000074
+2020-12-19,East of England,Maldon,568.34,369,7,1.9,B.1.177,1,14.29,7,64926,E07000074
+2020-12-12,East of England,Maldon,257.22,167,1,0.6,B.1.1.7,1,100.0,5,64926,E07000074
+2020-12-05,East of England,Maldon,130.92,85,2,2.35,B.1.1.7,2,100.0,4,64926,E07000074
+2020-11-28,East of England,Maldon,55.45,36,2,5.56,B.1.1.315,1,50.0,1,64926,E07000074
+2020-11-28,East of England,Maldon,55.45,36,2,5.56,B.1.1.7,1,50.0,2,64926,E07000074
+2020-11-14,East of England,Maldon,100.11,65,7,10.77,B.1.177,5,71.43,6,64926,E07000074
+2020-11-14,East of England,Maldon,100.11,65,7,10.77,B.1.235,1,14.29,1,64926,E07000074
+2020-11-14,East of England,Maldon,100.11,65,7,10.77,B.1.160,1,14.29,1,64926,E07000074
+2020-11-07,East of England,Maldon,60.07,39,3,7.69,B.1.258,1,33.33,1,64926,E07000074
+2020-11-07,East of England,Maldon,60.07,39,3,7.69,B.1.1.7,1,33.33,1,64926,E07000074
+2020-11-07,East of England,Maldon,60.07,39,3,7.69,B.1.177,1,33.33,1,64926,E07000074
+2020-10-31,East of England,Maldon,58.53,38,1,2.63,Lineage data suppressed,1,100.0,6,64926,E07000074
+2020-10-24,East of England,Maldon,61.61,40,2,5.0,Lineage data suppressed,2,100.0,5,64926,E07000074
+2020-10-17,East of England,Maldon,47.75,31,2,6.45,Lineage data suppressed,2,100.0,3,64926,E07000074
+2020-10-03,East of England,Maldon,20.02,13,1,7.69,B.1.1.37,1,100.0,1,64926,E07000074
+2020-09-05,East of England,Maldon,4.62,3,1,33.33,Lineage data suppressed,1,100.0,1,64926,E07000074
