@@ -47,4 +47,4 @@ Lineage counts by local authority and week for England
 **ONS PopulationDdata 2020:** https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationestimatesforukenglandandwalesscotlandandnorthernireland/mid2019april2020localauthoritydistrictcodes/ukmidyearestimates20192020ladcodes.xls
 
 
-_The dataset will be updated daily by an automated process, (exact update time to be confirmed)_
+_The dataset will be updated by an automated process, (exact update time/date to be confirmed)_
