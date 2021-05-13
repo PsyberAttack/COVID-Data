@@ -1,4 +1,13 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-12,Minas Gerais,Santa Rita de Jacutinga,40.95,2,0,0.0,242,5,2.07,4954.95,102.38,4.95,4884,61.43,0.0,2149.93,0.0
+2021-05-11,Minas Gerais,Santa Rita de Jacutinga,0.0,0,0,0.0,240,5,2.08,4914.0,102.38,4.91,4884,61.43,-900.9,2149.93,-122.85
+2021-05-10,Minas Gerais,Santa Rita de Jacutinga,0.0,0,0,0.0,240,5,2.08,4914.0,102.38,4.91,4884,962.33,-20.48,2272.78,-40.95
+2021-05-09,Minas Gerais,Santa Rita de Jacutinga,0.0,0,0,0.0,240,5,2.08,4914.0,102.38,4.91,4884,982.81,-61.43,2313.73,0.0
+2021-05-08,Minas Gerais,Santa Rita de Jacutinga,0.0,0,0,0.0,240,5,2.08,4914.0,102.38,4.91,4884,1044.24,-40.95,2313.73,-61.43
+2021-05-07,Minas Gerais,Santa Rita de Jacutinga,20.48,1,0,0.0,240,5,2.08,4914.0,102.38,4.91,4884,1085.19,0.0,2375.16,0.0
+2021-05-06,Minas Gerais,Santa Rita de Jacutinga,0.0,0,0,0.0,239,5,2.09,4893.53,102.38,4.89,4884,1085.19,-102.38,2375.16,-20.48
+2021-05-05,Minas Gerais,Santa Rita de Jacutinga,40.95,2,0,0.0,239,5,2.09,4893.53,102.38,4.89,4884,1187.57,40.95,2395.64,0.0
+2021-05-04,Minas Gerais,Santa Rita de Jacutinga,900.9,44,3,61.43,237,5,2.11,4852.58,102.38,4.85,4884,1146.62,839.47,2395.64,900.9
 2021-03-31,Minas Gerais,Santa Rita de Jacutinga,20.48,1,0,0.0,193,2,1.04,3951.68,40.95,3.95,4884,307.15,20.48,1494.74,20.48
 2021-03-30,Minas Gerais,Santa Rita de Jacutinga,61.43,3,0,0.0,192,2,1.04,3931.2,40.95,3.93,4884,286.67,0.0,1474.26,61.43
 2021-03-29,Minas Gerais,Santa Rita de Jacutinga,40.95,2,0,0.0,189,2,1.06,3869.78,40.95,3.87,4884,286.67,0.0,1412.83,40.95
