@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-09,São Paulo,Santa Rita do Passa Quatro,25.4,7,1,3.63,1126,25,2.22,4086.08,90.72,4.09,27557,134.28,-94.35,823.78,21.77
+2021-05-12,São Paulo,Santa Rita do Passa Quatro,36.29,10,0,0.0,1152,25,2.17,4180.43,90.72,4.18,27557,145.16,-21.77,765.71,-29.03
+2021-05-11,São Paulo,Santa Rita do Passa Quatro,47.17,13,0,0.0,1142,25,2.19,4144.14,90.72,4.14,27557,166.93,36.28,794.74,-29.04
+2021-05-10,São Paulo,Santa Rita do Passa Quatro,10.89,3,0,0.0,1129,25,2.21,4096.96,90.72,4.1,27557,130.65,0.0,823.78,0.0
+2021-05-09,São Paulo,Santa Rita do Passa Quatro,3.63,1,0,0.0,1126,25,2.22,4086.08,90.72,4.09,27557,130.65,0.0,823.78,3.63
+2021-05-08,São Paulo,Santa Rita do Passa Quatro,21.77,6,1,3.63,1125,25,2.22,4082.45,90.72,4.08,27557,130.65,-97.98,820.15,18.14
 2021-05-07,São Paulo,Santa Rita do Passa Quatro,10.89,3,0,0.0,1119,24,2.14,4060.67,87.09,4.06,27557,228.63,-3.63,802.01,7.26
 2021-05-06,São Paulo,Santa Rita do Passa Quatro,14.52,4,0,0.0,1116,24,2.15,4049.79,87.09,4.05,27557,232.26,-61.69,794.75,7.26
 2021-05-05,São Paulo,Santa Rita do Passa Quatro,58.06,16,0,0.0,1112,24,2.16,4035.27,87.09,4.04,27557,293.95,-50.81,787.49,54.43

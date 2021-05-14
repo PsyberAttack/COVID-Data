@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-03,Rio Grande do Norte,Santa Maria,0.0,0,0,0.0,292,13,4.45,5260.31,234.19,5.26,5551,252.2,-72.06,2269.83,0.0
-2021-05-02,Rio Grande do Norte,Santa Maria,36.03,2,0,0.0,292,13,4.45,5260.31,234.19,5.26,5551,324.26,-54.04,2269.83,-18.01
+2021-05-03,Rio Grande do Norte,Santa Maria,0.0,0,0,0.0,292,13,4.45,5260.31,234.19,5.26,5551,234.18,0.0,2215.78,0.0
+2021-05-02,Rio Grande do Norte,Santa Maria,18.01,1,0,0.0,292,13,4.45,5260.31,234.19,5.26,5551,234.18,0.0,2215.78,-36.03
+2021-04-27,Rio Grande do Norte,Santa Maria,18.01,1,0,0.0,291,13,4.47,5242.3,234.19,5.24,5551,234.18,-54.05,2251.81,18.01
+2021-04-26,Rio Grande do Norte,Santa Maria,0.0,0,0,0.0,290,13,4.48,5224.28,234.19,5.22,5551,288.23,-90.07,2233.8,-54.04
 2021-04-25,Rio Grande do Norte,Santa Maria,54.04,3,1,18.01,290,13,4.48,5224.28,234.19,5.22,5551,378.3,54.04,2287.84,54.04
 2021-04-22,Rio Grande do Norte,Santa Maria,0.0,0,0,0.0,287,12,4.18,5170.24,216.18,5.17,5551,324.26,-36.03,2233.8,0.0
 2021-04-21,Rio Grande do Norte,Santa Maria,144.12,8,0,0.0,287,12,4.18,5170.24,216.18,5.17,5551,360.29,144.12,2233.8,144.12

@@ -1,5 +1,11 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-10,Santa Catarina,Ponte Alta do Norte,175.75,6,0,0.0,240,4,1.67,7029.88,117.16,7.03,3414,322.2,175.75,1142.34,117.17
+2021-05-12,Santa Catarina,Ponte Alta do Norte,29.29,1,0,0.0,245,4,1.63,7176.33,117.16,7.18,3414,322.19,-58.58,995.87,0.0
+2021-05-11,Santa Catarina,Ponte Alta do Norte,117.16,4,0,0.0,244,4,1.64,7147.04,117.16,7.15,3414,380.77,117.16,995.87,117.16
+2021-05-10,Santa Catarina,Ponte Alta do Norte,29.29,1,0,0.0,240,4,1.67,7029.88,117.16,7.03,3414,263.61,29.29,878.71,-234.33
+2021-05-09,Santa Catarina,Ponte Alta do Norte,0.0,0,0,0.0,239,4,1.67,7000.59,117.16,7.0,3414,234.32,0.0,1113.04,0.0
+2021-05-08,Santa Catarina,Ponte Alta do Norte,29.29,1,0,0.0,239,4,1.67,7000.59,117.16,7.0,3414,234.32,29.29,1113.04,29.29
+2021-05-07,Santa Catarina,Ponte Alta do Norte,0.0,0,0,0.0,238,4,1.68,6971.29,117.16,6.97,3414,205.03,-58.58,1083.75,0.0
+2021-05-06,Santa Catarina,Ponte Alta do Norte,117.16,4,0,0.0,238,4,1.68,6971.29,117.16,6.97,3414,263.61,117.16,1083.75,58.58
 2021-05-05,Santa Catarina,Ponte Alta do Norte,87.87,3,2,58.58,234,4,1.71,6854.13,117.16,6.85,3414,146.45,-29.29,1025.17,-29.29
 2021-05-04,Santa Catarina,Ponte Alta do Norte,0.0,0,0,0.0,231,2,0.87,6766.26,58.58,6.77,3414,175.74,-58.58,1054.46,0.0
 2021-05-03,Santa Catarina,Ponte Alta do Norte,0.0,0,0,0.0,231,2,0.87,6766.26,58.58,6.77,3414,234.32,0.0,1054.46,0.0

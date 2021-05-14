@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-03,Rio Grande do Norte,Coronel Ezequiel,0.0,0,0,0.0,215,3,1.4,3904.83,54.49,3.9,5506,454.05,-36.32,835.44,-18.16
-2021-05-02,Rio Grande do Norte,Coronel Ezequiel,145.3,8,0,0.0,215,3,1.4,3904.83,54.49,3.9,5506,490.37,145.3,853.6,145.3
+2021-05-03,Rio Grande do Norte,Coronel Ezequiel,0.0,0,0,0.0,215,3,1.4,3904.83,54.49,3.9,5506,399.56,-54.49,835.44,0.0
+2021-05-02,Rio Grande do Norte,Coronel Ezequiel,72.65,4,0,0.0,215,3,1.4,3904.83,54.49,3.9,5506,454.05,72.65,835.44,72.65
+2021-04-27,Rio Grande do Norte,Coronel Ezequiel,72.65,4,0,0.0,211,3,1.42,3832.18,54.49,3.83,5506,381.4,36.33,762.79,54.49
+2021-04-26,Rio Grande do Norte,Coronel Ezequiel,0.0,0,0,0.0,207,3,1.45,3759.54,54.49,3.76,5506,345.07,0.0,708.3,0.0
 2021-04-25,Rio Grande do Norte,Coronel Ezequiel,127.13,7,0,0.0,207,3,1.45,3759.54,54.49,3.76,5506,345.07,127.13,708.3,108.97
 2021-04-22,Rio Grande do Norte,Coronel Ezequiel,0.0,0,0,0.0,200,3,1.5,3632.4,54.49,3.63,5506,217.94,0.0,599.33,0.0
 2021-04-21,Rio Grande do Norte,Coronel Ezequiel,127.13,7,0,0.0,200,3,1.5,3632.4,54.49,3.63,5506,217.94,127.13,599.33,127.13

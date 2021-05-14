@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-08,Tocantins,Novo Jardim,146.95,4,0,0.0,171,1,0.58,6282.15,36.74,6.28,2722,146.95,146.95,514.35,146.95
+2021-05-08,Tocantins,Novo Jardim,0.0,0,0,0.0,171,1,0.58,6282.15,36.74,6.28,2722,146.95,0.0,477.61,0.0
+2021-05-07,Tocantins,Novo Jardim,146.95,4,0,0.0,171,1,0.58,6282.15,36.74,6.28,2722,146.95,146.95,477.61,110.21
+2021-05-06,Tocantins,Novo Jardim,0.0,0,0,0.0,167,1,0.6,6135.19,36.74,6.14,2722,-0.0,0.0,367.4,0.0
 2021-05-05,Tocantins,Novo Jardim,0.0,0,0,0.0,167,1,0.6,6135.19,36.74,6.14,2722,-0.0,-36.74,367.4,-73.48
 2021-05-04,Tocantins,Novo Jardim,0.0,0,0,0.0,167,1,0.6,6135.19,36.74,6.14,2722,36.74,-73.48,440.88,-73.48
 2021-05-03,Tocantins,Novo Jardim,0.0,0,0,0.0,167,1,0.6,6135.19,36.74,6.14,2722,110.22,0.0,514.36,0.0

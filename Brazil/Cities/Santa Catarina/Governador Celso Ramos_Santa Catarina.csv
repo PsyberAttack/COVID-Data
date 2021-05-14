@@ -1,5 +1,11 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-10,Santa Catarina,Governador Celso Ramos,241.86,35,0,0.0,2339,23,0.98,16163.36,158.94,16.16,14471,393.88,228.04,1064.16,200.4
+2021-05-12,Santa Catarina,Governador Celso Ramos,13.82,2,0,0.0,2349,23,0.98,16232.46,158.94,16.23,14471,310.95,-41.46,960.5,-76.01
+2021-05-11,Santa Catarina,Governador Celso Ramos,55.28,8,0,0.0,2347,23,0.98,16218.64,158.94,16.22,14471,352.41,27.64,1036.51,55.28
+2021-05-10,Santa Catarina,Governador Celso Ramos,27.64,4,0,0.0,2339,23,0.98,16163.36,158.94,16.16,14471,324.77,6.91,981.23,20.73
+2021-05-09,Santa Catarina,Governador Celso Ramos,34.55,5,0,0.0,2335,23,0.99,16135.72,158.94,16.14,14471,317.86,34.55,960.5,-6.91
+2021-05-08,Santa Catarina,Governador Celso Ramos,89.83,13,0,0.0,2330,23,0.99,16101.17,158.94,16.1,14471,283.31,76.01,967.41,55.28
+2021-05-07,Santa Catarina,Governador Celso Ramos,34.55,5,0,0.0,2317,23,0.99,16011.33,158.94,16.01,14471,207.3,0.0,912.13,34.55
+2021-05-06,Santa Catarina,Governador Celso Ramos,55.28,8,0,0.0,2312,23,0.99,15976.78,158.94,15.98,14471,207.3,41.46,877.58,13.82
 2021-05-05,Santa Catarina,Governador Celso Ramos,55.28,8,-1,-6.91,2304,23,1.0,15921.5,158.94,15.92,14471,165.84,34.55,863.76,-6.91
 2021-05-04,Santa Catarina,Governador Celso Ramos,27.64,4,0,0.0,2296,24,1.05,15866.22,165.85,15.87,14471,131.29,-20.73,870.67,20.73
 2021-05-03,Santa Catarina,Governador Celso Ramos,20.73,3,0,0.0,2292,24,1.05,15838.57,165.85,15.84,14471,152.02,6.91,849.94,20.73

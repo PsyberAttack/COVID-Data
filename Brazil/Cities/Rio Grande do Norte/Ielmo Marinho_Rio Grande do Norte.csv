@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-03,Rio Grande do Norte,Ielmo Marinho,0.0,0,0,0.0,262,6,2.29,1903.24,43.59,1.9,13766,116.23,-7.26,479.44,0.0
-2021-05-02,Rio Grande do Norte,Ielmo Marinho,50.85,7,0,0.0,262,6,2.29,1903.24,43.59,1.9,13766,123.49,43.59,479.44,43.59
+2021-05-03,Rio Grande do Norte,Ielmo Marinho,0.0,0,0,0.0,262,6,2.29,1903.24,43.59,1.9,13766,116.22,0.0,479.43,0.0
+2021-05-02,Rio Grande do Norte,Ielmo Marinho,36.32,5,0,0.0,262,6,2.29,1903.24,43.59,1.9,13766,116.22,36.32,479.43,36.32
+2021-04-27,Rio Grande do Norte,Ielmo Marinho,7.26,1,0,0.0,257,6,2.33,1866.92,43.59,1.87,13766,79.9,0.0,443.11,7.26
+2021-04-26,Rio Grande do Norte,Ielmo Marinho,7.26,1,0,0.0,256,6,2.34,1859.65,43.59,1.86,13766,79.9,0.0,435.85,0.0
 2021-04-25,Rio Grande do Norte,Ielmo Marinho,36.32,5,0,0.0,255,6,2.35,1852.39,43.59,1.85,13766,79.9,36.32,435.85,-7.27
 2021-04-22,Rio Grande do Norte,Ielmo Marinho,0.0,0,0,0.0,250,6,2.4,1816.07,43.59,1.82,13766,43.58,0.0,443.12,0.0
 2021-04-21,Rio Grande do Norte,Ielmo Marinho,29.06,4,0,0.0,250,6,2.4,1816.07,43.59,1.82,13766,43.58,29.06,443.12,21.8

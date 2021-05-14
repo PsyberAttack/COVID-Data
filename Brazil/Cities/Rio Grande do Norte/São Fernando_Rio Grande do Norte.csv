@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-03,Rio Grande do Norte,São Fernando,0.0,0,0,0.0,267,5,1.87,7449.78,139.51,7.45,3584,697.55,0.0,1674.11,-55.8
-2021-05-02,Rio Grande do Norte,São Fernando,195.31,7,0,0.0,267,5,1.87,7449.78,139.51,7.45,3584,697.55,167.41,1729.91,55.8
+2021-05-03,Rio Grande do Norte,São Fernando,0.0,0,0,0.0,267,5,1.87,7449.78,139.51,7.45,3584,641.75,0.0,1590.4,0.0
+2021-05-02,Rio Grande do Norte,São Fernando,195.31,7,0,0.0,267,5,1.87,7449.78,139.51,7.45,3584,641.75,139.51,1590.4,111.6
+2021-04-27,Rio Grande do Norte,São Fernando,0.0,0,0,0.0,260,5,1.92,7254.46,139.51,7.25,3584,502.24,0.0,1478.8,-55.8
+2021-04-26,Rio Grande do Norte,São Fernando,0.0,0,0,0.0,260,5,1.92,7254.46,139.51,7.25,3584,502.24,-27.9,1534.6,-139.51
 2021-04-25,Rio Grande do Norte,São Fernando,251.12,9,0,0.0,260,5,1.92,7254.46,139.51,7.25,3584,530.14,167.41,1674.11,223.22
 2021-04-22,Rio Grande do Norte,São Fernando,111.61,4,0,0.0,251,5,1.99,7003.35,139.51,7.0,3584,362.73,111.61,1450.89,27.9
 2021-04-21,Rio Grande do Norte,São Fernando,83.71,3,0,0.0,247,5,2.02,6891.74,139.51,6.89,3584,251.12,83.71,1422.99,55.81

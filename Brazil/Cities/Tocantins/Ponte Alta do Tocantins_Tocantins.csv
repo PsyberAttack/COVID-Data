@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-08,Tocantins,Ponte Alta do Tocantins,99.51,8,0,0.0,688,7,1.02,8558.28,87.08,8.56,8039,460.24,24.87,1306.12,-12.44
+2021-05-08,Tocantins,Ponte Alta do Tocantins,0.0,0,0,0.0,688,7,1.02,8558.28,87.08,8.56,8039,460.25,0.0,1256.37,12.44
+2021-05-07,Tocantins,Ponte Alta do Tocantins,62.2,5,0,0.0,688,7,1.02,8558.28,87.08,8.56,8039,460.25,62.2,1243.93,0.0
+2021-05-06,Tocantins,Ponte Alta do Tocantins,37.32,3,0,0.0,683,7,1.02,8496.08,87.08,8.5,8039,398.05,-37.32,1243.93,-74.63
 2021-05-05,Tocantins,Ponte Alta do Tocantins,149.27,12,1,12.44,680,7,1.03,8458.76,87.08,8.46,8039,435.37,-12.44,1318.56,149.27
 2021-05-04,Tocantins,Ponte Alta do Tocantins,111.95,9,0,0.0,668,6,0.9,8309.49,74.64,8.31,8039,447.81,12.44,1169.29,-49.76
 2021-05-03,Tocantins,Ponte Alta do Tocantins,99.51,8,0,0.0,659,6,0.91,8197.54,74.64,8.2,8039,435.37,99.51,1219.05,99.51

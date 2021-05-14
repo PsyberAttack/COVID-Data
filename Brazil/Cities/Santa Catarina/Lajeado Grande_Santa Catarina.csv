@@ -1,5 +1,11 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-10,Santa Catarina,Lajeado Grande,0.0,0,0,0.0,184,5,2.72,12894.18,350.39,12.89,1427,70.08,0.0,840.93,0.0
+2021-05-12,Santa Catarina,Lajeado Grande,0.0,0,0,0.0,186,5,2.69,13034.34,350.39,13.03,1427,140.15,0.0,911.0,-70.08
+2021-05-11,Santa Catarina,Lajeado Grande,140.15,2,0,0.0,186,5,2.69,13034.34,350.39,13.03,1427,140.15,210.23,981.08,140.15
+2021-05-10,Santa Catarina,Lajeado Grande,0.0,0,0,0.0,184,5,2.72,12894.18,350.39,12.89,1427,-70.08,0.0,840.93,0.0
+2021-05-09,Santa Catarina,Lajeado Grande,0.0,0,0,0.0,184,5,2.72,12894.18,350.39,12.89,1427,-70.08,0.0,840.93,0.0
+2021-05-08,Santa Catarina,Lajeado Grande,0.0,0,0,0.0,184,5,2.72,12894.18,350.39,12.89,1427,-70.08,-70.08,840.93,0.0
+2021-05-07,Santa Catarina,Lajeado Grande,0.0,0,0,0.0,184,5,2.72,12894.18,350.39,12.89,1427,0.0,-70.08,840.93,0.0
+2021-05-06,Santa Catarina,Lajeado Grande,0.0,0,0,0.0,184,5,2.72,12894.18,350.39,12.89,1427,70.08,0.0,840.93,0.0
 2021-05-05,Santa Catarina,Lajeado Grande,0.0,0,0,0.0,184,5,2.72,12894.18,350.39,12.89,1427,70.08,0.0,840.93,-420.46
 2021-05-04,Santa Catarina,Lajeado Grande,-70.08,-1,0,0.0,184,5,2.72,12894.18,350.39,12.89,1427,70.08,-140.16,1261.39,-70.08
 2021-05-03,Santa Catarina,Lajeado Grande,0.0,0,0,0.0,185,5,2.7,12964.26,350.39,12.96,1427,210.24,0.0,1331.47,0.0

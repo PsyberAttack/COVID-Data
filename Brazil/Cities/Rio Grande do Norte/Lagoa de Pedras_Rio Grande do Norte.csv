@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-03,Rio Grande do Norte,Lagoa de Pedras,0.0,0,0,0.0,180,10,5.56,2386.0,132.56,2.39,7544,583.25,0.0,1272.57,0.0
-2021-05-02,Rio Grande do Norte,Lagoa de Pedras,424.18,32,0,0.0,180,10,5.56,2386.0,132.56,2.39,7544,583.25,397.67,1272.57,424.18
+2021-05-03,Rio Grande do Norte,Lagoa de Pedras,0.0,0,0,0.0,180,10,5.56,2386.0,132.56,2.39,7544,543.48,0.0,1272.57,0.0
+2021-05-02,Rio Grande do Norte,Lagoa de Pedras,410.92,31,0,0.0,180,10,5.56,2386.0,132.56,2.39,7544,543.48,371.15,1272.57,410.92
+2021-04-27,Rio Grande do Norte,Lagoa de Pedras,13.26,1,0,0.0,149,10,6.71,1975.08,132.56,1.98,7544,172.33,13.26,861.65,13.26
+2021-04-26,Rio Grande do Norte,Lagoa de Pedras,0.0,0,0,0.0,148,10,6.76,1961.82,132.56,1.96,7544,159.07,-26.51,848.39,0.0
 2021-04-25,Rio Grande do Norte,Lagoa de Pedras,66.28,5,1,13.26,148,10,6.76,1961.82,132.56,1.96,7544,185.58,-13.25,848.39,66.28
 2021-04-22,Rio Grande do Norte,Lagoa de Pedras,0.0,0,0,0.0,143,9,6.29,1895.55,119.3,1.9,7544,198.83,-39.77,782.11,0.0
 2021-04-21,Rio Grande do Norte,Lagoa de Pedras,53.02,4,1,13.26,143,9,6.29,1895.55,119.3,1.9,7544,238.6,26.51,782.11,53.02

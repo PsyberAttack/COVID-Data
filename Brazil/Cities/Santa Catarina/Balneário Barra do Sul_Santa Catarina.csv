@@ -1,5 +1,11 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-10,Santa Catarina,Balneário Barra do Sul,46.32,5,0,0.0,1279,29,2.27,11848.08,268.64,11.85,10795,259.38,0.0,815.16,37.06
+2021-05-12,Santa Catarina,Balneário Barra do Sul,55.58,6,0,0.0,1290,29,2.25,11949.98,268.64,11.95,10795,148.22,46.32,852.22,18.53
+2021-05-11,Santa Catarina,Balneário Barra do Sul,46.32,5,0,0.0,1284,29,2.26,11894.4,268.64,11.89,10795,101.9,0.0,833.69,-18.52
+2021-05-10,Santa Catarina,Balneário Barra do Sul,18.53,2,0,0.0,1279,29,2.27,11848.08,268.64,11.85,10795,101.9,-9.26,852.21,0.0
+2021-05-09,Santa Catarina,Balneário Barra do Sul,9.26,1,0,0.0,1277,29,2.27,11829.55,268.64,11.83,10795,111.16,-64.85,852.21,83.37
+2021-05-08,Santa Catarina,Balneário Barra do Sul,-9.26,-1,0,0.0,1276,29,2.27,11820.29,268.64,11.82,10795,176.01,-9.26,768.84,-9.26
+2021-05-07,Santa Catarina,Balneário Barra do Sul,27.79,3,0,0.0,1277,29,2.27,11829.55,268.64,11.83,10795,185.27,-27.79,778.1,9.26
+2021-05-06,Santa Catarina,Balneário Barra do Sul,0.0,0,0,0.0,1274,29,2.28,11801.76,268.64,11.8,10795,213.06,-46.32,768.84,-9.26
 2021-05-05,Santa Catarina,Balneário Barra do Sul,9.26,1,0,0.0,1274,29,2.28,11801.76,268.64,11.8,10795,259.38,-37.06,778.1,-27.79
 2021-05-04,Santa Catarina,Balneário Barra do Sul,46.32,5,0,0.0,1273,29,2.28,11792.5,268.64,11.79,10795,296.44,-18.52,805.89,-27.79
 2021-05-03,Santa Catarina,Balneário Barra do Sul,27.79,3,1,9.26,1268,29,2.29,11746.18,268.64,11.75,10795,314.96,9.26,833.68,27.79

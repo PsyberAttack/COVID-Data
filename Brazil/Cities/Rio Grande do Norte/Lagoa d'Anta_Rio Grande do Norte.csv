@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-03,Rio Grande do Norte,Lagoa d'Anta,29.55,2,0,0.0,229,6,2.62,3383.07,88.64,3.38,6769,236.37,-14.77,1004.58,29.55
-2021-05-02,Rio Grande do Norte,Lagoa d'Anta,44.32,3,0,0.0,227,6,2.64,3353.52,88.64,3.35,6769,251.14,0.0,975.03,44.32
+2021-05-03,Rio Grande do Norte,Lagoa d'Anta,29.55,2,0,0.0,229,6,2.62,3383.07,88.64,3.38,6769,236.37,29.55,960.26,29.55
+2021-05-02,Rio Grande do Norte,Lagoa d'Anta,44.32,3,0,0.0,227,6,2.64,3353.52,88.64,3.35,6769,206.82,44.32,930.71,0.0
+2021-04-27,Rio Grande do Norte,Lagoa d'Anta,0.0,0,0,0.0,224,6,2.68,3309.2,88.64,3.31,6769,162.5,-44.32,930.71,0.0
+2021-04-26,Rio Grande do Norte,Lagoa d'Anta,0.0,0,0,0.0,224,6,2.68,3309.2,88.64,3.31,6769,206.82,-44.32,930.71,0.0
 2021-04-25,Rio Grande do Norte,Lagoa d'Anta,59.09,4,0,0.0,224,6,2.68,3309.2,88.64,3.31,6769,251.14,-29.55,930.71,59.09
 2021-04-22,Rio Grande do Norte,Lagoa d'Anta,0.0,0,0,0.0,220,6,2.73,3250.11,88.64,3.25,6769,280.69,0.0,871.62,-14.77
 2021-04-21,Rio Grande do Norte,Lagoa d'Anta,103.41,7,0,0.0,220,6,2.73,3250.11,88.64,3.25,6769,280.69,103.41,886.39,103.41

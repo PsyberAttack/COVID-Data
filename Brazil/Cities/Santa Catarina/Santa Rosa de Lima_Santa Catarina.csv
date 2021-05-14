@@ -1,5 +1,11 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-10,Santa Catarina,Santa Rosa de Lima,140.06,3,0,0.0,292,5,1.71,13632.12,233.43,13.63,2142,140.06,140.06,980.43,-93.37
+2021-05-12,Santa Catarina,Santa Rosa de Lima,0.0,0,0,0.0,292,5,1.71,13632.12,233.43,13.63,2142,140.06,0.0,513.57,-93.37
+2021-05-11,Santa Catarina,Santa Rosa de Lima,0.0,0,0,0.0,292,5,1.71,13632.12,233.43,13.63,2142,140.06,0.0,606.94,0.0
+2021-05-10,Santa Catarina,Santa Rosa de Lima,0.0,0,0,0.0,292,5,1.71,13632.12,233.43,13.63,2142,140.06,0.0,606.94,-233.43
+2021-05-09,Santa Catarina,Santa Rosa de Lima,0.0,0,0,0.0,292,5,1.71,13632.12,233.43,13.63,2142,140.06,0.0,840.37,0.0
+2021-05-08,Santa Catarina,Santa Rosa de Lima,0.0,0,0,0.0,292,5,1.71,13632.12,233.43,13.63,2142,140.06,0.0,840.37,0.0
+2021-05-07,Santa Catarina,Santa Rosa de Lima,93.37,2,0,0.0,292,5,1.71,13632.12,233.43,13.63,2142,140.06,93.37,840.37,-46.69
+2021-05-06,Santa Catarina,Santa Rosa de Lima,46.69,1,0,0.0,290,5,1.72,13538.75,233.43,13.54,2142,46.69,46.69,887.06,-186.74
 2021-05-05,Santa Catarina,Santa Rosa de Lima,0.0,0,0,0.0,289,5,1.73,13492.06,233.43,13.49,2142,0.0,0.0,1073.8,0.0
 2021-05-04,Santa Catarina,Santa Rosa de Lima,0.0,0,1,46.69,289,5,1.73,13492.06,233.43,13.49,2142,0.0,-46.69,1073.8,0.0
 2021-05-03,Santa Catarina,Santa Rosa de Lima,0.0,0,0,0.0,289,4,1.38,13492.06,186.74,13.49,2142,46.69,0.0,1073.8,-46.69

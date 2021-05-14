@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-03,Rio Grande do Norte,Santana do Matos,0.0,0,0,0.0,399,9,2.26,3119.38,70.36,3.12,12791,414.35,-46.91,1063.26,0.0
-2021-05-02,Rio Grande do Norte,Santana do Matos,320.54,41,0,0.0,399,9,2.26,3119.38,70.36,3.12,12791,461.26,304.9,1063.26,289.27
+2021-05-03,Rio Grande do Norte,Santana do Matos,0.0,0,0,0.0,399,9,2.26,3119.38,70.36,3.12,12791,414.35,0.0,977.26,-39.09
+2021-05-02,Rio Grande do Norte,Santana do Matos,304.9,39,0,0.0,399,9,2.26,3119.38,70.36,3.12,12791,414.35,304.9,1016.35,257.99
+2021-04-27,Rio Grande do Norte,Santana do Matos,7.82,1,0,0.0,360,9,2.5,2814.48,70.36,2.81,12791,109.45,-39.09,758.36,7.82
+2021-04-26,Rio Grande do Norte,Santana do Matos,7.82,1,0,0.0,359,9,2.51,2806.66,70.36,2.81,12791,148.54,-7.82,750.54,-23.45
 2021-04-25,Rio Grande do Norte,Santana do Matos,62.54,8,1,7.82,358,9,2.51,2798.84,70.36,2.8,12791,156.36,7.81,773.99,54.72
 2021-04-22,Rio Grande do Norte,Santana do Matos,7.82,1,0,0.0,350,8,2.29,2736.3,62.54,2.74,12791,148.55,0.0,719.27,46.91
 2021-04-21,Rio Grande do Norte,Santana do Matos,23.45,3,2,15.64,349,8,2.29,2728.48,62.54,2.73,12791,148.55,23.45,672.36,23.45

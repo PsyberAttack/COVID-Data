@@ -1,5 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-09,São Paulo,Santo Antônio do Jardim,0.0,0,0,0.0,366,15,4.1,6147.13,251.93,6.15,5954,67.19,-167.95,739.03,-50.39
+2021-05-12,São Paulo,Santo Antônio do Jardim,16.8,1,0,0.0,368,15,4.08,6180.72,251.93,6.18,5954,67.19,0.0,638.25,-33.59
+2021-05-11,São Paulo,Santo Antônio do Jardim,16.8,1,0,0.0,367,15,4.09,6163.92,251.93,6.16,5954,67.19,0.0,671.84,0.0
+2021-05-10,São Paulo,Santo Antônio do Jardim,0.0,0,0,0.0,366,15,4.1,6147.13,251.93,6.15,5954,67.19,0.0,671.84,-50.39
+2021-05-09,São Paulo,Santo Antônio do Jardim,0.0,0,0,0.0,366,15,4.1,6147.13,251.93,6.15,5954,67.19,0.0,722.23,-16.8
+2021-05-08,São Paulo,Santo Antônio do Jardim,0.0,0,0,0.0,366,15,4.1,6147.13,251.93,6.15,5954,67.19,-167.95,739.03,-50.39
 2021-05-07,São Paulo,Santo Antônio do Jardim,33.59,2,0,0.0,366,15,4.1,6147.13,251.93,6.15,5954,235.14,33.59,789.42,33.59
 2021-05-06,São Paulo,Santo Antônio do Jardim,0.0,0,0,0.0,364,15,4.12,6113.54,251.93,6.11,5954,201.55,-16.8,755.83,-33.59
 2021-05-05,São Paulo,Santo Antônio do Jardim,16.8,1,0,0.0,364,15,4.12,6113.54,251.93,6.11,5954,218.35,-33.59,789.42,-16.79

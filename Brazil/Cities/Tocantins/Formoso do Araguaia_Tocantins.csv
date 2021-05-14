@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-08,Tocantins,Formoso do Araguaia,21.69,4,0,0.0,2463,43,1.75,13356.83,233.19,13.36,18440,162.68,-16.27,3416.45,16.27
+2021-05-08,Tocantins,Formoso do Araguaia,0.0,0,0,0.0,2463,43,1.75,13356.83,233.19,13.36,18440,86.77,0.0,3362.23,-59.65
+2021-05-07,Tocantins,Formoso do Araguaia,10.85,2,0,0.0,2463,43,1.75,13356.83,233.19,13.36,18440,86.77,-65.07,3421.88,16.27
+2021-05-06,Tocantins,Formoso do Araguaia,10.85,2,0,0.0,2461,43,1.75,13345.99,233.19,13.35,18440,151.84,-27.11,3405.61,5.43
 2021-05-05,Tocantins,Formoso do Araguaia,27.11,5,0,0.0,2459,43,1.75,13335.14,233.19,13.34,18440,178.95,-54.23,3400.18,-16.27
 2021-05-04,Tocantins,Formoso do Araguaia,10.85,2,0,0.0,2454,43,1.75,13308.03,233.19,13.31,18440,233.18,-32.53,3416.45,10.85
 2021-05-03,Tocantins,Formoso do Araguaia,21.69,4,0,0.0,2452,43,1.75,13297.18,233.19,13.3,18440,265.71,21.69,3405.6,21.69

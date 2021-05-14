@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-08,Tocantins,Colinas do Tocantins,208.9,74,3,8.47,6374,96,1.51,17993.45,271.0,17.99,35424,745.27,160.91,1770.0,115.74
+2021-05-08,Tocantins,Colinas do Tocantins,19.76,7,0,0.0,6374,96,1.51,17993.45,271.0,17.99,35424,575.89,14.11,1628.85,2.82
+2021-05-07,Tocantins,Colinas do Tocantins,76.22,27,1,2.82,6367,96,1.51,17973.69,271.0,17.97,35424,561.78,-87.51,1626.03,-47.99
+2021-05-06,Tocantins,Colinas do Tocantins,112.92,40,2,5.65,6340,95,1.5,17897.47,268.18,17.9,35424,649.29,64.93,1674.02,19.76
 2021-05-05,Tocantins,Colinas do Tocantins,76.22,27,1,2.82,6300,93,1.48,17784.55,262.53,17.78,35424,584.36,28.23,1654.26,56.46
 2021-05-04,Tocantins,Colinas do Tocantins,45.17,16,1,2.82,6273,92,1.47,17708.33,259.71,17.71,35424,556.13,-87.51,1597.8,-101.62
 2021-05-03,Tocantins,Colinas do Tocantins,237.13,84,1,2.82,6257,91,1.45,17663.17,256.89,17.66,35424,643.64,237.13,1699.42,237.13

@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-03,Rio Grande do Norte,Riacho da Cruz,0.0,0,0,0.0,219,6,2.74,6119.03,167.64,6.12,3579,55.88,0.0,894.09,27.94
-2021-05-02,Rio Grande do Norte,Riacho da Cruz,27.94,1,0,0.0,219,6,2.74,6119.03,167.64,6.12,3579,55.88,0.0,866.15,-139.7
+2021-05-03,Rio Grande do Norte,Riacho da Cruz,0.0,0,0,0.0,219,6,2.74,6119.03,167.64,6.12,3579,55.88,0.0,866.15,0.0
+2021-05-02,Rio Grande do Norte,Riacho da Cruz,27.94,1,0,0.0,219,6,2.74,6119.03,167.64,6.12,3579,55.88,27.94,866.15,0.0
+2021-04-27,Rio Grande do Norte,Riacho da Cruz,0.0,0,0,0.0,218,6,2.75,6091.09,167.64,6.09,3579,27.94,0.0,866.15,27.94
+2021-04-26,Rio Grande do Norte,Riacho da Cruz,0.0,0,0,0.0,218,6,2.75,6091.09,167.64,6.09,3579,27.94,-27.94,838.21,-167.64
 2021-04-25,Rio Grande do Norte,Riacho da Cruz,0.0,0,0,0.0,218,6,2.75,6091.09,167.64,6.09,3579,55.88,-83.82,1005.85,0.0
 2021-04-22,Rio Grande do Norte,Riacho da Cruz,0.0,0,0,0.0,218,6,2.75,6091.09,167.64,6.09,3579,139.7,-83.82,1005.85,0.0
 2021-04-21,Rio Grande do Norte,Riacho da Cruz,27.94,1,0,0.0,218,6,2.75,6091.09,167.64,6.09,3579,223.52,27.94,1005.85,27.94

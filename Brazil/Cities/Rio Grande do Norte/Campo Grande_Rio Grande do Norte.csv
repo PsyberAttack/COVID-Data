@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-03,Rio Grande do Norte,Campo Grande,0.0,0,0,0.0,360,9,2.5,3728.64,93.22,3.73,9655,517.87,0.0,1812.54,0.0
-2021-05-02,Rio Grande do Norte,Campo Grande,186.43,18,3,31.07,360,9,2.5,3728.64,93.22,3.73,9655,517.87,134.64,1812.54,186.43
+2021-05-03,Rio Grande do Norte,Campo Grande,0.0,0,0,0.0,360,9,2.5,3728.64,93.22,3.73,9655,393.59,0.0,1802.19,-10.36
+2021-05-02,Rio Grande do Norte,Campo Grande,165.72,16,1,10.36,360,9,2.5,3728.64,93.22,3.73,9655,393.59,41.43,1812.55,165.72
+2021-04-27,Rio Grande do Norte,Campo Grande,10.36,1,2,20.71,344,8,2.33,3562.92,82.86,3.56,9655,352.16,10.36,1646.83,10.36
+2021-04-26,Rio Grande do Norte,Campo Grande,10.36,1,0,0.0,343,6,1.75,3552.56,62.14,3.55,9655,341.8,-41.43,1636.47,10.36
 2021-04-25,Rio Grande do Norte,Campo Grande,134.65,13,0,0.0,342,6,1.75,3542.21,62.14,3.54,9655,383.23,-93.21,1626.11,134.65
 2021-04-22,Rio Grande do Norte,Campo Grande,0.0,0,0,0.0,329,6,1.82,3407.56,62.14,3.41,9655,476.44,0.0,1491.46,-10.36
 2021-04-21,Rio Grande do Norte,Campo Grande,72.5,7,0,0.0,329,6,1.82,3407.56,62.14,3.41,9655,476.44,62.14,1501.82,72.5
