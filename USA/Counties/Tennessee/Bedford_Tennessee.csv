@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-14,Tennessee,Bedford,2.04,1,0,0.0,6522,128.0,1.96,13299.89,261.02,13.3,49038,103.53,32.64,-6.12,230.46,-20.39
+2021-05-13,Tennessee,Bedford,6.12,3,-1,-2.04,6521,128.0,1.96,13297.85,261.02,13.3,49038,103.53,38.76,8.16,250.85,-14.27
 2021-05-12,Tennessee,Bedford,10.2,5,0,0.0,6518,129.0,1.98,13291.73,263.06,13.29,49038,103.53,30.6,4.08,265.12,-10.19
 2021-05-11,Tennessee,Bedford,2.04,1,0,0.0,6513,129.0,1.98,13281.54,263.06,13.28,49038,103.53,26.52,-4.08,275.31,-10.2
 2021-05-10,Tennessee,Bedford,12.24,6,1,2.04,6512,129.0,1.98,13279.5,263.06,13.28,49038,103.53,30.6,8.16,285.51,-32.62

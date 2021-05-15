@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-14,Michigan,Livingston,15.17,29,-1,-0.52,16438,179.0,1.09,8596.2,93.61,8.6,191224,338.3,126.55,0.0,948.63,-65.89
+2021-05-13,Michigan,Livingston,19.35,37,0,0.0,16409,180.0,1.1,8581.04,94.13,8.58,191224,338.3,126.55,-11.5,1014.52,-35.04
 2021-05-12,Michigan,Livingston,26.67,51,-1,-0.52,16372,180.0,1.1,8561.69,94.13,8.56,191224,338.3,138.05,2.09,1049.56,-84.19
 2021-05-11,Michigan,Livingston,10.98,21,1,0.52,16321,181.0,1.11,8535.02,94.65,8.54,191224,338.3,135.96,-5.23,1133.75,-86.29
 2021-05-10,Michigan,Livingston,28.76,55,2,1.05,16300,180.0,1.1,8524.03,94.13,8.52,191224,338.3,141.19,-25.1,1220.04,-112.44

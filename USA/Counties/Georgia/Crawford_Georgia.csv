@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-14,Georgia,Crawford,0.0,0,0,0.0,659,19.0,2.88,5349.89,154.25,5.35,12318,37.91,-32.48,0.0,40.59,8.12
+2021-05-13,Georgia,Crawford,-8.12,-1,0,0.0,659,19.0,2.88,5349.89,154.25,5.35,12318,37.91,-32.48,-16.24,32.47,-8.12
 2021-05-12,Georgia,Crawford,-8.12,-1,0,0.0,660,19.0,2.88,5358.01,154.25,5.36,12318,37.91,-16.24,0.0,40.59,-8.12
 2021-05-11,Georgia,Crawford,-16.24,-2,0,0.0,661,19.0,2.87,5366.13,154.25,5.37,12318,37.91,-16.24,-16.24,48.71,-16.24
 2021-05-10,Georgia,Crawford,0.0,0,0,0.0,663,19.0,2.87,5382.37,154.25,5.38,12318,37.91,0.0,-8.12,64.95,0.0

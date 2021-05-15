@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-03,Rio Grande do Norte,Galinhos,0.0,0,0,0.0,273,0,0.0,9798.99,0.0,9.8,2786,323.04,0.0,3338.1,0.0
-2021-05-02,Rio Grande do Norte,Galinhos,35.89,1,0,0.0,273,0,0.0,9798.99,0.0,9.8,2786,323.04,-35.9,3338.1,35.89
+2021-05-03,Rio Grande do Norte,Galinhos,0.0,0,0,0.0,273,0,0.0,9798.99,0.0,9.8,2786,71.78,-251.26,3015.06,-323.04
+2021-05-02,Rio Grande do Norte,Galinhos,35.89,1,0,0.0,273,0,0.0,9798.99,0.0,9.8,2786,323.04,35.89,3338.1,35.89
+2021-04-28,Rio Grande do Norte,Galinhos,0.0,0,0,0.0,272,0,0.0,9763.1,0.0,9.76,2786,287.15,-71.79,3302.21,0.0
 2021-04-27,Rio Grande do Norte,Galinhos,35.89,1,0,0.0,272,0,0.0,9763.1,0.0,9.76,2786,358.94,35.89,3302.21,35.89
 2021-04-26,Rio Grande do Norte,Galinhos,0.0,0,0,0.0,271,0,0.0,9727.21,0.0,9.73,2786,323.05,-35.89,3266.32,-71.79
 2021-04-25,Rio Grande do Norte,Galinhos,0.0,0,0,0.0,271,0,0.0,9727.21,0.0,9.73,2786,358.94,-143.58,3338.11,-35.89

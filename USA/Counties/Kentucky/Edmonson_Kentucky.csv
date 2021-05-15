@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-14,Kentucky,Edmonson,8.15,1,0,0.0,914,23.0,2.52,7446.64,187.39,7.45,12274,40.52,40.73,8.15,236.26,0.0
+2021-05-13,Kentucky,Edmonson,-8.15,-1,0,0.0,913,23.0,2.52,7438.49,187.39,7.44,12274,40.52,32.58,-8.15,236.26,496.98
 2021-05-12,Kentucky,Edmonson,8.15,1,2,16.29,914,23.0,2.52,7446.64,187.39,7.45,12274,40.52,40.73,-8.14,-260.72,8.15
 2021-05-11,Kentucky,Edmonson,16.29,2,0,0.0,913,21.0,2.3,7438.49,171.09,7.44,12274,40.52,48.87,-24.45,-268.87,16.29
 2021-05-10,Kentucky,Edmonson,0.0,0,0,0.0,911,21.0,2.31,7422.19,171.09,7.42,12274,40.52,73.32,0.0,-285.16,0.0

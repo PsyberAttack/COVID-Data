@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-14,Tennessee,Humphreys,21.64,4,0,0.0,1815,28.0,1.54,9818.24,151.47,9.82,18486,34.83,86.56,0.0,427.38,-32.45
+2021-05-13,Tennessee,Humphreys,10.82,2,0,0.0,1811,28.0,1.55,9796.6,151.47,9.8,18486,34.83,86.56,-21.64,459.83,-81.14
 2021-05-12,Tennessee,Humphreys,21.64,4,0,0.0,1809,28.0,1.55,9785.78,151.47,9.79,18486,34.83,108.2,10.82,540.97,-16.23
 2021-05-11,Tennessee,Humphreys,10.82,2,1,5.41,1805,28.0,1.55,9764.15,151.47,9.76,18486,34.83,97.38,5.41,557.2,-16.23
 2021-05-10,Tennessee,Humphreys,21.64,4,0,0.0,1803,27.0,1.5,9753.33,146.06,9.75,18486,34.83,91.97,5.41,573.43,-32.45

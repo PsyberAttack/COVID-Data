@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-03,Rio Grande do Norte,Currais Novos,0.0,0,0,0.0,2563,56,2.18,5722.77,125.04,5.72,44786,158.53,0.0,1455.81,-17.86
-2021-05-02,Rio Grande do Norte,Currais Novos,49.12,22,2,4.47,2563,56,2.18,5722.77,125.04,5.72,44786,158.53,46.89,1473.67,31.26
+2021-05-03,Rio Grande do Norte,Currais Novos,0.0,0,0,0.0,2563,56,2.18,5722.77,125.04,5.72,44786,91.54,-66.99,1036.04,-419.77
+2021-05-02,Rio Grande do Norte,Currais Novos,46.89,21,2,4.47,2563,56,2.18,5722.77,125.04,5.72,44786,158.53,46.89,1455.81,29.03
+2021-04-28,Rio Grande do Norte,Currais Novos,2.23,1,0,0.0,2542,54,2.12,5675.88,120.57,5.68,44786,111.64,0.0,1426.78,-15.63
 2021-04-27,Rio Grande do Norte,Currais Novos,4.47,2,1,2.23,2541,54,2.13,5673.65,120.57,5.67,44786,111.64,-20.09,1442.41,-17.86
 2021-04-26,Rio Grande do Norte,Currais Novos,2.23,1,1,2.23,2539,53,2.09,5669.18,118.34,5.67,44786,131.73,-29.03,1460.27,-66.99
 2021-04-25,Rio Grande do Norte,Currais Novos,33.49,15,2,4.47,2538,52,2.05,5666.95,116.11,5.67,44786,160.76,-73.69,1527.26,20.09

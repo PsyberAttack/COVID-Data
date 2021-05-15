@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-14,Tennessee,Houston,0.0,0,0,0.0,1097,33.0,3.01,13276.05,399.37,13.28,8263,41.25,48.4,0.0,169.4,-12.1
+2021-05-13,Tennessee,Houston,24.2,2,0,0.0,1097,33.0,3.01,13276.05,399.37,13.28,8263,41.25,48.4,24.2,181.5,0.0
 2021-05-12,Tennessee,Houston,0.0,0,0,0.0,1095,33.0,3.01,13251.85,399.37,13.25,8263,41.25,24.2,-24.2,181.5,-12.1
 2021-05-11,Tennessee,Houston,0.0,0,0,0.0,1095,33.0,3.01,13251.85,399.37,13.25,8263,41.25,48.4,0.0,193.6,-48.41
 2021-05-10,Tennessee,Houston,24.2,2,0,0.0,1095,33.0,3.01,13251.85,399.37,13.25,8263,41.25,48.4,0.0,242.01,0.0

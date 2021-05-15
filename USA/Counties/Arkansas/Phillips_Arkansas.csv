@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-14,Arkansas,Phillips,11.09,2,1,5.55,1836,42.0,2.29,10183.59,232.96,10.18,18029,25.92,44.37,11.09,354.99,-5.55
+2021-05-13,Arkansas,Phillips,-5.55,-1,0,0.0,1834,41.0,2.24,10172.5,227.41,10.17,18029,25.92,33.28,-27.74,360.54,-44.38
 2021-05-12,Arkansas,Phillips,0.0,0,1,5.55,1835,41.0,2.23,10178.05,227.41,10.18,18029,25.92,61.02,-16.64,404.92,-16.64
 2021-05-11,Arkansas,Phillips,5.55,1,1,5.55,1835,40.0,2.18,10178.05,221.86,10.18,18029,25.92,77.66,-11.09,421.56,-22.18
 2021-05-10,Arkansas,Phillips,5.55,1,0,0.0,1834,39.0,2.13,10172.5,216.32,10.17,18029,25.92,88.75,5.55,443.74,5.55

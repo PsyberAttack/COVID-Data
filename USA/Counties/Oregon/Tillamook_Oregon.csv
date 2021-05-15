@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-14,Oregon,Tillamook,11.2,3,0,0.0,652,3.0,0.46,2434.02,11.2,2.43,26787,24.3,70.94,7.47,283.73,0.0
+2021-05-13,Oregon,Tillamook,7.47,2,0,0.0,649,3.0,0.46,2422.82,11.2,2.42,26787,24.3,63.47,3.74,283.73,-3.73
 2021-05-12,Oregon,Tillamook,7.47,2,0,0.0,647,3.0,0.46,2415.35,11.2,2.42,26787,24.3,59.73,0.0,287.46,3.74
 2021-05-11,Oregon,Tillamook,11.2,3,0,0.0,645,3.0,0.47,2407.88,11.2,2.41,26787,24.3,59.73,0.0,283.72,3.73
 2021-05-10,Oregon,Tillamook,7.47,2,0,0.0,642,3.0,0.47,2396.68,11.2,2.4,26787,24.3,59.73,0.0,279.99,-3.73

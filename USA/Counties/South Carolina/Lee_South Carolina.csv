@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-14,South Carolina,Lee,17.5,3,0,0.0,1913,61.0,3.19,11159.72,355.85,11.16,17142,41.79,58.32,-5.83,332.49,11.67
+2021-05-13,South Carolina,Lee,5.83,1,1,5.83,1910,61.0,3.19,11142.22,355.85,11.14,17142,41.79,64.15,5.83,320.82,-17.5
 2021-05-12,South Carolina,Lee,5.83,1,1,5.83,1909,60.0,3.14,11136.39,350.02,11.14,17142,41.79,58.32,0.0,338.32,-5.84
 2021-05-11,South Carolina,Lee,5.83,1,0,0.0,1908,59.0,3.09,11130.56,344.18,11.13,17142,41.79,58.32,-5.84,344.16,-5.84
 2021-05-10,South Carolina,Lee,5.83,1,0,0.0,1907,59.0,3.09,11124.72,344.18,11.12,17142,41.79,64.16,-11.67,350.0,5.83

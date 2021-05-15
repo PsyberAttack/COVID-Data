@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-14,Nebraska,Dawson,4.22,1,0,0.0,2886,31.0,1.07,12172.59,130.75,12.17,23709,23.4,16.87,4.22,67.5,-12.65
+2021-05-13,Nebraska,Dawson,-4.22,-1,0,0.0,2885,31.0,1.07,12168.37,130.75,12.17,23709,23.4,12.65,-4.22,80.15,0.0
 2021-05-12,Nebraska,Dawson,12.65,3,0,0.0,2886,31.0,1.07,12172.59,130.75,12.17,23709,23.4,16.87,8.43,80.15,16.87
 2021-05-11,Nebraska,Dawson,0.0,0,0,0.0,2883,31.0,1.08,12159.94,130.75,12.16,23709,23.4,8.44,0.0,63.28,0.0
 2021-05-10,Nebraska,Dawson,0.0,0,0,0.0,2883,31.0,1.08,12159.94,130.75,12.16,23709,23.4,8.44,-4.22,63.28,-8.44

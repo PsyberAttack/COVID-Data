@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-14,New York,Tompkins,8.76,9,0,0.0,4230,51.0,1.21,4115.07,49.61,4.12,102793,216.57,36.0,0.0,184.86,2.92
+2021-05-13,New York,Tompkins,4.86,5,0,0.0,4221,51.0,1.21,4106.31,49.61,4.11,102793,216.57,36.0,-0.98,181.94,-9.73
 2021-05-12,New York,Tompkins,1.95,2,0,0.0,4216,51.0,1.21,4101.45,49.61,4.1,102793,216.57,36.98,-15.56,191.67,-13.62
 2021-05-11,New York,Tompkins,3.89,4,0,0.0,4214,51.0,1.21,4099.5,49.61,4.1,102793,216.57,52.54,3.89,205.29,0.97
 2021-05-10,New York,Tompkins,0.97,1,0,0.0,4210,51.0,1.21,4095.61,49.61,4.1,102793,216.57,48.65,-0.98,204.32,-1.95

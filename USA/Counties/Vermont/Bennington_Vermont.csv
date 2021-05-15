@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-14,Vermont,Bennington,22.45,8,0,0.0,2008,14.0,0.7,5635.54,39.29,5.64,35631,52.79,115.06,11.22,496.75,0.0
+2021-05-13,Vermont,Bennington,14.03,5,0,0.0,2000,14.0,0.7,5613.09,39.29,5.61,35631,52.79,103.84,8.42,496.75,-19.65
 2021-05-12,Vermont,Bennington,14.03,5,0,0.0,1995,14.0,0.7,5599.06,39.29,5.6,35631,52.79,95.42,-8.42,516.4,-28.07
 2021-05-11,Vermont,Bennington,16.84,6,1,2.81,1990,14.0,0.7,5585.02,39.29,5.59,35631,52.79,103.84,16.84,544.47,-2.81
 2021-05-10,Vermont,Bennington,5.61,2,0,0.0,1984,13.0,0.66,5568.19,36.49,5.57,35631,52.79,87.0,-2.81,547.28,-22.46

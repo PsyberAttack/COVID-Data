@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-13,Goiás,Campos Verdes,0.0,0,0,0.0,229,7,3.06,10695.94,326.95,10.7,2141,93.42,46.71,2568.9,0.0
+2021-05-12,Goiás,Campos Verdes,-46.71,-1,0,0.0,229,7,3.06,10695.94,326.95,10.7,2141,46.71,-93.42,2568.9,-46.71
 2021-05-11,Goiás,Campos Verdes,46.71,1,0,0.0,230,7,3.04,10742.64,326.95,10.74,2141,140.13,-93.41,2615.61,46.71
 2021-05-10,Goiás,Campos Verdes,46.71,1,0,0.0,229,7,3.06,10695.94,326.95,10.7,2141,233.54,-186.83,2568.9,46.71
 2021-05-09,Goiás,Campos Verdes,0.0,0,0,0.0,228,7,3.07,10649.23,326.95,10.65,2141,420.37,0.0,2522.19,0.0

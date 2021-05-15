@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-03,Rio Grande do Norte,Ceará-Mirim,1.36,1,0,0.0,2119,91,4.29,2883.11,123.81,2.88,73497,258.51,0.0,1312.98,-4.08
-2021-05-02,Rio Grande do Norte,Ceará-Mirim,66.67,49,0,0.0,2118,91,4.3,2881.75,123.81,2.88,73497,258.51,66.67,1317.06,48.98
+2021-05-03,Rio Grande do Norte,Ceará-Mirim,1.36,1,0,0.0,2119,91,4.29,2883.11,123.81,2.88,73497,157.83,-99.32,1247.67,-63.95
+2021-05-02,Rio Grande do Norte,Ceará-Mirim,54.42,40,0,0.0,2118,91,4.3,2881.75,123.81,2.88,73497,257.15,53.06,1311.62,48.98
+2021-04-28,Rio Grande do Norte,Ceará-Mirim,12.25,9,0,0.0,2078,91,4.38,2827.33,123.81,2.83,73497,204.09,12.25,1262.64,-5.44
 2021-04-27,Rio Grande do Norte,Ceará-Mirim,1.36,1,0,0.0,2069,91,4.4,2815.08,123.81,2.82,73497,191.84,-40.82,1268.08,-4.08
 2021-04-26,Rio Grande do Norte,Ceará-Mirim,2.72,2,0,0.0,2068,91,4.4,2813.72,123.81,2.81,73497,232.66,-14.97,1272.16,-6.8
 2021-04-25,Rio Grande do Norte,Ceará-Mirim,66.67,49,2,2.72,2066,91,4.4,2811.0,123.81,2.81,73497,247.63,23.13,1278.96,59.87

@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-03,Rio Grande do Norte,Jardim de Angicos,0.0,0,0,0.0,108,1,0.93,4134.76,38.28,4.13,2612,1110.25,0.0,2718.17,0.0
-2021-05-02,Rio Grande do Norte,Jardim de Angicos,574.27,15,0,0.0,108,1,0.93,4134.76,38.28,4.13,2612,1110.25,574.27,2718.17,459.42
+2021-05-03,Rio Grande do Norte,Jardim de Angicos,0.0,0,0,0.0,108,1,0.93,4134.76,38.28,4.13,2612,1071.97,-38.28,2411.89,-306.28
+2021-05-02,Rio Grande do Norte,Jardim de Angicos,535.99,14,0,0.0,108,1,0.93,4134.76,38.28,4.13,2612,1110.25,535.99,2718.17,535.99
+2021-04-28,Rio Grande do Norte,Jardim de Angicos,38.28,1,0,0.0,94,1,1.06,3598.77,38.28,3.6,2612,574.26,38.28,2182.18,-76.57
 2021-04-27,Rio Grande do Norte,Jardim de Angicos,0.0,0,0,0.0,93,1,1.08,3560.49,38.28,3.56,2612,535.98,-38.28,2258.75,0.0
 2021-04-26,Rio Grande do Norte,Jardim de Angicos,0.0,0,0,0.0,93,1,1.08,3560.49,38.28,3.56,2612,574.26,-38.28,2258.75,-191.42
 2021-04-25,Rio Grande do Norte,Jardim de Angicos,191.42,5,0,0.0,93,1,1.08,3560.49,38.28,3.56,2612,612.54,191.42,2450.17,191.42

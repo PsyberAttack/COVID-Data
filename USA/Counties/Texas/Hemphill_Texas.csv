@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-14,Texas,Hemphill,0.0,0,0,0.0,585,2.0,0.34,15294.12,52.29,15.29,3825,4.22,0.0,0.0,627.46,0.0
+2021-05-13,Texas,Hemphill,26.14,1,0,0.0,585,2.0,0.34,15294.12,52.29,15.29,3825,4.22,0.0,26.14,627.46,26.14
 2021-05-12,Texas,Hemphill,-26.14,-1,0,0.0,584,2.0,0.34,15267.97,52.29,15.27,3825,4.22,-26.14,-26.14,601.32,-26.14
 2021-05-11,Texas,Hemphill,0.0,0,0,0.0,585,2.0,0.34,15294.12,52.29,15.29,3825,4.22,0.0,26.14,627.46,-78.43
 2021-05-10,Texas,Hemphill,0.0,0,0,0.0,585,2.0,0.34,15294.12,52.29,15.29,3825,4.22,-26.14,0.0,705.89,0.0

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-14,Massachusetts,Hampden,9.35,44,2,0.43,51644,1506.0,2.92,10978.6,320.15,10.98,470406,762.42,86.1,-5.96,631.61,-23.81
+2021-05-13,Massachusetts,Hampden,14.46,68,0,0.0,51600,1504.0,2.91,10969.25,319.72,10.97,470406,762.42,92.06,-9.14,655.42,-27.42
 2021-05-12,Massachusetts,Hampden,21.05,99,4,0.85,51532,1504.0,2.92,10954.79,319.72,10.95,470406,762.42,101.2,5.96,682.84,-18.07
 2021-05-11,Massachusetts,Hampden,4.89,23,0,0.0,51433,1500.0,2.92,10933.75,318.87,10.93,470406,762.42,95.24,-12.97,700.91,-36.99
 2021-05-10,Massachusetts,Hampden,8.08,38,2,0.43,51410,1500.0,2.92,10928.86,318.87,10.93,470406,762.42,108.21,-3.61,737.9,-23.17

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-14,Virginia,Shenandoah,4.6,2,1,2.3,4312,133.0,3.08,9913.33,305.77,9.91,43497,85.61,55.19,-9.19,577.07,-25.29
+2021-05-13,Virginia,Shenandoah,11.5,5,1,2.3,4310,132.0,3.06,9908.73,303.47,9.91,43497,85.61,64.38,0.0,602.36,-59.77
 2021-05-12,Virginia,Shenandoah,11.5,5,0,0.0,4305,131.0,3.04,9897.23,301.17,9.9,43497,85.61,64.38,-11.49,662.13,0.0
 2021-05-11,Virginia,Shenandoah,11.5,5,0,0.0,4300,131.0,3.05,9885.74,301.17,9.89,43497,85.61,75.87,2.3,662.13,-11.49
 2021-05-10,Virginia,Shenandoah,0.0,0,0,0.0,4295,131.0,3.05,9874.24,301.17,9.87,43497,85.61,73.57,-6.9,673.62,-20.69

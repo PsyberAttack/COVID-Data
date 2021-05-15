@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-14,Texas,Gillespie,7.46,2,0,0.0,2560,50.0,1.95,9550.81,186.54,9.55,26804,25.33,44.76,0.0,141.75,3.73
+2021-05-13,Texas,Gillespie,18.65,5,0,0.0,2558,50.0,1.95,9543.35,186.54,9.54,26804,25.33,44.76,14.92,138.02,11.19
 2021-05-12,Texas,Gillespie,3.73,1,0,0.0,2553,50.0,1.96,9524.7,186.54,9.52,26804,25.33,29.84,3.73,126.83,-11.19
 2021-05-11,Texas,Gillespie,14.92,4,0,0.0,2552,50.0,1.96,9520.97,186.54,9.52,26804,25.33,26.11,44.77,138.02,18.65
 2021-05-10,Texas,Gillespie,0.0,0,0,0.0,2548,50.0,1.96,9506.04,186.54,9.51,26804,25.33,-18.66,-29.85,119.37,0.0
