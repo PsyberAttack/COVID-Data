@@ -1,6 +1,10 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-03,Rio Grande do Norte,Major Sales,0.0,0,0,0.0,173,7,4.05,4303.48,174.13,4.3,4020,124.39,0.0,572.17,-124.38
-2021-05-02,Rio Grande do Norte,Major Sales,0.0,0,0,0.0,173,7,4.05,4303.48,174.13,4.3,4020,124.39,0.0,696.55,-74.63
+2021-05-06,Rio Grande do Norte,Major Sales,24.88,1,0,0.0,174,7,4.02,4328.36,174.13,4.33,4020,49.76,0.0,572.17,24.88
+2021-05-05,Rio Grande do Norte,Major Sales,0.0,0,0,0.0,173,7,4.05,4303.48,174.13,4.3,4020,49.76,-74.63,547.29,0.0
+2021-05-04,Rio Grande do Norte,Major Sales,0.0,0,0,0.0,173,7,4.05,4303.48,174.13,4.3,4020,124.39,0.0,547.29,-24.88
+2021-05-03,Rio Grande do Norte,Major Sales,0.0,0,0,0.0,173,7,4.05,4303.48,174.13,4.3,4020,124.39,0.0,572.17,0.0
+2021-05-02,Rio Grande do Norte,Major Sales,0.0,0,0,0.0,173,7,4.05,4303.48,174.13,4.3,4020,124.39,0.0,572.17,-124.38
+2021-04-29,Rio Grande do Norte,Major Sales,0.0,0,0,0.0,173,7,4.05,4303.48,174.13,4.3,4020,124.39,0.0,696.55,-74.63
 2021-04-28,Rio Grande do Norte,Major Sales,24.88,1,0,0.0,173,7,4.05,4303.48,174.13,4.3,4020,124.39,24.88,771.18,24.88
 2021-04-27,Rio Grande do Norte,Major Sales,24.88,1,0,0.0,172,7,4.07,4278.61,174.13,4.28,4020,99.51,0.0,746.3,24.88
 2021-04-26,Rio Grande do Norte,Major Sales,74.63,3,0,0.0,171,7,4.09,4253.73,174.13,4.25,4020,99.51,49.75,721.42,49.75

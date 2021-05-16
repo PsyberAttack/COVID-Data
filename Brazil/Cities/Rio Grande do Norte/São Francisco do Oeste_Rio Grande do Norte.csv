@@ -1,6 +1,10 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-03,Rio Grande do Norte,São Francisco do Oeste,0.0,0,0,0.0,281,4,1.42,6646.17,94.61,6.65,4228,141.91,0.0,993.38,-331.13
-2021-05-02,Rio Grande do Norte,São Francisco do Oeste,23.65,1,0,0.0,281,4,1.42,6646.17,94.61,6.65,4228,141.91,-94.61,1324.51,23.65
+2021-05-06,Rio Grande do Norte,São Francisco do Oeste,0.0,0,0,0.0,283,4,1.41,6693.47,94.61,6.69,4228,70.95,0.0,1040.68,0.0
+2021-05-05,Rio Grande do Norte,São Francisco do Oeste,47.3,2,0,0.0,283,4,1.41,6693.47,94.61,6.69,4228,70.95,23.65,1040.68,47.3
+2021-05-04,Rio Grande do Norte,São Francisco do Oeste,0.0,0,0,0.0,281,4,1.42,6646.17,94.61,6.65,4228,47.3,0.0,993.38,0.0
+2021-05-03,Rio Grande do Norte,São Francisco do Oeste,0.0,0,0,0.0,281,4,1.42,6646.17,94.61,6.65,4228,47.3,-94.61,993.38,0.0
+2021-05-02,Rio Grande do Norte,São Francisco do Oeste,23.65,1,0,0.0,281,4,1.42,6646.17,94.61,6.65,4228,141.91,23.65,993.38,-307.48
+2021-04-29,Rio Grande do Norte,São Francisco do Oeste,0.0,0,0,0.0,280,4,1.43,6622.52,94.61,6.62,4228,118.26,-118.26,1300.86,0.0
 2021-04-28,Rio Grande do Norte,São Francisco do Oeste,0.0,0,0,0.0,280,4,1.43,6622.52,94.61,6.62,4228,236.52,-23.65,1300.86,-23.65
 2021-04-27,Rio Grande do Norte,São Francisco do Oeste,0.0,0,0,0.0,280,4,1.43,6622.52,94.61,6.62,4228,260.17,-70.96,1324.51,0.0
 2021-04-26,Rio Grande do Norte,São Francisco do Oeste,23.65,1,0,0.0,280,4,1.43,6622.52,94.61,6.62,4228,331.13,-70.96,1324.51,23.65
