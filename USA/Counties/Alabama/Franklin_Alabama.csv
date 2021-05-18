@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-17,Alabama,Franklin,0.0,0,0,0.0,4263,82.0,1.92,13592.45,261.45,13.59,31363,49.47,22.32,3.19,159.44,0.0
+2021-05-16,Alabama,Franklin,3.19,1,0,0.0,4263,82.0,1.92,13592.45,261.45,13.59,31363,49.47,19.13,0.0,159.44,-9.56
 2021-05-15,Alabama,Franklin,0.0,0,0,0.0,4262,82.0,1.92,13589.26,261.45,13.59,31363,49.47,19.13,-3.19,169.0,-6.38
 2021-05-14,Alabama,Franklin,0.0,0,0,0.0,4262,82.0,1.92,13589.26,261.45,13.59,31363,49.47,22.32,-3.19,175.38,-6.38
 2021-05-13,Alabama,Franklin,-3.19,-1,0,0.0,4262,82.0,1.92,13589.26,261.45,13.59,31363,49.47,25.51,-25.51,181.76,-3.19

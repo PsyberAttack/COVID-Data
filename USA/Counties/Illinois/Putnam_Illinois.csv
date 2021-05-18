@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-17,Illinois,Putnam,0.0,0,0,0.0,483,4.0,0.83,8414.63,69.69,8.41,5740,35.85,34.84,0.0,627.14,-34.84
+2021-05-16,Illinois,Putnam,-17.42,-1,0,0.0,483,4.0,0.83,8414.63,69.69,8.41,5740,35.85,34.84,-17.42,661.98,-52.26
 2021-05-15,Illinois,Putnam,34.84,2,0,0.0,484,4.0,0.83,8432.06,69.69,8.43,5740,35.85,52.26,0.0,714.24,-17.42
 2021-05-14,Illinois,Putnam,0.0,0,0,0.0,482,4.0,0.83,8397.21,69.69,8.4,5740,35.85,52.26,-52.26,731.66,0.0
 2021-05-13,Illinois,Putnam,17.42,1,0,0.0,482,4.0,0.83,8397.21,69.69,8.4,5740,35.85,104.52,0.0,731.66,17.42

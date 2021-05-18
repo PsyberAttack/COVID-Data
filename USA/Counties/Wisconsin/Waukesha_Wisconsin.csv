@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-17,Wisconsin,Waukesha,0.0,0,0,0.0,48783,586.0,1.2,12102.8,145.38,12.1,403072,733.23,27.28,-0.25,237.66,0.0
+2021-05-16,Wisconsin,Waukesha,0.0,0,0,0.0,48783,586.0,1.2,12102.8,145.38,12.1,403072,733.23,27.53,0.0,237.66,0.0
 2021-05-15,Wisconsin,Waukesha,5.95,24,1,0.25,48783,586.0,1.2,12102.8,145.38,12.1,403072,733.23,27.53,-0.75,237.66,-7.2
 2021-05-14,Wisconsin,Waukesha,8.68,35,1,0.25,48759,585.0,1.2,12096.85,145.14,12.1,403072,733.23,28.28,-1.99,244.86,-4.97
 2021-05-13,Wisconsin,Waukesha,4.71,19,1,0.25,48724,584.0,1.2,12088.16,144.89,12.09,403072,733.23,30.27,2.48,249.83,-14.64

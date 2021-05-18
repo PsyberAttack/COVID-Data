@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-15,Rio de Janeiro,Japeri,1.91,2,0,0.0,979,68,6.95,934.45,64.91,0.93,104768,12.41,0.0,48.66,-5.73
+2021-05-14,Rio de Janeiro,Japeri,0.95,1,0,0.0,977,68,6.96,932.54,64.91,0.93,104768,12.41,-1.91,54.39,-0.96
+2021-05-13,Rio de Janeiro,Japeri,3.82,4,0,0.0,976,68,6.97,931.58,64.91,0.93,104768,14.32,0.0,55.35,2.87
 2021-05-12,Rio de Janeiro,Japeri,1.91,2,0,0.0,972,68,7.0,927.76,64.91,0.93,104768,14.32,0.0,52.48,0.0
 2021-05-11,Rio de Janeiro,Japeri,3.82,4,2,1.91,970,68,7.01,925.86,64.91,0.93,104768,14.32,1.91,52.48,3.82
 2021-05-10,Rio de Janeiro,Japeri,0.0,0,0,0.0,966,66,6.83,922.04,63.0,0.92,104768,12.41,0.0,48.66,0.0

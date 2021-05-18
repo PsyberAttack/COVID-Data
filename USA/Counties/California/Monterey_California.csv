@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-17,California,Monterey,0.23,1,-1,-0.23,43663,382.0,0.87,10023.78,87.7,10.02,435594,132.73,15.61,-7.12,90.92,0.23
+2021-05-16,California,Monterey,0.0,0,0,0.0,43662,383.0,0.88,10023.55,87.93,10.02,435594,132.73,22.73,0.0,90.69,0.0
 2021-05-15,California,Monterey,0.0,0,0,0.0,43662,383.0,0.88,10023.55,87.93,10.02,435594,132.73,22.73,0.0,90.69,-1.61
 2021-05-14,California,Monterey,6.89,30,0,0.0,43662,383.0,0.88,10023.55,87.93,10.02,435594,132.73,22.73,4.36,92.3,3.45
 2021-05-13,California,Monterey,4.36,19,0,0.0,43632,383.0,0.88,10016.67,87.93,10.02,435594,132.73,18.37,-6.2,88.85,0.0

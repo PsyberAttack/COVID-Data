@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-17,Colorado,Conejos,24.39,2,0,0.0,624,12.0,1.92,7609.76,146.34,7.61,8200,6.37,731.72,0.0,1768.34,0.0
+2021-05-16,Colorado,Conejos,134.15,11,0,0.0,622,12.0,1.93,7585.37,146.34,7.59,8200,6.37,731.72,24.39,1768.34,121.95
 2021-05-15,Colorado,Conejos,109.76,9,0,0.0,611,12.0,1.96,7451.22,146.34,7.45,8200,6.37,707.33,12.2,1646.39,85.37
 2021-05-14,Colorado,Conejos,121.95,10,0,0.0,602,12.0,1.99,7341.46,146.34,7.34,8200,6.37,695.13,60.97,1561.02,121.95
 2021-05-13,Colorado,Conejos,134.15,11,1,12.2,592,12.0,2.03,7219.51,146.34,7.22,8200,6.37,634.16,48.78,1439.07,109.76

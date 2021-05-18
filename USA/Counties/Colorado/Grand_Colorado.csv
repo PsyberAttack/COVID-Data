@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-17,Colorado,Grand,6.44,1,0,0.0,1473,6.0,0.41,9487.92,38.65,9.49,15525,8.41,25.76,6.44,412.21,0.0
+2021-05-16,Colorado,Grand,0.0,0,0,0.0,1472,6.0,0.41,9481.48,38.65,9.48,15525,8.41,19.32,0.0,412.21,-25.76
 2021-05-15,Colorado,Grand,6.44,1,0,0.0,1472,6.0,0.41,9481.48,38.65,9.48,15525,8.41,19.32,0.0,437.97,-19.32
 2021-05-14,Colorado,Grand,0.0,0,0,0.0,1471,6.0,0.41,9475.04,38.65,9.48,15525,8.41,19.32,-6.44,457.29,-19.32
 2021-05-13,Colorado,Grand,6.44,1,0,0.0,1471,6.0,0.41,9475.04,38.65,9.48,15525,8.41,25.76,19.32,476.61,-38.65

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-17,Oregon,Clatsop,2.51,1,0,0.0,995,8.0,0.8,2502.26,20.12,2.5,39764,48.02,47.77,-7.55,241.38,-7.55
+2021-05-16,Oregon,Clatsop,0.0,0,0,0.0,994,8.0,0.8,2499.75,20.12,2.5,39764,48.02,55.32,2.51,248.93,-10.06
 2021-05-15,Oregon,Clatsop,7.54,3,0,0.0,994,8.0,0.8,2499.75,20.12,2.5,39764,48.02,52.81,-2.52,258.99,-12.58
 2021-05-14,Oregon,Clatsop,15.09,6,0,0.0,991,8.0,0.81,2492.2,20.12,2.49,39764,48.02,55.33,7.55,271.57,7.55
 2021-05-13,Oregon,Clatsop,15.09,6,0,0.0,985,8.0,0.81,2477.11,20.12,2.48,39764,48.02,47.78,7.55,264.02,7.55

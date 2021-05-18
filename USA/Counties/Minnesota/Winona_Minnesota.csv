@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-17,Minnesota,Winona,0.0,0,0,0.0,4551,50.0,1.1,8954.25,98.38,8.95,50825,81.17,59.04,-5.9,314.84,-9.84
+2021-05-16,Minnesota,Winona,1.97,1,0,0.0,4551,50.0,1.1,8954.25,98.38,8.95,50825,81.17,64.94,0.0,324.68,-7.87
 2021-05-15,Minnesota,Winona,9.84,5,0,0.0,4550,50.0,1.1,8952.29,98.38,8.95,50825,81.17,64.94,0.0,332.55,3.94
 2021-05-14,Minnesota,Winona,11.81,6,0,0.0,4545,50.0,1.1,8942.45,98.38,8.94,50825,81.17,64.94,-33.44,328.61,0.0
 2021-05-13,Minnesota,Winona,15.74,8,0,0.0,4539,50.0,1.1,8930.64,98.38,8.93,50825,81.17,98.38,5.9,328.61,3.93

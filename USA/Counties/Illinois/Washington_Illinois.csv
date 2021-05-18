@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-17,Illinois,Washington,0.0,0,0,0.0,1644,31.0,1.89,11747.05,221.51,11.75,13995,24.88,35.73,-7.15,121.51,0.0
+2021-05-16,Illinois,Washington,-7.15,-1,0,0.0,1644,31.0,1.89,11747.05,221.51,11.75,13995,24.88,42.88,-14.3,121.51,-7.15
 2021-05-15,Illinois,Washington,0.0,0,0,0.0,1645,31.0,1.88,11754.2,221.51,11.75,13995,24.88,57.18,-7.15,128.66,0.0
 2021-05-14,Illinois,Washington,0.0,0,0,0.0,1645,31.0,1.88,11754.2,221.51,11.75,13995,24.88,64.33,0.0,128.66,-7.15
 2021-05-13,Illinois,Washington,35.73,5,0,0.0,1645,31.0,1.88,11754.2,221.51,11.75,13995,24.88,64.33,28.58,135.81,28.58
