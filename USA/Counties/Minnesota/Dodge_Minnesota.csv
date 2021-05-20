@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-19,Minnesota,Dodge,9.61,2,0,0.0,1856,3.0,0.16,8913.65,14.41,8.91,20822,47.4,62.45,-19.21,629.18,-14.4
+2021-05-18,Minnesota,Dodge,-4.8,-1,0,0.0,1854,3.0,0.16,8904.04,14.41,8.9,20822,47.4,81.66,-19.21,643.58,-4.8
 2021-05-17,Minnesota,Dodge,4.8,1,0,0.0,1855,3.0,0.16,8908.85,14.41,8.91,20822,47.4,100.87,-9.61,648.38,0.0
 2021-05-16,Minnesota,Dodge,14.41,3,0,0.0,1854,3.0,0.16,8904.04,14.41,8.9,20822,47.4,110.48,-4.8,648.38,-19.21
 2021-05-15,Minnesota,Dodge,9.61,2,0,0.0,1851,3.0,0.16,8889.64,14.41,8.89,20822,47.4,115.28,0.0,667.59,-9.6

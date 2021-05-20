@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-19,California,Sonoma,6.0,30,0,0.0,30101,321.0,1.07,6020.9,64.21,6.02,499942,317.25,17.8,4.0,76.2,5.0
+2021-05-18,California,Sonoma,0.8,4,0,0.0,30071,321.0,1.07,6014.9,64.21,6.01,499942,317.25,13.8,-2.8,71.2,-3.0
 2021-05-17,California,Sonoma,2.0,10,0,0.0,30067,321.0,1.07,6014.1,64.21,6.01,499942,317.25,16.6,0.2,74.2,-1.4
 2021-05-16,California,Sonoma,0.8,4,0,0.0,30057,321.0,1.07,6012.1,64.21,6.01,499942,317.25,16.4,-1.0,75.6,-8.6
 2021-05-15,California,Sonoma,3.6,18,0,0.0,30053,321.0,1.07,6011.3,64.21,6.01,499942,317.25,17.4,0.6,84.2,3.6

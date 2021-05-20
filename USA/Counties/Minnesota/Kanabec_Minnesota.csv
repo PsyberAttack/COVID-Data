@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-19,Minnesota,Kanabec,0.0,0,0,0.0,1453,27.0,1.86,8965.26,166.59,8.97,16207,31.07,104.89,-12.34,721.89,-30.85
+2021-05-18,Minnesota,Kanabec,0.0,0,1,6.17,1453,27.0,1.86,8965.26,166.59,8.97,16207,31.07,117.23,6.17,752.74,-67.87
 2021-05-17,Minnesota,Kanabec,12.34,2,0,0.0,1453,26.0,1.79,8965.26,160.42,8.97,16207,31.07,111.06,-6.17,820.61,-6.17
 2021-05-16,Minnesota,Kanabec,24.68,4,0,0.0,1451,26.0,1.79,8952.92,160.42,8.95,16207,31.07,117.23,6.17,826.78,-43.19
 2021-05-15,Minnesota,Kanabec,6.17,1,0,0.0,1447,26.0,1.8,8928.24,160.42,8.93,16207,31.07,111.06,6.17,869.97,-80.21

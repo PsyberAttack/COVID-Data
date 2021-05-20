@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-19,Minnesota,Wabasha,4.62,1,0,0.0,2066,3.0,0.15,9544.93,13.86,9.54,21645,41.39,73.92,-4.62,304.92,0.0
+2021-05-18,Minnesota,Wabasha,0.0,0,0,0.0,2065,3.0,0.15,9540.31,13.86,9.54,21645,41.39,78.54,0.0,304.92,-4.62
 2021-05-17,Minnesota,Wabasha,4.62,1,0,0.0,2065,3.0,0.15,9540.31,13.86,9.54,21645,41.39,78.54,0.0,309.54,-9.24
 2021-05-16,Minnesota,Wabasha,13.86,3,0,0.0,2064,3.0,0.15,9535.69,13.86,9.54,21645,41.39,78.54,9.24,318.78,13.86
 2021-05-15,Minnesota,Wabasha,36.96,8,0,0.0,2061,3.0,0.15,9521.83,13.86,9.52,21645,41.39,69.3,18.48,304.92,32.34

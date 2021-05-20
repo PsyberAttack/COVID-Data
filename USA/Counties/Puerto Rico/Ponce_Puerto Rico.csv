@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-19,Puerto Rico,Ponce,0.0,0,0,0.0,4013,0.0,0.0,3012.97,0.0,3.01,133191,0.0,36.04,-0.75,256.76,-6.76
+2021-05-18,Puerto Rico,Ponce,-1.5,-2,0,0.0,4013,0.0,0.0,3012.97,0.0,3.01,133191,0.0,36.79,-9.76,263.52,-16.52
 2021-05-17,Puerto Rico,Ponce,9.76,13,0,0.0,4015,0.0,0.0,3014.47,0.0,3.01,133191,0.0,46.55,0.0,280.04,-23.28
 2021-05-16,Puerto Rico,Ponce,9.01,12,0,0.0,4002,0.0,0.0,3004.71,0.0,3.0,133191,0.0,46.55,4.51,303.32,-9.01
 2021-05-15,Puerto Rico,Ponce,7.51,10,0,0.0,3990,0.0,0.0,2995.7,0.0,3.0,133191,0.0,42.04,-0.75,312.33,-16.52

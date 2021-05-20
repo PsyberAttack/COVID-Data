@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-19,Minnesota,Olmsted,12.8,20,0,0.0,13296,99.0,0.74,8507.97,63.35,8.51,156277,239.14,51.2,-3.84,299.52,-9.6
+2021-05-18,Minnesota,Olmsted,3.84,6,1,0.64,13276,99.0,0.75,8495.17,63.35,8.5,156277,239.14,55.04,0.0,309.12,-4.48
 2021-05-17,Minnesota,Olmsted,3.2,5,0,0.0,13270,98.0,0.74,8491.33,62.71,8.49,156277,239.14,55.04,-9.6,313.6,-8.32
 2021-05-16,Minnesota,Olmsted,6.4,10,0,0.0,13265,98.0,0.74,8488.13,62.71,8.49,156277,239.14,64.64,-2.56,321.92,-12.8
 2021-05-15,Minnesota,Olmsted,8.32,13,0,0.0,13255,98.0,0.74,8481.73,62.71,8.48,156277,239.14,67.2,2.56,334.72,-10.24
