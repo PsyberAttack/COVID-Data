@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-22,Minnesota,Waseca,5.35,1,1,5.35,2370,23.0,0.97,12679.9,123.05,12.68,18691,44.15,37.45,0.0,240.75,0.0
+2021-05-21,Minnesota,Waseca,10.7,2,0,0.0,2369,22.0,0.93,12674.55,117.7,12.67,18691,44.15,37.45,-5.35,240.75,-5.35
 2021-05-20,Minnesota,Waseca,0.0,0,0,0.0,2367,22.0,0.93,12663.85,117.7,12.66,18691,44.15,42.8,37.45,246.1,-10.7
 2021-05-19,Minnesota,Waseca,0.0,0,0,0.0,2367,22.0,0.93,12663.85,117.7,12.66,18691,44.15,5.35,-5.35,256.8,0.0
 2021-05-18,Minnesota,Waseca,10.7,2,0,0.0,2367,22.0,0.93,12663.85,117.7,12.66,18691,44.15,10.7,5.35,256.8,-16.05

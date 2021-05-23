@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-22,Virginia,Waynesboro city,4.42,1,0,0.0,2383,38.0,1.59,10531.2,167.93,10.53,22628,1511.58,44.2,-8.84,269.6,4.42
+2021-05-21,Virginia,Waynesboro city,-4.42,-1,0,0.0,2382,38.0,1.6,10526.78,167.93,10.53,22628,1511.58,53.04,0.0,265.18,-8.84
 2021-05-20,Virginia,Waynesboro city,13.26,3,0,0.0,2383,38.0,1.59,10531.2,167.93,10.53,22628,1511.58,53.04,8.84,274.02,8.84
 2021-05-19,Virginia,Waynesboro city,30.94,7,0,0.0,2380,38.0,1.6,10517.94,167.93,10.52,22628,1511.58,44.2,30.94,265.18,4.42
 2021-05-18,Virginia,Waynesboro city,0.0,0,0,0.0,2373,38.0,1.6,10487.01,167.93,10.49,22628,1511.58,13.26,-17.68,260.76,-4.42

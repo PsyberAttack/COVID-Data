@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-22,Mississippi,Madison,0.0,0,0,0.0,10152,218.0,2.15,9610.91,206.38,9.61,105630,147.83,36.92,0.0,153.38,0.0
+2021-05-21,Mississippi,Madison,3.79,4,0,0.0,10152,218.0,2.15,9610.91,206.38,9.61,105630,147.83,36.92,-9.46,153.38,1.9
 2021-05-20,Mississippi,Madison,6.63,7,0,0.0,10148,218.0,2.15,9607.12,206.38,9.61,105630,147.83,46.38,0.0,151.48,0.0
 2021-05-19,Mississippi,Madison,5.68,6,1,0.95,10141,218.0,2.15,9600.49,206.38,9.6,105630,147.83,46.38,1.89,151.48,-4.73
 2021-05-18,Mississippi,Madison,4.73,5,0,0.0,10135,217.0,2.14,9594.81,205.43,9.59,105630,147.83,44.49,1.89,156.21,0.0

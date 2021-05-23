@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-22,North Carolina,Watauga,0.0,0,0,0.0,4685,31.0,0.66,8374.3,55.41,8.37,55945,179.07,85.81,0.0,448.66,0.0
+2021-05-21,North Carolina,Watauga,8.94,5,0,0.0,4685,31.0,0.66,8374.3,55.41,8.37,55945,179.07,85.81,-7.15,448.66,-7.15
 2021-05-20,North Carolina,Watauga,16.09,9,0,0.0,4680,31.0,0.66,8365.36,55.41,8.37,55945,179.07,92.96,3.58,455.81,-30.38
 2021-05-19,North Carolina,Watauga,16.09,9,0,0.0,4671,31.0,0.66,8349.27,55.41,8.35,55945,179.07,89.38,-3.57,486.19,3.58
 2021-05-18,North Carolina,Watauga,1.79,1,0,0.0,4662,31.0,0.66,8333.18,55.41,8.33,55945,179.07,92.95,-1.78,482.61,-1.78

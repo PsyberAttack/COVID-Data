@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-22,North Carolina,Nash,0.0,0,0,0.0,11582,190.0,1.64,12319.18,202.09,12.32,94016,173.96,65.94,0.0,472.26,0.0
+2021-05-21,North Carolina,Nash,4.25,4,-1,-1.06,11582,190.0,1.64,12319.18,202.09,12.32,94016,173.96,65.94,-6.39,472.26,-24.47
 2021-05-20,North Carolina,Nash,4.25,4,1,1.06,11578,191.0,1.65,12314.93,203.16,12.31,94016,173.96,72.33,-18.09,496.73,-20.21
 2021-05-19,North Carolina,Nash,10.64,10,0,0.0,11574,190.0,1.64,12310.67,202.09,12.31,94016,173.96,90.42,5.32,516.94,-11.7
 2021-05-18,North Carolina,Nash,8.51,8,0,0.0,11564,190.0,1.64,12300.03,202.09,12.3,94016,173.96,85.1,8.51,528.64,-12.76

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-22,Wisconsin,Langlade,5.19,1,0,0.0,2183,46.0,2.11,11329.67,238.74,11.33,19268,22.13,20.76,0.0,181.65,0.0
+2021-05-21,Wisconsin,Langlade,0.0,0,0,0.0,2182,46.0,2.11,11324.48,238.74,11.32,19268,22.13,20.76,-5.19,181.65,-15.57
 2021-05-20,Wisconsin,Langlade,5.19,1,0,0.0,2182,46.0,2.11,11324.48,238.74,11.32,19268,22.13,25.95,-10.38,197.22,-15.57
 2021-05-19,Wisconsin,Langlade,0.0,0,0,0.0,2181,46.0,2.11,11319.29,238.74,11.32,19268,22.13,36.33,-36.33,212.79,-5.19
 2021-05-18,Wisconsin,Langlade,10.38,2,0,0.0,2181,46.0,2.11,11319.29,238.74,11.32,19268,22.13,72.66,5.19,217.98,-20.76

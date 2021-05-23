@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-22,Tennessee,Jefferson,0.0,0,0,0.0,6272,125.0,1.99,11612.23,231.43,11.61,54012,196.46,51.85,0.0,307.35,0.0
+2021-05-21,Tennessee,Jefferson,9.26,5,0,0.0,6272,125.0,1.99,11612.23,231.43,11.61,54012,196.46,51.85,5.56,307.35,-5.55
 2021-05-20,Tennessee,Jefferson,20.37,11,0,0.0,6267,125.0,1.99,11602.98,231.43,11.6,54012,196.46,46.29,9.26,312.9,3.71
 2021-05-19,Tennessee,Jefferson,5.55,3,0,0.0,6256,125.0,2.0,11582.61,231.43,11.58,54012,196.46,37.03,-12.96,309.19,-7.41
 2021-05-18,Tennessee,Jefferson,7.41,4,0,0.0,6253,125.0,2.0,11577.06,231.43,11.58,54012,196.46,49.99,0.0,316.6,-9.25

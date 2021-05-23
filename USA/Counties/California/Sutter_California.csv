@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-22,California,Sutter,0.0,0,0,0.0,9472,113.0,1.19,9784.42,116.73,9.78,96807,160.67,40.29,0.0,165.27,-10.33
+2021-05-21,California,Sutter,7.23,7,0,0.0,9472,113.0,1.19,9784.42,116.73,9.78,96807,160.67,40.29,1.03,175.6,2.07
 2021-05-20,California,Sutter,0.0,0,0,0.0,9465,113.0,1.19,9777.19,116.73,9.78,96807,160.67,39.26,-1.03,173.53,-18.59
 2021-05-19,California,Sutter,18.59,18,0,0.0,9465,113.0,1.19,9777.19,116.73,9.78,96807,160.67,40.29,13.43,192.12,8.26
 2021-05-18,California,Sutter,2.07,2,0,0.0,9447,113.0,1.2,9758.59,116.73,9.76,96807,160.67,26.86,-6.19,183.86,1.04

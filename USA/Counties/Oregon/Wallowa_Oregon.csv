@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-22,Oregon,Wallowa,0.0,0,0,0.0,187,5.0,2.67,2640.87,70.61,2.64,7081,2.25,28.24,-14.12,381.28,-14.12
+2021-05-21,Oregon,Wallowa,0.0,0,0,0.0,187,5.0,2.67,2640.87,70.61,2.64,7081,2.25,42.36,0.0,395.4,-14.12
 2021-05-20,Oregon,Wallowa,-14.12,-1,0,0.0,187,5.0,2.67,2640.87,70.61,2.64,7081,2.25,42.36,-28.24,409.52,-14.12
 2021-05-19,Oregon,Wallowa,28.24,2,0,0.0,188,5.0,2.66,2654.99,70.61,2.65,7081,2.25,70.6,28.24,423.64,14.12
 2021-05-18,Oregon,Wallowa,14.12,1,0,0.0,186,5.0,2.69,2626.75,70.61,2.63,7081,2.25,42.36,0.0,409.52,14.12

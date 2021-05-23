@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-22,North Carolina,Caswell,0.0,0,0,0.0,2177,29.0,1.33,9591.15,127.76,9.59,22698,53.36,8.81,0.0,229.09,0.0
+2021-05-21,North Carolina,Caswell,4.41,1,0,0.0,2177,29.0,1.33,9591.15,127.76,9.59,22698,53.36,8.81,4.41,229.09,-26.43
 2021-05-20,North Carolina,Caswell,-4.41,-1,0,0.0,2176,29.0,1.33,9586.75,127.76,9.59,22698,53.36,4.4,-8.82,255.52,-13.22
 2021-05-19,North Carolina,Caswell,-8.81,-2,0,0.0,2177,29.0,1.33,9591.15,127.76,9.59,22698,53.36,13.22,-22.03,268.74,-13.22
 2021-05-18,North Carolina,Caswell,0.0,0,0,0.0,2179,29.0,1.33,9599.96,127.76,9.6,22698,53.36,35.25,4.41,281.96,-4.41

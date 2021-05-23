@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-22,Virginia,Fredericksburg city,0.0,0,0,0.0,2133,23.0,1.08,7318.83,78.92,7.32,29144,2788.71,44.6,0.0,312.23,-30.88
+2021-05-21,Virginia,Fredericksburg city,6.86,2,0,0.0,2133,23.0,1.08,7318.83,78.92,7.32,29144,2788.71,44.6,20.58,343.11,-30.88
 2021-05-20,Virginia,Fredericksburg city,30.88,9,0,0.0,2131,23.0,1.08,7311.97,78.92,7.31,29144,2788.71,24.02,41.17,373.99,-20.59
 2021-05-19,Virginia,Fredericksburg city,-3.43,-1,0,0.0,2122,23.0,1.08,7281.09,78.92,7.28,29144,2788.71,-17.15,-20.59,394.58,-13.72
 2021-05-18,Virginia,Fredericksburg city,0.0,0,0,0.0,2123,23.0,1.08,7284.52,78.92,7.28,29144,2788.71,3.44,-13.72,408.3,-27.45

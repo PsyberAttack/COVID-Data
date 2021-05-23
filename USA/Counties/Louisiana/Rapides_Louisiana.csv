@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-22,Louisiana,Rapides,0.0,0,0,0.0,12358,317.0,2.57,9465.23,242.8,9.47,130562,98.88,114.13,0.0,365.35,0.0
+2021-05-21,Louisiana,Rapides,9.96,13,0,0.0,12358,317.0,2.57,9465.23,242.8,9.47,130562,98.88,114.13,8.43,365.35,-8.42
 2021-05-20,Louisiana,Rapides,13.02,17,0,0.0,12345,317.0,2.57,9455.28,242.8,9.46,130562,98.88,105.7,3.83,373.77,5.36
 2021-05-19,Louisiana,Rapides,39.83,52,0,0.0,12328,317.0,2.57,9442.26,242.8,9.44,130562,98.88,101.87,6.9,368.41,15.32
 2021-05-18,Louisiana,Rapides,19.15,25,0,0.0,12276,317.0,2.58,9402.43,242.8,9.4,130562,98.88,94.97,9.19,353.09,1.53

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-22,Alabama,Conecuh,0.0,0,1,8.15,1111,30.0,2.7,9049.44,244.36,9.05,12277,14.44,24.44,-16.29,122.2,8.15
+2021-05-21,Alabama,Conecuh,8.15,1,0,0.0,1111,29.0,2.61,9049.44,236.21,9.05,12277,14.44,40.73,8.15,114.05,16.3
 2021-05-20,Alabama,Conecuh,16.29,2,0,0.0,1110,29.0,2.61,9041.3,236.21,9.04,12277,14.44,32.58,8.14,97.75,16.29
 2021-05-19,Alabama,Conecuh,0.0,0,0,0.0,1108,29.0,2.62,9025.01,236.21,9.03,12277,14.44,24.44,0.0,81.46,0.0
 2021-05-18,Alabama,Conecuh,0.0,0,0,0.0,1108,29.0,2.62,9025.01,236.21,9.03,12277,14.44,24.44,0.0,81.46,-8.15

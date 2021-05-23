@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-22,California,Marin,2.31,6,0,0.0,14042,227.0,1.62,5407.72,87.42,5.41,259666,498.92,12.34,0.0,78.6,0.0
+2021-05-21,California,Marin,1.16,3,0,0.0,14036,227.0,1.62,5405.41,87.42,5.41,259666,498.92,12.34,-1.54,78.6,-2.69
 2021-05-20,California,Marin,2.7,7,0,0.0,14033,227.0,1.62,5404.25,87.42,5.4,259666,498.92,13.88,-1.15,81.29,-3.08
 2021-05-19,California,Marin,1.93,5,0,0.0,14026,227.0,1.62,5401.55,87.42,5.4,259666,498.92,15.03,-0.38,84.37,0.77
 2021-05-18,California,Marin,2.31,6,0,0.0,14021,227.0,1.62,5399.63,87.42,5.4,259666,498.92,15.41,1.54,83.6,1.15

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-22,West Virginia,Pocahontas,0.0,0,0,0.0,665,11.0,1.65,7903.49,130.73,7.9,8414,8.95,11.88,-11.88,95.05,-11.88
+2021-05-21,West Virginia,Pocahontas,0.0,0,0,0.0,665,11.0,1.65,7903.49,130.73,7.9,8414,8.95,23.76,0.0,106.93,0.0
 2021-05-20,West Virginia,Pocahontas,11.88,1,0,0.0,665,11.0,1.65,7903.49,130.73,7.9,8414,8.95,23.76,11.88,106.93,-71.31
 2021-05-19,West Virginia,Pocahontas,-35.65,-3,0,0.0,664,11.0,1.66,7891.61,130.73,7.89,8414,8.95,11.88,-35.65,178.24,-59.42
 2021-05-18,West Virginia,Pocahontas,35.65,3,0,0.0,667,11.0,1.65,7927.26,130.73,7.93,8414,8.95,47.53,35.65,237.66,-23.77

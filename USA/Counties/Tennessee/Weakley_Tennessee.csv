@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-22,Tennessee,Weakley,0.0,0,0,0.0,4180,67.0,1.6,12509.35,200.51,12.51,33415,57.58,50.88,0.0,398.04,0.0
+2021-05-21,Tennessee,Weakley,11.97,4,0,0.0,4180,67.0,1.6,12509.35,200.51,12.51,33415,57.58,50.88,-8.98,398.04,2.99
 2021-05-20,Tennessee,Weakley,8.98,3,0,0.0,4176,67.0,1.6,12497.38,200.51,12.5,33415,57.58,59.86,8.98,395.05,-11.97
 2021-05-19,Tennessee,Weakley,2.99,1,1,2.99,4173,67.0,1.61,12488.4,200.51,12.49,33415,57.58,50.88,-14.97,407.02,-3.0
 2021-05-18,Tennessee,Weakley,8.98,3,1,2.99,4172,66.0,1.58,12485.41,197.52,12.49,33415,57.58,65.85,0.0,410.02,-11.97

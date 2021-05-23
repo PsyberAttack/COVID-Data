@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-22,Tennessee,Hardeman,0.0,0,0,0.0,3543,64.0,1.81,14048.37,253.77,14.05,25220,37.77,23.79,0.0,253.8,0.0
+2021-05-21,Tennessee,Hardeman,3.97,1,0,0.0,3543,64.0,1.81,14048.37,253.77,14.05,25220,37.77,23.79,-31.72,253.8,-23.79
 2021-05-20,Tennessee,Hardeman,-3.97,-1,0,0.0,3542,64.0,1.81,14044.41,253.77,14.04,25220,37.77,55.51,-7.94,277.59,-23.8
 2021-05-19,Tennessee,Hardeman,-3.97,-1,0,0.0,3543,64.0,1.81,14048.37,253.77,14.05,25220,37.77,63.45,-3.97,301.39,-15.87
 2021-05-18,Tennessee,Hardeman,3.97,1,0,0.0,3544,64.0,1.81,14052.34,253.77,14.05,25220,37.77,67.42,11.9,317.26,3.97

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-22,Alabama,Marengo,5.24,1,0,0.0,2501,65.0,2.6,13117.59,340.92,13.12,19066,19.52,26.22,5.24,99.63,15.73
+2021-05-21,Alabama,Marengo,-5.24,-1,0,0.0,2500,65.0,2.6,13112.35,340.92,13.11,19066,19.52,20.98,-5.24,83.9,-15.73
 2021-05-20,Alabama,Marengo,5.24,1,0,0.0,2501,65.0,2.6,13117.59,340.92,13.12,19066,19.52,26.22,0.0,99.63,15.73
 2021-05-19,Alabama,Marengo,10.49,2,0,0.0,2500,65.0,2.6,13112.35,340.92,13.11,19066,19.52,26.22,10.49,83.9,15.73
 2021-05-18,Alabama,Marengo,0.0,0,0,0.0,2498,65.0,2.6,13101.86,340.92,13.1,19066,19.52,15.73,10.49,68.17,0.0

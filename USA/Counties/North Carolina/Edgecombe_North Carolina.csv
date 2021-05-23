@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-22,North Carolina,Edgecombe,0.0,0,0,0.0,5615,111.0,1.98,10797.04,213.44,10.8,52005,102.89,69.22,0.0,463.42,0.0
+2021-05-21,North Carolina,Edgecombe,17.31,9,0,0.0,5615,111.0,1.98,10797.04,213.44,10.8,52005,102.89,69.22,11.54,463.42,-19.22
 2021-05-20,North Carolina,Edgecombe,17.31,9,0,0.0,5606,111.0,1.98,10779.73,213.44,10.78,52005,102.89,57.68,15.39,482.64,-46.15
 2021-05-19,North Carolina,Edgecombe,1.92,1,0,0.0,5597,111.0,1.98,10762.43,213.44,10.76,52005,102.89,42.29,-9.62,528.79,-11.54
 2021-05-18,North Carolina,Edgecombe,9.61,5,0,0.0,5596,111.0,1.98,10760.5,213.44,10.76,52005,102.89,51.91,3.84,540.33,-15.39

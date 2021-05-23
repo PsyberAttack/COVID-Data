@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-22,North Carolina,Alexander,0.0,0,0,0.0,4404,84.0,1.91,11790.22,224.88,11.79,37353,143.67,21.42,0.0,254.31,0.0
+2021-05-21,North Carolina,Alexander,8.03,3,0,0.0,4404,84.0,1.91,11790.22,224.88,11.79,37353,143.67,21.42,10.71,254.31,-8.03
 2021-05-20,North Carolina,Alexander,-2.68,-1,0,0.0,4401,84.0,1.91,11782.19,224.88,11.78,37353,143.67,10.71,-18.74,262.34,-18.74
 2021-05-19,North Carolina,Alexander,2.68,1,0,0.0,4402,84.0,1.91,11784.86,224.88,11.78,37353,143.67,29.45,-8.03,281.08,0.0
 2021-05-18,North Carolina,Alexander,2.68,1,0,0.0,4401,84.0,1.91,11782.19,224.88,11.78,37353,143.67,37.48,-2.67,281.08,-5.35

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-22,North Carolina,Jackson,0.0,0,0,0.0,3609,56.0,1.55,8329.68,129.25,8.33,43327,88.21,18.47,0.0,117.74,0.0
+2021-05-21,North Carolina,Jackson,2.31,1,0,0.0,3609,56.0,1.55,8329.68,129.25,8.33,43327,88.21,18.47,2.31,117.74,-18.46
 2021-05-20,North Carolina,Jackson,4.62,2,0,0.0,3608,56.0,1.55,8327.37,129.25,8.33,43327,88.21,16.16,0.0,136.2,-2.3
 2021-05-19,North Carolina,Jackson,6.92,3,0,0.0,3606,56.0,1.55,8322.75,129.25,8.32,43327,88.21,16.16,6.92,138.5,4.61
 2021-05-18,North Carolina,Jackson,2.31,1,0,0.0,3603,56.0,1.55,8315.83,129.25,8.32,43327,88.21,9.24,-2.31,133.89,2.31

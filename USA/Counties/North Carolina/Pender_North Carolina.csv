@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-22,North Carolina,Pender,0.0,0,0,0.0,5488,69.0,1.26,8828.54,111.0,8.83,62162,71.34,72.39,0.0,410.2,0.0
+2021-05-21,North Carolina,Pender,11.26,7,0,0.0,5488,69.0,1.26,8828.54,111.0,8.83,62162,71.34,72.39,0.0,410.2,-8.04
 2021-05-20,North Carolina,Pender,14.48,9,0,0.0,5481,69.0,1.26,8817.28,111.0,8.82,62162,71.34,72.39,-11.26,418.24,-8.04
 2021-05-19,North Carolina,Pender,14.48,9,0,0.0,5472,69.0,1.26,8802.81,111.0,8.8,62162,71.34,83.65,-6.43,426.28,-4.82
 2021-05-18,North Carolina,Pender,8.04,5,0,0.0,5463,69.0,1.26,8788.33,111.0,8.79,62162,71.34,90.08,3.21,431.1,-12.87

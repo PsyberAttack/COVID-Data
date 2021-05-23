@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-22,Illinois,Woodford,0.0,0,1,2.6,4828,91.0,1.88,12552.32,236.59,12.55,38463,72.88,67.6,0.0,813.79,0.0
+2021-05-21,Illinois,Woodford,2.6,1,0,0.0,4828,90.0,1.86,12552.32,233.99,12.55,38463,72.88,67.6,-28.6,813.79,-101.4
 2021-05-20,Illinois,Woodford,18.2,7,0,0.0,4827,90.0,1.86,12549.72,233.99,12.55,38463,72.88,96.2,-10.4,915.19,18.2
 2021-05-19,Illinois,Woodford,18.2,7,0,0.0,4820,90.0,1.87,12531.52,233.99,12.53,38463,72.88,106.6,-7.8,896.99,-10.4
 2021-05-18,Illinois,Woodford,2.6,1,0,0.0,4813,90.0,1.87,12513.32,233.99,12.51,38463,72.88,114.4,2.6,907.39,-31.2

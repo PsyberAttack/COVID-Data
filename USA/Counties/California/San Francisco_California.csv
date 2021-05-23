@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-22,California,San Francisco,2.15,19,0,0.0,36882,546.0,1.48,4175.45,61.81,4.18,883305,18848.5,12.23,-1.25,70.99,-1.7
+2021-05-21,California,San Francisco,2.83,25,0,0.0,36863,546.0,1.48,4173.3,61.81,4.17,883305,18848.5,13.48,0.45,72.69,0.11
 2021-05-20,California,San Francisco,1.92,17,0,0.0,36838,546.0,1.48,4170.47,61.81,4.17,883305,18848.5,13.03,0.45,72.58,-6.8
 2021-05-19,California,San Francisco,0.23,2,0,0.0,36821,546.0,1.48,4168.55,61.81,4.17,883305,18848.5,12.58,-2.49,79.38,-2.37
 2021-05-18,California,San Francisco,0.91,8,0,0.0,36819,546.0,1.48,4168.32,61.81,4.17,883305,18848.5,15.07,-0.67,81.75,-1.47

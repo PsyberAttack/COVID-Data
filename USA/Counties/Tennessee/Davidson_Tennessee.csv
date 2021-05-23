@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-22,Tennessee,Davidson,0.0,0,0,0.0,99058,946.0,0.95,14302.61,136.59,14.3,692587,1375.57,41.44,0.0,203.74,0.0
+2021-05-21,Tennessee,Davidson,3.61,25,0,0.0,99058,946.0,0.95,14302.61,136.59,14.3,692587,1375.57,41.44,-2.02,203.74,-14.58
 2021-05-20,Tennessee,Davidson,6.35,44,1,0.14,99033,946.0,0.96,14299.0,136.59,14.3,692587,1375.57,43.46,-2.31,218.32,-15.31
 2021-05-19,Tennessee,Davidson,7.51,52,1,0.14,98989,945.0,0.95,14292.64,136.44,14.29,692587,1375.57,45.77,0.0,233.63,-5.77
 2021-05-18,Tennessee,Davidson,2.31,16,2,0.29,98937,944.0,0.95,14285.14,136.3,14.29,692587,1375.57,45.77,0.29,239.4,-7.65

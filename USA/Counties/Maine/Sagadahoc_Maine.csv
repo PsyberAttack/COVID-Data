@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-22,Maine,Sagadahoc,14.03,5,0,0.0,1439,10.0,0.69,4038.28,28.06,4.04,35634,140.31,137.5,2.8,628.61,-16.84
+2021-05-21,Maine,Sagadahoc,19.64,7,0,0.0,1434,10.0,0.7,4024.25,28.06,4.02,35634,140.31,134.7,-8.42,645.45,5.61
 2021-05-20,Maine,Sagadahoc,28.06,10,0,0.0,1427,10.0,0.7,4004.6,28.06,4.0,35634,140.31,143.12,5.61,639.84,11.22
 2021-05-19,Maine,Sagadahoc,25.26,9,0,0.0,1417,10.0,0.71,3976.54,28.06,3.98,35634,140.31,137.51,8.42,628.62,0.0
 2021-05-18,Maine,Sagadahoc,19.64,7,0,0.0,1408,10.0,0.71,3951.28,28.06,3.95,35634,140.31,129.09,-8.42,628.62,5.61

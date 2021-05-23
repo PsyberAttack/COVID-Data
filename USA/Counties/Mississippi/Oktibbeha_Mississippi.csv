@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-22,Mississippi,Oktibbeha,0.0,0,0,0.0,4639,98.0,2.11,9353.01,197.58,9.35,49599,108.24,20.17,0.0,104.84,0.0
+2021-05-21,Mississippi,Oktibbeha,2.02,1,0,0.0,4639,98.0,2.11,9353.01,197.58,9.35,49599,108.24,20.17,-2.01,104.84,0.0
 2021-05-20,Mississippi,Oktibbeha,4.03,2,0,0.0,4638,98.0,2.11,9350.99,197.58,9.35,49599,108.24,22.18,0.0,104.84,-4.03
 2021-05-19,Mississippi,Oktibbeha,6.05,3,0,0.0,4636,98.0,2.11,9346.96,197.58,9.35,49599,108.24,22.18,-2.01,108.87,6.05
 2021-05-18,Mississippi,Oktibbeha,2.02,1,0,0.0,4633,98.0,2.12,9340.91,197.58,9.34,49599,108.24,24.19,2.02,102.82,-2.01

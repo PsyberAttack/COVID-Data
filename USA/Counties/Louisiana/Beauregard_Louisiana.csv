@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-22,Louisiana,Beauregard,0.0,0,0,0.0,3231,78.0,2.41,8673.13,209.38,8.67,37253,32.19,61.74,0.0,220.1,0.0
+2021-05-21,Louisiana,Beauregard,5.37,2,0,0.0,3231,78.0,2.41,8673.13,209.38,8.67,37253,32.19,61.74,2.69,220.1,-13.42
 2021-05-20,Louisiana,Beauregard,26.84,10,0,0.0,3229,78.0,2.42,8667.76,209.38,8.67,37253,32.19,59.05,8.05,233.52,8.05
 2021-05-19,Louisiana,Beauregard,-10.74,-4,0,0.0,3219,78.0,2.42,8640.91,209.38,8.64,37253,32.19,51.0,-5.37,225.47,-21.48
 2021-05-18,Louisiana,Beauregard,10.74,4,0,0.0,3223,78.0,2.42,8651.65,209.38,8.65,37253,32.19,56.37,-5.37,246.95,2.69

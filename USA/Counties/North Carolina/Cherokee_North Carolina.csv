@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-22,North Carolina,Cherokee,0.0,0,0,0.0,2601,34.0,1.31,9163.94,119.79,9.16,28383,62.31,49.32,0.0,627.13,0.0
+2021-05-21,North Carolina,Cherokee,-3.52,-1,0,0.0,2601,34.0,1.31,9163.94,119.79,9.16,28383,62.31,49.32,-21.14,627.13,-52.85
 2021-05-20,North Carolina,Cherokee,3.52,1,0,0.0,2602,34.0,1.31,9167.46,119.79,9.17,28383,62.31,70.46,-35.24,679.98,-21.14
 2021-05-19,North Carolina,Cherokee,3.52,1,0,0.0,2601,34.0,1.31,9163.94,119.79,9.16,28383,62.31,105.7,-10.57,701.12,-35.24
 2021-05-18,North Carolina,Cherokee,0.0,0,0,0.0,2600,34.0,1.31,9160.41,119.79,9.16,28383,62.31,116.27,-14.09,736.36,-3.52
