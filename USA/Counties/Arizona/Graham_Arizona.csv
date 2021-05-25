@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-23,Arizona,Graham,2.63,1,0,0.0,5611,82.0,1.46,14737.87,215.38,14.74,38072,8.24,0.0,0.0,181.25,0.0
 2021-05-22,Arizona,Graham,-7.88,-3,0,0.0,5610,82.0,1.46,14735.24,215.38,14.74,38072,8.24,0.0,-15.76,181.25,-10.51
 2021-05-21,Arizona,Graham,0.0,0,0,0.0,5613,82.0,1.46,14743.12,215.38,14.74,38072,8.24,15.76,-94.56,191.76,-7.88
 2021-05-20,Arizona,Graham,7.88,3,-1,-2.63,5613,82.0,1.46,14743.12,215.38,14.74,38072,8.24,110.32,7.88,199.64,5.25
