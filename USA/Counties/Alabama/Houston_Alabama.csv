@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-25,Alabama,Houston,3.82,4,0,0.0,10699,284.0,2.65,10216.57,271.19,10.22,104722,180.6,43.92,0.96,216.73,-0.95
 2021-05-24,Alabama,Houston,1.91,2,0,0.0,10695,284.0,2.66,10212.75,271.19,10.21,104722,180.6,42.96,0.0,217.68,-0.95
 2021-05-23,Alabama,Houston,3.82,4,0,0.0,10693,284.0,2.66,10210.84,271.19,10.21,104722,180.6,42.96,-2.86,218.63,-4.77
 2021-05-22,Alabama,Houston,9.55,10,1,0.95,10689,284.0,2.66,10207.02,271.19,10.21,104722,180.6,45.82,-27.69,223.4,3.82
