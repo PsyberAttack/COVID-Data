@@ -1,4 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-24 00:00:00+00:00,Niedersachsen,Aurich,1.05,2,0,0.0,3557,58,1.63,1873.6,30.55,1.87,189848,40.03,-10.01,231.75,-1.58
+2021-05-23 00:00:00+00:00,Niedersachsen,Aurich,0.0,0,0,0.0,3555,58,1.63,1872.55,30.55,1.87,189848,50.04,-1.58,233.33,-0.53
 2021-05-22 00:00:00+00:00,Niedersachsen,Aurich,3.16,6,0,0.0,3555,58,1.63,1872.55,30.55,1.87,189848,51.62,-2.11,233.86,-2.11
 2021-05-21 00:00:00+00:00,Niedersachsen,Aurich,4.74,9,0,0.0,3549,58,1.63,1869.39,30.55,1.87,189848,53.73,-6.85,235.97,-5.79
 2021-05-20 00:00:00+00:00,Niedersachsen,Aurich,11.06,21,0,0.0,3540,58,1.64,1864.65,30.55,1.86,189848,60.58,4.74,241.76,4.21
