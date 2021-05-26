@@ -1,5 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-23,Paraíba,Santana dos Garrotes,128.0,9,0,0.0,372,8,2.15,5290.85,113.78,5.29,7031,170.66,113.78,355.54,128.0
+2021-05-24,Paraíba,Santana dos Garrotes,0.0,0,0,0.0,372,8,2.15,5290.85,113.78,5.29,7031,142.23,-14.22,327.11,-14.22
+2021-05-23,Paraíba,Santana dos Garrotes,14.22,1,0,0.0,372,8,2.15,5290.85,113.78,5.29,7031,156.45,14.22,341.33,0.0
+2021-05-22,Paraíba,Santana dos Garrotes,28.45,2,0,0.0,371,8,2.16,5276.63,113.78,5.28,7031,142.23,14.23,341.33,28.45
+2021-05-21,Paraíba,Santana dos Garrotes,85.34,6,0,0.0,369,8,2.17,5248.19,113.78,5.25,7031,128.0,71.12,312.88,85.34
 2021-05-20,Paraíba,Santana dos Garrotes,0.0,0,0,0.0,363,8,2.2,5162.85,113.78,5.16,7031,56.88,-42.67,227.54,-14.22
 2021-05-19,Paraíba,Santana dos Garrotes,0.0,0,0,0.0,363,8,2.2,5162.85,113.78,5.16,7031,99.55,0.0,241.76,-14.22
 2021-05-18,Paraíba,Santana dos Garrotes,14.22,1,0,0.0,363,8,2.2,5162.85,113.78,5.16,7031,99.55,14.22,255.98,-14.23

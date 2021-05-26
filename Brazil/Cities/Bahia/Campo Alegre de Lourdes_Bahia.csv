@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-23,Bahia,Campo Alegre de Lourdes,6.94,2,1,3.47,651,24,3.69,2260.57,83.34,2.26,28798,90.27,-17.37,510.44,6.94
-2021-05-22,Bahia,Campo Alegre de Lourdes,10.42,3,0,0.0,649,23,3.54,2253.63,79.87,2.25,28798,107.64,0.0,503.5,3.48
+2021-05-24,Bahia,Campo Alegre de Lourdes,6.94,2,0,0.0,653,24,3.68,2267.52,83.34,2.27,28798,72.9,0.0,489.59,-3.48
+2021-05-23,Bahia,Campo Alegre de Lourdes,6.94,2,1,3.47,651,24,3.69,2260.57,83.34,2.26,28798,72.9,-10.42,493.07,-10.42
+2021-05-22,Bahia,Campo Alegre de Lourdes,3.47,1,0,0.0,649,23,3.54,2253.63,79.87,2.25,28798,83.32,-20.84,503.49,3.47
+2021-05-21,Bahia,Campo Alegre de Lourdes,6.94,2,0,0.0,648,23,3.55,2250.16,79.87,2.25,28798,104.16,-3.48,500.02,0.0
 2021-05-20,Bahia,Campo Alegre de Lourdes,24.31,7,0,0.0,646,23,3.56,2243.21,79.87,2.24,28798,107.64,0.0,500.02,-10.41
 2021-05-19,Bahia,Campo Alegre de Lourdes,17.36,5,0,0.0,639,23,3.6,2218.9,79.87,2.22,28798,107.64,13.89,510.43,17.36
 2021-05-18,Bahia,Campo Alegre de Lourdes,6.94,2,0,0.0,634,23,3.63,2201.54,79.87,2.2,28798,93.75,-31.26,493.07,-10.42

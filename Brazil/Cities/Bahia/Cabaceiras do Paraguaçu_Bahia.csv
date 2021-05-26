@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-23,Bahia,Cabaceiras do Paraguaçu,0.0,0,0,0.0,485,4,0.82,2578.83,21.27,2.58,18807,85.08,0.0,430.68,0.0
-2021-05-22,Bahia,Cabaceiras do Paraguaçu,37.22,7,0,0.0,485,4,0.82,2578.83,21.27,2.58,18807,85.08,15.95,430.68,21.27
+2021-05-24,Bahia,Cabaceiras do Paraguaçu,0.0,0,0,0.0,485,4,0.82,2578.83,21.27,2.58,18807,79.76,0.0,420.05,-10.63
+2021-05-23,Bahia,Cabaceiras do Paraguaçu,0.0,0,0,0.0,485,4,0.82,2578.83,21.27,2.58,18807,79.76,-5.32,430.68,0.0
+2021-05-22,Bahia,Cabaceiras do Paraguaçu,31.9,6,0,0.0,485,4,0.82,2578.83,21.27,2.58,18807,85.08,31.9,430.68,31.9
+2021-05-21,Bahia,Cabaceiras do Paraguaçu,5.32,1,0,0.0,479,4,0.84,2546.92,21.27,2.55,18807,53.18,-15.95,398.78,-10.63
 2021-05-20,Bahia,Cabaceiras do Paraguaçu,5.32,1,0,0.0,478,4,0.84,2541.61,21.27,2.54,18807,69.13,-5.31,409.41,5.32
 2021-05-19,Bahia,Cabaceiras do Paraguaçu,37.22,7,0,0.0,477,4,0.84,2536.29,21.27,2.54,18807,74.44,5.32,404.09,31.9
 2021-05-18,Bahia,Cabaceiras do Paraguaçu,0.0,0,0,0.0,470,4,0.85,2499.07,21.27,2.5,18807,69.12,-5.32,372.19,0.0
