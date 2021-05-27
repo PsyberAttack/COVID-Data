@@ -1,10 +1,12 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-25,Rio Grande do Sul,Pinheirinho do Vale,123.18,6,0,0.0,282,7,2.48,5789.37,143.71,5.79,4871,307.95,102.65,1005.97,123.18
-2021-05-22,Rio Grande do Sul,Pinheirinho do Vale,61.59,3,0,0.0,276,7,2.54,5666.19,143.71,5.67,4871,205.3,20.53,882.79,20.53
-2021-05-21,Rio Grande do Sul,Pinheirinho do Vale,0.0,0,0,0.0,273,7,2.56,5604.6,143.71,5.6,4871,184.77,0.0,862.26,0.0
-2021-05-20,Rio Grande do Sul,Pinheirinho do Vale,0.0,0,0,0.0,273,7,2.56,5604.6,143.71,5.6,4871,184.77,-164.24,862.26,-20.53
-2021-05-19,Rio Grande do Sul,Pinheirinho do Vale,102.65,5,0,0.0,273,7,2.56,5604.6,143.71,5.6,4871,349.01,102.65,882.79,82.12
-2021-05-18,Rio Grande do Sul,Pinheirinho do Vale,20.53,1,0,0.0,268,7,2.61,5501.95,143.71,5.5,4871,246.36,20.53,800.67,20.53
+2021-05-25,Rio Grande do Sul,Pinheirinho do Vale,123.18,6,0,0.0,282,7,2.48,5789.37,143.71,5.79,4871,307.95,123.18,923.85,82.12
+2021-05-23,Rio Grande do Sul,Pinheirinho do Vale,0.0,0,0,0.0,276,7,2.54,5666.19,143.71,5.67,4871,184.77,0.0,841.73,-41.06
+2021-05-22,Rio Grande do Sul,Pinheirinho do Vale,61.59,3,0,0.0,276,7,2.54,5666.19,143.71,5.67,4871,184.77,41.06,882.79,61.59
+2021-05-21,Rio Grande do Sul,Pinheirinho do Vale,0.0,0,0,0.0,273,7,2.56,5604.6,143.71,5.6,4871,143.71,-41.06,821.2,-41.06
+2021-05-20,Rio Grande do Sul,Pinheirinho do Vale,0.0,0,0,0.0,273,7,2.56,5604.6,143.71,5.6,4871,184.77,0.0,862.26,0.0
+2021-05-19,Rio Grande do Sul,Pinheirinho do Vale,102.65,5,0,0.0,273,7,2.56,5604.6,143.71,5.6,4871,184.77,-61.59,862.26,82.12
+2021-05-18,Rio Grande do Sul,Pinheirinho do Vale,20.53,1,0,0.0,268,7,2.61,5501.95,143.71,5.5,4871,246.36,20.53,780.14,0.0
+2021-05-17,Rio Grande do Sul,Pinheirinho do Vale,0.0,0,0,0.0,267,7,2.62,5481.42,143.71,5.48,4871,225.83,0.0,780.14,0.0
 2021-05-16,Rio Grande do Sul,Pinheirinho do Vale,0.0,0,0,0.0,267,7,2.62,5481.42,143.71,5.48,4871,225.83,0.0,780.14,-20.53
 2021-05-15,Rio Grande do Sul,Pinheirinho do Vale,20.53,1,0,0.0,267,7,2.62,5481.42,143.71,5.48,4871,225.83,20.53,800.67,20.53
 2021-05-14,Rio Grande do Sul,Pinheirinho do Vale,41.06,2,0,0.0,266,7,2.63,5460.89,143.71,5.46,4871,205.3,-41.06,780.14,-20.53

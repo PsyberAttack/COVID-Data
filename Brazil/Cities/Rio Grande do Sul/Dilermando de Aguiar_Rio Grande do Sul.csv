@@ -1,10 +1,12 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-25,Rio Grande do Sul,Dilermando de Aguiar,33.18,1,0,0.0,117,3,2.56,3881.88,99.54,3.88,3014,99.54,0.0,1094.9,33.18
-2021-05-22,Rio Grande do Sul,Dilermando de Aguiar,0.0,0,0,0.0,116,3,2.59,3848.71,99.54,3.85,3014,99.54,0.0,1061.72,0.0
+2021-05-25,Rio Grande do Sul,Dilermando de Aguiar,33.18,1,0,0.0,117,3,2.56,3881.88,99.54,3.88,3014,99.54,33.18,1061.72,33.18
+2021-05-23,Rio Grande do Sul,Dilermando de Aguiar,0.0,0,0,0.0,116,3,2.59,3848.71,99.54,3.85,3014,66.36,0.0,1028.54,-33.18
+2021-05-22,Rio Grande do Sul,Dilermando de Aguiar,0.0,0,0,0.0,116,3,2.59,3848.71,99.54,3.85,3014,66.36,-33.18,1061.72,0.0
 2021-05-21,Rio Grande do Sul,Dilermando de Aguiar,0.0,0,0,0.0,116,3,2.59,3848.71,99.54,3.85,3014,99.54,0.0,1061.72,0.0
-2021-05-20,Rio Grande do Sul,Dilermando de Aguiar,66.36,2,0,0.0,116,3,2.59,3848.71,99.54,3.85,3014,99.54,99.54,1061.72,66.36
-2021-05-19,Rio Grande do Sul,Dilermando de Aguiar,0.0,0,0,0.0,114,3,2.63,3782.35,99.54,3.78,3014,0.0,0.0,995.36,0.0
+2021-05-20,Rio Grande do Sul,Dilermando de Aguiar,66.36,2,0,0.0,116,3,2.59,3848.71,99.54,3.85,3014,99.54,66.36,1061.72,66.36
+2021-05-19,Rio Grande do Sul,Dilermando de Aguiar,0.0,0,0,0.0,114,3,2.63,3782.35,99.54,3.78,3014,33.18,33.18,995.36,0.0
 2021-05-18,Rio Grande do Sul,Dilermando de Aguiar,0.0,0,0,0.0,114,3,2.63,3782.35,99.54,3.78,3014,0.0,0.0,995.36,0.0
+2021-05-17,Rio Grande do Sul,Dilermando de Aguiar,0.0,0,0,0.0,114,3,2.63,3782.35,99.54,3.78,3014,0.0,0.0,995.36,0.0
 2021-05-16,Rio Grande do Sul,Dilermando de Aguiar,0.0,0,0,0.0,114,3,2.63,3782.35,99.54,3.78,3014,0.0,0.0,995.36,0.0
 2021-05-15,Rio Grande do Sul,Dilermando de Aguiar,33.18,1,0,0.0,114,3,2.63,3782.35,99.54,3.78,3014,0.0,0.0,995.36,33.18
 2021-05-14,Rio Grande do Sul,Dilermando de Aguiar,0.0,0,0,0.0,113,3,2.65,3749.17,99.54,3.75,3014,0.0,-33.18,962.18,0.0

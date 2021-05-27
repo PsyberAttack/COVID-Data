@@ -1,10 +1,12 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-25,Rio Grande do Sul,São Pedro da Serra,0.0,0,0,0.0,261,2,0.77,6866.61,52.62,6.87,3801,78.93,-26.31,657.74,0.0
-2021-05-22,Rio Grande do Sul,São Pedro da Serra,0.0,0,0,0.0,261,2,0.77,6866.61,52.62,6.87,3801,105.24,0.0,657.74,-78.93
-2021-05-21,Rio Grande do Sul,São Pedro da Serra,0.0,0,0,0.0,261,2,0.77,6866.61,52.62,6.87,3801,105.24,0.0,736.67,0.0
+2021-05-25,Rio Grande do Sul,São Pedro da Serra,0.0,0,0,0.0,261,2,0.77,6866.61,52.62,6.87,3801,78.93,0.0,342.03,-289.4
+2021-05-23,Rio Grande do Sul,São Pedro da Serra,0.0,0,0,0.0,261,2,0.77,6866.61,52.62,6.87,3801,78.93,0.0,631.43,-26.31
+2021-05-22,Rio Grande do Sul,São Pedro da Serra,0.0,0,0,0.0,261,2,0.77,6866.61,52.62,6.87,3801,78.93,-26.31,657.74,0.0
+2021-05-21,Rio Grande do Sul,São Pedro da Serra,0.0,0,0,0.0,261,2,0.77,6866.61,52.62,6.87,3801,105.24,0.0,657.74,-78.93
 2021-05-20,Rio Grande do Sul,São Pedro da Serra,0.0,0,0,0.0,261,2,0.77,6866.61,52.62,6.87,3801,105.24,0.0,736.67,0.0
 2021-05-19,Rio Grande do Sul,São Pedro da Serra,0.0,0,0,0.0,261,2,0.77,6866.61,52.62,6.87,3801,105.24,0.0,736.67,0.0
 2021-05-18,Rio Grande do Sul,São Pedro da Serra,78.93,3,0,0.0,261,2,0.77,6866.61,52.62,6.87,3801,105.24,78.93,736.67,78.93
+2021-05-17,Rio Grande do Sul,São Pedro da Serra,0.0,0,0,0.0,258,2,0.78,6787.69,52.62,6.79,3801,26.31,0.0,657.74,0.0
 2021-05-16,Rio Grande do Sul,São Pedro da Serra,0.0,0,0,0.0,258,2,0.78,6787.69,52.62,6.79,3801,26.31,0.0,657.74,0.0
 2021-05-15,Rio Grande do Sul,São Pedro da Serra,26.31,1,0,0.0,258,2,0.78,6787.69,52.62,6.79,3801,26.31,0.0,657.74,26.31
 2021-05-14,Rio Grande do Sul,São Pedro da Serra,0.0,0,0,0.0,257,2,0.78,6761.38,52.62,6.76,3801,26.31,-26.31,631.43,0.0
