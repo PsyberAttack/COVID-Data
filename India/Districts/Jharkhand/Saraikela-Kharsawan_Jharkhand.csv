@@ -1,5 +1,7 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-26,Jharkhand,Saraikela-Kharsawan,0.0,0,0,0.0,6845,65,0.95,643.65,6.11,0.64,1063458,19.27,-4.33,185.61,-11.38
+2021-05-28,Jharkhand,Saraikela-Kharsawan,0.0,0,0,0.0,6895,66,0.96,648.36,6.21,0.65,1063458,17.12,-3.29,163.43,-13.35
+2021-05-27,Jharkhand,Saraikela-Kharsawan,1.79,19,1,0.09,6895,66,0.96,648.36,6.21,0.65,1063458,20.41,-1.78,176.78,-11.75
+2021-05-26,Jharkhand,Saraikela-Kharsawan,2.92,31,0,0.0,6876,65,0.95,646.57,6.11,0.65,1063458,22.19,-1.41,188.53,-8.46
 2021-05-25,Jharkhand,Saraikela-Kharsawan,2.63,28,1,0.09,6845,65,0.95,643.65,6.11,0.64,1063458,23.6,-1.51,196.99,-6.02
 2021-05-24,Jharkhand,Saraikela-Kharsawan,3.01,32,0,0.0,6817,64,0.94,641.02,6.02,0.64,1063458,25.11,-1.88,203.01,-2.16
 2021-05-23,Jharkhand,Saraikela-Kharsawan,3.1,33,0,0.0,6785,64,0.94,638.01,6.02,0.64,1063458,26.99,-1.13,205.17,-0.66
