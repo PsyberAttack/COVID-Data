@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-25,Santa Catarina,Bombinhas,10.12,2,1,5.06,3331,53,1.59,16849.61,268.1,16.85,19769,116.36,5.06,607.05,5.06
+2021-05-26,Santa Catarina,Bombinhas,5.06,1,1,5.06,3332,54,1.62,16854.67,273.15,16.85,19769,106.24,0.0,566.58,-35.41
+2021-05-25,Santa Catarina,Bombinhas,5.06,1,1,5.06,3331,53,1.59,16849.61,268.1,16.85,19769,106.24,-5.06,601.99,0.0
+2021-05-24,Santa Catarina,Bombinhas,5.06,1,0,0.0,3330,52,1.56,16844.55,263.04,16.84,19769,111.3,0.0,601.99,0.0
 2021-05-23,Santa Catarina,Bombinhas,40.47,8,0,0.0,3329,52,1.56,16839.5,263.04,16.84,19769,111.3,40.47,601.99,25.29
 2021-05-22,Santa Catarina,Bombinhas,10.12,2,0,0.0,3321,52,1.57,16799.03,263.04,16.8,19769,70.83,5.06,576.7,5.06
 2021-05-21,Santa Catarina,Bombinhas,35.41,7,0,0.0,3319,52,1.57,16788.91,263.04,16.79,19769,65.77,-10.12,571.64,40.47

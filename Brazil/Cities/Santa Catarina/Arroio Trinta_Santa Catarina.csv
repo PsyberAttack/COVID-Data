@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-25,Santa Catarina,Arroio Trinta,225.35,8,1,28.17,529,12,2.27,14901.41,338.03,14.9,3550,1267.6,225.35,2704.26,169.01
+2021-05-26,Santa Catarina,Arroio Trinta,169.01,6,0,0.0,535,12,2.24,15070.42,338.03,15.07,3550,760.57,-56.34,2732.43,28.16
+2021-05-25,Santa Catarina,Arroio Trinta,112.68,4,1,28.17,529,12,2.27,14901.41,338.03,14.9,3550,816.91,-338.02,2704.27,112.68
+2021-05-24,Santa Catarina,Arroio Trinta,112.68,4,0,0.0,525,11,2.1,14788.73,309.86,14.79,3550,1154.93,112.68,2591.59,56.34
 2021-05-23,Santa Catarina,Arroio Trinta,0.0,0,0,0.0,521,11,2.11,14676.06,309.86,14.68,3550,1042.25,0.0,2535.25,0.0
 2021-05-22,Santa Catarina,Arroio Trinta,84.51,3,0,0.0,521,11,2.11,14676.06,309.86,14.68,3550,1042.25,0.0,2535.25,56.34
 2021-05-21,Santa Catarina,Arroio Trinta,169.01,6,0,0.0,518,11,2.12,14591.55,309.86,14.59,3550,1042.25,84.5,2478.91,56.33

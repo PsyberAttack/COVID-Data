@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-25,Rio Grande do Sul,Porto Lucena,0.0,0,0,0.0,233,1,0.43,4980.76,21.38,4.98,4678,277.89,0.0,641.29,-21.38
+2021-05-26,Rio Grande do Sul,Porto Lucena,42.75,2,0,0.0,235,1,0.43,5023.51,21.38,5.02,4678,149.63,0.0,684.04,42.75
+2021-05-25,Rio Grande do Sul,Porto Lucena,0.0,0,0,0.0,233,1,0.43,4980.76,21.38,4.98,4678,149.63,-128.26,641.29,0.0
+2021-05-24,Rio Grande do Sul,Porto Lucena,0.0,0,0,0.0,233,1,0.43,4980.76,21.38,4.98,4678,277.89,0.0,641.29,-21.38
 2021-05-23,Rio Grande do Sul,Porto Lucena,0.0,0,0,0.0,233,1,0.43,4980.76,21.38,4.98,4678,277.89,0.0,662.67,0.0
 2021-05-22,Rio Grande do Sul,Porto Lucena,64.13,3,0,0.0,233,1,0.43,4980.76,21.38,4.98,4678,277.89,64.13,662.67,64.13
 2021-05-21,Rio Grande do Sul,Porto Lucena,-21.38,-1,0,0.0,230,1,0.43,4916.63,21.38,4.92,4678,213.76,-106.89,598.54,-85.51

@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-25,Santa Catarina,Ponte Alta,0.0,0,1,21.36,482,11,2.28,10294.75,234.94,10.29,4682,128.16,0.0,1174.74,0.0
+2021-05-26,Santa Catarina,Ponte Alta,0.0,0,0,0.0,482,11,2.28,10294.75,234.94,10.29,4682,106.8,0.0,1046.59,-21.36
+2021-05-25,Santa Catarina,Ponte Alta,0.0,0,0,0.0,482,11,2.28,10294.75,234.94,10.29,4682,106.8,-21.36,1067.95,-106.79
+2021-05-24,Santa Catarina,Ponte Alta,0.0,0,1,21.36,482,11,2.28,10294.75,234.94,10.29,4682,128.16,0.0,1174.74,0.0
 2021-05-23,Santa Catarina,Ponte Alta,0.0,0,0,0.0,482,10,2.07,10294.75,213.58,10.29,4682,128.16,-42.72,1174.74,-106.79
 2021-05-22,Santa Catarina,Ponte Alta,21.36,1,0,0.0,482,10,2.07,10294.75,213.58,10.29,4682,170.88,-64.07,1281.53,0.0
 2021-05-21,Santa Catarina,Ponte Alta,64.08,3,0,0.0,481,10,2.08,10273.39,213.58,10.27,4682,234.95,42.72,1281.53,-42.71

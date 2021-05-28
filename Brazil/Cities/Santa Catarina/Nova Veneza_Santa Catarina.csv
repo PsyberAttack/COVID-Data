@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-25,Santa Catarina,Nova Veneza,125.28,19,0,0.0,2441,23,0.94,16095.21,151.66,16.1,15166,553.87,105.5,1589.08,125.28
+2021-05-26,Santa Catarina,Nova Veneza,39.56,6,0,0.0,2447,23,0.94,16134.78,151.66,16.13,15166,375.84,-32.97,1569.3,19.78
+2021-05-25,Santa Catarina,Nova Veneza,118.69,18,0,0.0,2441,23,0.94,16095.21,151.66,16.1,15166,408.81,-26.37,1549.52,79.13
+2021-05-24,Santa Catarina,Nova Veneza,6.59,1,0,0.0,2423,23,0.95,15976.53,151.66,15.98,15166,435.18,-13.19,1470.39,6.59
 2021-05-23,Santa Catarina,Nova Veneza,13.19,2,1,6.59,2422,23,0.95,15969.93,151.66,15.97,15166,448.37,-26.37,1463.8,13.19
 2021-05-22,Santa Catarina,Nova Veneza,52.75,8,0,0.0,2420,22,0.91,15956.75,145.06,15.96,15166,474.74,-26.37,1450.61,32.97
 2021-05-21,Santa Catarina,Nova Veneza,65.94,10,1,6.59,2412,22,0.91,15904.0,145.06,15.9,15166,501.11,-6.59,1417.64,26.38

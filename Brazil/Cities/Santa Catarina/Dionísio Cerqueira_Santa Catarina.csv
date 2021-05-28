@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-25,Santa Catarina,Dionísio Cerqueira,212.93,33,0,0.0,1484,39,2.63,9575.43,251.65,9.58,15498,458.12,193.57,2781.0,180.67
+2021-05-26,Santa Catarina,Dionísio Cerqueira,141.95,22,1,6.45,1506,40,2.66,9717.38,258.1,9.72,15498,451.67,51.62,2426.11,-19.36
+2021-05-25,Santa Catarina,Dionísio Cerqueira,219.38,34,0,0.0,1484,39,2.63,9575.43,251.65,9.58,15498,400.05,161.31,2445.47,-116.15
+2021-05-24,Santa Catarina,Dionísio Cerqueira,-6.45,-1,0,0.0,1450,39,2.69,9356.05,251.65,9.36,15498,238.74,-25.81,2561.62,-38.71
 2021-05-23,Santa Catarina,Dionísio Cerqueira,12.9,2,1,6.45,1451,39,2.69,9362.5,251.65,9.36,15498,264.55,6.45,2600.33,6.45
 2021-05-22,Santa Catarina,Dionísio Cerqueira,45.17,7,0,0.0,1449,38,2.62,9349.59,245.19,9.35,15498,258.1,-12.9,2593.88,19.36
 2021-05-21,Santa Catarina,Dionísio Cerqueira,-6.45,-1,1,6.45,1442,38,2.64,9304.43,245.19,9.3,15498,271.0,-45.16,2574.52,-64.52

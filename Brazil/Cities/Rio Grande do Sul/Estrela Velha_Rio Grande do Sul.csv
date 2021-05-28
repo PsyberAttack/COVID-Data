@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-25,Rio Grande do Sul,Estrela Velha,27.36,1,0,0.0,174,3,1.72,4760.6,82.08,4.76,3655,355.68,27.36,711.36,0.0
+2021-05-26,Rio Grande do Sul,Estrela Velha,0.0,0,0,0.0,174,3,1.72,4760.6,82.08,4.76,3655,218.88,-54.72,711.36,0.0
+2021-05-25,Rio Grande do Sul,Estrela Velha,27.36,1,0,0.0,174,3,1.72,4760.6,82.08,4.76,3655,273.6,-54.72,711.36,27.36
+2021-05-24,Rio Grande do Sul,Estrela Velha,0.0,0,0,0.0,173,3,1.73,4733.24,82.08,4.73,3655,328.32,0.0,684.0,-27.36
 2021-05-23,Rio Grande do Sul,Estrela Velha,27.36,1,0,0.0,173,3,1.73,4733.24,82.08,4.73,3655,328.32,27.36,711.36,27.36
 2021-05-22,Rio Grande do Sul,Estrela Velha,27.36,1,0,0.0,172,3,1.74,4705.88,82.08,4.71,3655,300.96,27.36,684.0,27.36
 2021-05-21,Rio Grande do Sul,Estrela Velha,27.36,1,0,0.0,171,3,1.75,4678.52,82.08,4.68,3655,273.6,-54.72,656.64,-27.36

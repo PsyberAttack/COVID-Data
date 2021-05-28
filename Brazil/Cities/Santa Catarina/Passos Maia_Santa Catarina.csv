@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-25,Santa Catarina,Passos Maia,168.8,7,1,24.11,238,11,4.62,5739.09,265.25,5.74,4147,409.94,168.8,843.98,144.69
+2021-05-26,Santa Catarina,Passos Maia,72.34,3,0,0.0,241,11,4.56,5811.43,265.25,5.81,4147,385.82,72.34,795.75,24.11
+2021-05-25,Santa Catarina,Passos Maia,168.8,7,1,24.11,238,11,4.62,5739.09,265.25,5.74,4147,313.48,72.34,771.64,96.46
+2021-05-24,Santa Catarina,Passos Maia,0.0,0,0,0.0,231,10,4.33,5570.29,241.14,5.57,4147,241.14,0.0,675.18,-24.11
 2021-05-23,Santa Catarina,Passos Maia,0.0,0,0,0.0,231,10,4.33,5570.29,241.14,5.57,4147,241.14,-24.11,699.29,-24.11
 2021-05-22,Santa Catarina,Passos Maia,24.11,1,0,0.0,231,10,4.33,5570.29,241.14,5.57,4147,265.25,24.11,723.4,24.11
 2021-05-21,Santa Catarina,Passos Maia,24.11,1,0,0.0,230,10,4.35,5546.18,241.14,5.55,4147,241.14,-96.46,699.29,24.11

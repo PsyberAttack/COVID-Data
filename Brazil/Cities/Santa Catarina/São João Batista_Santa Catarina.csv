@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-25,Santa Catarina,São João Batista,45.43,17,1,2.67,4382,76,1.73,11709.06,203.08,11.71,37424,133.61,40.09,590.51,18.71
+2021-05-26,Santa Catarina,São João Batista,0.0,0,0,0.0,4382,76,1.73,11709.06,203.08,11.71,37424,82.84,-40.08,521.04,-42.75
+2021-05-25,Santa Catarina,São João Batista,45.43,17,0,0.0,4382,76,1.73,11709.06,203.08,11.71,37424,122.92,34.74,563.79,18.71
+2021-05-24,Santa Catarina,São João Batista,0.0,0,1,2.67,4365,76,1.74,11663.64,203.08,11.66,37424,88.18,-5.34,545.08,-26.72
 2021-05-23,Santa Catarina,São João Batista,10.69,4,0,0.0,4365,75,1.72,11663.64,200.41,11.66,37424,93.52,8.02,571.8,-10.69
 2021-05-22,Santa Catarina,São João Batista,0.0,0,0,0.0,4361,75,1.72,11652.95,200.41,11.65,37424,85.5,-18.7,582.49,-112.23
 2021-05-21,Santa Catarina,São João Batista,26.72,10,0,0.0,4361,75,1.72,11652.95,200.41,11.65,37424,104.2,-32.07,694.72,0.0

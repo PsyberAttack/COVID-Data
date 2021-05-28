@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-25,Santa Catarina,Salete,26.17,2,0,0.0,733,8,1.09,9591.73,104.68,9.59,7642,78.53,26.17,353.35,26.17
+2021-05-26,Santa Catarina,Salete,39.26,3,0,0.0,736,8,1.09,9630.99,104.68,9.63,7642,91.61,26.17,379.52,39.26
+2021-05-25,Santa Catarina,Salete,26.17,2,0,0.0,733,8,1.09,9591.73,104.68,9.59,7642,65.44,13.08,340.26,13.08
+2021-05-24,Santa Catarina,Salete,0.0,0,0,0.0,731,8,1.09,9565.56,104.68,9.57,7642,52.36,0.0,327.18,0.0
 2021-05-23,Santa Catarina,Salete,0.0,0,0,0.0,731,8,1.09,9565.56,104.68,9.57,7642,52.36,0.0,327.18,-13.09
 2021-05-22,Santa Catarina,Salete,13.09,1,0,0.0,731,8,1.09,9565.56,104.68,9.57,7642,52.36,13.09,340.27,-13.08
 2021-05-21,Santa Catarina,Salete,0.0,0,0,0.0,730,8,1.1,9552.47,104.68,9.55,7642,39.27,-13.09,353.35,-65.43

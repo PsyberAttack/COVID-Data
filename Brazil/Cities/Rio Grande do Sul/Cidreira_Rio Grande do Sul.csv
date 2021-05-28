@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-25,Rio Grande do Sul,Cidreira,18.46,3,1,6.15,1317,64,4.86,8102.62,393.75,8.1,16254,67.68,18.46,399.89,12.31
+2021-05-26,Rio Grande do Sul,Cidreira,0.0,0,0,0.0,1317,64,4.86,8102.62,393.75,8.1,16254,36.91,0.0,406.03,6.15
+2021-05-25,Rio Grande do Sul,Cidreira,6.15,1,0,0.0,1317,64,4.86,8102.62,393.75,8.1,16254,36.91,-24.61,399.88,6.15
+2021-05-24,Rio Grande do Sul,Cidreira,12.3,2,1,6.15,1316,64,4.86,8096.47,393.75,8.1,16254,61.52,12.3,393.73,6.15
 2021-05-23,Rio Grande do Sul,Cidreira,0.0,0,0,0.0,1314,63,4.79,8084.16,387.6,8.08,16254,49.22,0.0,387.58,0.0
 2021-05-22,Rio Grande do Sul,Cidreira,0.0,0,0,0.0,1314,63,4.79,8084.16,387.6,8.08,16254,49.22,-6.15,387.58,0.0
 2021-05-21,Rio Grande do Sul,Cidreira,18.46,3,0,0.0,1314,63,4.79,8084.16,387.6,8.08,16254,55.37,18.46,387.58,-313.77

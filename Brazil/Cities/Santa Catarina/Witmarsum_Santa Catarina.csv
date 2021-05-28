@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-25,Santa Catarina,Witmarsum,0.0,0,0,0.0,238,4,1.68,6002.52,100.88,6.0,3965,428.75,0.0,958.37,0.0
+2021-05-26,Santa Catarina,Witmarsum,50.44,2,0,0.0,240,4,1.67,6052.96,100.88,6.05,3965,378.31,-50.44,958.37,25.22
+2021-05-25,Santa Catarina,Witmarsum,0.0,0,0,0.0,238,4,1.68,6002.52,100.88,6.0,3965,428.75,0.0,933.15,-25.22
+2021-05-24,Santa Catarina,Witmarsum,0.0,0,0,0.0,238,4,1.68,6002.52,100.88,6.0,3965,428.75,0.0,958.37,0.0
 2021-05-23,Santa Catarina,Witmarsum,302.65,12,0,0.0,238,4,1.68,6002.52,100.88,6.0,3965,428.75,252.21,958.37,226.99
 2021-05-22,Santa Catarina,Witmarsum,0.0,0,0,0.0,226,4,1.77,5699.87,100.88,5.7,3965,176.54,0.0,731.38,0.0
 2021-05-21,Santa Catarina,Witmarsum,25.22,1,0,0.0,226,4,1.77,5699.87,100.88,5.7,3965,176.54,-50.44,731.38,25.22

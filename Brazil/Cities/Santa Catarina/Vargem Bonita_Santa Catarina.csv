@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-25,Santa Catarina,Vargem Bonita,44.52,2,0,0.0,694,7,1.01,15449.69,155.83,15.45,4492,378.45,44.52,2137.15,-22.27
+2021-05-26,Santa Catarina,Vargem Bonita,155.83,7,0,0.0,701,7,1.0,15605.52,155.83,15.61,4492,356.19,133.57,2070.36,44.52
+2021-05-25,Santa Catarina,Vargem Bonita,44.52,2,0,0.0,694,7,1.01,15449.69,155.83,15.45,4492,222.62,-111.31,2025.84,-66.79
+2021-05-24,Santa Catarina,Vargem Bonita,0.0,0,0,0.0,692,7,1.01,15405.16,155.83,15.41,4492,333.93,0.0,2092.63,-66.79
 2021-05-23,Santa Catarina,Vargem Bonita,0.0,0,0,0.0,692,7,1.01,15405.16,155.83,15.41,4492,333.93,-22.26,2159.42,-22.26
 2021-05-22,Santa Catarina,Vargem Bonita,66.79,3,0,0.0,692,7,1.01,15405.16,155.83,15.41,4492,356.19,-22.26,2181.68,-44.52
 2021-05-21,Santa Catarina,Vargem Bonita,89.05,4,0,0.0,689,7,1.02,15338.38,155.83,15.34,4492,378.45,22.26,2226.2,22.26

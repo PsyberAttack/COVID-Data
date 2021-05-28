@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-25,Santa Catarina,Rio das Antas,16.12,1,0,0.0,405,9,2.22,6526.99,145.04,6.53,6205,48.36,16.12,1063.67,32.24
+2021-05-26,Santa Catarina,Rio das Antas,0.0,0,0,0.0,405,9,2.22,6526.99,145.04,6.53,6205,32.24,-16.12,1063.67,0.0
+2021-05-25,Santa Catarina,Rio das Antas,16.12,1,0,0.0,405,9,2.22,6526.99,145.04,6.53,6205,48.36,16.12,1063.67,16.12
+2021-05-24,Santa Catarina,Rio das Antas,0.0,0,0,0.0,404,9,2.23,6510.88,145.04,6.51,6205,32.24,0.0,1047.55,16.12
 2021-05-23,Santa Catarina,Rio das Antas,0.0,0,0,0.0,404,9,2.23,6510.88,145.04,6.51,6205,32.24,0.0,1031.43,0.0
 2021-05-22,Santa Catarina,Rio das Antas,0.0,0,0,0.0,404,9,2.23,6510.88,145.04,6.51,6205,32.24,-32.23,1031.43,-16.12
 2021-05-21,Santa Catarina,Rio das Antas,0.0,0,0,0.0,404,9,2.23,6510.88,145.04,6.51,6205,64.47,0.0,1047.55,0.0

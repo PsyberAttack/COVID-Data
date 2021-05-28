@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-25,Santa Catarina,Painel,84.78,2,1,42.39,154,5,3.25,6528.19,211.95,6.53,2359,127.17,84.78,169.56,84.78
+2021-05-26,Santa Catarina,Painel,0.0,0,0,0.0,154,5,3.25,6528.19,211.95,6.53,2359,84.78,0.0,127.17,0.0
+2021-05-25,Santa Catarina,Painel,42.39,1,0,0.0,154,5,3.25,6528.19,211.95,6.53,2359,84.78,0.0,127.17,0.0
+2021-05-24,Santa Catarina,Painel,42.39,1,1,42.39,153,5,3.27,6485.8,211.95,6.49,2359,84.78,42.39,127.17,42.39
 2021-05-23,Santa Catarina,Painel,0.0,0,0,0.0,152,4,2.63,6443.41,169.56,6.44,2359,42.39,0.0,84.78,0.0
 2021-05-22,Santa Catarina,Painel,0.0,0,0,0.0,152,4,2.63,6443.41,169.56,6.44,2359,42.39,0.0,84.78,-42.39
 2021-05-21,Santa Catarina,Painel,-42.39,-1,0,0.0,152,4,2.63,6443.41,169.56,6.44,2359,42.39,-42.39,127.17,-127.17

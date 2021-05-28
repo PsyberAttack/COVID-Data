@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-25,Rio Grande do Sul,Pouso Novo,0.0,0,0,0.0,132,4,3.03,8053.69,244.05,8.05,1639,244.05,0.0,1159.24,0.0
+2021-05-26,Rio Grande do Sul,Pouso Novo,0.0,0,0,0.0,132,4,3.03,8053.69,244.05,8.05,1639,0.0,-61.01,1159.24,0.0
+2021-05-25,Rio Grande do Sul,Pouso Novo,0.0,0,0,0.0,132,4,3.03,8053.69,244.05,8.05,1639,61.01,-183.04,1159.24,0.0
+2021-05-24,Rio Grande do Sul,Pouso Novo,0.0,0,0,0.0,132,4,3.03,8053.69,244.05,8.05,1639,244.05,0.0,1159.24,0.0
 2021-05-23,Rio Grande do Sul,Pouso Novo,0.0,0,0,0.0,132,4,3.03,8053.69,244.05,8.05,1639,244.05,0.0,1159.24,-122.03
 2021-05-22,Rio Grande do Sul,Pouso Novo,0.0,0,0,0.0,132,4,3.03,8053.69,244.05,8.05,1639,244.05,-183.04,1281.27,0.0
 2021-05-21,Rio Grande do Sul,Pouso Novo,0.0,0,0,0.0,132,4,3.03,8053.69,244.05,8.05,1639,427.09,-122.03,1281.27,61.01

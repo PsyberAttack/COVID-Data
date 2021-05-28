@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-25,Santa Catarina,Cerro Negro,32.01,1,0,0.0,124,4,3.23,3969.27,128.04,3.97,3124,320.1,0.0,1088.34,32.01
+2021-05-26,Santa Catarina,Cerro Negro,0.0,0,0,0.0,124,4,3.23,3969.27,128.04,3.97,3124,320.1,0.0,1056.33,0.0
+2021-05-25,Santa Catarina,Cerro Negro,0.0,0,0,0.0,124,4,3.23,3969.27,128.04,3.97,3124,320.1,0.0,1056.33,-32.01
+2021-05-24,Santa Catarina,Cerro Negro,32.01,1,0,0.0,124,4,3.23,3969.27,128.04,3.97,3124,320.1,0.0,1088.34,32.01
 2021-05-23,Santa Catarina,Cerro Negro,0.0,0,0,0.0,123,4,3.25,3937.26,128.04,3.94,3124,320.1,-160.05,1056.33,0.0
 2021-05-22,Santa Catarina,Cerro Negro,96.03,3,0,0.0,123,4,3.25,3937.26,128.04,3.94,3124,480.15,32.01,1056.33,64.02
 2021-05-21,Santa Catarina,Cerro Negro,96.03,3,0,0.0,120,4,3.33,3841.23,128.04,3.84,3124,448.14,96.03,992.31,32.01

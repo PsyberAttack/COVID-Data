@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-25,Rio Grande do Sul,Salvador do Sul,51.29,4,0,0.0,577,3,0.52,7398.38,38.47,7.4,7799,166.68,38.47,525.68,51.29
+2021-05-26,Rio Grande do Sul,Salvador do Sul,12.82,1,0,0.0,578,3,0.52,7411.21,38.47,7.41,7799,141.04,0.0,500.03,-25.65
+2021-05-25,Rio Grande do Sul,Salvador do Sul,51.29,4,0,0.0,577,3,0.52,7398.38,38.47,7.4,7799,141.04,25.65,525.68,51.29
+2021-05-24,Rio Grande do Sul,Salvador do Sul,0.0,0,0,0.0,573,3,0.52,7347.1,38.47,7.35,7799,115.39,-12.82,474.39,0.0
 2021-05-23,Rio Grande do Sul,Salvador do Sul,25.64,2,0,0.0,573,3,0.52,7347.1,38.47,7.35,7799,128.21,25.64,474.39,25.64
 2021-05-22,Rio Grande do Sul,Salvador do Sul,0.0,0,0,0.0,571,3,0.53,7321.45,38.47,7.32,7799,102.57,0.0,448.75,0.0
 2021-05-21,Rio Grande do Sul,Salvador do Sul,51.29,4,0,0.0,571,3,0.53,7321.45,38.47,7.32,7799,102.57,-89.75,448.75,-12.82

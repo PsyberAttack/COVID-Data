@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-25,Santa Catarina,Vidal Ramos,142.0,9,1,15.78,467,8,1.71,7368.25,126.22,7.37,6338,362.9,15.78,1041.37,126.22
+2021-05-26,Santa Catarina,Vidal Ramos,15.78,1,0,0.0,468,8,1.71,7384.03,126.22,7.38,6338,268.23,0.0,1025.59,15.78
+2021-05-25,Santa Catarina,Vidal Ramos,126.22,8,0,0.0,467,8,1.71,7368.25,126.22,7.37,6338,268.23,31.55,1009.81,94.66
+2021-05-24,Santa Catarina,Vidal Ramos,15.78,1,1,15.78,459,8,1.74,7242.03,126.22,7.24,6338,236.68,-110.44,915.15,0.0
 2021-05-23,Santa Catarina,Vidal Ramos,0.0,0,0,0.0,458,7,1.53,7226.25,110.44,7.23,6338,347.12,0.0,915.15,0.0
 2021-05-22,Santa Catarina,Vidal Ramos,0.0,0,0,0.0,458,7,1.53,7226.25,110.44,7.23,6338,347.12,-31.56,915.15,-63.11
 2021-05-21,Santa Catarina,Vidal Ramos,31.56,2,0,0.0,458,7,1.53,7226.25,110.44,7.23,6338,378.68,0.0,978.26,31.56

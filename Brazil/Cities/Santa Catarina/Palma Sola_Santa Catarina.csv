@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-25,Santa Catarina,Palma Sola,40.41,3,0,0.0,827,16,1.93,11141.05,215.55,11.14,7423,323.32,40.41,687.03,26.94
+2021-05-26,Santa Catarina,Palma Sola,13.47,1,0,0.0,828,16,1.93,11154.52,215.55,11.15,7423,215.54,-40.42,633.14,0.0
+2021-05-25,Santa Catarina,Palma Sola,40.41,3,0,0.0,827,16,1.93,11141.05,215.55,11.14,7423,255.96,-26.95,633.14,-13.48
+2021-05-24,Santa Catarina,Palma Sola,0.0,0,0,0.0,824,16,1.94,11100.63,215.55,11.1,7423,282.91,0.0,646.62,-13.47
 2021-05-23,Santa Catarina,Palma Sola,0.0,0,0,0.0,824,16,1.94,11100.63,215.55,11.1,7423,282.91,0.0,660.09,0.0
 2021-05-22,Santa Catarina,Palma Sola,0.0,0,0,0.0,824,16,1.94,11100.63,215.55,11.1,7423,282.91,0.0,660.09,-40.41
 2021-05-21,Santa Catarina,Palma Sola,94.3,7,0,0.0,824,16,1.94,11100.63,215.55,11.1,7423,282.91,94.3,700.5,67.36

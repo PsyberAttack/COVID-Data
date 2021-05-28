@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-25,Santa Catarina,Papanduva,5.18,1,0,0.0,362,35,9.67,1873.71,181.16,1.87,19320,31.07,5.18,119.07,5.18
+2021-05-26,Santa Catarina,Papanduva,5.18,1,0,0.0,363,35,9.64,1878.88,181.16,1.88,19320,25.89,0.0,113.9,-5.17
+2021-05-25,Santa Catarina,Papanduva,5.18,1,0,0.0,362,35,9.67,1873.71,181.16,1.87,19320,25.89,0.0,119.07,5.18
+2021-05-24,Santa Catarina,Papanduva,0.0,0,0,0.0,361,35,9.7,1868.53,181.16,1.87,19320,25.89,0.0,113.89,0.0
 2021-05-23,Santa Catarina,Papanduva,0.0,0,0,0.0,361,35,9.7,1868.53,181.16,1.87,19320,25.89,0.0,113.89,-5.18
 2021-05-22,Santa Catarina,Papanduva,5.18,1,0,0.0,361,35,9.7,1868.53,181.16,1.87,19320,25.89,5.18,119.07,5.18
 2021-05-21,Santa Catarina,Papanduva,10.35,2,1,5.18,360,35,9.72,1863.35,181.16,1.86,19320,20.71,10.35,113.89,15.53

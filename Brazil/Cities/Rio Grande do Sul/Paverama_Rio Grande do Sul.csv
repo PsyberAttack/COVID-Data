@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-25,Rio Grande do Sul,Paverama,11.78,1,0,0.0,532,15,2.82,6268.41,176.74,6.27,8487,70.69,11.78,365.26,0.0
+2021-05-26,Rio Grande do Sul,Paverama,35.35,3,0,0.0,535,15,2.8,6303.76,176.74,6.3,8487,94.26,35.35,400.61,35.35
+2021-05-25,Rio Grande do Sul,Paverama,11.78,1,0,0.0,532,15,2.82,6268.41,176.74,6.27,8487,58.91,0.0,365.26,11.78
+2021-05-24,Rio Grande do Sul,Paverama,0.0,0,0,0.0,531,15,2.82,6256.63,176.74,6.26,8487,58.91,0.0,353.48,-11.78
 2021-05-23,Rio Grande do Sul,Paverama,0.0,0,0,0.0,531,15,2.82,6256.63,176.74,6.26,8487,58.91,0.0,365.26,-35.35
 2021-05-22,Rio Grande do Sul,Paverama,35.35,3,0,0.0,531,15,2.82,6256.63,176.74,6.26,8487,58.91,11.78,400.61,35.35
 2021-05-21,Rio Grande do Sul,Paverama,35.35,3,0,0.0,528,15,2.84,6221.28,176.74,6.22,8487,47.13,23.57,365.26,11.78

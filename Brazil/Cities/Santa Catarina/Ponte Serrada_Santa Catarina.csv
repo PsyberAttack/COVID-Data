@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-25,Santa Catarina,Ponte Serrada,43.13,5,0,0.0,1108,41,3.7,9557.49,353.66,9.56,11593,207.03,25.88,1337.01,0.0
+2021-05-26,Santa Catarina,Ponte Serrada,77.63,9,0,0.0,1117,41,3.67,9635.12,353.66,9.64,11593,207.03,34.5,1250.75,8.62
+2021-05-25,Santa Catarina,Ponte Serrada,25.88,3,0,0.0,1108,41,3.7,9557.49,353.66,9.56,11593,172.53,-8.62,1242.13,-69.0
+2021-05-24,Santa Catarina,Ponte Serrada,17.25,2,0,0.0,1105,41,3.71,9531.61,353.66,9.53,11593,181.15,0.0,1311.13,-25.88
 2021-05-23,Santa Catarina,Ponte Serrada,0.0,0,0,0.0,1103,41,3.72,9514.36,353.66,9.51,11593,181.15,-17.25,1337.01,0.0
 2021-05-22,Santa Catarina,Ponte Serrada,51.76,6,0,0.0,1103,41,3.72,9514.36,353.66,9.51,11593,198.4,17.26,1337.01,-189.77
 2021-05-21,Santa Catarina,Ponte Serrada,8.63,1,0,0.0,1097,41,3.74,9462.61,353.66,9.46,11593,181.14,-25.87,1526.78,-155.26

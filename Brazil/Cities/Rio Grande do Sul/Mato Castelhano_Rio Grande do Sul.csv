@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-25,Rio Grande do Sul,Mato Castelhano,0.0,0,0,0.0,325,11,3.38,12795.28,433.07,12.8,2540,157.48,0.0,1574.8,-748.03
+2021-05-26,Rio Grande do Sul,Mato Castelhano,0.0,0,1,39.37,325,12,3.69,12795.28,472.44,12.8,2540,78.74,0.0,1574.8,0.0
+2021-05-25,Rio Grande do Sul,Mato Castelhano,0.0,0,0,0.0,325,11,3.38,12795.28,433.07,12.8,2540,78.74,-78.74,1574.8,0.0
+2021-05-24,Rio Grande do Sul,Mato Castelhano,0.0,0,0,0.0,325,11,3.38,12795.28,433.07,12.8,2540,157.48,0.0,1574.8,-748.03
 2021-05-23,Rio Grande do Sul,Mato Castelhano,0.0,0,0,0.0,325,11,3.38,12795.28,433.07,12.8,2540,157.48,0.0,2322.83,-39.37
 2021-05-22,Rio Grande do Sul,Mato Castelhano,0.0,0,0,0.0,325,11,3.38,12795.28,433.07,12.8,2540,157.48,0.0,2362.2,0.0
 2021-05-21,Rio Grande do Sul,Mato Castelhano,39.37,1,0,0.0,325,11,3.38,12795.28,433.07,12.8,2540,157.48,39.37,2362.2,-118.11

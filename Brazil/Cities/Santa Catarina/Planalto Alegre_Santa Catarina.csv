@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-25,Santa Catarina,Planalto Alegre,69.69,2,0,0.0,259,9,3.47,9024.39,313.59,9.02,2870,452.97,34.85,1149.82,34.85
+2021-05-26,Santa Catarina,Planalto Alegre,0.0,0,0,0.0,259,9,3.47,9024.39,313.59,9.02,2870,174.22,-69.69,1114.98,-34.84
+2021-05-25,Santa Catarina,Planalto Alegre,69.69,2,0,0.0,259,9,3.47,9024.39,313.59,9.02,2870,243.91,-139.37,1149.82,69.69
+2021-05-24,Santa Catarina,Planalto Alegre,0.0,0,0,0.0,257,9,3.5,8954.7,313.59,8.95,2870,383.28,-34.84,1080.13,-34.84
 2021-05-23,Santa Catarina,Planalto Alegre,0.0,0,0,0.0,257,9,3.5,8954.7,313.59,8.95,2870,418.12,-34.84,1114.97,0.0
 2021-05-22,Santa Catarina,Planalto Alegre,34.84,1,0,0.0,257,9,3.5,8954.7,313.59,8.95,2870,452.96,0.0,1114.97,34.84
 2021-05-21,Santa Catarina,Planalto Alegre,0.0,0,0,0.0,256,9,3.52,8919.86,313.59,8.92,2870,452.96,-243.9,1080.13,0.0

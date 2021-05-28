@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-25,Rio Grande do Sul,Severiano de Almeida,109.38,4,0,0.0,333,3,0.9,9105.82,82.03,9.11,3657,546.89,109.38,1148.44,54.69
+2021-05-26,Rio Grande do Sul,Severiano de Almeida,0.0,0,0,0.0,333,3,0.9,9105.82,82.03,9.11,3657,328.13,-109.38,1148.44,0.0
+2021-05-25,Rio Grande do Sul,Severiano de Almeida,109.38,4,0,0.0,333,3,0.9,9105.82,82.03,9.11,3657,437.51,0.0,1148.44,109.38
+2021-05-24,Rio Grande do Sul,Severiano de Almeida,0.0,0,0,0.0,329,3,0.91,8996.45,82.03,9.0,3657,437.51,0.0,1039.06,-54.69
 2021-05-23,Rio Grande do Sul,Severiano de Almeida,0.0,0,0,0.0,329,3,0.91,8996.45,82.03,9.0,3657,437.51,0.0,1093.75,-82.03
 2021-05-22,Rio Grande do Sul,Severiano de Almeida,136.72,5,0,0.0,329,3,0.91,8996.45,82.03,9.0,3657,437.51,54.69,1175.78,136.72
 2021-05-21,Rio Grande do Sul,Severiano de Almeida,27.34,1,0,0.0,324,3,0.93,8859.72,82.03,8.86,3657,382.82,27.34,1039.06,27.34
