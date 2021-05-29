@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-05-27,Goiás,Nova Aurora,0.0,0,0,0.0,170,5,2.94,7692.31,226.24,7.69,2210,407.24,0.0,904.99,45.25
+2021-05-26,Goiás,Nova Aurora,-45.25,-1,0,0.0,170,5,2.94,7692.31,226.24,7.69,2210,407.24,-90.5,859.74,-45.25
 2021-05-25,Goiás,Nova Aurora,135.75,3,-1,-45.25,171,5,2.92,7737.56,226.24,7.74,2210,497.74,0.0,904.99,90.5
 2021-05-24,Goiás,Nova Aurora,226.24,5,0,0.0,168,6,3.57,7601.81,271.49,7.6,2210,497.74,226.24,814.49,226.24
 2021-05-23,Goiás,Nova Aurora,0.0,0,0,0.0,163,6,3.68,7375.57,271.49,7.38,2210,271.5,0.0,588.25,0.0
