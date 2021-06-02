@@ -1,7 +1,10 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-31,Santa Catarina,Bela Vista do Toldo,0.0,0,1,15.78,72,3,4.17,1136.18,47.34,1.14,6337,15.78,-31.56,220.92,0.0
-2021-05-30,Santa Catarina,Bela Vista do Toldo,0.0,0,0,0.0,72,2,2.78,1136.18,31.56,1.14,6337,47.34,0.0,220.92,0.0
+2021-06-01,Santa Catarina,Bela Vista do Toldo,15.78,1,0,0.0,73,3,4.11,1151.96,47.34,1.15,6337,15.78,0.0,205.14,-15.78
+2021-05-31,Santa Catarina,Bela Vista do Toldo,0.0,0,1,15.78,72,3,4.17,1136.18,47.34,1.14,6337,15.78,0.0,220.92,0.0
+2021-05-30,Santa Catarina,Bela Vista do Toldo,0.0,0,0,0.0,72,2,2.78,1136.18,31.56,1.14,6337,15.78,0.0,220.92,0.0
+2021-05-29,Santa Catarina,Bela Vista do Toldo,0.0,0,0,0.0,72,2,2.78,1136.18,31.56,1.14,6337,15.78,-31.56,220.92,0.0
 2021-05-28,Santa Catarina,Bela Vista do Toldo,15.78,1,0,0.0,72,2,2.78,1136.18,31.56,1.14,6337,47.34,15.78,220.92,15.78
+2021-05-27,Santa Catarina,Bela Vista do Toldo,0.0,0,0,0.0,71,2,2.82,1120.4,31.56,1.12,6337,31.56,0.0,205.14,0.0
 2021-05-26,Santa Catarina,Bela Vista do Toldo,-15.78,-1,0,0.0,71,2,2.82,1120.4,31.56,1.12,6337,31.56,-31.56,205.14,-15.78
 2021-05-25,Santa Catarina,Bela Vista do Toldo,15.78,1,0,0.0,72,2,2.78,1136.18,31.56,1.14,6337,63.12,15.78,220.92,15.78
 2021-05-24,Santa Catarina,Bela Vista do Toldo,0.0,0,0,0.0,71,2,2.82,1120.4,31.56,1.12,6337,47.34,-31.56,205.14,0.0

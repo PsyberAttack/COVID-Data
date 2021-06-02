@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-01,California,Orange,1.95,62,0,0.0,272156,5065.0,1.86,8542.33,158.98,8.54,3185968,4018.72,13.54,0.32,53.76,-1.16
 2021-05-31,California,Orange,0.0,0,0,0.0,272094,5065.0,1.86,8540.39,158.98,8.54,3185968,4018.72,13.22,-0.85,54.92,-1.91
 2021-05-30,California,Orange,1.1,35,2,0.06,272094,5065.0,1.86,8540.39,158.98,8.54,3185968,4018.72,14.07,-0.69,56.83,-1.72
 2021-05-29,California,Orange,3.86,123,4,0.13,272059,5063.0,1.86,8539.29,158.92,8.54,3185968,4018.72,14.76,2.23,58.55,0.94
