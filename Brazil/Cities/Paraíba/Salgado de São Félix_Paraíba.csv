@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-30,Paraíba,Salgado de São Félix,8.24,1,0,0.0,652,12,1.84,5370.68,98.85,5.37,12140,172.98,0.0,354.21,8.24
+2021-05-31,Paraíba,Salgado de São Félix,0.0,0,0,0.0,652,12,1.84,5370.68,98.85,5.37,12140,172.98,0.0,329.5,-16.47
+2021-05-30,Paraíba,Salgado de São Félix,8.24,1,0,0.0,652,12,1.84,5370.68,98.85,5.37,12140,172.98,8.24,345.97,0.0
+2021-05-29,Paraíba,Salgado de São Félix,0.0,0,0,0.0,651,12,1.84,5362.44,98.85,5.36,12140,164.74,-8.24,345.97,0.0
 2021-05-28,Paraíba,Salgado de São Félix,32.95,4,0,0.0,651,12,1.84,5362.44,98.85,5.36,12140,172.98,24.71,345.97,32.95
 2021-05-27,Paraíba,Salgado de São Félix,49.42,6,0,0.0,647,12,1.85,5329.49,98.85,5.33,12140,148.27,41.18,313.02,49.42
 2021-05-26,Paraíba,Salgado de São Félix,32.95,4,0,0.0,641,12,1.87,5280.07,98.85,5.28,12140,107.09,-57.66,263.6,32.95

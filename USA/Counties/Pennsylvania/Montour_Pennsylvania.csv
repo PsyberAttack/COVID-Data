@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-02,Pennsylvania,Montour,0.0,0,1,5.48,2011,67.0,3.33,11025.22,367.32,11.03,18240,140.05,32.88,-5.48,224.73,-21.93
 2021-06-01,Pennsylvania,Montour,0.0,0,0,0.0,2011,66.0,3.28,11025.22,361.84,11.03,18240,140.05,38.36,0.0,246.66,-10.96
 2021-05-31,Pennsylvania,Montour,5.48,1,0,0.0,2011,66.0,3.28,11025.22,361.84,11.03,18240,140.05,38.36,0.0,257.62,5.48
 2021-05-30,Pennsylvania,Montour,10.96,2,0,0.0,2010,66.0,3.28,11019.74,361.84,11.02,18240,140.05,38.36,-10.97,252.14,5.48

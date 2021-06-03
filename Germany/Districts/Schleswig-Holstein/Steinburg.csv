@@ -1,4 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-02 00:00:00+00:00,Schleswig-Holstein,Steinburg,0.76,1,0,0.0,2351,39,1.66,1789.92,29.69,1.79,131347,12.17,-0.76,95.91,-8.38
+2021-06-01 00:00:00+00:00,Schleswig-Holstein,Steinburg,0.76,1,0,0.0,2350,39,1.66,1789.15,29.69,1.79,131347,12.93,0.76,104.29,-6.85
 2021-05-31 00:00:00+00:00,Schleswig-Holstein,Steinburg,0.76,1,0,0.0,2349,39,1.66,1788.39,29.69,1.79,131347,12.17,-3.05,111.14,-2.29
 2021-05-30 00:00:00+00:00,Schleswig-Holstein,Steinburg,5.33,7,0,0.0,2348,39,1.66,1787.63,29.69,1.79,131347,15.22,3.81,113.43,-3.04
 2021-05-29 00:00:00+00:00,Schleswig-Holstein,Steinburg,0.76,1,0,0.0,2341,39,1.67,1782.3,29.69,1.78,131347,11.41,-0.76,116.47,-5.33

@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-05-30,Paraíba,São João do Rio do Peixe,133.08,24,2,11.09,972,24,2.47,5389.82,133.08,5.39,18034,327.17,44.36,765.28,133.08
+2021-05-31,Paraíba,São João do Rio do Peixe,0.0,0,1,5.55,972,25,2.57,5389.82,138.63,5.39,18034,277.27,-27.73,743.11,-22.18
+2021-05-30,Paraíba,São João do Rio do Peixe,16.64,3,0,0.0,972,24,2.47,5389.82,133.08,5.39,18034,305.0,-5.54,765.29,16.64
+2021-05-29,Paraíba,São João do Rio do Peixe,116.45,21,2,11.09,969,24,2.48,5373.18,133.08,5.37,18034,310.54,27.73,748.65,116.45
 2021-05-28,Paraíba,São João do Rio do Peixe,0.0,0,0,0.0,948,22,2.32,5256.74,121.99,5.26,18034,282.81,-11.09,632.2,-22.18
 2021-05-27,Paraíba,São João do Rio do Peixe,72.09,13,1,5.55,948,22,2.32,5256.74,121.99,5.26,18034,293.9,66.54,654.38,72.09
 2021-05-26,Paraíba,São João do Rio do Peixe,66.54,12,0,0.0,935,21,2.25,5184.65,116.45,5.18,18034,227.36,60.99,582.29,55.45
