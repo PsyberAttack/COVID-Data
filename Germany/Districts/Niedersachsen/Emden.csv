@@ -1,4 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-03 00:00:00+00:00,Niedersachsen,Emden,1.99,1,0,0.0,1308,14,1.07,2605.84,27.89,2.61,50195,67.73,-29.89,502.03,-25.9
+2021-06-02 00:00:00+00:00,Niedersachsen,Emden,0.0,0,0,0.0,1307,14,1.07,2603.85,27.89,2.6,50195,97.62,-25.9,527.93,-15.94
 2021-06-01 00:00:00+00:00,Niedersachsen,Emden,17.93,9,0,0.0,1307,14,1.07,2603.85,27.89,2.6,50195,123.52,-13.95,543.87,1.99
 2021-05-31 00:00:00+00:00,Niedersachsen,Emden,29.88,15,0,0.0,1298,14,1.08,2585.91,27.89,2.59,50195,137.47,27.89,541.88,3.98
 2021-05-30 00:00:00+00:00,Niedersachsen,Emden,5.98,3,0,0.0,1283,14,1.09,2556.03,27.89,2.56,50195,109.58,5.98,537.9,-1.99
