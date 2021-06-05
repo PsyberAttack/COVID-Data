@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-03,California,Los Angeles,2.01,203,8,0.08,1245127,24375.0,1.96,12321.26,241.2,12.32,10105518,2490.15,11.3,-37.97,96.13,-1.69
 2021-06-02,California,Los Angeles,0.92,93,3,0.03,1244924,24367.0,1.96,12319.25,241.13,12.32,10105518,2490.15,49.27,-0.93,97.82,-0.78
 2021-06-01,California,Los Angeles,1.08,109,4,0.04,1244831,24364.0,1.96,12318.33,241.1,12.32,10105518,2490.15,50.2,-0.64,98.6,-1.07
 2021-05-31,California,Los Angeles,1.7,172,1,0.01,1244722,24360.0,1.96,12317.25,241.06,12.32,10105518,2490.15,50.84,0.33,99.67,-0.41
