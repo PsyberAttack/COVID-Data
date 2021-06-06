@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Minnesota,Jackson,10.09,1,0,0.0,1226,12.0,0.98,12370.09,121.08,12.37,9911,14.1,20.18,10.09,110.99,10.09
+2021-06-04,Minnesota,Jackson,0.0,0,0,0.0,1225,12.0,0.98,12360.0,121.08,12.36,9911,14.1,10.09,0.0,100.9,-10.09
 2021-06-03,Minnesota,Jackson,10.09,1,0,0.0,1225,12.0,0.98,12360.0,121.08,12.36,9911,14.1,10.09,0.0,110.99,-10.09
 2021-06-02,Minnesota,Jackson,0.0,0,0,0.0,1224,12.0,0.98,12349.91,121.08,12.35,9911,14.1,10.09,0.0,121.08,-30.27
 2021-06-01,Minnesota,Jackson,0.0,0,0,0.0,1224,12.0,0.98,12349.91,121.08,12.35,9911,14.1,10.09,0.0,151.35,-10.09

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Wisconsin,Washburn,0.0,0,0,0.0,1585,23.0,1.45,9982.37,144.85,9.98,15878,19.92,56.69,0.0,251.94,-12.6
+2021-06-04,Wisconsin,Washburn,12.6,2,0,0.0,1585,23.0,1.45,9982.37,144.85,9.98,15878,19.92,56.69,12.6,264.54,-37.78
 2021-06-03,Wisconsin,Washburn,0.0,0,0,0.0,1583,23.0,1.45,9969.77,144.85,9.97,15878,19.92,44.09,0.0,302.32,-31.49
 2021-06-02,Wisconsin,Washburn,6.3,1,0,0.0,1583,23.0,1.45,9969.77,144.85,9.97,15878,19.92,44.09,12.6,333.81,-6.3
 2021-06-01,Wisconsin,Washburn,6.3,1,0,0.0,1582,23.0,1.45,9963.47,144.85,9.96,15878,19.92,31.49,0.0,340.11,0.0

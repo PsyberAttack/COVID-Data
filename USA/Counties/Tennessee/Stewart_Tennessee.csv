@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Tennessee,Stewart,0.0,0,0,0.0,1359,28.0,2.06,10021.38,206.47,10.02,13561,29.49,22.12,0.0,250.72,0.0
+2021-06-04,Tennessee,Stewart,7.37,1,0,0.0,1359,28.0,2.06,10021.38,206.47,10.02,13561,29.49,22.12,7.37,250.72,0.0
 2021-06-03,Tennessee,Stewart,14.75,2,0,0.0,1358,28.0,2.06,10014.01,206.47,10.01,13561,29.49,14.75,29.5,250.72,7.38
 2021-06-02,Tennessee,Stewart,0.0,0,0,0.0,1356,28.0,2.06,9999.26,206.47,10.0,13561,29.49,-14.75,-29.5,243.34,-7.37
 2021-06-01,Tennessee,Stewart,0.0,0,0,0.0,1356,28.0,2.06,9999.26,206.47,10.0,13561,29.49,14.75,-7.37,250.71,0.0

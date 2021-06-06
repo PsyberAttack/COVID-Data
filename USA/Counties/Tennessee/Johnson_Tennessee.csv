@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Tennessee,Johnson,0.0,0,0,0.0,2438,39.0,1.6,13713.58,219.37,13.71,17778,59.57,0.0,0.0,174.36,0.0
+2021-06-04,Tennessee,Johnson,-5.62,-1,0,0.0,2438,39.0,1.6,13713.58,219.37,13.71,17778,59.57,0.0,-5.62,174.36,0.0
 2021-06-03,Tennessee,Johnson,0.0,0,0,0.0,2439,39.0,1.6,13719.2,219.37,13.72,17778,59.57,5.62,-22.5,174.36,-95.62
 2021-06-02,Tennessee,Johnson,5.62,1,0,0.0,2439,39.0,1.6,13719.2,219.37,13.72,17778,59.57,28.12,0.0,269.98,-11.25
 2021-06-01,Tennessee,Johnson,0.0,0,0,0.0,2438,39.0,1.6,13713.58,219.37,13.71,17778,59.57,28.12,-11.25,281.23,-11.25

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,California,San Bernardino,0.6,13,6,0.28,298656,4768.0,1.6,13752.79,219.56,13.75,2171603,108.26,16.91,0.6,98.66,-3.5
+2021-06-04,California,San Bernardino,2.03,44,2,0.09,298643,4762.0,1.59,13752.19,219.29,13.75,2171603,108.26,16.31,-7.5,102.16,-2.62
 2021-06-03,California,San Bernardino,2.49,54,2,0.09,298599,4760.0,1.59,13750.17,219.19,13.75,2171603,108.26,23.81,-8.29,104.78,-0.6
 2021-06-02,California,San Bernardino,0.0,0,0,0.0,298545,4758.0,1.59,13747.68,219.1,13.75,2171603,108.26,32.1,-7.37,105.38,-3.18
 2021-06-01,California,San Bernardino,11.79,256,0,0.0,298545,4758.0,1.59,13747.68,219.1,13.75,2171603,108.26,39.47,8.43,108.56,9.86

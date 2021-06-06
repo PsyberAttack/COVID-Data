@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Louisiana,St. Landry,0.0,0,0,0.0,9057,260.0,2.87,10943.16,314.15,10.94,82764,89.58,0.0,0.0,194.54,0.0
+2021-06-04,Louisiana,St. Landry,4.83,4,1,1.21,9057,260.0,2.87,10943.16,314.15,10.94,82764,89.58,0.0,-2.42,194.54,-21.75
 2021-06-03,Louisiana,St. Landry,-22.96,-19,0,0.0,9053,259.0,2.86,10938.33,312.94,10.94,82764,89.58,2.42,-43.5,216.29,-35.04
 2021-06-02,Louisiana,St. Landry,2.42,2,0,0.0,9072,259.0,2.85,10961.29,312.94,10.96,82764,89.58,45.92,7.25,251.33,-18.12
 2021-06-01,Louisiana,St. Landry,15.71,13,0,0.0,9070,259.0,2.86,10958.87,312.94,10.96,82764,89.58,38.67,-32.62,269.45,-10.87

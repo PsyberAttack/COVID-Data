@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Louisiana,Ouachita,0.0,0,0,0.0,18821,457.0,2.43,12183.85,295.84,12.18,154475,253.07,31.72,0.0,257.0,0.0
+2021-06-04,Louisiana,Ouachita,9.06,14,0,0.0,18821,457.0,2.43,12183.85,295.84,12.18,154475,253.07,31.72,2.59,257.0,-9.71
 2021-06-03,Louisiana,Ouachita,0.65,1,2,1.29,18807,457.0,2.43,12174.79,295.84,12.17,154475,253.07,29.13,-18.12,266.71,-8.41
 2021-06-02,Louisiana,Ouachita,5.83,9,0,0.0,18806,455.0,2.42,12174.14,294.55,12.17,154475,253.07,47.25,-6.47,275.12,-8.41
 2021-06-01,Louisiana,Ouachita,16.18,25,1,0.65,18797,455.0,2.42,12168.31,294.55,12.17,154475,253.07,53.72,-4.54,283.53,-13.6

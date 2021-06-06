@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,North Carolina,Warren,0.0,0,0,0.0,1808,20.0,1.11,9128.09,100.97,9.13,19807,46.16,30.29,0.0,95.93,0.0
+2021-06-04,North Carolina,Warren,5.05,1,0,0.0,1808,20.0,1.11,9128.09,100.97,9.13,19807,46.16,30.29,10.1,95.93,-20.19
 2021-06-03,North Carolina,Warren,5.05,1,0,0.0,1807,20.0,1.11,9123.04,100.97,9.12,19807,46.16,20.19,0.0,116.12,-10.1
 2021-06-02,North Carolina,Warren,0.0,0,0,0.0,1806,20.0,1.11,9117.99,100.97,9.12,19807,46.16,20.19,-5.05,126.22,0.0
 2021-06-01,North Carolina,Warren,20.19,4,0,0.0,1806,20.0,1.11,9117.99,100.97,9.12,19807,46.16,25.24,15.14,126.22,15.14

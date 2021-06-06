@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Louisiana,Lincoln,0.0,0,0,0.0,4604,93.0,2.02,9755.06,197.05,9.76,47196,100.05,48.74,0.0,207.64,0.0
+2021-06-04,Louisiana,Lincoln,6.36,3,0,0.0,4604,93.0,2.02,9755.06,197.05,9.76,47196,100.05,48.74,-6.35,207.64,-25.42
 2021-06-03,Louisiana,Lincoln,-2.12,-1,0,0.0,4601,93.0,2.02,9748.71,197.05,9.75,47196,100.05,55.09,6.36,233.06,-6.36
 2021-06-02,Louisiana,Lincoln,23.31,11,0,0.0,4602,93.0,2.02,9750.83,197.05,9.75,47196,100.05,48.73,6.36,239.42,10.6
 2021-06-01,Louisiana,Lincoln,21.19,10,0,0.0,4591,93.0,2.03,9727.52,197.05,9.73,47196,100.05,42.37,27.55,228.82,23.31

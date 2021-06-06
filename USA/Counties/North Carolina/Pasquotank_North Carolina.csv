@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,North Carolina,Pasquotank,0.0,0,0,0.0,3432,84.0,2.45,8658.14,211.91,8.66,39639,174.71,47.93,0.0,194.26,0.0
+2021-06-04,North Carolina,Pasquotank,7.57,3,0,0.0,3432,84.0,2.45,8658.14,211.91,8.66,39639,174.71,47.93,0.0,194.26,-7.57
 2021-06-03,North Carolina,Pasquotank,7.57,3,0,0.0,3429,84.0,2.45,8650.57,211.91,8.65,39639,174.71,47.93,-2.52,201.83,-60.54
 2021-06-02,North Carolina,Pasquotank,2.52,1,1,2.52,3426,84.0,2.45,8643.0,211.91,8.64,39639,174.71,50.45,0.0,262.37,-17.66
 2021-06-01,North Carolina,Pasquotank,30.27,12,0,0.0,3425,83.0,2.42,8640.48,209.39,8.64,39639,174.71,50.45,30.27,280.03,20.18

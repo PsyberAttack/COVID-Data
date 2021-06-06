@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,New York,New York City,4.4,362,3,0.04,950676,33280.0,3.5,11550.94,404.36,11.55,8230290,0.0,22.4,0.34,173.94,-8.83
+2021-06-04,New York,New York City,3.99,328,20,0.24,950314,33277.0,3.5,11546.54,404.32,11.55,8230290,0.0,22.06,-0.66,182.77,-7.98
 2021-06-03,New York,New York City,2.34,193,12,0.15,949986,33257.0,3.5,11542.56,404.08,11.54,8230290,0.0,22.72,-3.91,190.75,-10.89
 2021-06-02,New York,New York City,1.7,140,5,0.06,949793,33245.0,3.5,11540.21,403.93,11.54,8230290,0.0,26.63,-1.85,201.64,-10.64
 2021-06-01,New York,New York City,3.2,263,18,0.22,949653,33240.0,3.5,11538.51,403.87,11.54,8230290,0.0,28.48,-2.46,212.28,-7.65

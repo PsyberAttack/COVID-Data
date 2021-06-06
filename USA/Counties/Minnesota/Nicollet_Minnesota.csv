@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Minnesota,Nicollet,2.92,1,0,0.0,3309,45.0,1.36,9669.78,131.5,9.67,34220,76.27,17.52,-5.85,251.28,-14.61
+2021-06-04,Minnesota,Nicollet,5.84,2,1,2.92,3308,45.0,1.36,9666.86,131.5,9.67,34220,76.27,23.37,0.0,265.89,-2.93
 2021-06-03,Minnesota,Nicollet,2.92,1,0,0.0,3306,44.0,1.33,9661.02,128.58,9.66,34220,76.27,23.37,-8.77,268.82,-11.69
 2021-06-02,Minnesota,Nicollet,2.92,1,0,0.0,3305,44.0,1.33,9658.09,128.58,9.66,34220,76.27,32.14,0.0,280.51,-17.54
 2021-06-01,Minnesota,Nicollet,0.0,0,0,0.0,3304,44.0,1.33,9655.17,128.58,9.66,34220,76.27,32.14,0.0,298.05,-8.77

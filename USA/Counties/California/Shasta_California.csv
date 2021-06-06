@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,California,Shasta,0.0,0,0,0.0,12467,230.0,1.84,6924.57,127.75,6.92,180040,47.69,32.22,0.0,219.94,0.0
+2021-06-04,California,Shasta,11.66,21,0,0.0,12467,230.0,1.84,6924.57,127.75,6.92,180040,47.69,32.22,11.66,219.94,-4.45
 2021-06-03,California,Shasta,0.56,1,0,0.0,12446,230.0,1.85,6912.91,127.75,6.91,180040,47.69,20.56,-11.1,224.39,-26.1
 2021-06-02,California,Shasta,0.0,0,0,0.0,12445,230.0,1.85,6912.35,127.75,6.91,180040,47.69,31.66,0.0,250.49,-32.22
 2021-06-01,California,Shasta,20.0,36,1,0.56,12445,230.0,1.85,6912.35,127.75,6.91,180040,47.69,31.66,4.45,282.71,0.56

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Indiana,Huntington,8.28,3,0,0.0,4015,83.0,2.07,11078.92,229.03,11.08,36240,94.71,27.6,-5.52,303.6,-19.31
+2021-06-04,Indiana,Huntington,2.76,1,0,0.0,4012,83.0,2.07,11070.64,229.03,11.07,36240,94.71,33.12,-16.56,322.91,-41.39
 2021-06-03,Indiana,Huntington,5.52,2,0,0.0,4011,83.0,2.07,11067.88,229.03,11.07,36240,94.71,49.68,-2.76,364.3,-8.28
 2021-06-02,Indiana,Huntington,0.0,0,1,2.76,4009,83.0,2.07,11062.36,229.03,11.06,36240,94.71,52.44,-5.52,372.58,-16.56
 2021-06-01,Indiana,Huntington,8.28,3,0,0.0,4009,82.0,2.05,11062.36,226.27,11.06,36240,94.71,57.96,-5.52,389.14,-5.52

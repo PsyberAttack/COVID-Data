@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Florida,Hillsborough,0.0,0,0,0.0,143624,1832.0,1.28,9995.49,127.5,10.0,1436888,1406.17,61.87,0.0,394.89,-20.81
+2021-06-04,Florida,Hillsborough,0.0,0,0,0.0,143624,1832.0,1.28,9995.49,127.5,10.0,1436888,1406.17,61.87,-17.26,415.7,-23.45
 2021-06-03,Florida,Hillsborough,15.8,227,2,0.14,143624,1832.0,1.28,9995.49,127.5,10.0,1436888,1406.17,79.13,-0.07,439.15,-13.22
 2021-06-02,Florida,Hillsborough,11.2,161,2,0.14,143397,1830.0,1.28,9979.69,127.36,9.98,1436888,1406.17,79.2,-5.85,452.37,-15.94
 2021-06-01,Florida,Hillsborough,34.87,501,4,0.28,143236,1828.0,1.28,9968.49,127.22,9.97,1436888,1406.17,85.05,22.27,468.31,14.69

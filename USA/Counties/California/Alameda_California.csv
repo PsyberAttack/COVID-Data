@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,California,Alameda,2.28,38,0,0.0,89150,1693.0,1.9,5348.72,101.57,5.35,1666753,2260.62,14.16,-1.08,92.64,-3.72
+2021-06-04,California,Alameda,3.96,66,0,0.0,89112,1693.0,1.9,5346.44,101.57,5.35,1666753,2260.62,15.24,0.12,96.36,-0.72
 2021-06-03,California,Alameda,3.3,55,0,0.0,89046,1693.0,1.9,5342.48,101.57,5.34,1666753,2260.62,15.12,-0.66,97.08,1.2
 2021-06-02,California,Alameda,0.9,15,0,0.0,88991,1693.0,1.9,5339.18,101.57,5.34,1666753,2260.62,15.78,-1.62,95.88,-1.86
 2021-06-01,California,Alameda,1.56,26,0,0.0,88976,1693.0,1.9,5338.28,101.57,5.34,1666753,2260.62,17.4,-5.64,97.74,-30.96

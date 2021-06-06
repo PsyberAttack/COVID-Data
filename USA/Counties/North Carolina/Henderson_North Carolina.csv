@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,North Carolina,Henderson,0.0,0,0,0.0,10286,160.0,1.56,8810.43,137.05,8.81,116748,313.06,12.84,0.0,131.02,0.0
+2021-06-04,North Carolina,Henderson,4.28,5,0,0.0,10286,160.0,1.56,8810.43,137.05,8.81,116748,313.06,12.84,0.85,131.02,-9.42
 2021-06-03,North Carolina,Henderson,4.28,5,-1,-0.86,10281,160.0,1.56,8806.15,137.05,8.81,116748,313.06,11.99,0.85,140.44,-10.28
 2021-06-02,North Carolina,Henderson,2.57,3,0,0.0,10276,161.0,1.57,8801.86,137.9,8.8,116748,313.06,11.14,3.43,150.72,-4.28
 2021-06-01,North Carolina,Henderson,1.71,2,0,0.0,10273,161.0,1.57,8799.29,137.9,8.8,116748,313.06,7.71,-0.86,155.0,-3.43

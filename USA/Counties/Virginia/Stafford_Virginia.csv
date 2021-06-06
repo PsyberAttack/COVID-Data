@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Virginia,Stafford,7.34,11,0,0.0,11444,81.0,0.71,7631.37,54.01,7.63,149960,557.05,28.69,6.67,157.39,-1.33
+2021-06-04,Virginia,Stafford,-1.33,-2,0,0.0,11433,81.0,0.71,7624.03,54.01,7.62,149960,557.05,22.02,0.0,158.72,-12.67
 2021-06-03,Virginia,Stafford,4.67,7,0,0.0,11435,81.0,0.71,7625.37,54.01,7.63,149960,557.05,22.02,-1.33,171.39,-10.67
 2021-06-02,Virginia,Stafford,7.34,11,1,0.67,11428,81.0,0.71,7620.7,54.01,7.62,149960,557.05,23.35,4.67,182.06,-7.33
 2021-06-01,Virginia,Stafford,2.0,3,0,0.0,11417,80.0,0.7,7613.36,53.35,7.61,149960,557.05,18.68,-5.34,189.39,-11.34

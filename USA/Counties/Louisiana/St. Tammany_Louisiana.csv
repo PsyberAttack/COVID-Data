@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Louisiana,St. Tammany,0.0,0,0,0.0,26049,528.0,2.03,10092.17,204.56,10.09,258111,305.01,37.98,0.0,144.13,0.0
+2021-06-04,Louisiana,St. Tammany,5.04,13,0,0.0,26049,528.0,2.03,10092.17,204.56,10.09,258111,305.01,37.98,3.49,144.13,1.17
 2021-06-03,Louisiana,St. Tammany,5.04,13,1,0.39,26036,528.0,2.03,10087.13,204.56,10.09,258111,305.01,34.49,-5.81,142.96,-0.38
 2021-06-02,Louisiana,St. Tammany,24.41,63,0,0.0,26023,527.0,2.03,10082.1,204.18,10.08,258111,305.01,40.3,21.31,143.34,11.24
 2021-06-01,Louisiana,St. Tammany,3.49,9,2,0.77,25960,527.0,2.03,10057.69,204.18,10.06,258111,305.01,18.99,-5.81,132.1,-6.2

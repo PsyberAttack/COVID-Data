@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,North Carolina,Alleghany,0.0,0,0,0.0,1080,5.0,0.46,9676.55,44.8,9.68,11161,47.61,71.68,0.0,394.24,0.0
+2021-06-04,North Carolina,Alleghany,17.92,2,0,0.0,1080,5.0,0.46,9676.55,44.8,9.68,11161,47.61,71.68,8.96,394.24,-26.88
 2021-06-03,North Carolina,Alleghany,35.84,4,0,0.0,1078,5.0,0.46,9658.63,44.8,9.66,11161,47.61,62.72,26.88,421.12,-8.96
 2021-06-02,North Carolina,Alleghany,8.96,1,0,0.0,1074,5.0,0.47,9622.79,44.8,9.62,11161,47.61,35.84,0.0,430.08,-8.96
 2021-06-01,North Carolina,Alleghany,8.96,1,0,0.0,1073,5.0,0.47,9613.83,44.8,9.61,11161,47.61,35.84,-8.96,439.04,-17.92

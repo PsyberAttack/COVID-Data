@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,New York,Clinton,0.0,0,0,0.0,4833,33.0,0.68,5989.22,40.89,5.99,80695,77.76,7.44,0.0,94.21,-7.44
+2021-06-04,New York,Clinton,1.24,1,0,0.0,4833,33.0,0.68,5989.22,40.89,5.99,80695,77.76,7.44,0.0,101.65,-7.43
 2021-06-03,New York,Clinton,0.0,0,0,0.0,4832,33.0,0.68,5987.98,40.89,5.99,80695,77.76,7.44,-2.48,109.08,-16.11
 2021-06-02,New York,Clinton,2.48,2,0,0.0,4832,33.0,0.68,5987.98,40.89,5.99,80695,77.76,9.92,2.48,125.19,-11.15
 2021-06-01,New York,Clinton,0.0,0,0,0.0,4830,33.0,0.68,5985.5,40.89,5.99,80695,77.76,7.44,0.0,136.34,-8.67

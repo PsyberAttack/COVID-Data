@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,South Carolina,Hampton,0.0,0,0,0.0,1929,52.0,2.7,9968.48,268.72,9.97,19351,34.56,-10.34,0.0,98.2,-5.17
+2021-06-04,South Carolina,Hampton,0.0,0,1,5.17,1929,52.0,2.7,9968.48,268.72,9.97,19351,34.56,-10.34,-5.17,103.37,-5.17
 2021-06-03,South Carolina,Hampton,-5.17,-1,0,0.0,1929,51.0,2.64,9968.48,263.55,9.97,19351,34.56,-5.17,-10.34,108.54,-15.51
 2021-06-02,South Carolina,Hampton,0.0,0,0,0.0,1930,51.0,2.64,9973.64,263.55,9.97,19351,34.56,5.17,5.17,124.05,-10.34
 2021-06-01,South Carolina,Hampton,0.0,0,0,0.0,1930,51.0,2.64,9973.64,263.55,9.97,19351,34.56,-0.0,0.0,134.39,0.0

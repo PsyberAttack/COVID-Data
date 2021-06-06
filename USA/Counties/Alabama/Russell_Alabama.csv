@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Alabama,Russell,0.0,0,0,0.0,4522,41.0,0.91,7826.1,70.96,7.83,57781,90.12,29.42,0.0,198.99,-1.73
+2021-06-04,Alabama,Russell,1.73,1,0,0.0,4522,41.0,0.91,7826.1,70.96,7.83,57781,90.12,29.42,-6.92,200.72,-8.65
 2021-06-03,Alabama,Russell,3.46,2,0,0.0,4521,41.0,0.91,7824.37,70.96,7.82,57781,90.12,36.34,-8.65,209.37,-24.23
 2021-06-02,Alabama,Russell,8.65,5,1,1.73,4519,41.0,0.91,7820.91,70.96,7.82,57781,90.12,44.99,3.46,233.6,0.0
 2021-06-01,Alabama,Russell,15.58,9,0,0.0,4514,40.0,0.89,7812.26,69.23,7.81,57781,90.12,41.53,10.39,233.6,15.58

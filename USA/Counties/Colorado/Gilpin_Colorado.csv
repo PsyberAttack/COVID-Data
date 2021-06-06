@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Colorado,Gilpin,16.34,1,0,0.0,272,3.0,1.1,4443.72,49.01,4.44,6121,40.83,98.03,0.0,588.14,16.34
+2021-06-04,Colorado,Gilpin,0.0,0,0,0.0,271,3.0,1.11,4427.38,49.01,4.43,6121,40.83,98.03,-32.67,571.8,-32.67
 2021-06-03,Colorado,Gilpin,16.34,1,0,0.0,271,3.0,1.11,4427.38,49.01,4.43,6121,40.83,130.7,16.34,604.47,16.34
 2021-06-02,Colorado,Gilpin,0.0,0,0,0.0,270,3.0,1.11,4411.04,49.01,4.41,6121,40.83,114.36,-32.67,588.13,-16.34
 2021-06-01,Colorado,Gilpin,16.34,1,0,0.0,270,3.0,1.11,4411.04,49.01,4.41,6121,40.83,147.03,-65.35,604.47,-16.33

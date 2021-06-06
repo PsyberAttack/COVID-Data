@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Wisconsin,Kewaunee,0.0,0,0,0.0,2714,36.0,1.33,13315.02,176.62,13.32,20383,59.52,9.81,0.0,127.55,-14.72
+2021-06-04,Wisconsin,Kewaunee,-4.91,-1,0,0.0,2714,36.0,1.33,13315.02,176.62,13.32,20383,59.52,9.81,0.0,142.27,-19.63
 2021-06-03,Wisconsin,Kewaunee,4.91,1,0,0.0,2715,36.0,1.33,13319.92,176.62,13.32,20383,59.52,9.81,-9.81,161.9,-4.9
 2021-06-02,Wisconsin,Kewaunee,9.81,2,0,0.0,2714,36.0,1.33,13315.02,176.62,13.32,20383,59.52,19.62,0.0,166.8,0.0
 2021-06-01,Wisconsin,Kewaunee,0.0,0,0,0.0,2712,36.0,1.33,13305.21,176.62,13.31,20383,59.52,19.62,0.0,166.8,-14.72

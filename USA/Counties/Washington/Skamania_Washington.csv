@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Washington,Skamania,16.77,2,0,0.0,368,2.0,0.54,3086.21,16.77,3.09,11924,7.19,75.48,8.38,260.0,0.0
+2021-06-04,Washington,Skamania,8.39,1,0,0.0,366,2.0,0.55,3069.44,16.77,3.07,11924,7.19,67.1,8.39,260.0,-33.54
 2021-06-03,Washington,Skamania,25.16,3,0,0.0,365,2.0,0.55,3061.05,16.77,3.06,11924,7.19,58.71,16.77,293.54,16.77
 2021-06-02,Washington,Skamania,8.39,1,0,0.0,362,2.0,0.55,3035.89,16.77,3.04,11924,7.19,41.94,0.0,276.77,-16.77
 2021-06-01,Washington,Skamania,16.77,2,1,8.39,361,2.0,0.55,3027.51,16.77,3.03,11924,7.19,41.94,8.38,293.54,-25.16

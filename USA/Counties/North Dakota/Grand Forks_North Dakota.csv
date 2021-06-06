@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,North Dakota,Grand Forks,2.83,2,1,1.41,10691,79.0,0.74,15106.68,111.63,15.11,70770,49.28,12.72,-1.41,159.71,-11.3
+2021-06-04,North Dakota,Grand Forks,2.83,2,0,0.0,10689,78.0,0.73,15103.86,110.22,15.1,70770,49.28,14.13,0.0,171.01,-1.41
 2021-06-03,North Dakota,Grand Forks,2.83,2,1,1.41,10687,78.0,0.73,15101.03,110.22,15.1,70770,49.28,14.13,2.83,172.42,-7.06
 2021-06-02,North Dakota,Grand Forks,1.41,1,0,0.0,10685,77.0,0.72,15098.21,108.8,15.1,70770,49.28,11.3,-5.66,179.48,-7.07
 2021-06-01,North Dakota,Grand Forks,1.41,1,0,0.0,10684,77.0,0.72,15096.79,108.8,15.1,70770,49.28,16.96,-9.89,186.55,-12.72

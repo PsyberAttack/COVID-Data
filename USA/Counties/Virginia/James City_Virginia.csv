@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Virginia,James City,1.31,1,0,0.0,4646,72.0,1.55,6081.39,94.24,6.08,76397,536.63,15.71,0.0,82.47,-2.62
+2021-06-04,Virginia,James City,1.31,1,0,0.0,4645,72.0,1.55,6080.08,94.24,6.08,76397,536.63,15.71,3.93,85.09,-5.23
 2021-06-03,Virginia,James City,2.62,2,0,0.0,4644,72.0,1.55,6078.77,94.24,6.08,76397,536.63,11.78,-1.31,90.32,-5.23
 2021-06-02,Virginia,James City,1.31,1,0,0.0,4642,72.0,1.55,6076.15,94.24,6.08,76397,536.63,13.09,3.93,95.55,-2.62
 2021-06-01,Virginia,James City,-1.31,-1,0,0.0,4641,72.0,1.55,6074.85,94.24,6.07,76397,536.63,9.16,-18.33,98.17,-11.78

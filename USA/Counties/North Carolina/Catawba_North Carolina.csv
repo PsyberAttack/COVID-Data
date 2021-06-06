@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,North Carolina,Catawba,0.0,0,0,0.0,19697,307.0,1.56,12415.22,193.51,12.42,158652,395.27,32.77,0.0,231.31,0.0
+2021-06-04,North Carolina,Catawba,8.19,13,0,0.0,19697,307.0,1.56,12415.22,193.51,12.42,158652,395.27,32.77,-0.63,231.31,-11.35
 2021-06-03,North Carolina,Catawba,8.19,13,0,0.0,19684,307.0,1.56,12407.03,193.51,12.41,158652,395.27,33.4,0.63,242.66,-6.31
 2021-06-02,North Carolina,Catawba,-0.63,-1,0,0.0,19671,307.0,1.56,12398.84,193.51,12.4,158652,395.27,32.77,-6.93,248.97,-9.45
 2021-06-01,North Carolina,Catawba,17.02,27,2,1.26,19672,307.0,1.56,12399.47,193.51,12.4,158652,395.27,39.7,12.61,258.42,4.41

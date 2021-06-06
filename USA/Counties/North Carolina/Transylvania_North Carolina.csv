@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,North Carolina,Transylvania,0.0,0,0,0.0,2385,33.0,1.38,6970.63,96.45,6.97,34215,90.41,-52.62,0.0,78.93,0.0
+2021-06-04,North Carolina,Transylvania,-5.85,-2,0,0.0,2385,33.0,1.38,6970.63,96.45,6.97,34215,90.41,-52.62,5.84,78.93,-26.31
 2021-06-03,North Carolina,Transylvania,-43.84,-15,0,0.0,2387,33.0,1.38,6976.47,96.45,6.98,34215,90.41,-58.46,-40.92,105.24,-46.76
 2021-06-02,North Carolina,Transylvania,2.92,1,0,0.0,2402,33.0,1.37,7020.31,96.45,7.02,34215,90.41,-17.54,-2.93,152.0,-8.77
 2021-06-01,North Carolina,Transylvania,-5.85,-2,0,0.0,2401,33.0,1.37,7017.39,96.45,7.02,34215,90.41,-14.61,-11.7,160.77,-8.77

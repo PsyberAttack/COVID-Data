@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Arkansas,Baxter,0.0,0,0,0.0,3211,104.0,3.24,7715.23,249.89,7.72,41619,75.09,19.22,0.0,81.68,-19.22
+2021-06-04,Arkansas,Baxter,7.21,3,0,0.0,3211,104.0,3.24,7715.23,249.89,7.72,41619,75.09,19.22,2.4,100.9,0.0
 2021-06-03,Arkansas,Baxter,7.21,3,0,0.0,3208,104.0,3.24,7708.02,249.89,7.71,41619,75.09,16.82,4.81,100.9,0.0
 2021-06-02,Arkansas,Baxter,2.4,1,0,0.0,3205,104.0,3.24,7700.81,249.89,7.7,41619,75.09,12.01,0.0,100.9,2.4
 2021-06-01,Arkansas,Baxter,2.4,1,0,0.0,3204,104.0,3.25,7698.41,249.89,7.7,41619,75.09,12.01,-12.02,98.5,-7.21

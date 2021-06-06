@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Florida,Okeechobee,0.0,0,0,0.0,4187,89.0,2.13,10080.17,214.27,10.08,41537,54.02,60.18,0.0,399.61,-12.04
+2021-06-04,Florida,Okeechobee,0.0,0,0,0.0,4187,89.0,2.13,10080.17,214.27,10.08,41537,54.02,60.18,-9.63,411.65,-12.04
 2021-06-03,Florida,Okeechobee,7.22,3,0,0.0,4187,89.0,2.13,10080.17,214.27,10.08,41537,54.02,69.81,-2.41,423.69,-19.26
 2021-06-02,Florida,Okeechobee,9.63,4,0,0.0,4184,89.0,2.13,10072.95,214.27,10.07,41537,54.02,72.22,-7.22,442.95,-4.81
 2021-06-01,Florida,Okeechobee,43.33,18,0,0.0,4180,89.0,2.13,10063.32,214.27,10.06,41537,54.02,79.44,24.07,447.76,28.89

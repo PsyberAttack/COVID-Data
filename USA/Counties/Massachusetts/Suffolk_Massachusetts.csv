@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Massachusetts,Suffolk,4.34,35,1,0.12,92866,1842.0,1.98,11503.97,228.18,11.5,807252,13859.48,16.23,0.62,150.65,-8.67
+2021-06-04,Massachusetts,Suffolk,3.84,31,3,0.37,92831,1841.0,1.98,11499.63,228.06,11.5,807252,13859.48,15.61,-1.86,159.32,-9.29
 2021-06-03,Massachusetts,Suffolk,3.84,31,0,0.0,92800,1838.0,1.98,11495.79,227.69,11.5,807252,13859.48,17.47,-0.37,168.61,-10.78
 2021-06-02,Massachusetts,Suffolk,0.74,6,0,0.0,92769,1838.0,1.98,11491.95,227.69,11.49,807252,13859.48,17.84,-5.95,179.39,-12.27
 2021-06-01,Massachusetts,Suffolk,2.48,20,0,0.0,92763,1838.0,1.98,11491.21,227.69,11.49,807252,13859.48,23.79,0.62,191.66,-7.18

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Tennessee,Hawkins,0.0,0,0,0.0,6297,112.0,1.78,11139.22,198.12,11.14,56530,116.07,35.39,0.0,389.17,0.0
+2021-06-04,Tennessee,Hawkins,5.31,3,0,0.0,6297,112.0,1.78,11139.22,198.12,11.14,56530,116.07,35.39,0.0,389.17,-42.45
 2021-06-03,Tennessee,Hawkins,19.46,11,0,0.0,6294,112.0,1.78,11133.91,198.12,11.13,56530,116.07,35.39,3.54,431.62,-49.53
 2021-06-02,Tennessee,Hawkins,7.08,4,0,0.0,6283,112.0,1.78,11114.45,198.12,11.11,56530,116.07,31.85,-21.22,481.15,-3.53
 2021-06-01,Tennessee,Hawkins,3.54,2,2,3.54,6279,112.0,1.78,11107.38,198.12,11.11,56530,116.07,53.07,-26.53,484.68,-5.3

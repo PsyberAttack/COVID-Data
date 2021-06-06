@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Washington,Whitman,0.0,0,0,0.0,4351,49.0,1.13,8738.53,98.41,8.74,49791,23.06,36.16,0.0,156.68,0.0
+2021-06-04,Washington,Whitman,18.08,9,0,0.0,4351,49.0,1.13,8738.53,98.41,8.74,49791,23.06,36.16,8.04,156.68,-36.15
 2021-06-03,Washington,Whitman,14.06,7,0,0.0,4342,49.0,1.13,8720.45,98.41,8.72,49791,23.06,28.12,12.05,192.83,14.06
 2021-06-02,Washington,Whitman,0.0,0,0,0.0,4335,49.0,1.13,8706.39,98.41,8.71,49791,23.06,16.07,-4.02,178.77,-8.03
 2021-06-01,Washington,Whitman,4.02,2,0,0.0,4335,49.0,1.13,8706.39,98.41,8.71,49791,23.06,20.09,-2.01,186.8,4.02

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Missouri,St. Louis city,7.93,24,1,0.33,25059,515.0,2.06,8274.72,170.06,8.27,302838,4904.77,38.31,1.33,217.62,-4.62
+2021-06-04,Missouri,St. Louis city,0.0,0,0,0.0,25035,514.0,2.05,8266.8,169.73,8.27,302838,4904.77,36.98,0.0,222.24,-11.56
 2021-06-03,Missouri,St. Louis city,9.58,29,0,0.0,25035,514.0,2.05,8266.8,169.73,8.27,302838,4904.77,36.98,-4.29,233.8,-6.27
 2021-06-02,Missouri,St. Louis city,9.58,29,1,0.33,25006,514.0,2.06,8257.22,169.73,8.26,302838,4904.77,41.27,-0.66,240.07,-1.65
 2021-06-01,Missouri,St. Louis city,0.0,0,0,0.0,24977,513.0,2.05,8247.64,169.4,8.25,302838,4904.77,41.93,-5.61,241.72,-14.2

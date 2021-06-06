@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Pennsylvania,Montgomery,3.14,26,1,0.12,70189,1721.0,2.45,8470.75,207.7,8.47,828604,1715.69,22.08,0.0,154.96,-10.86
+2021-06-04,Pennsylvania,Montgomery,3.86,32,0,0.0,70163,1720.0,2.45,8467.62,207.58,8.47,828604,1715.69,22.08,0.24,165.82,-16.17
 2021-06-03,Pennsylvania,Montgomery,3.14,26,1,0.12,70131,1720.0,2.45,8463.75,207.58,8.46,828604,1715.69,21.84,-1.57,181.99,-10.74
 2021-06-02,Pennsylvania,Montgomery,2.29,19,3,0.36,70105,1719.0,2.45,8460.62,207.46,8.46,828604,1715.69,23.41,-3.02,192.73,-10.86
 2021-06-01,Pennsylvania,Montgomery,3.86,32,0,0.0,70086,1716.0,2.45,8458.32,207.1,8.46,828604,1715.69,26.43,5.67,203.59,-15.21

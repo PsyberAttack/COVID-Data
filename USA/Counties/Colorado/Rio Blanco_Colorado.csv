@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Colorado,Rio Blanco,0.0,0,0,0.0,586,4.0,0.68,9248.74,63.13,9.25,6336,1.97,15.78,0.0,236.73,0.0
+2021-06-04,Colorado,Rio Blanco,0.0,0,0,0.0,586,4.0,0.68,9248.74,63.13,9.25,6336,1.97,15.78,0.0,236.73,-15.78
 2021-06-03,Colorado,Rio Blanco,0.0,0,0,0.0,586,4.0,0.68,9248.74,63.13,9.25,6336,1.97,15.78,-63.13,252.51,0.0
 2021-06-02,Colorado,Rio Blanco,15.78,1,0,0.0,586,4.0,0.68,9248.74,63.13,9.25,6336,1.97,78.91,15.78,252.51,-31.57
 2021-06-01,Colorado,Rio Blanco,0.0,0,0,0.0,585,4.0,0.68,9232.95,63.13,9.23,6336,1.97,63.13,-15.78,284.08,-31.57

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Massachusetts,Berkshire,1.58,2,0,0.0,6529,287.0,4.4,5167.47,227.15,5.17,126348,136.32,-0.01,-0.79,85.47,-5.54
+2021-06-04,Massachusetts,Berkshire,0.79,1,1,0.79,6527,287.0,4.4,5165.89,227.15,5.17,126348,136.32,0.78,0.79,91.01,-14.25
 2021-06-03,Massachusetts,Berkshire,0.0,0,0,0.0,6526,286.0,4.38,5165.1,226.36,5.17,126348,136.32,-0.01,-3.96,105.26,-14.25
 2021-06-02,Massachusetts,Berkshire,0.0,0,0,0.0,6526,286.0,4.38,5165.1,226.36,5.17,126348,136.32,3.95,-5.54,119.51,-12.66
 2021-06-01,Massachusetts,Berkshire,0.79,1,0,0.0,6526,286.0,4.38,5165.1,226.36,5.17,126348,136.32,9.49,0.0,132.17,-7.92

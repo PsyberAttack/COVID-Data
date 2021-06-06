@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Ohio,Washington,3.32,2,0,0.0,5285,109.0,2.06,8785.64,181.2,8.79,60155,95.19,18.29,0.0,216.11,0.0
+2021-06-04,Ohio,Washington,6.65,4,0,0.0,5283,109.0,2.06,8782.31,181.2,8.78,60155,95.19,18.29,3.33,216.11,-1.66
 2021-06-03,Ohio,Washington,-3.32,-2,0,0.0,5279,109.0,2.06,8775.66,181.2,8.78,60155,95.19,14.96,-9.97,217.77,-19.94
 2021-06-02,Ohio,Washington,1.66,1,0,0.0,5281,109.0,2.06,8778.99,181.2,8.78,60155,95.19,24.93,0.0,237.71,0.0
 2021-06-01,Ohio,Washington,4.99,3,0,0.0,5280,109.0,2.06,8777.33,181.2,8.78,60155,95.19,24.93,-6.65,237.71,0.0

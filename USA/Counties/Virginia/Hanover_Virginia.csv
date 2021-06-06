@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Virginia,Hanover,1.86,2,0,0.0,8198,164.0,2.0,7644.61,152.93,7.64,107239,229.2,15.84,-2.8,167.81,0.93
+2021-06-04,Virginia,Hanover,-0.93,-1,0,0.0,8196,164.0,2.0,7642.74,152.93,7.64,107239,229.2,18.64,-2.79,166.88,-9.32
 2021-06-03,Virginia,Hanover,0.93,1,2,1.86,8197,164.0,2.0,7643.67,152.93,7.64,107239,229.2,21.43,-1.87,176.2,-3.73
 2021-06-02,Virginia,Hanover,2.8,3,1,0.93,8196,162.0,1.98,7642.74,151.06,7.64,107239,229.2,23.3,10.26,179.93,12.12
 2021-06-01,Virginia,Hanover,0.0,0,0,0.0,8193,161.0,1.97,7639.94,150.13,7.64,107239,229.2,13.04,-0.93,167.81,0.0

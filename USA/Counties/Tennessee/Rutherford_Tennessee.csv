@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Tennessee,Rutherford,0.0,0,0,0.0,43519,443.0,1.02,13395.0,136.35,13.39,324890,524.65,21.85,0.0,145.57,0.0
+2021-06-04,Tennessee,Rutherford,3.69,12,0,0.0,43519,443.0,1.02,13395.0,136.35,13.39,324890,524.65,21.85,1.54,145.57,-2.47
 2021-06-03,Tennessee,Rutherford,3.08,10,0,0.0,43507,443.0,1.02,13391.3,136.35,13.39,324890,524.65,20.31,-2.77,148.04,-8.31
 2021-06-02,Tennessee,Rutherford,4.0,13,0,0.0,43497,443.0,1.02,13388.22,136.35,13.39,324890,524.65,23.08,-0.92,156.35,-8.0
 2021-06-01,Tennessee,Rutherford,11.08,36,1,0.31,43484,443.0,1.02,13384.22,136.35,13.38,324890,524.65,24.0,9.54,164.35,3.39

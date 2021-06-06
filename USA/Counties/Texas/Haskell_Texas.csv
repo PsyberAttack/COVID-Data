@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Texas,Haskell,0.0,0,0,0.0,457,27.0,5.91,7861.69,464.48,7.86,5813,6.44,189.23,0.0,206.43,0.0
+2021-06-04,Texas,Haskell,0.0,0,0,0.0,457,27.0,5.91,7861.69,464.48,7.86,5813,6.44,189.23,-17.2,206.43,0.0
 2021-06-03,Texas,Haskell,0.0,0,0,0.0,457,27.0,5.91,7861.69,464.48,7.86,5813,6.44,206.43,0.0,206.43,0.0
 2021-06-02,Texas,Haskell,189.23,11,0,0.0,457,27.0,5.91,7861.69,464.48,7.86,5813,6.44,206.43,189.23,206.43,189.23
 2021-06-01,Texas,Haskell,0.0,0,0,0.0,446,27.0,6.05,7672.46,464.48,7.67,5813,6.44,17.2,0.0,17.2,0.0

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Louisiana,Webster,0.0,0,0,0.0,4181,113.0,2.7,10776.33,291.25,10.78,38798,65.41,12.89,0.0,172.7,0.0
+2021-06-04,Louisiana,Webster,-10.31,-4,0,0.0,4181,113.0,2.7,10776.33,291.25,10.78,38798,65.41,12.89,-23.2,172.7,-33.51
 2021-06-03,Louisiana,Webster,0.0,0,0,0.0,4185,113.0,2.7,10786.64,291.25,10.79,38798,65.41,36.09,-5.15,206.21,-12.89
 2021-06-02,Louisiana,Webster,2.58,1,0,0.0,4185,113.0,2.7,10786.64,291.25,10.79,38798,65.41,41.24,-28.35,219.1,-2.57
 2021-06-01,Louisiana,Webster,20.62,8,0,0.0,4184,113.0,2.7,10784.06,291.25,10.78,38798,65.41,69.59,2.58,221.67,33.51

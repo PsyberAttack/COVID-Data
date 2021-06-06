@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Maryland,Washington,1.99,3,0,0.0,14613,328.0,2.24,9682.23,217.33,9.68,150926,329.7,23.19,-2.65,177.56,-11.92
+2021-06-04,Maryland,Washington,3.31,5,0,0.0,14610,328.0,2.25,9680.24,217.33,9.68,150926,329.7,25.84,-3.32,189.48,-12.59
 2021-06-03,Maryland,Washington,3.98,6,0,0.0,14605,328.0,2.25,9676.93,217.33,9.68,150926,329.7,29.16,-3.97,202.07,-15.23
 2021-06-02,Maryland,Washington,5.3,8,0,0.0,14599,328.0,2.25,9672.95,217.33,9.67,150926,329.7,33.13,-0.66,217.3,-17.89
 2021-06-01,Maryland,Washington,0.66,1,0,0.0,14591,328.0,2.25,9667.65,217.33,9.67,150926,329.7,33.79,-3.32,235.19,-4.64

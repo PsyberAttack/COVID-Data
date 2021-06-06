@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Missouri,Putnam,651.67,31,0,0.0,459,4.0,0.87,9648.94,84.09,9.65,4757,9.2,1177.21,399.41,3300.39,630.65
+2021-06-04,Missouri,Putnam,252.26,12,0,0.0,428,4.0,0.93,8997.27,84.09,9.0,4757,9.2,777.8,126.13,2669.74,231.24
 2021-06-03,Missouri,Putnam,84.09,4,0,0.0,416,4.0,0.96,8745.01,84.09,8.75,4757,9.2,651.67,-273.28,2438.5,84.09
 2021-06-02,Missouri,Putnam,168.17,8,0,0.0,412,4.0,0.97,8660.92,84.09,8.66,4757,9.2,924.95,42.04,2354.41,168.17
 2021-06-01,Missouri,Putnam,0.0,0,0,0.0,404,4.0,0.99,8492.75,84.09,8.49,4757,9.2,882.91,-84.09,2186.24,-21.02

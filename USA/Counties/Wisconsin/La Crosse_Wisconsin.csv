@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Wisconsin,La Crosse,0.0,0,0,0.0,13581,89.0,0.66,11486.93,75.28,11.49,118230,261.7,-28.76,0.0,42.29,3.38
+2021-06-04,Wisconsin,La Crosse,-10.15,-12,0,0.0,13581,89.0,0.66,11486.93,75.28,11.49,118230,261.7,-28.76,-6.77,38.91,-21.15
 2021-06-03,Wisconsin,La Crosse,-11.0,-13,0,0.0,13593,89.0,0.65,11497.08,75.28,11.5,118230,261.7,-21.99,-11.85,60.06,-0.85
 2021-06-02,Wisconsin,La Crosse,-8.46,-10,1,0.85,13606,89.0,0.65,11508.08,75.28,11.51,118230,261.7,-10.14,-15.23,60.91,-22.84
 2021-06-01,Wisconsin,La Crosse,0.0,0,0,0.0,13616,88.0,0.65,11516.54,74.43,11.52,118230,261.7,5.09,2.54,83.75,-17.76

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Kentucky,Spencer,-5.32,-1,0,0.0,1636,25.0,1.53,8704.91,133.02,8.7,18794,100.65,42.56,-5.32,170.24,5.32
+2021-06-04,Kentucky,Spencer,5.32,1,0,0.0,1637,25.0,1.53,8710.23,133.02,8.71,18794,100.65,47.88,-5.32,164.92,5.32
 2021-06-03,Kentucky,Spencer,10.64,2,0,0.0,1636,25.0,1.53,8704.91,133.02,8.7,18794,100.65,53.2,10.64,159.6,10.64
 2021-06-02,Kentucky,Spencer,21.28,4,0,0.0,1634,25.0,1.53,8694.26,133.02,8.69,18794,100.65,42.56,10.64,148.96,10.64
 2021-06-01,Kentucky,Spencer,10.64,2,1,5.32,1630,25.0,1.53,8672.98,133.02,8.67,18794,100.65,31.92,-15.96,138.32,0.0

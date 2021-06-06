@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Wisconsin,Shawano,0.0,0,0,0.0,5328,85.0,1.6,13060.1,208.35,13.06,40796,45.67,14.71,0.0,129.91,-9.8
+2021-06-04,Wisconsin,Shawano,-2.45,-1,0,0.0,5328,85.0,1.6,13060.1,208.35,13.06,40796,45.67,14.71,-2.45,139.71,-7.35
 2021-06-03,Wisconsin,Shawano,12.26,5,1,2.45,5329,85.0,1.6,13062.56,208.35,13.06,40796,45.67,17.16,4.91,147.06,-12.25
 2021-06-02,Wisconsin,Shawano,-2.45,-1,0,0.0,5324,84.0,1.58,13050.3,205.9,13.05,40796,45.67,12.25,-12.25,159.31,-17.16
 2021-06-01,Wisconsin,Shawano,0.0,0,0,0.0,5325,84.0,1.58,13052.75,205.9,13.05,40796,45.67,24.5,-7.35,176.47,-2.45

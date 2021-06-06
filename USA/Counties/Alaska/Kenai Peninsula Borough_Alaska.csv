@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Alaska,Kenai Peninsula Borough,0.0,0,0,0.0,4529,19.0,0.42,7737.52,32.46,7.74,58533,3.65,27.34,0.0,153.79,0.0
+2021-06-04,Alaska,Kenai Peninsula Borough,5.13,3,0,0.0,4529,19.0,0.42,7737.52,32.46,7.74,58533,3.65,27.34,3.42,153.79,-6.83
 2021-06-03,Alaska,Kenai Peninsula Borough,5.13,3,0,0.0,4526,19.0,0.42,7732.39,32.46,7.73,58533,3.65,23.92,0.0,160.62,-3.41
 2021-06-02,Alaska,Kenai Peninsula Borough,6.83,4,0,0.0,4523,19.0,0.42,7727.26,32.46,7.73,58533,3.65,23.92,5.12,164.03,-3.42
 2021-06-01,Alaska,Kenai Peninsula Borough,10.25,6,0,0.0,4519,19.0,0.42,7720.43,32.46,7.72,58533,3.65,18.8,5.12,167.45,1.71

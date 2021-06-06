@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Wyoming,Big Horn,0.0,0,0,0.0,1189,34.0,2.86,10007.58,286.17,10.01,11881,3.79,58.92,0.0,294.59,0.0
+2021-06-04,Wyoming,Big Horn,25.25,3,0,0.0,1189,34.0,2.86,10007.58,286.17,10.01,11881,3.79,58.92,-33.67,294.59,8.42
 2021-06-03,Wyoming,Big Horn,8.42,1,0,0.0,1186,34.0,2.87,9982.32,286.17,9.98,11881,3.79,92.59,-42.08,286.17,-16.83
 2021-06-02,Wyoming,Big Horn,8.42,1,0,0.0,1185,34.0,2.87,9973.91,286.17,9.97,11881,3.79,134.67,-16.83,303.0,16.84
 2021-06-01,Wyoming,Big Horn,16.83,2,0,0.0,1184,34.0,2.87,9965.49,286.17,9.97,11881,3.79,151.5,16.83,286.16,8.41

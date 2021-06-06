@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,New Mexico,McKinley,0.0,0,0,0.0,12349,478.0,3.87,17082.58,661.23,17.08,72290,13.26,13.83,0.0,124.49,0.0
+2021-06-04,New Mexico,McKinley,-2.77,-2,1,1.38,12349,478.0,3.87,17082.58,661.23,17.08,72290,13.26,13.83,-8.3,124.49,-13.84
 2021-06-03,New Mexico,McKinley,6.92,5,0,0.0,12351,477.0,3.86,17085.35,659.84,17.09,72290,13.26,22.13,6.92,138.33,-2.76
 2021-06-02,New Mexico,McKinley,-2.77,-2,1,1.38,12346,477.0,3.86,17078.43,659.84,17.08,72290,13.26,15.21,-4.15,141.09,-2.77
 2021-06-01,New Mexico,McKinley,12.45,9,-1,-1.38,12348,476.0,3.85,17081.2,658.46,17.08,72290,13.26,19.36,12.45,143.86,4.15

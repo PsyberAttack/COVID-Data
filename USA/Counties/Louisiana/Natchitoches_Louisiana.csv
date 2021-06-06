@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Louisiana,Natchitoches,0.0,0,0,0.0,4126,93.0,2.25,10672.81,240.56,10.67,38659,30.87,31.04,0.0,196.61,0.0
+2021-06-04,Louisiana,Natchitoches,0.0,0,0,0.0,4126,93.0,2.25,10672.81,240.56,10.67,38659,30.87,31.04,5.17,196.61,-2.59
 2021-06-03,Louisiana,Natchitoches,18.11,7,0,0.0,4126,93.0,2.25,10672.81,240.56,10.67,38659,30.87,25.87,-20.69,199.2,12.94
 2021-06-02,Louisiana,Natchitoches,-33.63,-13,0,0.0,4119,93.0,2.26,10654.7,240.56,10.65,38659,30.87,46.56,-36.22,186.26,-56.91
 2021-06-01,Louisiana,Natchitoches,46.56,18,1,2.59,4132,93.0,2.25,10688.33,240.56,10.69,38659,30.87,82.78,28.45,243.17,51.73

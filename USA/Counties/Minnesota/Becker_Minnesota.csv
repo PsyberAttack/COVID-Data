@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Minnesota,Becker,11.64,4,0,0.0,3860,55.0,1.42,11230.4,160.02,11.23,34371,26.14,32.01,5.82,241.53,-11.64
+2021-06-04,Minnesota,Becker,8.73,3,0,0.0,3856,55.0,1.43,11218.76,160.02,11.22,34371,26.14,26.19,2.91,253.17,-5.82
 2021-06-03,Minnesota,Becker,8.73,3,0,0.0,3853,55.0,1.43,11210.03,160.02,11.21,34371,26.14,23.28,-2.91,258.99,-20.36
 2021-06-02,Minnesota,Becker,0.0,0,0,0.0,3850,55.0,1.43,11201.3,160.02,11.2,34371,26.14,26.19,-11.64,279.35,-40.73
 2021-06-01,Minnesota,Becker,0.0,0,0,0.0,3850,55.0,1.43,11201.3,160.02,11.2,34371,26.14,37.83,-8.73,320.08,-14.55

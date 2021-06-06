@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Wisconsin,Ozaukee,0.0,0,0,0.0,9283,101.0,1.09,10413.14,113.3,10.41,89147,382.58,20.19,0.0,137.98,-4.49
+2021-06-04,Wisconsin,Ozaukee,2.24,2,1,1.12,9283,101.0,1.09,10413.14,113.3,10.41,89147,382.58,20.19,1.12,142.47,-3.37
 2021-06-03,Wisconsin,Ozaukee,5.61,5,1,1.12,9281,100.0,1.08,10410.89,112.17,10.41,89147,382.58,19.07,-4.49,145.84,-2.24
 2021-06-02,Wisconsin,Ozaukee,11.22,10,0,0.0,9276,99.0,1.07,10405.29,111.05,10.41,89147,382.58,23.56,5.61,148.08,-2.24
 2021-06-01,Wisconsin,Ozaukee,0.0,0,1,1.12,9266,99.0,1.07,10394.07,111.05,10.39,89147,382.58,17.95,-14.58,150.32,-8.97

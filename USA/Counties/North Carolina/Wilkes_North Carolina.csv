@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,North Carolina,Wilkes,0.0,0,0,0.0,6848,115.0,1.68,9988.77,167.74,9.99,68557,90.86,102.11,0.0,335.49,0.0
+2021-06-04,North Carolina,Wilkes,11.67,8,0,0.0,6848,115.0,1.68,9988.77,167.74,9.99,68557,90.86,102.11,-2.92,335.49,2.92
 2021-06-03,North Carolina,Wilkes,7.29,5,0,0.0,6840,115.0,1.68,9977.1,167.74,9.98,68557,90.86,105.03,1.46,332.57,-14.59
 2021-06-02,North Carolina,Wilkes,4.38,3,0,0.0,6835,115.0,1.68,9969.81,167.74,9.97,68557,90.86,103.57,-4.37,347.16,-8.75
 2021-06-01,North Carolina,Wilkes,78.77,54,2,2.92,6832,115.0,1.68,9965.43,167.74,9.97,68557,90.86,107.94,65.64,355.91,70.02

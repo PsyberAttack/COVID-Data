@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Virginia,Lexington city,-14.01,-1,0,0.0,1210,32.0,2.64,16956.28,448.43,16.96,7136,2855.27,70.07,-14.01,294.26,-14.01
+2021-06-04,Virginia,Lexington city,0.0,0,0,0.0,1211,32.0,2.64,16970.29,448.43,16.97,7136,2855.27,84.08,28.03,308.27,-56.05
 2021-06-03,Virginia,Lexington city,42.04,3,0,0.0,1211,32.0,2.64,16970.29,448.43,16.97,7136,2855.27,56.05,42.04,364.32,-42.04
 2021-06-02,Virginia,Lexington city,42.04,3,0,0.0,1208,32.0,2.65,16928.25,448.43,16.93,7136,2855.27,14.01,14.01,406.36,28.03
 2021-06-01,Virginia,Lexington city,14.01,1,0,0.0,1205,32.0,2.66,16886.21,448.43,16.89,7136,2855.27,0.0,42.04,378.33,-70.07

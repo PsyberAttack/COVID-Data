@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Louisiana,Jackson,0.0,0,0,0.0,2032,51.0,2.51,12778.27,320.71,12.78,15902,27.94,125.77,0.0,547.11,0.0
+2021-06-04,Louisiana,Jackson,12.58,2,0,0.0,2032,51.0,2.51,12778.27,320.71,12.78,15902,27.94,125.77,56.6,547.11,6.29
 2021-06-03,Louisiana,Jackson,31.44,5,0,0.0,2030,51.0,2.51,12765.69,320.71,12.77,15902,27.94,69.17,-12.58,540.82,-220.1
 2021-06-02,Louisiana,Jackson,50.31,8,0,0.0,2025,51.0,2.52,12734.25,320.71,12.73,15902,27.94,81.75,31.44,760.92,69.18
 2021-06-01,Louisiana,Jackson,31.44,5,1,6.29,2017,51.0,2.53,12683.94,320.71,12.68,15902,27.94,50.31,-12.58,691.74,12.57

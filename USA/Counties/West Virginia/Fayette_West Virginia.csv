@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,West Virginia,Fayette,0.0,0,0,0.0,3524,79.0,2.24,8191.92,183.64,8.19,43018,65.02,32.54,0.0,227.79,-23.25
+2021-06-04,West Virginia,Fayette,2.32,1,0,0.0,3524,79.0,2.24,8191.92,183.64,8.19,43018,65.02,32.54,-4.65,251.04,-13.95
 2021-06-03,West Virginia,Fayette,9.3,4,0,0.0,3523,79.0,2.24,8189.6,183.64,8.19,43018,65.02,37.19,2.33,264.99,2.33
 2021-06-02,West Virginia,Fayette,6.97,3,0,0.0,3519,79.0,2.24,8180.3,183.64,8.18,43018,65.02,34.86,-9.3,262.66,-23.25
 2021-06-01,West Virginia,Fayette,13.95,6,0,0.0,3516,79.0,2.25,8173.32,183.64,8.17,43018,65.02,44.16,6.98,285.91,-16.27

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,North Carolina,Greene,0.0,0,0,0.0,2385,47.0,1.97,11350.66,223.68,11.35,21012,78.77,61.87,0.0,347.45,0.0
+2021-06-04,North Carolina,Greene,4.76,1,0,0.0,2385,47.0,1.97,11350.66,223.68,11.35,21012,78.77,61.87,-14.28,347.45,-19.04
 2021-06-03,North Carolina,Greene,4.76,1,0,0.0,2384,47.0,1.97,11345.9,223.68,11.35,21012,78.77,76.15,4.76,366.49,-19.04
 2021-06-02,North Carolina,Greene,9.52,2,0,0.0,2383,47.0,1.97,11341.14,223.68,11.34,21012,78.77,71.39,-23.79,385.53,4.76
 2021-06-01,North Carolina,Greene,42.83,9,3,14.28,2381,47.0,1.97,11331.62,223.68,11.33,21012,78.77,95.18,33.31,380.77,23.79

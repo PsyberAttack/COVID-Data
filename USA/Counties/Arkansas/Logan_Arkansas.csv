@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Arkansas,Logan,0.0,0,0,0.0,2251,25.0,1.11,10355.61,115.01,10.36,21737,30.7,9.2,0.0,73.6,-4.6
+2021-06-04,Arkansas,Logan,-13.8,-3,0,0.0,2251,25.0,1.11,10355.61,115.01,10.36,21737,30.7,9.2,-13.8,78.2,-13.8
 2021-06-03,Arkansas,Logan,18.4,4,0,0.0,2254,25.0,1.11,10369.42,115.01,10.37,21737,30.7,23.0,13.8,92.0,18.4
 2021-06-02,Arkansas,Logan,4.6,1,0,0.0,2250,25.0,1.11,10351.01,115.01,10.35,21737,30.7,9.2,9.2,73.6,0.0
 2021-06-01,Arkansas,Logan,0.0,0,0,0.0,2249,25.0,1.11,10346.41,115.01,10.35,21737,30.7,0.0,-9.2,73.6,-18.4

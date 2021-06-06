@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,North Carolina,Polk,0.0,0,0,0.0,1496,30.0,2.01,7258.26,145.55,7.26,20611,86.71,14.55,0.0,135.83,0.0
+2021-06-04,North Carolina,Polk,0.0,0,1,4.85,1496,30.0,2.01,7258.26,145.55,7.26,20611,86.71,14.55,4.85,135.83,-4.85
 2021-06-03,North Carolina,Polk,4.85,1,0,0.0,1496,29.0,1.94,7258.26,140.7,7.26,20611,86.71,9.7,4.85,140.68,0.0
 2021-06-02,North Carolina,Polk,0.0,0,0,0.0,1495,29.0,1.94,7253.41,140.7,7.25,20611,86.71,4.85,-4.85,140.68,-19.41
 2021-06-01,North Carolina,Polk,9.7,2,0,0.0,1495,29.0,1.94,7253.41,140.7,7.25,20611,86.71,9.7,9.7,160.09,4.85

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,North Carolina,Columbus,0.0,0,0,0.0,6388,151.0,2.36,11477.85,271.31,11.48,55655,59.33,28.74,0.0,136.53,0.0
+2021-06-04,North Carolina,Columbus,14.37,8,0,0.0,6388,151.0,2.36,11477.85,271.31,11.48,55655,59.33,28.74,10.78,136.53,7.18
 2021-06-03,North Carolina,Columbus,1.8,1,0,0.0,6380,151.0,2.37,11463.48,271.31,11.46,55655,59.33,17.96,-3.59,129.35,-3.59
 2021-06-02,North Carolina,Columbus,-1.8,-1,0,0.0,6379,151.0,2.37,11461.68,271.31,11.46,55655,59.33,21.55,-7.19,132.94,-10.78
 2021-06-01,North Carolina,Columbus,14.37,8,0,0.0,6380,151.0,2.37,11463.48,271.31,11.46,55655,59.33,28.74,16.17,143.72,14.37

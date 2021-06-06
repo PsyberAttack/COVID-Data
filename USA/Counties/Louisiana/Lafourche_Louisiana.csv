@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Louisiana,Lafourche,0.0,0,0,0.0,9888,205.0,2.07,10077.97,208.94,10.08,98115,91.84,81.54,0.0,299.65,0.0
+2021-06-04,Louisiana,Lafourche,14.27,14,0,0.0,9888,205.0,2.07,10077.97,208.94,10.08,98115,91.84,81.54,11.21,299.65,8.15
 2021-06-03,Louisiana,Lafourche,10.19,10,0,0.0,9874,205.0,2.08,10063.7,208.94,10.06,98115,91.84,70.33,0.0,291.5,-7.14
 2021-06-02,Louisiana,Lafourche,25.48,25,1,1.02,9864,205.0,2.08,10053.51,208.94,10.05,98115,91.84,70.33,16.31,298.64,25.48
 2021-06-01,Louisiana,Lafourche,31.6,31,0,0.0,9839,204.0,2.07,10028.03,207.92,10.03,98115,91.84,54.02,1.02,273.16,12.23

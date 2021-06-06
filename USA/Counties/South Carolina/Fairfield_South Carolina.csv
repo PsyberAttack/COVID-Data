@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,South Carolina,Fairfield,8.93,2,0,0.0,2412,83.0,3.44,10766.9,370.5,10.77,22402,32.64,4.46,8.93,107.12,8.93
+2021-06-04,South Carolina,Fairfield,-8.93,-2,0,0.0,2410,83.0,3.44,10757.97,370.5,10.76,22402,32.64,-4.47,-13.39,98.19,-17.86
 2021-06-03,South Carolina,Fairfield,-4.46,-1,0,0.0,2412,83.0,3.44,10766.9,370.5,10.77,22402,32.64,8.92,-4.46,116.05,-22.32
 2021-06-02,South Carolina,Fairfield,0.0,0,0,0.0,2413,83.0,3.44,10771.36,370.5,10.77,22402,32.64,13.38,0.0,138.37,-8.93
 2021-06-01,South Carolina,Fairfield,0.0,0,0,0.0,2413,83.0,3.44,10771.36,370.5,10.77,22402,32.64,13.38,-8.93,147.3,-13.39

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Kentucky,Hickman,45.24,2,0,0.0,399,13.0,3.26,9025.11,294.05,9.03,4421,18.25,135.72,45.24,384.54,22.62
+2021-06-04,Kentucky,Hickman,22.62,1,0,0.0,397,13.0,3.27,8979.87,294.05,8.98,4421,18.25,90.48,-22.62,361.92,-22.62
 2021-06-03,Kentucky,Hickman,0.0,0,0,0.0,396,13.0,3.28,8957.25,294.05,8.96,4421,18.25,113.1,22.62,384.54,-45.24
 2021-06-02,Kentucky,Hickman,45.24,2,0,0.0,396,13.0,3.28,8957.25,294.05,8.96,4421,18.25,90.48,45.24,429.78,22.62
 2021-06-01,Kentucky,Hickman,22.62,1,2,45.24,394,13.0,3.3,8912.01,294.05,8.91,4421,18.25,45.24,22.62,407.16,0.0

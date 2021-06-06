@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,North Carolina,Alamance,0.0,0,0,0.0,18858,288.0,1.53,11330.48,173.04,11.33,166436,393.06,79.91,0.0,555.76,0.0
+2021-06-04,North Carolina,Alamance,9.01,15,0,0.0,18858,288.0,1.53,11330.48,173.04,11.33,166436,393.06,79.91,-9.01,555.76,-11.42
 2021-06-03,North Carolina,Alamance,7.21,12,1,0.6,18843,288.0,1.53,11321.47,173.04,11.32,166436,393.06,88.92,-33.65,567.18,-1.8
 2021-06-02,North Carolina,Alamance,0.6,1,0,0.0,18831,287.0,1.52,11314.26,172.44,11.31,166436,393.06,122.57,-16.22,568.98,-7.81
 2021-06-01,North Carolina,Alamance,63.09,105,0,0.0,18830,287.0,1.52,11313.66,172.44,11.31,166436,393.06,138.79,45.67,576.79,56.48

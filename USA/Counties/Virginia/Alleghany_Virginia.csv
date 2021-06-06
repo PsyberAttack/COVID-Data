@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Virginia,Alleghany,13.41,2,0,0.0,1364,49.0,3.59,9148.22,328.64,9.15,14910,33.39,6.71,13.41,221.35,33.53
+2021-06-04,Virginia,Alleghany,0.0,0,0,0.0,1362,49.0,3.6,9134.81,328.64,9.13,14910,33.39,-6.7,-20.12,187.82,-60.36
 2021-06-03,Virginia,Alleghany,-13.41,-2,0,0.0,1362,49.0,3.6,9134.81,328.64,9.13,14910,33.39,13.42,-20.12,248.18,-26.82
 2021-06-02,Virginia,Alleghany,0.0,0,0,0.0,1364,49.0,3.59,9148.22,328.64,9.15,14910,33.39,33.54,-20.12,275.0,-33.53
 2021-06-01,Virginia,Alleghany,0.0,0,0,0.0,1364,49.0,3.59,9148.22,328.64,9.15,14910,33.39,53.66,46.95,308.53,60.36

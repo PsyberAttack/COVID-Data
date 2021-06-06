@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Missouri,Benton,5.19,1,0,0.0,1703,34.0,2.0,8833.9,176.37,8.83,19278,27.38,41.49,0.0,181.54,5.19
+2021-06-04,Missouri,Benton,10.37,2,0,0.0,1702,34.0,2.0,8828.72,176.37,8.83,19278,27.38,41.49,0.0,176.35,-10.38
 2021-06-03,Missouri,Benton,15.56,3,0,0.0,1700,34.0,2.0,8818.34,176.37,8.82,19278,27.38,41.49,10.37,186.73,-10.38
 2021-06-02,Missouri,Benton,10.37,2,0,0.0,1697,34.0,2.0,8802.78,176.37,8.8,19278,27.38,31.12,10.37,197.11,0.0
 2021-06-01,Missouri,Benton,0.0,0,0,0.0,1695,34.0,2.01,8792.41,176.37,8.79,19278,27.38,20.75,-10.37,197.11,-15.56

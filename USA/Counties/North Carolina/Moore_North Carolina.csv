@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,North Carolina,Moore,0.0,0,0,0.0,8983,191.0,2.13,9102.98,193.55,9.1,98682,141.44,15.2,0.0,136.79,0.0
+2021-06-04,North Carolina,Moore,3.04,3,0,0.0,8983,191.0,2.13,9102.98,193.55,9.1,98682,141.44,15.2,-1.01,136.79,-8.11
 2021-06-03,North Carolina,Moore,3.04,3,1,1.01,8980,191.0,2.13,9099.94,193.55,9.1,98682,141.44,16.21,-6.08,144.9,-12.16
 2021-06-02,North Carolina,Moore,0.0,0,0,0.0,8977,190.0,2.12,9096.9,192.54,9.1,98682,141.44,22.29,-4.05,157.06,-9.12
 2021-06-01,North Carolina,Moore,9.12,9,0,0.0,8977,190.0,2.12,9096.9,192.54,9.1,98682,141.44,26.34,6.08,166.18,5.07

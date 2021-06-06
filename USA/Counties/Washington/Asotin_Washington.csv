@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Washington,Asotin,0.0,0,0,0.0,1483,29.0,1.96,6559.04,128.26,6.56,22610,35.55,8.84,-4.42,221.15,-22.11
+2021-06-04,Washington,Asotin,0.0,0,1,4.42,1483,29.0,1.96,6559.04,128.26,6.56,22610,35.55,13.26,-8.85,243.26,-8.85
 2021-06-03,Washington,Asotin,4.42,1,0,0.0,1483,28.0,1.89,6559.04,123.84,6.56,22610,35.55,22.11,-8.85,252.11,-8.85
 2021-06-02,Washington,Asotin,4.42,1,0,0.0,1482,28.0,1.89,6554.62,123.84,6.55,22610,35.55,30.96,0.0,260.96,-8.85
 2021-06-01,Washington,Asotin,0.0,0,0,0.0,1481,28.0,1.89,6550.2,123.84,6.55,22610,35.55,30.96,-30.96,269.81,-30.96

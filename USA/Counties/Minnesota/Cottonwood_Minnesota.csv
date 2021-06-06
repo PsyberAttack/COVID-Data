@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Minnesota,Cottonwood,8.87,1,0,0.0,1672,24.0,1.44,14826.64,212.82,14.83,11277,17.62,26.61,8.87,310.4,-35.47
+2021-06-04,Minnesota,Cottonwood,8.87,1,1,8.87,1671,24.0,1.44,14817.77,212.82,14.82,11277,17.62,17.74,0.0,345.87,0.0
 2021-06-03,Minnesota,Cottonwood,0.0,0,0,0.0,1670,23.0,1.38,14808.9,203.95,14.81,11277,17.62,17.74,-8.87,345.87,-35.47
 2021-06-02,Minnesota,Cottonwood,0.0,0,0,0.0,1670,23.0,1.38,14808.9,203.95,14.81,11277,17.62,26.61,-17.74,381.34,-70.94
 2021-06-01,Minnesota,Cottonwood,0.0,0,0,0.0,1670,23.0,1.38,14808.9,203.95,14.81,11277,17.62,44.35,0.0,452.28,-35.47

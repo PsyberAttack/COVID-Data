@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,North Carolina,Wake,0.0,0,0,0.0,89557,737.0,0.82,8198.9,67.47,8.2,1092305,1308.43,27.28,0.0,193.28,-12.63
+2021-06-04,North Carolina,Wake,3.11,34,0,0.0,89557,737.0,0.82,8198.9,67.47,8.2,1092305,1308.43,27.28,-6.78,205.91,-8.61
 2021-06-03,North Carolina,Wake,4.21,46,2,0.18,89523,737.0,0.82,8195.79,67.47,8.2,1092305,1308.43,34.06,-5.13,214.52,-16.85
 2021-06-02,North Carolina,Wake,13.73,150,0,0.0,89477,735.0,0.82,8191.58,67.29,8.19,1092305,1308.43,39.19,6.5,231.37,1.55
 2021-06-01,North Carolina,Wake,0.0,0,0,0.0,89327,735.0,0.82,8177.84,67.29,8.18,1092305,1308.43,32.69,-18.68,229.82,-28.84

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Louisiana,Avoyelles,0.0,0,0,0.0,4311,123.0,2.85,10654.44,303.99,10.65,40462,48.63,69.21,0.0,254.56,0.0
+2021-06-04,Louisiana,Avoyelles,12.36,5,0,0.0,4311,123.0,2.85,10654.44,303.99,10.65,40462,48.63,69.21,9.89,254.56,-17.3
 2021-06-03,Louisiana,Avoyelles,9.89,4,0,0.0,4306,123.0,2.86,10642.08,303.99,10.64,40462,48.63,59.32,-14.82,271.86,12.36
 2021-06-02,Louisiana,Avoyelles,9.89,4,0,0.0,4302,123.0,2.86,10632.2,303.99,10.63,40462,48.63,74.14,-4.94,259.5,-7.41
 2021-06-01,Louisiana,Avoyelles,37.07,15,0,0.0,4298,123.0,2.86,10622.31,303.99,10.62,40462,48.63,79.08,4.94,266.91,19.77

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,North Carolina,Burke,0.0,0,0,0.0,10076,159.0,1.58,11148.24,175.92,11.15,90382,178.54,21.02,0.0,160.42,0.0
+2021-06-04,North Carolina,Burke,3.32,3,0,0.0,10076,159.0,1.58,11148.24,175.92,11.15,90382,178.54,21.02,1.11,160.42,-9.96
 2021-06-03,North Carolina,Burke,-1.11,-1,0,0.0,10073,159.0,1.58,11144.92,175.92,11.14,90382,178.54,19.91,-3.32,170.38,-19.92
 2021-06-02,North Carolina,Burke,3.32,3,0,0.0,10074,159.0,1.58,11146.02,175.92,11.15,90382,178.54,23.23,0.0,190.3,-2.21
 2021-06-01,North Carolina,Burke,15.49,14,0,0.0,10071,159.0,1.58,11142.71,175.92,11.14,90382,178.54,23.23,5.53,192.51,8.85

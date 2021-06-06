@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Kentucky,Rockcastle,11.94,2,0,0.0,1623,23.0,1.42,9689.55,137.31,9.69,16750,52.91,89.55,0.0,662.67,5.97
+2021-06-04,Kentucky,Rockcastle,23.88,4,0,0.0,1621,23.0,1.42,9677.61,137.31,9.68,16750,52.91,89.55,17.91,656.7,0.0
 2021-06-03,Kentucky,Rockcastle,17.91,3,0,0.0,1617,23.0,1.42,9653.73,137.31,9.65,16750,52.91,71.64,-17.91,656.7,-29.85
 2021-06-02,Kentucky,Rockcastle,29.85,5,0,0.0,1614,23.0,1.43,9635.82,137.31,9.64,16750,52.91,89.55,-17.91,686.55,17.91
 2021-06-01,Kentucky,Rockcastle,5.97,1,0,0.0,1609,23.0,1.43,9605.97,137.31,9.61,16750,52.91,107.46,-17.91,668.64,-23.88

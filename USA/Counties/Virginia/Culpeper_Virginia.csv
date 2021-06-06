@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,Virginia,Culpeper,1.93,1,0,0.0,4690,65.0,1.39,9043.75,125.34,9.04,51859,136.76,11.56,3.86,161.96,-19.28
+2021-06-04,Virginia,Culpeper,5.78,3,0,0.0,4689,65.0,1.39,9041.82,125.34,9.04,51859,136.76,7.7,1.92,181.24,-13.5
 2021-06-03,Virginia,Culpeper,5.78,3,0,0.0,4686,65.0,1.39,9036.04,125.34,9.04,51859,136.76,5.78,9.64,194.74,-3.86
 2021-06-02,Virginia,Culpeper,-3.86,-2,0,0.0,4683,65.0,1.39,9030.26,125.34,9.03,51859,136.76,-3.86,-50.14,198.6,-36.64
 2021-06-01,Virginia,Culpeper,-1.93,-1,0,0.0,4685,65.0,1.39,9034.11,125.34,9.03,51859,136.76,46.28,-7.71,235.24,-21.21

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,California,Napa,0.72,1,-1,-0.72,9959,80.0,0.8,7143.32,57.38,7.14,139417,186.31,12.2,-4.3,78.18,-3.58
+2021-06-04,California,Napa,2.87,4,-1,-0.72,9958,81.0,0.81,7142.6,58.1,7.14,139417,186.31,16.5,1.44,81.76,-4.3
 2021-06-03,California,Napa,2.87,4,0,0.0,9954,82.0,0.82,7139.73,58.82,7.14,139417,186.31,15.06,-1.43,86.06,-3.59
 2021-06-02,California,Napa,0.72,1,0,0.0,9950,82.0,0.82,7136.86,58.82,7.14,139417,186.31,16.49,-0.71,89.65,-5.74
 2021-06-01,California,Napa,0.0,0,0,0.0,9949,82.0,0.82,7136.15,58.82,7.14,139417,186.31,17.2,-0.72,95.39,-7.17
