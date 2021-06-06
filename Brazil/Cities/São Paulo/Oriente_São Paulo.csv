@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-05,São Paulo,Oriente,0.0,0,0,0.0,278,19,6.83,4267.08,291.63,4.27,6515,168.85,0.0,905.64,0.0
+2021-06-04,São Paulo,Oriente,15.35,1,0,0.0,278,19,6.83,4267.08,291.63,4.27,6515,168.85,0.0,905.64,-30.7
 2021-06-03,São Paulo,Oriente,30.7,2,1,15.35,277,19,6.86,4251.73,291.63,4.25,6515,168.85,30.7,936.34,15.35
 2021-06-02,São Paulo,Oriente,61.4,4,2,30.7,275,18,6.55,4221.03,276.29,4.22,6515,138.15,-46.04,920.99,61.4
 2021-05-31,São Paulo,Oriente,15.35,1,0,0.0,271,16,5.9,4159.63,245.59,4.16,6515,184.19,0.0,859.59,-30.7

@@ -1,4 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-04 00:00:00+00:00,Niedersachsen,Wolfsburg,1.61,2,0,0.0,4001,85,2.12,3222.69,68.47,3.22,124151,29.0,-1.61,229.56,-16.92
+2021-06-03 00:00:00+00:00,Niedersachsen,Wolfsburg,0.0,0,0,0.0,3999,85,2.13,3221.08,68.47,3.22,124151,30.61,-13.69,246.48,-14.5
 2021-06-02 00:00:00+00:00,Niedersachsen,Wolfsburg,5.64,7,0,0.0,3999,85,2.13,3221.08,68.47,3.22,124151,44.3,-1.61,260.98,-20.14
 2021-06-01 00:00:00+00:00,Niedersachsen,Wolfsburg,9.67,12,0,0.0,3992,85,2.13,3215.44,68.47,3.22,124151,45.91,7.25,281.12,-17.72
 2021-05-31 00:00:00+00:00,Niedersachsen,Wolfsburg,7.25,9,0,0.0,3980,85,2.14,3205.77,68.47,3.21,124151,38.66,6.44,298.84,-6.44
