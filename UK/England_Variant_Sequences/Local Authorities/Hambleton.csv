@@ -1,9 +1,9 @@
 WeekEnding,Region,LTLA,Cases_100K,Weekly_Cases,Sequenced,%Sequenced,Lineage,New_Lineage,%Lineage,Total_Lineage,Population,ONS_Code
-2021-05-01,Yorkshire and The Humber,Hambleton,18.56,17,7,41.18,B.1.1.7,7,100.0,209,91594,E07000164
-2021-04-24,Yorkshire and The Humber,Hambleton,8.73,8,4,50.0,B.1.1.7,4,100.0,202,91594,E07000164
+2021-05-01,Yorkshire and The Humber,Hambleton,18.56,17,7,41.18,B.1.1.7,7,100.0,206,91594,E07000164
+2021-04-24,Yorkshire and The Humber,Hambleton,8.73,8,4,50.0,B.1.1.7,4,100.0,199,91594,E07000164
 2021-04-17,Yorkshire and The Humber,Hambleton,5.46,5,1,20.0,Lineage data suppressed,1,100.0,6,91594,E07000164
-2021-04-10,Yorkshire and The Humber,Hambleton,7.64,7,3,42.86,B.1.1.7,3,100.0,198,91594,E07000164
-2021-04-03,Yorkshire and The Humber,Hambleton,19.65,18,8,44.44,B.1.1.7,8,100.0,195,91594,E07000164
+2021-04-10,Yorkshire and The Humber,Hambleton,7.64,7,3,42.86,B.1.1.7,3,100.0,195,91594,E07000164
+2021-04-03,Yorkshire and The Humber,Hambleton,19.65,18,5,27.78,B.1.1.7,5,100.0,192,91594,E07000164
 2021-03-27,Yorkshire and The Humber,Hambleton,26.2,24,9,37.5,B.1.1.7,9,100.0,187,91594,E07000164
 2021-03-20,Yorkshire and The Humber,Hambleton,30.57,28,21,75.0,B.1.1.7,21,100.0,178,91594,E07000164
 2021-03-13,Yorkshire and The Humber,Hambleton,48.04,44,20,45.45,B.1.1.7,20,100.0,157,91594,E07000164
@@ -26,8 +26,8 @@ WeekEnding,Region,LTLA,Cases_100K,Weekly_Cases,Sequenced,%Sequenced,Lineage,New_
 2020-12-26,Yorkshire and The Humber,Hambleton,310.06,284,3,1.06,B.1.177,2,66.67,32,91594,E07000164
 2020-12-26,Yorkshire and The Humber,Hambleton,310.06,284,3,1.06,B.1.1.7,1,33.33,2,91594,E07000164
 2020-12-19,Yorkshire and The Humber,Hambleton,105.9,97,1,1.03,B.1.177,1,100.0,30,91594,E07000164
-2020-12-12,Yorkshire and The Humber,Hambleton,50.22,46,3,6.52,B.1.1.37,1,33.33,5,91594,E07000164
 2020-12-12,Yorkshire and The Humber,Hambleton,50.22,46,3,6.52,B.1.88,1,33.33,1,91594,E07000164
+2020-12-12,Yorkshire and The Humber,Hambleton,50.22,46,3,6.52,B.1.1.37,1,33.33,5,91594,E07000164
 2020-12-12,Yorkshire and The Humber,Hambleton,50.22,46,3,6.52,B.1.177,1,33.33,29,91594,E07000164
 2020-12-05,Yorkshire and The Humber,Hambleton,64.41,59,1,1.69,B.1.1.7,1,100.0,1,91594,E07000164
 2020-11-28,Yorkshire and The Humber,Hambleton,79.7,73,7,9.59,B.1.160,3,42.86,3,91594,E07000164
@@ -45,16 +45,16 @@ WeekEnding,Region,LTLA,Cases_100K,Weekly_Cases,Sequenced,%Sequenced,Lineage,New_
 2020-10-24,Yorkshire and The Humber,Hambleton,179.05,164,4,2.44,B.1.177,2,50.0,7,91594,E07000164
 2020-10-24,Yorkshire and The Humber,Hambleton,179.05,164,4,2.44,B.1.177.4,1,25.0,1,91594,E07000164
 2020-10-24,Yorkshire and The Humber,Hambleton,179.05,164,4,2.44,B.1.177.7,1,25.0,1,91594,E07000164
-2020-10-17,Yorkshire and The Humber,Hambleton,126.65,116,5,4.31,B.1.177,2,40.0,5,91594,E07000164
 2020-10-17,Yorkshire and The Humber,Hambleton,126.65,116,5,4.31,B.1.1.315,2,40.0,3,91594,E07000164
+2020-10-17,Yorkshire and The Humber,Hambleton,126.65,116,5,4.31,B.1.177,2,40.0,5,91594,E07000164
 2020-10-17,Yorkshire and The Humber,Hambleton,126.65,116,5,4.31,B.1.1.311,1,20.0,1,91594,E07000164
 2020-10-10,Yorkshire and The Humber,Hambleton,112.45,103,1,0.97,B.1.177,1,100.0,3,91594,E07000164
-2020-10-03,Yorkshire and The Humber,Hambleton,65.51,60,8,13.33,B.1.1.37,3,37.5,3,91594,E07000164
-2020-10-03,Yorkshire and The Humber,Hambleton,65.51,60,8,13.33,B.1.177,2,25.0,2,91594,E07000164
-2020-10-03,Yorkshire and The Humber,Hambleton,65.51,60,8,13.33,B.1.1.303,1,12.5,1,91594,E07000164
-2020-10-03,Yorkshire and The Humber,Hambleton,65.51,60,8,13.33,B.1.258.4,1,12.5,1,91594,E07000164
-2020-10-03,Yorkshire and The Humber,Hambleton,65.51,60,8,13.33,B.1.1.315,1,12.5,1,91594,E07000164
+2020-10-03,Yorkshire and The Humber,Hambleton,66.6,61,8,13.11,B.1.1.37,3,37.5,3,91594,E07000164
+2020-10-03,Yorkshire and The Humber,Hambleton,66.6,61,8,13.11,B.1.177,2,25.0,2,91594,E07000164
+2020-10-03,Yorkshire and The Humber,Hambleton,66.6,61,8,13.11,B.1.258.4,1,12.5,1,91594,E07000164
+2020-10-03,Yorkshire and The Humber,Hambleton,66.6,61,8,13.11,B.1.1.315,1,12.5,1,91594,E07000164
+2020-10-03,Yorkshire and The Humber,Hambleton,66.6,61,8,13.11,B.1.1.303,1,12.5,1,91594,E07000164
 2020-09-26,Yorkshire and The Humber,Hambleton,41.49,38,1,2.63,Lineage data suppressed,1,100.0,5,91594,E07000164
 2020-09-19,Yorkshire and The Humber,Hambleton,28.39,26,1,3.85,Lineage data suppressed,1,100.0,4,91594,E07000164
-2020-09-12,Yorkshire and The Humber,Hambleton,29.48,27,2,7.41,Lineage data suppressed,2,100.0,3,91594,E07000164
+2020-09-12,Yorkshire and The Humber,Hambleton,28.39,26,2,7.69,Lineage data suppressed,2,100.0,3,91594,E07000164
 2020-09-05,Yorkshire and The Humber,Hambleton,8.73,8,1,12.5,Lineage data suppressed,1,100.0,1,91594,E07000164
