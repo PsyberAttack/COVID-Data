@@ -1,7 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-06-07,Santa Catarina,Faxinal dos Guedes,37.5,4,0,0.0,1642,27,1.64,15393.27,253.12,15.39,10667,403.1,37.5,1903.05,28.13
-2021-06-06,Santa Catarina,Faxinal dos Guedes,9.37,1,0,0.0,1638,27,1.65,15355.77,253.12,15.36,10667,365.6,0.0,1874.92,-46.88
-2021-06-05,Santa Catarina,Faxinal dos Guedes,121.87,13,2,18.75,1637,27,1.65,15346.4,253.12,15.35,10667,365.6,28.12,1921.8,56.25
+2021-06-08,Santa Catarina,Faxinal dos Guedes,28.12,3,0,0.0,1645,27,1.64,15421.39,253.12,15.42,10667,356.23,-18.75,1790.55,-28.13
+2021-06-07,Santa Catarina,Faxinal dos Guedes,37.5,4,0,0.0,1642,27,1.64,15393.27,253.12,15.39,10667,374.98,9.38,1818.68,-46.87
+2021-06-06,Santa Catarina,Faxinal dos Guedes,9.37,1,0,0.0,1638,27,1.65,15355.77,253.12,15.36,10667,365.6,9.37,1865.55,0.0
+2021-06-05,Santa Catarina,Faxinal dos Guedes,75.0,8,1,9.37,1637,27,1.65,15346.4,253.12,15.35,10667,356.23,65.63,1865.55,18.75
+2021-06-04,Santa Catarina,Faxinal dos Guedes,46.87,5,1,9.37,1629,26,1.6,15271.4,243.74,15.27,10667,290.6,-46.88,1846.8,-18.75
 2021-06-03,Santa Catarina,Faxinal dos Guedes,75.0,8,0,0.0,1624,25,1.54,15224.52,234.37,15.22,10667,337.48,18.75,1865.55,37.5
 2021-06-02,Santa Catarina,Faxinal dos Guedes,84.37,9,0,0.0,1616,25,1.55,15149.53,234.37,15.15,10667,318.73,-75.0,1828.05,-18.75
 2021-06-01,Santa Catarina,Faxinal dos Guedes,46.87,5,0,0.0,1607,25,1.56,15065.15,234.37,15.07,10667,393.73,-28.13,1846.8,-18.75

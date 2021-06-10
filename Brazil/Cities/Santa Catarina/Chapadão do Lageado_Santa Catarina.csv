@@ -1,7 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-06-07,Santa Catarina,Chapadão do Lageado,33.47,1,0,0.0,305,3,0.98,10207.5,100.4,10.21,2988,368.14,33.47,2108.42,33.47
-2021-06-06,Santa Catarina,Chapadão do Lageado,0.0,0,0,0.0,304,3,0.99,10174.03,100.4,10.17,2988,334.67,-33.47,2074.95,-100.4
-2021-06-05,Santa Catarina,Chapadão do Lageado,133.87,4,0,0.0,304,3,0.99,10174.03,100.4,10.17,2988,368.14,66.94,2175.35,-33.47
+2021-06-08,Santa Catarina,Chapadão do Lageado,0.0,0,0,0.0,305,3,0.98,10207.5,100.4,10.21,2988,167.34,-133.87,1941.09,-100.4
+2021-06-07,Santa Catarina,Chapadão do Lageado,33.47,1,0,0.0,305,3,0.98,10207.5,100.4,10.21,2988,301.21,-33.46,2041.49,-33.46
+2021-06-06,Santa Catarina,Chapadão do Lageado,0.0,0,0,0.0,304,3,0.99,10174.03,100.4,10.17,2988,334.67,0.0,2074.95,0.0
+2021-06-05,Santa Catarina,Chapadão do Lageado,100.4,3,0,0.0,304,3,0.99,10174.03,100.4,10.17,2988,334.67,66.93,2074.95,0.0
+2021-06-04,Santa Catarina,Chapadão do Lageado,33.47,1,0,0.0,301,3,1.0,10073.63,100.4,10.07,2988,267.74,-33.46,2074.95,-133.87
 2021-06-03,Santa Catarina,Chapadão do Lageado,0.0,0,0,0.0,300,3,1.0,10040.16,100.4,10.04,2988,301.2,-33.47,2208.82,-100.4
 2021-06-02,Santa Catarina,Chapadão do Lageado,0.0,0,0,0.0,300,3,1.0,10040.16,100.4,10.04,2988,334.67,-66.93,2309.22,0.0
 2021-06-01,Santa Catarina,Chapadão do Lageado,133.87,4,0,0.0,300,3,1.0,10040.16,100.4,10.04,2988,401.6,66.94,2309.22,167.34
