@@ -1,5 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-06-07,Alaska,North Slope Borough,0.0,0,0,0.0,1079,4.0,0.37,10929.9,40.52,10.93,9872,0.11,-10.13,0.0,50.65,-20.26
+2021-06-08,Alaska,North Slope Borough,-10.13,-1,0,0.0,1079,4.0,0.37,10929.9,40.52,10.93,9872,0.11,-0.0,0.0,40.52,-20.26
+2021-06-07,Alaska,North Slope Borough,10.13,1,0,0.0,1080,4.0,0.37,10940.03,40.52,10.94,9872,0.11,-0.0,10.13,60.78,-10.13
 2021-06-06,Alaska,North Slope Borough,0.0,0,0,0.0,1079,4.0,0.37,10929.9,40.52,10.93,9872,0.11,-10.13,0.0,70.91,0.0
 2021-06-05,Alaska,North Slope Borough,0.0,0,0,0.0,1079,4.0,0.37,10929.9,40.52,10.93,9872,0.11,-10.13,0.0,70.91,0.0
 2021-06-04,Alaska,North Slope Borough,0.0,0,0,0.0,1079,4.0,0.37,10929.9,40.52,10.93,9872,0.11,-10.13,-10.13,70.91,-10.13

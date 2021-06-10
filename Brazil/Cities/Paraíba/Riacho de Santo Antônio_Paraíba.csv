@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-07,Paraíba,Riacho de Santo Antônio,0.0,0,0,0.0,80,3,3.75,4106.78,154.0,4.11,1948,102.66,0.0,667.32,0.0
+2021-06-06,Paraíba,Riacho de Santo Antônio,51.33,1,0,0.0,80,3,3.75,4106.78,154.0,4.11,1948,102.66,51.33,667.32,51.33
+2021-06-05,Paraíba,Riacho de Santo Antônio,0.0,0,1,51.33,79,3,3.8,4055.44,154.0,4.06,1948,51.33,0.0,615.99,0.0
+2021-06-04,Paraíba,Riacho de Santo Antônio,0.0,0,0,0.0,79,2,2.53,4055.44,102.67,4.06,1948,51.33,-102.67,615.99,0.0
 2021-06-03,Paraíba,Riacho de Santo Antônio,51.33,1,0,0.0,79,2,2.53,4055.44,102.67,4.06,1948,154.0,51.33,615.99,51.33
 2021-06-02,Paraíba,Riacho de Santo Antônio,0.0,0,0,0.0,78,2,2.56,4004.11,102.67,4.0,1948,102.67,-51.33,564.66,0.0
 2021-06-01,Paraíba,Riacho de Santo Antônio,0.0,0,0,0.0,78,2,2.56,4004.11,102.67,4.0,1948,154.0,-154.0,564.66,0.0
