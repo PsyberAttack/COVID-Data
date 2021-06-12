@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-11,California,Contra Costa,5.22,60,2,0.17,70228,807.0,1.15,6105.64,70.16,6.11,1150215,1604.02,34.86,2.09,117.96,-0.69
 2021-06-10,California,Contra Costa,4.52,52,2,0.17,70168,805.0,1.15,6100.42,69.99,6.1,1150215,1604.02,32.77,0.52,118.65,-0.87
 2021-06-09,California,Contra Costa,5.91,68,-14,-1.22,70116,803.0,1.15,6095.9,69.81,6.1,1150215,1604.02,32.25,1.39,119.52,1.39
 2021-06-08,California,Contra Costa,3.91,45,0,0.0,70048,817.0,1.17,6089.99,71.03,6.09,1150215,1604.02,30.86,2.43,118.13,-0.52

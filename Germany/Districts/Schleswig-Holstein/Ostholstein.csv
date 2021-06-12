@@ -1,6 +1,7 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-06-10 00:00:00+00:00,Schleswig-Holstein,Ostholstein,1.0,2,0,0.0,3348,85,2.54,1669.15,42.38,1.67,200581,1.5,1.0,42.89,-2.49
-2021-06-09 00:00:00+00:00,Schleswig-Holstein,Ostholstein,0.0,0,0,0.0,3346,85,2.54,1668.15,42.38,1.67,200581,0.5,-1.0,45.38,-6.48
+2021-06-11 00:00:00+00:00,Schleswig-Holstein,Ostholstein,1.5,3,0,0.0,3352,85,2.54,1671.15,42.38,1.67,200581,3.5,1.5,43.89,0.5
+2021-06-10 00:00:00+00:00,Schleswig-Holstein,Ostholstein,1.0,2,0,0.0,3349,85,2.54,1669.65,42.38,1.67,200581,2.0,1.0,43.39,-2.49
+2021-06-09 00:00:00+00:00,Schleswig-Holstein,Ostholstein,0.5,1,0,0.0,3347,85,2.54,1668.65,42.38,1.67,200581,1.0,-0.5,45.88,-5.98
 2021-06-08 00:00:00+00:00,Schleswig-Holstein,Ostholstein,0.0,0,0,0.0,3346,85,2.54,1668.15,42.38,1.67,200581,1.5,-1.99,51.86,-3.49
 2021-06-07 00:00:00+00:00,Schleswig-Holstein,Ostholstein,0.5,1,0,0.0,3346,85,2.54,1668.15,42.38,1.67,200581,3.49,0.5,55.35,-1.49
 2021-06-06 00:00:00+00:00,Schleswig-Holstein,Ostholstein,0.0,0,0,0.0,3345,85,2.54,1667.66,42.38,1.67,200581,2.99,-0.5,56.84,-2.99
