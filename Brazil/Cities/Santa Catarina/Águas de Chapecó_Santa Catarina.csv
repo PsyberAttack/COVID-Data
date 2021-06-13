@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-06-10,Santa Catarina,Águas de Chapecó,77.09,5,0,0.0,426,5,1.17,6567.99,77.09,6.57,6486,262.11,46.25,693.83,77.09
+2021-06-11,Santa Catarina,Águas de Chapecó,0.0,0,1,15.42,426,6,1.41,6567.99,92.51,6.57,6486,107.93,0.0,662.99,-15.42
+2021-06-10,Santa Catarina,Águas de Chapecó,15.42,1,0,0.0,426,5,1.17,6567.99,77.09,6.57,6486,107.93,-138.76,678.41,0.0
+2021-06-09,Santa Catarina,Águas de Chapecó,61.67,4,0,0.0,425,5,1.18,6552.57,77.09,6.55,6486,246.69,30.83,678.41,61.67
 2021-06-08,Santa Catarina,Águas de Chapecó,15.42,1,0,0.0,421,5,1.19,6490.9,77.09,6.49,6486,215.86,0.0,616.74,-46.25
 2021-06-07,Santa Catarina,Águas de Chapecó,15.42,1,0,0.0,420,5,1.19,6475.49,77.09,6.48,6486,215.86,-30.83,662.99,0.0
 2021-06-06,Santa Catarina,Águas de Chapecó,0.0,0,0,0.0,419,5,1.19,6460.07,77.09,6.46,6486,246.69,0.0,662.99,0.0

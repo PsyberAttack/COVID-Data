@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-06-10,Santa Catarina,Treze Tílias,38.27,3,0,0.0,868,10,1.15,11071.43,127.55,11.07,7840,127.56,12.76,727.08,12.76
+2021-06-11,Santa Catarina,Treze Tílias,25.51,2,0,0.0,870,10,1.15,11096.94,127.55,11.1,7840,114.8,25.51,599.53,0.0
+2021-06-10,Santa Catarina,Treze Tílias,25.51,2,0,0.0,868,10,1.15,11071.43,127.55,11.07,7840,89.29,-12.76,599.53,-102.04
+2021-06-09,Santa Catarina,Treze Tílias,12.76,1,0,0.0,866,10,1.15,11045.92,127.55,11.05,7840,102.05,-12.75,701.57,-12.75
 2021-06-08,Santa Catarina,Treze Tílias,51.02,4,0,0.0,865,10,1.16,11033.16,127.55,11.03,7840,114.8,-38.27,714.32,12.75
 2021-06-07,Santa Catarina,Treze Tílias,0.0,0,0,0.0,861,10,1.16,10982.14,127.55,10.98,7840,153.07,0.0,701.57,-12.76
 2021-06-06,Santa Catarina,Treze Tílias,0.0,0,0,0.0,861,10,1.16,10982.14,127.55,10.98,7840,153.07,-12.76,714.33,-25.51

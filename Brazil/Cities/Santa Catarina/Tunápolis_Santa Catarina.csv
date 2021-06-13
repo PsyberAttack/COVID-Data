@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-06-10,Santa Catarina,Tunápolis,44.02,2,0,0.0,999,7,0.7,21989.87,154.08,21.99,4543,616.32,22.01,1188.63,44.02
+2021-06-11,Santa Catarina,Tunápolis,44.02,2,0,0.0,1001,7,0.7,22033.9,154.08,22.03,4543,352.18,0.0,1232.65,44.02
+2021-06-10,Santa Catarina,Tunápolis,0.0,0,0,0.0,999,7,0.7,21989.87,154.08,21.99,4543,352.18,-264.14,1188.63,0.0
+2021-06-09,Santa Catarina,Tunápolis,44.02,2,0,0.0,999,7,0.7,21989.87,154.08,21.99,4543,616.32,22.01,1188.63,44.02
 2021-06-08,Santa Catarina,Tunápolis,22.01,1,0,0.0,997,7,0.7,21945.85,154.08,21.95,4543,594.31,-44.03,1144.61,0.0
 2021-06-07,Santa Catarina,Tunápolis,44.02,2,0,0.0,996,7,0.7,21923.84,154.08,21.92,4543,638.34,22.01,1144.61,44.02
 2021-06-06,Santa Catarina,Tunápolis,0.0,0,0,0.0,994,7,0.7,21879.82,154.08,21.88,4543,616.33,0.0,1100.59,0.0

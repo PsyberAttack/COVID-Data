@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-06-10,Santa Catarina,Monte Carlo,304.07,30,0,0.0,1119,34,3.04,11341.98,344.62,11.34,9866,547.32,233.12,1692.67,182.44
+2021-06-11,Santa Catarina,Monte Carlo,202.72,20,1,10.14,1139,35,3.07,11544.7,354.75,11.54,9866,689.24,182.45,1743.36,131.77
+2021-06-10,Santa Catarina,Monte Carlo,101.36,10,0,0.0,1119,34,3.04,11341.98,344.62,11.34,9866,506.79,60.82,1611.59,20.27
+2021-06-09,Santa Catarina,Monte Carlo,202.72,20,0,0.0,1109,34,3.07,11240.62,344.62,11.24,9866,445.97,131.77,1591.32,81.09
 2021-06-08,Santa Catarina,Monte Carlo,50.68,5,1,10.14,1089,34,3.12,11037.91,344.62,11.04,9866,314.2,-60.81,1510.23,50.68
 2021-06-07,Santa Catarina,Monte Carlo,60.81,6,0,0.0,1084,33,3.04,10987.23,334.48,10.99,9866,375.01,40.54,1459.55,30.4
 2021-06-06,Santa Catarina,Monte Carlo,0.0,0,0,0.0,1078,33,3.06,10926.41,334.48,10.93,9866,334.47,-40.54,1429.15,0.0

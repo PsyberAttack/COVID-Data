@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-06-10,Santa Catarina,Praia Grande,109.3,8,0,0.0,1079,16,1.48,14742.45,218.61,14.74,7319,150.28,54.65,765.12,81.97
+2021-06-11,Santa Catarina,Praia Grande,68.32,5,0,0.0,1084,16,1.48,14810.77,218.61,14.81,7319,191.28,54.66,806.11,40.99
+2021-06-10,Santa Catarina,Praia Grande,0.0,0,0,0.0,1079,16,1.48,14742.45,218.61,14.74,7319,136.62,-13.66,765.12,0.0
+2021-06-09,Santa Catarina,Praia Grande,109.3,8,0,0.0,1079,16,1.48,14742.45,218.61,14.74,7319,150.28,54.65,765.12,81.97
 2021-06-08,Santa Catarina,Praia Grande,0.0,0,0,0.0,1071,16,1.49,14633.15,218.61,14.63,7319,95.63,-13.66,683.15,0.0
 2021-06-07,Santa Catarina,Praia Grande,0.0,0,0,0.0,1071,16,1.49,14633.15,218.61,14.63,7319,109.29,-54.65,683.15,-40.99
 2021-06-06,Santa Catarina,Praia Grande,0.0,0,0,0.0,1071,16,1.49,14633.15,218.61,14.63,7319,163.94,0.0,724.14,-13.66

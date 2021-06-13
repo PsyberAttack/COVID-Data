@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-06-10,Santa Catarina,Campo Belo do Sul,57.01,4,0,0.0,728,20,2.75,10376.28,285.06,10.38,7016,285.06,57.01,1282.81,42.76
+2021-06-11,Santa Catarina,Campo Belo do Sul,28.51,2,0,0.0,730,20,2.74,10404.79,285.06,10.4,7016,171.04,-28.5,1282.81,0.0
+2021-06-10,Santa Catarina,Campo Belo do Sul,42.76,3,0,0.0,728,20,2.75,10376.28,285.06,10.38,7016,199.54,-42.76,1282.81,42.76
+2021-06-09,Santa Catarina,Campo Belo do Sul,14.25,1,0,0.0,725,20,2.76,10333.52,285.06,10.33,7016,242.3,14.25,1240.05,0.0
 2021-06-08,Santa Catarina,Campo Belo do Sul,42.76,3,0,0.0,724,20,2.76,10319.27,285.06,10.32,7016,228.05,-57.01,1240.05,42.76
 2021-06-07,Santa Catarina,Campo Belo do Sul,28.51,2,0,0.0,721,20,2.77,10276.51,285.06,10.28,7016,285.06,0.0,1197.29,0.0
 2021-06-06,Santa Catarina,Campo Belo do Sul,0.0,0,1,14.25,719,20,2.78,10248.0,285.06,10.25,7016,285.06,-71.27,1197.29,0.0
