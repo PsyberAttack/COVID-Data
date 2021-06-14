@@ -1,4 +1,5 @@
 WeekEnding,Region,LTLA,Cases_100K,Weekly_Cases,Sequenced,%Sequenced,Lineage,New_Lineage,%Lineage,Total_Lineage,Population,ONS_Code
+2021-06-05,East Midlands,Boston,18.53,13,4,30.77,B.1.617.2,4,100.0,4,70173,E07000136
 2021-05-29,East Midlands,Boston,27.08,19,16,84.21,B.1.1.7,16,100.0,278,70173,E07000136
 2021-05-22,East Midlands,Boston,47.03,33,25,75.76,B.1.1.7,25,100.0,262,70173,E07000136
 2021-05-15,East Midlands,Boston,42.75,30,22,73.33,B.1.1.7,22,100.0,237,70173,E07000136
@@ -15,8 +16,8 @@ WeekEnding,Region,LTLA,Cases_100K,Weekly_Cases,Sequenced,%Sequenced,Lineage,New_
 2021-02-27,East Midlands,Boston,173.86,122,2,1.64,B.1.1.7,2,100.0,8,70173,E07000136
 2021-02-20,East Midlands,Boston,172.43,121,2,1.65,B.1.1.7,2,100.0,6,70173,E07000136
 2021-02-13,East Midlands,Boston,190.96,134,3,2.24,B.1.1.7,3,100.0,4,70173,E07000136
-2021-01-30,East Midlands,Boston,205.21,144,2,1.39,B.1.1.7,1,50.0,1,70173,E07000136
 2021-01-30,East Midlands,Boston,205.21,144,2,1.39,B.1.258,1,50.0,2,70173,E07000136
+2021-01-30,East Midlands,Boston,205.21,144,2,1.39,B.1.1.7,1,50.0,1,70173,E07000136
 2020-12-19,East Midlands,Boston,413.26,290,1,0.34,B.1.177,1,100.0,19,70173,E07000136
 2020-12-05,East Midlands,Boston,391.89,275,3,1.09,B.1.177,3,100.0,18,70173,E07000136
 2020-11-28,East Midlands,Boston,550.07,386,1,0.26,B.1.177,1,100.0,15,70173,E07000136
@@ -31,8 +32,8 @@ WeekEnding,Region,LTLA,Cases_100K,Weekly_Cases,Sequenced,%Sequenced,Lineage,New_
 2020-10-24,East Midlands,Boston,145.36,102,2,1.96,B.1.160,1,50.0,1,70173,E07000136
 2020-10-24,East Midlands,Boston,145.36,102,2,1.96,B.1.177.4,1,50.0,1,70173,E07000136
 2020-10-10,East Midlands,Boston,58.43,41,1,2.44,Lineage data suppressed,1,100.0,3,70173,E07000136
-2020-10-03,East Midlands,Boston,27.08,19,2,10.53,B.1.1.307,1,50.0,1,70173,E07000136
 2020-10-03,East Midlands,Boston,27.08,19,2,10.53,B.1.1.315,1,50.0,1,70173,E07000136
+2020-10-03,East Midlands,Boston,27.08,19,2,10.53,B.1.1.307,1,50.0,1,70173,E07000136
 2020-09-26,East Midlands,Boston,12.83,9,3,33.33,B.1.177,2,66.67,2,70173,E07000136
 2020-09-26,East Midlands,Boston,12.83,9,3,33.33,B.1.1.44,1,33.33,1,70173,E07000136
 2020-09-12,East Midlands,Boston,11.4,8,1,12.5,Lineage data suppressed,1,100.0,2,70173,E07000136

@@ -1,4 +1,6 @@
 WeekEnding,Region,LTLA,Cases_100K,Weekly_Cases,Sequenced,%Sequenced,Lineage,New_Lineage,%Lineage,Total_Lineage,Population,ONS_Code
+2021-06-05,East of England,Uttlesford,16.43,15,7,46.67,B.1.617.2,6,85.71,13,91284,E07000077
+2021-06-05,East of England,Uttlesford,16.43,15,7,46.67,B.1.1.7,1,14.29,222,91284,E07000077
 2021-05-29,East of England,Uttlesford,14.24,13,3,23.08,B.1.1.7,2,66.67,221,91284,E07000077
 2021-05-29,East of England,Uttlesford,14.24,13,3,23.08,B.1.617.2,1,33.33,7,91284,E07000077
 2021-05-22,East of England,Uttlesford,15.34,14,5,35.71,B.1.617.2,4,80.0,6,91284,E07000077
@@ -26,13 +28,13 @@ WeekEnding,Region,LTLA,Cases_100K,Weekly_Cases,Sequenced,%Sequenced,Lineage,New_
 2021-01-09,East of England,Uttlesford,638.67,583,27,4.63,B.1.429,2,7.41,2,91284,E07000077
 2021-01-02,East of England,Uttlesford,898.3,820,16,1.95,B.1.1.7,15,93.75,41,91284,E07000077
 2021-01-02,East of England,Uttlesford,898.3,820,16,1.95,B.1.177,1,6.25,30,91284,E07000077
-2020-12-26,East of England,Uttlesford,604.71,552,7,1.27,B.1.1.7,6,85.71,26,91284,E07000077
-2020-12-26,East of England,Uttlesford,604.71,552,7,1.27,B.1.177,1,14.29,29,91284,E07000077
+2020-12-26,East of England,Uttlesford,605.8,553,7,1.27,B.1.1.7,6,85.71,26,91284,E07000077
+2020-12-26,East of England,Uttlesford,605.8,553,7,1.27,B.1.177,1,14.29,29,91284,E07000077
 2020-12-19,East of England,Uttlesford,359.32,328,18,5.49,B.1.1.7,12,66.67,20,91284,E07000077
 2020-12-19,East of England,Uttlesford,359.32,328,18,5.49,B.1.160,2,11.11,4,91284,E07000077
 2020-12-19,East of England,Uttlesford,359.32,328,18,5.49,B.1.177,2,11.11,28,91284,E07000077
-2020-12-19,East of England,Uttlesford,359.32,328,18,5.49,B.1.177.16,1,5.56,3,91284,E07000077
 2020-12-19,East of England,Uttlesford,359.32,328,18,5.49,B.1.1.315,1,5.56,2,91284,E07000077
+2020-12-19,East of England,Uttlesford,359.32,328,18,5.49,B.1.177.16,1,5.56,3,91284,E07000077
 2020-12-12,East of England,Uttlesford,173.09,158,4,2.53,B.1.1.7,3,75.0,8,91284,E07000077
 2020-12-12,East of England,Uttlesford,173.09,158,4,2.53,B.1.177.18,1,25.0,2,91284,E07000077
 2020-12-05,East of England,Uttlesford,93.12,85,1,1.18,B.1.1.7,1,100.0,5,91284,E07000077
@@ -45,27 +47,27 @@ WeekEnding,Region,LTLA,Cases_100K,Weekly_Cases,Sequenced,%Sequenced,Lineage,New_
 2020-11-14,East of England,Uttlesford,135.84,124,6,4.84,B.1.177.16,2,33.33,2,91284,E07000077
 2020-11-14,East of England,Uttlesford,135.84,124,6,4.84,B.1.1.37,1,16.67,6,91284,E07000077
 2020-11-07,East of England,Uttlesford,133.65,122,12,9.84,B.1.177,9,75.0,20,91284,E07000077
-2020-11-07,East of England,Uttlesford,133.65,122,12,9.84,B.1.1.7,1,8.33,1,91284,E07000077
 2020-11-07,East of England,Uttlesford,133.65,122,12,9.84,B.1.1.240,1,8.33,1,91284,E07000077
 2020-11-07,East of England,Uttlesford,133.65,122,12,9.84,B.1.177.15,1,8.33,1,91284,E07000077
-2020-10-31,East of England,Uttlesford,75.59,69,1,1.45,B.1.177,1,100.0,11,91284,E07000077
+2020-11-07,East of England,Uttlesford,133.65,122,12,9.84,B.1.1.7,1,8.33,1,91284,E07000077
+2020-10-31,East of England,Uttlesford,76.68,70,1,1.43,B.1.177,1,100.0,11,91284,E07000077
 2020-10-24,East of England,Uttlesford,78.87,72,3,4.17,B.1.177,2,66.67,10,91284,E07000077
 2020-10-24,East of England,Uttlesford,78.87,72,3,4.17,B.1.177.20,1,33.33,1,91284,E07000077
 2020-10-17,East of England,Uttlesford,71.21,65,9,13.85,B.1.177,4,44.44,8,91284,E07000077
 2020-10-17,East of England,Uttlesford,71.21,65,9,13.85,B.1.160,1,11.11,2,91284,E07000077
-2020-10-17,East of England,Uttlesford,71.21,65,9,13.85,B.1.1.307,1,11.11,1,91284,E07000077
 2020-10-17,East of England,Uttlesford,71.21,65,9,13.85,B.1.177.18,1,11.11,1,91284,E07000077
 2020-10-17,East of England,Uttlesford,71.21,65,9,13.85,B.1.1.198,1,11.11,1,91284,E07000077
+2020-10-17,East of England,Uttlesford,71.21,65,9,13.85,B.1.1.307,1,11.11,1,91284,E07000077
 2020-10-17,East of England,Uttlesford,71.21,65,9,13.85,B.1.1.37,1,11.11,5,91284,E07000077
 2020-10-10,East of England,Uttlesford,49.3,45,3,6.67,B.1.177,2,66.67,4,91284,E07000077
 2020-10-10,East of England,Uttlesford,49.3,45,3,6.67,B.1.160.7,1,33.33,1,91284,E07000077
 2020-10-03,East of England,Uttlesford,67.92,62,2,3.23,B.1.177,1,50.0,2,91284,E07000077
 2020-10-03,East of England,Uttlesford,67.92,62,2,3.23,B.1.1.37,1,50.0,4,91284,E07000077
-2020-09-26,East of England,Uttlesford,35.06,32,2,6.25,B.1.258,1,50.0,2,91284,E07000077
 2020-09-26,East of England,Uttlesford,35.06,32,2,6.25,B.1.177,1,50.0,1,91284,E07000077
+2020-09-26,East of England,Uttlesford,35.06,32,2,6.25,B.1.258,1,50.0,2,91284,E07000077
 2020-09-12,East of England,Uttlesford,7.67,7,1,14.29,Lineage data suppressed,1,100.0,1,91284,E07000077
 2020-09-05,East of England,Uttlesford,25.2,23,7,30.43,B.1.1.37,3,42.86,3,91284,E07000077
 2020-09-05,East of England,Uttlesford,25.2,23,7,30.43,B.1.160,1,14.29,1,91284,E07000077
-2020-09-05,East of England,Uttlesford,25.2,23,7,30.43,B.1.258,1,14.29,1,91284,E07000077
 2020-09-05,East of England,Uttlesford,25.2,23,7,30.43,B.1.1.315,1,14.29,1,91284,E07000077
 2020-09-05,East of England,Uttlesford,25.2,23,7,30.43,B.1,1,14.29,1,91284,E07000077
+2020-09-05,East of England,Uttlesford,25.2,23,7,30.43,B.1.258,1,14.29,1,91284,E07000077

@@ -1,10 +1,11 @@
 WeekEnding,Region,LTLA,Cases_100K,Weekly_Cases,Sequenced,%Sequenced,Lineage,New_Lineage,%Lineage,Total_Lineage,Population,ONS_Code
-2021-05-29,East Midlands,East Northamptonshire,30.68,29,16,55.17,B.1.617.2,16,100.0,42,94527,E07000152
-2021-05-22,East Midlands,East Northamptonshire,23.27,22,8,36.36,B.1.617.2,6,75.0,26,94527,E07000152
+2021-06-05,East Midlands,East Northamptonshire,31.74,30,22,73.33,B.1.617.2,21,95.45,66,94527,E07000152
+2021-06-05,East Midlands,East Northamptonshire,31.74,30,22,73.33,B.1.1.7,1,4.55,264,94527,E07000152
+2021-05-29,East Midlands,East Northamptonshire,30.68,29,18,62.07,B.1.617.2,18,100.0,45,94527,E07000152
+2021-05-22,East Midlands,East Northamptonshire,23.27,22,8,36.36,B.1.617.2,6,75.0,27,94527,E07000152
 2021-05-22,East Midlands,East Northamptonshire,23.27,22,8,36.36,B.1.1.7,2,25.0,263,94527,E07000152
-2021-05-15,East Midlands,East Northamptonshire,19.04,18,11,61.11,B.1.617.2,8,72.73,20,94527,E07000152
+2021-05-15,East Midlands,East Northamptonshire,19.04,18,11,61.11,B.1.617.2,9,81.82,21,94527,E07000152
 2021-05-15,East Midlands,East Northamptonshire,19.04,18,11,61.11,B.1.1.7,2,18.18,261,94527,E07000152
-2021-05-15,East Midlands,East Northamptonshire,19.04,18,11,61.11,B.1,1,9.09,1,94527,E07000152
 2021-05-08,East Midlands,East Northamptonshire,22.22,21,18,85.71,B.1.617.2,10,55.56,12,94527,E07000152
 2021-05-08,East Midlands,East Northamptonshire,22.22,21,18,85.71,B.1.1.7,8,44.44,259,94527,E07000152
 2021-05-01,East Midlands,East Northamptonshire,16.93,16,5,31.25,B.1.1.7,3,60.0,251,94527,E07000152
@@ -28,8 +29,8 @@ WeekEnding,Region,LTLA,Cases_100K,Weekly_Cases,Sequenced,%Sequenced,Lineage,New_
 2021-01-23,East Midlands,East Northamptonshire,311.02,294,5,1.7,B.1.177,1,20.0,27,94527,E07000152
 2021-01-16,East Midlands,East Northamptonshire,306.79,290,4,1.38,B.1.1.7,4,100.0,25,94527,E07000152
 2021-01-09,East Midlands,East Northamptonshire,386.13,365,14,3.84,B.1.1.7,12,85.71,21,94527,E07000152
-2021-01-09,East Midlands,East Northamptonshire,386.13,365,14,3.84,B.1.177.16,1,7.14,1,94527,E07000152
 2021-01-09,East Midlands,East Northamptonshire,386.13,365,14,3.84,B.1.177.4,1,7.14,4,94527,E07000152
+2021-01-09,East Midlands,East Northamptonshire,386.13,365,14,3.84,B.1.177.16,1,7.14,1,94527,E07000152
 2021-01-02,East Midlands,East Northamptonshire,356.51,337,1,0.3,Lineage data suppressed,1,100.0,2,94527,E07000152
 2020-12-26,East Midlands,East Northamptonshire,245.43,232,3,1.29,B.1.160,1,33.33,3,94527,E07000152
 2020-12-26,East Midlands,East Northamptonshire,245.43,232,3,1.29,B.1.177.7,1,33.33,1,94527,E07000152
@@ -37,8 +38,8 @@ WeekEnding,Region,LTLA,Cases_100K,Weekly_Cases,Sequenced,%Sequenced,Lineage,New_
 2020-12-19,East Midlands,East Northamptonshire,175.61,166,9,5.42,B.1.1.7,7,77.78,9,94527,E07000152
 2020-12-19,East Midlands,East Northamptonshire,175.61,166,9,5.42,B.1.160,1,11.11,2,94527,E07000152
 2020-12-19,East Midlands,East Northamptonshire,175.61,166,9,5.42,B.1.258,1,11.11,1,94527,E07000152
-2020-12-12,East Midlands,East Northamptonshire,150.22,142,2,1.41,B.1.1.7,1,50.0,2,94527,E07000152
 2020-12-12,East Midlands,East Northamptonshire,150.22,142,2,1.41,B.1.1.311,1,50.0,5,94527,E07000152
+2020-12-12,East Midlands,East Northamptonshire,150.22,142,2,1.41,B.1.1.7,1,50.0,2,94527,E07000152
 2020-11-28,East Midlands,East Northamptonshire,139.64,132,2,1.52,B.1.177,2,100.0,25,94527,E07000152
 2020-11-21,East Midlands,East Northamptonshire,128.01,121,12,9.92,B.1.177,6,50.0,23,94527,E07000152
 2020-11-21,East Midlands,East Northamptonshire,128.01,121,12,9.92,B.1.221.1,5,41.67,10,94527,E07000152
@@ -56,22 +57,22 @@ WeekEnding,Region,LTLA,Cases_100K,Weekly_Cases,Sequenced,%Sequenced,Lineage,New_
 2020-10-24,East Midlands,East Northamptonshire,110.02,104,15,14.42,B.1.523,2,13.33,2,94527,E07000152
 2020-10-24,East Midlands,East Northamptonshire,110.02,104,15,14.42,B.1.1.204,2,13.33,3,94527,E07000152
 2020-10-24,East Midlands,East Northamptonshire,110.02,104,15,14.42,B.1.160,1,6.67,1,94527,E07000152
-2020-10-24,East Midlands,East Northamptonshire,110.02,104,15,14.42,B.1.1.7,1,6.67,1,94527,E07000152
 2020-10-24,East Midlands,East Northamptonshire,110.02,104,15,14.42,B.1.177.22,1,6.67,1,94527,E07000152
-2020-10-24,East Midlands,East Northamptonshire,110.02,104,15,14.42,B.1.1.29,1,6.67,1,94527,E07000152
-2020-10-24,East Midlands,East Northamptonshire,110.02,104,15,14.42,B.1.1.294,1,6.67,1,94527,E07000152
 2020-10-24,East Midlands,East Northamptonshire,110.02,104,15,14.42,B.1.177.4,1,6.67,1,94527,E07000152
+2020-10-24,East Midlands,East Northamptonshire,110.02,104,15,14.42,B.1.1.29,1,6.67,1,94527,E07000152
+2020-10-24,East Midlands,East Northamptonshire,110.02,104,15,14.42,B.1.1.7,1,6.67,1,94527,E07000152
+2020-10-24,East Midlands,East Northamptonshire,110.02,104,15,14.42,B.1.1.294,1,6.67,1,94527,E07000152
 2020-10-24,East Midlands,East Northamptonshire,110.02,104,15,14.42,B.1.221.1,1,6.67,1,94527,E07000152
 2020-10-17,East Midlands,East Northamptonshire,83.57,79,4,5.06,B.1.177,2,50.0,7,94527,E07000152
 2020-10-17,East Midlands,East Northamptonshire,83.57,79,4,5.06,B.1.1.311,1,25.0,1,94527,E07000152
 2020-10-17,East Midlands,East Northamptonshire,83.57,79,4,5.06,B.1.235,1,25.0,1,94527,E07000152
 2020-10-10,East Midlands,East Northamptonshire,56.07,53,6,11.32,B.1.177,2,33.33,5,94527,E07000152
 2020-10-10,East Midlands,East Northamptonshire,56.07,53,6,11.32,B.1.1.1,1,16.67,1,94527,E07000152
-2020-10-10,East Midlands,East Northamptonshire,56.07,53,6,11.32,B.1.1.307,1,16.67,1,94527,E07000152
 2020-10-10,East Midlands,East Northamptonshire,56.07,53,6,11.32,B.1.36.17,1,16.67,2,94527,E07000152
+2020-10-10,East Midlands,East Northamptonshire,56.07,53,6,11.32,B.1.1.307,1,16.67,1,94527,E07000152
 2020-10-10,East Midlands,East Northamptonshire,56.07,53,6,11.32,B.1.1.204,1,16.67,1,94527,E07000152
 2020-09-26,East Midlands,East Northamptonshire,10.58,10,1,10.0,Lineage data suppressed,1,100.0,1,94527,E07000152
 2020-09-12,East Midlands,East Northamptonshire,17.98,17,2,11.76,B.1.177,2,100.0,3,94527,E07000152
 2020-09-05,East Midlands,East Northamptonshire,24.33,23,8,34.78,B.1.1.115,6,75.0,6,94527,E07000152
-2020-09-05,East Midlands,East Northamptonshire,24.33,23,8,34.78,B.1.177,1,12.5,1,94527,E07000152
 2020-09-05,East Midlands,East Northamptonshire,24.33,23,8,34.78,B.1.36.17,1,12.5,1,94527,E07000152
+2020-09-05,East Midlands,East Northamptonshire,24.33,23,8,34.78,B.1.177,1,12.5,1,94527,E07000152

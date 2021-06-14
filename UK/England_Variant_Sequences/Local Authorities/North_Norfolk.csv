@@ -1,5 +1,7 @@
 WeekEnding,Region,LTLA,Cases_100K,Weekly_Cases,Sequenced,%Sequenced,Lineage,New_Lineage,%Lineage,Total_Lineage,Population,ONS_Code
-2021-05-29,East of England,North Norfolk,8.58,9,2,22.22,B.1.617.2,2,100.0,2,104837,E07000147
+2021-06-05,East of England,North Norfolk,6.68,7,5,71.43,B.1.617.2,4,80.0,7,104837,E07000147
+2021-06-05,East of England,North Norfolk,6.68,7,5,71.43,B.1.1.7,1,20.0,93,104837,E07000147
+2021-05-29,East of England,North Norfolk,8.58,9,3,33.33,B.1.617.2,3,100.0,3,104837,E07000147
 2021-05-22,East of England,North Norfolk,6.68,7,1,14.29,B.1.1.7,1,100.0,92,104837,E07000147
 2021-05-15,East of England,North Norfolk,5.72,6,1,16.67,B.1.1.7,1,100.0,91,104837,E07000147
 2021-05-08,East of England,North Norfolk,12.4,13,5,38.46,B.1.1.7,5,100.0,90,104837,E07000147
@@ -24,30 +26,30 @@ WeekEnding,Region,LTLA,Cases_100K,Weekly_Cases,Sequenced,%Sequenced,Lineage,New_
 2021-01-09,East of England,North Norfolk,368.19,386,2,0.52,B.1.1.7,2,100.0,18,104837,E07000147
 2021-01-02,East of England,North Norfolk,406.35,426,9,2.11,B.1.1.7,7,77.78,16,104837,E07000147
 2021-01-02,East of England,North Norfolk,406.35,426,9,2.11,B.1.177,2,22.22,19,104837,E07000147
-2020-12-26,East of England,North Norfolk,214.62,225,4,1.78,B.1.1.7,4,100.0,9,104837,E07000147
+2020-12-26,East of England,North Norfolk,213.67,224,4,1.79,B.1.1.7,4,100.0,9,104837,E07000147
 2020-12-19,East of England,North Norfolk,178.37,187,3,1.6,B.1.1.7,3,100.0,5,104837,E07000147
 2020-12-12,East of England,North Norfolk,60.09,63,1,1.59,B.1.1.7,1,100.0,2,104837,E07000147
 2020-12-05,East of England,North Norfolk,72.49,76,1,1.32,Lineage data suppressed,1,100.0,6,104837,E07000147
-2020-11-28,East of England,North Norfolk,56.28,59,2,3.39,B.1.1.7,1,50.0,1,104837,E07000147
 2020-11-28,East of England,North Norfolk,56.28,59,2,3.39,B.1.177,1,50.0,17,104837,E07000147
+2020-11-28,East of England,North Norfolk,56.28,59,2,3.39,B.1.1.7,1,50.0,1,104837,E07000147
 2020-11-21,East of England,North Norfolk,90.62,95,6,6.32,B.1.177,4,66.67,16,104837,E07000147
 2020-11-21,East of England,North Norfolk,90.62,95,6,6.32,B.1.258,1,16.67,1,104837,E07000147
 2020-11-21,East of England,North Norfolk,90.62,95,6,6.32,B.1.1.315,1,16.67,6,104837,E07000147
+2020-11-14,East of England,North Norfolk,65.82,69,14,20.29,B.1.177,4,28.57,12,104837,E07000147
 2020-11-14,East of England,North Norfolk,65.82,69,14,20.29,B.1.1.315,4,28.57,5,104837,E07000147
 2020-11-14,East of England,North Norfolk,65.82,69,14,20.29,B.1.177.16,4,28.57,5,104837,E07000147
-2020-11-14,East of England,North Norfolk,65.82,69,14,20.29,B.1.177,4,28.57,12,104837,E07000147
 2020-11-14,East of England,North Norfolk,65.82,69,14,20.29,B.1.177.18,1,7.14,1,104837,E07000147
 2020-11-14,East of England,North Norfolk,65.82,69,14,20.29,B.1.1.198,1,7.14,3,104837,E07000147
 2020-11-07,East of England,North Norfolk,44.83,47,10,21.28,B.1.177,6,60.0,8,104837,E07000147
-2020-11-07,East of England,North Norfolk,44.83,47,10,21.28,B.1.36.17,1,10.0,1,104837,E07000147
-2020-11-07,East of England,North Norfolk,44.83,47,10,21.28,B.1.177.10,1,10.0,1,104837,E07000147
 2020-11-07,East of England,North Norfolk,44.83,47,10,21.28,B.1.1.315,1,10.0,1,104837,E07000147
+2020-11-07,East of England,North Norfolk,44.83,47,10,21.28,B.1.177.10,1,10.0,1,104837,E07000147
 2020-11-07,East of England,North Norfolk,44.83,47,10,21.28,B.1.1.198,1,10.0,2,104837,E07000147
-2020-10-31,East of England,North Norfolk,25.75,27,3,11.11,B.1.1.198,1,33.33,1,104837,E07000147
-2020-10-31,East of England,North Norfolk,25.75,27,3,11.11,B.1.177.16,1,33.33,1,104837,E07000147
+2020-11-07,East of England,North Norfolk,44.83,47,10,21.28,B.1.36.17,1,10.0,1,104837,E07000147
 2020-10-31,East of England,North Norfolk,25.75,27,3,11.11,B.1.177,1,33.33,2,104837,E07000147
-2020-10-24,East of England,North Norfolk,30.52,32,2,6.25,B.1.160.7,1,50.0,1,104837,E07000147
+2020-10-31,East of England,North Norfolk,25.75,27,3,11.11,B.1.177.16,1,33.33,1,104837,E07000147
+2020-10-31,East of England,North Norfolk,25.75,27,3,11.11,B.1.1.198,1,33.33,1,104837,E07000147
 2020-10-24,East of England,North Norfolk,30.52,32,2,6.25,B.1.177,1,50.0,1,104837,E07000147
+2020-10-24,East of England,North Norfolk,30.52,32,2,6.25,B.1.160.7,1,50.0,1,104837,E07000147
 2020-10-17,East of England,North Norfolk,32.43,34,1,2.94,Lineage data suppressed,1,100.0,5,104837,E07000147
 2020-10-10,East of England,North Norfolk,23.85,25,1,4.0,Lineage data suppressed,1,100.0,4,104837,E07000147
 2020-10-03,East of England,North Norfolk,11.45,12,1,8.33,B.1.1.37,1,100.0,1,104837,E07000147
