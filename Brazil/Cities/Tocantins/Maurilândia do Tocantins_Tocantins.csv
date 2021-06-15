@@ -1,6 +1,10 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-06-11,Tocantins,Maurilândia do Tocantins,29.19,1,0,0.0,273,4,1.47,7968.48,116.75,7.97,3426,2802.1,29.19,2948.05,29.19
-2021-06-10,Tocantins,Maurilândia do Tocantins,1138.35,39,1,29.19,272,4,1.47,7939.29,116.75,7.94,3426,2772.91,1109.16,2918.86,1138.35
+2021-06-12,Tocantins,Maurilândia do Tocantins,0.0,0,0,0.0,273,4,1.47,7968.48,116.75,7.97,3426,2510.21,0.0,2948.05,0.0
+2021-06-11,Tocantins,Maurilândia do Tocantins,29.19,1,0,0.0,273,4,1.47,7968.48,116.75,7.97,3426,2510.21,-233.51,2948.05,29.19
+2021-06-10,Tocantins,Maurilândia do Tocantins,204.32,7,1,29.19,272,4,1.47,7939.29,116.75,7.94,3426,2743.72,204.32,2918.86,204.32
+2021-06-09,Tocantins,Maurilândia do Tocantins,350.26,12,0,0.0,265,3,1.13,7734.97,87.57,7.73,3426,2539.4,321.07,2714.54,350.26
+2021-06-07,Tocantins,Maurilândia do Tocantins,0.0,0,0,0.0,253,3,1.19,7384.71,87.57,7.38,3426,2218.33,0.0,2364.28,0.0
+2021-06-06,Tocantins,Maurilândia do Tocantins,583.77,20,0,0.0,253,3,1.19,7384.71,87.57,7.38,3426,2218.33,554.58,2364.28,583.77
 2021-05-30,Tocantins,Maurilândia do Tocantins,1342.67,46,0,0.0,233,3,1.29,6800.93,87.57,6.8,3426,1663.75,1342.67,1780.51,1342.67
 2021-05-23,Tocantins,Maurilândia do Tocantins,0.0,0,0,0.0,187,3,1.6,5458.26,87.57,5.46,3426,321.08,0.0,437.84,-29.19
 2021-05-21,Tocantins,Maurilândia do Tocantins,262.7,9,0,0.0,187,3,1.6,5458.26,87.57,5.46,3426,321.08,262.7,467.03,233.51

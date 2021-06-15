@@ -1,6 +1,10 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-06-11,Tocantins,Chapada da Natividade,0.0,0,0,0.0,187,2,1.07,5610.56,60.01,5.61,3333,1170.11,0.0,1770.17,-90.01
-2021-06-10,Tocantins,Chapada da Natividade,30.0,1,1,30.0,187,2,1.07,5610.56,60.01,5.61,3333,1170.11,30.0,1860.18,30.0
+2021-06-12,Tocantins,Chapada da Natividade,0.0,0,0,0.0,187,2,1.07,5610.56,60.01,5.61,3333,30.0,0.0,1770.17,0.0
+2021-06-11,Tocantins,Chapada da Natividade,0.0,0,0,0.0,187,2,1.07,5610.56,60.01,5.61,3333,30.0,-810.08,1770.17,0.0
+2021-06-10,Tocantins,Chapada da Natividade,0.0,0,0,0.0,187,2,1.07,5610.56,60.01,5.61,3333,840.08,0.0,1770.17,0.0
+2021-06-09,Tocantins,Chapada da Natividade,0.0,0,0,0.0,187,2,1.07,5610.56,60.01,5.61,3333,840.08,-330.03,1770.17,0.0
+2021-06-07,Tocantins,Chapada da Natividade,0.0,0,0,0.0,187,2,1.07,5610.56,60.01,5.61,3333,1170.11,0.0,1770.17,-90.01
+2021-06-06,Tocantins,Chapada da Natividade,30.0,1,1,30.0,187,2,1.07,5610.56,60.01,5.61,3333,1170.11,30.0,1860.18,30.0
 2021-05-30,Tocantins,Chapada da Natividade,0.0,0,0,0.0,186,1,0.54,5580.56,30.0,5.58,3333,1140.11,0.0,1830.18,0.0
 2021-05-23,Tocantins,Chapada da Natividade,0.0,0,0,0.0,186,1,0.54,5580.56,30.0,5.58,3333,1140.11,0.0,1830.18,30.0
 2021-05-21,Tocantins,Chapada da Natividade,810.08,27,0,0.0,186,1,0.54,5580.56,30.0,5.58,3333,1140.11,810.08,1800.18,810.08

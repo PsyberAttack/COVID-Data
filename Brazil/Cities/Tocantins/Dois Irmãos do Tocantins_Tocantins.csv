@@ -1,6 +1,10 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-06-11,Tocantins,Dois Irmãos do Tocantins,83.36,6,0,0.0,639,17,2.66,8877.47,236.18,8.88,7198,472.35,83.36,986.37,-194.49
-2021-06-10,Tocantins,Dois Irmãos do Tocantins,111.14,8,0,0.0,633,17,2.69,8794.11,236.18,8.79,7198,388.99,125.03,1180.86,-541.82
+2021-06-12,Tocantins,Dois Irmãos do Tocantins,0.0,0,0,0.0,639,17,2.66,8877.47,236.18,8.88,7198,389.0,0.0,861.34,0.0
+2021-06-11,Tocantins,Dois Irmãos do Tocantins,83.36,6,0,0.0,639,17,2.66,8877.47,236.18,8.88,7198,389.0,13.9,861.34,83.36
+2021-06-10,Tocantins,Dois Irmãos do Tocantins,13.89,1,0,0.0,633,17,2.69,8794.11,236.18,8.79,7198,375.1,13.89,777.98,13.89
+2021-06-09,Tocantins,Dois Irmãos do Tocantins,0.0,0,0,0.0,632,17,2.69,8780.22,236.18,8.78,7198,361.21,-13.89,764.09,-125.03
+2021-06-07,Tocantins,Dois Irmãos do Tocantins,13.89,1,0,0.0,632,17,2.69,8780.22,236.18,8.78,7198,375.1,13.89,889.12,-263.96
+2021-06-06,Tocantins,Dois Irmãos do Tocantins,83.36,6,0,0.0,631,17,2.69,8766.32,236.18,8.77,7198,361.21,97.25,1153.08,-569.6
 2021-05-30,Tocantins,Dois Irmãos do Tocantins,194.5,14,1,13.89,625,17,2.72,8682.97,236.18,8.68,7198,263.96,194.5,1722.68,194.5
 2021-05-23,Tocantins,Dois Irmãos do Tocantins,0.0,0,0,0.0,611,16,2.62,8488.47,222.28,8.49,7198,69.46,0.0,1528.18,-611.28
 2021-05-21,Tocantins,Dois Irmãos do Tocantins,69.46,5,0,0.0,611,16,2.62,8488.47,222.28,8.49,7198,69.46,55.57,2139.46,-208.39
