@@ -1,4 +1,5 @@
 date,country,region,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-14,Mexico,Puebla,0.29,18,1,0.02,88312,12178,13.79,1431.57,197.41,1.43,6168883,4.08,0.13,20.82,0.1
 2021-06-13,Mexico,Puebla,0.36,22,1,0.02,88294,12177,13.79,1431.28,197.39,1.43,6168883,3.95,0.02,20.72,-0.06
 2021-06-12,Mexico,Puebla,0.58,36,26,0.42,88272,12176,13.79,1430.92,197.38,1.43,6168883,3.93,-0.04,20.78,-0.73
 2021-06-11,Mexico,Puebla,0.42,26,6,0.1,88236,12150,13.77,1430.34,196.96,1.43,6168883,3.97,-0.13,21.51,-0.76
