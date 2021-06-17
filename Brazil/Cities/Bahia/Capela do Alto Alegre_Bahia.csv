@@ -1,6 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-06-14,Bahia,Capela do Alto Alegre,0.0,0,1,8.59,776,16,2.06,6668.39,137.49,6.67,11637,42.97,0.0,85.93,-17.19
-2021-06-13,Bahia,Capela do Alto Alegre,8.59,1,0,0.0,776,15,1.93,6668.39,128.9,6.67,11637,42.97,8.59,103.12,-8.6
+2021-06-15,Bahia,Capela do Alto Alegre,0.0,0,0,0.0,776,16,2.06,6668.39,137.49,6.67,11637,42.97,0.0,85.93,0.0
+2021-06-14,Bahia,Capela do Alto Alegre,0.0,0,1,8.59,776,16,2.06,6668.39,137.49,6.67,11637,42.97,0.0,85.93,0.0
+2021-06-13,Bahia,Capela do Alto Alegre,8.59,1,0,0.0,776,15,1.93,6668.39,128.9,6.67,11637,42.97,8.59,85.93,-8.6
+2021-06-12,Bahia,Capela do Alto Alegre,0.0,0,0,0.0,775,15,1.94,6659.79,128.9,6.66,11637,34.38,0.0,94.53,-17.19
 2021-06-11,Bahia,Capela do Alto Alegre,17.19,2,0,0.0,775,15,1.94,6659.79,128.9,6.66,11637,34.38,17.19,111.72,17.19
 2021-06-10,Bahia,Capela do Alto Alegre,17.19,2,0,0.0,773,15,1.94,6642.61,128.9,6.64,11637,17.19,17.19,94.53,17.19
 2021-06-09,Bahia,Capela do Alto Alegre,0.0,0,0,0.0,771,15,1.95,6625.42,128.9,6.63,11637,-0.0,0.0,77.34,-8.59
