@@ -1,6 +1,10 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-06-12,Rio Grande do Sul,Gramado Xavier,393.06,17,0,0.0,321,3,0.93,7421.97,69.36,7.42,4325,901.73,393.06,1526.01,393.06
-2021-06-08,Rio Grande do Sul,Gramado Xavier,69.36,3,0,0.0,304,3,0.99,7028.9,69.36,7.03,4325,508.67,69.36,1132.95,-23.13
+2021-06-15,Rio Grande do Sul,Gramado Xavier,277.46,12,0,0.0,333,3,0.9,7699.42,69.36,7.7,4325,739.88,277.46,1826.59,300.58
+2021-06-14,Rio Grande do Sul,Gramado Xavier,0.0,0,0,0.0,321,3,0.93,7421.97,69.36,7.42,4325,462.42,-46.24,1526.01,0.0
+2021-06-13,Rio Grande do Sul,Gramado Xavier,0.0,0,0,0.0,321,3,0.93,7421.97,69.36,7.42,4325,508.66,-115.61,1526.01,0.0
+2021-06-12,Rio Grande do Sul,Gramado Xavier,393.06,17,0,0.0,321,3,0.93,7421.97,69.36,7.42,4325,624.27,115.6,1526.01,393.06
+2021-06-08,Rio Grande do Sul,Gramado Xavier,69.36,3,0,0.0,304,3,0.99,7028.9,69.36,7.03,4325,508.67,69.36,1132.95,69.36
+2021-06-07,Rio Grande do Sul,Gramado Xavier,0.0,0,0,0.0,301,3,1.0,6959.54,69.36,6.96,4325,439.31,0.0,1063.59,-92.49
 2021-06-05,Rio Grande do Sul,Gramado Xavier,0.0,0,0,0.0,301,3,1.0,6959.54,69.36,6.96,4325,439.31,-92.49,1156.08,23.12
 2021-06-04,Rio Grande do Sul,Gramado Xavier,0.0,0,0,0.0,301,3,1.0,6959.54,69.36,6.96,4325,531.8,0.0,1132.96,-300.58
 2021-06-03,Rio Grande do Sul,Gramado Xavier,46.24,2,0,0.0,301,3,1.0,6959.54,69.36,6.96,4325,531.8,23.12,1433.54,46.24

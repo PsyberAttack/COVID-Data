@@ -1,4 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-20 00:00:00+00:00,Berlin,Berlin Reinickendorf,0.42,1,0,0.0,13896,288,2.07,5779.07,119.77,5.78,240454,5.4,0.0,67.79,-4.99
+2021-06-19 00:00:00+00:00,Berlin,Berlin Reinickendorf,0.0,0,0,0.0,13895,288,2.07,5778.65,119.77,5.78,240454,5.4,-2.08,72.78,-3.74
 2021-06-18 00:00:00+00:00,Berlin,Berlin Reinickendorf,0.83,2,0,0.0,13895,288,2.07,5778.65,119.77,5.78,240454,7.48,-2.5,76.52,-5.82
 2021-06-17 00:00:00+00:00,Berlin,Berlin Reinickendorf,0.0,0,0,0.0,13893,288,2.07,5777.82,119.77,5.78,240454,9.98,-3.33,82.34,-4.57
 2021-06-16 00:00:00+00:00,Berlin,Berlin Reinickendorf,1.66,4,0,0.0,13893,288,2.07,5777.82,119.77,5.78,240454,13.31,-4.16,86.91,-4.99
