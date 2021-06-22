@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-21,Pennsylvania,Wayne,0.0,0,0,0.0,4142,84.0,2.03,8077.85,163.82,8.08,51276,70.67,27.3,-1.95,111.15,-3.9
 2021-06-20,Pennsylvania,Wayne,0.0,0,1,1.95,4142,84.0,2.03,8077.85,163.82,8.08,51276,70.67,29.25,0.0,115.05,-31.2
 2021-06-19,Pennsylvania,Wayne,1.95,1,0,0.0,4142,83.0,2.0,8077.85,161.87,8.08,51276,70.67,29.25,0.0,146.25,1.95
 2021-06-18,Pennsylvania,Wayne,7.8,4,0,0.0,4141,83.0,2.0,8075.9,161.87,8.08,51276,70.67,29.25,3.9,144.3,-19.5

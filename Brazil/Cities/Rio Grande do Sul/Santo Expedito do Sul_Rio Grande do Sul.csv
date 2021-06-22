@@ -1,8 +1,16 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-06-15,Rio Grande do Sul,Santo Expedito do Sul,0.0,0,0,0.0,187,3,1.6,8046.47,129.09,8.05,2324,989.67,0.0,2538.73,-43.03
-2021-06-14,Rio Grande do Sul,Santo Expedito do Sul,0.0,0,0,0.0,187,3,1.6,8046.47,129.09,8.05,2324,989.67,0.0,2581.76,-215.15
-2021-06-13,Rio Grande do Sul,Santo Expedito do Sul,0.0,0,0,0.0,187,3,1.6,8046.47,129.09,8.05,2324,989.67,-860.59,2796.91,-43.03
-2021-06-12,Rio Grande do Sul,Santo Expedito do Sul,989.67,23,0,0.0,187,3,1.6,8046.47,129.09,8.05,2324,1850.26,989.67,2839.94,989.67
+2021-06-20,Rio Grande do Sul,Santo Expedito do Sul,0.0,0,0,0.0,189,4,2.12,8132.53,172.12,8.13,2324,86.06,0.0,2151.47,0.0
+2021-06-19,Rio Grande do Sul,Santo Expedito do Sul,0.0,0,1,43.03,189,4,2.12,8132.53,172.12,8.13,2324,86.06,0.0,2151.47,0.0
+2021-06-18,Rio Grande do Sul,Santo Expedito do Sul,0.0,0,0,0.0,189,3,1.59,8132.53,129.09,8.13,2324,86.06,0.0,2151.47,-473.32
+2021-06-17,Rio Grande do Sul,Santo Expedito do Sul,86.06,2,0,0.0,189,3,1.59,8132.53,129.09,8.13,2324,86.06,-860.58,2624.79,86.06
+2021-06-16,Rio Grande do Sul,Santo Expedito do Sul,0.0,0,0,0.0,187,3,1.6,8046.47,129.09,8.05,2324,946.64,-43.03,2538.73,0.0
+2021-06-15,Rio Grande do Sul,Santo Expedito do Sul,0.0,0,0,0.0,187,3,1.6,8046.47,129.09,8.05,2324,989.67,0.0,2538.73,0.0
+2021-06-14,Rio Grande do Sul,Santo Expedito do Sul,0.0,0,0,0.0,187,3,1.6,8046.47,129.09,8.05,2324,989.67,0.0,2538.73,0.0
+2021-06-13,Rio Grande do Sul,Santo Expedito do Sul,0.0,0,0,0.0,187,3,1.6,8046.47,129.09,8.05,2324,989.67,0.0,2538.73,0.0
+2021-06-12,Rio Grande do Sul,Santo Expedito do Sul,0.0,0,0,0.0,187,3,1.6,8046.47,129.09,8.05,2324,989.67,0.0,2538.73,-43.03
+2021-06-11,Rio Grande do Sul,Santo Expedito do Sul,0.0,0,0,0.0,187,3,1.6,8046.47,129.09,8.05,2324,989.67,0.0,2581.76,-215.15
+2021-06-10,Rio Grande do Sul,Santo Expedito do Sul,946.64,22,0,0.0,187,3,1.6,8046.47,129.09,8.05,2324,989.67,86.05,2796.91,903.61
+2021-06-09,Rio Grande do Sul,Santo Expedito do Sul,43.03,1,0,0.0,165,3,1.82,7099.83,129.09,7.1,2324,903.62,43.03,1893.3,43.03
 2021-06-08,Rio Grande do Sul,Santo Expedito do Sul,0.0,0,0,0.0,164,3,1.83,7056.8,129.09,7.06,2324,860.59,0.0,1850.27,0.0
 2021-06-07,Rio Grande do Sul,Santo Expedito do Sul,0.0,0,0,0.0,164,3,1.83,7056.8,129.09,7.06,2324,860.59,0.0,1850.27,-43.03
 2021-06-05,Rio Grande do Sul,Santo Expedito do Sul,0.0,0,0,0.0,164,3,1.83,7056.8,129.09,7.06,2324,860.59,-215.15,1893.3,-129.09

@@ -1,8 +1,16 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-06-15,Rio Grande do Sul,Doutor Maurício Cardoso,65.95,3,0,0.0,313,12,3.83,6880.63,263.79,6.88,4549,483.61,65.95,747.4,43.97
-2021-06-14,Rio Grande do Sul,Doutor Maurício Cardoso,0.0,0,0,0.0,310,12,3.87,6814.68,263.79,6.81,4549,417.66,-43.97,703.43,-43.97
-2021-06-13,Rio Grande do Sul,Doutor Maurício Cardoso,263.79,12,0,0.0,310,12,3.87,6814.68,263.79,6.81,4549,461.63,241.81,747.4,263.79
-2021-06-12,Rio Grande do Sul,Doutor Maurício Cardoso,109.91,5,0,0.0,298,12,4.03,6550.89,263.79,6.55,4549,219.82,87.93,483.61,21.98
+2021-06-20,Rio Grande do Sul,Doutor Maurício Cardoso,0.0,0,0,0.0,319,12,3.76,7012.53,263.79,7.01,4549,197.85,-263.79,857.33,0.0
+2021-06-19,Rio Grande do Sul,Doutor Maurício Cardoso,43.97,2,0,0.0,319,12,3.76,7012.53,263.79,7.01,4549,461.64,43.97,857.33,43.97
+2021-06-18,Rio Grande do Sul,Doutor Maurício Cardoso,0.0,0,0,0.0,317,12,3.79,6968.56,263.79,6.97,4549,417.67,-65.95,813.36,0.0
+2021-06-17,Rio Grande do Sul,Doutor Maurício Cardoso,65.95,3,0,0.0,317,12,3.79,6968.56,263.79,6.97,4549,483.62,65.95,813.36,65.95
+2021-06-16,Rio Grande do Sul,Doutor Maurício Cardoso,21.98,1,0,0.0,314,12,3.82,6902.62,263.79,6.9,4549,417.67,-21.99,747.41,21.98
+2021-06-15,Rio Grande do Sul,Doutor Maurício Cardoso,65.95,3,0,0.0,313,12,3.83,6880.63,263.79,6.88,4549,439.66,43.97,725.43,65.95
+2021-06-14,Rio Grande do Sul,Doutor Maurício Cardoso,0.0,0,0,0.0,310,12,3.87,6814.68,263.79,6.81,4549,395.69,0.0,659.48,-21.98
+2021-06-13,Rio Grande do Sul,Doutor Maurício Cardoso,263.79,12,0,0.0,310,12,3.87,6814.68,263.79,6.81,4549,395.69,241.81,681.46,263.79
+2021-06-12,Rio Grande do Sul,Doutor Maurício Cardoso,0.0,0,0,0.0,298,12,4.03,6550.89,263.79,6.55,4549,153.88,0.0,417.67,-21.98
+2021-06-11,Rio Grande do Sul,Doutor Maurício Cardoso,65.95,3,0,0.0,298,12,4.03,6550.89,263.79,6.55,4549,153.88,21.98,439.65,21.98
+2021-06-10,Rio Grande do Sul,Doutor Maurício Cardoso,0.0,0,0,0.0,295,12,4.07,6484.94,263.79,6.48,4549,131.9,-21.98,417.67,0.0
+2021-06-09,Rio Grande do Sul,Doutor Maurício Cardoso,43.97,2,0,0.0,295,12,4.07,6484.94,263.79,6.48,4549,153.88,21.99,417.67,-43.96
 2021-06-08,Rio Grande do Sul,Doutor Maurício Cardoso,21.98,1,0,0.0,293,12,4.1,6440.98,263.79,6.44,4549,131.89,0.0,461.63,21.98
 2021-06-07,Rio Grande do Sul,Doutor Maurício Cardoso,0.0,0,0,0.0,292,12,4.11,6418.99,263.79,6.42,4549,131.89,-43.97,439.65,-65.95
 2021-06-05,Rio Grande do Sul,Doutor Maurício Cardoso,21.98,1,0,0.0,292,12,4.11,6418.99,263.79,6.42,4549,175.86,0.0,505.6,-65.95

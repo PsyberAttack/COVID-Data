@@ -1,8 +1,16 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-06-15,Rio Grande do Sul,Santa Margarida do Sul,0.0,0,0,0.0,114,4,3.51,4449.65,156.13,4.45,2562,156.13,0.0,546.45,0.0
-2021-06-14,Rio Grande do Sul,Santa Margarida do Sul,0.0,0,0,0.0,114,4,3.51,4449.65,156.13,4.45,2562,156.13,0.0,546.45,0.0
-2021-06-13,Rio Grande do Sul,Santa Margarida do Sul,0.0,0,0,0.0,114,4,3.51,4449.65,156.13,4.45,2562,156.13,0.0,546.45,0.0
-2021-06-12,Rio Grande do Sul,Santa Margarida do Sul,117.1,3,1,39.03,114,4,3.51,4449.65,156.13,4.45,2562,156.13,117.1,546.45,117.1
+2021-06-20,Rio Grande do Sul,Santa Margarida do Sul,0.0,0,0,0.0,117,4,3.42,4566.74,156.13,4.57,2562,117.09,0.0,507.4,0.0
+2021-06-19,Rio Grande do Sul,Santa Margarida do Sul,0.0,0,0,0.0,117,4,3.42,4566.74,156.13,4.57,2562,117.09,-39.03,507.4,39.03
+2021-06-18,Rio Grande do Sul,Santa Margarida do Sul,39.03,1,0,0.0,117,4,3.42,4566.74,156.13,4.57,2562,156.12,39.03,468.37,39.03
+2021-06-17,Rio Grande do Sul,Santa Margarida do Sul,0.0,0,0,0.0,116,4,3.45,4527.71,156.13,4.53,2562,117.09,-39.03,429.34,-156.13
+2021-06-16,Rio Grande do Sul,Santa Margarida do Sul,78.06,2,0,0.0,116,4,3.45,4527.71,156.13,4.53,2562,156.12,39.03,585.47,78.06
+2021-06-15,Rio Grande do Sul,Santa Margarida do Sul,0.0,0,0,0.0,114,4,3.51,4449.65,156.13,4.45,2562,117.09,0.0,507.41,0.0
+2021-06-14,Rio Grande do Sul,Santa Margarida do Sul,0.0,0,0,0.0,114,4,3.51,4449.65,156.13,4.45,2562,117.09,0.0,507.41,-39.03
+2021-06-13,Rio Grande do Sul,Santa Margarida do Sul,0.0,0,0,0.0,114,4,3.51,4449.65,156.13,4.45,2562,117.09,-39.03,546.44,0.0
+2021-06-12,Rio Grande do Sul,Santa Margarida do Sul,39.03,1,0,0.0,114,4,3.51,4449.65,156.13,4.45,2562,156.12,39.03,546.44,39.03
+2021-06-11,Rio Grande do Sul,Santa Margarida do Sul,0.0,0,1,39.03,113,4,3.54,4410.62,156.13,4.41,2562,117.09,0.0,507.41,0.0
+2021-06-10,Rio Grande do Sul,Santa Margarida do Sul,39.03,1,0,0.0,113,3,2.65,4410.62,117.1,4.41,2562,117.09,39.03,507.41,39.03
+2021-06-09,Rio Grande do Sul,Santa Margarida do Sul,39.03,1,0,0.0,112,3,2.68,4371.58,117.1,4.37,2562,78.06,39.03,468.38,39.03
 2021-06-08,Rio Grande do Sul,Santa Margarida do Sul,0.0,0,0,0.0,111,3,2.7,4332.55,117.1,4.33,2562,39.03,0.0,429.35,0.0
 2021-06-07,Rio Grande do Sul,Santa Margarida do Sul,0.0,0,1,39.03,111,3,2.7,4332.55,117.1,4.33,2562,39.03,0.0,429.35,-39.03
 2021-06-05,Rio Grande do Sul,Santa Margarida do Sul,39.03,1,0,0.0,111,2,1.8,4332.55,78.06,4.33,2562,39.03,-78.07,468.38,39.03

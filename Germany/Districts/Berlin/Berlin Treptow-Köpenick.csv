@@ -1,4 +1,7 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-21 00:00:00+00:00,Berlin,Berlin Treptow-Köpenick,1.66,4,0,0.0,9884,216,2.19,4095.55,89.5,4.1,241335,6.62,0.83,45.97,0.0
+2021-06-20 00:00:00+00:00,Berlin,Berlin Treptow-Köpenick,0.0,0,0,0.0,9880,216,2.19,4093.89,89.5,4.09,241335,5.79,0.0,45.97,-1.24
+2021-06-19 00:00:00+00:00,Berlin,Berlin Treptow-Köpenick,0.0,0,0,0.0,9880,216,2.19,4093.89,89.5,4.09,241335,5.79,0.0,47.21,-1.66
 2021-06-18 00:00:00+00:00,Berlin,Berlin Treptow-Köpenick,0.41,1,0,0.0,9880,216,2.19,4093.89,89.5,4.09,241335,5.79,-0.83,48.87,-4.98
 2021-06-17 00:00:00+00:00,Berlin,Berlin Treptow-Köpenick,1.24,3,0,0.0,9879,216,2.19,4093.48,89.5,4.09,241335,6.62,-0.42,53.85,-5.39
 2021-06-16 00:00:00+00:00,Berlin,Berlin Treptow-Köpenick,1.24,3,0,0.0,9876,216,2.19,4092.24,89.5,4.09,241335,7.04,-0.42,59.24,-6.22
