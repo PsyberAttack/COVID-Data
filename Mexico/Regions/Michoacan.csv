@@ -1,4 +1,6 @@
 date,country,region,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-22,Mexico,Michoacan,0.39,18,5,0.11,48667,5825,11.97,1061.56,127.06,1.06,4584471,1.83,0.06,20.11,-0.13
+2021-06-21,Mexico,Michoacan,0.2,9,3,0.07,48649,5820,11.96,1061.17,126.95,1.06,4584471,1.77,0.09,20.24,0.0
 2021-06-20,Mexico,Michoacan,0.04,2,0,0.0,48640,5817,11.96,1060.97,126.88,1.06,4584471,1.68,-0.05,20.24,-0.4
 2021-06-19,Mexico,Michoacan,0.22,10,4,0.09,48638,5817,11.96,1060.93,126.88,1.06,4584471,1.73,-0.22,20.64,-0.81
 2021-06-18,Mexico,Michoacan,0.24,11,2,0.04,48628,5813,11.95,1060.71,126.8,1.06,4584471,1.95,-0.28,21.45,-0.44
