@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-24,New York,Nassau,1.99,27,0,0.0,183852,3178.0,1.73,13535.02,233.96,13.54,1358343,4772.98,11.41,0.22,58.61,-2.06
 2021-06-23,New York,Nassau,1.18,16,0,0.0,183825,3178.0,1.73,13533.03,233.96,13.53,1358343,4772.98,11.19,-0.59,60.67,-2.94
 2021-06-22,New York,Nassau,1.62,22,0,0.0,183809,3178.0,1.73,13531.85,233.96,13.53,1358343,4772.98,11.78,-0.22,63.61,-1.55
 2021-06-21,New York,Nassau,1.4,19,1,0.07,183787,3178.0,1.73,13530.23,233.96,13.53,1358343,4772.98,12.0,-0.29,65.16,-1.77
