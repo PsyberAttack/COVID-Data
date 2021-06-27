@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-06-24,Bahia,Governador Mangabeira,96.52,20,1,4.83,952,16,1.68,4594.15,77.21,4.59,20722,246.13,82.04,598.43,96.52
+2021-06-25,Bahia,Governador Mangabeira,19.3,4,0,0.0,956,16,1.67,4613.45,77.21,4.61,20722,231.64,-14.48,617.72,19.3
+2021-06-24,Bahia,Governador Mangabeira,19.3,4,0,0.0,952,16,1.68,4594.15,77.21,4.59,20722,246.12,19.3,598.42,19.3
+2021-06-23,Bahia,Governador Mangabeira,77.21,16,1,4.83,948,16,1.69,4574.85,77.21,4.57,20722,226.82,62.73,579.12,77.21
 2021-06-22,Bahia,Governador Mangabeira,48.26,10,0,0.0,932,15,1.61,4497.64,72.39,4.5,20722,164.09,43.43,501.91,-9.65
 2021-06-21,Bahia,Governador Mangabeira,0.0,0,0,0.0,922,15,1.63,4449.38,72.39,4.45,20722,120.66,-33.78,511.56,-4.83
 2021-06-20,Bahia,Governador Mangabeira,62.74,13,0,0.0,922,15,1.63,4449.38,72.39,4.45,20722,154.44,62.74,516.39,38.61

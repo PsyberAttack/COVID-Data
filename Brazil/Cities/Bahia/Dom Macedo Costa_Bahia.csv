@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-06-24,Bahia,Dom Macedo Costa,0.0,0,0,0.0,366,7,1.91,9019.22,172.5,9.02,4058,123.21,-24.64,271.06,-73.93
+2021-06-25,Bahia,Dom Macedo Costa,0.0,0,0,0.0,366,7,1.91,9019.22,172.5,9.02,4058,123.21,24.64,246.42,-24.64
+2021-06-24,Bahia,Dom Macedo Costa,0.0,0,0,0.0,366,7,1.91,9019.22,172.5,9.02,4058,98.57,-24.64,271.06,0.0
+2021-06-23,Bahia,Dom Macedo Costa,0.0,0,0,0.0,366,7,1.91,9019.22,172.5,9.02,4058,123.21,-24.64,271.06,-73.93
 2021-06-22,Bahia,Dom Macedo Costa,24.64,1,0,0.0,366,7,1.91,9019.22,172.5,9.02,4058,147.85,24.64,344.99,24.64
 2021-06-21,Bahia,Dom Macedo Costa,24.64,1,0,0.0,365,7,1.92,8994.58,172.5,8.99,4058,123.21,24.64,320.35,0.0
 2021-06-20,Bahia,Dom Macedo Costa,0.0,0,0,0.0,364,7,1.92,8969.94,172.5,8.97,4058,98.57,0.0,320.35,-24.64
