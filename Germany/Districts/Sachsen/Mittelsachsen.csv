@@ -1,4 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-06-26 00:00:00+00:00,Sachsen,Mittelsachsen,0.33,1,0,0.0,24301,696,2.86,7936.7,227.31,7.94,306185,1.32,0.0,65.33,-6.53
+2021-06-25 00:00:00+00:00,Sachsen,Mittelsachsen,0.0,0,0,0.0,24300,696,2.86,7936.38,227.31,7.94,306185,1.32,-0.65,71.86,-7.19
 2021-06-24 00:00:00+00:00,Sachsen,Mittelsachsen,0.33,1,0,0.0,24300,696,2.86,7936.38,227.31,7.94,306185,1.97,-0.32,79.05,-9.47
 2021-06-23 00:00:00+00:00,Sachsen,Mittelsachsen,0.33,1,0,0.0,24299,696,2.86,7936.05,227.31,7.94,306185,2.29,0.33,88.52,-9.79
 2021-06-22 00:00:00+00:00,Sachsen,Mittelsachsen,0.0,0,0,0.0,24298,696,2.86,7935.73,227.31,7.94,306185,1.96,-0.98,98.31,-8.82
