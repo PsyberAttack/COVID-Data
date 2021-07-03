@@ -1,4 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-01 00:00:00+00:00,Baden-Württemberg,Esslingen,0.19,1,0,0.0,26300,549,2.09,4926.39,102.84,4.93,533859,4.5,-0.75,45.15,-3.74
+2021-06-30 00:00:00+00:00,Baden-Württemberg,Esslingen,0.0,0,0,0.0,26299,549,2.09,4926.21,102.84,4.93,533859,5.25,-0.75,48.89,-3.93
 2021-06-29 00:00:00+00:00,Baden-Württemberg,Esslingen,0.75,4,0,0.0,26299,549,2.09,4926.21,102.84,4.93,533859,6.0,-0.37,52.82,-2.25
 2021-06-28 00:00:00+00:00,Baden-Württemberg,Esslingen,1.5,8,0,0.0,26295,549,2.09,4925.46,102.84,4.93,533859,6.37,-0.56,55.07,-1.68
 2021-06-27 00:00:00+00:00,Baden-Württemberg,Esslingen,0.56,3,0,0.0,26287,549,2.09,4923.96,102.84,4.92,533859,6.93,0.19,56.75,-3.94

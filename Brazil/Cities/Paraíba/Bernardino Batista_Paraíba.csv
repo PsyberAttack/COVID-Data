@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-01,Paraíba,Bernardino Batista,0.0,0,0,0.0,273,1,0.37,7797.77,28.56,7.8,3501,85.68,0.0,1171.08,0.0
+2021-06-30,Paraíba,Bernardino Batista,0.0,0,1,28.56,273,1,0.37,7797.77,28.56,7.8,3501,85.68,-57.13,1171.08,0.0
+2021-06-29,Paraíba,Bernardino Batista,28.56,1,0,0.0,273,0,0.0,7797.77,0.0,7.8,3501,142.81,-57.13,1171.08,28.56
 2021-06-28,Paraíba,Bernardino Batista,28.56,1,0,0.0,272,0,0.0,7769.21,0.0,7.77,3501,199.94,-85.69,1142.52,28.56
 2021-06-27,Paraíba,Bernardino Batista,0.0,0,0,0.0,271,0,0.0,7740.65,0.0,7.74,3501,285.63,0.0,1113.96,0.0
 2021-06-26,Paraíba,Bernardino Batista,28.56,1,0,0.0,271,0,0.0,7740.65,0.0,7.74,3501,285.63,-85.69,1113.96,28.56

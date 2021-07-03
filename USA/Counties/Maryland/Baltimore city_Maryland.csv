@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-01,Maryland,Baltimore city,1.16,7,2,0.33,53173,1252.0,2.35,8825.47,207.8,8.83,602495,7443.17,7.3,0.0,45.98,-0.83
 2021-06-30,Maryland,Baltimore city,1.33,8,1,0.17,53166,1250.0,2.35,8824.31,207.47,8.82,602495,7443.17,7.3,1.5,46.81,2.16
 2021-06-29,Maryland,Baltimore city,0.17,1,0,0.0,53158,1249.0,2.35,8822.98,207.3,8.82,602495,7443.17,5.8,-0.99,44.65,-1.99
 2021-06-28,Maryland,Baltimore city,0.66,4,0,0.0,53157,1249.0,2.35,8822.81,207.3,8.82,602495,7443.17,6.79,-0.34,46.64,-1.5
