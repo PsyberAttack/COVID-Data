@@ -1,4 +1,6 @@
 date,region,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Podkarpackie,0.09,2,-1,-0.05,5,0,0.0,0.24,0.0,0.0,2127164,-0.01,0.09,-0.67,-0.43
+2021-07-02,Podkarpackie,0.0,0,1,0.05,3,1,33.33,0.14,0.05,0.0,2127164,-0.1,-0.09,-0.24,0.38
 2021-07-01,Podkarpackie,-0.05,-1,-1,-0.05,3,0,0.0,0.14,0.0,0.0,2127164,-0.01,0.37,-0.62,-0.29
 2021-06-30,Podkarpackie,0.19,4,0,0.0,4,1,25.0,0.19,0.05,0.0,2127164,-0.38,-0.05,-0.33,0.24
 2021-06-29,Podkarpackie,-0.33,-7,1,0.05,0,1,inf,0.0,0.05,0.0,2127164,-0.33,-0.47,-0.57,-0.42
