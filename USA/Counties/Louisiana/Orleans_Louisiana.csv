@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Louisiana,Orleans,0.0,0,0,0.0,31139,805.0,2.59,7963.82,205.88,7.96,391006,2307.78,36.58,0.0,114.59,0.0
+2021-07-02,Louisiana,Orleans,5.63,22,0,0.0,31139,805.0,2.59,7963.82,205.88,7.96,391006,2307.78,36.58,1.03,114.59,1.54
 2021-07-01,Louisiana,Orleans,5.88,23,0,0.0,31117,805.0,2.59,7958.19,205.88,7.96,391006,2307.78,35.55,3.07,113.05,-0.26
 2021-06-30,Louisiana,Orleans,6.65,26,0,0.0,31094,805.0,2.59,7952.31,205.88,7.95,391006,2307.78,32.48,2.56,113.31,1.28
 2021-06-29,Louisiana,Orleans,6.91,27,0,0.0,31068,805.0,2.59,7945.66,205.88,7.95,391006,2307.78,29.92,3.33,112.03,-11.5

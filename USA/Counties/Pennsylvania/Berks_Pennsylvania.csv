@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Pennsylvania,Berks,1.67,7,0,0.0,48484,1042.0,2.15,11539.63,248.01,11.54,420152,490.62,10.0,0.96,87.11,-2.38
+2021-07-02,Pennsylvania,Berks,1.43,6,0,0.0,48477,1042.0,2.15,11537.97,248.01,11.54,420152,490.62,9.04,0.48,89.49,-3.57
 2021-07-01,Pennsylvania,Berks,0.95,4,0,0.0,48471,1042.0,2.15,11536.54,248.01,11.54,420152,490.62,8.56,0.24,93.06,-5.0
 2021-06-30,Pennsylvania,Berks,1.9,8,1,0.24,48467,1042.0,2.15,11535.59,248.01,11.54,420152,490.62,8.32,-2.38,98.06,-7.14
 2021-06-29,Pennsylvania,Berks,2.14,9,0,0.0,48459,1041.0,2.15,11533.68,247.77,11.53,420152,490.62,10.7,-0.24,105.2,-1.19

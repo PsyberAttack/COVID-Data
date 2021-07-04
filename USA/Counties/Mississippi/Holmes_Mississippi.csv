@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Mississippi,Holmes,0.0,0,0,0.0,1910,74.0,3.87,10838.72,419.93,10.84,17622,23.29,28.36,0.0,56.73,0.0
+2021-07-02,Mississippi,Holmes,11.35,2,0,0.0,1910,74.0,3.87,10838.72,419.93,10.84,17622,23.29,28.36,11.35,56.73,11.35
 2021-07-01,Mississippi,Holmes,5.67,1,0,0.0,1908,74.0,3.88,10827.37,419.93,10.83,17622,23.29,17.01,5.67,45.38,-11.35
 2021-06-30,Mississippi,Holmes,0.0,0,0,0.0,1907,74.0,3.88,10821.7,419.93,10.82,17622,23.29,11.34,0.0,56.73,-5.67
 2021-06-29,Mississippi,Holmes,5.67,1,0,0.0,1907,74.0,3.88,10821.7,419.93,10.82,17622,23.29,11.34,-5.68,62.4,5.67

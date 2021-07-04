@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Montana,Missoula,0.0,0,0,0.0,9383,96.0,1.02,7898.75,80.81,7.9,118791,45.81,21.05,0.0,116.17,0.0
+2021-07-02,Montana,Missoula,4.21,5,0,0.0,9383,96.0,1.02,7898.75,80.81,7.9,118791,45.81,21.05,2.53,116.17,-8.42
 2021-07-01,Montana,Missoula,5.89,7,0,0.0,9378,96.0,1.02,7894.54,80.81,7.89,118791,45.81,18.52,-0.84,124.59,0.84
 2021-06-30,Montana,Missoula,4.21,5,0,0.0,9371,96.0,1.02,7888.64,80.81,7.89,118791,45.81,19.36,0.84,123.75,0.0
 2021-06-29,Montana,Missoula,3.37,4,0,0.0,9366,96.0,1.02,7884.44,80.81,7.88,118791,45.81,18.52,-5.89,123.75,0.0

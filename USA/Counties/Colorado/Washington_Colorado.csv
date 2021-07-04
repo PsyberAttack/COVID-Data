@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Colorado,Washington,0.0,0,0,0.0,474,13.0,2.74,9655.73,264.82,9.66,4909,1.95,20.37,20.37,122.22,0.0
+2021-07-02,Colorado,Washington,20.37,1,0,0.0,474,13.0,2.74,9655.73,264.82,9.66,4909,1.95,-0.0,20.37,122.22,0.0
 2021-07-01,Colorado,Washington,0.0,0,0,0.0,473,13.0,2.75,9635.36,264.82,9.64,4909,1.95,-20.37,0.0,122.22,-20.37
 2021-06-30,Colorado,Washington,0.0,0,0,0.0,473,13.0,2.75,9635.36,264.82,9.64,4909,1.95,-20.37,0.0,142.59,-61.11
 2021-06-29,Colorado,Washington,-20.37,-1,0,0.0,473,13.0,2.75,9635.36,264.82,9.64,4909,1.95,-20.37,-40.74,203.7,-20.37

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,New York,Oswego,0.0,0,0,0.0,7640,93.0,1.22,6480.18,78.88,6.48,117898,123.89,2.55,-0.85,39.03,-5.94
+2021-07-02,New York,Oswego,0.0,0,0,0.0,7640,93.0,1.22,6480.18,78.88,6.48,117898,123.89,3.4,0.0,44.97,-4.24
 2021-07-01,New York,Oswego,0.85,1,0,0.0,7640,93.0,1.22,6480.18,78.88,6.48,117898,123.89,3.4,-1.69,49.21,-0.85
 2021-06-30,New York,Oswego,0.0,0,0,0.0,7639,93.0,1.22,6479.33,78.88,6.48,117898,123.89,5.09,-0.85,50.06,-1.7
 2021-06-29,New York,Oswego,0.0,0,0,0.0,7639,93.0,1.22,6479.33,78.88,6.48,117898,123.89,5.94,-4.24,51.76,0.0

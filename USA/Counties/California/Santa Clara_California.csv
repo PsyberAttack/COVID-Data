@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,California,Santa Clara,2.58,50,0,0.0,119498,1699.0,1.42,6167.42,87.69,6.17,1937570,1500.73,-39.94,2.68,-6.23,1.19
+2021-07-02,California,Santa Clara,3.1,60,-503,-25.96,119448,1699.0,1.42,6164.84,87.69,6.16,1937570,1500.73,-42.62,0.98,-7.42,1.09
 2021-07-01,California,Santa Clara,1.6,31,1,0.05,119388,2202.0,1.84,6161.74,113.65,6.16,1937570,1500.73,-43.6,-0.41,-8.51,0.31
 2021-06-30,California,Santa Clara,-52.64,-1020,3,0.15,119357,2201.0,1.84,6160.14,113.6,6.16,1937570,1500.73,-43.19,-52.74,-8.82,-53.31
 2021-06-29,California,Santa Clara,1.29,25,-3,-0.15,120377,2198.0,1.83,6212.78,113.44,6.21,1937570,1500.73,9.55,-0.21,44.49,1.03

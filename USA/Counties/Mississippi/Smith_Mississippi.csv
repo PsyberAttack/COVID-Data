@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Mississippi,Smith,0.0,0,0,0.0,1659,34.0,2.05,10367.45,212.47,10.37,16002,25.15,106.25,0.0,125.0,0.0
+2021-07-02,Mississippi,Smith,37.5,6,0,0.0,1659,34.0,2.05,10367.45,212.47,10.37,16002,25.15,106.25,37.5,125.0,25.0
 2021-07-01,Mississippi,Smith,25.0,4,0,0.0,1653,34.0,2.06,10329.96,212.47,10.33,16002,25.15,68.75,18.75,100.0,25.0
 2021-06-30,Mississippi,Smith,6.25,1,0,0.0,1649,34.0,2.06,10304.96,212.47,10.3,16002,25.15,50.0,6.25,75.0,6.25
 2021-06-29,Mississippi,Smith,31.25,5,0,0.0,1648,34.0,2.06,10298.71,212.47,10.3,16002,25.15,43.75,31.25,68.75,25.0

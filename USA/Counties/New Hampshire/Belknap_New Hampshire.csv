@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,New Hampshire,Belknap,0.0,0,0,0.0,4183,100.0,2.39,6854.9,163.88,6.85,61022,151.85,32.79,0.0,93.45,0.0
+2021-07-02,New Hampshire,Belknap,11.47,7,0,0.0,4183,100.0,2.39,6854.9,163.88,6.85,61022,151.85,32.79,11.47,93.45,4.91
 2021-07-01,New Hampshire,Belknap,4.92,3,0,0.0,4176,100.0,2.39,6843.43,163.88,6.84,61022,151.85,21.32,4.92,88.54,-3.27
 2021-06-30,New Hampshire,Belknap,4.92,3,0,0.0,4173,100.0,2.4,6838.52,163.88,6.84,61022,151.85,16.4,4.92,91.81,-6.55
 2021-06-29,New Hampshire,Belknap,4.92,3,0,0.0,4170,100.0,2.4,6833.6,163.88,6.83,61022,151.85,11.48,1.64,98.36,-1.64

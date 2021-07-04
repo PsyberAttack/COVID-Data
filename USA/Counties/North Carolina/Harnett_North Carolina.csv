@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,North Carolina,Harnett,0.0,0,0,0.0,12069,181.0,1.5,8992.36,134.86,8.99,134214,225.56,31.3,0.0,123.73,0.0
+2021-07-02,North Carolina,Harnett,6.71,9,0,0.0,12069,181.0,1.5,8992.36,134.86,8.99,134214,225.56,31.3,2.98,123.73,-0.74
 2021-07-01,North Carolina,Harnett,6.71,9,0,0.0,12060,181.0,1.5,8985.65,134.86,8.99,134214,225.56,28.32,2.98,124.47,-5.96
 2021-06-30,North Carolina,Harnett,4.47,6,0,0.0,12051,181.0,1.5,8978.94,134.86,8.98,134214,225.56,25.34,-0.75,130.43,0.0
 2021-06-29,North Carolina,Harnett,4.47,6,0,0.0,12045,181.0,1.5,8974.47,134.86,8.97,134214,225.56,26.09,1.49,130.43,-21.61

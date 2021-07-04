@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Mississippi,Newton,0.0,0,0,0.0,2502,64.0,2.56,11668.14,298.47,11.67,21443,37.11,46.63,0.0,107.25,0.0
+2021-07-02,Mississippi,Newton,18.65,4,0,0.0,2502,64.0,2.56,11668.14,298.47,11.67,21443,37.11,46.63,18.65,107.25,18.65
 2021-07-01,Mississippi,Newton,13.99,3,0,0.0,2498,64.0,2.56,11649.49,298.47,11.65,21443,37.11,27.98,4.66,88.6,9.33
 2021-06-30,Mississippi,Newton,4.66,1,0,0.0,2495,64.0,2.57,11635.5,298.47,11.64,21443,37.11,23.32,4.66,79.27,4.66
 2021-06-29,Mississippi,Newton,9.33,2,0,0.0,2494,64.0,2.57,11630.84,298.47,11.63,21443,37.11,18.66,4.67,74.61,9.33

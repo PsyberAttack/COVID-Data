@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Indiana,Hendricks,0.0,0,0,0.0,17826,340.0,1.91,10673.68,203.58,10.67,167009,410.45,29.35,0.0,141.32,-5.39
+2021-07-02,Indiana,Hendricks,2.4,4,0,0.0,17826,340.0,1.91,10673.68,203.58,10.67,167009,410.45,29.35,-1.79,146.71,-1.19
 2021-07-01,Indiana,Hendricks,2.99,5,1,0.6,17822,340.0,1.91,10671.28,203.58,10.67,167009,410.45,31.14,-3.0,147.9,-4.79
 2021-06-30,Indiana,Hendricks,7.19,12,0,0.0,17817,339.0,1.9,10668.29,202.98,10.67,167009,410.45,34.14,4.79,152.69,4.2
 2021-06-29,Indiana,Hendricks,4.79,8,1,0.6,17805,339.0,1.9,10661.1,202.98,10.66,167009,410.45,29.35,2.99,148.49,-2.4

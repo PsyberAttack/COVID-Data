@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Mississippi,Alcorn,0.0,0,0,0.0,3313,74.0,2.23,8972.24,200.41,8.97,36925,92.3,21.66,0.0,254.57,0.0
+2021-07-02,Mississippi,Alcorn,8.12,3,0,0.0,3313,74.0,2.23,8972.24,200.41,8.97,36925,92.3,21.66,-5.42,254.57,-27.09
 2021-07-01,Mississippi,Alcorn,2.71,1,0,0.0,3310,74.0,2.24,8964.12,200.41,8.96,36925,92.3,27.08,-67.7,281.66,-37.91
 2021-06-30,Mississippi,Alcorn,2.71,1,0,0.0,3309,74.0,2.24,8961.41,200.41,8.96,36925,92.3,94.78,2.71,319.57,2.71
 2021-06-29,Mississippi,Alcorn,8.12,3,0,0.0,3308,74.0,2.24,8958.7,200.41,8.96,36925,92.3,92.07,8.12,316.86,2.7

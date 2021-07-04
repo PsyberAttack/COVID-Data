@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Illinois,Macoupin,0.0,0,0,0.0,4812,118.0,2.45,10619.47,260.41,10.62,45313,52.51,57.37,0.0,88.27,0.0
+2021-07-02,Illinois,Macoupin,6.62,3,0,0.0,4812,118.0,2.45,10619.47,260.41,10.62,45313,52.51,57.37,4.41,88.27,4.41
 2021-07-01,Illinois,Macoupin,15.45,7,0,0.0,4809,118.0,2.45,10612.85,260.41,10.61,45313,52.51,52.96,11.04,83.86,6.62
 2021-06-30,Illinois,Macoupin,17.65,8,0,0.0,4802,118.0,2.46,10597.4,260.41,10.6,45313,52.51,41.92,17.65,77.24,15.44
 2021-06-29,Illinois,Macoupin,6.62,3,0,0.0,4794,118.0,2.46,10579.75,260.41,10.58,45313,52.51,24.27,6.62,61.8,4.41

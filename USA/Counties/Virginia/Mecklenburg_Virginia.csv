@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Virginia,Mecklenburg,19.58,6,0,0.0,2362,66.0,2.79,7706.36,215.33,7.71,30650,49.02,35.89,19.58,97.88,19.58
+2021-07-02,Virginia,Mecklenburg,0.0,0,0,0.0,2356,66.0,2.8,7686.79,215.33,7.69,30650,49.02,16.31,3.26,78.3,-3.26
 2021-07-01,Virginia,Mecklenburg,3.26,1,0,0.0,2356,66.0,2.8,7686.79,215.33,7.69,30650,49.02,13.05,0.0,81.56,3.26
 2021-06-30,Virginia,Mecklenburg,3.26,1,0,0.0,2355,66.0,2.8,7683.52,215.33,7.68,30650,49.02,13.05,3.26,78.3,0.0
 2021-06-29,Virginia,Mecklenburg,9.79,3,0,0.0,2354,66.0,2.8,7680.26,215.33,7.68,30650,49.02,9.79,6.53,78.3,9.79

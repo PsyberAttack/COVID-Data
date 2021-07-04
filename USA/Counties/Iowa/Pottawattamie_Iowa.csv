@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Iowa,Pottawattamie,3.21,3,0,0.0,11249,177.0,1.57,12026.77,189.24,12.03,93533,98.4,13.91,2.14,55.64,1.07
+2021-07-02,Iowa,Pottawattamie,1.07,1,0,0.0,11246,177.0,1.57,12023.56,189.24,12.02,93533,98.4,11.77,0.0,54.57,-3.21
 2021-07-01,Iowa,Pottawattamie,2.14,2,1,1.07,11245,177.0,1.57,12022.49,189.24,12.02,93533,98.4,11.77,1.07,57.78,-2.14
 2021-06-30,Iowa,Pottawattamie,4.28,4,1,1.07,11243,176.0,1.57,12020.36,188.17,12.02,93533,98.4,10.7,4.28,59.92,-6.41
 2021-06-29,Iowa,Pottawattamie,1.07,1,0,0.0,11239,175.0,1.56,12016.08,187.1,12.02,93533,98.4,6.42,-3.21,66.33,1.07

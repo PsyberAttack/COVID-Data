@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Arkansas,Ouachita,0.0,0,0,0.0,2453,63.0,2.57,10391.43,266.88,10.39,23606,32.21,80.49,0.0,398.2,-12.71
+2021-07-02,Arkansas,Ouachita,8.47,2,0,0.0,2453,63.0,2.57,10391.43,266.88,10.39,23606,32.21,80.49,-25.42,410.91,-21.18
 2021-07-01,Arkansas,Ouachita,25.42,6,0,0.0,2451,63.0,2.57,10382.95,266.88,10.38,23606,32.21,105.91,12.71,432.09,8.48
 2021-06-30,Arkansas,Ouachita,16.94,4,0,0.0,2445,63.0,2.58,10357.54,266.88,10.36,23606,32.21,93.2,-12.71,423.61,8.47
 2021-06-29,Arkansas,Ouachita,4.24,1,0,0.0,2441,63.0,2.58,10340.59,266.88,10.34,23606,32.21,105.91,-33.89,415.14,4.24

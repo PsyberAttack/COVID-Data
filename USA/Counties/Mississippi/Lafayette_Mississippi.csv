@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Mississippi,Lafayette,0.0,0,0,0.0,6335,123.0,1.94,11561.7,224.48,11.56,54793,86.74,29.2,0.0,120.49,0.0
+2021-07-02,Mississippi,Lafayette,0.0,0,1,1.83,6335,123.0,1.94,11561.7,224.48,11.56,54793,86.74,29.2,0.0,120.49,-5.48
 2021-07-01,Mississippi,Lafayette,3.65,2,0,0.0,6335,122.0,1.93,11561.7,222.66,11.56,54793,86.74,29.2,-3.65,125.97,-1.83
 2021-06-30,Mississippi,Lafayette,3.65,2,0,0.0,6333,122.0,1.93,11558.05,222.66,11.56,54793,86.74,32.85,1.82,127.8,0.0
 2021-06-29,Mississippi,Lafayette,10.95,6,1,1.83,6331,122.0,1.93,11554.4,222.66,11.55,54793,86.74,31.03,10.95,127.8,5.47

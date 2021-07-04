@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,South Carolina,Clarendon,0.0,0,0,0.0,3482,113.0,3.25,10332.34,335.31,10.33,33700,55.52,5.93,0.0,59.34,-2.97
+2021-07-02,South Carolina,Clarendon,5.93,2,0,0.0,3482,113.0,3.25,10332.34,335.31,10.33,33700,55.52,5.93,2.96,62.31,5.93
 2021-07-01,South Carolina,Clarendon,0.0,0,0,0.0,3480,113.0,3.25,10326.41,335.31,10.33,33700,55.52,2.97,-5.93,56.38,-5.93
 2021-06-30,South Carolina,Clarendon,2.97,1,0,0.0,3480,113.0,3.25,10326.41,335.31,10.33,33700,55.52,8.9,-2.96,62.31,0.0
 2021-06-29,South Carolina,Clarendon,0.0,0,0,0.0,3479,113.0,3.25,10323.44,335.31,10.32,33700,55.52,11.86,0.0,62.31,0.0

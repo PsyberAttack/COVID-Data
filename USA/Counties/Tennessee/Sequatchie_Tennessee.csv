@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Tennessee,Sequatchie,0.0,0,0,0.0,1762,29.0,1.65,11844.58,194.94,11.84,14876,55.96,33.61,0.0,134.44,0.0
+2021-07-02,Tennessee,Sequatchie,6.72,1,0,0.0,1762,29.0,1.65,11844.58,194.94,11.84,14876,55.96,33.61,6.72,134.44,6.72
 2021-07-01,Tennessee,Sequatchie,20.17,3,0,0.0,1761,29.0,1.65,11837.86,194.94,11.84,14876,55.96,26.89,20.17,127.72,20.17
 2021-06-30,Tennessee,Sequatchie,-6.72,-1,0,0.0,1758,29.0,1.65,11817.69,194.94,11.82,14876,55.96,6.72,-13.44,107.55,-6.72
 2021-06-29,Tennessee,Sequatchie,6.72,1,0,0.0,1759,29.0,1.65,11824.42,194.94,11.82,14876,55.96,20.16,-6.72,114.27,-20.17

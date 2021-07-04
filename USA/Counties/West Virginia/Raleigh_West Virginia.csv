@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,West Virginia,Raleigh,0.0,0,0,0.0,7096,98.0,1.38,9556.39,131.98,9.56,74254,122.66,12.11,0.0,146.76,0.0
+2021-07-02,West Virginia,Raleigh,4.04,3,0,0.0,7096,98.0,1.38,9556.39,131.98,9.56,74254,122.66,12.11,0.0,146.76,-1.35
 2021-07-01,West Virginia,Raleigh,2.69,2,0,0.0,7093,98.0,1.38,9552.35,131.98,9.55,74254,122.66,12.11,-1.35,148.11,-6.74
 2021-06-30,West Virginia,Raleigh,2.69,2,0,0.0,7091,98.0,1.38,9549.65,131.98,9.55,74254,122.66,13.46,0.0,154.85,-4.04
 2021-06-29,West Virginia,Raleigh,-1.35,-1,0,0.0,7089,98.0,1.38,9546.96,131.98,9.55,74254,122.66,13.46,-24.24,158.89,-18.86

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,North Carolina,Duplin,0.0,0,0,0.0,6387,142.0,2.22,10851.91,241.27,10.85,58856,72.24,42.49,0.0,108.76,0.0
+2021-07-02,North Carolina,Duplin,8.5,5,0,0.0,6387,142.0,2.22,10851.91,241.27,10.85,58856,72.24,42.49,1.7,108.76,13.6
 2021-07-01,North Carolina,Duplin,6.8,4,0,0.0,6382,142.0,2.23,10843.41,241.27,10.84,58856,72.24,40.79,5.1,95.16,11.9
 2021-06-30,North Carolina,Duplin,6.8,4,3,5.1,6378,142.0,2.23,10836.62,241.27,10.84,58856,72.24,35.69,5.1,83.26,5.1
 2021-06-29,North Carolina,Duplin,1.7,1,0,0.0,6374,139.0,2.18,10829.82,236.17,10.83,58856,72.24,30.59,1.7,78.16,-13.59

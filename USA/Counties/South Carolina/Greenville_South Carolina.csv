@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,South Carolina,Greenville,0.0,0,0,0.0,75704,1035.0,1.37,14722.3,201.28,14.72,514213,655.0,19.25,0.0,83.23,-4.47
+2021-07-02,South Carolina,Greenville,3.11,16,1,0.19,75704,1035.0,1.37,14722.3,201.28,14.72,514213,655.0,19.25,1.17,87.7,-4.86
 2021-07-01,South Carolina,Greenville,3.11,16,0,0.0,75688,1034.0,1.37,14719.19,201.08,14.72,514213,655.0,18.08,-0.58,92.56,1.36
 2021-06-30,South Carolina,Greenville,2.14,11,0,0.0,75672,1034.0,1.37,14716.08,201.08,14.72,514213,655.0,18.66,-1.17,91.2,-3.11
 2021-06-29,South Carolina,Greenville,1.94,10,1,0.19,75661,1034.0,1.37,14713.94,201.08,14.71,514213,655.0,19.83,1.16,94.31,1.94

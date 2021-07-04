@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Louisiana,Vermilion,0.0,0,0,0.0,5803,126.0,2.17,9699.15,210.6,9.7,59830,51.0,51.81,0.0,267.44,0.0
+2021-07-02,Louisiana,Vermilion,3.34,2,0,0.0,5803,126.0,2.17,9699.15,210.6,9.7,59830,51.0,51.81,-5.02,267.44,-11.7
 2021-07-01,Louisiana,Vermilion,25.07,15,0,0.0,5801,126.0,2.17,9695.8,210.6,9.7,59830,51.0,56.83,13.37,279.14,1.67
 2021-06-30,Louisiana,Vermilion,10.03,6,0,0.0,5786,126.0,2.18,9670.73,210.6,9.67,59830,51.0,43.46,-1.67,277.47,-13.37
 2021-06-29,Louisiana,Vermilion,3.34,2,0,0.0,5780,126.0,2.18,9660.71,210.6,9.66,59830,51.0,45.13,-1.67,290.84,-43.46

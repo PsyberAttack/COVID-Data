@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,New Jersey,Warren,3.78,4,0,0.0,10045,238.0,2.37,9496.21,225.0,9.5,105779,296.69,22.71,1.89,59.6,2.83
+2021-07-02,New Jersey,Warren,0.95,1,0,0.0,10041,238.0,2.37,9492.43,225.0,9.49,105779,296.69,20.82,-0.94,56.77,-8.5
 2021-07-01,New Jersey,Warren,2.84,3,1,0.95,10040,238.0,2.37,9491.49,225.0,9.49,105779,296.69,21.76,0.95,65.27,-0.94
 2021-06-30,New Jersey,Warren,2.84,3,0,0.0,10037,237.0,2.36,9488.65,224.05,9.49,105779,296.69,20.81,1.89,66.21,-0.94
 2021-06-29,New Jersey,Warren,2.84,3,0,0.0,10034,237.0,2.36,9485.81,224.05,9.49,105779,296.69,18.92,0.95,67.15,0.95

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,California,San Benito,0.0,0,0,0.0,6108,63.0,1.03,9925.74,102.38,9.93,61537,44.31,16.26,0.0,56.93,0.0
+2021-07-02,California,San Benito,4.88,3,0,0.0,6108,63.0,1.03,9925.74,102.38,9.93,61537,44.31,16.26,3.25,56.93,4.88
 2021-07-01,California,San Benito,9.75,6,0,0.0,6105,63.0,1.03,9920.86,102.38,9.92,61537,44.31,13.01,11.38,52.05,9.75
 2021-06-30,California,San Benito,-3.25,-2,0,0.0,6099,63.0,1.03,9911.11,102.38,9.91,61537,44.31,1.63,-3.25,42.3,-4.88
 2021-06-29,California,San Benito,0.0,0,0,0.0,6101,63.0,1.03,9914.36,102.38,9.91,61537,44.31,4.88,0.0,47.18,0.0

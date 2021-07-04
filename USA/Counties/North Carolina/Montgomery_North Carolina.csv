@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,North Carolina,Montgomery,0.0,0,0,0.0,3384,97.0,2.87,12408.79,355.69,12.41,27271,55.48,7.34,0.0,106.34,0.0
+2021-07-02,North Carolina,Montgomery,3.67,1,0,0.0,3384,97.0,2.87,12408.79,355.69,12.41,27271,55.48,7.34,0.0,106.34,-11.0
 2021-07-01,North Carolina,Montgomery,3.67,1,0,0.0,3383,97.0,2.87,12405.12,355.69,12.41,27271,55.48,7.34,3.67,117.34,-7.33
 2021-06-30,North Carolina,Montgomery,7.33,2,0,0.0,3382,97.0,2.87,12401.45,355.69,12.4,27271,55.48,3.67,3.66,124.67,3.66
 2021-06-29,North Carolina,Montgomery,0.0,0,0,0.0,3380,97.0,2.87,12394.12,355.69,12.39,27271,55.48,0.01,0.0,121.01,-7.33

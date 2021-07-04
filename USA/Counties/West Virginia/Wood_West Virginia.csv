@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,West Virginia,Wood,0.0,0,0,0.0,7948,176.0,2.21,9439.09,209.02,9.44,84203,229.74,4.75,0.0,54.64,0.0
+2021-07-02,West Virginia,Wood,-1.19,-1,0,0.0,7948,176.0,2.21,9439.09,209.02,9.44,84203,229.74,4.75,-2.38,54.64,-5.94
 2021-07-01,West Virginia,Wood,1.19,1,0,0.0,7949,176.0,2.21,9440.28,209.02,9.44,84203,229.74,7.13,-7.12,60.58,-2.37
 2021-06-30,West Virginia,Wood,1.19,1,0,0.0,7948,176.0,2.21,9439.09,209.02,9.44,84203,229.74,14.25,-5.94,62.95,-2.37
 2021-06-29,West Virginia,Wood,3.56,3,0,0.0,7947,176.0,2.21,9437.91,209.02,9.44,84203,229.74,20.19,-2.38,65.32,-11.88

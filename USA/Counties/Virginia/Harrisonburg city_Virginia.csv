@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Virginia,Harrisonburg city,0.0,0,0,0.0,6535,95.0,1.45,12094.46,175.82,12.09,54033,3116.23,-1.85,0.0,48.11,0.0
+2021-07-02,Virginia,Harrisonburg city,3.7,2,0,0.0,6535,95.0,1.45,12094.46,175.82,12.09,54033,3116.23,-1.85,1.85,48.11,0.0
 2021-07-01,Virginia,Harrisonburg city,0.0,0,0,0.0,6533,95.0,1.45,12090.76,175.82,12.09,54033,3116.23,-3.7,-1.85,48.11,-5.55
 2021-06-30,Virginia,Harrisonburg city,0.0,0,0,0.0,6533,95.0,1.45,12090.76,175.82,12.09,54033,3116.23,-1.85,-1.85,53.66,-1.85
 2021-06-29,Virginia,Harrisonburg city,-7.4,-4,0,0.0,6533,95.0,1.45,12090.76,175.82,12.09,54033,3116.23,-0.0,-7.4,55.51,-7.4

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Mississippi,Leake,0.0,0,0,0.0,2733,74.0,2.71,12006.33,325.09,12.01,22763,39.05,26.36,0.0,105.42,0.0
+2021-07-02,Mississippi,Leake,0.0,0,0,0.0,2733,74.0,2.71,12006.33,325.09,12.01,22763,39.05,26.36,-8.79,105.42,-4.39
 2021-07-01,Mississippi,Leake,4.39,1,0,0.0,2733,74.0,2.71,12006.33,325.09,12.01,22763,39.05,35.15,0.0,109.81,0.0
 2021-06-30,Mississippi,Leake,8.79,2,0,0.0,2732,74.0,2.71,12001.93,325.09,12.0,22763,39.05,35.15,4.4,109.81,8.79
 2021-06-29,Mississippi,Leake,8.79,2,0,0.0,2730,74.0,2.71,11993.15,325.09,11.99,22763,39.05,30.75,4.4,101.02,4.4

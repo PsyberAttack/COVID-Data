@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Minnesota,Steele,2.72,1,0,0.0,3987,18.0,0.45,10833.36,48.91,10.83,36803,85.66,19.02,0.0,48.9,-5.43
+2021-07-02,Minnesota,Steele,2.72,1,0,0.0,3986,18.0,0.45,10830.64,48.91,10.83,36803,85.66,19.02,2.72,54.33,0.0
 2021-07-01,Minnesota,Steele,5.43,2,0,0.0,3985,18.0,0.45,10827.92,48.91,10.83,36803,85.66,16.3,2.71,54.33,-2.72
 2021-06-30,Minnesota,Steele,0.0,0,0,0.0,3983,18.0,0.45,10822.49,48.91,10.82,36803,85.66,13.59,0.0,57.05,-2.72
 2021-06-29,Minnesota,Steele,0.0,0,0,0.0,3983,18.0,0.45,10822.49,48.91,10.82,36803,85.66,13.59,0.0,59.77,-2.72

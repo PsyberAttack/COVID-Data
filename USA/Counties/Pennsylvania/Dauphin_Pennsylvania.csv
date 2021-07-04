@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Pennsylvania,Dauphin,1.08,3,0,0.0,26137,559.0,2.14,9432.44,201.73,9.43,277097,527.9,6.12,-0.36,44.72,-2.89
+2021-07-02,Pennsylvania,Dauphin,1.44,4,0,0.0,26134,559.0,2.14,9431.35,201.73,9.43,277097,527.9,6.48,1.08,47.61,-6.14
 2021-07-01,Pennsylvania,Dauphin,0.0,0,0,0.0,26130,559.0,2.14,9429.91,201.73,9.43,277097,527.9,5.4,-1.08,53.75,-4.33
 2021-06-30,Pennsylvania,Dauphin,1.08,3,0,0.0,26130,559.0,2.14,9429.91,201.73,9.43,277097,527.9,6.48,-0.36,58.08,-5.42
 2021-06-29,Pennsylvania,Dauphin,0.36,1,1,0.36,26127,559.0,2.14,9428.83,201.73,9.43,277097,527.9,6.84,-1.08,63.5,-3.97

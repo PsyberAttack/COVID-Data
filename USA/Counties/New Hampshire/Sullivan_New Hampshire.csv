@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,New Hampshire,Sullivan,0.0,0,0,0.0,1886,26.0,1.38,4371.41,60.26,4.37,43144,80.26,9.27,0.0,136.77,0.0
+2021-07-02,New Hampshire,Sullivan,0.0,0,0,0.0,1886,26.0,1.38,4371.41,60.26,4.37,43144,80.26,9.27,-4.64,136.77,-18.54
 2021-07-01,New Hampshire,Sullivan,2.32,1,0,0.0,1886,26.0,1.38,4371.41,60.26,4.37,43144,80.26,13.91,-11.59,155.31,-9.27
 2021-06-30,New Hampshire,Sullivan,-2.32,-1,1,2.32,1885,26.0,1.38,4369.09,60.26,4.37,43144,80.26,25.5,-9.27,164.58,-9.27
 2021-06-29,New Hampshire,Sullivan,2.32,1,0,0.0,1886,25.0,1.33,4371.41,57.95,4.37,43144,80.26,34.77,0.0,173.85,-4.63

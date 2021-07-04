@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,California,Siskiyou,0.0,0,0,0.0,2408,39.0,1.62,5507.27,89.2,5.51,43724,6.96,13.72,0.0,75.47,0.0
+2021-07-02,California,Siskiyou,6.86,3,0,0.0,2408,39.0,1.62,5507.27,89.2,5.51,43724,6.96,13.72,0.0,75.47,-4.58
 2021-07-01,California,Siskiyou,2.29,1,1,2.29,2405,39.0,1.62,5500.41,89.2,5.5,43724,6.96,13.72,0.0,80.05,-13.72
 2021-06-30,California,Siskiyou,0.0,0,0,0.0,2404,38.0,1.58,5498.12,86.91,5.5,43724,6.96,13.72,0.0,93.77,-9.15
 2021-06-29,California,Siskiyou,4.57,2,0,0.0,2404,38.0,1.58,5498.12,86.91,5.5,43724,6.96,13.72,0.0,102.92,-11.44

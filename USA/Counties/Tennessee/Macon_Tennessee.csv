@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Tennessee,Macon,0.0,0,0,0.0,3669,78.0,2.13,15120.54,321.45,15.12,24265,79.0,-4.12,0.0,94.79,0.0
+2021-07-02,Tennessee,Macon,-4.12,-1,0,0.0,3669,78.0,2.13,15120.54,321.45,15.12,24265,79.0,-4.12,-4.12,94.79,-4.12
 2021-07-01,Tennessee,Macon,4.12,1,0,0.0,3670,78.0,2.13,15124.67,321.45,15.12,24265,79.0,-0.0,4.12,98.91,0.0
 2021-06-30,Tennessee,Macon,4.12,1,0,0.0,3669,78.0,2.13,15120.54,321.45,15.12,24265,79.0,-4.12,0.0,98.91,4.12
 2021-06-29,Tennessee,Macon,0.0,0,0,0.0,3668,78.0,2.13,15116.42,321.45,15.12,24265,79.0,-4.12,0.0,94.79,-12.36

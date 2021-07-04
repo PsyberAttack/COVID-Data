@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Idaho,Bonneville,0.0,0,0,0.0,15048,177.0,1.18,12877.61,151.47,12.88,116854,62.62,4.29,0.0,43.65,0.0
+2021-07-02,Idaho,Bonneville,0.86,1,0,0.0,15048,177.0,1.18,12877.61,151.47,12.88,116854,62.62,4.29,-1.71,43.65,0.0
 2021-07-01,Idaho,Bonneville,0.86,1,0,0.0,15047,177.0,1.18,12876.75,151.47,12.88,116854,62.62,6.0,-2.56,43.65,-3.42
 2021-06-30,Idaho,Bonneville,1.71,2,0,0.0,15046,177.0,1.18,12875.9,151.47,12.88,116854,62.62,8.56,-4.28,47.07,0.85
 2021-06-29,Idaho,Bonneville,0.86,1,0,0.0,15044,177.0,1.18,12874.18,151.47,12.87,116854,62.62,12.84,-1.71,46.22,-5.13

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Indiana,Dearborn,0.0,0,0,0.0,5923,81.0,1.37,11949.24,163.41,11.95,49568,162.48,26.23,0.0,66.58,-8.07
+2021-07-02,Indiana,Dearborn,8.07,4,0,0.0,5923,81.0,1.37,11949.24,163.41,11.95,49568,162.48,26.23,6.05,74.65,2.02
 2021-07-01,Indiana,Dearborn,8.07,4,0,0.0,5919,81.0,1.37,11941.17,163.41,11.94,49568,162.48,20.18,4.04,72.63,8.07
 2021-06-30,Indiana,Dearborn,10.09,5,0,0.0,5915,81.0,1.37,11933.1,163.41,11.93,49568,162.48,16.14,10.09,64.56,6.06
 2021-06-29,Indiana,Dearborn,0.0,0,0,0.0,5910,81.0,1.37,11923.01,163.41,11.92,49568,162.48,6.05,0.0,58.5,-2.02

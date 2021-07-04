@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,North Carolina,Lenoir,0.0,0,0,0.0,6270,124.0,1.98,11201.23,221.52,11.2,55976,140.26,14.3,0.0,135.78,0.0
+2021-07-02,North Carolina,Lenoir,1.79,1,0,0.0,6270,124.0,1.98,11201.23,221.52,11.2,55976,140.26,14.3,-1.78,135.78,-12.5
 2021-07-01,North Carolina,Lenoir,1.79,1,0,0.0,6269,124.0,1.98,11199.44,221.52,11.2,55976,140.26,16.08,3.58,148.28,-5.36
 2021-06-30,North Carolina,Lenoir,1.79,1,0,0.0,6268,124.0,1.98,11197.66,221.52,11.2,55976,140.26,12.5,-1.78,153.64,-5.36
 2021-06-29,North Carolina,Lenoir,3.57,2,0,0.0,6267,124.0,1.98,11195.87,221.52,11.2,55976,140.26,14.28,1.78,159.0,-19.65

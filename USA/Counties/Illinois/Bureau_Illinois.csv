@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Illinois,Bureau,0.0,0,0,0.0,3794,98.0,2.58,11499.41,297.03,11.5,32993,37.96,24.24,0.0,63.63,0.0
+2021-07-02,Illinois,Bureau,3.03,1,0,0.0,3794,98.0,2.58,11499.41,297.03,11.5,32993,37.96,24.24,3.03,63.63,-9.09
 2021-07-01,Illinois,Bureau,3.03,1,0,0.0,3793,98.0,2.58,11496.38,297.03,11.5,32993,37.96,21.21,-3.03,72.72,0.0
 2021-06-30,Illinois,Bureau,3.03,1,0,0.0,3792,98.0,2.58,11493.35,297.03,11.49,32993,37.96,24.24,3.03,72.72,-6.06
 2021-06-29,Illinois,Bureau,12.12,4,0,0.0,3791,98.0,2.59,11490.32,297.03,11.49,32993,37.96,21.21,12.12,78.78,12.12

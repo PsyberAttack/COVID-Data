@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,New York,Westchester,0.93,9,0,0.0,129911,2293.0,1.77,13425.94,236.98,13.43,967612,2247.29,10.13,-0.52,45.57,-1.34
+2021-07-02,New York,Westchester,1.55,15,0,0.0,129902,2293.0,1.77,13425.01,236.98,13.43,967612,2247.29,10.65,-0.41,46.91,-1.45
 2021-07-01,New York,Westchester,2.27,22,0,0.0,129887,2293.0,1.77,13423.46,236.98,13.42,967612,2247.29,11.06,-0.21,48.36,1.34
 2021-06-30,New York,Westchester,1.76,17,0,0.0,129865,2293.0,1.77,13421.19,236.98,13.42,967612,2247.29,11.27,0.62,47.02,0.52
 2021-06-29,New York,Westchester,1.45,14,0,0.0,129848,2293.0,1.77,13419.43,236.98,13.42,967612,2247.29,10.65,0.52,46.5,0.21

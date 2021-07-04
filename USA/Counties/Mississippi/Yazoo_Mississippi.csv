@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Mississippi,Yazoo,0.0,0,0,0.0,3165,71.0,2.24,11204.33,251.35,11.2,28248,30.63,49.56,0.0,127.44,0.0
+2021-07-02,Mississippi,Yazoo,24.78,7,0,0.0,3165,71.0,2.24,11204.33,251.35,11.2,28248,30.63,49.56,10.62,127.44,24.78
 2021-07-01,Mississippi,Yazoo,7.08,2,0,0.0,3158,71.0,2.25,11179.55,251.35,11.18,28248,30.63,38.94,7.08,102.66,7.08
 2021-06-30,Mississippi,Yazoo,10.62,3,0,0.0,3156,71.0,2.25,11172.47,251.35,11.17,28248,30.63,31.86,3.54,95.58,7.08
 2021-06-29,Mississippi,Yazoo,3.54,1,0,0.0,3153,71.0,2.25,11161.85,251.35,11.16,28248,30.63,28.32,-3.54,88.5,0.0

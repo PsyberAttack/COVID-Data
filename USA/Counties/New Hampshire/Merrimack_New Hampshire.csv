@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,New Hampshire,Merrimack,0.0,0,0,0.0,9690,116.0,1.2,6411.61,76.75,6.41,151132,162.01,7.94,0.0,41.02,0.0
+2021-07-02,New Hampshire,Merrimack,0.0,0,0,0.0,9690,116.0,1.2,6411.61,76.75,6.41,151132,162.01,7.94,-0.66,41.02,0.0
 2021-07-01,New Hampshire,Merrimack,0.66,1,0,0.0,9690,116.0,1.2,6411.61,76.75,6.41,151132,162.01,8.6,0.0,41.02,-7.28
 2021-06-30,New Hampshire,Merrimack,1.32,2,0,0.0,9689,116.0,1.2,6410.95,76.75,6.41,151132,162.01,8.6,0.0,48.3,0.0
 2021-06-29,New Hampshire,Merrimack,3.97,6,0,0.0,9687,116.0,1.2,6409.63,76.75,6.41,151132,162.01,8.6,3.31,48.3,0.0

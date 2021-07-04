@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Wisconsin,Barron,0.0,0,0,0.0,6065,86.0,1.42,13428.84,190.42,13.43,45164,52.33,13.28,0.0,70.85,0.0
+2021-07-02,Wisconsin,Barron,0.0,0,0,0.0,6065,86.0,1.42,13428.84,190.42,13.43,45164,52.33,13.28,2.21,70.85,-6.64
 2021-07-01,Wisconsin,Barron,2.21,1,1,2.21,6065,86.0,1.42,13428.84,190.42,13.43,45164,52.33,11.07,-2.22,77.49,2.21
 2021-06-30,Wisconsin,Barron,0.0,0,0,0.0,6064,85.0,1.4,13426.62,188.2,13.43,45164,52.33,13.29,-2.21,75.28,-6.64
 2021-06-29,Wisconsin,Barron,0.0,0,0,0.0,6064,85.0,1.4,13426.62,188.2,13.43,45164,52.33,15.5,0.0,81.92,-2.21

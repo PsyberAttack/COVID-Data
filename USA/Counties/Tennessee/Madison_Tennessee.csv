@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Tennessee,Madison,0.0,0,0,0.0,11590,244.0,2.11,11874.39,249.99,11.87,97605,175.2,17.41,0.0,164.94,0.0
+2021-07-02,Tennessee,Madison,1.02,1,0,0.0,11590,244.0,2.11,11874.39,249.99,11.87,97605,175.2,17.41,-2.05,164.94,-21.52
 2021-07-01,Tennessee,Madison,8.2,8,0,0.0,11589,244.0,2.11,11873.37,249.99,11.87,97605,175.2,19.46,7.18,186.46,-6.14
 2021-06-30,Tennessee,Madison,6.15,6,0,0.0,11581,244.0,2.11,11865.17,249.99,11.87,97605,175.2,12.28,0.0,192.6,-13.32
 2021-06-29,Tennessee,Madison,1.02,1,0,0.0,11575,244.0,2.11,11859.02,249.99,11.86,97605,175.2,12.28,2.04,205.92,-4.1

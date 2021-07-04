@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Louisiana,Tangipahoa,0.0,0,0,0.0,13310,307.0,2.31,9949.39,229.49,9.95,133777,169.06,95.69,0.0,279.6,0.0
+2021-07-02,Louisiana,Tangipahoa,19.44,26,1,0.75,13310,307.0,2.31,9949.39,229.49,9.95,133777,169.06,95.69,7.48,279.6,8.97
 2021-07-01,Louisiana,Tangipahoa,18.69,25,0,0.0,13284,306.0,2.3,9929.96,228.74,9.93,133777,169.06,88.21,5.23,270.63,23.18
 2021-06-30,Louisiana,Tangipahoa,21.68,29,0,0.0,13259,306.0,2.31,9911.27,228.74,9.91,133777,169.06,82.98,3.74,247.45,0.75
 2021-06-29,Louisiana,Tangipahoa,11.96,16,0,0.0,13230,306.0,2.31,9889.59,228.74,9.89,133777,169.06,79.24,-2.99,246.7,5.23

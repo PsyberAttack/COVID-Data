@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,California,San Joaquin,0.0,0,0,0.0,74900,1444.0,1.93,9951.37,191.85,9.95,752660,540.55,12.22,0.0,104.42,0.0
+2021-07-02,California,San Joaquin,0.0,0,0,0.0,74900,1444.0,1.93,9951.37,191.85,9.95,752660,540.55,12.22,0.0,104.42,-7.17
 2021-07-01,California,San Joaquin,0.0,0,0,0.0,74900,1444.0,1.93,9951.37,191.85,9.95,752660,540.55,12.22,0.0,111.59,-12.22
 2021-06-30,California,San Joaquin,0.0,0,0,0.0,74900,1444.0,1.93,9951.37,191.85,9.95,752660,540.55,12.22,0.0,123.81,-9.17
 2021-06-29,California,San Joaquin,12.22,92,4,0.53,74900,1444.0,1.93,9951.37,191.85,9.95,752660,540.55,12.22,1.46,132.98,-1.73

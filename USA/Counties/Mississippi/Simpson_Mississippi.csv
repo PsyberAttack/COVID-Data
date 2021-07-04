@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Mississippi,Simpson,0.0,0,0,0.0,3021,89.0,2.95,11290.08,332.61,11.29,26758,45.42,104.63,0.0,168.17,0.0
+2021-07-02,Mississippi,Simpson,7.47,2,0,0.0,3021,89.0,2.95,11290.08,332.61,11.29,26758,45.42,104.63,-3.74,168.17,3.73
 2021-07-01,Mississippi,Simpson,11.21,3,0,0.0,3019,89.0,2.95,11282.61,332.61,11.28,26758,45.42,108.37,-3.74,164.44,7.47
 2021-06-30,Mississippi,Simpson,37.37,10,0,0.0,3016,89.0,2.95,11271.4,332.61,11.27,26758,45.42,112.11,37.37,156.97,33.63
 2021-06-29,Mississippi,Simpson,33.63,9,0,0.0,3006,89.0,2.96,11234.02,332.61,11.23,26758,45.42,74.74,29.89,123.34,33.63

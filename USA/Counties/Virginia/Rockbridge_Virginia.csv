@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Virginia,Rockbridge,0.0,0,0,0.0,1570,48.0,3.06,6900.49,210.97,6.9,22752,38.14,8.8,-13.19,96.73,0.0
+2021-07-02,Virginia,Rockbridge,4.4,1,0,0.0,1570,48.0,3.06,6900.49,210.97,6.9,22752,38.14,21.99,-4.39,96.73,0.0
 2021-07-01,Virginia,Rockbridge,4.4,1,0,0.0,1569,48.0,3.06,6896.1,210.97,6.9,22752,38.14,26.38,4.4,96.73,8.8
 2021-06-30,Virginia,Rockbridge,4.4,1,0,0.0,1568,48.0,3.06,6891.7,210.97,6.89,22752,38.14,21.98,-13.18,87.93,8.8
 2021-06-29,Virginia,Rockbridge,-4.4,-1,0,0.0,1567,48.0,3.06,6887.31,210.97,6.89,22752,38.14,35.16,-8.8,79.13,-4.4

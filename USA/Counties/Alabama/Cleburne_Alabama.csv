@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Alabama,Cleburne,0.0,0,0,0.0,1542,43.0,2.79,10288.92,286.92,10.29,14987,26.76,13.34,0.0,206.82,0.0
+2021-07-02,Alabama,Cleburne,0.0,0,0,0.0,1542,43.0,2.79,10288.92,286.92,10.29,14987,26.76,13.34,-20.02,206.82,-6.67
 2021-07-01,Alabama,Cleburne,0.0,0,0,0.0,1542,43.0,2.79,10288.92,286.92,10.29,14987,26.76,33.36,0.0,213.49,-20.02
 2021-06-30,Alabama,Cleburne,0.0,0,-1,-6.67,1542,43.0,2.79,10288.92,286.92,10.29,14987,26.76,33.36,-6.67,233.51,-6.67
 2021-06-29,Alabama,Cleburne,0.0,0,0,0.0,1542,44.0,2.85,10288.92,293.59,10.29,14987,26.76,40.03,0.0,240.18,-13.34

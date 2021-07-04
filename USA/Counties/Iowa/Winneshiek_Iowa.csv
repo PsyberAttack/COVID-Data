@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Iowa,Winneshiek,4.99,1,0,0.0,2005,35.0,1.75,10010.48,174.75,10.01,20029,29.03,59.91,4.99,149.78,4.99
+2021-07-02,Iowa,Winneshiek,0.0,0,0,0.0,2004,35.0,1.75,10005.49,174.75,10.01,20029,29.03,54.92,-14.98,144.79,0.0
 2021-07-01,Iowa,Winneshiek,4.99,1,0,0.0,2004,35.0,1.75,10005.49,174.75,10.01,20029,29.03,69.9,0.0,144.79,-9.99
 2021-06-30,Iowa,Winneshiek,24.96,5,0,0.0,2003,35.0,1.75,10000.5,174.75,10.0,20029,29.03,69.9,24.96,154.78,19.97
 2021-06-29,Iowa,Winneshiek,0.0,0,0,0.0,1998,35.0,1.75,9975.54,174.75,9.98,20029,29.03,44.94,-9.99,134.81,4.99

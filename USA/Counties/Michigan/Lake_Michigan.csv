@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Michigan,Lake,0.0,0,0,0.0,638,16.0,2.51,5369.92,134.67,5.37,11881,20.93,8.42,0.0,42.1,-8.42
+2021-07-02,Michigan,Lake,0.0,0,0,0.0,638,16.0,2.51,5369.92,134.67,5.37,11881,20.93,8.42,-8.42,50.52,8.42
 2021-07-01,Michigan,Lake,0.0,0,-1,-8.42,638,16.0,2.51,5369.92,134.67,5.37,11881,20.93,16.84,0.0,42.1,-16.83
 2021-06-30,Michigan,Lake,8.42,1,1,8.42,638,17.0,2.66,5369.92,143.09,5.37,11881,20.93,16.84,0.0,58.93,0.0
 2021-06-29,Michigan,Lake,0.0,0,0,0.0,637,16.0,2.51,5361.5,134.67,5.36,11881,20.93,16.84,0.0,58.93,-8.42

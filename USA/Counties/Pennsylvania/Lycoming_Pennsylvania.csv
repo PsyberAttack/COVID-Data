@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Pennsylvania,Lycoming,0.88,1,1,0.88,11966,296.0,2.47,10527.52,260.42,10.53,113664,92.5,9.68,0.88,62.48,-2.64
+2021-07-02,Pennsylvania,Lycoming,0.88,1,1,0.88,11965,295.0,2.47,10526.64,259.54,10.53,113664,92.5,8.8,-0.88,65.12,-7.92
 2021-07-01,Pennsylvania,Lycoming,1.76,2,0,0.0,11964,294.0,2.46,10525.76,258.66,10.53,113664,92.5,9.68,-0.88,73.04,-0.88
 2021-06-30,Pennsylvania,Lycoming,2.64,3,0,0.0,11962,294.0,2.46,10524.0,258.66,10.52,113664,92.5,10.56,0.88,73.92,-2.64
 2021-06-29,Pennsylvania,Lycoming,0.88,1,2,1.76,11959,294.0,2.46,10521.36,258.66,10.52,113664,92.5,9.68,0.88,76.56,-7.04

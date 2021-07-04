@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Texas,Cherokee,0.0,0,0,0.0,4311,145.0,3.36,8197.06,275.71,8.2,52592,49.95,17.11,0.0,81.74,0.0
+2021-07-02,Texas,Cherokee,7.61,4,0,0.0,4311,145.0,3.36,8197.06,275.71,8.2,52592,49.95,17.11,5.71,81.74,7.61
 2021-07-01,Texas,Cherokee,5.7,3,0,0.0,4307,145.0,3.37,8189.46,275.71,8.19,52592,49.95,11.4,0.0,74.13,0.0
 2021-06-30,Texas,Cherokee,1.9,1,0,0.0,4304,145.0,3.37,8183.75,275.71,8.18,52592,49.95,11.4,0.0,74.13,-9.51
 2021-06-29,Texas,Cherokee,1.9,1,0,0.0,4303,145.0,3.37,8181.85,275.71,8.18,52592,49.95,11.4,-3.8,83.64,1.9

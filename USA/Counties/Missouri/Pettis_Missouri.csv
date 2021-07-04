@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Missouri,Pettis,11.75,5,0,0.0,5239,77.0,1.47,12314.89,181.0,12.31,42542,62.36,56.4,4.7,138.65,7.05
+2021-07-02,Missouri,Pettis,7.05,3,0,0.0,5234,77.0,1.47,12303.14,181.0,12.3,42542,62.36,51.7,0.0,131.6,4.7
 2021-07-01,Missouri,Pettis,2.35,1,0,0.0,5231,77.0,1.47,12296.08,181.0,12.3,42542,62.36,51.7,-7.05,126.9,-7.05
 2021-06-30,Missouri,Pettis,2.35,1,0,0.0,5230,77.0,1.47,12293.73,181.0,12.29,42542,62.36,58.75,-2.35,133.95,-4.7
 2021-06-29,Missouri,Pettis,16.45,7,0,0.0,5229,77.0,1.47,12291.38,181.0,12.29,42542,62.36,61.1,11.75,138.65,16.45

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,California,Placer,0.0,0,0,0.0,23846,300.0,1.26,6065.38,76.31,6.07,393149,279.41,44.01,0.0,182.9,0.0
+2021-07-02,California,Placer,13.48,53,0,0.0,23846,300.0,1.26,6065.38,76.31,6.07,393149,279.41,44.01,3.31,182.9,11.19
 2021-07-01,California,Placer,9.67,38,0,0.0,23793,300.0,1.26,6051.9,76.31,6.05,393149,279.41,40.7,9.67,171.71,-1.27
 2021-06-30,California,Placer,-0.25,-1,0,0.0,23755,300.0,1.26,6042.24,76.31,6.04,393149,279.41,31.03,-7.63,172.98,-8.64
 2021-06-29,California,Placer,1.27,5,0,0.0,23756,300.0,1.26,6042.49,76.31,6.04,393149,279.41,38.66,-2.55,181.62,-5.34

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Pennsylvania,Union,4.47,2,0,0.0,6162,89.0,1.44,13759.07,198.73,13.76,44785,141.74,13.39,4.47,53.58,0.0
+2021-07-02,Pennsylvania,Union,2.23,1,0,0.0,6160,89.0,1.44,13754.61,198.73,13.75,44785,141.74,8.92,-4.47,53.58,-11.17
 2021-07-01,Pennsylvania,Union,2.23,1,0,0.0,6159,89.0,1.45,13752.37,198.73,13.75,44785,141.74,13.39,4.46,64.75,-2.24
 2021-06-30,Pennsylvania,Union,2.23,1,0,0.0,6158,89.0,1.45,13750.14,198.73,13.75,44785,141.74,8.93,2.23,66.99,4.46
 2021-06-29,Pennsylvania,Union,0.0,0,0,0.0,6157,89.0,1.45,13747.91,198.73,13.75,44785,141.74,6.7,-2.23,62.53,-2.23

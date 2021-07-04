@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,New Mexico,Otero,0.0,0,0,0.0,5245,81.0,1.54,7854.03,121.29,7.85,66781,10.1,13.47,0.0,125.78,0.0
+2021-07-02,New Mexico,Otero,1.5,1,0,0.0,5245,81.0,1.54,7854.03,121.29,7.85,66781,10.1,13.47,0.0,125.78,0.0
 2021-07-01,New Mexico,Otero,2.99,2,0,0.0,5244,81.0,1.54,7852.53,121.29,7.85,66781,10.1,13.47,-4.5,125.78,4.49
 2021-06-30,New Mexico,Otero,4.49,3,1,1.5,5242,81.0,1.55,7849.54,121.29,7.85,66781,10.1,17.97,-3.0,121.29,5.99
 2021-06-29,New Mexico,Otero,2.99,2,0,0.0,5239,80.0,1.53,7845.05,119.79,7.85,66781,10.1,20.97,-3.0,115.3,0.0

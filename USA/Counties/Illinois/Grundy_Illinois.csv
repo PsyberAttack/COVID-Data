@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Illinois,Grundy,0.0,0,0,0.0,5995,82.0,1.37,11761.36,160.87,11.76,50972,121.92,9.81,0.0,47.08,-5.89
+2021-07-02,Illinois,Grundy,1.96,1,0,0.0,5995,82.0,1.37,11761.36,160.87,11.76,50972,121.92,9.81,1.96,52.97,-3.93
 2021-07-01,Illinois,Grundy,-1.96,-1,0,0.0,5994,82.0,1.37,11759.4,160.87,11.76,50972,121.92,7.85,-5.88,56.9,3.93
 2021-06-30,Illinois,Grundy,0.0,0,0,0.0,5995,82.0,1.37,11761.36,160.87,11.76,50972,121.92,13.73,0.0,52.97,-7.85
 2021-06-29,Illinois,Grundy,7.85,4,0,0.0,5995,82.0,1.37,11761.36,160.87,11.76,50972,121.92,13.73,5.89,60.82,-3.92

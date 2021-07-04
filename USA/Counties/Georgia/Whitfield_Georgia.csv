@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Georgia,Whitfield,0.0,0,0,0.0,17111,250.0,1.46,16443.08,240.24,16.44,104062,358.29,12.5,-2.88,67.25,-1.92
+2021-07-02,Georgia,Whitfield,-1.92,-2,0,0.0,17111,250.0,1.46,16443.08,240.24,16.44,104062,358.29,15.38,-3.84,69.17,-1.92
 2021-07-01,Georgia,Whitfield,0.96,1,0,0.0,17113,250.0,1.46,16445.0,240.24,16.45,104062,358.29,19.22,4.8,71.09,-1.92
 2021-06-30,Georgia,Whitfield,5.77,6,1,0.96,17112,250.0,1.46,16444.04,240.24,16.44,104062,358.29,14.42,2.89,73.01,0.97
 2021-06-29,Georgia,Whitfield,0.0,0,0,0.0,17106,249.0,1.46,16438.28,239.28,16.44,104062,358.29,11.53,-5.77,72.04,-1.92

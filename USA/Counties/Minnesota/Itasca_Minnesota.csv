@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Minnesota,Itasca,2.22,1,1,2.22,4614,66.0,1.43,10228.78,146.32,10.23,45108,16.91,24.39,2.22,117.51,-6.65
+2021-07-02,Minnesota,Itasca,6.65,3,0,0.0,4613,65.0,1.41,10226.57,144.1,10.23,45108,16.91,22.17,6.65,124.16,-8.87
 2021-07-01,Minnesota,Itasca,6.65,3,0,0.0,4610,65.0,1.41,10219.92,144.1,10.22,45108,16.91,15.52,4.43,133.03,-2.22
 2021-06-30,Minnesota,Itasca,0.0,0,1,2.22,4607,65.0,1.41,10213.27,144.1,10.21,45108,16.91,11.09,-2.22,135.25,-2.22
 2021-06-29,Minnesota,Itasca,2.22,1,0,0.0,4607,64.0,1.39,10213.27,141.88,10.21,45108,16.91,13.31,-2.21,137.47,0.0

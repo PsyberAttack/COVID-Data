@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Missouri,Montgomery,0.0,0,0,0.0,1082,13.0,1.2,9380.96,112.71,9.38,11534,21.56,86.7,-8.67,286.11,-8.67
+2021-07-02,Missouri,Montgomery,17.34,2,0,0.0,1082,13.0,1.2,9380.96,112.71,9.38,11534,21.56,95.37,8.67,294.78,-8.67
 2021-07-01,Missouri,Montgomery,43.35,5,0,0.0,1080,13.0,1.2,9363.62,112.71,9.36,11534,21.56,86.7,26.01,303.45,17.34
 2021-06-30,Missouri,Montgomery,0.0,0,0,0.0,1075,13.0,1.21,9320.27,112.71,9.32,11534,21.56,60.69,-26.01,286.11,-17.34
 2021-06-29,Missouri,Montgomery,8.67,1,1,8.67,1075,13.0,1.21,9320.27,112.71,9.32,11534,21.56,86.7,-17.34,303.45,8.67

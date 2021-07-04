@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Kentucky,Lawrence,0.0,0,0,0.0,1488,28.0,1.88,9556.23,179.82,9.56,15571,37.47,38.52,0.0,77.04,-6.42
+2021-07-02,Kentucky,Lawrence,0.0,0,0,0.0,1488,28.0,1.88,9556.23,179.82,9.56,15571,37.47,38.52,6.42,83.46,0.0
 2021-07-01,Kentucky,Lawrence,6.42,1,0,0.0,1488,28.0,1.88,9556.23,179.82,9.56,15571,37.47,32.1,6.42,83.46,6.42
 2021-06-30,Kentucky,Lawrence,6.42,1,0,0.0,1487,28.0,1.88,9549.8,179.82,9.55,15571,37.47,25.68,6.42,77.04,-12.85
 2021-06-29,Kentucky,Lawrence,12.84,2,0,0.0,1486,28.0,1.88,9543.38,179.82,9.54,15571,37.47,19.26,12.84,89.89,6.42

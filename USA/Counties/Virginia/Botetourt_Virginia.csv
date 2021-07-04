@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Virginia,Botetourt,0.0,0,0,0.0,2609,38.0,1.46,7840.25,114.19,7.84,33277,61.48,27.06,-3.01,156.32,-9.02
+2021-07-02,Virginia,Botetourt,6.01,2,0,0.0,2609,38.0,1.46,7840.25,114.19,7.84,33277,61.48,30.07,3.0,165.34,6.01
 2021-07-01,Virginia,Botetourt,3.01,1,0,0.0,2607,38.0,1.46,7834.24,114.19,7.83,33277,61.48,27.07,3.01,159.33,-3.0
 2021-06-30,Virginia,Botetourt,6.01,2,0,0.0,2606,38.0,1.46,7831.23,114.19,7.83,33277,61.48,24.06,12.02,162.33,3.0
 2021-06-29,Virginia,Botetourt,3.01,1,0,0.0,2604,38.0,1.46,7825.22,114.19,7.83,33277,61.48,12.04,0.0,159.33,3.01

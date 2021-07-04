@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,New Mexico,San Juan,0.0,0,0,0.0,15745,497.0,3.16,12591.67,397.46,12.59,125043,22.66,39.2,0.0,187.18,0.0
+2021-07-02,New Mexico,San Juan,4.0,5,0,0.0,15745,497.0,3.16,12591.67,397.46,12.59,125043,22.66,39.2,0.0,187.18,-5.6
 2021-07-01,New Mexico,San Juan,8.0,10,0,0.0,15740,497.0,3.16,12587.67,397.46,12.59,125043,22.66,39.2,3.2,192.78,-1.6
 2021-06-30,New Mexico,San Juan,8.0,10,0,0.0,15730,497.0,3.16,12579.67,397.46,12.58,125043,22.66,36.0,4.0,194.38,-0.8
 2021-06-29,New Mexico,San Juan,4.8,6,0,0.0,15720,497.0,3.16,12571.68,397.46,12.57,125043,22.66,32.0,-4.8,195.18,-35.19

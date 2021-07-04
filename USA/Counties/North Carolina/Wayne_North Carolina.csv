@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,North Carolina,Wayne,0.0,0,0,0.0,11496,244.0,2.12,9327.53,197.97,9.33,123248,222.5,24.34,0.0,110.36,0.0
+2021-07-02,North Carolina,Wayne,3.25,4,-1,-0.81,11496,244.0,2.12,9327.53,197.97,9.33,123248,222.5,24.34,-1.62,110.36,-1.62
 2021-07-01,North Carolina,Wayne,5.68,7,-1,-0.81,11492,245.0,2.13,9324.29,198.79,9.32,123248,222.5,25.96,0.0,111.98,0.81
 2021-06-30,North Carolina,Wayne,2.43,3,0,0.0,11485,246.0,2.14,9318.61,199.6,9.32,123248,222.5,25.96,-4.87,111.17,-0.82
 2021-06-29,North Carolina,Wayne,0.81,1,0,0.0,11482,246.0,2.14,9316.18,199.6,9.32,123248,222.5,30.83,2.43,111.99,-12.98

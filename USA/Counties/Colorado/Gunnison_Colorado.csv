@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Colorado,Gunnison,5.8,1,0,0.0,1401,6.0,0.43,8123.62,34.79,8.12,17246,5.32,52.19,-34.79,272.56,0.0
+2021-07-02,Colorado,Gunnison,17.4,3,0,0.0,1400,6.0,0.43,8117.82,34.79,8.12,17246,5.32,86.98,0.0,272.56,17.4
 2021-07-01,Colorado,Gunnison,5.8,1,0,0.0,1397,6.0,0.43,8100.43,34.79,8.1,17246,5.32,86.98,0.0,255.16,-5.8
 2021-06-30,Colorado,Gunnison,23.19,4,0,0.0,1396,6.0,0.43,8094.63,34.79,8.09,17246,5.32,86.98,23.19,260.96,23.19
 2021-06-29,Colorado,Gunnison,5.8,1,0,0.0,1392,6.0,0.43,8071.44,34.79,8.07,17246,5.32,63.79,-5.8,237.77,11.6

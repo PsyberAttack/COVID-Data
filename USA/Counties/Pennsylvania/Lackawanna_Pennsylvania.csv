@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Pennsylvania,Lackawanna,1.42,3,0,0.0,18565,482.0,2.6,8807.22,228.66,8.81,210793,459.47,5.68,-0.95,47.4,-0.48
+2021-07-02,Pennsylvania,Lackawanna,0.0,0,0,0.0,18562,482.0,2.6,8805.8,228.66,8.81,210793,459.47,6.63,-1.42,47.88,-1.42
 2021-07-01,Pennsylvania,Lackawanna,0.47,1,0,0.0,18562,482.0,2.6,8805.8,228.66,8.81,210793,459.47,8.05,-1.9,49.3,-5.22
 2021-06-30,Pennsylvania,Lackawanna,0.47,1,0,0.0,18561,482.0,2.6,8805.32,228.66,8.81,210793,459.47,9.95,0.0,54.52,-0.95
 2021-06-29,Pennsylvania,Lackawanna,1.9,4,1,0.47,18560,482.0,2.6,8804.85,228.66,8.8,210793,459.47,9.95,0.0,55.47,0.0

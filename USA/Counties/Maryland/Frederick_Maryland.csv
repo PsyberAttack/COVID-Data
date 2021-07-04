@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Maryland,Frederick,0.39,1,1,0.39,19852,343.0,1.73,7765.36,134.17,7.77,255648,387.07,4.68,0.39,21.46,-1.17
+2021-07-02,Maryland,Frederick,1.56,4,0,0.0,19851,342.0,1.72,7764.97,133.78,7.76,255648,387.07,4.29,1.17,22.63,0.39
 2021-07-01,Maryland,Frederick,1.17,3,0,0.0,19847,342.0,1.72,7763.41,133.78,7.76,255648,387.07,3.12,0.78,22.24,-0.39
 2021-06-30,Maryland,Frederick,0.39,1,0,0.0,19844,342.0,1.72,7762.24,133.78,7.76,255648,387.07,2.34,-0.39,22.63,-0.78
 2021-06-29,Maryland,Frederick,0.39,1,0,0.0,19843,342.0,1.72,7761.84,133.78,7.76,255648,387.07,2.73,-0.78,23.41,0.0

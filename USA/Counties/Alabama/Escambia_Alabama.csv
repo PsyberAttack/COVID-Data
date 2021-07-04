@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Alabama,Escambia,0.0,0,0,0.0,4038,81.0,2.01,10988.35,220.42,10.99,36748,38.88,29.93,0.0,133.34,0.0
+2021-07-02,Alabama,Escambia,8.16,3,1,2.72,4038,81.0,2.01,10988.35,220.42,10.99,36748,38.88,29.93,-2.72,133.34,2.72
 2021-07-01,Alabama,Escambia,0.0,0,0,0.0,4035,80.0,1.98,10980.19,217.7,10.98,36748,38.88,32.65,0.0,130.62,-10.88
 2021-06-30,Alabama,Escambia,2.72,1,0,0.0,4035,80.0,1.98,10980.19,217.7,10.98,36748,38.88,32.65,-10.89,141.5,-13.61
 2021-06-29,Alabama,Escambia,0.0,0,0,0.0,4034,80.0,1.98,10977.47,217.7,10.98,36748,38.88,43.54,0.0,155.11,-24.49

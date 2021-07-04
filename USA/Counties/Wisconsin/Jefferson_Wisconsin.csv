@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Wisconsin,Jefferson,0.0,0,0,0.0,9691,136.0,1.4,11383.9,159.76,11.38,85129,152.98,7.03,0.0,35.2,0.0
+2021-07-02,Wisconsin,Jefferson,1.17,1,0,0.0,9691,136.0,1.4,11383.9,159.76,11.38,85129,152.98,7.03,-1.18,35.2,1.17
 2021-07-01,Wisconsin,Jefferson,1.17,1,0,0.0,9690,136.0,1.4,11382.73,159.76,11.38,85129,152.98,8.21,-1.18,34.03,-1.18
 2021-06-30,Wisconsin,Jefferson,0.0,0,0,0.0,9689,136.0,1.4,11381.55,159.76,11.38,85129,152.98,9.39,-1.17,35.21,-3.52
 2021-06-29,Wisconsin,Jefferson,3.52,3,0,0.0,9689,136.0,1.4,11381.55,159.76,11.38,85129,152.98,10.56,0.0,38.73,3.52

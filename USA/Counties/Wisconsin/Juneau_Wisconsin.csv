@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Wisconsin,Juneau,0.0,0,0,0.0,3355,31.0,0.92,12604.73,116.47,12.6,26617,34.7,30.05,0.0,52.59,0.0
+2021-07-02,Wisconsin,Juneau,11.27,3,0,0.0,3355,31.0,0.92,12604.73,116.47,12.6,26617,34.7,30.05,15.03,52.59,3.76
 2021-07-01,Wisconsin,Juneau,7.51,2,0,0.0,3352,31.0,0.92,12593.46,116.47,12.59,26617,34.7,15.02,7.51,48.83,3.75
 2021-06-30,Wisconsin,Juneau,0.0,0,0,0.0,3350,31.0,0.93,12585.94,116.47,12.59,26617,34.7,7.51,0.0,45.08,-7.51
 2021-06-29,Wisconsin,Juneau,3.76,1,0,0.0,3350,31.0,0.93,12585.94,116.47,12.59,26617,34.7,7.51,3.76,52.59,3.76

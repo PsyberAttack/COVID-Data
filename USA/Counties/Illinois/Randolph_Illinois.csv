@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Illinois,Randolph,0.0,0,0,0.0,4175,93.0,2.23,13003.8,289.67,13.0,32106,55.81,31.13,0.0,77.83,-3.11
+2021-07-02,Illinois,Randolph,9.34,3,0,0.0,4175,93.0,2.23,13003.8,289.67,13.0,32106,55.81,31.13,9.34,80.94,9.34
 2021-07-01,Illinois,Randolph,3.11,1,0,0.0,4172,93.0,2.23,12994.46,289.67,12.99,32106,55.81,21.79,3.11,71.6,6.22
 2021-06-30,Illinois,Randolph,12.46,4,0,0.0,4171,93.0,2.23,12991.34,289.67,12.99,32106,55.81,18.68,12.46,65.38,3.12
 2021-06-29,Illinois,Randolph,3.11,1,0,0.0,4167,93.0,2.23,12978.88,289.67,12.98,32106,55.81,6.22,3.11,62.26,3.11

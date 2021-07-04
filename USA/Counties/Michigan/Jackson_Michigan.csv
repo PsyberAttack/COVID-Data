@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Michigan,Jackson,0.0,0,0,0.0,21058,324.0,1.54,13258.78,204.0,13.26,158823,226.28,11.97,0.0,49.77,5.04
+2021-07-02,Michigan,Jackson,1.26,2,0,0.0,21058,324.0,1.54,13258.78,204.0,13.26,158823,226.28,11.97,0.0,44.73,-3.15
 2021-07-01,Michigan,Jackson,3.15,5,0,0.0,21056,324.0,1.54,13257.53,204.0,13.26,158823,226.28,11.97,3.78,47.88,0.63
 2021-06-30,Michigan,Jackson,2.52,4,0,0.0,21051,324.0,1.54,13254.38,204.0,13.25,158823,226.28,8.19,-0.63,47.25,0.63
 2021-06-29,Michigan,Jackson,2.52,4,1,0.63,21047,324.0,1.54,13251.86,204.0,13.25,158823,226.28,8.82,3.15,46.62,-12.59

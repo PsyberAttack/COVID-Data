@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Wisconsin,Outagamie,0.0,0,0,0.0,23909,242.0,1.01,12760.65,129.16,12.76,187365,293.87,10.66,0.0,30.95,0.0
+2021-07-02,Wisconsin,Outagamie,2.13,4,0,0.0,23909,242.0,1.01,12760.65,129.16,12.76,187365,293.87,10.66,1.06,30.95,-2.14
 2021-07-01,Wisconsin,Outagamie,1.6,3,0,0.0,23905,242.0,1.01,12758.52,129.16,12.76,187365,293.87,9.6,1.07,33.09,-2.14
 2021-06-30,Wisconsin,Outagamie,1.6,3,0,0.0,23902,242.0,1.01,12756.92,129.16,12.76,187365,293.87,8.53,0.0,35.23,-4.27
 2021-06-29,Wisconsin,Outagamie,2.13,4,0,0.0,23899,242.0,1.01,12755.32,129.16,12.76,187365,293.87,8.53,0.53,39.5,0.0

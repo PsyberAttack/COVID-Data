@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,New York,Otsego,1.67,1,0,0.0,3470,47.0,1.35,5807.63,78.66,5.81,59749,59.65,6.68,0.0,30.09,-1.68
+2021-07-02,New York,Otsego,0.0,0,0,0.0,3469,47.0,1.35,5805.95,78.66,5.81,59749,59.65,6.68,0.0,31.77,-1.67
 2021-07-01,New York,Otsego,1.67,1,0,0.0,3469,47.0,1.35,5805.95,78.66,5.81,59749,59.65,6.68,1.67,33.44,0.0
 2021-06-30,New York,Otsego,1.67,1,0,0.0,3468,47.0,1.36,5804.28,78.66,5.8,59749,59.65,5.01,0.0,33.44,1.67
 2021-06-29,New York,Otsego,0.0,0,0,0.0,3467,47.0,1.36,5802.61,78.66,5.8,59749,59.65,5.01,0.0,31.77,-1.67

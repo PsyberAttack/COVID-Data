@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Tennessee,Bledsoe,0.0,0,0,0.0,2225,11.0,0.49,15079.63,74.55,15.08,14755,36.3,81.32,0.0,223.65,0.0
+2021-07-02,Tennessee,Bledsoe,33.89,5,0,0.0,2225,11.0,0.49,15079.63,74.55,15.08,14755,36.3,81.32,47.44,223.65,20.34
 2021-07-01,Tennessee,Bledsoe,20.33,3,0,0.0,2220,11.0,0.5,15045.75,74.55,15.05,14755,36.3,33.88,27.11,203.31,20.33
 2021-06-30,Tennessee,Bledsoe,13.55,2,0,0.0,2217,11.0,0.5,15025.42,74.55,15.03,14755,36.3,6.77,0.0,182.98,20.33
 2021-06-29,Tennessee,Bledsoe,0.0,0,0,0.0,2215,11.0,0.5,15011.86,74.55,15.01,14755,36.3,6.77,0.0,162.65,-40.66

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Louisiana,Sabine,0.0,0,0,0.0,3007,64.0,2.13,12512.48,266.31,12.51,24032,27.73,45.76,0.0,91.52,0.0
+2021-07-02,Louisiana,Sabine,8.32,2,0,0.0,3007,64.0,2.13,12512.48,266.31,12.51,24032,27.73,45.76,12.48,91.52,8.32
 2021-07-01,Louisiana,Sabine,4.16,1,0,0.0,3005,64.0,2.13,12504.16,266.31,12.5,24032,27.73,33.28,-12.48,83.2,-54.1
 2021-06-30,Louisiana,Sabine,4.16,1,0,0.0,3004,64.0,2.13,12500.0,266.31,12.5,24032,27.73,45.76,-8.32,137.3,20.8
 2021-06-29,Louisiana,Sabine,12.48,3,0,0.0,3003,64.0,2.13,12495.84,266.31,12.5,24032,27.73,54.08,8.32,116.5,-29.13

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Ohio,Coshocton,0.0,0,0,0.0,2701,60.0,2.22,7373.94,163.8,7.37,36629,64.95,10.92,-2.73,60.06,-2.73
+2021-07-02,Ohio,Coshocton,0.0,0,0,0.0,2701,60.0,2.22,7373.94,163.8,7.37,36629,64.95,13.65,-5.46,62.79,-2.73
 2021-07-01,Ohio,Coshocton,5.46,2,0,0.0,2701,60.0,2.22,7373.94,163.8,7.37,36629,64.95,19.11,2.73,65.52,2.73
 2021-06-30,Ohio,Coshocton,-2.73,-1,0,0.0,2699,60.0,2.22,7368.48,163.8,7.37,36629,64.95,16.38,-5.46,62.79,0.0
 2021-06-29,Ohio,Coshocton,5.46,2,0,0.0,2700,60.0,2.22,7371.21,163.8,7.37,36629,64.95,21.84,0.0,62.79,5.46

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Louisiana,St. James,0.0,0,0,0.0,2048,51.0,2.49,9735.23,242.43,9.74,21037,87.09,71.3,0.0,190.13,0.0
+2021-07-02,Louisiana,St. James,14.26,3,0,0.0,2048,51.0,2.49,9735.23,242.43,9.74,21037,87.09,71.3,9.51,190.13,14.26
 2021-07-01,Louisiana,St. James,33.27,7,0,0.0,2045,51.0,2.49,9720.97,242.43,9.72,21037,87.09,61.79,23.76,175.87,42.78
 2021-06-30,Louisiana,St. James,-4.75,-1,0,0.0,2038,51.0,2.5,9687.69,242.43,9.69,21037,87.09,38.03,-9.5,133.09,-33.27
 2021-06-29,Louisiana,St. James,14.26,3,0,0.0,2039,51.0,2.5,9692.45,242.43,9.69,21037,87.09,47.53,4.75,166.36,4.75

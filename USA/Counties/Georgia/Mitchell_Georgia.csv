@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Georgia,Mitchell,0.0,0,0,0.0,2109,84.0,3.98,9503.42,378.51,9.5,22192,43.33,22.54,0.0,27.05,0.0
+2021-07-02,Georgia,Mitchell,13.52,3,0,0.0,2109,84.0,3.98,9503.42,378.51,9.5,22192,43.33,22.54,13.52,27.05,13.52
 2021-07-01,Georgia,Mitchell,4.51,1,0,0.0,2106,84.0,3.99,9489.91,378.51,9.49,22192,43.33,9.02,0.0,13.53,0.0
 2021-06-30,Georgia,Mitchell,4.51,1,0,0.0,2105,84.0,3.99,9485.4,378.51,9.49,22192,43.33,9.02,9.02,13.53,-4.5
 2021-06-29,Georgia,Mitchell,0.0,0,0,0.0,2104,84.0,3.99,9480.89,378.51,9.48,22192,43.33,-0.0,4.51,18.03,0.0

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Florida,Seminole,0.0,0,0,0.0,36402,516.0,1.42,7781.0,110.3,7.78,467832,1512.06,86.14,0.0,257.15,0.0
+2021-07-02,Florida,Seminole,86.14,403,0,0.0,36402,516.0,1.42,7781.0,110.3,7.78,467832,1512.06,86.14,29.71,257.15,134.88
 2021-07-01,Florida,Seminole,0.0,0,0,0.0,35999,516.0,1.43,7694.86,110.3,7.69,467832,1512.06,56.43,0.0,122.27,-10.05
 2021-06-30,Florida,Seminole,0.0,0,0,0.0,35999,516.0,1.43,7694.86,110.3,7.69,467832,1512.06,56.43,0.0,132.32,-4.28
 2021-06-29,Florida,Seminole,0.0,0,0,0.0,35999,516.0,1.43,7694.86,110.3,7.69,467832,1512.06,56.43,0.0,136.6,-25.01

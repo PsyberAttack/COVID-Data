@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,North Carolina,Haywood,0.0,0,0,0.0,4498,99.0,2.2,7258.23,159.75,7.26,61971,111.95,1.62,0.0,51.63,0.0
+2021-07-02,North Carolina,Haywood,3.23,2,0,0.0,4498,99.0,2.2,7258.23,159.75,7.26,61971,111.95,1.62,3.23,51.63,-6.45
 2021-07-01,North Carolina,Haywood,-1.61,-1,0,0.0,4496,99.0,2.2,7255.01,159.75,7.26,61971,111.95,-1.61,0.0,58.08,-8.06
 2021-06-30,North Carolina,Haywood,-1.61,-1,0,0.0,4497,99.0,2.2,7256.62,159.75,7.26,61971,111.95,-1.61,-4.84,66.14,-1.61
 2021-06-29,North Carolina,Haywood,1.61,1,1,1.61,4498,99.0,2.2,7258.23,159.75,7.26,61971,111.95,3.23,0.0,67.75,-8.07

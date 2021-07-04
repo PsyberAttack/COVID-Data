@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Illinois,Williamson,0.0,0,0,0.0,7663,148.0,1.93,11427.76,220.71,11.43,67056,159.59,52.19,0.0,181.93,-2.98
+2021-07-02,Illinois,Williamson,22.37,15,1,1.49,7663,148.0,1.93,11427.76,220.71,11.43,67056,159.59,52.19,14.91,184.91,10.44
 2021-07-01,Illinois,Williamson,2.98,2,1,1.49,7648,147.0,1.92,11405.39,219.22,11.41,67056,159.59,37.28,-2.99,174.47,-1.49
 2021-06-30,Illinois,Williamson,4.47,3,0,0.0,7646,146.0,1.91,11402.41,217.73,11.4,67056,159.59,40.27,-1.5,175.96,0.0
 2021-06-29,Illinois,Williamson,5.97,4,0,0.0,7643,146.0,1.91,11397.94,217.73,11.4,67056,159.59,41.77,-2.98,175.96,4.48

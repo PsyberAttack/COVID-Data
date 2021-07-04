@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Missouri,Warren,20.17,7,0,0.0,3269,38.0,1.16,9417.76,109.48,9.42,34711,80.99,80.66,11.53,164.18,20.17
+2021-07-02,Missouri,Warren,23.05,8,0,0.0,3262,38.0,1.16,9397.6,109.48,9.4,34711,80.99,69.13,17.29,144.01,14.41
 2021-07-01,Missouri,Warren,5.76,2,0,0.0,3254,38.0,1.17,9374.55,109.48,9.37,34711,80.99,51.84,5.76,129.6,-2.88
 2021-06-30,Missouri,Warren,2.88,1,0,0.0,3252,38.0,1.17,9368.79,109.48,9.37,34711,80.99,46.08,-5.76,132.48,-2.88
 2021-06-29,Missouri,Warren,8.64,3,1,2.88,3251,38.0,1.17,9365.91,109.48,9.37,34711,80.99,51.84,5.76,135.36,5.76

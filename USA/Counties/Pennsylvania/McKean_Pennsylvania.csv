@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Pennsylvania,McKean,2.44,1,0,0.0,3814,72.0,1.89,9309.71,175.75,9.31,40968,41.84,14.64,2.44,39.04,-4.88
+2021-07-02,Pennsylvania,McKean,2.44,1,0,0.0,3813,72.0,1.89,9307.26,175.75,9.31,40968,41.84,12.2,2.44,43.92,-9.76
 2021-07-01,Pennsylvania,McKean,2.44,1,0,0.0,3812,72.0,1.89,9304.82,175.75,9.3,40968,41.84,9.76,2.44,53.68,-29.29
 2021-06-30,Pennsylvania,McKean,4.88,2,0,0.0,3811,72.0,1.89,9302.38,175.75,9.3,40968,41.84,7.32,7.32,82.97,-9.77
 2021-06-29,Pennsylvania,McKean,2.44,1,0,0.0,3809,72.0,1.89,9297.5,175.75,9.3,40968,41.84,0.0,0.0,92.74,2.44

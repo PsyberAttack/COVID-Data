@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Pennsylvania,Tioga,4.91,2,0,0.0,3132,112.0,3.58,7683.44,274.76,7.68,40763,35.95,9.82,0.0,134.91,0.0
+2021-07-02,Pennsylvania,Tioga,4.91,2,0,0.0,3130,112.0,3.58,7678.53,274.76,7.68,40763,35.95,9.82,0.0,134.91,-14.72
 2021-07-01,Pennsylvania,Tioga,-2.45,-1,0,0.0,3128,112.0,3.58,7673.63,274.76,7.67,40763,35.95,9.82,-2.45,149.63,-22.08
 2021-06-30,Pennsylvania,Tioga,0.0,0,0,0.0,3129,112.0,3.58,7676.08,274.76,7.68,40763,35.95,12.27,-2.45,171.71,-14.72
 2021-06-29,Pennsylvania,Tioga,2.45,1,0,0.0,3129,112.0,3.58,7676.08,274.76,7.68,40763,35.95,14.72,0.0,186.43,-12.27

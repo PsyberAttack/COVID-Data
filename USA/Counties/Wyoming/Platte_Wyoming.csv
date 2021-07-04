@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Wyoming,Platte,0.0,0,0,0.0,684,13.0,1.9,7985.06,151.76,7.99,8566,4.12,46.69,0.0,198.44,0.0
+2021-07-02,Wyoming,Platte,23.35,2,0,0.0,684,13.0,1.9,7985.06,151.76,7.99,8566,4.12,46.69,11.68,198.44,-23.35
 2021-07-01,Wyoming,Platte,11.67,1,0,0.0,682,13.0,1.91,7961.71,151.76,7.96,8566,4.12,35.01,-11.68,221.79,-81.72
 2021-06-30,Wyoming,Platte,0.0,0,0,0.0,681,13.0,1.91,7950.04,151.76,7.95,8566,4.12,46.69,0.0,303.51,0.0
 2021-06-29,Wyoming,Platte,11.67,1,1,11.67,681,13.0,1.91,7950.04,151.76,7.95,8566,4.12,46.69,11.67,303.51,-35.03

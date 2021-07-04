@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,California,Santa Barbara,0.0,0,0,0.0,34660,457.0,1.32,7762.13,102.35,7.76,446527,163.26,4.04,0.0,28.89,-1.12
+2021-07-02,California,Santa Barbara,1.79,8,0,0.0,34660,457.0,1.32,7762.13,102.35,7.76,446527,163.26,4.04,-0.67,30.01,-1.12
 2021-07-01,California,Santa Barbara,2.02,9,0,0.0,34652,457.0,1.32,7760.34,102.35,7.76,446527,163.26,4.71,0.45,31.13,0.68
 2021-06-30,California,Santa Barbara,3.81,17,0,0.0,34643,457.0,1.32,7758.32,102.35,7.76,446527,163.26,4.26,1.35,30.45,1.79
 2021-06-29,California,Santa Barbara,-7.39,-33,1,0.22,34626,457.0,1.32,7754.51,102.35,7.75,446527,163.26,2.91,-7.39,28.66,-9.63

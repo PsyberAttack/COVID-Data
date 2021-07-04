@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,California,Humboldt,0.0,0,0,0.0,4586,50.0,1.09,3362.84,36.66,3.36,136373,38.22,38.86,0.0,169.4,0.0
+2021-07-02,California,Humboldt,2.93,4,0,0.0,4586,50.0,1.09,3362.84,36.66,3.36,136373,38.22,38.86,-0.74,169.4,-8.8
 2021-07-01,California,Humboldt,9.53,13,0,0.0,4582,50.0,1.09,3359.9,36.66,3.36,136373,38.22,39.6,-0.74,178.2,-0.74
 2021-06-30,California,Humboldt,6.6,9,0,0.0,4569,50.0,1.09,3350.37,36.66,3.35,136373,38.22,40.34,2.2,178.94,5.13
 2021-06-29,California,Humboldt,4.4,6,0,0.0,4560,50.0,1.1,3343.77,36.66,3.34,136373,38.22,38.14,-2.2,173.81,-19.07

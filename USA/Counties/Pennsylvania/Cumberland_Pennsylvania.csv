@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,Pennsylvania,Cumberland,0.4,1,0,0.0,20627,526.0,2.55,8204.1,209.21,8.2,251423,460.9,5.59,0.0,59.7,-5.96
+2021-07-02,Pennsylvania,Cumberland,0.8,2,0,0.0,20626,526.0,2.55,8203.7,209.21,8.2,251423,460.9,5.59,0.4,65.66,-7.95
 2021-07-01,Pennsylvania,Cumberland,1.59,4,0,0.0,20624,526.0,2.55,8202.91,209.21,8.2,251423,460.9,5.19,0.79,73.61,-5.17
 2021-06-30,Pennsylvania,Cumberland,0.8,2,0,0.0,20620,526.0,2.55,8201.32,209.21,8.2,251423,460.9,4.4,0.8,78.78,-1.19
 2021-06-29,Pennsylvania,Cumberland,0.8,2,0,0.0,20618,526.0,2.55,8200.52,209.21,8.2,251423,460.9,3.6,0.0,79.97,-4.77

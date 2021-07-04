@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-03,South Carolina,Newberry,0.0,0,0,0.0,5105,109.0,2.14,13252.86,282.97,13.25,38520,61.14,5.19,0.0,2.6,-12.98
+2021-07-02,South Carolina,Newberry,5.19,2,0,0.0,5105,109.0,2.14,13252.86,282.97,13.25,38520,61.14,5.19,5.19,15.58,18.17
 2021-07-01,South Carolina,Newberry,2.6,1,0,0.0,5103,109.0,2.14,13247.66,282.97,13.25,38520,61.14,0.0,7.79,-2.59,5.2
 2021-06-30,South Carolina,Newberry,0.0,0,0,0.0,5102,109.0,2.14,13245.07,282.97,13.25,38520,61.14,-7.79,2.6,-7.79,-2.6
 2021-06-29,South Carolina,Newberry,5.19,2,0,0.0,5102,109.0,2.14,13245.07,282.97,13.25,38520,61.14,-10.39,0.0,-5.19,5.19
