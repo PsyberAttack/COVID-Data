@@ -1,5 +1,7 @@
 ## Greece COVID-19 Data
 
+**This dataset is no longer updated as the source case data is no longer updated**
+
 Includes data from the COVID-19 Response Greece project.
 
 

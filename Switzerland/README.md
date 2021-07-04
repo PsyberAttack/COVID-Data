@@ -1,8 +1,6 @@
 ## Switzerland COVID Data
 
 Includes data for Switzerland's cantons from the OpenZH project: https://github.com/openZH/covid_19
-
-*** THIS  DATASET IS IN PROGRESS. DAILY UPDATES NOW OCCURRING***
  
  
 ### Files:

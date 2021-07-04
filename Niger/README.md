@@ -1,5 +1,7 @@
 ## Niger COVID Data
 
+**This dataset is no longer updated as the source case data is no longer updated**
+
 Includes data for Niger's States from the Niger Ministry of Health: http://www.msp.ne
  
  

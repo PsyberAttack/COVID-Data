@@ -1,8 +1,6 @@
 ## South Africa COVID Data
 
 Includes data for South Africa from the Data Science for Social Impact Reseach Group, University of Pretoria: https://dsfsi.github.io/
-
-*** THIS  DATASET IS IN PROGRESS. DAILY UPDATES NOW OCCURRING***
  
  
 ### Files:

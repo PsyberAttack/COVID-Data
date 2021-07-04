@@ -1,8 +1,6 @@
 ## Netherlands COVID Data
 
 Includes data for the Netherlands from the NL COVID-19 hub: https://nlcovid-19-esrinl-content.hub.arcgis.com/
-
-*** THIS  DATASET IS IN PROGRESS. DAILY UPDATES NOW OCCURRING***
  
  
 ### Files:

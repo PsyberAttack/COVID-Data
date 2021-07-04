@@ -1,9 +1,6 @@
 ## Brazil COVID Data
 
 Includes data from the Brazil.IO COVID-19 Dataset.
-
-
-*** THIS  DATASET IS LIVE. WIKI WILL BE UPDATED SOON ***
  
  
 ### Files:

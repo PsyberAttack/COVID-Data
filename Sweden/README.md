@@ -1,8 +1,6 @@
 ## Sweden COVID Data
 
 Includes data from the Swedish Public Health Agency, (Folkhalsomyndigheten).
-
-*** THIS  DATASET IS IN PROGRESS. DAILY UPDATES NOW OCCURRING***
  
  
 ### Files:

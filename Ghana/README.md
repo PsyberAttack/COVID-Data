@@ -1,5 +1,7 @@
 ## Ghana COVID Data
 
+**This dataset is no longer updated as the source case data is no longer updated**
+
 Includes case data for Ghana's States from the Ghanaian Health Ministry: https://ghanahealthservice.org/covid19/
  
  

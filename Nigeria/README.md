@@ -1,5 +1,7 @@
 ## Nigeria COVID Data
 
+**This dataset is no longer updated as the source case data is no longer updated**
+
 Includes data for Nigeria's States from the Nigerian Centre for Disease Control: https://covid19.ncdc.gov.ng/
  
  

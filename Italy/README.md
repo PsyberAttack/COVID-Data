@@ -1,13 +1,12 @@
 ## Italy COVID Data
 
 Includes data from the Italian Health Ministry.
-
-*** THIS  DATASET IS IN PROGRESS. DAILY UPDATES NOW OCCURRING***
  
  
 ### Files:
 
-**Provinces** contains time series data on each Italian province, including Lombardi and Bergamo
+**Regions** contains time series data on each Italian Region
+**Provinces** contains time series data on each Italian Province
 
 
 ### Data Sources:

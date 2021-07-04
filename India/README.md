@@ -1,9 +1,6 @@
 ## India COVID Data
 
 Includes data from the COVID19India Dataset.
-
-
-*** THIS WIKI WILL BE UPDATED IN THE NEXT DAYS ***
  
  
 ### Files:
