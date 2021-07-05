@@ -1,5 +1,7 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-07-01 00:00:00+00:00,Bayern,Berchtesgadener Land,0.95,1,0,0.0,6019,102,1.69,5693.23,96.48,5.69,105722,5.69,0.95,66.23,-1.89
+2021-07-03 00:00:00+00:00,Bayern,Berchtesgadener Land,0.95,1,0,0.0,6021,102,1.69,5695.12,96.48,5.7,105722,4.74,0.0,58.66,-5.67
+2021-07-02 00:00:00+00:00,Bayern,Berchtesgadener Land,0.0,0,0,0.0,6020,102,1.69,5694.18,96.48,5.69,105722,4.74,-1.89,64.33,-2.84
+2021-07-01 00:00:00+00:00,Bayern,Berchtesgadener Land,1.89,2,0,0.0,6020,102,1.69,5694.18,96.48,5.69,105722,6.63,1.89,67.17,-0.95
 2021-06-30 00:00:00+00:00,Bayern,Berchtesgadener Land,0.0,0,0,0.0,6018,102,1.69,5692.29,96.48,5.69,105722,4.74,-1.89,68.12,-3.78
 2021-06-29 00:00:00+00:00,Bayern,Berchtesgadener Land,0.95,1,0,0.0,6018,102,1.69,5692.29,96.48,5.69,105722,6.63,-2.83,71.9,-5.67
 2021-06-28 00:00:00+00:00,Bayern,Berchtesgadener Land,0.95,1,0,0.0,6017,102,1.7,5691.34,96.48,5.69,105722,9.46,-2.83,77.57,-0.94
