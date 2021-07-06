@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-05,Colorado,Montezuma,3.82,1,0,0.0,2103,25.0,1.19,8039.61,95.57,8.04,26158,12.89,72.64,3.82,328.79,0.0
+2021-07-04,Colorado,Montezuma,22.94,6,0,0.0,2102,25.0,1.19,8035.78,95.57,8.04,26158,12.89,68.82,15.29,328.79,19.12
 2021-07-03,Colorado,Montezuma,11.47,3,0,0.0,2096,25.0,1.19,8012.85,95.57,8.01,26158,12.89,53.53,11.47,309.67,-11.47
 2021-07-02,Colorado,Montezuma,7.65,2,0,0.0,2093,25.0,1.19,8001.38,95.57,8.0,26158,12.89,42.06,7.65,321.14,-19.11
 2021-07-01,Colorado,Montezuma,11.47,3,0,0.0,2091,25.0,1.2,7993.73,95.57,7.99,26158,12.89,34.41,-11.47,340.25,-3.82

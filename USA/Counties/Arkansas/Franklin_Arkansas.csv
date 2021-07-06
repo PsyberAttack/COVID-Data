@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-05,Arkansas,Franklin,11.23,2,0,0.0,1721,40.0,2.32,9663.11,224.59,9.66,17810,29.25,33.69,5.62,89.81,11.23
+2021-07-04,Arkansas,Franklin,0.0,0,0,0.0,1719,40.0,2.33,9651.88,224.59,9.65,17810,29.25,28.07,0.0,78.58,-5.61
 2021-07-03,Arkansas,Franklin,0.0,0,0,0.0,1719,40.0,2.33,9651.88,224.59,9.65,17810,29.25,28.07,0.0,84.19,0.0
 2021-07-02,Arkansas,Franklin,5.61,1,0,0.0,1719,40.0,2.33,9651.88,224.59,9.65,17810,29.25,28.07,0.0,84.19,5.61
 2021-07-01,Arkansas,Franklin,-5.61,-1,0,0.0,1718,40.0,2.33,9646.27,224.59,9.65,17810,29.25,28.07,-5.61,78.58,-5.61

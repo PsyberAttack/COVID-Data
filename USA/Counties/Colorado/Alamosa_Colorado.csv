@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-05,Colorado,Alamosa,0.0,0,0,0.0,1733,37.0,2.14,10387.82,221.78,10.39,16683,23.09,47.94,-11.99,179.8,-5.99
+2021-07-04,Colorado,Alamosa,5.99,1,0,0.0,1733,37.0,2.14,10387.82,221.78,10.39,16683,23.09,59.93,0.0,185.79,0.0
 2021-07-03,Colorado,Alamosa,5.99,1,-1,-5.99,1732,37.0,2.14,10381.83,221.78,10.38,16683,23.09,59.93,0.0,185.79,-6.0
 2021-07-02,Colorado,Alamosa,29.97,5,1,5.99,1731,38.0,2.2,10375.83,227.78,10.38,16683,23.09,59.93,5.99,191.79,5.99
 2021-07-01,Colorado,Alamosa,5.99,1,0,0.0,1726,37.0,2.14,10345.86,221.78,10.35,16683,23.09,53.94,0.0,185.8,-17.99

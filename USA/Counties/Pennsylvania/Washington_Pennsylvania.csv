@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-05,Pennsylvania,Washington,0.48,1,0,0.0,17941,307.0,1.71,8652.69,148.06,8.65,207346,241.95,7.71,-0.97,57.86,0.0
+2021-07-04,Pennsylvania,Washington,0.0,0,0,0.0,17940,307.0,1.71,8652.2,148.06,8.65,207346,241.95,8.68,0.0,57.86,-1.93
 2021-07-03,Pennsylvania,Washington,3.38,7,0,0.0,17940,307.0,1.71,8652.2,148.06,8.65,207346,241.95,8.68,2.42,59.79,0.0
 2021-07-02,Pennsylvania,Washington,0.48,1,0,0.0,17933,307.0,1.71,8648.83,148.06,8.65,207346,241.95,6.26,-1.93,59.79,-4.34
 2021-07-01,Pennsylvania,Washington,1.45,3,1,0.48,17932,307.0,1.71,8648.35,148.06,8.65,207346,241.95,8.19,-1.93,64.13,-0.48

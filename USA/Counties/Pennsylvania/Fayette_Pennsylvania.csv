@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-05,Pennsylvania,Fayette,1.53,2,0,0.0,13443,328.0,2.44,10305.81,251.45,10.31,130441,165.04,20.7,0.0,130.34,-3.07
+2021-07-04,Pennsylvania,Fayette,0.77,1,0,0.0,13441,328.0,2.44,10304.28,251.45,10.3,130441,165.04,20.7,-3.06,133.41,-3.83
 2021-07-03,Pennsylvania,Fayette,5.37,7,0,0.0,13440,328.0,2.44,10303.51,251.45,10.3,130441,165.04,23.76,3.07,137.24,-1.53
 2021-07-02,Pennsylvania,Fayette,1.53,2,0,0.0,13433,328.0,2.44,10298.14,251.45,10.3,130441,165.04,20.69,-3.07,138.77,-11.5
 2021-07-01,Pennsylvania,Fayette,3.07,4,0,0.0,13431,328.0,2.44,10296.61,251.45,10.3,130441,165.04,23.76,-1.53,150.27,-2.3

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-05,Maryland,Prince George's,0.88,8,0,0.0,85640,1597.0,1.86,9418.15,175.63,9.42,909308,1883.98,10.56,-0.11,43.78,-1.21
+2021-07-04,Maryland,Prince George's,1.65,15,0,0.0,85632,1597.0,1.86,9417.27,175.63,9.42,909308,1883.98,10.67,-0.33,44.99,-1.54
 2021-07-03,Maryland,Prince George's,2.31,21,0,0.0,85617,1597.0,1.87,9415.62,175.63,9.42,909308,1883.98,11.0,0.55,46.53,-0.22
 2021-07-02,Maryland,Prince George's,2.09,19,0,0.0,85596,1597.0,1.87,9413.31,175.63,9.41,909308,1883.98,10.45,0.44,46.75,-0.33
 2021-07-01,Maryland,Prince George's,2.09,19,0,0.0,85577,1597.0,1.87,9411.22,175.63,9.41,909308,1883.98,10.01,1.1,47.08,-0.33

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-05,Colorado,Rio Grande,0.0,0,0,0.0,910,16.0,1.76,8088.89,142.22,8.09,11250,12.34,97.79,0.0,311.14,0.0
+2021-07-04,Colorado,Rio Grande,8.89,1,0,0.0,910,16.0,1.76,8088.89,142.22,8.09,11250,12.34,97.79,8.89,311.14,0.0
 2021-07-03,Colorado,Rio Grande,0.0,0,0,0.0,909,16.0,1.76,8080.0,142.22,8.08,11250,12.34,88.9,-8.89,311.14,-17.78
 2021-07-02,Colorado,Rio Grande,17.78,2,0,0.0,909,16.0,1.76,8080.0,142.22,8.08,11250,12.34,97.79,-8.89,328.92,-53.33
 2021-07-01,Colorado,Rio Grande,26.67,3,0,0.0,907,16.0,1.76,8062.22,142.22,8.06,11250,12.34,106.68,17.78,382.25,8.89

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-05,Virginia,Suffolk city,1.1,1,0,0.0,8014,190.0,2.37,8788.73,208.37,8.79,91185,228.45,8.77,-1.09,28.53,1.1
+2021-07-04,Virginia,Suffolk city,3.29,3,0,0.0,8013,190.0,2.37,8787.63,208.37,8.79,91185,228.45,9.86,3.29,27.43,0.0
 2021-07-03,Virginia,Suffolk city,1.1,1,-2,-2.19,8010,190.0,2.37,8784.34,208.37,8.78,91185,228.45,6.57,-1.09,27.43,0.0
 2021-07-02,Virginia,Suffolk city,2.19,2,0,0.0,8009,192.0,2.4,8783.24,210.56,8.78,91185,228.45,7.66,3.29,27.43,-2.2
 2021-07-01,Virginia,Suffolk city,2.19,2,0,0.0,8007,192.0,2.4,8781.05,210.56,8.78,91185,228.45,4.37,2.19,29.63,-2.2

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-05,New York,Fulton,0.0,0,0,0.0,4432,93.0,2.1,8270.05,173.54,8.27,53591,108.16,9.35,-1.87,31.77,-1.87
+2021-07-04,New York,Fulton,0.0,0,0,0.0,4432,93.0,2.1,8270.05,173.54,8.27,53591,108.16,11.22,0.0,33.64,-1.87
 2021-07-03,New York,Fulton,1.87,1,0,0.0,4432,93.0,2.1,8270.05,173.54,8.27,53591,108.16,11.22,0.0,35.51,-11.19
 2021-07-02,New York,Fulton,1.87,1,0,0.0,4431,93.0,2.1,8268.18,173.54,8.27,53591,108.16,11.22,1.87,46.7,-5.59
 2021-07-01,New York,Fulton,1.87,1,0,0.0,4430,93.0,2.1,8266.31,173.54,8.27,53591,108.16,9.35,1.87,52.29,-1.86

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-05,Wisconsin,Waushara,4.12,1,0,0.0,2589,38.0,1.47,10670.57,156.62,10.67,24263,38.75,16.48,4.12,65.92,0.0
+2021-07-04,Wisconsin,Waushara,0.0,0,0,0.0,2588,38.0,1.47,10666.45,156.62,10.67,24263,38.75,12.36,0.0,65.92,0.0
 2021-07-03,Wisconsin,Waushara,0.0,0,0,0.0,2588,38.0,1.47,10666.45,156.62,10.67,24263,38.75,12.36,0.0,65.92,0.0
 2021-07-02,Wisconsin,Waushara,-4.12,-1,0,0.0,2588,38.0,1.47,10666.45,156.62,10.67,24263,38.75,12.36,-12.36,65.92,0.0
 2021-07-01,Wisconsin,Waushara,8.24,2,0,0.0,2589,38.0,1.47,10670.57,156.62,10.67,24263,38.75,24.72,8.24,65.92,-16.49

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-05,Pennsylvania,Lawrence,1.16,1,0,0.0,7701,216.0,2.8,8935.53,250.63,8.94,86184,240.62,22.04,2.32,97.44,-1.16
+2021-07-04,Pennsylvania,Lawrence,1.16,1,0,0.0,7700,216.0,2.81,8934.37,250.63,8.93,86184,240.62,19.72,-2.32,98.6,-4.64
 2021-07-03,Pennsylvania,Lawrence,4.64,4,0,0.0,7699,216.0,2.81,8933.21,250.63,8.93,86184,240.62,22.04,0.0,103.24,-3.48
 2021-07-02,Pennsylvania,Lawrence,2.32,2,0,0.0,7695,216.0,2.81,8928.57,250.63,8.93,86184,240.62,22.04,-1.16,106.72,-4.64
 2021-07-01,Pennsylvania,Lawrence,2.32,2,0,0.0,7693,216.0,2.81,8926.25,250.63,8.93,86184,240.62,23.2,-1.16,111.36,-2.32

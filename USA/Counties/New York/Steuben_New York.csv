@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-05,New York,Steuben,1.04,1,0,0.0,6974,146.0,2.09,7280.05,152.41,7.28,95796,68.89,6.24,1.04,41.74,0.0
+2021-07-04,New York,Steuben,1.04,1,0,0.0,6973,146.0,2.09,7279.01,152.41,7.28,95796,68.89,5.2,0.0,41.74,-3.14
 2021-07-03,New York,Steuben,1.04,1,0,0.0,6972,146.0,2.09,7277.97,152.41,7.28,95796,68.89,5.2,-3.14,44.88,-4.18
 2021-07-02,New York,Steuben,1.04,1,0,0.0,6971,146.0,2.09,7276.92,152.41,7.28,95796,68.89,8.34,1.04,49.06,-9.4
 2021-07-01,New York,Steuben,1.04,1,0,0.0,6970,146.0,2.09,7275.88,152.41,7.28,95796,68.89,7.3,-1.05,58.46,-3.14

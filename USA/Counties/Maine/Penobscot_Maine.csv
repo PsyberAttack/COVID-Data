@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-05,Maine,Penobscot,0.0,0,0,0.0,6356,99.0,1.56,4206.6,65.52,4.21,151096,44.48,9.27,0.0,75.44,-2.65
+2021-07-04,Maine,Penobscot,1.32,2,0,0.0,6356,99.0,1.56,4206.6,65.52,4.21,151096,44.48,9.27,0.66,78.09,-9.93
 2021-07-03,Maine,Penobscot,0.0,0,0,0.0,6354,99.0,1.56,4205.27,65.52,4.21,151096,44.48,8.61,-3.97,88.02,-10.59
 2021-07-02,Maine,Penobscot,1.32,2,1,0.66,6354,99.0,1.56,4205.27,65.52,4.21,151096,44.48,12.58,-5.3,98.61,-5.3
 2021-07-01,Maine,Penobscot,1.99,3,0,0.0,6352,98.0,1.54,4203.95,64.86,4.2,151096,44.48,17.88,1.99,103.91,-10.58

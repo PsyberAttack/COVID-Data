@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-05,Colorado,Fremont,0.0,0,0,0.0,6558,63.0,0.96,13656.53,131.19,13.66,48021,31.32,33.3,-4.16,170.72,-8.33
+2021-07-04,Colorado,Fremont,4.16,2,0,0.0,6558,63.0,0.96,13656.53,131.19,13.66,48021,31.32,37.46,0.0,179.05,-4.17
 2021-07-03,Colorado,Fremont,4.16,2,1,2.08,6556,63.0,0.96,13652.36,131.19,13.65,48021,31.32,37.46,-4.17,183.22,-8.33
 2021-07-02,Colorado,Fremont,2.08,1,-1,-2.08,6554,62.0,0.95,13648.2,129.11,13.65,48021,31.32,41.63,-6.25,191.55,-8.33
 2021-07-01,Colorado,Fremont,4.16,2,0,0.0,6553,63.0,0.96,13646.11,131.19,13.65,48021,31.32,47.88,-2.09,199.88,-6.25

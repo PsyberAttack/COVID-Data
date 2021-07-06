@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-05,Puerto Rico,Toa Alta,2.81,2,0,0.0,4782,0.0,0.0,6726.31,0.0,6.73,71094,0.0,7.03,0.0,35.17,1.4
+2021-07-04,Puerto Rico,Toa Alta,1.41,1,0,0.0,4780,0.0,0.0,6723.49,0.0,6.72,71094,0.0,7.03,-1.4,33.77,1.41
 2021-07-03,Puerto Rico,Toa Alta,0.0,0,0,0.0,4779,0.0,0.0,6722.09,0.0,6.72,71094,0.0,8.43,1.41,32.36,-5.63
 2021-07-02,Puerto Rico,Toa Alta,-1.41,-1,0,0.0,4779,0.0,0.0,6722.09,0.0,6.72,71094,0.0,7.02,-7.04,37.99,-2.82
 2021-07-01,Puerto Rico,Toa Alta,2.81,2,0,0.0,4780,0.0,0.0,6723.49,0.0,6.72,71094,0.0,14.06,2.81,40.81,0.0

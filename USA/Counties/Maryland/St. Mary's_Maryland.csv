@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-05,Maryland,St. Mary's,0.0,0,0,0.0,6067,132.0,2.18,5385.04,117.16,5.39,112664,314.1,7.11,-1.78,27.55,0.0
+2021-07-04,Maryland,St. Mary's,0.0,0,0,0.0,6067,132.0,2.18,5385.04,117.16,5.39,112664,314.1,8.89,-0.89,27.55,0.0
 2021-07-03,Maryland,St. Mary's,1.78,2,0,0.0,6067,132.0,2.18,5385.04,117.16,5.39,112664,314.1,9.78,1.78,27.55,-1.77
 2021-07-02,Maryland,St. Mary's,1.78,2,0,0.0,6065,132.0,2.18,5383.26,117.16,5.38,112664,314.1,8.0,-0.88,29.32,0.89
 2021-07-01,Maryland,St. Mary's,2.66,3,0,0.0,6063,132.0,2.18,5381.49,117.16,5.38,112664,314.1,8.88,2.66,28.43,0.0

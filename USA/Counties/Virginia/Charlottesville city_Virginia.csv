@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-05,Virginia,Charlottesville city,4.16,2,0,0.0,4044,57.0,1.41,8404.51,118.46,8.4,48117,4696.78,18.71,4.16,56.12,4.16
+2021-07-04,Virginia,Charlottesville city,2.08,1,0,0.0,4042,57.0,1.41,8400.36,118.46,8.4,48117,4696.78,14.55,0.0,51.96,0.0
 2021-07-03,Virginia,Charlottesville city,-2.08,-1,0,0.0,4041,57.0,1.41,8398.28,118.46,8.4,48117,4696.78,14.55,-2.08,51.96,-6.24
 2021-07-02,Virginia,Charlottesville city,8.31,4,0,0.0,4042,57.0,1.41,8400.36,118.46,8.4,48117,4696.78,16.63,10.39,58.2,8.31
 2021-07-01,Virginia,Charlottesville city,2.08,1,0,0.0,4038,57.0,1.41,8392.04,118.46,8.39,48117,4696.78,6.24,2.08,49.89,0.0

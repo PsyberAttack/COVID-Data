@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-05,Colorado,Jefferson,1.55,9,0,0.0,49017,806.0,1.64,8447.81,138.91,8.45,580233,759.18,25.86,-1.38,138.06,0.34
+2021-07-04,Colorado,Jefferson,1.9,11,-1,-0.17,49008,806.0,1.64,8446.26,138.91,8.45,580233,759.18,27.24,-1.03,137.72,-1.37
 2021-07-03,Colorado,Jefferson,3.62,21,1,0.17,48997,807.0,1.65,8444.37,139.08,8.44,580233,759.18,28.27,-5.69,139.09,-7.58
 2021-07-02,Colorado,Jefferson,4.48,26,1,0.17,48976,806.0,1.65,8440.75,138.91,8.44,580233,759.18,33.96,-1.55,146.67,-4.83
 2021-07-01,Colorado,Jefferson,6.38,37,1,0.17,48950,805.0,1.64,8436.27,138.74,8.44,580233,759.18,35.51,0.69,151.5,-1.03

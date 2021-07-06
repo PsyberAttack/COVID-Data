@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-05,Virginia,Norfolk city,2.05,5,0,0.0,18074,272.0,1.5,7405.07,111.44,7.41,244076,4581.3,13.53,0.0,57.4,0.41
+2021-07-04,Virginia,Norfolk city,1.23,3,0,0.0,18069,272.0,1.51,7403.02,111.44,7.4,244076,4581.3,13.53,-0.82,56.99,-2.05
 2021-07-03,Virginia,Norfolk city,2.87,7,0,0.0,18066,272.0,1.51,7401.79,111.44,7.4,244076,4581.3,14.35,0.0,59.04,-2.87
 2021-07-02,Virginia,Norfolk city,2.46,6,0,0.0,18059,272.0,1.51,7398.92,111.44,7.4,244076,4581.3,14.35,-0.82,61.91,-0.41
 2021-07-01,Virginia,Norfolk city,0.82,2,1,0.41,18053,272.0,1.51,7396.47,111.44,7.4,244076,4581.3,15.17,-0.41,62.32,-1.64

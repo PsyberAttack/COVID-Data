@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-05,Minnesota,Benton,0.0,0,0,0.0,5831,98.0,1.68,14381.55,241.71,14.38,40545,99.3,-0.0,-2.47,17.29,-7.4
+2021-07-04,Minnesota,Benton,0.0,0,0,0.0,5831,98.0,1.68,14381.55,241.71,14.38,40545,99.3,2.47,0.0,24.69,-4.93
 2021-07-03,Minnesota,Benton,0.0,0,0,0.0,5831,98.0,1.68,14381.55,241.71,14.38,40545,99.3,2.47,0.0,29.62,-9.87
 2021-07-02,Minnesota,Benton,-2.47,-1,0,0.0,5831,98.0,1.68,14381.55,241.71,14.38,40545,99.3,2.47,-2.47,39.49,-14.8
 2021-07-01,Minnesota,Benton,2.47,1,0,0.0,5832,98.0,1.68,14384.02,241.71,14.38,40545,99.3,4.94,2.47,54.29,-2.46

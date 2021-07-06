@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-05,Colorado,Broomfield,10.11,7,0,0.0,5013,76.0,1.52,7237.21,109.72,7.24,69267,2098.77,27.42,5.78,137.15,5.78
+2021-07-04,Colorado,Broomfield,1.44,1,0,0.0,5006,76.0,1.52,7227.11,109.72,7.23,69267,2098.77,21.64,-1.45,131.37,-1.45
 2021-07-03,Colorado,Broomfield,5.77,4,0,0.0,5005,76.0,1.52,7225.66,109.72,7.23,69267,2098.77,23.09,2.88,132.82,-4.34
 2021-07-02,Colorado,Broomfield,-1.44,-1,0,0.0,5001,76.0,1.52,7219.89,109.72,7.22,69267,2098.77,20.21,-8.66,137.16,-17.32
 2021-07-01,Colorado,Broomfield,-2.89,-2,0,0.0,5002,76.0,1.52,7221.33,109.72,7.22,69267,2098.77,28.87,-13.0,154.48,-11.55

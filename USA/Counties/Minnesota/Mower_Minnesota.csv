@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-05,Minnesota,Mower,0.0,0,0,0.0,4718,33.0,0.7,11791.76,82.48,11.79,40011,56.25,12.5,-2.5,30.0,0.0
+2021-07-04,Minnesota,Mower,0.0,0,0,0.0,4718,33.0,0.7,11791.76,82.48,11.79,40011,56.25,15.0,-7.5,30.0,-2.5
 2021-07-03,Minnesota,Mower,5.0,2,0,0.0,4718,33.0,0.7,11791.76,82.48,11.79,40011,56.25,22.5,2.5,32.5,2.5
 2021-07-02,Minnesota,Mower,5.0,2,0,0.0,4716,33.0,0.7,11786.76,82.48,11.79,40011,56.25,20.0,-2.5,30.0,5.0
 2021-07-01,Minnesota,Mower,2.5,1,0,0.0,4714,33.0,0.7,11781.76,82.48,11.78,40011,56.25,22.5,2.5,25.0,-5.0

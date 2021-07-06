@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-05,Virginia,Prince George,0.0,0,0,0.0,3634,32.0,0.88,9542.57,84.03,9.54,38082,143.52,42.02,-28.89,31.52,-2.63
+2021-07-04,Virginia,Prince George,10.5,4,0,0.0,3634,32.0,0.88,9542.57,84.03,9.54,38082,143.52,70.91,18.38,34.15,0.0
 2021-07-03,Virginia,Prince George,7.88,3,0,0.0,3630,32.0,0.88,9532.06,84.03,9.53,38082,143.52,52.53,52.52,34.15,2.63
 2021-07-02,Virginia,Prince George,0.0,0,0,0.0,3627,32.0,0.88,9524.18,84.03,9.52,38082,143.52,0.01,44.64,31.52,-2.63
 2021-07-01,Virginia,Prince George,7.88,3,0,0.0,3627,32.0,0.88,9524.18,84.03,9.52,38082,143.52,-44.63,23.64,34.15,5.25

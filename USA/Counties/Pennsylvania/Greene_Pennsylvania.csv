@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-05,Pennsylvania,Greene,0.0,0,0,0.0,3361,42.0,1.25,9206.71,115.05,9.21,36506,63.38,24.66,0.0,115.07,0.0
+2021-07-04,Pennsylvania,Greene,2.74,1,0,0.0,3361,42.0,1.25,9206.71,115.05,9.21,36506,63.38,24.66,2.74,115.07,-2.74
 2021-07-03,Pennsylvania,Greene,10.96,4,1,2.74,3360,42.0,1.25,9203.97,115.05,9.2,36506,63.38,21.92,10.96,117.81,5.48
 2021-07-02,Pennsylvania,Greene,0.0,0,0,0.0,3356,41.0,1.22,9193.01,112.31,9.19,36506,63.38,10.96,-5.48,112.33,-10.96
 2021-07-01,Pennsylvania,Greene,2.74,1,0,0.0,3356,41.0,1.22,9193.01,112.31,9.19,36506,63.38,16.44,0.0,123.29,-5.48

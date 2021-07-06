@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-05,Virginia,Prince Edward,0.0,0,0,0.0,2173,36.0,1.66,9468.41,156.86,9.47,22950,65.58,-4.36,4.36,-26.15,4.36
+2021-07-04,Virginia,Prince Edward,0.0,0,1,4.36,2173,36.0,1.66,9468.41,156.86,9.47,22950,65.58,-8.72,0.0,-30.51,0.0
 2021-07-03,Virginia,Prince Edward,-4.36,-1,0,0.0,2173,35.0,1.61,9468.41,152.51,9.47,22950,65.58,-8.72,-8.72,-30.51,-4.36
 2021-07-02,Virginia,Prince Edward,-4.36,-1,0,0.0,2174,35.0,1.61,9472.77,152.51,9.47,22950,65.58,-0.0,-4.36,-26.15,0.0
 2021-07-01,Virginia,Prince Edward,0.0,0,0,0.0,2175,35.0,1.61,9477.12,152.51,9.48,22950,65.58,4.36,4.36,-26.15,-4.36

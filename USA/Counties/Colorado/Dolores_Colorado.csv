@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-05,Colorado,Dolores,0.0,0,0,0.0,130,1.0,0.77,6268.08,48.22,6.27,2074,1.94,96.44,0.0,819.68,0.0
+2021-07-04,Colorado,Dolores,0.0,0,0,0.0,130,1.0,0.77,6268.08,48.22,6.27,2074,1.94,96.44,0.0,819.68,-48.22
 2021-07-03,Colorado,Dolores,48.22,1,0,0.0,130,1.0,0.77,6268.08,48.22,6.27,2074,1.94,96.44,48.22,867.9,48.22
 2021-07-02,Colorado,Dolores,-48.22,-1,0,0.0,129,1.0,0.78,6219.86,48.22,6.22,2074,1.94,48.22,-96.44,819.68,-48.22
 2021-07-01,Colorado,Dolores,0.0,0,0,0.0,130,1.0,0.77,6268.08,48.22,6.27,2074,1.94,144.66,48.22,867.9,0.0

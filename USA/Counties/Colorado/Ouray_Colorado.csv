@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-05,Colorado,Ouray,0.0,0,0,0.0,297,3.0,1.01,6145.25,62.07,6.15,4833,8.92,82.76,0.0,165.52,0.0
+2021-07-04,Colorado,Ouray,0.0,0,0,0.0,297,3.0,1.01,6145.25,62.07,6.15,4833,8.92,82.76,-41.38,165.52,0.0
 2021-07-03,Colorado,Ouray,41.38,2,0,0.0,297,3.0,1.01,6145.25,62.07,6.15,4833,8.92,124.14,41.38,165.52,20.69
 2021-07-02,Colorado,Ouray,20.69,1,0,0.0,295,3.0,1.02,6103.87,62.07,6.1,4833,8.92,82.76,20.69,144.83,20.69
 2021-07-01,Colorado,Ouray,0.0,0,0,0.0,294,3.0,1.02,6083.18,62.07,6.08,4833,8.92,62.07,0.0,124.14,0.0

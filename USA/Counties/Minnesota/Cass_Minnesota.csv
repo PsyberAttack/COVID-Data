@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-05,Minnesota,Cass,0.0,0,0,0.0,2871,32.0,1.11,9725.94,108.4,9.73,29519,14.6,10.17,0.0,74.57,-6.78
+2021-07-04,Minnesota,Cass,0.0,0,0,0.0,2871,32.0,1.11,9725.94,108.4,9.73,29519,14.6,10.17,0.0,81.35,-27.1
 2021-07-03,Minnesota,Cass,6.78,2,0,0.0,2871,32.0,1.11,9725.94,108.4,9.73,29519,14.6,10.17,3.39,108.45,3.39
 2021-07-02,Minnesota,Cass,-3.39,-1,0,0.0,2869,32.0,1.12,9719.16,108.4,9.72,29519,14.6,6.78,-6.78,105.06,-6.78
 2021-07-01,Minnesota,Cass,3.39,1,0,0.0,2870,32.0,1.11,9722.55,108.4,9.72,29519,14.6,13.56,0.0,111.84,-6.77

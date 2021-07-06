@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-05,Virginia,Pittsylvania,0.0,0,0,0.0,5639,83.0,1.47,9252.0,136.18,9.25,60949,62.9,34.45,-4.92,86.93,-1.64
+2021-07-04,Virginia,Pittsylvania,1.64,1,0,0.0,5639,83.0,1.47,9252.0,136.18,9.25,60949,62.9,39.37,1.64,88.57,1.64
 2021-07-03,Virginia,Pittsylvania,6.56,4,0,0.0,5638,83.0,1.47,9250.36,136.18,9.25,60949,62.9,37.73,1.64,86.93,1.64
 2021-07-02,Virginia,Pittsylvania,1.64,1,0,0.0,5634,83.0,1.47,9243.79,136.18,9.24,60949,62.9,36.09,0.0,85.29,-1.64
 2021-07-01,Virginia,Pittsylvania,8.2,5,0,0.0,5633,83.0,1.47,9242.15,136.18,9.24,60949,62.9,36.09,1.64,86.93,3.28

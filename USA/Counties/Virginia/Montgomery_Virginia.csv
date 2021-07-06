@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-05,Virginia,Montgomery,1.01,1,0,0.0,9430,98.0,1.04,9526.7,99.0,9.53,98985,255.88,8.08,1.01,23.23,3.03
+2021-07-04,Virginia,Montgomery,1.01,1,0,0.0,9429,98.0,1.04,9525.69,99.0,9.53,98985,255.88,7.07,1.01,20.2,4.04
 2021-07-03,Virginia,Montgomery,-2.02,-2,0,0.0,9428,98.0,1.04,9524.68,99.0,9.52,98985,255.88,6.06,-2.02,16.16,-2.02
 2021-07-02,Virginia,Montgomery,0.0,0,0,0.0,9430,98.0,1.04,9526.7,99.0,9.53,98985,255.88,8.08,-1.01,18.18,0.0
 2021-07-01,Virginia,Montgomery,2.02,2,0,0.0,9430,98.0,1.04,9526.7,99.0,9.53,98985,255.88,9.09,-2.02,18.18,1.01
