@@ -1,5 +1,7 @@
 date,country,region,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-07-05,Ecuador,Santo Domingo de los Tsachilas,3.27,15,1,0.22,11655,839,7.2,2541.54,182.96,2.54,458580,25.73,-6.98,81.55,0.87
+2021-07-05,Ecuador,Santo Domingo de los Tsachilas,0.22,1,1,0.22,11655,839,7.2,2541.54,182.96,2.54,458580,24.86,0.0,78.94,-0.43
+2021-07-04,Ecuador,Santo Domingo de los Tsachilas,0.0,0,0,0.0,11654,838,7.19,2541.32,182.74,2.54,458580,24.86,-0.65,79.37,-1.96
+2021-07-03,Ecuador,Santo Domingo de los Tsachilas,3.05,14,0,0.0,11654,838,7.19,2541.32,182.74,2.54,458580,25.51,-7.2,81.33,0.65
 2021-07-02,Ecuador,Santo Domingo de los Tsachilas,11.78,54,1,0.22,11640,838,7.2,2538.27,182.74,2.54,458580,32.71,10.47,80.68,8.51
 2021-07-01,Ecuador,Santo Domingo de los Tsachilas,6.54,30,0,0.0,11586,837,7.22,2526.49,182.52,2.53,458580,22.24,1.31,72.17,3.49
 2021-06-30,Ecuador,Santo Domingo de los Tsachilas,1.31,6,2,0.44,11556,837,7.24,2519.95,182.52,2.52,458580,20.93,1.31,68.68,-10.47
