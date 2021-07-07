@@ -1,4 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-02 00:00:00+00:00,Baden-Württemberg,Heidelberg,0.62,1,0,0.0,5142,64,1.24,3206.64,39.91,3.21,160355,9.34,0.62,34.28,-1.87
+2021-07-01 00:00:00+00:00,Baden-Württemberg,Heidelberg,0.0,0,0,0.0,5141,64,1.24,3206.01,39.91,3.21,160355,8.72,-3.12,36.15,-0.62
 2021-06-30 00:00:00+00:00,Baden-Württemberg,Heidelberg,0.62,1,0,0.0,5141,64,1.24,3206.01,39.91,3.21,160355,11.84,0.0,36.77,-4.99
 2021-06-29 00:00:00+00:00,Baden-Württemberg,Heidelberg,3.74,6,0,0.0,5140,64,1.25,3205.39,39.91,3.21,160355,11.84,2.49,41.76,3.12
 2021-06-28 00:00:00+00:00,Baden-Württemberg,Heidelberg,3.74,6,0,0.0,5134,64,1.25,3201.65,39.91,3.2,160355,9.35,1.87,38.64,3.12

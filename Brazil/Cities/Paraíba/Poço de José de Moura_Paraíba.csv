@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-07-04,Paraíba,Poço de José de Moura,0.0,0,0,0.0,256,3,1.17,5943.81,69.65,5.94,4307,208.97,-23.22,1694.92,0.0
+2021-07-05,Paraíba,Poço de José de Moura,0.0,0,0,0.0,256,3,1.17,5943.81,69.65,5.94,4307,162.53,-46.44,1578.83,-92.87
+2021-07-04,Paraíba,Poço de José de Moura,0.0,0,0,0.0,256,3,1.17,5943.81,69.65,5.94,4307,208.97,0.0,1671.7,-23.22
+2021-07-03,Paraíba,Poço de José de Moura,0.0,0,0,0.0,256,3,1.17,5943.81,69.65,5.94,4307,208.97,-23.22,1694.92,0.0
 2021-07-02,Paraíba,Poço de José de Moura,139.31,6,0,0.0,256,3,1.17,5943.81,69.65,5.94,4307,232.19,46.44,1694.92,-139.31
 2021-07-01,Paraíba,Poço de José de Moura,0.0,0,0,0.0,250,3,1.2,5804.5,69.65,5.8,4307,185.75,-23.22,1834.23,0.0
 2021-06-30,Paraíba,Poço de José de Moura,23.22,1,0,0.0,250,3,1.2,5804.5,69.65,5.8,4307,208.97,0.0,1834.23,0.0

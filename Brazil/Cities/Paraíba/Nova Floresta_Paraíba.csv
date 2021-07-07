@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-07-04,Paraíba,Nova Floresta,28.2,3,0,0.0,985,16,1.62,9259.26,150.4,9.26,10638,112.8,0.0,639.2,-56.4
+2021-07-05,Paraíba,Nova Floresta,0.0,0,0,0.0,985,16,1.62,9259.26,150.4,9.26,10638,94.0,0.0,629.8,-9.4
+2021-07-04,Paraíba,Nova Floresta,18.8,2,0,0.0,985,16,1.62,9259.26,150.4,9.26,10638,94.0,0.0,639.2,18.8
+2021-07-03,Paraíba,Nova Floresta,9.4,1,0,0.0,983,16,1.63,9240.46,150.4,9.24,10638,94.0,-18.8,620.4,-75.2
 2021-07-02,Paraíba,Nova Floresta,0.0,0,0,0.0,982,16,1.63,9231.06,150.4,9.23,10638,112.8,0.0,695.6,0.0
 2021-07-01,Paraíba,Nova Floresta,9.4,1,0,0.0,982,16,1.63,9231.06,150.4,9.23,10638,112.8,-18.8,695.6,9.4
 2021-06-30,Paraíba,Nova Floresta,9.4,1,0,0.0,981,16,1.63,9221.66,150.4,9.22,10638,131.6,-75.2,686.2,9.4

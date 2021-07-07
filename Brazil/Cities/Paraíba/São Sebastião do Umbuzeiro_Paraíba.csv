@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-07-04,Paraíba,São Sebastião do Umbuzeiro,57.32,2,0,0.0,241,5,2.07,6907.42,143.31,6.91,3489,171.96,0.0,1519.03,-257.96
+2021-07-05,Paraíba,São Sebastião do Umbuzeiro,0.0,0,0,0.0,241,5,2.07,6907.42,143.31,6.91,3489,143.3,-28.66,1175.09,0.0
+2021-07-04,Paraíba,São Sebastião do Umbuzeiro,0.0,0,0,0.0,241,5,2.07,6907.42,143.31,6.91,3489,171.96,0.0,1175.09,-343.94
+2021-07-03,Paraíba,São Sebastião do Umbuzeiro,57.32,2,0,0.0,241,5,2.07,6907.42,143.31,6.91,3489,171.96,0.0,1519.03,-257.96
 2021-07-02,Paraíba,São Sebastião do Umbuzeiro,57.32,2,0,0.0,239,5,2.09,6850.1,143.31,6.85,3489,171.96,28.66,1776.99,57.32
 2021-07-01,Paraíba,São Sebastião do Umbuzeiro,0.0,0,0,0.0,237,5,2.11,6792.78,143.31,6.79,3489,143.3,-28.66,1719.67,28.66
 2021-06-30,Paraíba,São Sebastião do Umbuzeiro,28.66,1,0,0.0,237,5,2.11,6792.78,143.31,6.79,3489,171.96,-143.31,1691.01,-28.66
