@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-06,São Paulo,São Francisco,35.45,1,0,0.0,239,9,3.77,8472.17,319.04,8.47,2821,708.97,35.45,1666.1,70.9
+2021-07-05,São Paulo,São Francisco,0.0,0,0,0.0,238,9,3.78,8436.72,319.04,8.44,2821,673.52,0.0,1595.2,0.0
+2021-07-04,São Paulo,São Francisco,35.45,1,0,0.0,238,9,3.78,8436.72,319.04,8.44,2821,673.52,-354.48,1595.2,-35.45
 2021-07-03,São Paulo,São Francisco,389.93,11,0,0.0,237,9,3.8,8401.28,319.04,8.4,2821,1028.0,354.48,1630.65,319.03
 2021-07-02,São Paulo,São Francisco,35.45,1,0,0.0,226,9,3.98,8011.34,319.04,8.01,2821,673.52,0.0,1311.62,35.45
 2021-07-01,São Paulo,São Francisco,70.9,2,0,0.0,225,9,4.0,7975.9,319.04,7.98,2821,673.52,35.45,1276.17,70.9

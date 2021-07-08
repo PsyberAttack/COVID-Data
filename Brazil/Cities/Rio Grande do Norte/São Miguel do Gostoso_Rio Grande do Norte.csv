@@ -1,10 +1,13 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-07-01,Rio Grande do Norte,São Miguel do Gostoso,9.73,1,0,0.0,699,17,2.43,6798.29,165.34,6.8,10282,1419.96,0.0,2801.03,9.73
-2021-06-30,Rio Grande do Norte,São Miguel do Gostoso,0.0,0,0,0.0,698,17,2.44,6788.56,165.34,6.79,10282,1419.96,-9.73,2791.3,-9.73
-2021-06-29,Rio Grande do Norte,São Miguel do Gostoso,0.0,0,0,0.0,698,17,2.44,6788.56,165.34,6.79,10282,1429.69,0.0,2801.03,0.0
-2021-06-28,Rio Grande do Norte,São Miguel do Gostoso,0.0,0,0,0.0,698,17,2.44,6788.56,165.34,6.79,10282,1429.69,0.0,2801.03,-106.98
-2021-06-27,Rio Grande do Norte,São Miguel do Gostoso,19.45,2,0,0.0,698,17,2.44,6788.56,165.34,6.79,10282,1429.69,-58.36,2908.01,-77.81
-2021-06-24,Rio Grande do Norte,São Miguel do Gostoso,29.18,3,0,0.0,696,17,2.44,6769.11,165.34,6.77,10282,1488.05,-48.63,2985.82,29.18
+2021-07-05,Rio Grande do Norte,São Miguel do Gostoso,19.45,2,0,0.0,705,17,2.41,6856.64,165.34,6.86,10282,87.53,-9.73,2635.69,-58.36
+2021-07-04,Rio Grande do Norte,São Miguel do Gostoso,38.9,4,0,0.0,703,17,2.42,6837.19,165.34,6.84,10282,97.26,38.9,2694.05,-19.45
+2021-07-01,Rio Grande do Norte,São Miguel do Gostoso,9.73,1,0,0.0,699,17,2.43,6798.29,165.34,6.8,10282,58.36,-1351.87,2713.5,-77.8
+2021-06-30,Rio Grande do Norte,São Miguel do Gostoso,0.0,0,0,0.0,698,17,2.44,6788.56,165.34,6.79,10282,1410.23,-9.73,2791.3,0.0
+2021-06-29,Rio Grande do Norte,São Miguel do Gostoso,0.0,0,0,0.0,698,17,2.44,6788.56,165.34,6.79,10282,1419.96,-9.73,2791.3,-9.73
+2021-06-28,Rio Grande do Norte,São Miguel do Gostoso,0.0,0,0,0.0,698,17,2.44,6788.56,165.34,6.79,10282,1429.69,0.0,2801.03,0.0
+2021-06-27,Rio Grande do Norte,São Miguel do Gostoso,19.45,2,0,0.0,698,17,2.44,6788.56,165.34,6.79,10282,1429.69,19.45,2801.03,-87.53
+2021-06-24,Rio Grande do Norte,São Miguel do Gostoso,29.18,3,0,0.0,696,17,2.44,6769.11,165.34,6.77,10282,1410.24,-48.63,2888.56,-68.08
+2021-06-23,Rio Grande do Norte,São Miguel do Gostoso,0.0,0,0,0.0,693,17,2.45,6739.93,165.34,6.74,10282,1458.87,-77.81,2956.64,0.0
 2021-06-22,Rio Grande do Norte,São Miguel do Gostoso,1361.6,140,0,0.0,693,17,2.45,6739.93,165.34,6.74,10282,1536.68,1312.97,2956.64,1342.15
 2021-06-20,Rio Grande do Norte,São Miguel do Gostoso,9.73,1,0,0.0,553,17,3.07,5378.33,165.34,5.38,10282,223.71,-9.72,1614.49,9.73
 2021-06-17,Rio Grande do Norte,São Miguel do Gostoso,9.73,1,0,0.0,552,17,3.08,5368.61,165.34,5.37,10282,233.43,9.73,1604.76,-87.53

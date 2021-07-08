@@ -1,10 +1,13 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-07-01,Rio Grande do Norte,Tenente Laurentino Cruz,117.61,7,0,0.0,771,4,0.52,12953.63,67.2,12.95,5952,1276.87,67.21,4284.25,117.61
-2021-06-30,Rio Grande do Norte,Tenente Laurentino Cruz,201.61,12,0,0.0,764,4,0.52,12836.02,67.2,12.84,5952,1209.66,201.61,4166.64,201.61
+2021-07-05,Rio Grande do Norte,Tenente Laurentino Cruz,67.2,4,0,0.0,775,4,0.52,13020.83,67.2,13.02,5952,856.84,-100.81,3864.22,-16.81
+2021-07-04,Rio Grande do Norte,Tenente Laurentino Cruz,0.0,0,0,0.0,771,4,0.52,12953.63,67.2,12.95,5952,957.65,-252.02,3881.03,-386.42
+2021-07-01,Rio Grande do Norte,Tenente Laurentino Cruz,117.61,7,0,0.0,771,4,0.52,12953.63,67.2,12.95,5952,1209.67,50.41,4267.45,100.81
+2021-06-30,Rio Grande do Norte,Tenente Laurentino Cruz,201.61,12,0,0.0,764,4,0.52,12836.02,67.2,12.84,5952,1159.26,151.21,4166.64,201.61
 2021-06-29,Rio Grande do Norte,Tenente Laurentino Cruz,184.81,11,0,0.0,752,4,0.53,12634.41,67.2,12.63,5952,1008.05,184.81,3965.03,184.81
-2021-06-28,Rio Grande do Norte,Tenente Laurentino Cruz,67.2,4,0,0.0,741,4,0.54,12449.6,67.2,12.45,5952,823.24,33.6,3780.22,-16.81
-2021-06-27,Rio Grande do Norte,Tenente Laurentino Cruz,218.41,13,0,0.0,737,4,0.54,12382.39,67.2,12.38,5952,789.64,117.6,3797.03,84.0
-2021-06-24,Rio Grande do Norte,Tenente Laurentino Cruz,420.03,25,0,0.0,724,4,0.55,12163.98,67.2,12.16,5952,672.04,201.62,3713.03,336.02
+2021-06-28,Rio Grande do Norte,Tenente Laurentino Cruz,67.2,4,0,0.0,741,4,0.54,12449.6,67.2,12.45,5952,823.24,67.2,3780.22,67.2
+2021-06-27,Rio Grande do Norte,Tenente Laurentino Cruz,218.41,13,0,0.0,737,4,0.54,12382.39,67.2,12.38,5952,756.04,184.81,3713.02,134.4
+2021-06-24,Rio Grande do Norte,Tenente Laurentino Cruz,168.01,10,0,0.0,724,4,0.55,12163.98,67.2,12.16,5952,571.23,67.2,3578.62,33.6
+2021-06-23,Rio Grande do Norte,Tenente Laurentino Cruz,252.02,15,0,0.0,714,4,0.56,11995.97,67.2,12.0,5952,504.03,33.61,3545.02,168.01
 2021-06-22,Rio Grande do Norte,Tenente Laurentino Cruz,67.2,4,0,0.0,699,4,0.57,11743.95,67.2,11.74,5952,470.42,33.6,3377.01,67.2
 2021-06-20,Rio Grande do Norte,Tenente Laurentino Cruz,50.4,3,0,0.0,695,4,0.58,11676.75,67.2,11.68,5952,436.82,50.4,3309.81,0.0
 2021-06-17,Rio Grande do Norte,Tenente Laurentino Cruz,0.0,0,0,0.0,692,4,0.58,11626.34,67.2,11.63,5952,386.42,-16.8,3309.81,-117.61

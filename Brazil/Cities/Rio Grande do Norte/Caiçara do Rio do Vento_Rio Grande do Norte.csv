@@ -1,10 +1,13 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-07-01,Rio Grande do Norte,Caiçara do Rio do Vento,54.29,2,0,0.0,347,8,2.31,9419.11,217.16,9.42,3684,2171.55,54.29,3691.63,27.15
-2021-06-30,Rio Grande do Norte,Caiçara do Rio do Vento,0.0,0,0,0.0,345,8,2.32,9364.82,217.16,9.36,3684,2117.26,0.0,3664.48,-27.14
-2021-06-29,Rio Grande do Norte,Caiçara do Rio do Vento,0.0,0,0,0.0,345,8,2.32,9364.82,217.16,9.36,3684,2117.26,0.0,3691.62,0.0
-2021-06-28,Rio Grande do Norte,Caiçara do Rio do Vento,0.0,0,0,0.0,345,8,2.32,9364.82,217.16,9.36,3684,2117.26,0.0,3691.62,0.0
-2021-06-27,Rio Grande do Norte,Caiçara do Rio do Vento,81.43,3,0,0.0,345,8,2.32,9364.82,217.16,9.36,3684,2117.26,27.14,3691.62,27.14
-2021-06-24,Rio Grande do Norte,Caiçara do Rio do Vento,54.29,2,0,0.0,342,8,2.34,9283.39,217.16,9.28,3684,2090.12,-27.14,3664.48,54.29
+2021-07-05,Rio Grande do Norte,Caiçara do Rio do Vento,0.0,0,0,0.0,353,8,2.27,9581.98,217.16,9.58,3684,298.59,-27.14,3800.21,-27.14
+2021-07-04,Rio Grande do Norte,Caiçara do Rio do Vento,162.87,6,0,0.0,353,8,2.27,9581.98,217.16,9.58,3684,325.73,135.73,3827.35,135.73
+2021-07-01,Rio Grande do Norte,Caiçara do Rio do Vento,54.29,2,0,0.0,347,8,2.31,9419.11,217.16,9.42,3684,190.0,-1927.25,3691.62,54.29
+2021-06-30,Rio Grande do Norte,Caiçara do Rio do Vento,0.0,0,0,0.0,345,8,2.32,9364.82,217.16,9.36,3684,2117.25,0.0,3637.33,-27.14
+2021-06-29,Rio Grande do Norte,Caiçara do Rio do Vento,0.0,0,0,0.0,345,8,2.32,9364.82,217.16,9.36,3684,2117.25,0.0,3664.47,-27.14
+2021-06-28,Rio Grande do Norte,Caiçara do Rio do Vento,0.0,0,0,0.0,345,8,2.32,9364.82,217.16,9.36,3684,2117.25,0.0,3691.61,0.0
+2021-06-27,Rio Grande do Norte,Caiçara do Rio do Vento,81.43,3,0,0.0,345,8,2.32,9364.82,217.16,9.36,3684,2117.25,81.43,3691.61,81.43
+2021-06-24,Rio Grande do Norte,Caiçara do Rio do Vento,27.14,1,0,0.0,342,8,2.34,9283.39,217.16,9.28,3684,2035.82,-27.15,3610.18,-27.15
+2021-06-23,Rio Grande do Norte,Caiçara do Rio do Vento,27.14,1,0,0.0,341,8,2.35,9256.24,217.16,9.26,3684,2062.97,-54.29,3637.33,27.14
 2021-06-22,Rio Grande do Norte,Caiçara do Rio do Vento,1981.54,73,0,0.0,340,8,2.35,9229.1,217.16,9.23,3684,2117.26,1981.54,3610.19,1981.54
 2021-06-20,Rio Grande do Norte,Caiçara do Rio do Vento,0.0,0,0,0.0,267,8,3.0,7247.56,217.16,7.25,3684,135.72,0.0,1628.65,0.0
 2021-06-17,Rio Grande do Norte,Caiçara do Rio do Vento,0.0,0,0,0.0,267,8,3.0,7247.56,217.16,7.25,3684,135.72,0.0,1628.65,-162.87

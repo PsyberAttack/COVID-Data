@@ -1,10 +1,13 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-07-01,Rio Grande do Norte,Rafael Fernandes,39.23,2,0,0.0,507,4,0.79,9945.08,78.46,9.95,5098,353.08,-78.46,3315.04,39.23
-2021-06-30,Rio Grande do Norte,Rafael Fernandes,19.62,1,0,0.0,505,4,0.79,9905.85,78.46,9.91,5098,431.54,-78.46,3275.81,-78.46
-2021-06-29,Rio Grande do Norte,Rafael Fernandes,78.46,4,0,0.0,504,4,0.79,9886.23,78.46,9.89,5098,510.0,78.46,3354.27,78.46
-2021-06-28,Rio Grande do Norte,Rafael Fernandes,19.62,1,0,0.0,500,4,0.8,9807.77,78.46,9.81,5098,431.54,0.0,3275.81,-58.84
-2021-06-27,Rio Grande do Norte,Rafael Fernandes,39.23,2,0,0.0,499,4,0.8,9788.15,78.46,9.79,5098,431.54,-19.62,3334.65,-58.85
-2021-06-24,Rio Grande do Norte,Rafael Fernandes,78.46,4,0,0.0,497,4,0.8,9748.92,78.46,9.75,5098,451.16,-58.85,3393.5,58.84
+2021-07-05,Rio Grande do Norte,Rafael Fernandes,0.0,0,0,0.0,508,4,0.79,9964.69,78.46,9.96,5098,215.78,-58.85,3099.28,0.0
+2021-07-04,Rio Grande do Norte,Rafael Fernandes,19.62,1,0,0.0,508,4,0.79,9964.69,78.46,9.96,5098,274.63,0.0,3099.28,-78.46
+2021-07-01,Rio Grande do Norte,Rafael Fernandes,39.23,2,0,0.0,507,4,0.79,9945.08,78.46,9.95,5098,274.63,-39.23,3177.74,-98.08
+2021-06-30,Rio Grande do Norte,Rafael Fernandes,19.62,1,0,0.0,505,4,0.79,9905.85,78.46,9.91,5098,313.86,-98.07,3275.82,19.62
+2021-06-29,Rio Grande do Norte,Rafael Fernandes,78.46,4,0,0.0,504,4,0.79,9886.23,78.46,9.89,5098,411.93,-19.62,3256.2,-19.62
+2021-06-28,Rio Grande do Norte,Rafael Fernandes,19.62,1,0,0.0,500,4,0.8,9807.77,78.46,9.81,5098,431.55,19.62,3275.82,19.62
+2021-06-27,Rio Grande do Norte,Rafael Fernandes,39.23,2,0,0.0,499,4,0.8,9788.15,78.46,9.79,5098,411.93,19.61,3256.2,-39.23
+2021-06-24,Rio Grande do Norte,Rafael Fernandes,58.85,3,0,0.0,497,4,0.8,9748.92,78.46,9.75,5098,392.32,0.0,3295.43,-39.23
+2021-06-23,Rio Grande do Norte,Rafael Fernandes,19.62,1,0,0.0,494,4,0.81,9690.07,78.46,9.69,5098,392.32,-117.69,3334.66,0.0
 2021-06-22,Rio Grande do Norte,Rafael Fernandes,78.46,4,0,0.0,493,4,0.81,9670.46,78.46,9.67,5098,510.01,0.0,3334.66,-58.85
 2021-06-20,Rio Grande do Norte,Rafael Fernandes,117.69,6,0,0.0,489,4,0.82,9592.0,78.46,9.59,5098,510.01,78.46,3393.51,117.69
 2021-06-17,Rio Grande do Norte,Rafael Fernandes,98.08,5,0,0.0,483,4,0.83,9474.3,78.46,9.47,5098,431.55,39.23,3275.82,39.23

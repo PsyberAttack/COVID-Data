@@ -1,10 +1,13 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-07-01,Rio Grande do Norte,São Francisco do Oeste,47.3,2,1,23.65,321,5,1.56,7592.24,118.26,7.59,4228,-520.35,23.65,898.75,0.0
-2021-06-30,Rio Grande do Norte,São Francisco do Oeste,23.65,1,0,0.0,319,4,1.25,7544.94,94.61,7.54,4228,-544.0,23.65,898.75,23.65
-2021-06-29,Rio Grande do Norte,São Francisco do Oeste,0.0,0,0,0.0,318,4,1.26,7521.29,94.61,7.52,4228,-567.65,-94.61,875.1,0.0
-2021-06-28,Rio Grande do Norte,São Francisco do Oeste,23.65,1,0,0.0,318,4,1.26,7521.29,94.61,7.52,4228,-473.04,23.65,875.1,0.0
-2021-06-27,Rio Grande do Norte,São Francisco do Oeste,94.61,4,0,0.0,317,4,1.26,7497.63,94.61,7.5,4228,-496.69,23.65,875.1,94.61
-2021-06-24,Rio Grande do Norte,São Francisco do Oeste,23.65,1,0,0.0,313,4,1.28,7403.03,94.61,7.4,4228,-520.34,-118.26,780.49,23.65
+2021-07-05,Rio Grande do Norte,São Francisco do Oeste,141.91,6,0,0.0,327,5,1.53,7734.15,118.26,7.73,4228,331.12,118.26,1017.01,118.26
+2021-07-04,Rio Grande do Norte,São Francisco do Oeste,0.0,0,0,0.0,321,5,1.56,7592.24,118.26,7.59,4228,212.86,0.0,898.75,0.0
+2021-07-01,Rio Grande do Norte,São Francisco do Oeste,47.3,2,1,23.65,321,5,1.56,7592.24,118.26,7.59,4228,212.86,780.51,898.75,47.3
+2021-06-30,Rio Grande do Norte,São Francisco do Oeste,23.65,1,0,0.0,319,4,1.25,7544.94,94.61,7.54,4228,-567.65,0.0,851.45,-23.65
+2021-06-29,Rio Grande do Norte,São Francisco do Oeste,0.0,0,0,0.0,318,4,1.26,7521.29,94.61,7.52,4228,-567.65,0.0,875.1,0.0
+2021-06-28,Rio Grande do Norte,São Francisco do Oeste,23.65,1,0,0.0,318,4,1.26,7521.29,94.61,7.52,4228,-567.65,-70.96,875.1,23.65
+2021-06-27,Rio Grande do Norte,São Francisco do Oeste,94.61,4,0,0.0,317,4,1.26,7497.63,94.61,7.5,4228,-496.69,94.61,851.45,70.96
+2021-06-24,Rio Grande do Norte,São Francisco do Oeste,23.65,1,0,0.0,313,4,1.28,7403.03,94.61,7.4,4228,-591.3,-47.31,780.49,23.65
+2021-06-23,Rio Grande do Norte,São Francisco do Oeste,0.0,0,0,0.0,312,4,1.28,7379.38,94.61,7.38,4228,-543.99,-141.91,756.84,0.0
 2021-06-22,Rio Grande do Norte,São Francisco do Oeste,-733.21,-31,0,0.0,312,4,1.28,7379.38,94.61,7.38,4228,-402.08,-756.86,756.84,-733.21
 2021-06-20,Rio Grande do Norte,São Francisco do Oeste,23.65,1,0,0.0,343,4,1.17,8112.58,94.61,8.11,4228,354.78,0.0,1490.05,0.0
 2021-06-17,Rio Grande do Norte,São Francisco do Oeste,0.0,0,0,0.0,342,4,1.17,8088.93,94.61,8.09,4228,354.78,-23.65,1490.05,0.0
