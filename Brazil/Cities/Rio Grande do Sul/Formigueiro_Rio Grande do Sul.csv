@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-12,Rio Grande do Sul,Formigueiro,0.0,0,1,15.01,523,12,2.29,7848.14,180.07,7.85,6664,0.0,0.0,1605.65,0.0
+2021-07-11,Rio Grande do Sul,Formigueiro,0.0,0,0,0.0,523,11,2.1,7848.14,165.07,7.85,6664,0.0,-315.13,1605.65,0.0
+2021-07-10,Rio Grande do Sul,Formigueiro,0.0,0,1,15.01,523,11,2.1,7848.14,165.07,7.85,6664,315.13,0.0,1605.65,0.0
+2021-07-08,Rio Grande do Sul,Formigueiro,-15.01,-1,0,0.0,523,10,1.91,7848.14,150.06,7.85,6664,315.13,-45.02,1605.65,-15.01
 2021-07-07,Rio Grande do Sul,Formigueiro,0.0,0,0,0.0,524,10,1.91,7863.15,150.06,7.86,6664,360.15,-30.01,1620.66,-195.08
 2021-07-06,Rio Grande do Sul,Formigueiro,15.01,1,0,0.0,524,10,1.91,7863.15,150.06,7.86,6664,390.16,-120.04,1815.74,-45.01
 2021-07-05,Rio Grande do Sul,Formigueiro,0.0,0,1,15.01,523,10,1.91,7848.14,150.06,7.85,6664,510.2,0.0,1860.75,0.0

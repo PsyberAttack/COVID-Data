@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-07-11,Espírito Santo,Ibitirama,11.25,1,0,0.0,458,13,2.84,5152.44,146.25,5.15,8889,146.25,11.25,483.75,0.0
+2021-07-12,Espírito Santo,Ibitirama,56.25,5,0,0.0,463,13,2.81,5208.68,146.25,5.21,8889,180.0,33.75,517.5,33.75
+2021-07-11,Espírito Santo,Ibitirama,11.25,1,0,0.0,458,13,2.84,5152.44,146.25,5.15,8889,146.25,11.25,483.75,11.25
+2021-07-10,Espírito Santo,Ibitirama,0.0,0,0,0.0,457,13,2.84,5141.19,146.25,5.14,8889,135.0,0.0,472.5,-11.25
 2021-07-09,Espírito Santo,Ibitirama,11.25,1,0,0.0,457,13,2.84,5141.19,146.25,5.14,8889,135.0,-22.5,483.75,11.25
 2021-07-08,Espírito Santo,Ibitirama,0.0,0,0,0.0,456,13,2.85,5129.94,146.25,5.13,8889,157.5,-56.25,472.5,0.0
 2021-07-07,Espírito Santo,Ibitirama,56.25,5,0,0.0,456,13,2.85,5129.94,146.25,5.13,8889,213.75,56.25,472.5,56.25
