@@ -1,7 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-07-12,Rio Grande do Sul,São Pedro das Missões,0.0,0,0,0.0,311,10,3.22,15480.34,497.76,15.48,2009,199.1,0.0,1443.5,-99.55
-2021-07-11,Rio Grande do Sul,São Pedro das Missões,0.0,0,0,0.0,311,10,3.22,15480.34,497.76,15.48,2009,199.1,0.0,1543.05,0.0
-2021-07-10,Rio Grande do Sul,São Pedro das Missões,248.88,5,0,0.0,311,10,3.22,15480.34,497.76,15.48,2009,199.1,99.55,1543.05,-149.33
+2021-07-14,Rio Grande do Sul,São Pedro das Missões,99.55,2,0,0.0,313,10,3.19,15579.89,497.76,15.58,2009,447.98,248.88,1294.17,-149.33
+2021-07-12,Rio Grande do Sul,São Pedro das Missões,0.0,0,0,0.0,311,10,3.22,15480.34,497.76,15.48,2009,199.1,0.0,1443.5,0.0
+2021-07-11,Rio Grande do Sul,São Pedro das Missões,0.0,0,0,0.0,311,10,3.22,15480.34,497.76,15.48,2009,199.1,0.0,1443.5,-99.55
+2021-07-10,Rio Grande do Sul,São Pedro das Missões,49.78,1,0,0.0,311,10,3.22,15480.34,497.76,15.48,2009,199.1,49.78,1543.05,49.78
+2021-07-09,Rio Grande do Sul,São Pedro das Missões,199.1,4,0,0.0,310,10,3.23,15430.56,497.76,15.43,2009,149.32,49.77,1493.27,-199.11
 2021-07-08,Rio Grande do Sul,São Pedro das Missões,0.0,0,0,0.0,306,10,3.27,15231.46,497.76,15.23,2009,99.55,-99.55,1692.38,199.1
 2021-07-07,Rio Grande do Sul,São Pedro das Missões,99.55,2,0,0.0,306,10,3.27,15231.46,497.76,15.23,2009,199.1,99.55,1493.28,-199.11
 2021-07-06,Rio Grande do Sul,São Pedro das Missões,-149.33,-3,0,0.0,304,10,3.29,15131.91,497.76,15.13,2009,99.55,-647.09,1692.39,-199.11

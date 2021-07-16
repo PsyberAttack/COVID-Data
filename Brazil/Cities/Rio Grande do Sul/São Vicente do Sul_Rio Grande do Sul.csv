@@ -1,7 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-07-12,Rio Grande do Sul,São Vicente do Sul,0.0,0,0,0.0,489,18,3.68,5607.16,206.4,5.61,8721,126.13,0.0,940.26,0.0
-2021-07-11,Rio Grande do Sul,São Vicente do Sul,0.0,0,0,0.0,489,18,3.68,5607.16,206.4,5.61,8721,126.13,-34.4,940.26,0.0
-2021-07-10,Rio Grande do Sul,São Vicente do Sul,126.13,11,0,0.0,489,18,3.68,5607.16,206.4,5.61,8721,160.53,126.13,940.26,103.2
+2021-07-14,Rio Grande do Sul,São Vicente do Sul,34.4,3,0,0.0,492,18,3.66,5641.55,206.4,5.64,8721,149.07,34.4,974.67,34.4
+2021-07-12,Rio Grande do Sul,São Vicente do Sul,0.0,0,0,0.0,489,18,3.68,5607.16,206.4,5.61,8721,114.67,-11.47,940.27,0.0
+2021-07-11,Rio Grande do Sul,São Vicente do Sul,0.0,0,0,0.0,489,18,3.68,5607.16,206.4,5.61,8721,126.14,0.0,940.27,0.0
+2021-07-10,Rio Grande do Sul,São Vicente do Sul,11.47,1,0,0.0,489,18,3.68,5607.16,206.4,5.61,8721,126.14,-22.93,940.27,11.47
+2021-07-09,Rio Grande do Sul,São Vicente do Sul,114.67,10,0,0.0,488,18,3.69,5595.69,206.4,5.6,8721,149.07,114.67,928.8,91.74
 2021-07-08,Rio Grande do Sul,São Vicente do Sul,0.0,0,0,0.0,478,18,3.77,5481.02,206.4,5.48,8721,34.4,-22.93,837.06,-160.53
 2021-07-07,Rio Grande do Sul,São Vicente do Sul,-11.47,-1,-1,-11.47,478,18,3.77,5481.02,206.4,5.48,8721,57.33,-11.47,997.59,-91.74
 2021-07-06,Rio Grande do Sul,São Vicente do Sul,0.0,0,0,0.0,479,19,3.97,5492.49,217.86,5.49,8721,68.8,-11.47,1089.33,-22.93

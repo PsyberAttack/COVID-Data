@@ -1,7 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-07-12,Rio Grande do Sul,Pinheiro Machado,0.0,0,0,0.0,1315,26,1.98,10716.32,211.88,10.72,12271,138.54,0.0,1385.42,0.0
-2021-07-11,Rio Grande do Sul,Pinheiro Machado,8.15,1,0,0.0,1315,26,1.98,10716.32,211.88,10.72,12271,138.54,-8.15,1385.42,-32.6
-2021-07-10,Rio Grande do Sul,Pinheiro Machado,65.19,8,0,0.0,1314,26,1.98,10708.17,211.88,10.71,12271,146.69,16.29,1418.02,8.14
+2021-07-14,Rio Grande do Sul,Pinheiro Machado,48.9,6,1,8.15,1321,27,2.04,10765.22,220.03,10.77,12271,163.0,40.75,1295.79,-57.04
+2021-07-12,Rio Grande do Sul,Pinheiro Machado,0.0,0,0,0.0,1315,26,1.98,10716.32,211.88,10.72,12271,122.25,-16.3,1352.83,-32.6
+2021-07-11,Rio Grande do Sul,Pinheiro Machado,8.15,1,0,0.0,1315,26,1.98,10716.32,211.88,10.72,12271,138.55,8.15,1385.43,8.15
+2021-07-10,Rio Grande do Sul,Pinheiro Machado,16.3,2,0,0.0,1314,26,1.98,10708.17,211.88,10.71,12271,130.4,0.0,1377.28,-24.45
+2021-07-09,Rio Grande do Sul,Pinheiro Machado,48.9,6,0,0.0,1312,26,1.98,10691.88,211.88,10.69,12271,130.4,0.0,1401.73,-8.15
 2021-07-08,Rio Grande do Sul,Pinheiro Machado,0.0,0,0,0.0,1306,26,1.99,10642.98,211.88,10.64,12271,130.4,-40.75,1409.88,-81.49
 2021-07-07,Rio Grande do Sul,Pinheiro Machado,40.75,5,0,0.0,1306,26,1.99,10642.98,211.88,10.64,12271,171.15,24.45,1491.37,-122.24
 2021-07-06,Rio Grande do Sul,Pinheiro Machado,8.15,1,0,0.0,1301,26,2.0,10602.23,211.88,10.6,12271,146.7,-8.15,1613.61,8.15
