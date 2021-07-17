@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-07-14,Rio Grande do Sul,Planalto,29.75,3,0,0.0,661,17,2.57,6554.94,168.58,6.55,10084,89.25,9.92,763.59,-19.83
+2021-07-15,Rio Grande do Sul,Planalto,9.92,1,0,0.0,662,17,2.57,6564.86,168.58,6.56,10084,69.42,0.0,723.92,0.0
+2021-07-14,Rio Grande do Sul,Planalto,29.75,3,0,0.0,661,17,2.57,6554.94,168.58,6.55,10084,69.42,9.92,723.92,-9.92
+2021-07-13,Rio Grande do Sul,Planalto,0.0,0,0,0.0,658,17,2.58,6525.19,168.58,6.53,10084,59.5,-19.83,733.84,-49.58
 2021-07-12,Rio Grande do Sul,Planalto,9.92,1,1,9.92,658,17,2.58,6525.19,168.58,6.53,10084,79.33,9.92,783.42,9.92
 2021-07-11,Rio Grande do Sul,Planalto,-9.92,-1,0,0.0,657,16,2.44,6515.27,158.67,6.52,10084,69.41,-9.92,773.5,-9.92
 2021-07-10,Rio Grande do Sul,Planalto,19.83,2,0,0.0,658,16,2.43,6525.19,158.67,6.53,10084,79.33,-19.84,783.42,-9.92

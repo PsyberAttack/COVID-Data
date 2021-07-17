@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-07-12,Ceará,Jijoca de Jericoacoara,0.0,0,0,0.0,2727,29,1.06,13761.61,146.35,13.76,19816,25.24,5.05,832.65,-30.28
+2021-07-13,Ceará,Jijoca de Jericoacoara,0.0,0,0,0.0,2727,29,1.06,13761.61,146.35,13.76,19816,30.29,0.0,656.03,-176.62
+2021-07-12,Ceará,Jijoca de Jericoacoara,0.0,0,0,0.0,2727,29,1.06,13761.61,146.35,13.76,19816,30.29,5.05,832.65,0.0
+2021-07-11,Ceará,Jijoca de Jericoacoara,0.0,0,0,0.0,2727,29,1.06,13761.61,146.35,13.76,19816,25.24,5.05,832.65,-30.28
 2021-07-10,Ceará,Jijoca de Jericoacoara,5.05,1,0,0.0,2727,29,1.06,13761.61,146.35,13.76,19816,20.19,-20.18,862.93,-40.37
 2021-07-09,Ceará,Jijoca de Jericoacoara,20.19,4,0,0.0,2726,29,1.06,13756.56,146.35,13.76,19816,40.37,-5.04,903.3,20.19
 2021-07-08,Ceará,Jijoca de Jericoacoara,5.05,1,0,0.0,2722,29,1.07,13736.37,146.35,13.74,19816,45.41,-15.14,883.11,10.1

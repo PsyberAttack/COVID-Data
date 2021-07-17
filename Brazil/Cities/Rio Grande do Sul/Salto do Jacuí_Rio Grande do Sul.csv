@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-07-14,Rio Grande do Sul,Salto do Jacuí,8.03,1,1,8.03,1136,18,1.58,9125.23,144.59,9.13,12449,345.4,-8.04,1237.05,0.0
+2021-07-15,Rio Grande do Sul,Salto do Jacuí,0.0,0,1,8.03,1136,19,1.67,9125.23,152.62,9.13,12449,337.37,-8.03,1220.98,-16.07
+2021-07-14,Rio Grande do Sul,Salto do Jacuí,0.0,0,0,0.0,1136,18,1.58,9125.23,144.59,9.13,12449,345.4,0.0,1237.05,0.0
+2021-07-13,Rio Grande do Sul,Salto do Jacuí,8.03,1,1,8.03,1136,18,1.58,9125.23,144.59,9.13,12449,345.4,-8.04,1237.05,0.0
 2021-07-12,Rio Grande do Sul,Salto do Jacuí,0.0,0,0,0.0,1135,17,1.5,9117.2,136.56,9.12,12449,353.44,0.0,1237.05,0.0
 2021-07-11,Rio Grande do Sul,Salto do Jacuí,8.03,1,0,0.0,1135,17,1.5,9117.2,136.56,9.12,12449,353.44,8.03,1237.05,8.03
 2021-07-10,Rio Grande do Sul,Salto do Jacuí,48.2,6,0,0.0,1134,17,1.5,9109.17,136.56,9.11,12449,345.41,40.17,1229.02,48.2

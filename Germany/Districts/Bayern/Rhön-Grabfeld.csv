@@ -1,4 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-12 00:00:00+00:00,Bayern,Rhön-Grabfeld,1.25,1,0,0.0,3554,89,2.5,4459.78,111.68,4.46,79690,7.51,1.25,18.77,0.0
+2021-07-11 00:00:00+00:00,Bayern,Rhön-Grabfeld,0.0,0,0,0.0,3553,89,2.5,4458.53,111.68,4.46,79690,6.26,0.0,18.77,0.0
 2021-07-10 00:00:00+00:00,Bayern,Rhön-Grabfeld,3.76,3,0,0.0,3553,89,2.5,4458.53,111.68,4.46,79690,6.26,3.76,18.77,3.76
 2021-07-09 00:00:00+00:00,Bayern,Rhön-Grabfeld,1.25,1,0,0.0,3550,89,2.51,4454.76,111.68,4.45,79690,2.5,1.25,15.01,-1.26
 2021-07-08 00:00:00+00:00,Bayern,Rhön-Grabfeld,1.25,1,0,0.0,3549,89,2.51,4453.51,111.68,4.45,79690,1.25,0.0,16.27,-1.26

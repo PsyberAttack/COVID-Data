@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-07-14,Rio Grande do Sul,Terra de Areia,8.93,1,0,0.0,440,45,10.23,3927.17,401.64,3.93,11204,124.96,-98.17,383.82,8.93
+2021-07-15,Rio Grande do Sul,Terra de Areia,8.93,1,1,8.93,441,46,10.43,3936.09,410.57,3.94,11204,89.26,-26.77,374.89,0.0
+2021-07-14,Rio Grande do Sul,Terra de Areia,0.0,0,0,0.0,440,45,10.23,3927.17,401.64,3.93,11204,116.03,-8.93,374.89,-8.93
+2021-07-13,Rio Grande do Sul,Terra de Areia,8.93,1,0,0.0,440,45,10.23,3927.17,401.64,3.93,11204,124.96,-98.17,383.82,8.93
 2021-07-12,Rio Grande do Sul,Terra de Areia,-8.93,-1,0,0.0,439,45,10.25,3918.24,401.64,3.92,11204,223.13,-17.86,374.89,-8.93
 2021-07-11,Rio Grande do Sul,Terra de Areia,0.0,0,0,0.0,440,45,10.23,3927.17,401.64,3.93,11204,240.99,0.0,383.82,-8.93
 2021-07-10,Rio Grande do Sul,Terra de Areia,80.33,9,0,0.0,440,45,10.23,3927.17,401.64,3.93,11204,240.99,44.63,392.75,53.55

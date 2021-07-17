@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-07-14,Rio Grande do Sul,Bento Gonçalves,160.23,193,7,5.81,19069,343,1.8,15830.94,284.76,15.83,120454,410.12,142.8,1850.5,8.3
+2021-07-15,Rio Grande do Sul,Bento Gonçalves,67.25,81,2,1.66,19150,345,1.8,15898.19,286.42,15.9,120454,327.09,37.36,1560.76,-59.77
+2021-07-14,Rio Grande do Sul,Bento Gonçalves,147.77,178,3,2.49,19069,343,1.8,15830.94,284.76,15.83,120454,289.73,27.39,1620.53,-82.19
+2021-07-13,Rio Grande do Sul,Bento Gonçalves,12.45,15,4,3.32,18891,340,1.8,15683.17,282.27,15.68,120454,262.34,-4.98,1702.72,-139.48
 2021-07-12,Rio Grande do Sul,Bento Gonçalves,-0.83,-1,0,0.0,18876,336,1.78,15670.71,278.94,15.67,120454,267.32,-2.49,1842.2,-0.83
 2021-07-11,Rio Grande do Sul,Bento Gonçalves,0.0,0,0,0.0,18877,336,1.78,15671.54,278.94,15.67,120454,269.81,0.0,1843.03,0.0
 2021-07-10,Rio Grande do Sul,Bento Gonçalves,12.45,15,1,0.83,18877,336,1.78,15671.54,278.94,15.67,120454,269.81,-47.32,1843.03,-24.91

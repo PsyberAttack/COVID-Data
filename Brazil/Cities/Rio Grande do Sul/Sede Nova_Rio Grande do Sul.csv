@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-07-14,Rio Grande do Sul,Sede Nova,68.8,2,1,34.4,261,5,1.92,8978.33,172.0,8.98,2907,275.2,34.4,688.0,-34.4
+2021-07-15,Rio Grande do Sul,Sede Nova,68.8,2,0,0.0,263,5,1.9,9047.13,172.0,9.05,2907,206.4,-34.4,722.4,34.4
+2021-07-14,Rio Grande do Sul,Sede Nova,68.8,2,0,0.0,261,5,1.92,8978.33,172.0,8.98,2907,240.8,34.4,688.0,68.8
+2021-07-13,Rio Grande do Sul,Sede Nova,0.0,0,1,34.4,259,5,1.93,8909.53,172.0,8.91,2907,206.4,-34.4,619.2,-103.2
 2021-07-12,Rio Grande do Sul,Sede Nova,0.0,0,0,0.0,259,4,1.54,8909.53,137.6,8.91,2907,240.8,0.0,722.4,0.0
 2021-07-11,Rio Grande do Sul,Sede Nova,0.0,0,0,0.0,259,4,1.54,8909.53,137.6,8.91,2907,240.8,0.0,722.4,0.0
 2021-07-10,Rio Grande do Sul,Sede Nova,34.4,1,0,0.0,259,4,1.54,8909.53,137.6,8.91,2907,240.8,34.4,722.4,-206.4

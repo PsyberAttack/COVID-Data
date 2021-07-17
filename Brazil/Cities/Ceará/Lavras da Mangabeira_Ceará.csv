@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-07-12,Ceará,Lavras da Mangabeira,0.0,0,0,0.0,2898,52,1.79,9197.66,165.04,9.2,31508,241.2,-38.09,1377.43,-12.7
+2021-07-13,Ceará,Lavras da Mangabeira,-9.52,-3,0,0.0,2895,52,1.8,9188.14,165.04,9.19,31508,184.08,-12.69,1123.53,-253.9
+2021-07-12,Ceará,Lavras da Mangabeira,0.0,0,0,0.0,2898,52,1.79,9197.66,165.04,9.2,31508,196.77,-44.43,1377.43,0.0
+2021-07-11,Ceará,Lavras da Mangabeira,0.0,0,0,0.0,2898,52,1.79,9197.66,165.04,9.2,31508,241.2,-38.09,1377.43,-12.7
 2021-07-10,Ceará,Lavras da Mangabeira,9.52,3,0,0.0,2898,52,1.79,9197.66,165.04,9.2,31508,279.29,-41.26,1390.13,-95.22
 2021-07-09,Ceará,Lavras da Mangabeira,69.82,22,0,0.0,2895,52,1.8,9188.14,165.04,9.19,31508,320.55,-12.7,1485.35,79.34
 2021-07-08,Ceará,Lavras da Mangabeira,6.35,2,0,0.0,2873,52,1.81,9118.32,165.04,9.12,31508,333.25,6.35,1406.01,-111.08
