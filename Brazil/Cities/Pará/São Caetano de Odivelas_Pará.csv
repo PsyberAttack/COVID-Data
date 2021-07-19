@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-07-16,Pará,São Caetano de Odivelas,22.16,4,0,0.0,1202,34,2.83,6659.28,188.37,6.66,18050,22.16,0.0,88.64,-5.54
+2021-07-16,Pará,São Caetano de Odivelas,0.0,0,0,0.0,1202,34,2.83,6659.28,188.37,6.66,18050,22.16,0.0,88.64,0.0
+2021-07-15,Pará,São Caetano de Odivelas,5.54,1,0,0.0,1202,34,2.83,6659.28,188.37,6.66,18050,22.16,5.54,88.64,5.54
+2021-07-14,Pará,São Caetano de Odivelas,16.62,3,0,0.0,1201,34,2.83,6653.74,188.37,6.65,18050,16.62,-5.54,83.1,-11.08
 2021-07-13,Pará,São Caetano de Odivelas,0.0,0,0,0.0,1198,34,2.84,6637.12,188.37,6.64,18050,22.16,0.0,94.18,0.0
 2021-07-12,Pará,São Caetano de Odivelas,0.0,0,0,0.0,1198,34,2.84,6637.12,188.37,6.64,18050,22.16,0.0,94.18,-5.54
 2021-07-11,Pará,São Caetano de Odivelas,0.0,0,0,0.0,1198,34,2.84,6637.12,188.37,6.64,18050,22.16,0.0,99.72,0.0

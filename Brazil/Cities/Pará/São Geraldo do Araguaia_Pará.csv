@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-07-16,Pará,São Geraldo do Araguaia,4.02,1,0,0.0,1522,35,2.3,6125.49,140.86,6.13,24847,92.56,4.02,680.16,0.0
+2021-07-16,Pará,São Geraldo do Araguaia,0.0,0,0,0.0,1522,35,2.3,6125.49,140.86,6.13,24847,4.02,-32.2,587.59,-32.2
+2021-07-15,Pará,São Geraldo do Araguaia,4.02,1,0,0.0,1522,35,2.3,6125.49,140.86,6.13,24847,36.22,-52.32,619.79,-56.35
+2021-07-14,Pará,São Geraldo do Araguaia,0.0,0,0,0.0,1521,35,2.3,6121.46,140.86,6.12,24847,88.54,0.0,676.14,-4.02
 2021-07-13,Pará,São Geraldo do Araguaia,0.0,0,0,0.0,1521,35,2.3,6121.46,140.86,6.12,24847,88.54,-80.49,680.16,0.0
 2021-07-12,Pará,São Geraldo do Araguaia,0.0,0,0,0.0,1521,35,2.3,6121.46,140.86,6.12,24847,169.03,0.0,680.16,0.0
 2021-07-11,Pará,São Geraldo do Araguaia,0.0,0,0,0.0,1521,35,2.3,6121.46,140.86,6.12,24847,169.03,0.0,680.16,0.0
