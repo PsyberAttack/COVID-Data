@@ -1,4 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-22 00:00:00+00:00,Niedersachsen,Oldenburg,0.77,1,0,0.0,5107,117,2.29,3924.11,89.9,3.92,130144,6.93,0.77,22.33,0.0
+2021-07-21 00:00:00+00:00,Niedersachsen,Oldenburg,0.77,1,0,0.0,5106,117,2.29,3923.35,89.9,3.92,130144,6.16,-1.54,22.33,0.77
 2021-07-20 00:00:00+00:00,Niedersachsen,Oldenburg,2.31,3,0,0.0,5105,117,2.29,3922.58,89.9,3.92,130144,7.7,1.54,21.56,1.54
 2021-07-19 00:00:00+00:00,Niedersachsen,Oldenburg,0.77,1,0,0.0,5102,117,2.29,3920.27,89.9,3.92,130144,6.16,0.77,20.02,0.0
 2021-07-18 00:00:00+00:00,Niedersachsen,Oldenburg,0.0,0,0,0.0,5101,117,2.29,3919.5,89.9,3.92,130144,5.39,0.0,20.02,-0.77

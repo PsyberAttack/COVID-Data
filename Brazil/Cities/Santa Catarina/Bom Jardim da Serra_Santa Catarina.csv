@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-21,Santa Catarina,Bom Jardim da Serra,21.08,1,0,0.0,649,5,0.77,13683.32,105.42,13.68,4743,358.42,-21.09,1201.75,-63.25
+2021-07-20,Santa Catarina,Bom Jardim da Serra,42.17,2,1,21.08,648,5,0.77,13662.24,105.42,13.66,4743,379.51,-21.08,1265.0,42.17
+2021-07-19,Santa Catarina,Bom Jardim da Serra,42.17,2,0,0.0,646,4,0.62,13620.07,84.33,13.62,4743,400.59,-105.42,1222.83,0.0
+2021-07-18,Santa Catarina,Bom Jardim da Serra,105.42,5,0,0.0,644,4,0.62,13577.9,84.33,13.58,4743,506.01,105.42,1222.83,84.34
 2021-07-16,Santa Catarina,Bom Jardim da Serra,63.25,3,0,0.0,639,4,0.63,13472.49,84.33,13.47,4743,400.59,63.25,1138.49,-21.08
 2021-07-13,Santa Catarina,Bom Jardim da Serra,84.33,4,0,0.0,636,4,0.63,13409.23,84.33,13.41,4743,337.34,63.25,1159.57,84.33
 2021-07-12,Santa Catarina,Bom Jardim da Serra,0.0,0,0,0.0,632,4,0.63,13324.9,84.33,13.32,4743,274.09,-63.25,1075.24,-21.08
