@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-02,Alagoas,Maragogi,3.06,1,1,3.06,1525,47,3.08,4663.04,143.71,4.66,32704,3.06,3.06,88.7,0.0
+2021-07-01,Alagoas,Maragogi,0.0,0,0,0.0,1524,46,3.02,4659.98,140.66,4.66,32704,0.0,-3.06,88.7,-15.29
 2021-06-30,Alagoas,Maragogi,0.0,0,0,0.0,1524,46,3.02,4659.98,140.66,4.66,32704,3.06,-3.06,103.99,-415.85
 2021-06-29,Alagoas,Maragogi,0.0,0,2,6.12,1524,46,3.02,4659.98,140.66,4.66,32704,6.12,-15.29,519.84,-12.23
 2021-06-28,Alagoas,Maragogi,0.0,0,0,0.0,1524,44,2.89,4659.98,134.54,4.66,32704,21.41,0.0,532.07,-3.06

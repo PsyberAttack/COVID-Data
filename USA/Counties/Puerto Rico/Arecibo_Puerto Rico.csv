@@ -1,5 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-07-23,Puerto Rico,Arecibo,0.0,0,0,0.0,3601,0.0,0.0,4385.37,0.0,4.39,82114,0.0,12.19,-10.96,52.39,-3.65
+2021-07-24,Puerto Rico,Arecibo,12.18,10,0,0.0,3623,0.0,0.0,4412.16,0.0,4.41,82114,0.0,37.76,10.96,79.18,12.18
+2021-07-23,Puerto Rico,Arecibo,14.61,12,0,0.0,3613,0.0,0.0,4399.98,0.0,4.4,82114,0.0,26.8,3.65,67.0,10.96
 2021-07-22,Puerto Rico,Arecibo,2.44,2,0,0.0,3601,0.0,0.0,4385.37,0.0,4.39,82114,0.0,23.15,2.44,56.04,1.22
 2021-07-21,Puerto Rico,Arecibo,2.44,2,0,0.0,3599,0.0,0.0,4382.93,0.0,4.38,82114,0.0,20.71,2.44,54.82,2.44
 2021-07-20,Puerto Rico,Arecibo,1.22,1,0,0.0,3597,0.0,0.0,4380.5,0.0,4.38,82114,0.0,18.27,-1.22,52.38,1.22

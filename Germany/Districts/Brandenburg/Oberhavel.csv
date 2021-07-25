@@ -1,4 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-24 00:00:00+00:00,Brandenburg,Oberhavel,1.42,3,0,0.0,8402,307,3.65,3977.3,145.33,3.98,211249,2.84,0.47,18.45,0.95
+2021-07-23 00:00:00+00:00,Brandenburg,Oberhavel,0.0,0,0,0.0,8399,307,3.66,3975.88,145.33,3.98,211249,2.37,0.0,17.5,-0.95
 2021-07-22 00:00:00+00:00,Brandenburg,Oberhavel,0.47,1,0,0.0,8399,307,3.66,3975.88,145.33,3.98,211249,2.37,-0.48,18.45,-1.42
 2021-07-21 00:00:00+00:00,Brandenburg,Oberhavel,0.0,0,0,0.0,8398,307,3.66,3975.4,145.33,3.98,211249,2.85,-0.47,19.87,-0.95
 2021-07-20 00:00:00+00:00,Brandenburg,Oberhavel,0.0,0,0,0.0,8398,307,3.66,3975.4,145.33,3.98,211249,3.32,-1.42,20.82,-0.47
