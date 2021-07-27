@@ -1,6 +1,13 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-07-20,São Paulo,Euclides da Cunha Paulista,0.0,0,0,0.0,353,14,3.97,3766.94,149.4,3.77,9371,117.38,0.0,554.9,-53.36
-2021-07-18,São Paulo,Euclides da Cunha Paulista,96.04,9,0,0.0,353,14,3.97,3766.94,149.4,3.77,9371,117.38,96.04,608.26,74.7
+2021-07-23,São Paulo,Euclides da Cunha Paulista,0.0,0,0,0.0,356,15,4.21,3798.95,160.07,3.8,9371,106.71,-21.34,501.54,0.0
+2021-07-22,São Paulo,Euclides da Cunha Paulista,0.0,0,0,0.0,356,15,4.21,3798.95,160.07,3.8,9371,128.05,0.0,501.54,0.0
+2021-07-21,São Paulo,Euclides da Cunha Paulista,32.01,3,1,10.67,356,15,4.21,3798.95,160.07,3.8,9371,128.05,32.01,501.54,32.01
+2021-07-20,São Paulo,Euclides da Cunha Paulista,0.0,0,0,0.0,353,14,3.97,3766.94,149.4,3.77,9371,96.04,0.0,469.53,-85.37
+2021-07-19,São Paulo,Euclides da Cunha Paulista,0.0,0,0,0.0,353,14,3.97,3766.94,149.4,3.77,9371,96.04,-21.34,554.9,21.34
+2021-07-18,São Paulo,Euclides da Cunha Paulista,64.03,6,0,0.0,353,14,3.97,3766.94,149.4,3.77,9371,117.38,64.03,533.56,64.03
+2021-07-16,São Paulo,Euclides da Cunha Paulista,10.67,1,0,0.0,347,14,4.03,3702.91,149.4,3.7,9371,53.35,10.67,469.53,-10.67
+2021-07-14,São Paulo,Euclides da Cunha Paulista,21.34,2,0,0.0,346,14,4.05,3692.24,149.4,3.69,9371,42.68,21.34,480.2,-32.02
+2021-07-12,São Paulo,Euclides da Cunha Paulista,0.0,0,0,0.0,344,14,4.07,3670.9,149.4,3.67,9371,21.34,0.0,512.22,-21.34
 2021-07-11,São Paulo,Euclides da Cunha Paulista,0.0,0,0,0.0,344,14,4.07,3670.9,149.4,3.67,9371,21.34,0.0,533.56,0.0
 2021-07-10,São Paulo,Euclides da Cunha Paulista,0.0,0,0,0.0,344,14,4.07,3670.9,149.4,3.67,9371,21.34,-10.67,533.56,-10.67
 2021-07-09,São Paulo,Euclides da Cunha Paulista,21.34,2,2,21.34,344,14,4.07,3670.9,149.4,3.67,9371,32.01,-128.06,544.23,21.34
