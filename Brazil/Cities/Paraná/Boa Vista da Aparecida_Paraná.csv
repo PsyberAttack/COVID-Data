@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-07-26,Paraná,Boa Vista da Aparecida,79.04,6,0,0.0,1033,33,3.19,13608.22,434.73,13.61,7591,342.51,26.35,1659.83,-26.35
+2021-07-25,Paraná,Boa Vista da Aparecida,0.0,0,0,0.0,1027,33,3.21,13529.18,434.73,13.53,7591,316.16,0.0,1686.18,0.0
+2021-07-24,Paraná,Boa Vista da Aparecida,79.04,6,0,0.0,1027,33,3.21,13529.18,434.73,13.53,7591,316.16,-13.17,1686.18,26.35
+2021-07-23,Paraná,Boa Vista da Aparecida,65.87,5,0,0.0,1021,33,3.23,13450.14,434.73,13.45,7591,329.33,13.18,1659.83,-79.04
 2021-07-22,Paraná,Boa Vista da Aparecida,26.35,2,0,0.0,1016,33,3.25,13384.27,434.73,13.38,7591,316.15,13.18,1738.87,-79.04
 2021-07-21,Paraná,Boa Vista da Aparecida,39.52,3,1,13.17,1014,33,3.25,13357.92,434.73,13.36,7591,302.97,-52.69,1817.91,-105.39
 2021-07-20,Paraná,Boa Vista da Aparecida,52.69,4,0,0.0,1011,32,3.17,13318.4,421.55,13.32,7591,355.66,26.34,1923.3,-250.3
