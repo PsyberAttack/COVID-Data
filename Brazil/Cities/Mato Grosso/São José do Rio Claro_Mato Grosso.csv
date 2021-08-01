@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-07-29,Mato Grosso,São José do Rio Claro,33.88,7,0,0.0,1786,28,1.57,8643.05,135.5,8.64,20664,87.12,-4.83,406.53,29.04
+2021-07-30,Mato Grosso,São José do Rio Claro,48.39,10,0,0.0,1796,28,1.56,8691.44,135.5,8.69,20664,111.31,33.87,454.92,48.39
+2021-07-29,Mato Grosso,São José do Rio Claro,0.0,0,-1,-4.84,1786,28,1.57,8643.05,135.5,8.64,20664,77.44,-9.68,406.53,0.0
+2021-07-28,Mato Grosso,São José do Rio Claro,33.88,7,1,4.84,1786,29,1.62,8643.05,140.34,8.64,20664,87.12,-4.83,406.53,29.04
 2021-07-27,Mato Grosso,São José do Rio Claro,9.68,2,0,0.0,1779,28,1.57,8609.18,135.5,8.61,20664,91.95,-14.52,377.49,0.0
 2021-07-26,Mato Grosso,São José do Rio Claro,9.68,2,0,0.0,1777,28,1.58,8599.5,135.5,8.6,20664,106.47,4.84,377.49,-24.2
 2021-07-25,Mato Grosso,São José do Rio Claro,4.84,1,0,0.0,1775,28,1.58,8589.82,135.5,8.59,20664,101.63,4.84,401.69,4.84
