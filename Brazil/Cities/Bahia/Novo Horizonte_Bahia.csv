@@ -1,5 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-07-29,Bahia,Novo Horizonte,8.07,1,1,8.07,406,8,1.97,3278.16,64.59,3.28,12385,72.66,-64.6,742.82,-72.67
+2021-07-29,Bahia,Novo Horizonte,8.07,1,1,8.07,406,8,1.97,3278.16,64.59,3.28,12385,64.59,0.0,694.37,-40.38
+2021-07-25,Bahia,Novo Horizonte,0.0,0,0,0.0,405,7,1.73,3270.08,56.52,3.27,12385,64.59,-72.67,734.75,-80.74
 2021-07-22,Bahia,Novo Horizonte,8.07,1,0,0.0,405,7,1.73,3270.08,56.52,3.27,12385,137.26,8.07,815.49,-8.08
 2021-07-21,Bahia,Novo Horizonte,0.0,0,0,0.0,404,7,1.73,3262.01,56.52,3.26,12385,129.19,0.0,823.57,-24.22
 2021-07-20,Bahia,Novo Horizonte,0.0,0,0,0.0,404,7,1.73,3262.01,56.52,3.26,12385,129.19,0.0,847.79,-8.07

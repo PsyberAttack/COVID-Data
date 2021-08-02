@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-08-01,Texas,Robertson,0.0,0,0,0.0,2346,48.0,2.05,13573.25,277.71,13.57,17284,20.21,162.01,0.0,624.87,0.0
 2021-07-31,Texas,Robertson,40.5,7,0,0.0,2346,48.0,2.05,13573.25,277.71,13.57,17284,20.21,162.01,5.79,624.87,28.93
 2021-07-30,Texas,Robertson,5.79,1,0,0.0,2339,48.0,2.05,13532.75,277.71,13.53,17284,20.21,156.22,-28.92,595.94,0.0
 2021-07-29,Texas,Robertson,40.5,7,1,5.79,2338,48.0,2.05,13526.96,277.71,13.53,17284,20.21,185.14,-17.36,595.94,5.79

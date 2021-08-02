@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-08-01,Texas,Travis,0.0,0,1,0.08,89433,1053.0,1.18,7161.84,84.32,7.16,1248743,1259.01,184.83,0.0,367.64,0.0
 2021-07-31,Texas,Travis,43.72,546,0,0.0,89433,1052.0,1.18,7161.84,84.24,7.16,1248743,1259.01,184.83,19.78,367.64,37.95
 2021-07-30,Texas,Travis,36.12,451,1,0.08,88887,1052.0,1.18,7118.12,84.24,7.12,1248743,1259.01,165.05,11.94,329.69,32.76
 2021-07-29,Texas,Travis,39.24,490,2,0.16,88436,1051.0,1.19,7082.0,84.16,7.08,1248743,1259.01,153.11,26.19,296.93,37.48
