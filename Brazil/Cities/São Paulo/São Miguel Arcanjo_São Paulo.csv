@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-08-02,São Paulo,São Miguel Arcanjo,0.0,0,0,0.0,2028,67,3.3,6158.33,203.46,6.16,32931,66.8,-3.04,373.5,-6.07
+2021-08-01,São Paulo,São Miguel Arcanjo,0.0,0,0,0.0,2028,67,3.3,6158.33,203.46,6.16,32931,69.84,-6.07,379.57,-145.76
+2021-07-31,São Paulo,São Miguel Arcanjo,15.18,5,0,0.0,2028,67,3.3,6158.33,203.46,6.16,32931,75.91,-15.19,525.33,15.18
+2021-07-30,São Paulo,São Miguel Arcanjo,15.18,5,1,3.04,2023,67,3.31,6143.15,203.46,6.14,32931,91.1,15.18,510.15,15.18
 2021-07-27,São Paulo,São Miguel Arcanjo,21.26,7,0,0.0,2018,66,3.27,6127.96,200.42,6.13,32931,75.92,21.26,494.97,-9.11
 2021-07-25,São Paulo,São Miguel Arcanjo,6.07,2,0,0.0,2011,66,3.28,6106.71,200.42,6.11,32931,54.66,-30.37,504.08,-45.55
 2021-07-23,São Paulo,São Miguel Arcanjo,9.11,3,1,3.04,2009,66,3.29,6100.63,200.42,6.1,32931,85.03,3.04,549.63,-30.37

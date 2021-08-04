@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-08-02,São Paulo,Santo Antônio do Aracanguá,71.26,6,0,0.0,694,30,4.32,8242.28,356.29,8.24,8420,249.41,71.26,1722.11,23.75
+2021-08-01,São Paulo,Santo Antônio do Aracanguá,0.0,0,0,0.0,688,30,4.36,8171.02,356.29,8.17,8420,178.15,-71.26,1698.36,0.0
+2021-07-31,São Paulo,Santo Antônio do Aracanguá,35.63,3,0,0.0,688,30,4.36,8171.02,356.29,8.17,8420,249.41,35.63,1698.36,35.63
+2021-07-30,São Paulo,Santo Antônio do Aracanguá,35.63,3,0,0.0,685,30,4.38,8135.39,356.29,8.14,8420,213.78,-35.63,1662.73,0.0
 2021-07-27,São Paulo,Santo Antônio do Aracanguá,23.75,2,1,11.88,682,30,4.4,8099.76,356.29,8.1,8420,249.41,23.75,1662.73,23.75
 2021-07-25,São Paulo,Santo Antônio do Aracanguá,0.0,0,0,0.0,680,29,4.26,8076.01,344.42,8.08,8420,225.66,-106.89,1638.98,-23.75
 2021-07-23,São Paulo,Santo Antônio do Aracanguá,83.14,7,0,0.0,680,29,4.26,8076.01,344.42,8.08,8420,332.55,71.26,1662.73,59.39

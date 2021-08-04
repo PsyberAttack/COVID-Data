@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-08-02,São Paulo,Cristais Paulista,0.0,0,0,0.0,1209,12,0.99,14007.65,139.03,14.01,8631,718.34,-23.17,1598.88,-34.76
+2021-08-01,São Paulo,Cristais Paulista,0.0,0,0,0.0,1209,12,0.99,14007.65,139.03,14.01,8631,741.51,-139.03,1633.64,-139.03
+2021-07-31,São Paulo,Cristais Paulista,11.59,1,0,0.0,1209,12,0.99,14007.65,139.03,14.01,8631,880.54,0.0,1772.67,11.59
+2021-07-30,São Paulo,Cristais Paulista,590.89,51,1,11.59,1208,12,0.99,13996.06,139.03,14.0,8631,880.54,590.89,1761.08,590.89
 2021-07-27,São Paulo,Cristais Paulista,23.17,2,0,0.0,1157,11,0.95,13405.17,127.45,13.41,8631,289.65,11.58,1170.19,-23.17
 2021-07-25,São Paulo,Cristais Paulista,11.59,1,0,0.0,1155,11,0.95,13382.0,127.45,13.38,8631,278.07,-115.86,1193.36,-127.44
 2021-07-23,São Paulo,Cristais Paulista,81.1,7,0,0.0,1154,11,0.95,13370.41,127.45,13.37,8631,393.93,81.1,1320.8,-34.76

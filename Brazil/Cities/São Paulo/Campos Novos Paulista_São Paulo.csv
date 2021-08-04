@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-08-02,São Paulo,Campos Novos Paulista,0.0,0,0,0.0,309,10,3.24,6223.56,201.41,6.22,4965,302.11,-20.14,684.77,0.0
+2021-08-01,São Paulo,Campos Novos Paulista,0.0,0,0,0.0,309,10,3.24,6223.56,201.41,6.22,4965,322.25,-100.7,684.77,-20.14
+2021-07-31,São Paulo,Campos Novos Paulista,0.0,0,0,0.0,309,10,3.24,6223.56,201.41,6.22,4965,422.95,0.0,704.91,0.0
+2021-07-30,São Paulo,Campos Novos Paulista,80.56,4,0,0.0,309,10,3.24,6223.56,201.41,6.22,4965,422.95,60.42,704.91,80.56
 2021-07-27,São Paulo,Campos Novos Paulista,40.28,2,0,0.0,305,10,3.28,6143.0,201.41,6.14,4965,362.53,40.28,624.35,0.0
 2021-07-25,São Paulo,Campos Novos Paulista,40.28,2,0,0.0,303,10,3.3,6102.72,201.41,6.1,4965,322.25,40.28,624.35,40.28
 2021-07-23,São Paulo,Campos Novos Paulista,140.99,7,0,0.0,301,10,3.32,6062.44,201.41,6.06,4965,281.97,100.71,584.07,140.99

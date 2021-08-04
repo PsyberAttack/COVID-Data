@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-08-02,São Paulo,Fernando Prestes,0.0,0,0,0.0,863,10,1.16,14923.05,172.92,14.92,5783,207.5,-51.88,570.62,-103.75
+2021-08-01,São Paulo,Fernando Prestes,17.29,1,0,0.0,863,10,1.16,14923.05,172.92,14.92,5783,259.38,0.0,674.37,-51.88
+2021-07-31,São Paulo,Fernando Prestes,51.88,3,0,0.0,862,10,1.16,14905.76,172.92,14.91,5783,259.38,69.17,726.25,51.88
+2021-07-30,São Paulo,Fernando Prestes,86.46,5,1,17.29,859,10,1.16,14853.88,172.92,14.85,5783,190.21,69.17,674.37,86.46
 2021-07-27,São Paulo,Fernando Prestes,17.29,1,-1,-17.29,854,9,1.05,14767.42,155.63,14.77,5783,121.04,17.29,587.91,-34.59
 2021-07-25,São Paulo,Fernando Prestes,0.0,0,0,0.0,853,10,1.17,14750.13,172.92,14.75,5783,103.75,-17.29,622.5,-51.88
 2021-07-23,São Paulo,Fernando Prestes,34.58,2,0,0.0,853,10,1.17,14750.13,172.92,14.75,5783,121.04,34.58,674.38,-121.05
