@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0638,2021-08-04,Hollands Midden,Zoeterwoude,23.23,2,0,0.0,938,1,0.11,10893.04,11.61,10.89,8611,58.07,-11.61,801.31,0.0
+GM0638,2021-08-03,Hollands Midden,Zoeterwoude,-11.61,-1,0,0.0,936,1,0.11,10869.82,11.61,10.87,8611,69.68,-11.61,801.31,-11.61
 GM0638,2021-08-02,Hollands Midden,Zoeterwoude,11.61,1,0,0.0,937,1,0.11,10881.43,11.61,10.88,8611,81.29,0.0,812.92,0.0
 GM0638,2021-08-01,Hollands Midden,Zoeterwoude,0.0,0,0,0.0,936,1,0.11,10869.82,11.61,10.87,8611,81.29,0.0,812.92,-11.61
 GM0638,2021-07-31,Hollands Midden,Zoeterwoude,0.0,0,0,0.0,936,1,0.11,10869.82,11.61,10.87,8611,81.29,-46.45,824.53,0.0

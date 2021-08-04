@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM1621,2021-08-04,Rotterdam-Rijnmond,Lansingerland,11.22,7,0,0.0,7314,64,0.88,11721.91,102.57,11.72,62396,113.8,0.0,1030.52,-17.63
+GM1621,2021-08-03,Rotterdam-Rijnmond,Lansingerland,9.62,6,0,0.0,7307,64,0.88,11710.69,102.57,11.71,62396,113.8,-16.02,1048.15,3.21
 GM1621,2021-08-02,Rotterdam-Rijnmond,Lansingerland,9.62,6,0,0.0,7301,64,0.88,11701.07,102.57,11.7,62396,129.82,-14.42,1044.94,1.61
 GM1621,2021-08-01,Rotterdam-Rijnmond,Lansingerland,12.82,8,0,0.0,7295,64,0.88,11691.45,102.57,11.69,62396,144.24,4.81,1043.33,4.81
 GM1621,2021-07-31,Rotterdam-Rijnmond,Lansingerland,16.03,10,0,0.0,7287,64,0.88,11678.63,102.57,11.68,62396,139.43,-3.2,1038.52,9.62

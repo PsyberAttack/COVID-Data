@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0293,2021-08-04,Gelderland-Midden,Westervoort,140.25,21,0,0.0,1354,9,0.66,9042.94,60.11,9.04,14973,360.64,106.86,1121.99,126.89
+GM0293,2021-08-03,Gelderland-Midden,Westervoort,6.68,1,0,0.0,1333,9,0.68,8902.69,60.11,8.9,14973,253.78,-26.71,995.1,-6.68
 GM0293,2021-08-02,Gelderland-Midden,Westervoort,40.07,6,0,0.0,1332,9,0.68,8896.01,60.11,8.9,14973,280.49,0.0,1001.78,26.71
 GM0293,2021-08-01,Gelderland-Midden,Westervoort,26.71,4,0,0.0,1326,9,0.68,8855.94,60.11,8.86,14973,280.49,-13.36,975.07,13.35
 GM0293,2021-07-31,Gelderland-Midden,Westervoort,13.36,2,0,0.0,1322,9,0.68,8829.23,60.11,8.83,14973,293.85,-13.35,961.72,0.0

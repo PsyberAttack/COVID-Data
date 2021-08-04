@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0703,2021-08-04,Zeeland,Reimerswaal,4.4,1,0,0.0,3170,17,0.54,13947.55,74.8,13.95,22728,48.4,-17.6,418.0,4.4
+GM0703,2021-08-03,Zeeland,Reimerswaal,-4.4,-1,0,0.0,3169,17,0.54,13943.15,74.8,13.94,22728,66.0,-17.6,413.6,-8.8
 GM0703,2021-08-02,Zeeland,Reimerswaal,8.8,2,0,0.0,3170,17,0.54,13947.55,74.8,13.95,22728,83.6,-8.8,422.4,8.8
 GM0703,2021-08-01,Zeeland,Reimerswaal,0.0,0,0,0.0,3168,17,0.54,13938.75,74.8,13.94,22728,92.4,-8.8,413.6,0.0
 GM0703,2021-07-31,Zeeland,Reimerswaal,8.8,2,0,0.0,3168,17,0.54,13938.75,74.8,13.94,22728,101.2,-8.8,413.6,0.0
