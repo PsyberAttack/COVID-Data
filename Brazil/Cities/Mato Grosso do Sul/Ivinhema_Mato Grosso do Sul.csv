@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-08-02,Mato Grosso do Sul,Ivinhema,12.94,3,0,0.0,4850,67,1.38,20916.89,288.96,20.92,23187,86.26,30.19,1026.43,4.31
+2021-08-01,Mato Grosso do Sul,Ivinhema,0.0,0,0,0.0,4847,67,1.38,20903.95,288.96,20.9,23187,56.07,-30.19,1022.12,-38.81
+2021-07-31,Mato Grosso do Sul,Ivinhema,0.0,0,1,4.31,4847,67,1.38,20903.95,288.96,20.9,23187,86.26,-34.5,1060.93,-94.88
+2021-07-30,Mato Grosso do Sul,Ivinhema,-4.31,-1,0,0.0,4847,66,1.36,20903.95,284.64,20.9,23187,120.76,-56.06,1155.81,-189.76
 2021-07-29,Mato Grosso do Sul,Ivinhema,4.31,1,0,0.0,4848,66,1.36,20908.27,284.64,20.91,23187,176.82,-60.38,1345.57,-116.45
 2021-07-28,Mato Grosso do Sul,Ivinhema,17.25,4,0,0.0,4847,66,1.36,20903.95,284.64,20.9,23187,237.2,12.94,1462.02,-81.94
 2021-07-27,Mato Grosso do Sul,Ivinhema,56.07,13,0,0.0,4843,66,1.36,20886.7,284.64,20.89,23187,224.26,38.82,1543.96,51.76

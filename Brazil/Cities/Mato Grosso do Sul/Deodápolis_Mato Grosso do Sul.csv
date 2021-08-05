@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-08-02,Mato Grosso do Sul,Deodápolis,7.74,1,0,0.0,1941,36,1.85,15018.57,278.55,15.02,12924,30.96,7.74,479.77,0.0
+2021-08-01,Mato Grosso do Sul,Deodápolis,0.0,0,0,0.0,1940,36,1.86,15010.83,278.55,15.01,12924,23.22,-7.74,479.77,-77.38
+2021-07-31,Mato Grosso do Sul,Deodápolis,7.74,1,0,0.0,1940,36,1.86,15010.83,278.55,15.01,12924,30.96,0.0,557.15,-7.74
+2021-07-30,Mato Grosso do Sul,Deodápolis,7.74,1,0,0.0,1939,36,1.86,15003.1,278.55,15.0,12924,30.96,7.74,564.89,-23.21
 2021-07-29,Mato Grosso do Sul,Deodápolis,-7.74,-1,0,0.0,1938,36,1.86,14995.36,278.55,15.0,12924,23.22,-69.64,588.1,-23.22
 2021-07-28,Mato Grosso do Sul,Deodápolis,7.74,1,0,0.0,1939,36,1.86,15003.1,278.55,15.0,12924,92.86,0.0,611.32,-30.95
 2021-07-27,Mato Grosso do Sul,Deodápolis,7.74,1,1,7.74,1938,36,1.86,14995.36,278.55,15.0,12924,92.86,0.0,642.27,7.74
