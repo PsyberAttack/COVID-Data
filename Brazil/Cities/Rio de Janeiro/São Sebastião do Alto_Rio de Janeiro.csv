@@ -1,4 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-08-03,Rio de Janeiro,São Sebastião do Alto,0.0,0,0,0.0,565,23,4.07,6038.26,245.81,6.04,9357,406.12,0.0,459.56,0.0
+2021-08-02,Rio de Janeiro,São Sebastião do Alto,10.69,1,0,0.0,565,23,4.07,6038.26,245.81,6.04,9357,406.12,10.69,459.56,10.69
+2021-08-01,Rio de Janeiro,São Sebastião do Alto,0.0,0,0,0.0,564,23,4.08,6027.57,245.81,6.03,9357,395.43,0.0,448.87,-10.69
+2021-07-31,Rio de Janeiro,São Sebastião do Alto,74.81,7,0,0.0,564,23,4.08,6027.57,245.81,6.03,9357,395.43,74.81,459.56,64.12
+2021-07-30,Rio de Janeiro,São Sebastião do Alto,74.81,7,0,0.0,557,23,4.13,5952.76,245.81,5.95,9357,320.62,74.81,395.44,74.81
 2021-07-29,Rio de Janeiro,São Sebastião do Alto,0.0,0,0,0.0,550,23,4.18,5877.95,245.81,5.88,9357,245.81,-10.69,320.63,0.0
 2021-07-28,Rio de Janeiro,São Sebastião do Alto,245.81,23,0,0.0,550,23,4.18,5877.95,245.81,5.88,9357,256.5,245.81,320.63,245.81
 2021-07-27,Rio de Janeiro,São Sebastião do Alto,0.0,0,0,0.0,527,23,4.36,5632.15,245.81,5.63,9357,10.69,0.0,74.82,-21.37
