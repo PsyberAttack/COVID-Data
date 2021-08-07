@@ -1,4 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-08-06 00:00:00+00:00,Bayern,Main-Spessart,1.58,2,0,0.0,4802,215,4.48,3800.1,170.14,3.8,126365,9.49,0.79,29.24,0.79
+2021-08-05 00:00:00+00:00,Bayern,Main-Spessart,0.0,0,0,0.0,4800,215,4.48,3798.52,170.14,3.8,126365,8.7,-0.79,28.45,-0.79
 2021-08-04 00:00:00+00:00,Bayern,Main-Spessart,0.79,1,0,0.0,4800,215,4.48,3798.52,170.14,3.8,126365,9.49,-0.79,29.24,0.0
 2021-08-03 00:00:00+00:00,Bayern,Main-Spessart,1.58,2,0,0.0,4799,215,4.48,3797.73,170.14,3.8,126365,10.28,0.79,29.24,0.0
 2021-08-02 00:00:00+00:00,Bayern,Main-Spessart,3.96,5,0,0.0,4797,215,4.48,3796.15,170.14,3.8,126365,9.49,1.59,29.24,3.96

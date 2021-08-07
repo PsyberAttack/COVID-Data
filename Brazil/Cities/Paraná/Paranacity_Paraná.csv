@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-08-06,Paraná,Paranacity,26.15,3,0,0.0,910,21,2.31,7932.36,183.05,7.93,11472,26.15,17.43,331.23,26.15
+2021-08-05,Paraná,Paranacity,-34.87,-4,1,8.72,907,21,2.32,7906.21,183.05,7.91,11472,8.72,-52.3,305.08,-34.87
 2021-08-03,Paraná,Paranacity,26.15,3,0,0.0,911,20,2.2,7941.07,174.34,7.94,11472,61.02,26.15,339.95,0.0
 2021-08-02,Paraná,Paranacity,0.0,0,0,0.0,908,20,2.2,7914.92,174.34,7.91,11472,34.87,-26.15,339.95,-17.43
 2021-08-01,Paraná,Paranacity,0.0,0,0,0.0,908,20,2.2,7914.92,174.34,7.91,11472,61.02,0.0,357.38,-26.15

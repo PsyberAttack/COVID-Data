@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-08-06,Paraná,Santa Terezinha de Itaipu,21.31,5,0,0.0,3238,99,3.06,13799.28,421.9,13.8,23465,63.93,8.53,984.42,12.79
+2021-08-05,Paraná,Santa Terezinha de Itaipu,-21.31,-5,0,0.0,3233,99,3.06,13777.97,421.9,13.78,23465,55.4,-110.8,971.63,-34.09
 2021-08-03,Paraná,Santa Terezinha de Itaipu,0.0,0,1,4.26,3238,99,3.06,13799.28,421.9,13.8,23465,166.2,-132.11,1005.72,-4.26
 2021-08-02,Paraná,Santa Terezinha de Itaipu,17.05,4,0,0.0,3238,98,3.03,13799.28,417.64,13.8,23465,298.31,17.05,1009.98,0.0
 2021-08-01,Paraná,Santa Terezinha de Itaipu,21.31,5,0,0.0,3234,98,3.03,13782.23,417.64,13.78,23465,281.26,17.05,1009.98,17.05
