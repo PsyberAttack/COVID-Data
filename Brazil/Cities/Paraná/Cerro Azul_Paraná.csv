@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-08-08,Paraná,Cerro Azul,0.0,0,0,0.0,1440,49,3.4,8099.44,275.61,8.1,17779,-16.88,0.0,292.46,0.0
+2021-08-07,Paraná,Cerro Azul,0.0,0,1,5.62,1440,49,3.4,8099.44,275.61,8.1,17779,-16.88,-39.37,292.46,0.0
 2021-08-06,Paraná,Cerro Azul,5.62,1,0,0.0,1440,48,3.33,8099.44,269.98,8.1,17779,22.49,5.62,292.46,-5.63
 2021-08-05,Paraná,Cerro Azul,-73.12,-13,0,0.0,1439,48,3.34,8093.82,269.98,8.09,17779,16.87,-118.12,298.09,-73.12
 2021-08-03,Paraná,Cerro Azul,33.75,6,0,0.0,1452,48,3.31,8166.94,269.98,8.17,17779,134.99,16.88,371.21,22.5

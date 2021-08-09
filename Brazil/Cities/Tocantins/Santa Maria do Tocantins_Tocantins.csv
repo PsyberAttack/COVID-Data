@@ -1,4 +1,10 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-08-06,Tocantins,Santa Maria do Tocantins,0.0,0,0,0.0,419,3,0.72,12201.51,87.36,12.2,3434,669.77,0.0,1019.21,0.0
+2021-08-05,Tocantins,Santa Maria do Tocantins,669.77,23,0,0.0,419,3,0.72,12201.51,87.36,12.2,3434,669.77,669.77,1019.21,669.77
+2021-08-03,Tocantins,Santa Maria do Tocantins,0.0,0,0,0.0,396,3,0.76,11531.74,87.36,11.53,3434,0.0,0.0,349.44,-378.57
+2021-08-02,Tocantins,Santa Maria do Tocantins,0.0,0,0,0.0,396,3,0.76,11531.74,87.36,11.53,3434,0.0,0.0,728.01,58.24
+2021-08-01,Tocantins,Santa Maria do Tocantins,29.12,1,1,29.12,396,3,0.76,11531.74,87.36,11.53,3434,0.0,29.12,669.77,29.12
+2021-07-30,Tocantins,Santa Maria do Tocantins,-29.12,-1,0,0.0,395,2,0.51,11502.62,58.24,11.5,3434,-29.12,-29.12,640.65,-29.12
 2021-07-28,Tocantins,Santa Maria do Tocantins,0.0,0,0,0.0,396,2,0.51,11531.74,58.24,11.53,3434,0.0,-145.6,669.77,0.0
 2021-07-25,Tocantins,Santa Maria do Tocantins,0.0,0,0,0.0,396,2,0.51,11531.74,58.24,11.53,3434,145.6,0.0,669.77,-407.69
 2021-07-24,Tocantins,Santa Maria do Tocantins,0.0,0,0,0.0,396,2,0.51,11531.74,58.24,11.53,3434,145.6,0.0,1077.46,-349.45
