@@ -1,8 +1,9 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-08-09 00:00:00+00:00,Nordrhein-Westfalen,Hochsauerlandkreis,0.38,1,0,0.0,10072,201,2.0,3877.17,77.37,3.88,259777,11.92,-2.7,80.79,-0.39
-2021-08-08 00:00:00+00:00,Nordrhein-Westfalen,Hochsauerlandkreis,0.0,0,0,0.0,10071,201,2.0,3876.79,77.37,3.88,259777,14.62,-3.08,81.18,-1.15
-2021-08-07 00:00:00+00:00,Nordrhein-Westfalen,Hochsauerlandkreis,0.0,0,0,0.0,10071,201,2.0,3876.79,77.37,3.88,259777,17.7,-3.08,82.33,-0.38
-2021-08-06 00:00:00+00:00,Nordrhein-Westfalen,Hochsauerlandkreis,0.38,1,0,0.0,10071,201,2.0,3876.79,77.37,3.88,259777,20.78,-4.62,82.71,-1.54
+2021-08-10 00:00:00+00:00,Nordrhein-Westfalen,Hochsauerlandkreis,1.15,3,0,0.0,10085,201,1.99,3882.18,77.37,3.88,259777,11.15,-4.62,85.79,1.15
+2021-08-09 00:00:00+00:00,Nordrhein-Westfalen,Hochsauerlandkreis,1.15,3,0,0.0,10082,201,1.99,3881.02,77.37,3.88,259777,15.77,-1.93,84.64,0.38
+2021-08-08 00:00:00+00:00,Nordrhein-Westfalen,Hochsauerlandkreis,0.0,0,0,0.0,10079,201,1.99,3879.87,77.37,3.88,259777,17.7,-3.08,84.26,-1.15
+2021-08-07 00:00:00+00:00,Nordrhein-Westfalen,Hochsauerlandkreis,0.38,1,0,0.0,10079,201,1.99,3879.87,77.37,3.88,259777,20.78,-2.7,85.41,0.0
+2021-08-06 00:00:00+00:00,Nordrhein-Westfalen,Hochsauerlandkreis,3.08,8,0,0.0,10078,201,1.99,3879.48,77.37,3.88,259777,23.48,-1.92,85.41,1.16
 2021-08-05 00:00:00+00:00,Nordrhein-Westfalen,Hochsauerlandkreis,2.31,6,0,0.0,10070,201,2.0,3876.4,77.37,3.88,259777,25.4,-3.08,84.25,1.54
 2021-08-04 00:00:00+00:00,Nordrhein-Westfalen,Hochsauerlandkreis,3.08,8,0,0.0,10064,201,2.0,3874.09,77.37,3.87,259777,28.48,-3.08,82.71,2.31
 2021-08-03 00:00:00+00:00,Nordrhein-Westfalen,Hochsauerlandkreis,5.77,15,0,0.0,10056,201,2.0,3871.01,77.37,3.87,259777,31.56,-1.54,80.4,5.39
