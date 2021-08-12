@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-08-07,Rio Grande do Sul,Jaguari,55.31,6,0,0.0,963,34,3.53,8877.21,313.42,8.88,10848,147.49,46.09,626.84,18.44
+2021-08-09,Rio Grande do Sul,Jaguari,0.0,0,0,0.0,963,34,3.53,8877.21,313.42,8.88,10848,119.84,0.0,571.53,-9.22
+2021-08-07,Rio Grande do Sul,Jaguari,46.09,5,0,0.0,963,34,3.53,8877.21,313.42,8.88,10848,119.84,18.44,580.75,0.0
+2021-08-06,Rio Grande do Sul,Jaguari,9.22,1,0,0.0,958,34,3.55,8831.12,313.42,8.83,10848,101.4,0.0,580.75,-27.65
 2021-08-05,Rio Grande do Sul,Jaguari,18.44,2,0,0.0,957,34,3.55,8821.9,313.42,8.82,10848,101.4,-36.87,608.4,-27.65
 2021-08-04,Rio Grande do Sul,Jaguari,36.87,4,0,0.0,955,34,3.56,8803.47,313.42,8.8,10848,138.27,27.65,636.05,-64.53
 2021-08-03,Rio Grande do Sul,Jaguari,9.22,1,0,0.0,951,34,3.58,8766.59,313.42,8.77,10848,110.62,-9.22,700.58,9.22

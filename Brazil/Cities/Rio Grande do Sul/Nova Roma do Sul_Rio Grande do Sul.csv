@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-08-07,Rio Grande do Sul,Nova Roma do Sul,0.0,0,0,0.0,407,5,1.23,11032.8,135.54,11.03,3689,27.11,-27.11,1138.54,0.0
+2021-08-09,Rio Grande do Sul,Nova Roma do Sul,54.22,2,0,0.0,409,5,1.22,11087.02,135.54,11.09,3689,81.33,54.22,1003.0,27.11
+2021-08-07,Rio Grande do Sul,Nova Roma do Sul,27.11,1,0,0.0,407,5,1.23,11032.8,135.54,11.03,3689,27.11,27.11,975.89,-135.54
+2021-08-06,Rio Grande do Sul,Nova Roma do Sul,-27.11,-1,0,0.0,406,5,1.23,11005.69,135.54,11.01,3689,0.0,-54.22,1111.43,-27.11
 2021-08-05,Rio Grande do Sul,Nova Roma do Sul,54.22,2,0,0.0,407,5,1.23,11032.8,135.54,11.03,3689,54.22,0.0,1138.54,54.22
 2021-08-04,Rio Grande do Sul,Nova Roma do Sul,0.0,0,0,0.0,405,5,1.23,10978.58,135.54,10.98,3689,54.22,0.0,1084.32,0.0
 2021-08-03,Rio Grande do Sul,Nova Roma do Sul,-27.11,-1,0,0.0,405,5,1.23,10978.58,135.54,10.98,3689,54.22,-27.11,1084.32,-81.33

@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-08-07,Rio Grande do Sul,Vale Real,33.82,2,0,0.0,721,12,1.66,12193.47,202.94,12.19,5913,67.64,0.0,744.1,0.0
+2021-08-09,Rio Grande do Sul,Vale Real,0.0,0,0,0.0,721,12,1.66,12193.47,202.94,12.19,5913,67.64,0.0,693.37,-16.91
+2021-08-07,Rio Grande do Sul,Vale Real,16.91,1,0,0.0,721,12,1.66,12193.47,202.94,12.19,5913,67.64,16.91,710.28,-16.91
+2021-08-06,Rio Grande do Sul,Vale Real,16.91,1,0,0.0,720,12,1.67,12176.56,202.94,12.18,5913,50.73,-16.91,727.19,-16.91
 2021-08-05,Rio Grande do Sul,Vale Real,16.91,1,0,0.0,719,12,1.67,12159.65,202.94,12.16,5913,67.64,-16.91,744.1,-84.56
 2021-08-04,Rio Grande do Sul,Vale Real,-16.91,-1,0,0.0,718,12,1.67,12142.74,202.94,12.14,5913,84.55,-16.91,828.66,-118.38
 2021-08-03,Rio Grande do Sul,Vale Real,33.82,2,0,0.0,719,12,1.67,12159.65,202.94,12.16,5913,101.46,33.82,947.04,33.82

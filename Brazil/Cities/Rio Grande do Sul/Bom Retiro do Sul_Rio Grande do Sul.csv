@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-08-07,Rio Grande do Sul,Bom Retiro do Sul,16.22,2,0,0.0,1056,33,3.12,8565.87,267.68,8.57,12328,24.33,24.33,121.65,-24.34
+2021-08-09,Rio Grande do Sul,Bom Retiro do Sul,0.0,0,0,0.0,1056,33,3.12,8565.87,267.68,8.57,12328,24.33,0.0,105.43,0.0
+2021-08-07,Rio Grande do Sul,Bom Retiro do Sul,16.22,2,0,0.0,1056,33,3.12,8565.87,267.68,8.57,12328,24.33,16.22,105.43,0.0
+2021-08-06,Rio Grande do Sul,Bom Retiro do Sul,0.0,0,0,0.0,1054,33,3.13,8549.64,267.68,8.55,12328,8.11,8.11,105.43,-40.56
 2021-08-05,Rio Grande do Sul,Bom Retiro do Sul,8.11,1,0,0.0,1054,33,3.13,8549.64,267.68,8.55,12328,-0.0,0.0,145.99,0.0
 2021-08-04,Rio Grande do Sul,Bom Retiro do Sul,0.0,0,0,0.0,1053,33,3.13,8541.53,267.68,8.54,12328,-0.0,-8.11,145.99,-24.33
 2021-08-03,Rio Grande do Sul,Bom Retiro do Sul,0.0,0,1,8.11,1053,33,3.13,8541.53,267.68,8.54,12328,8.11,-16.22,170.32,-8.11
