@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-08-15,Paraná,Goioxim,0.0,0,0,0.0,416,5,1.2,5850.09,70.31,5.85,7111,98.43,-28.13,126.55,0.0
+2021-08-14,Paraná,Goioxim,0.0,0,1,14.06,416,5,1.2,5850.09,70.31,5.85,7111,126.56,0.0,126.55,0.0
 2021-08-12,Paraná,Goioxim,14.06,1,0,0.0,416,4,0.96,5850.09,56.25,5.85,7111,126.56,98.44,126.55,14.06
 2021-08-11,Paraná,Goioxim,70.31,5,0,0.0,415,4,0.96,5836.03,56.25,5.84,7111,28.12,70.31,112.49,28.12
 2021-08-10,Paraná,Goioxim,14.06,1,0,0.0,410,4,0.98,5765.72,56.25,5.77,7111,-42.19,0.0,84.37,14.06
