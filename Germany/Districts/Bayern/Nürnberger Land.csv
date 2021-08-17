@@ -1,4 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-08-16 00:00:00+00:00,Bayern,Nürnberger Land,0.59,1,0,0.0,7517,189,2.51,4412.29,110.94,4.41,170365,7.63,-1.17,27.59,0.59
+2021-08-15 00:00:00+00:00,Bayern,Nürnberger Land,0.0,0,0,0.0,7516,189,2.51,4411.7,110.94,4.41,170365,8.8,-0.59,27.0,-1.76
 2021-08-14 00:00:00+00:00,Bayern,Nürnberger Land,1.17,2,0,0.0,7516,189,2.51,4411.7,110.94,4.41,170365,9.39,-0.59,28.76,1.17
 2021-08-13 00:00:00+00:00,Bayern,Nürnberger Land,2.35,4,0,0.0,7514,189,2.52,4410.53,110.94,4.41,170365,9.98,2.35,27.59,0.0
 2021-08-12 00:00:00+00:00,Bayern,Nürnberger Land,0.0,0,0,0.0,7510,189,2.52,4408.18,110.94,4.41,170365,7.63,-1.76,27.59,0.0
