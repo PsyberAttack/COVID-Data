@@ -1,15 +1,16 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-08-16 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,0.35,1,0,0.0,11701,180,1.54,4130.67,63.54,4.13,283271,46.93,-9.89,120.0,-2.83
-2021-08-15 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,0.35,1,0,0.0,11700,180,1.54,4130.32,63.54,4.13,283271,56.82,-3.53,122.83,-0.71
-2021-08-14 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,2.82,8,0,0.0,11699,180,1.54,4129.97,63.54,4.13,283271,60.35,1.76,123.54,2.11
-2021-08-13 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,13.41,38,0,0.0,11691,180,1.54,4127.14,63.54,4.13,283271,58.59,4.23,121.43,9.88
-2021-08-12 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,12.71,36,0,0.0,11653,180,1.54,4113.73,63.54,4.11,283271,54.36,6.36,111.55,10.24
-2021-08-11 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,9.88,28,0,0.0,11617,180,1.55,4101.02,63.54,4.1,283271,48.0,2.82,101.31,8.82
-2021-08-10 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,7.41,21,0,0.0,11589,180,1.55,4091.14,63.54,4.09,283271,45.18,3.53,92.49,4.94
-2021-08-09 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,10.24,29,0,0.0,11568,180,1.56,4083.72,63.54,4.08,283271,41.65,6.71,87.55,7.42
-2021-08-08 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,3.88,11,0,0.0,11539,180,1.56,4073.48,63.54,4.07,283271,34.94,2.82,80.13,3.88
-2021-08-07 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.06,3,0,0.0,11528,180,1.56,4069.6,63.54,4.07,283271,32.12,0.71,76.25,0.0
-2021-08-06 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,9.18,26,0,0.0,11525,180,1.56,4068.54,63.54,4.07,283271,31.41,6.36,76.25,7.41
+2021-08-17 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,0.35,1,0,0.0,11747,180,1.53,4146.91,63.54,4.15,283271,55.05,-7.06,134.47,-1.42
+2021-08-16 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,13.41,38,0,0.0,11746,180,1.53,4146.56,63.54,4.15,283271,62.11,3.17,135.89,10.23
+2021-08-15 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.41,4,0,0.0,11708,180,1.54,4133.14,63.54,4.13,283271,58.94,-2.83,125.66,0.35
+2021-08-14 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,2.82,8,0,0.0,11704,180,1.54,4131.73,63.54,4.13,283271,61.77,1.76,125.31,2.11
+2021-08-13 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,13.77,39,0,0.0,11696,180,1.54,4128.91,63.54,4.13,283271,60.01,4.24,123.2,10.24
+2021-08-12 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,13.41,38,0,0.0,11657,180,1.54,4115.14,63.54,4.12,283271,55.77,7.06,112.96,10.94
+2021-08-11 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,9.88,28,0,0.0,11619,180,1.55,4101.73,63.54,4.1,283271,48.71,2.82,102.02,8.82
+2021-08-10 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,7.41,21,0,0.0,11591,180,1.55,4091.84,63.54,4.09,283271,45.89,3.53,93.2,4.94
+2021-08-09 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,10.24,29,0,0.0,11570,180,1.56,4084.43,63.54,4.08,283271,42.36,6.71,88.26,7.42
+2021-08-08 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,4.24,12,0,0.0,11541,180,1.56,4074.19,63.54,4.07,283271,35.65,3.18,80.84,4.24
+2021-08-07 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,1.06,3,0,0.0,11529,180,1.56,4069.95,63.54,4.07,283271,32.47,0.71,76.6,0.0
+2021-08-06 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,9.53,27,0,0.0,11526,180,1.56,4068.9,63.54,4.07,283271,31.76,6.71,76.6,7.76
 2021-08-05 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,6.35,18,0,0.0,11499,180,1.57,4059.36,63.54,4.06,283271,25.05,4.94,68.84,5.29
 2021-08-04 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,7.06,20,0,0.0,11481,180,1.57,4053.01,63.54,4.05,283271,20.11,4.24,63.55,5.29
 2021-08-03 00:00:00+00:00,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,3.88,11,0,0.0,11461,180,1.57,4045.95,63.54,4.05,283271,15.87,1.41,58.26,2.82
