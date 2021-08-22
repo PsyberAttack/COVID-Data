@@ -1,5 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-08-20,São Paulo,Santo Antônio da Alegria,28.86,2,0,0.0,852,18,2.11,12296.15,259.78,12.3,6929,288.62,0.0,822.59,14.43
+2021-08-20,São Paulo,Santo Antônio da Alegria,0.0,0,0,0.0,852,18,2.11,12296.15,259.78,12.3,6929,216.47,-14.43,779.3,-14.43
+2021-08-19,São Paulo,Santo Antônio da Alegria,28.86,2,0,0.0,852,18,2.11,12296.15,259.78,12.3,6929,230.9,0.0,793.73,28.86
+2021-08-18,São Paulo,Santo Antônio da Alegria,0.0,0,0,0.0,850,18,2.12,12267.28,259.78,12.27,6929,230.9,-28.86,764.87,-28.86
+2021-08-17,São Paulo,Santo Antônio da Alegria,0.0,0,0,0.0,850,18,2.12,12267.28,259.78,12.27,6929,259.76,-28.86,793.73,-14.43
 2021-08-16,São Paulo,Santo Antônio da Alegria,0.0,0,0,0.0,850,18,2.12,12267.28,259.78,12.27,6929,288.62,0.0,808.16,0.0
 2021-08-15,São Paulo,Santo Antônio da Alegria,101.02,7,0,0.0,850,18,2.12,12267.28,259.78,12.27,6929,288.62,14.43,808.16,101.02
 2021-08-14,São Paulo,Santo Antônio da Alegria,86.59,6,0,0.0,843,18,2.14,12166.26,259.78,12.17,6929,274.19,28.86,707.14,86.59

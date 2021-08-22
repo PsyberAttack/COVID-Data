@@ -1,5 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-08-20,São Paulo,Cândido Rodrigues,107.41,3,0,0.0,141,7,4.96,5048.34,250.63,5.05,2793,143.21,107.41,250.62,107.41
+2021-08-20,São Paulo,Cândido Rodrigues,0.0,0,0,0.0,141,7,4.96,5048.34,250.63,5.05,2793,107.41,-35.8,250.62,0.0
+2021-08-19,São Paulo,Cândido Rodrigues,35.8,1,0,0.0,141,7,4.96,5048.34,250.63,5.05,2793,143.21,35.8,250.62,35.8
+2021-08-18,São Paulo,Cândido Rodrigues,0.0,0,0,0.0,140,7,5.0,5012.53,250.63,5.01,2793,107.41,0.0,214.82,0.0
+2021-08-17,São Paulo,Cândido Rodrigues,71.61,2,0,0.0,140,7,5.0,5012.53,250.63,5.01,2793,107.41,71.61,214.82,71.61
 2021-08-16,São Paulo,Cândido Rodrigues,0.0,0,0,0.0,138,7,5.07,4940.92,250.63,4.94,2793,35.8,0.0,143.21,0.0
 2021-08-15,São Paulo,Cândido Rodrigues,0.0,0,0,0.0,138,7,5.07,4940.92,250.63,4.94,2793,35.8,0.0,143.21,0.0
 2021-08-14,São Paulo,Cândido Rodrigues,0.0,0,0,0.0,138,7,5.07,4940.92,250.63,4.94,2793,35.8,0.0,143.21,0.0

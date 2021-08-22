@@ -1,5 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-08-20,São Paulo,Ribeirão Corrente,21.2,1,0,0.0,323,3,0.93,6846.12,63.59,6.85,4718,211.97,21.2,741.88,0.0
+2021-08-20,São Paulo,Ribeirão Corrente,0.0,0,0,0.0,323,3,0.93,6846.12,63.59,6.85,4718,127.18,-21.2,678.29,0.0
+2021-08-19,São Paulo,Ribeirão Corrente,0.0,0,0,0.0,323,3,0.93,6846.12,63.59,6.85,4718,148.38,-63.59,678.29,-42.39
+2021-08-18,São Paulo,Ribeirão Corrente,21.2,1,0,0.0,323,3,0.93,6846.12,63.59,6.85,4718,211.97,21.2,720.68,0.0
+2021-08-17,São Paulo,Ribeirão Corrente,0.0,0,0,0.0,322,3,0.93,6824.93,63.59,6.82,4718,190.77,0.0,720.68,-21.2
 2021-08-16,São Paulo,Ribeirão Corrente,0.0,0,0,0.0,322,3,0.93,6824.93,63.59,6.82,4718,190.77,-105.98,741.88,0.0
 2021-08-15,São Paulo,Ribeirão Corrente,42.39,2,0,0.0,322,3,0.93,6824.93,63.59,6.82,4718,296.75,42.39,741.88,42.39
 2021-08-14,São Paulo,Ribeirão Corrente,63.59,3,0,0.0,320,3,0.94,6782.53,63.59,6.78,4718,254.36,42.39,699.49,63.59

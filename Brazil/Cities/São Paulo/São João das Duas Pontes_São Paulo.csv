@@ -1,5 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-08-20,São Paulo,São João das Duas Pontes,38.94,1,0,0.0,211,7,3.32,8216.51,272.59,8.22,2568,77.88,-77.88,1051.39,-38.94
+2021-08-20,São Paulo,São João das Duas Pontes,0.0,0,0,0.0,211,7,3.32,8216.51,272.59,8.22,2568,38.94,-38.94,895.63,-38.94
+2021-08-19,São Paulo,São João das Duas Pontes,38.94,1,0,0.0,211,7,3.32,8216.51,272.59,8.22,2568,77.88,38.94,934.57,-77.88
+2021-08-18,São Paulo,São João das Duas Pontes,0.0,0,0,0.0,210,7,3.33,8177.57,272.59,8.18,2568,38.94,0.0,1012.45,0.0
+2021-08-17,São Paulo,São João das Duas Pontes,0.0,0,0,0.0,210,7,3.33,8177.57,272.59,8.18,2568,38.94,-116.82,1012.45,-77.88
 2021-08-16,São Paulo,São João das Duas Pontes,0.0,0,0,0.0,210,7,3.33,8177.57,272.59,8.18,2568,155.76,0.0,1090.33,0.0
 2021-08-15,São Paulo,São João das Duas Pontes,0.0,0,0,0.0,210,7,3.33,8177.57,272.59,8.18,2568,155.76,-272.59,1090.33,-77.88
 2021-08-14,São Paulo,São João das Duas Pontes,0.0,0,0,0.0,210,7,3.33,8177.57,272.59,8.18,2568,428.35,0.0,1168.21,-38.94
