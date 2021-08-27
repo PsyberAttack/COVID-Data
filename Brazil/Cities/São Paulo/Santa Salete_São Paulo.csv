@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-08-25,São Paulo,Santa Salete,64.72,1,0,0.0,207,7,3.38,13398.06,453.07,13.4,1545,64.72,64.72,1035.58,64.72
+2021-08-24,São Paulo,Santa Salete,64.72,1,1,64.72,206,7,3.4,13333.33,453.07,13.33,1545,0.0,64.72,970.86,64.72
 2021-08-23,São Paulo,Santa Salete,0.0,0,0,0.0,205,6,2.93,13268.61,388.35,13.27,1545,-64.72,-129.45,906.14,-129.45
 2021-08-20,São Paulo,Santa Salete,0.0,0,0,0.0,205,6,2.93,13268.61,388.35,13.27,1545,64.73,-64.72,1035.59,-129.45
 2021-08-19,São Paulo,Santa Salete,-64.72,-1,0,0.0,205,6,2.93,13268.61,388.35,13.27,1545,129.45,-64.72,1165.04,-194.17

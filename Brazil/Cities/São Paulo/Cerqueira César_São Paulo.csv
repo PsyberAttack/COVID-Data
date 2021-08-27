@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-08-25,São Paulo,Cerqueira César,0.0,0,0,0.0,2162,46,2.13,10818.11,230.17,10.82,19985,25.01,0.0,605.45,0.0
+2021-08-24,São Paulo,Cerqueira César,5.0,1,1,5.0,2162,46,2.13,10818.11,230.17,10.82,19985,25.01,5.0,605.45,0.0
 2021-08-23,São Paulo,Cerqueira César,0.0,0,0,0.0,2161,45,2.08,10813.11,225.17,10.81,19985,20.01,5.0,605.45,-70.05
 2021-08-20,São Paulo,Cerqueira César,10.01,2,0,0.0,2161,45,2.08,10813.11,225.17,10.81,19985,15.01,-5.0,675.5,-25.02
 2021-08-19,São Paulo,Cerqueira César,5.0,1,0,0.0,2159,45,2.08,10803.1,225.17,10.8,19985,20.01,5.0,700.52,-25.02
