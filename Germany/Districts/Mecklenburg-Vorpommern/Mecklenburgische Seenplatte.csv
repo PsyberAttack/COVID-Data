@@ -1,13 +1,14 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-08-24 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,2.7,7,0,0.0,8842,162,1.83,3412.19,62.52,3.41,259130,8.88,2.7,27.42,1.93
-2021-08-23 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,3.09,8,0,0.0,8835,162,1.83,3409.49,62.52,3.41,259130,6.18,2.32,25.49,2.7
-2021-08-22 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,1.16,3,0,0.0,8827,162,1.84,3406.4,62.52,3.41,259130,3.86,-1.54,22.79,0.77
-2021-08-21 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,0.39,1,0,0.0,8824,162,1.84,3405.24,62.52,3.41,259130,5.4,-0.77,22.02,-1.15
-2021-08-20 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,0.0,0,0,0.0,8823,162,1.84,3404.85,62.52,3.4,259130,6.17,0.0,23.17,-0.39
-2021-08-19 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,0.0,0,0,0.0,8823,162,1.84,3404.85,62.52,3.4,259130,6.17,-1.93,23.56,-1.16
-2021-08-18 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,1.54,4,0,0.0,8823,162,1.84,3404.85,62.52,3.4,259130,8.1,0.38,24.72,1.15
-2021-08-17 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,0.0,0,0,0.0,8819,162,1.84,3403.31,62.52,3.4,259130,7.72,-0.39,23.57,-0.39
-2021-08-16 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,0.77,2,0,0.0,8819,162,1.84,3403.31,62.52,3.4,259130,8.11,0.38,23.96,0.77
+2021-08-25 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,3.09,8,0,0.0,8850,162,1.83,3415.27,62.52,3.42,259130,10.43,1.93,29.36,1.93
+2021-08-24 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,2.7,7,0,0.0,8842,162,1.83,3412.19,62.52,3.41,259130,8.5,2.7,27.43,1.93
+2021-08-23 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,3.09,8,0,0.0,8835,162,1.83,3409.49,62.52,3.41,259130,5.8,1.93,25.5,2.7
+2021-08-22 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,1.16,3,0,0.0,8827,162,1.84,3406.4,62.52,3.41,259130,3.87,-1.54,22.8,0.77
+2021-08-21 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,0.39,1,0,0.0,8824,162,1.84,3405.24,62.52,3.41,259130,5.41,-0.77,22.03,-1.15
+2021-08-20 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,0.0,0,0,0.0,8823,162,1.84,3404.85,62.52,3.4,259130,6.18,0.0,23.18,-0.39
+2021-08-19 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,0.0,0,0,0.0,8823,162,1.84,3404.85,62.52,3.4,259130,6.18,-1.93,23.57,-1.16
+2021-08-18 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,1.16,3,0,0.0,8823,162,1.84,3404.85,62.52,3.4,259130,8.11,0.0,24.73,0.77
+2021-08-17 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,0.0,0,0,0.0,8820,162,1.84,3403.7,62.52,3.4,259130,8.11,-0.39,23.96,-0.39
+2021-08-16 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,1.16,3,0,0.0,8820,162,1.84,3403.7,62.52,3.4,259130,8.5,0.77,24.35,1.16
 2021-08-15 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,2.7,7,0,0.0,8817,162,1.84,3402.54,62.52,3.4,259130,7.73,0.77,23.19,2.7
 2021-08-14 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,1.16,3,0,0.0,8810,162,1.84,3399.84,62.52,3.4,259130,6.96,1.16,20.49,0.0
 2021-08-13 00:00:00+00:00,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,0.0,0,0,0.0,8807,162,1.84,3398.68,62.52,3.4,259130,5.8,0.0,20.49,-0.39

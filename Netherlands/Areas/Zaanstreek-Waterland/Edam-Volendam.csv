@@ -1,4 +1,10 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0385,2021-09-02,Zaanstreek-Waterland,Edam-Volendam,24.86,9,0,0.0,5654,23,0.41,15618.35,63.53,15.62,36201,102.2,0.0,522.06,0.0
+GM0385,2021-09-01,Zaanstreek-Waterland,Edam-Volendam,13.81,5,0,0.0,5645,23,0.41,15593.49,63.53,15.59,36201,102.2,-22.1,522.06,5.52
+GM0385,2021-08-31,Zaanstreek-Waterland,Edam-Volendam,13.81,5,0,0.0,5640,23,0.41,15579.68,63.53,15.58,36201,124.3,2.76,516.54,0.0
+GM0385,2021-08-30,Zaanstreek-Waterland,Edam-Volendam,5.52,2,0,0.0,5635,23,0.41,15565.87,63.53,15.57,36201,121.54,-22.1,516.54,5.52
+GM0385,2021-08-29,Zaanstreek-Waterland,Edam-Volendam,-2.76,-1,0,0.0,5633,23,0.41,15560.34,63.53,15.56,36201,143.64,-30.38,511.02,-2.76
+GM0385,2021-08-28,Zaanstreek-Waterland,Edam-Volendam,30.39,11,0,0.0,5634,23,0.41,15563.11,63.53,15.56,36201,174.02,-22.09,513.78,24.87
 GM0385,2021-08-27,Zaanstreek-Waterland,Edam-Volendam,16.57,6,0,0.0,5623,23,0.41,15532.72,63.53,15.53,36201,196.11,-24.87,488.91,2.76
 GM0385,2021-08-26,Zaanstreek-Waterland,Edam-Volendam,24.86,9,0,0.0,5617,23,0.41,15516.15,63.53,15.52,36201,220.98,-2.76,486.15,16.57
 GM0385,2021-08-25,Zaanstreek-Waterland,Edam-Volendam,35.91,13,0,0.0,5608,23,0.41,15491.28,63.53,15.49,36201,223.74,13.81,469.58,30.39

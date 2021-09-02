@@ -1,15 +1,20 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-08-27,Rio Grande do Sul,Dezesseis de Novembro,0.0,0,0,0.0,128,2,1.56,5274.0,82.41,5.27,2427,288.43,0.0,370.84,0.0
+2021-08-26,Rio Grande do Sul,Dezesseis de Novembro,0.0,0,0,0.0,128,2,1.56,5274.0,82.41,5.27,2427,288.43,0.0,370.84,0.0
+2021-08-25,Rio Grande do Sul,Dezesseis de Novembro,0.0,0,0,0.0,128,2,1.56,5274.0,82.41,5.27,2427,288.43,0.0,370.84,0.0
+2021-08-24,Rio Grande do Sul,Dezesseis de Novembro,206.02,5,0,0.0,128,2,1.56,5274.0,82.41,5.27,2427,288.43,206.02,370.84,206.02
 2021-08-23,Rio Grande do Sul,Dezesseis de Novembro,0.0,0,0,0.0,123,2,1.63,5067.99,82.41,5.07,2427,82.41,0.0,164.82,0.0
-2021-08-22,Rio Grande do Sul,Dezesseis de Novembro,82.41,2,0,0.0,123,2,1.63,5067.99,82.41,5.07,2427,82.41,82.41,164.82,-2142.56
-2021-08-20,Rio Grande do Sul,Dezesseis de Novembro,0.0,0,0,0.0,121,2,1.65,4985.58,82.41,4.99,2427,0.0,0.0,2307.38,-41.2
-2021-08-19,Rio Grande do Sul,Dezesseis de Novembro,0.0,0,0,0.0,121,2,1.65,4985.58,82.41,4.99,2427,0.0,0.0,2348.58,41.2
-2021-08-18,Rio Grande do Sul,Dezesseis de Novembro,0.0,0,0,0.0,121,2,1.65,4985.58,82.41,4.99,2427,0.0,0.0,2307.38,0.0
+2021-08-22,Rio Grande do Sul,Dezesseis de Novembro,82.41,2,0,0.0,123,2,1.63,5067.99,82.41,5.07,2427,82.41,82.41,164.82,82.41
+2021-08-20,Rio Grande do Sul,Dezesseis de Novembro,0.0,0,0,0.0,121,2,1.65,4985.58,82.41,4.99,2427,0.0,0.0,82.41,-2224.97
+2021-08-19,Rio Grande do Sul,Dezesseis de Novembro,0.0,0,0,0.0,121,2,1.65,4985.58,82.41,4.99,2427,0.0,0.0,2307.38,-41.2
+2021-08-18,Rio Grande do Sul,Dezesseis de Novembro,0.0,0,0,0.0,121,2,1.65,4985.58,82.41,4.99,2427,0.0,0.0,2348.58,41.2
 2021-08-17,Rio Grande do Sul,Dezesseis de Novembro,0.0,0,0,0.0,121,2,1.65,4985.58,82.41,4.99,2427,0.0,0.0,2307.38,0.0
 2021-08-16,Rio Grande do Sul,Dezesseis de Novembro,0.0,0,0,0.0,121,2,1.65,4985.58,82.41,4.99,2427,0.0,0.0,2307.38,0.0
 2021-08-15,Rio Grande do Sul,Dezesseis de Novembro,0.0,0,0,0.0,121,2,1.65,4985.58,82.41,4.99,2427,0.0,0.0,2307.38,0.0
-2021-08-14,Rio Grande do Sul,Dezesseis de Novembro,0.0,0,0,0.0,121,2,1.65,4985.58,82.41,4.99,2427,0.0,0.0,2307.38,-41.2
-2021-08-13,Rio Grande do Sul,Dezesseis de Novembro,0.0,0,0,0.0,121,2,1.65,4985.58,82.41,4.99,2427,0.0,0.0,2348.58,-164.81
-2021-08-12,Rio Grande do Sul,Dezesseis de Novembro,0.0,0,0,0.0,121,2,1.65,4985.58,82.41,4.99,2427,0.0,0.0,2513.39,0.0
+2021-08-14,Rio Grande do Sul,Dezesseis de Novembro,0.0,0,0,0.0,121,2,1.65,4985.58,82.41,4.99,2427,0.0,0.0,2307.38,0.0
+2021-08-13,Rio Grande do Sul,Dezesseis de Novembro,0.0,0,0,0.0,121,2,1.65,4985.58,82.41,4.99,2427,0.0,0.0,2307.38,-41.2
+2021-08-12,Rio Grande do Sul,Dezesseis de Novembro,0.0,0,0,0.0,121,2,1.65,4985.58,82.41,4.99,2427,0.0,0.0,2348.58,-164.81
+2021-08-11,Rio Grande do Sul,Dezesseis de Novembro,0.0,0,0,0.0,121,2,1.65,4985.58,82.41,4.99,2427,0.0,0.0,2513.39,0.0
 2021-08-10,Rio Grande do Sul,Dezesseis de Novembro,0.0,0,0,0.0,121,2,1.65,4985.58,82.41,4.99,2427,0.0,-82.41,2513.39,0.0
 2021-08-09,Rio Grande do Sul,Dezesseis de Novembro,0.0,0,0,0.0,121,2,1.65,4985.58,82.41,4.99,2427,82.41,0.0,2513.39,0.0
 2021-08-08,Rio Grande do Sul,Dezesseis de Novembro,0.0,0,0,0.0,121,2,1.65,4985.58,82.41,4.99,2427,82.41,0.0,2513.39,0.0
