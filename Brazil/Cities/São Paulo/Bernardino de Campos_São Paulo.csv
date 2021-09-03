@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-08-31,São Paulo,Bernardino de Campos,17.94,2,1,8.97,861,32,3.72,7723.36,287.05,7.72,11148,35.88,17.94,251.16,8.97
+2021-09-01,São Paulo,Bernardino de Campos,8.97,1,0,0.0,862,32,3.71,7732.33,287.05,7.73,11148,44.85,8.97,197.34,-35.88
+2021-08-31,São Paulo,Bernardino de Campos,8.97,1,0,0.0,861,32,3.72,7723.36,287.05,7.72,11148,35.88,8.97,233.22,-8.97
+2021-08-30,São Paulo,Bernardino de Campos,8.97,1,1,8.97,860,32,3.72,7714.39,287.05,7.71,11148,26.91,8.97,242.19,0.0
 2021-08-29,São Paulo,Bernardino de Campos,8.97,1,0,0.0,859,31,3.61,7705.42,278.08,7.71,11148,17.94,-26.91,242.19,8.97
 2021-08-27,São Paulo,Bernardino de Campos,0.0,0,0,0.0,858,31,3.61,7696.45,278.08,7.7,11148,44.85,0.0,233.22,-98.67
 2021-08-26,São Paulo,Bernardino de Campos,0.0,0,0,0.0,858,31,3.61,7696.45,278.08,7.7,11148,44.85,-8.97,331.89,-17.94

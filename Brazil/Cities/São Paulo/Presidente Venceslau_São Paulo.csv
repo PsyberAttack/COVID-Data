@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-08-31,São Paulo,Presidente Venceslau,22.78,9,1,2.53,3600,109,3.03,9110.23,275.84,9.11,39516,86.05,25.31,496.01,-93.63
+2021-09-01,São Paulo,Presidente Venceslau,0.0,0,0,0.0,3600,109,3.03,9110.23,275.84,9.11,39516,60.74,0.0,404.91,-70.86
+2021-08-31,São Paulo,Presidente Venceslau,22.78,9,1,2.53,3600,109,3.03,9110.23,275.84,9.11,39516,60.74,-2.53,475.77,2.54
+2021-08-30,São Paulo,Presidente Venceslau,0.0,0,0,0.0,3591,108,3.01,9087.46,273.31,9.09,39516,63.27,2.53,473.23,-116.41
 2021-08-29,São Paulo,Presidente Venceslau,0.0,0,0,0.0,3591,108,3.01,9087.46,273.31,9.09,39516,60.74,-7.59,589.64,-227.76
 2021-08-27,São Paulo,Presidente Venceslau,22.78,9,0,0.0,3591,108,3.01,9087.46,273.31,9.09,39516,68.33,20.25,817.4,-75.91
 2021-08-26,São Paulo,Presidente Venceslau,0.0,0,1,2.53,3582,108,3.02,9064.68,273.31,9.06,39516,48.08,-25.31,893.31,-10.12

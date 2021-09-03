@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-08-31,São Paulo,Patrocínio Paulista,13.63,2,0,0.0,1112,33,2.97,7580.1,224.95,7.58,14670,115.87,13.63,681.64,0.0
+2021-09-01,São Paulo,Patrocínio Paulista,20.45,3,0,0.0,1115,33,2.96,7600.55,224.95,7.6,14670,109.06,6.82,647.55,-27.27
+2021-08-31,São Paulo,Patrocínio Paulista,13.63,2,0,0.0,1112,33,2.97,7580.1,224.95,7.58,14670,102.24,0.0,674.82,6.81
+2021-08-30,São Paulo,Patrocínio Paulista,0.0,0,0,0.0,1110,33,2.97,7566.46,224.95,7.57,14670,102.24,0.0,668.01,-13.63
 2021-08-29,São Paulo,Patrocínio Paulista,61.35,9,0,0.0,1110,33,2.97,7566.46,224.95,7.57,14670,102.24,54.53,681.64,27.27
 2021-08-27,São Paulo,Patrocínio Paulista,0.0,0,0,0.0,1101,33,3.0,7505.11,224.95,7.51,14670,47.71,-13.63,654.37,-74.98
 2021-08-26,São Paulo,Patrocínio Paulista,13.63,2,0,0.0,1101,33,3.0,7505.11,224.95,7.51,14670,61.34,-47.72,729.35,-13.64

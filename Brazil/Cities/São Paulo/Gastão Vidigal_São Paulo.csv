@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-08-31,São Paulo,Gastão Vidigal,0.0,0,0,0.0,200,15,7.5,4159.73,311.98,4.16,4808,62.4,0.0,665.58,0.0
+2021-09-01,São Paulo,Gastão Vidigal,0.0,0,0,0.0,200,15,7.5,4159.73,311.98,4.16,4808,0.0,-62.4,644.78,0.0
+2021-08-31,São Paulo,Gastão Vidigal,0.0,0,0,0.0,200,15,7.5,4159.73,311.98,4.16,4808,62.4,0.0,644.78,-20.8
+2021-08-30,São Paulo,Gastão Vidigal,0.0,0,0,0.0,200,15,7.5,4159.73,311.98,4.16,4808,62.4,0.0,665.58,0.0
 2021-08-29,São Paulo,Gastão Vidigal,0.0,0,0,0.0,200,15,7.5,4159.73,311.98,4.16,4808,62.4,-20.8,665.58,0.0
 2021-08-27,São Paulo,Gastão Vidigal,0.0,0,0,0.0,200,15,7.5,4159.73,311.98,4.16,4808,83.2,-20.8,665.58,0.0
 2021-08-26,São Paulo,Gastão Vidigal,0.0,0,0,0.0,200,15,7.5,4159.73,311.98,4.16,4808,104.0,-62.4,665.58,0.0
