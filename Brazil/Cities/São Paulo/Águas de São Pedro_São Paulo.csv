@@ -1,4 +1,6 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-03,São Paulo,Águas de São Pedro,57.95,2,0,0.0,455,11,2.42,13184.58,318.75,13.18,3451,463.63,-28.98,1767.59,0.0
+2021-09-02,São Paulo,Águas de São Pedro,-28.98,-1,0,0.0,453,11,2.43,13126.63,318.75,13.13,3451,492.61,-115.91,1767.59,-347.73
 2021-09-01,São Paulo,Águas de São Pedro,0.0,0,0,0.0,454,11,2.42,13155.61,318.75,13.16,3451,608.52,0.0,2115.32,-347.73
 2021-08-31,São Paulo,Águas de São Pedro,144.89,5,1,28.98,454,11,2.42,13155.61,318.75,13.16,3451,608.52,86.94,2463.05,115.91
 2021-08-30,São Paulo,Águas de São Pedro,0.0,0,0,0.0,449,10,2.23,13010.72,289.77,13.01,3451,521.58,-86.93,2347.14,-115.91

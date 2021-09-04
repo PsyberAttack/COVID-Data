@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-03,California,Fresno,48.47,482,4,0.4,128463,1804.0,1.4,12918.64,181.42,12.92,994400,166.9,439.27,1.21,1263.69,16.29
 2021-09-02,California,Fresno,58.83,585,-1,-0.1,127981,1800.0,1.41,12870.17,181.01,12.87,994400,166.9,438.06,-1.41,1247.4,33.19
 2021-09-01,California,Fresno,129.53,1288,11,1.11,127396,1801.0,1.41,12811.34,181.11,12.81,994400,166.9,439.47,71.3,1214.21,103.28
 2021-08-31,California,Fresno,36.71,365,0,0.0,126108,1790.0,1.42,12681.82,180.01,12.68,994400,166.9,368.17,-2.31,1110.93,23.44
