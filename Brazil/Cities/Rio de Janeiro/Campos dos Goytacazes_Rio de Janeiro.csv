@@ -1,4 +1,13 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-02,Rio de Janeiro,Campos dos Goytacazes,1.58,8,8,1.58,32284,1771,5.49,6360.78,348.93,6.36,507548,10.45,-14.38,455.14,-13.0
+2021-09-01,Rio de Janeiro,Campos dos Goytacazes,0.2,1,1,0.2,32276,1763,5.46,6359.2,347.36,6.36,507548,24.83,-28.37,468.14,-33.1
+2021-08-31,Rio de Janeiro,Campos dos Goytacazes,2.76,14,14,2.76,32275,1762,5.46,6359.0,347.16,6.36,507548,53.2,-27.38,501.24,-26.2
+2021-08-30,Rio de Janeiro,Campos dos Goytacazes,0.0,0,0,0.0,32261,1748,5.42,6356.25,344.4,6.36,507548,80.58,-22.85,527.44,-13.59
+2021-08-29,Rio de Janeiro,Campos dos Goytacazes,0.79,4,4,0.79,32261,1748,5.42,6356.25,344.4,6.36,507548,103.43,-20.49,541.03,-0.39
+2021-08-28,Rio de Janeiro,Campos dos Goytacazes,2.56,13,13,2.56,32257,1744,5.41,6355.46,343.61,6.36,507548,123.92,2.36,541.42,-26.01
+2021-08-27,Rio de Janeiro,Campos dos Goytacazes,2.56,13,13,2.56,32244,1731,5.37,6352.9,341.05,6.35,507548,121.56,-19.9,567.43,-56.35
+2021-08-26,Rio de Janeiro,Campos dos Goytacazes,15.96,81,2,0.39,32231,1718,5.33,6350.34,338.49,6.35,507548,141.46,-15.76,623.78,14.78
+2021-08-25,Rio de Janeiro,Campos dos Goytacazes,28.57,145,0,0.0,32150,1716,5.34,6334.38,338.1,6.33,507548,157.22,3.35,609.0,-2.56
 2021-08-24,Rio de Janeiro,Campos dos Goytacazes,30.14,153,1,0.2,32005,1716,5.36,6305.81,338.1,6.31,507548,153.87,0.0,611.56,2.16
 2021-08-23,Rio de Janeiro,Campos dos Goytacazes,22.85,116,0,0.0,31852,1715,5.38,6275.66,337.9,6.28,507548,153.87,1.37,609.4,22.85
 2021-08-22,Rio de Janeiro,Campos dos Goytacazes,21.28,108,0,0.0,31736,1715,5.4,6252.81,337.9,6.25,507548,152.5,21.08,586.55,12.81
