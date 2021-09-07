@@ -1,14 +1,27 @@
 WeekEnding,Region,LTLA,Cases_100K,Weekly_Cases,Sequenced,%Sequenced,Lineage,New_Lineage,%Lineage,Total_Lineage,Population,ONS_Code
-2021-07-31,Yorkshire and The Humber,Craven,224.0,128,5,3.91,B.1.617.2,5,100.0,69,57142,E07000163
-2021-07-24,Yorkshire and The Humber,Craven,439.26,251,17,6.77,B.1.617.2,17,100.0,64,57142,E07000163
-2021-07-17,Yorkshire and The Humber,Craven,710.51,406,18,4.43,B.1.617.2,18,100.0,47,57142,E07000163
-2021-07-10,Yorkshire and The Humber,Craven,252.0,144,11,7.64,B.1.617.2,11,100.0,29,57142,E07000163
-2021-07-03,Yorkshire and The Humber,Craven,271.25,155,3,1.94,B.1.617.2,3,100.0,18,57142,E07000163
-2021-06-26,Yorkshire and The Humber,Craven,169.75,97,3,3.09,B.1.617.2,3,100.0,15,57142,E07000163
-2021-06-19,Yorkshire and The Humber,Craven,126.0,72,2,2.78,B.1.617.2,2,100.0,12,57142,E07000163
-2021-06-12,Yorkshire and The Humber,Craven,84.0,48,7,14.58,B.1.617.2,7,100.0,10,57142,E07000163
-2021-06-05,Yorkshire and The Humber,Craven,24.5,14,2,14.29,B.1.617.2,2,100.0,3,57142,E07000163
-2021-05-29,Yorkshire and The Humber,Craven,17.5,10,1,10.0,B.1.617.2,1,100.0,1,57142,E07000163
+2021-08-28,Yorkshire and The Humber,Craven,325.5,186,18,9.68,AY.4,16,88.89,108,57142,E07000163
+2021-08-28,Yorkshire and The Humber,Craven,325.5,186,18,9.68,B.1.617.2,2,11.11,16,57142,E07000163
+2021-08-21,Yorkshire and The Humber,Craven,318.5,182,21,11.54,AY.4,18,85.71,92,57142,E07000163
+2021-08-21,Yorkshire and The Humber,Craven,318.5,182,21,11.54,B.1.617.2,3,14.29,14,57142,E07000163
+2021-08-14,Yorkshire and The Humber,Craven,239.75,137,10,7.3,AY.4,8,80.0,74,57142,E07000163
+2021-08-14,Yorkshire and The Humber,Craven,239.75,137,10,7.3,AY.6,1,10.0,1,57142,E07000163
+2021-08-14,Yorkshire and The Humber,Craven,239.75,137,10,7.3,B.1.617.2,1,10.0,11,57142,E07000163
+2021-08-07,Yorkshire and The Humber,Craven,250.25,143,5,3.5,AY.4,4,80.0,66,57142,E07000163
+2021-08-07,Yorkshire and The Humber,Craven,250.25,143,5,3.5,B.1.617.2,1,20.0,10,57142,E07000163
+2021-07-31,Yorkshire and The Humber,Craven,224.0,128,8,6.25,AY.4,7,87.5,62,57142,E07000163
+2021-07-31,Yorkshire and The Humber,Craven,224.0,128,8,6.25,B.1.617.2,1,12.5,9,57142,E07000163
+2021-07-24,Yorkshire and The Humber,Craven,439.26,251,17,6.77,AY.4,14,82.35,55,57142,E07000163
+2021-07-24,Yorkshire and The Humber,Craven,439.26,251,17,6.77,B.1.617.2,3,17.65,8,57142,E07000163
+2021-07-17,Yorkshire and The Humber,Craven,710.51,406,18,4.43,AY.4,14,77.78,41,57142,E07000163
+2021-07-17,Yorkshire and The Humber,Craven,710.51,406,18,4.43,B.1.617.2,4,22.22,5,57142,E07000163
+2021-07-10,Yorkshire and The Humber,Craven,252.0,144,10,6.94,AY.4,9,90.0,27,57142,E07000163
+2021-07-10,Yorkshire and The Humber,Craven,252.0,144,10,6.94,B.1.617.2,1,10.0,1,57142,E07000163
+2021-07-03,Yorkshire and The Humber,Craven,271.25,155,3,1.94,AY.4,3,100.0,18,57142,E07000163
+2021-06-26,Yorkshire and The Humber,Craven,169.75,97,3,3.09,AY.4,3,100.0,15,57142,E07000163
+2021-06-19,Yorkshire and The Humber,Craven,126.0,72,2,2.78,AY.4,2,100.0,12,57142,E07000163
+2021-06-12,Yorkshire and The Humber,Craven,84.0,48,7,14.58,AY.4,7,100.0,10,57142,E07000163
+2021-06-05,Yorkshire and The Humber,Craven,24.5,14,2,14.29,AY.4,2,100.0,3,57142,E07000163
+2021-05-29,Yorkshire and The Humber,Craven,17.5,10,1,10.0,AY.4,1,100.0,1,57142,E07000163
 2021-05-08,Yorkshire and The Humber,Craven,12.25,7,1,14.29,B.1.1.7,1,100.0,89,57142,E07000163
 2021-05-01,Yorkshire and The Humber,Craven,17.5,10,2,20.0,B.1.1.7,2,100.0,88,57142,E07000163
 2021-04-24,Yorkshire and The Humber,Craven,40.25,23,6,26.09,B.1.1.7,6,100.0,86,57142,E07000163
@@ -21,35 +34,35 @@ WeekEnding,Region,LTLA,Cases_100K,Weekly_Cases,Sequenced,%Sequenced,Lineage,New_
 2021-03-06,Yorkshire and The Humber,Craven,45.5,26,6,23.08,B.1.1.7,6,100.0,34,57142,E07000163
 2021-02-27,Yorkshire and The Humber,Craven,29.75,17,2,11.76,B.1.1.7,2,100.0,28,57142,E07000163
 2021-02-20,Yorkshire and The Humber,Craven,68.25,39,4,10.26,B.1.1.7,4,100.0,26,57142,E07000163
-2021-02-06,Yorkshire and The Humber,Craven,99.75,57,1,1.75,Lineage data suppressed,1,100.0,3,57142,E07000163
+2021-02-06,Yorkshire and The Humber,Craven,99.75,57,1,1.75,Lineage data suppressed,1,100.0,6,57142,E07000163
 2021-01-30,Yorkshire and The Humber,Craven,152.25,87,4,4.6,B.1.1.7,3,75.0,22,57142,E07000163
-2021-01-30,Yorkshire and The Humber,Craven,152.25,87,4,4.6,B.1.36,1,25.0,1,57142,E07000163
+2021-01-30,Yorkshire and The Humber,Craven,152.25,87,4,4.6,B.1.36.31,1,25.0,1,57142,E07000163
 2021-01-23,Yorkshire and The Humber,Craven,218.75,125,8,6.4,B.1.1.7,8,100.0,19,57142,E07000163
 2021-01-16,Yorkshire and The Humber,Craven,339.51,194,7,3.61,B.1.1.7,7,100.0,11,57142,E07000163
 2021-01-09,Yorkshire and The Humber,Craven,430.51,246,1,0.41,B.1.1.7,1,100.0,4,57142,E07000163
 2021-01-02,Yorkshire and The Humber,Craven,442.76,253,3,1.19,B.1.1.7,2,66.67,3,57142,E07000163
 2021-01-02,Yorkshire and The Humber,Craven,442.76,253,3,1.19,B.1.177.10,1,33.33,1,57142,E07000163
-2020-12-12,Yorkshire and The Humber,Craven,115.5,66,5,7.58,B.1.177,4,80.0,17,57142,E07000163
+2020-12-12,Yorkshire and The Humber,Craven,115.5,66,5,7.58,B.1.177,4,80.0,10,57142,E07000163
 2020-12-12,Yorkshire and The Humber,Craven,115.5,66,5,7.58,B.1.1.7,1,20.0,1,57142,E07000163
-2020-11-21,Yorkshire and The Humber,Craven,192.5,110,5,4.55,B.1.177.4,3,60.0,10,57142,E07000163
-2020-11-21,Yorkshire and The Humber,Craven,192.5,110,5,4.55,B.1.1.1,1,20.0,3,57142,E07000163
-2020-11-21,Yorkshire and The Humber,Craven,192.5,110,5,4.55,B.1.177,1,20.0,13,57142,E07000163
-2020-11-14,Yorkshire and The Humber,Craven,292.25,167,7,4.19,B.1.177.4,4,57.14,7,57142,E07000163
-2020-11-14,Yorkshire and The Humber,Craven,292.25,167,7,4.19,B.1.177,2,28.57,12,57142,E07000163
-2020-11-14,Yorkshire and The Humber,Craven,292.25,167,7,4.19,B.1.235,1,14.29,2,57142,E07000163
-2020-11-07,Yorkshire and The Humber,Craven,197.75,113,2,1.77,B.1.235,1,50.0,1,57142,E07000163
-2020-11-07,Yorkshire and The Humber,Craven,197.75,113,2,1.77,B.1.362,1,50.0,1,57142,E07000163
-2020-10-31,Yorkshire and The Humber,Craven,192.5,110,3,2.73,B.1.177.4,1,33.33,3,57142,E07000163
-2020-10-31,Yorkshire and The Humber,Craven,192.5,110,3,2.73,B.1.1.307,1,33.33,1,57142,E07000163
-2020-10-31,Yorkshire and The Humber,Craven,192.5,110,3,2.73,B.1.177,1,33.33,10,57142,E07000163
+2020-11-21,Yorkshire and The Humber,Craven,192.5,110,5,4.55,B.1.177.4,3,60.0,9,57142,E07000163
+2020-11-21,Yorkshire and The Humber,Craven,192.5,110,5,4.55,B.1.177,1,20.0,6,57142,E07000163
+2020-11-21,Yorkshire and The Humber,Craven,192.5,110,5,4.55,B.1.1.1,1,20.0,1,57142,E07000163
+2020-11-14,Yorkshire and The Humber,Craven,292.25,167,7,4.19,B.1.177.4,4,57.14,6,57142,E07000163
+2020-11-14,Yorkshire and The Humber,Craven,292.25,167,7,4.19,B.1.177,2,28.57,5,57142,E07000163
+2020-11-14,Yorkshire and The Humber,Craven,292.25,167,7,4.19,B.1.235,1,14.29,1,57142,E07000163
+2020-11-07,Yorkshire and The Humber,Craven,197.75,113,2,1.77,B.1.362.2,1,50.0,1,57142,E07000163
+2020-11-07,Yorkshire and The Humber,Craven,197.75,113,2,1.77,B.1.610,1,50.0,1,57142,E07000163
+2020-10-31,Yorkshire and The Humber,Craven,192.5,110,2,1.82,B.1.177,1,50.0,3,57142,E07000163
+2020-10-31,Yorkshire and The Humber,Craven,192.5,110,2,1.82,B.1.1,1,50.0,1,57142,E07000163
 2020-10-24,Yorkshire and The Humber,Craven,175.0,100,4,4.0,B.1.177.4,2,50.0,2,57142,E07000163
-2020-10-24,Yorkshire and The Humber,Craven,175.0,100,4,4.0,B.1.1.1,1,25.0,2,57142,E07000163
-2020-10-24,Yorkshire and The Humber,Craven,175.0,100,4,4.0,B.1.177,1,25.0,9,57142,E07000163
-2020-10-17,Yorkshire and The Humber,Craven,147.0,84,2,2.38,B.1.1.1,1,50.0,1,57142,E07000163
-2020-10-17,Yorkshire and The Humber,Craven,147.0,84,2,2.38,B.1.177,1,50.0,8,57142,E07000163
-2020-10-10,Yorkshire and The Humber,Craven,129.5,74,1,1.35,Lineage data suppressed,1,100.0,2,57142,E07000163
-2020-10-03,Yorkshire and The Humber,Craven,122.5,70,1,1.43,B.1.177,1,100.0,7,57142,E07000163
-2020-09-26,Yorkshire and The Humber,Craven,98.0,56,6,10.71,B.1.177,4,66.67,6,57142,E07000163
+2020-10-24,Yorkshire and The Humber,Craven,175.0,100,4,4.0,C.30,1,25.0,2,57142,E07000163
+2020-10-24,Yorkshire and The Humber,Craven,175.0,100,4,4.0,B.1.177.56,1,25.0,1,57142,E07000163
+2020-10-17,Yorkshire and The Humber,Craven,147.0,84,2,2.38,C.30,1,50.0,1,57142,E07000163
+2020-10-17,Yorkshire and The Humber,Craven,147.0,84,2,2.38,B.1.177,1,50.0,2,57142,E07000163
+2020-10-10,Yorkshire and The Humber,Craven,129.5,74,1,1.35,Lineage data suppressed,1,100.0,5,57142,E07000163
+2020-10-03,Yorkshire and The Humber,Craven,122.5,70,1,1.43,Lineage data suppressed,1,100.0,4,57142,E07000163
+2020-09-26,Yorkshire and The Humber,Craven,98.0,56,6,10.71,B.1.177.57,3,50.0,3,57142,E07000163
 2020-09-26,Yorkshire and The Humber,Craven,98.0,56,6,10.71,B.1.1.286,2,33.33,2,57142,E07000163
-2020-09-19,Yorkshire and The Humber,Craven,80.5,46,2,4.35,B.1.177,2,100.0,2,57142,E07000163
+2020-09-26,Yorkshire and The Humber,Craven,98.0,56,6,10.71,B.1.177,1,16.67,1,57142,E07000163
+2020-09-19,Yorkshire and The Humber,Craven,80.5,46,2,4.35,Lineage data suppressed,2,100.0,3,57142,E07000163
 2020-09-12,Yorkshire and The Humber,Craven,28.0,16,1,6.25,Lineage data suppressed,1,100.0,1,57142,E07000163
