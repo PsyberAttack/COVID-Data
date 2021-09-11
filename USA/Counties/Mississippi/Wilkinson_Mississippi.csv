@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-10,Mississippi,Wilkinson,11.37,1,0,0.0,972,35.0,3.6,11055.51,398.09,11.06,8792,12.97,193.35,0.0,1160.14,-284.35
+2021-09-09,Mississippi,Wilkinson,34.12,3,1,11.37,971,35.0,3.6,11044.13,398.09,11.04,8792,12.97,193.35,-159.24,1444.49,-45.5
 2021-09-08,Mississippi,Wilkinson,0.0,0,0,0.0,968,34.0,3.51,11010.01,386.72,11.01,8792,12.97,352.59,-56.87,1489.99,-170.61
 2021-09-07,Mississippi,Wilkinson,0.0,0,0,0.0,968,34.0,3.51,11010.01,386.72,11.01,8792,12.97,409.46,-11.37,1660.6,-68.24
 2021-09-06,Mississippi,Wilkinson,147.86,13,0,0.0,968,34.0,3.51,11010.01,386.72,11.01,8792,12.97,420.83,79.62,1728.84,34.12

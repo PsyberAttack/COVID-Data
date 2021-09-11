@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-10,Minnesota,Lac qui Parle,0.0,0,0,0.0,823,22.0,2.67,12361.07,330.43,12.36,6658,8.7,180.24,-15.02,841.12,0.0
+2021-09-09,Minnesota,Lac qui Parle,30.04,2,0,0.0,823,22.0,2.67,12361.07,330.43,12.36,6658,8.7,195.26,-90.12,841.12,-30.04
 2021-09-08,Minnesota,Lac qui Parle,105.14,7,0,0.0,821,22.0,2.68,12331.03,330.43,12.33,6658,8.7,285.38,60.08,871.16,105.14
 2021-09-07,Minnesota,Lac qui Parle,45.06,3,0,0.0,814,22.0,2.7,12225.89,330.43,12.23,6658,8.7,225.3,-15.02,766.02,45.06
 2021-09-06,Minnesota,Lac qui Parle,0.0,0,0,0.0,811,22.0,2.71,12180.84,330.43,12.18,6658,8.7,240.32,0.0,720.96,0.0

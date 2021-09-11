@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-09-06,Rio Grande do Sul,São Borja,3.32,2,1,1.66,9778,256,2.62,16220.43,424.67,16.22,60282,3.32,1.66,66.37,1.66
+2021-09-07,Rio Grande do Sul,São Borja,0.0,0,0,0.0,9778,256,2.62,16220.43,424.67,16.22,60282,0.0,-1.66,54.75,-4.98
+2021-09-06,Rio Grande do Sul,São Borja,1.66,1,0,0.0,9778,256,2.62,16220.43,424.67,16.22,60282,1.66,0.0,59.73,-4.98
+2021-09-05,Rio Grande do Sul,São Borja,1.66,1,1,1.66,9777,256,2.62,16218.77,424.67,16.22,60282,1.66,0.0,64.71,0.0
 2021-09-04,Rio Grande do Sul,São Borja,0.0,0,0,0.0,9776,255,2.61,16217.11,423.01,16.22,60282,1.66,1.66,64.71,-1.66
 2021-09-03,Rio Grande do Sul,São Borja,-3.32,-2,0,0.0,9776,255,2.61,16217.11,423.01,16.22,60282,0.0,-3.32,66.37,-23.23
 2021-09-02,Rio Grande do Sul,São Borja,-4.98,-3,0,0.0,9778,255,2.61,16220.43,423.01,16.22,60282,3.32,-13.27,89.6,-14.93

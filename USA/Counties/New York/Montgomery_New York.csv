@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-10,New York,Montgomery,46.51,23,1,2.02,4865,133.0,2.73,9837.23,268.93,9.84,49455,122.68,252.75,18.2,966.5,22.25
+2021-09-09,New York,Montgomery,48.53,24,0,0.0,4842,132.0,2.73,9790.72,266.91,9.79,49455,122.68,234.55,-4.04,944.25,32.35
 2021-09-08,New York,Montgomery,62.68,31,1,2.02,4818,132.0,2.74,9742.19,266.91,9.74,49455,122.68,238.59,2.02,911.9,50.55
 2021-09-07,New York,Montgomery,8.09,4,0,0.0,4787,131.0,2.74,9679.51,264.89,9.68,49455,122.68,236.57,0.0,861.35,-18.2
 2021-09-06,New York,Montgomery,18.2,9,0,0.0,4783,131.0,2.74,9671.42,264.89,9.67,49455,122.68,236.57,-24.26,879.55,10.11

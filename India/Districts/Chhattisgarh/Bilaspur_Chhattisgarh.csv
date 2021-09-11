@@ -1,5 +1,7 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-09-09,Chhattisgarh,Bilaspur,0.0,0,0,0.0,65555,1207,1.84,3341.37,61.52,3.34,1961922,1.38,-0.36,4.76,-0.2
+2021-09-11,Chhattisgarh,Bilaspur,0.2,4,0,0.0,65562,1207,1.84,3341.72,61.52,3.34,1961922,1.22,0.0,4.6,-0.11
+2021-09-10,Chhattisgarh,Bilaspur,0.1,2,0,0.0,65558,1207,1.84,3341.52,61.52,3.34,1961922,1.22,-0.21,4.71,-0.1
+2021-09-09,Chhattisgarh,Bilaspur,0.05,1,0,0.0,65556,1207,1.84,3341.42,61.52,3.34,1961922,1.43,-0.31,4.81,-0.15
 2021-09-08,Chhattisgarh,Bilaspur,0.05,1,0,0.0,65555,1207,1.84,3341.37,61.52,3.34,1961922,1.74,-0.2,4.96,-0.26
 2021-09-07,Chhattisgarh,Bilaspur,0.46,9,0,0.0,65554,1207,1.84,3341.32,61.52,3.34,1961922,1.94,0.41,5.22,0.05
 2021-09-06,Chhattisgarh,Bilaspur,0.05,1,0,0.0,65545,1207,1.84,3340.86,61.52,3.34,1961922,1.53,0.05,5.17,-0.2

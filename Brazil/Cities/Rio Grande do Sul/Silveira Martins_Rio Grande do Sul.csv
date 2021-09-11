@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-09-06,Rio Grande do Sul,Silveira Martins,0.0,0,0,0.0,201,9,4.48,8431.21,377.52,8.43,2384,-125.84,-41.95,-83.89,0.0
+2021-09-07,Rio Grande do Sul,Silveira Martins,0.0,0,0,0.0,201,9,4.48,8431.21,377.52,8.43,2384,-125.84,0.0,-125.84,0.0
+2021-09-06,Rio Grande do Sul,Silveira Martins,0.0,0,0,0.0,201,9,4.48,8431.21,377.52,8.43,2384,-125.84,0.0,-125.84,-41.95
+2021-09-05,Rio Grande do Sul,Silveira Martins,0.0,0,0,0.0,201,9,4.48,8431.21,377.52,8.43,2384,-125.84,-41.95,-83.89,0.0
 2021-09-04,Rio Grande do Sul,Silveira Martins,-41.95,-1,0,0.0,201,9,4.48,8431.21,377.52,8.43,2384,-83.89,0.0,-83.89,-41.95
 2021-09-03,Rio Grande do Sul,Silveira Martins,-41.95,-1,0,0.0,202,9,4.46,8473.15,377.52,8.47,2384,-83.89,-41.95,-41.94,-41.95
 2021-09-02,Rio Grande do Sul,Silveira Martins,41.95,1,0,0.0,203,9,4.43,8515.1,377.52,8.52,2384,-41.94,41.95,0.01,41.95

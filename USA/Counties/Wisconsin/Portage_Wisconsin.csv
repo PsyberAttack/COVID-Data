@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-10,Wisconsin,Portage,29.6,21,0,0.0,8242,82.0,0.99,11617.94,115.59,11.62,70942,88.58,214.25,0.0,761.18,15.5
+2021-09-09,Wisconsin,Portage,56.38,40,0,0.0,8221,82.0,1.0,11588.34,115.59,11.59,70942,88.58,214.25,9.86,745.68,36.65
 2021-09-08,Wisconsin,Portage,23.96,17,0,0.0,8181,82.0,1.0,11531.96,115.59,11.53,70942,88.58,204.39,-14.1,709.03,-7.05
 2021-09-07,Wisconsin,Portage,7.05,5,0,0.0,8164,82.0,1.0,11507.99,115.59,11.51,70942,88.58,218.49,-2.82,716.08,-5.64
 2021-09-06,Wisconsin,Portage,97.26,69,1,1.41,8159,82.0,1.01,11500.94,115.59,11.5,70942,88.58,221.31,8.46,721.72,59.2

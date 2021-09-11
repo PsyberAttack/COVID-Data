@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-10,Virginia,Hampton city,59.56,80,0,0.0,13163,198.0,1.5,9800.24,147.42,9.8,134313,2612.78,290.36,1.49,1209.85,8.93
+2021-09-09,Virginia,Hampton city,44.67,60,1,0.74,13083,198.0,1.51,9740.68,147.42,9.74,134313,2612.78,288.87,5.95,1200.92,-1.49
 2021-09-08,Virginia,Hampton city,55.84,75,4,2.98,13023,197.0,1.51,9696.01,146.67,9.7,134313,2612.78,282.92,-5.21,1202.41,34.99
 2021-09-07,Virginia,Hampton city,29.78,40,1,0.74,12948,193.0,1.49,9640.17,143.69,9.64,134313,2612.78,288.13,-37.97,1167.42,-5.21
 2021-09-06,Virginia,Hampton city,100.51,135,0,0.0,12908,192.0,1.49,9610.39,142.95,9.61,134313,2612.78,326.1,-22.34,1172.63,8.19

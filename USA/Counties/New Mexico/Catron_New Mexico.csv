@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-10,New Mexico,Catron,0.0,0,0,0.0,133,7.0,5.26,3717.16,195.64,3.72,3578,0.52,27.95,-27.95,670.78,0.0
+2021-09-09,New Mexico,Catron,0.0,0,1,27.95,133,7.0,5.26,3717.16,195.64,3.72,3578,0.52,55.9,-195.64,670.78,0.0
 2021-09-08,New Mexico,Catron,27.95,1,0,0.0,133,6.0,4.51,3717.16,167.69,3.72,3578,0.52,251.54,27.95,670.78,-55.9
 2021-09-07,New Mexico,Catron,0.0,0,0,0.0,132,6.0,4.55,3689.21,167.69,3.69,3578,0.52,223.59,0.0,726.68,-27.95
 2021-09-06,New Mexico,Catron,0.0,0,0,0.0,132,6.0,4.55,3689.21,167.69,3.69,3578,0.52,223.59,-55.9,754.63,-27.95

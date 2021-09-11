@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-10,Colorado,Crowley,0.0,0,0,0.0,2240,18.0,0.8,38238.31,307.27,38.24,5858,7.44,119.49,-17.07,307.26,-17.07
+2021-09-09,Colorado,Crowley,17.07,1,0,0.0,2240,18.0,0.8,38238.31,307.27,38.24,5858,7.44,136.56,-51.21,324.33,34.14
 2021-09-08,Colorado,Crowley,0.0,0,0,0.0,2239,18.0,0.8,38221.24,307.27,38.22,5858,7.44,187.77,-34.14,290.19,-17.07
 2021-09-07,Colorado,Crowley,51.21,3,0,0.0,2239,18.0,0.8,38221.24,307.27,38.22,5858,7.44,221.91,51.21,307.26,34.14
 2021-09-06,Colorado,Crowley,51.21,3,0,0.0,2236,18.0,0.81,38170.02,307.27,38.17,5858,7.44,170.7,17.07,273.12,34.14

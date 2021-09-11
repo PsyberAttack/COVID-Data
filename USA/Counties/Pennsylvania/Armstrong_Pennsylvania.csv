@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-10,Pennsylvania,Armstrong,81.21,53,0,0.0,6720,153.0,2.28,10296.8,234.44,10.3,65263,99.92,404.53,47.5,928.55,58.23
+2021-09-09,Pennsylvania,Armstrong,81.21,53,1,1.53,6667,153.0,2.29,10215.59,234.44,10.22,65263,99.92,357.03,41.37,870.32,67.42
 2021-09-08,Pennsylvania,Armstrong,73.55,48,1,1.53,6614,152.0,2.3,10134.38,232.9,10.13,65263,99.92,315.66,44.44,802.9,65.89
 2021-09-07,Pennsylvania,Armstrong,24.52,16,0,0.0,6566,151.0,2.3,10060.83,231.37,10.06,65263,99.92,271.22,-18.38,737.01,9.2
 2021-09-06,Pennsylvania,Armstrong,24.52,16,0,0.0,6550,151.0,2.31,10036.31,231.37,10.04,65263,99.92,289.6,9.2,727.81,15.33

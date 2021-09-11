@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-09-06,Rio Grande do Sul,Alegrete,1.36,1,0,0.0,11082,292,2.63,15059.32,396.8,15.06,73589,1.36,0.0,149.48,-14.95
+2021-09-07,Rio Grande do Sul,Alegrete,0.0,0,0,0.0,11082,292,2.63,15059.32,396.8,15.06,73589,-4.08,-2.72,88.33,-28.54
+2021-09-06,Rio Grande do Sul,Alegrete,1.36,1,0,0.0,11082,292,2.63,15059.32,396.8,15.06,73589,-1.36,-1.36,116.87,-31.25
+2021-09-05,Rio Grande do Sul,Alegrete,0.0,0,0,0.0,11081,292,2.64,15057.96,396.8,15.06,73589,-0.0,-1.36,148.12,-16.31
 2021-09-04,Rio Grande do Sul,Alegrete,2.72,2,0,0.0,11081,292,2.64,15057.96,396.8,15.06,73589,1.36,-4.07,164.43,-13.59
 2021-09-03,Rio Grande do Sul,Alegrete,-2.72,-2,0,0.0,11079,292,2.64,15055.24,396.8,15.06,73589,5.43,0.0,178.02,-10.87
 2021-09-02,Rio Grande do Sul,Alegrete,-4.08,-3,0,0.0,11081,292,2.64,15057.96,396.8,15.06,73589,5.43,-8.16,188.89,-4.08

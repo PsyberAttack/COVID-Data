@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-10,Missouri,Ste. Genevieve,61.49,11,0,0.0,2187,21.0,0.96,12226.07,117.4,12.23,17888,35.84,279.51,39.13,1229.82,5.59
+2021-09-09,Missouri,Ste. Genevieve,89.45,16,0,0.0,2176,21.0,0.97,12164.58,117.4,12.16,17888,35.84,240.38,11.19,1224.23,67.09
 2021-09-08,Missouri,Ste. Genevieve,61.49,11,1,5.59,2160,21.0,0.97,12075.13,117.4,12.08,17888,35.84,229.19,27.95,1157.14,-44.73
 2021-09-07,Missouri,Ste. Genevieve,0.0,0,0,0.0,2149,20.0,0.93,12013.64,111.81,12.01,17888,35.84,201.24,-33.54,1201.87,-11.18
 2021-09-06,Missouri,Ste. Genevieve,16.77,3,0,0.0,2149,20.0,0.93,12013.64,111.81,12.01,17888,35.84,234.78,-22.36,1213.05,-5.59

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-10,Michigan,Marquette,120.27,80,1,1.5,6385,68.0,1.06,9599.19,102.23,9.6,66516,36.77,234.53,51.11,599.85,109.75
+2021-09-09,Michigan,Marquette,0.0,0,0,0.0,6305,67.0,1.06,9478.92,100.73,9.48,66516,36.77,183.42,0.0,490.1,0.0
 2021-09-08,Michigan,Marquette,46.61,31,0,0.0,6305,67.0,1.06,9478.92,100.73,9.48,66516,36.77,183.42,-39.08,490.1,43.6
 2021-09-07,Michigan,Marquette,67.65,45,0,0.0,6274,67.0,1.07,9432.32,100.73,9.43,66516,36.77,222.5,67.65,446.5,67.65
 2021-09-06,Michigan,Marquette,0.0,0,0,0.0,6229,67.0,1.08,9364.66,100.73,9.36,66516,36.77,154.85,-55.63,378.85,-3.01

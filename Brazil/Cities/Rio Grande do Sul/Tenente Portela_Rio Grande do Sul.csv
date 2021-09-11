@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-09-06,Rio Grande do Sul,Tenente Portela,0.0,0,0,0.0,1752,34,1.94,12992.21,252.13,12.99,13485,37.08,-7.42,148.33,0.0
+2021-09-07,Rio Grande do Sul,Tenente Portela,7.42,1,0,0.0,1753,34,1.94,12999.63,252.13,13.0,13485,29.67,-7.41,140.91,0.0
+2021-09-06,Rio Grande do Sul,Tenente Portela,0.0,0,0,0.0,1752,34,1.94,12992.21,252.13,12.99,13485,37.08,0.0,140.91,-7.42
+2021-09-05,Rio Grande do Sul,Tenente Portela,0.0,0,0,0.0,1752,34,1.94,12992.21,252.13,12.99,13485,37.08,-7.42,148.33,0.0
 2021-09-04,Rio Grande do Sul,Tenente Portela,7.42,1,0,0.0,1752,34,1.94,12992.21,252.13,12.99,13485,44.5,7.42,148.33,22.25
 2021-09-03,Rio Grande do Sul,Tenente Portela,-7.42,-1,0,0.0,1751,34,1.94,12984.8,252.13,12.98,13485,37.08,-22.25,126.08,-7.42
 2021-09-02,Rio Grande do Sul,Tenente Portela,22.25,3,1,7.42,1752,34,1.94,12992.21,252.13,12.99,13485,59.33,22.25,133.5,22.25

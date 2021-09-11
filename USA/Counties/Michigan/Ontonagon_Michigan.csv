@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-10,Michigan,Ontonagon,69.03,4,0,0.0,539,22.0,4.08,9301.12,379.64,9.3,5795,4.42,69.03,-17.25,828.31,51.77
+2021-09-09,Michigan,Ontonagon,0.0,0,0,0.0,535,22.0,4.11,9232.1,379.64,9.23,5795,4.42,86.28,0.0,776.54,0.0
 2021-09-08,Michigan,Ontonagon,-17.26,-1,0,0.0,535,22.0,4.11,9232.1,379.64,9.23,5795,4.42,86.28,-155.31,776.54,-69.03
 2021-09-07,Michigan,Ontonagon,17.26,1,0,0.0,536,22.0,4.1,9249.35,379.64,9.25,5795,4.42,241.59,17.26,845.57,17.26
 2021-09-06,Michigan,Ontonagon,0.0,0,0,0.0,535,22.0,4.11,9232.1,379.64,9.23,5795,4.42,224.33,-34.51,828.31,0.0

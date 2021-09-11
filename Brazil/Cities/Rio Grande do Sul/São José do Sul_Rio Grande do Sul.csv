@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-09-06,Rio Grande do Sul,São José do Sul,0.0,0,0,0.0,304,5,1.64,12624.58,207.64,12.62,2408,83.06,-83.06,830.57,0.0
+2021-09-07,Rio Grande do Sul,São José do Sul,0.0,0,0,0.0,304,5,1.64,12624.58,207.64,12.62,2408,0.0,-41.53,830.57,-83.06
+2021-09-06,Rio Grande do Sul,São José do Sul,0.0,0,0,0.0,304,5,1.64,12624.58,207.64,12.62,2408,41.53,-41.53,913.63,83.06
+2021-09-05,Rio Grande do Sul,São José do Sul,0.0,0,0,0.0,304,5,1.64,12624.58,207.64,12.62,2408,83.06,-83.06,830.57,0.0
 2021-09-04,Rio Grande do Sul,São José do Sul,0.0,0,0,0.0,304,5,1.64,12624.58,207.64,12.62,2408,166.12,0.0,830.57,-83.06
 2021-09-03,Rio Grande do Sul,São José do Sul,0.0,0,0,0.0,304,5,1.64,12624.58,207.64,12.62,2408,166.12,0.0,913.63,0.0
 2021-09-02,Rio Grande do Sul,São José do Sul,-41.53,-1,0,0.0,304,5,1.64,12624.58,207.64,12.62,2408,166.12,-166.11,913.63,-41.53

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-10,Virginia,Spotsylvania,54.38,73,0,0.0,12446,130.0,1.04,9271.59,96.84,9.27,134238,334.34,342.68,0.74,1148.7,7.45
+2021-09-09,Virginia,Spotsylvania,45.44,61,1,0.74,12373,130.0,1.05,9217.21,96.84,9.22,134238,334.34,341.94,19.37,1141.25,12.66
 2021-09-08,Virginia,Spotsylvania,64.81,87,0,0.0,12312,129.0,1.05,9171.77,96.1,9.17,134238,334.34,322.57,8.94,1128.59,34.27
 2021-09-07,Virginia,Spotsylvania,49.17,66,1,0.74,12225,129.0,1.06,9106.96,96.1,9.11,134238,334.34,313.63,-18.62,1094.32,29.8
 2021-09-06,Virginia,Spotsylvania,128.88,173,0,0.0,12159,128.0,1.05,9057.79,95.35,9.06,134238,334.34,332.25,-8.93,1064.52,70.77

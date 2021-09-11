@@ -1,5 +1,7 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-09-09,Jharkhand,East Singhbhum,0.0,0,0,0.0,51837,1043,2.01,2262.6,45.53,2.26,2291032,0.52,-0.09,2.25,-0.22
+2021-09-11,Jharkhand,East Singhbhum,0.04,1,0,0.0,51842,1043,2.01,2262.82,45.53,2.26,2291032,0.61,0.0,2.3,-0.09
+2021-09-10,Jharkhand,East Singhbhum,0.09,2,0,0.0,51841,1043,2.01,2262.78,45.53,2.26,2291032,0.61,0.0,2.39,0.05
+2021-09-09,Jharkhand,East Singhbhum,0.09,2,0,0.0,51839,1043,2.01,2262.69,45.53,2.26,2291032,0.61,0.0,2.34,-0.13
 2021-09-08,Jharkhand,East Singhbhum,0.13,3,0,0.0,51837,1043,2.01,2262.6,45.53,2.26,2291032,0.61,-0.13,2.47,0.13
 2021-09-07,Jharkhand,East Singhbhum,0.04,1,0,0.0,51834,1043,2.01,2262.47,45.53,2.26,2291032,0.74,0.04,2.34,0.0
 2021-09-06,Jharkhand,East Singhbhum,0.13,3,0,0.0,51833,1043,2.01,2262.43,45.53,2.26,2291032,0.7,0.13,2.34,0.13

@@ -1,5 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-09-06,Rio Grande do Sul,Vila Maria,22.95,1,0,0.0,726,10,1.38,16659.02,229.46,16.66,4358,68.84,0.0,91.79,22.95
+2021-09-07,Rio Grande do Sul,Vila Maria,0.0,0,0,0.0,726,10,1.38,16659.02,229.46,16.66,4358,22.95,-45.89,45.9,0.0
+2021-09-06,Rio Grande do Sul,Vila Maria,0.0,0,0,0.0,726,10,1.38,16659.02,229.46,16.66,4358,68.84,0.0,45.9,-45.89
+2021-09-05,Rio Grande do Sul,Vila Maria,22.95,1,0,0.0,726,10,1.38,16659.02,229.46,16.66,4358,68.84,0.0,91.79,22.95
 2021-09-04,Rio Grande do Sul,Vila Maria,-22.95,-1,0,0.0,725,10,1.38,16636.07,229.46,16.64,4358,68.84,-22.95,68.84,-22.95
 2021-09-03,Rio Grande do Sul,Vila Maria,0.0,0,0,0.0,726,10,1.38,16659.02,229.46,16.66,4358,91.79,0.0,91.79,-22.95
 2021-09-02,Rio Grande do Sul,Vila Maria,22.95,1,0,0.0,726,10,1.38,16659.02,229.46,16.66,4358,91.79,22.95,114.74,0.0
