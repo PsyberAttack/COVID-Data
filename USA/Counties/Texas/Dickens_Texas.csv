@@ -1,4 +1,5 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-12,Texas,Dickens,0.0,0,0,0.0,230,10.0,4.35,10226.77,444.64,10.23,2249,2.49,0.01,0.0,1067.12,0.0
 2021-09-11,Texas,Dickens,-44.46,-1,0,0.0,230,10.0,4.35,10226.77,444.64,10.23,2249,2.49,0.01,-44.46,1067.12,-88.92
 2021-09-10,Texas,Dickens,88.93,2,0,0.0,231,10.0,4.33,10271.23,444.64,10.27,2249,2.49,44.47,-44.46,1156.04,88.93
 2021-09-09,Texas,Dickens,-44.46,-1,0,0.0,229,10.0,4.37,10182.3,444.64,10.18,2249,2.49,88.93,-177.85,1067.11,-88.92

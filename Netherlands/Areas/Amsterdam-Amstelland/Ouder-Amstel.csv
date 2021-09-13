@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0437,2021-09-13,Amsterdam-Amstelland,Ouder-Amstel,14.26,2,0,0.0,1622,5,0.31,11561.76,35.64,11.56,14029,156.82,0.0,456.2,-14.25
+GM0437,2021-09-12,Amsterdam-Amstelland,Ouder-Amstel,42.77,6,0,0.0,1620,5,0.31,11547.51,35.64,11.55,14029,156.82,21.39,470.45,42.77
 GM0437,2021-09-11,Amsterdam-Amstelland,Ouder-Amstel,7.13,1,0,0.0,1614,5,0.31,11504.74,35.64,11.5,14029,135.43,-21.38,427.68,-28.51
 GM0437,2021-09-10,Amsterdam-Amstelland,Ouder-Amstel,35.64,5,0,0.0,1613,5,0.31,11497.61,35.64,11.5,14029,156.81,28.51,456.19,0.0
 GM0437,2021-09-09,Amsterdam-Amstelland,Ouder-Amstel,7.13,1,0,0.0,1608,5,0.31,11461.97,35.64,11.46,14029,128.3,-21.38,456.19,-35.64
