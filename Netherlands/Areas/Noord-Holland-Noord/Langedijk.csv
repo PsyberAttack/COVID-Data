@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0416,2021-09-15,Noord-Holland-Noord,Langedijk,7.1,2,0,0.0,3101,17,0.55,11013.25,60.38,11.01,28157,71.01,0.0,301.84,0.0
+GM0416,2021-09-14,Noord-Holland-Noord,Langedijk,10.65,3,0,0.0,3099,17,0.55,11006.14,60.38,11.01,28157,71.01,7.1,301.84,-3.56
 GM0416,2021-09-13,Noord-Holland-Noord,Langedijk,10.65,3,0,0.0,3096,17,0.55,10995.49,60.38,11.0,28157,63.91,-3.56,305.4,-14.21
 GM0416,2021-09-12,Noord-Holland-Noord,Langedijk,14.21,4,0,0.0,3093,17,0.55,10984.84,60.38,10.98,28157,67.47,-7.1,319.61,7.11
 GM0416,2021-09-11,Noord-Holland-Noord,Langedijk,7.1,2,0,0.0,3089,17,0.55,10970.63,60.38,10.97,28157,74.57,0.0,312.5,-3.55

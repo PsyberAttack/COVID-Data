@@ -1,13 +1,16 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-09-11 00:00:00+00:00,Mecklenburg-Vorpommern,Nordwestmecklenburg,0.64,1,0,0.0,4295,87,2.03,2740.4,55.51,2.74,156729,47.86,-11.48,186.3,-3.19
-2021-09-10 00:00:00+00:00,Mecklenburg-Vorpommern,Nordwestmecklenburg,1.91,3,0,0.0,4294,87,2.03,2739.76,55.51,2.74,156729,59.34,-5.75,189.49,-2.56
-2021-09-09 00:00:00+00:00,Mecklenburg-Vorpommern,Nordwestmecklenburg,7.02,11,0,0.0,4291,87,2.03,2737.85,55.51,2.74,156729,65.09,-5.1,192.05,3.83
-2021-09-08 00:00:00+00:00,Mecklenburg-Vorpommern,Nordwestmecklenburg,7.02,11,0,0.0,4280,87,2.03,2730.83,55.51,2.73,156729,70.19,-1.91,188.22,1.28
-2021-09-07 00:00:00+00:00,Mecklenburg-Vorpommern,Nordwestmecklenburg,14.68,23,0,0.0,4269,87,2.04,2723.81,55.51,2.72,156729,72.1,7.66,186.94,10.85
-2021-09-06 00:00:00+00:00,Mecklenburg-Vorpommern,Nordwestmecklenburg,7.66,12,0,0.0,4246,87,2.05,2709.13,55.51,2.71,156729,64.44,-1.91,176.09,4.47
-2021-09-05 00:00:00+00:00,Mecklenburg-Vorpommern,Nordwestmecklenburg,8.93,14,0,0.0,4234,87,2.05,2701.48,55.51,2.7,156729,66.35,3.19,171.62,7.02
-2021-09-04 00:00:00+00:00,Mecklenburg-Vorpommern,Nordwestmecklenburg,12.12,19,0,0.0,4220,87,2.06,2692.55,55.51,2.69,156729,63.16,2.55,164.6,11.48
-2021-09-03 00:00:00+00:00,Mecklenburg-Vorpommern,Nordwestmecklenburg,7.66,12,0,0.0,4201,87,2.07,2680.42,55.51,2.68,156729,60.61,1.92,153.12,3.83
+2021-09-14 00:00:00+00:00,Mecklenburg-Vorpommern,Nordwestmecklenburg,4.47,7,0,0.0,4330,87,2.01,2762.73,55.51,2.76,156729,35.73,-10.84,200.32,1.28
+2021-09-13 00:00:00+00:00,Mecklenburg-Vorpommern,Nordwestmecklenburg,0.0,0,0,0.0,4323,87,2.01,2758.26,55.51,2.76,156729,46.57,-8.93,199.04,-3.19
+2021-09-12 00:00:00+00:00,Mecklenburg-Vorpommern,Nordwestmecklenburg,1.91,3,0,0.0,4323,87,2.01,2758.26,55.51,2.76,156729,55.5,-7.02,202.23,0.0
+2021-09-11 00:00:00+00:00,Mecklenburg-Vorpommern,Nordwestmecklenburg,4.47,7,0,0.0,4320,87,2.01,2756.35,55.51,2.76,156729,62.52,-7.65,202.23,0.64
+2021-09-10 00:00:00+00:00,Mecklenburg-Vorpommern,Nordwestmecklenburg,3.83,6,0,0.0,4313,87,2.02,2751.88,55.51,2.75,156729,70.17,-5.1,201.59,-0.64
+2021-09-09 00:00:00+00:00,Mecklenburg-Vorpommern,Nordwestmecklenburg,8.93,14,0,0.0,4307,87,2.02,2748.06,55.51,2.75,156729,75.27,-3.19,202.23,5.74
+2021-09-08 00:00:00+00:00,Mecklenburg-Vorpommern,Nordwestmecklenburg,12.12,19,0,0.0,4293,87,2.03,2739.12,55.51,2.74,156729,78.46,3.19,196.49,6.38
+2021-09-07 00:00:00+00:00,Mecklenburg-Vorpommern,Nordwestmecklenburg,15.31,24,0,0.0,4274,87,2.04,2727.0,55.51,2.73,156729,75.27,8.29,190.11,11.48
+2021-09-06 00:00:00+00:00,Mecklenburg-Vorpommern,Nordwestmecklenburg,8.93,14,0,0.0,4250,87,2.05,2711.69,55.51,2.71,156729,66.98,-0.64,178.63,5.74
+2021-09-05 00:00:00+00:00,Mecklenburg-Vorpommern,Nordwestmecklenburg,8.93,14,0,0.0,4236,87,2.05,2702.75,55.51,2.7,156729,67.62,3.19,172.89,7.02
+2021-09-04 00:00:00+00:00,Mecklenburg-Vorpommern,Nordwestmecklenburg,12.12,19,0,0.0,4222,87,2.06,2693.82,55.51,2.69,156729,64.43,2.55,165.87,11.48
+2021-09-03 00:00:00+00:00,Mecklenburg-Vorpommern,Nordwestmecklenburg,8.93,14,0,0.0,4203,87,2.07,2681.7,55.51,2.68,156729,61.88,3.19,154.39,5.1
 2021-09-02 00:00:00+00:00,Mecklenburg-Vorpommern,Nordwestmecklenburg,12.12,19,0,0.0,4189,87,2.08,2672.77,55.51,2.67,156729,58.69,8.93,149.29,9.57
 2021-09-01 00:00:00+00:00,Mecklenburg-Vorpommern,Nordwestmecklenburg,8.93,14,0,0.0,4170,87,2.09,2660.64,55.51,2.66,156729,49.76,-2.55,139.72,5.74
 2021-08-31 00:00:00+00:00,Mecklenburg-Vorpommern,Nordwestmecklenburg,7.02,11,0,0.0,4156,87,2.09,2651.71,55.51,2.65,156729,52.31,0.0,133.98,1.92
