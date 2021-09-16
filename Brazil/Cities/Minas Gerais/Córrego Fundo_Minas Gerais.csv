@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-14,Minas Gerais,Córrego Fundo,0.0,0,0,0.0,764,8,1.05,12056.18,126.24,12.06,6337,2682.66,-126.24,4118.66,-47.34
+2021-09-13,Minas Gerais,Córrego Fundo,394.51,25,0,0.0,764,8,1.05,12056.18,126.24,12.06,6337,2808.9,394.51,4166.0,394.51
+2021-09-03,Minas Gerais,Córrego Fundo,2161.91,137,2,31.56,739,8,1.08,11661.67,126.24,11.66,6337,2414.39,2161.91,3771.49,2161.91
+2021-06-19,Minas Gerais,Córrego Fundo,47.34,3,0,0.0,602,6,1.0,9499.76,94.68,9.5,6337,252.48,47.34,1609.58,-205.15
 2021-06-18,Minas Gerais,Córrego Fundo,15.78,1,0,0.0,599,6,1.0,9452.42,94.68,9.45,6337,205.14,-78.9,1814.73,15.78
 2021-06-17,Minas Gerais,Córrego Fundo,0.0,0,0,0.0,598,6,1.0,9436.64,94.68,9.44,6337,284.04,-236.71,1798.95,-78.9
 2021-06-16,Minas Gerais,Córrego Fundo,63.12,4,1,15.78,598,6,1.0,9436.64,94.68,9.44,6337,520.75,63.12,1877.85,-63.12

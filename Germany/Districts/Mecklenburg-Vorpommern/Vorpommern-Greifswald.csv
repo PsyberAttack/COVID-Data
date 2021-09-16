@@ -1,13 +1,14 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-09-14 00:00:00+00:00,Mecklenburg-Vorpommern,Vorpommern-Greifswald,2.96,7,0,0.0,10518,289,2.75,4443.66,122.1,4.44,236697,36.75,-0.84,137.28,-0.42
-2021-09-13 00:00:00+00:00,Mecklenburg-Vorpommern,Vorpommern-Greifswald,3.38,8,0,0.0,10511,289,2.75,4440.7,122.1,4.44,236697,37.59,-1.69,137.7,-1.69
-2021-09-12 00:00:00+00:00,Mecklenburg-Vorpommern,Vorpommern-Greifswald,1.69,4,0,0.0,10503,289,2.75,4437.32,122.1,4.44,236697,39.28,-3.38,139.39,-2.11
-2021-09-11 00:00:00+00:00,Mecklenburg-Vorpommern,Vorpommern-Greifswald,4.22,10,0,0.0,10499,289,2.75,4435.63,122.1,4.44,236697,42.66,-1.69,141.5,0.0
-2021-09-10 00:00:00+00:00,Mecklenburg-Vorpommern,Vorpommern-Greifswald,8.87,21,0,0.0,10489,289,2.76,4431.4,122.1,4.43,236697,44.35,2.53,141.5,5.07
-2021-09-09 00:00:00+00:00,Mecklenburg-Vorpommern,Vorpommern-Greifswald,7.6,18,0,0.0,10468,289,2.76,4422.53,122.1,4.42,236697,41.82,2.53,136.43,0.42
-2021-09-08 00:00:00+00:00,Mecklenburg-Vorpommern,Vorpommern-Greifswald,8.03,19,0,0.0,10450,289,2.77,4414.93,122.1,4.41,236697,39.29,4.23,136.01,2.96
-2021-09-07 00:00:00+00:00,Mecklenburg-Vorpommern,Vorpommern-Greifswald,3.8,9,0,0.0,10431,289,2.77,4406.9,122.1,4.41,236697,35.06,-1.69,133.05,-2.54
-2021-09-06 00:00:00+00:00,Mecklenburg-Vorpommern,Vorpommern-Greifswald,5.07,12,0,0.0,10422,289,2.77,4403.1,122.1,4.4,236697,36.75,0.85,135.59,2.11
+2021-09-15 00:00:00+00:00,Mecklenburg-Vorpommern,Vorpommern-Greifswald,1.69,4,0,0.0,10540,289,2.74,4452.95,122.1,4.45,236697,36.75,-6.76,142.77,-2.11
+2021-09-14 00:00:00+00:00,Mecklenburg-Vorpommern,Vorpommern-Greifswald,3.8,9,0,0.0,10536,289,2.74,4451.26,122.1,4.45,236697,43.51,-0.42,144.88,0.42
+2021-09-13 00:00:00+00:00,Mecklenburg-Vorpommern,Vorpommern-Greifswald,5.07,12,0,0.0,10527,289,2.75,4447.46,122.1,4.45,236697,43.93,-0.42,144.46,0.0
+2021-09-12 00:00:00+00:00,Mecklenburg-Vorpommern,Vorpommern-Greifswald,2.53,6,0,0.0,10515,289,2.75,4442.39,122.1,4.44,236697,44.35,-2.54,144.46,-1.27
+2021-09-11 00:00:00+00:00,Mecklenburg-Vorpommern,Vorpommern-Greifswald,6.34,15,0,0.0,10509,289,2.75,4439.85,122.1,4.44,236697,46.89,0.43,145.73,2.12
+2021-09-10 00:00:00+00:00,Mecklenburg-Vorpommern,Vorpommern-Greifswald,9.72,23,0,0.0,10494,289,2.75,4433.52,122.1,4.43,236697,46.46,3.38,143.61,5.92
+2021-09-09 00:00:00+00:00,Mecklenburg-Vorpommern,Vorpommern-Greifswald,7.6,18,0,0.0,10471,289,2.76,4423.8,122.1,4.42,236697,43.08,2.53,137.69,0.42
+2021-09-08 00:00:00+00:00,Mecklenburg-Vorpommern,Vorpommern-Greifswald,8.45,20,0,0.0,10453,289,2.76,4416.19,122.1,4.42,236697,40.55,4.65,137.27,3.38
+2021-09-07 00:00:00+00:00,Mecklenburg-Vorpommern,Vorpommern-Greifswald,4.22,10,0,0.0,10433,289,2.77,4407.74,122.1,4.41,236697,35.9,-1.27,133.89,-2.12
+2021-09-06 00:00:00+00:00,Mecklenburg-Vorpommern,Vorpommern-Greifswald,5.49,13,0,0.0,10423,289,2.77,4403.52,122.1,4.4,236697,37.17,1.27,136.01,2.53
 2021-09-05 00:00:00+00:00,Mecklenburg-Vorpommern,Vorpommern-Greifswald,5.07,12,0,0.0,10410,289,2.78,4398.03,122.1,4.4,236697,35.9,0.42,133.48,1.27
 2021-09-04 00:00:00+00:00,Mecklenburg-Vorpommern,Vorpommern-Greifswald,5.91,14,0,0.0,10398,289,2.78,4392.96,122.1,4.39,236697,35.48,0.0,132.21,5.07
 2021-09-03 00:00:00+00:00,Mecklenburg-Vorpommern,Vorpommern-Greifswald,6.34,15,0,0.0,10384,289,2.78,4387.04,122.1,4.39,236697,35.48,1.69,127.14,4.65

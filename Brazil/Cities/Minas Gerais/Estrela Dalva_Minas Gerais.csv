@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-14,Minas Gerais,Estrela Dalva,42.68,1,0,0.0,190,8,4.21,8109.26,341.44,8.11,2343,1579.17,42.68,2390.09,0.0
+2021-09-13,Minas Gerais,Estrela Dalva,0.0,0,0,0.0,189,8,4.23,8066.58,341.44,8.07,2343,1536.49,0.0,2390.09,0.0
+2021-09-03,Minas Gerais,Estrela Dalva,1237.73,29,1,42.68,189,8,4.23,8066.58,341.44,8.07,2343,1536.49,1237.73,2390.09,1237.73
+2021-06-19,Minas Gerais,Estrela Dalva,128.04,3,0,0.0,160,7,4.38,6828.85,298.76,6.83,2343,298.76,42.68,1152.36,128.04
 2021-06-18,Minas Gerais,Estrela Dalva,0.0,0,0,0.0,157,7,4.46,6700.81,298.76,6.7,2343,256.08,0.0,1024.32,-128.04
 2021-06-17,Minas Gerais,Estrela Dalva,170.72,4,0,0.0,157,7,4.46,6700.81,298.76,6.7,2343,256.08,170.72,1152.36,-42.68
 2021-06-16,Minas Gerais,Estrela Dalva,0.0,0,0,0.0,153,7,4.58,6530.09,298.76,6.53,2343,85.36,0.0,1195.04,0.0
