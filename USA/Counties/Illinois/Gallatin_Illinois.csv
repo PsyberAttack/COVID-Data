@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-18,Illinois,Gallatin,0.0,0,0,0.0,728,6.0,0.82,14393.04,118.62,14.39,5058,15.66,494.27,0.0,2767.88,0.0
+2021-09-17,Illinois,Gallatin,59.31,3,1,19.77,728,6.0,0.82,14393.04,118.62,14.39,5058,15.66,494.27,-118.63,2767.88,-98.86
 2021-09-16,Illinois,Gallatin,79.08,4,0,0.0,725,5.0,0.69,14333.73,98.85,14.33,5058,15.66,612.9,39.54,2866.74,-59.31
 2021-09-15,Illinois,Gallatin,39.54,2,0,0.0,721,5.0,0.69,14254.65,98.85,14.25,5058,15.66,573.36,-79.08,2926.05,-138.4
 2021-09-14,Illinois,Gallatin,158.17,8,0,0.0,719,5.0,0.7,14215.1,98.85,14.22,5058,15.66,652.44,-197.7,3064.45,39.55

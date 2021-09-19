@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-18,Washington,Pend Oreille,0.0,0,0,0.0,1203,13.0,1.08,8844.29,95.57,8.84,13602,9.71,551.39,0.0,1867.36,0.0
+2021-09-17,Washington,Pend Oreille,161.74,22,1,7.35,1203,13.0,1.08,8844.29,95.57,8.84,13602,9.71,551.39,73.52,1867.36,102.93
 2021-09-16,Washington,Pend Oreille,51.46,7,1,7.35,1181,12.0,1.02,8682.55,88.22,8.68,13602,9.71,477.87,0.0,1764.43,-29.41
 2021-09-15,Washington,Pend Oreille,66.17,9,0,0.0,1174,11.0,0.94,8631.08,80.87,8.63,13602,9.71,477.87,29.41,1793.84,44.11
 2021-09-14,Washington,Pend Oreille,36.76,5,0,0.0,1165,11.0,0.94,8564.92,80.87,8.56,13602,9.71,448.46,-294.07,1749.73,22.06

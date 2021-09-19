@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-18,Pennsylvania,Juniata,48.58,12,0,0.0,2463,101.0,4.1,9970.05,408.84,9.97,24704,63.13,267.17,24.29,1044.36,8.1
+2021-09-17,Pennsylvania,Juniata,40.48,10,1,4.05,2451,101.0,4.12,9921.47,408.84,9.92,24704,63.13,242.88,-48.57,1036.26,36.43
 2021-09-16,Pennsylvania,Juniata,48.58,12,0,0.0,2441,100.0,4.1,9880.99,404.79,9.88,24704,63.13,291.45,32.39,999.83,36.44
 2021-09-15,Pennsylvania,Juniata,44.53,11,1,4.05,2429,100.0,4.12,9832.42,404.79,9.83,24704,63.13,259.06,16.19,963.39,28.34
 2021-09-14,Pennsylvania,Juniata,32.38,8,4,16.19,2418,99.0,4.09,9787.89,400.74,9.79,24704,63.13,242.87,-4.05,935.05,28.33

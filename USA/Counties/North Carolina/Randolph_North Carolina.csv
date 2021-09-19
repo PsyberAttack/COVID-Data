@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-18,North Carolina,Randolph,0.0,0,0,0.0,19234,274.0,1.42,13417.42,191.14,13.42,143351,183.24,590.86,0.0,1760.02,0.0
+2021-09-17,North Carolina,Randolph,92.78,133,1,0.7,19234,274.0,1.42,13417.42,191.14,13.42,143351,183.24,590.86,38.37,1760.02,50.23
 2021-09-16,North Carolina,Randolph,64.88,93,0,0.0,19101,273.0,1.43,13324.64,190.44,13.32,143351,183.24,552.49,7.68,1709.79,20.23
 2021-09-15,North Carolina,Randolph,135.33,194,3,2.09,19008,273.0,1.44,13259.76,190.44,13.26,143351,183.24,544.81,92.08,1689.56,110.91
 2021-09-14,North Carolina,Randolph,34.18,49,2,1.4,18814,270.0,1.44,13124.43,188.35,13.12,143351,183.24,452.73,-217.65,1578.65,3.49

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-18,Tennessee,Marshall,0.0,0,0,0.0,6344,72.0,1.13,18834.43,213.76,18.83,33683,89.71,807.52,0.0,4052.47,0.0
+2021-09-17,Tennessee,Marshall,100.94,34,0,0.0,6344,72.0,1.13,18834.43,213.76,18.83,33683,89.71,807.52,2.97,4052.47,-169.23
 2021-09-16,Tennessee,Marshall,71.25,24,0,0.0,6310,72.0,1.14,18733.49,213.76,18.73,33683,89.71,804.55,-50.47,4221.7,-89.07
 2021-09-15,Tennessee,Marshall,169.22,57,0,0.0,6286,72.0,1.15,18662.23,213.76,18.66,33683,89.71,855.02,89.06,4310.77,50.47
 2021-09-14,Tennessee,Marshall,74.22,25,2,5.94,6229,72.0,1.16,18493.01,213.76,18.49,33683,89.71,765.96,-739.25,4260.3,11.87

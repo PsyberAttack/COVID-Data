@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-18,Michigan,Newaygo,0.0,0,0,0.0,5368,71.0,1.32,10979.3,145.22,10.98,48892,58.28,245.44,0.0,683.14,0.0
+2021-09-17,Michigan,Newaygo,61.36,30,0,0.0,5368,71.0,1.32,10979.3,145.22,10.98,48892,58.28,245.44,-18.41,683.14,14.32
 2021-09-16,Michigan,Newaygo,0.0,0,0,0.0,5338,71.0,1.33,10917.94,145.22,10.92,48892,58.28,263.85,0.0,668.82,0.0
 2021-09-15,Michigan,Newaygo,118.63,58,-1,-2.05,5338,71.0,1.33,10917.94,145.22,10.92,48892,58.28,263.85,96.13,668.82,102.27
 2021-09-14,Michigan,Newaygo,0.0,0,0,0.0,5280,72.0,1.36,10799.31,147.26,10.8,48892,58.28,167.72,-85.9,566.55,0.0

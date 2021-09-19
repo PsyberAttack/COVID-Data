@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-18,California,Mariposa,0.0,0,0,0.0,967,12.0,1.24,5534.89,68.69,5.53,17471,12.06,446.46,0.0,1528.25,0.0
+2021-09-17,California,Mariposa,40.07,7,0,0.0,967,12.0,1.24,5534.89,68.69,5.53,17471,12.06,446.46,-17.17,1528.25,5.73
 2021-09-16,California,Mariposa,103.03,18,0,0.0,960,12.0,1.25,5494.82,68.69,5.49,17471,12.06,463.63,5.73,1522.52,11.45
 2021-09-15,California,Mariposa,51.51,9,2,11.45,942,12.0,1.27,5391.79,68.69,5.39,17471,12.06,457.9,28.61,1511.07,22.89
 2021-09-14,California,Mariposa,57.24,10,0,0.0,933,10.0,1.07,5340.28,57.24,5.34,17471,12.06,429.29,-51.51,1488.18,-5.72

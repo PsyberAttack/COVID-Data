@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-18,Illinois,Stephenson,0.0,0,0,0.0,5400,108.0,2.0,12066.23,241.32,12.07,44753,79.27,292.72,0.0,813.38,0.0
+2021-09-17,Illinois,Stephenson,80.44,36,0,0.0,5400,108.0,2.0,12066.23,241.32,12.07,44753,79.27,292.72,62.56,813.38,62.56
 2021-09-16,Illinois,Stephenson,53.63,24,1,2.23,5364,108.0,2.01,11985.79,241.32,11.99,44753,79.27,230.16,-8.94,750.82,40.22
 2021-09-15,Illinois,Stephenson,46.92,21,0,0.0,5340,107.0,2.0,11932.16,239.09,11.93,44753,79.27,239.1,17.87,710.6,29.04
 2021-09-14,Illinois,Stephenson,69.27,31,0,0.0,5319,107.0,2.01,11885.24,239.09,11.89,44753,79.27,221.23,-8.94,681.56,55.86

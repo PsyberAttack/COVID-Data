@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-18,Virginia,Fairfax city,0.0,0,0,0.0,620,19.0,3.06,2522.99,77.32,2.52,24574,3937.85,32.56,0.0,142.45,0.0
+2021-09-17,Virginia,Fairfax city,-4.07,-1,0,0.0,620,19.0,3.06,2522.99,77.32,2.52,24574,3937.85,32.56,-12.21,142.45,-8.14
 2021-09-16,Virginia,Fairfax city,0.0,0,0,0.0,621,19.0,3.06,2527.06,77.32,2.53,24574,3937.85,44.77,-8.14,150.59,-4.07
 2021-09-15,Virginia,Fairfax city,8.14,2,0,0.0,621,19.0,3.06,2527.06,77.32,2.53,24574,3937.85,52.91,4.07,154.66,8.14
 2021-09-14,Virginia,Fairfax city,12.21,3,0,0.0,619,19.0,3.07,2518.92,77.32,2.52,24574,3937.85,48.84,4.07,146.52,8.14

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-18,North Carolina,Stanly,0.0,0,0,0.0,10437,152.0,1.46,16813.53,244.87,16.81,62075,157.1,779.7,0.0,2527.57,0.0
+2021-09-17,North Carolina,Stanly,106.32,66,0,0.0,10437,152.0,1.46,16813.53,244.87,16.81,62075,157.1,779.7,54.77,2527.57,12.88
 2021-09-16,North Carolina,Stanly,120.82,75,-1,-1.61,10371,152.0,1.47,16707.21,244.87,16.71,62075,157.1,724.93,40.27,2514.69,67.66
 2021-09-15,North Carolina,Stanly,72.49,45,0,0.0,10296,153.0,1.49,16586.39,246.48,16.59,62075,157.1,684.66,14.5,2447.03,9.66
 2021-09-14,North Carolina,Stanly,78.94,49,0,0.0,10251,153.0,1.49,16513.89,246.48,16.51,62075,157.1,670.16,-265.8,2437.37,43.5

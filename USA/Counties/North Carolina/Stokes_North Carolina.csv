@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-18,North Carolina,Stokes,0.0,0,0,0.0,5450,91.0,1.67,11986.72,200.15,11.99,45467,101.26,536.66,0.0,1603.37,0.0
+2021-09-17,North Carolina,Stokes,123.17,56,0,0.0,5450,91.0,1.67,11986.72,200.15,11.99,45467,101.26,536.66,76.98,1603.37,85.78
 2021-09-16,North Carolina,Stokes,41.79,19,3,6.6,5394,91.0,1.69,11863.55,200.15,11.86,45467,101.26,459.68,13.2,1517.59,-13.19
 2021-09-15,North Carolina,Stokes,101.17,46,2,4.4,5375,88.0,1.64,11821.76,193.55,11.82,45467,101.26,446.48,63.78,1530.78,50.58
 2021-09-14,North Carolina,Stokes,37.39,17,0,0.0,5329,86.0,1.61,11720.59,189.15,11.72,45467,101.26,382.7,-246.33,1480.2,15.4

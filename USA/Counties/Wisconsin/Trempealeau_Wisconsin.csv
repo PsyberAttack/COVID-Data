@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-18,Wisconsin,Trempealeau,0.0,0,0,0.0,4285,51.0,1.19,14554.04,173.22,14.55,29442,40.17,417.78,0.0,1463.91,0.0
+2021-09-17,Wisconsin,Trempealeau,40.76,12,0,0.0,4285,51.0,1.19,14554.04,173.22,14.55,29442,40.17,417.78,-37.36,1463.91,3.4
 2021-09-16,Wisconsin,Trempealeau,115.48,34,0,0.0,4273,51.0,1.19,14513.28,173.22,14.51,29442,40.17,455.14,10.19,1460.51,78.12
 2021-09-15,Wisconsin,Trempealeau,101.9,30,0,0.0,4239,51.0,1.2,14397.8,173.22,14.4,29442,40.17,444.95,47.56,1382.39,78.12
 2021-09-14,Wisconsin,Trempealeau,50.95,15,0,0.0,4209,51.0,1.21,14295.9,173.22,14.3,29442,40.17,397.39,-10.19,1304.27,30.57

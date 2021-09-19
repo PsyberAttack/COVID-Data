@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-18,Wisconsin,Chippewa,0.0,0,0,0.0,9145,105.0,1.15,14258.98,163.72,14.26,64135,63.6,492.72,0.0,1501.51,0.0
+2021-09-17,Wisconsin,Chippewa,67.05,43,0,0.0,9145,105.0,1.15,14258.98,163.72,14.26,64135,63.6,492.72,-37.42,1501.51,24.95
 2021-09-16,Wisconsin,Chippewa,76.4,49,0,0.0,9102,105.0,1.15,14191.94,163.72,14.19,64135,63.6,530.14,24.95,1476.56,48.33
 2021-09-15,Wisconsin,Chippewa,104.47,67,0,0.0,9053,105.0,1.16,14115.54,163.72,14.12,64135,63.6,505.19,31.19,1428.23,68.61
 2021-09-14,Wisconsin,Chippewa,81.08,52,0,0.0,8986,105.0,1.17,14011.07,163.72,14.01,64135,63.6,474.0,62.37,1359.62,73.28

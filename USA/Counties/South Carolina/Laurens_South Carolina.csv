@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-18,South Carolina,Laurens,0.0,0,0,0.0,9985,182.0,1.82,14904.32,271.67,14.9,66994,93.86,889.63,0.0,2864.44,0.0
+2021-09-17,South Carolina,Laurens,82.1,55,1,1.49,9985,182.0,1.82,14904.32,271.67,14.9,66994,93.86,889.63,-38.81,2864.44,46.28
 2021-09-16,South Carolina,Laurens,102.99,69,1,1.49,9930,181.0,1.82,14822.22,270.17,14.82,66994,93.86,928.44,16.42,2818.16,70.15
 2021-09-15,South Carolina,Laurens,62.69,42,1,1.49,9861,180.0,1.83,14719.23,268.68,14.72,66994,93.86,912.02,-2.99,2748.01,37.31
 2021-09-14,South Carolina,Laurens,95.53,64,0,0.0,9819,179.0,1.82,14656.54,267.19,14.66,66994,93.86,915.01,-2.99,2710.7,74.63

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-18,North Carolina,Rutherford,0.0,0,0,0.0,9973,275.0,2.76,14923.83,411.52,14.92,66826,118.18,779.64,0.0,2334.41,0.0
+2021-09-17,North Carolina,Rutherford,134.68,90,0,0.0,9973,275.0,2.76,14923.83,411.52,14.92,66826,118.18,779.64,91.28,2334.41,68.84
 2021-09-16,North Carolina,Rutherford,85.3,57,0,0.0,9883,275.0,2.78,14789.15,411.52,14.79,66826,118.18,688.36,34.42,2265.57,29.93
 2021-09-15,North Carolina,Rutherford,104.75,70,7,10.47,9826,275.0,2.8,14703.86,411.52,14.7,66826,118.18,653.94,22.45,2235.64,58.36
 2021-09-14,North Carolina,Rutherford,49.38,33,0,0.0,9756,268.0,2.75,14599.11,401.04,14.6,66826,118.18,631.49,-372.61,2177.28,2.99

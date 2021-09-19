@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-18,Tennessee,Lauderdale,0.0,0,0,0.0,4899,55.0,1.12,18969.99,212.97,18.97,25825,54.72,851.89,0.0,4061.95,0.0
+2021-09-17,Tennessee,Lauderdale,120.04,31,0,0.0,4899,55.0,1.12,18969.99,212.97,18.97,25825,54.72,851.89,46.47,4061.95,-178.12
 2021-09-16,Tennessee,Lauderdale,65.83,17,0,0.0,4868,55.0,1.13,18849.95,212.97,18.85,25825,54.72,805.42,7.75,4240.07,-174.25
 2021-09-15,Tennessee,Lauderdale,135.53,35,0,0.0,4851,55.0,1.13,18784.12,212.97,18.78,25825,54.72,797.67,120.04,4414.32,15.49
 2021-09-14,Tennessee,Lauderdale,54.21,14,2,7.74,4816,55.0,1.14,18648.6,212.97,18.65,25825,54.72,677.63,-623.43,4398.83,-30.98

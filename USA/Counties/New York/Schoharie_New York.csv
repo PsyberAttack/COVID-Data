@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-18,New York,Schoharie,28.94,9,0,0.0,2050,20.0,0.98,6592.28,64.31,6.59,31097,50.01,170.43,0.0,717.11,16.08
+2021-09-17,New York,Schoharie,19.29,6,0,0.0,2041,20.0,0.98,6563.33,64.31,6.56,31097,50.01,170.43,-28.95,701.03,9.64
 2021-09-16,New York,Schoharie,22.51,7,0,0.0,2035,20.0,0.98,6544.04,64.31,6.54,31097,50.01,199.38,-9.65,691.39,9.65
 2021-09-15,New York,Schoharie,16.08,5,0,0.0,2028,20.0,0.99,6521.53,64.31,6.52,31097,50.01,209.03,-22.51,681.74,9.65
 2021-09-14,New York,Schoharie,22.51,7,0,0.0,2023,20.0,0.99,6505.45,64.31,6.51,31097,50.01,231.54,0.0,672.09,16.08

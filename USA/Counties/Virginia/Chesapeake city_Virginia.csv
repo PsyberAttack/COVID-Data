@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-18,Virginia,Chesapeake city,0.0,0,0,0.0,26200,323.0,1.23,10798.16,133.12,10.8,242634,716.77,272.03,0.0,1177.52,0.0
+2021-09-17,Virginia,Chesapeake city,37.92,92,0,0.0,26200,323.0,1.23,10798.16,133.12,10.8,242634,716.77,272.03,-9.89,1177.52,-5.77
 2021-09-16,Virginia,Chesapeake city,39.57,96,1,0.41,26108,323.0,1.24,10760.24,133.12,10.76,242634,716.77,281.92,3.71,1183.29,-1.23
 2021-09-15,Virginia,Chesapeake city,45.75,111,0,0.0,26012,322.0,1.24,10720.67,132.71,10.72,242634,716.77,278.21,-11.95,1184.52,9.07
 2021-09-14,Virginia,Chesapeake city,39.57,96,0,0.0,25901,322.0,1.24,10674.93,132.71,10.67,242634,716.77,290.16,6.19,1175.45,-2.88

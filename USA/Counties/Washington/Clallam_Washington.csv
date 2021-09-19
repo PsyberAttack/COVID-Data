@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-18,Washington,Clallam,0.0,0,0,0.0,3703,35.0,0.95,4825.57,45.61,4.83,76737,44.14,500.42,0.0,2066.81,0.0
+2021-09-17,Washington,Clallam,72.98,56,2,2.61,3703,35.0,0.95,4825.57,45.61,4.83,76737,44.14,500.42,43.01,2066.81,40.4
 2021-09-16,Washington,Clallam,80.8,62,0,0.0,3647,33.0,0.9,4752.6,43.0,4.75,76737,44.14,457.41,-41.7,2026.41,22.16
 2021-09-15,Washington,Clallam,59.95,46,2,2.61,3585,33.0,0.92,4671.8,43.0,4.67,76737,44.14,499.11,-15.63,2004.25,0.0
 2021-09-14,Washington,Clallam,39.09,30,3,3.91,3539,31.0,0.88,4611.86,40.4,4.61,76737,44.14,514.74,-241.09,2004.25,14.33

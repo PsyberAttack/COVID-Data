@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-18,Washington,Whatcom,0.0,0,0,0.0,13743,130.0,0.95,6089.46,57.6,6.09,225685,107.07,251.68,0.0,1012.03,0.0
+2021-09-17,Washington,Whatcom,29.24,66,1,0.44,13743,130.0,0.95,6089.46,57.6,6.09,225685,107.07,251.68,8.86,1012.03,-21.72
 2021-09-16,Washington,Whatcom,38.11,86,0,0.0,13677,129.0,0.94,6060.22,57.16,6.06,225685,107.07,242.82,0.45,1033.75,5.32
 2021-09-15,Washington,Whatcom,27.92,63,0,0.0,13591,129.0,0.95,6022.11,57.16,6.02,225685,107.07,242.37,6.21,1028.43,-12.84
 2021-09-14,Washington,Whatcom,34.12,77,1,0.44,13528,129.0,0.95,5994.2,57.16,5.99,225685,107.07,236.16,-114.76,1041.27,-5.32

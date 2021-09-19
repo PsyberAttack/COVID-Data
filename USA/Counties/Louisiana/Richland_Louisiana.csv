@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-18,Louisiana,Richland,0.0,0,0,0.0,4028,73.0,1.81,19948.49,361.53,19.95,20192,36.33,549.72,0.0,3204.24,0.0
+2021-09-17,Louisiana,Richland,74.29,15,0,0.0,4028,73.0,1.81,19948.49,361.53,19.95,20192,36.33,549.72,-64.38,3204.24,-183.24
 2021-09-16,Louisiana,Richland,69.33,14,1,4.95,4013,73.0,1.82,19874.21,361.53,19.87,20192,36.33,614.1,-118.86,3387.48,-99.05
 2021-09-15,Louisiana,Richland,158.48,32,0,0.0,3999,72.0,1.8,19804.87,356.58,19.8,20192,36.33,732.96,84.19,3486.53,-79.24
 2021-09-14,Louisiana,Richland,44.57,9,0,0.0,3967,72.0,1.81,19646.39,356.58,19.65,20192,36.33,648.77,-351.63,3565.77,-79.24

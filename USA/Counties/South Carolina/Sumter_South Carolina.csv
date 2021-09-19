@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-18,South Carolina,Sumter,0.0,0,0,0.0,14500,253.0,1.74,13613.49,237.53,13.61,106512,160.15,459.11,0.0,1709.67,0.0
+2021-09-17,South Carolina,Sumter,61.03,65,3,2.82,14500,253.0,1.74,13613.49,237.53,13.61,106512,160.15,459.11,21.6,1709.67,-32.86
 2021-09-16,South Carolina,Sumter,65.72,70,0,0.0,14435,250.0,1.73,13552.46,234.72,13.55,106512,160.15,437.51,46.0,1742.53,24.41
 2021-09-15,South Carolina,Sumter,19.72,21,2,1.88,14365,250.0,1.74,13486.74,234.72,13.49,106512,160.15,391.51,-2.81,1718.12,-77.92
 2021-09-14,South Carolina,Sumter,67.6,72,1,0.94,14344,248.0,1.73,13467.03,232.84,13.47,106512,160.15,394.32,25.35,1796.04,31.92

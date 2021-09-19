@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-18,Virginia,Manassas city,0.0,0,0,0.0,4687,49.0,1.05,11255.73,117.67,11.26,41641,4227.59,201.72,0.0,549.91,0.0
+2021-09-17,Virginia,Manassas city,21.61,9,0,0.0,4687,49.0,1.05,11255.73,117.67,11.26,41641,4227.59,201.72,4.8,549.91,-9.61
 2021-09-16,Virginia,Manassas city,21.61,9,0,0.0,4678,49.0,1.05,11234.12,117.67,11.23,41641,4227.59,196.92,0.0,559.52,4.8
 2021-09-15,Virginia,Manassas city,45.63,19,0,0.0,4669,49.0,1.05,11212.51,117.67,11.21,41641,4227.59,196.92,28.82,554.72,21.62
 2021-09-14,Virginia,Manassas city,26.42,11,0,0.0,4650,49.0,1.05,11166.88,117.67,11.17,41641,4227.59,168.1,4.81,533.1,-9.6

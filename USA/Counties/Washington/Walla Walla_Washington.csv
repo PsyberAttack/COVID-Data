@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-18,Washington,Walla Walla,0.0,0,0,0.0,7891,84.0,1.06,12952.63,137.88,12.95,60922,47.97,592.56,0.0,1863.06,0.0
+2021-09-17,Washington,Walla Walla,67.3,41,0,0.0,7891,84.0,1.06,12952.63,137.88,12.95,60922,47.97,592.56,67.3,1863.06,14.77
 2021-09-16,Washington,Walla Walla,85.36,52,0,0.0,7850,84.0,1.07,12885.33,137.88,12.89,60922,47.97,525.26,21.34,1848.29,26.27
 2021-09-15,Washington,Walla Walla,59.09,36,1,1.64,7798,84.0,1.08,12799.97,137.88,12.8,60922,47.97,503.92,26.26,1822.02,-16.42
 2021-09-14,Washington,Walla Walla,62.37,38,1,1.64,7762,83.0,1.07,12740.88,136.24,12.74,60922,47.97,477.66,-160.87,1838.44,4.92

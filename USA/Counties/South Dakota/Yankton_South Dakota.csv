@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-18,South Dakota,Yankton,0.0,0,0,0.0,3304,35.0,1.06,14447.51,153.05,14.45,22869,43.88,157.42,0.0,686.51,0.0
+2021-09-17,South Dakota,Yankton,17.49,4,1,4.37,3304,35.0,1.06,14447.51,153.05,14.45,22869,43.88,157.42,-34.98,686.51,0.0
 2021-09-16,South Dakota,Yankton,21.86,5,0,0.0,3300,34.0,1.03,14430.01,148.67,14.43,22869,43.88,192.4,-13.12,686.51,8.74
 2021-09-15,South Dakota,Yankton,43.73,10,0,0.0,3295,34.0,1.03,14408.15,148.67,14.41,22869,43.88,205.52,-8.74,677.77,26.24
 2021-09-14,South Dakota,Yankton,65.59,15,0,0.0,3285,34.0,1.04,14364.42,148.67,14.36,22869,43.88,214.26,39.35,651.53,43.73

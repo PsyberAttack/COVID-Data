@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-18,Virginia,Chesterfield,0.0,0,0,0.0,35523,481.0,1.35,10191.48,138.0,10.19,348556,822.91,364.64,0.0,1294.2,0.0
+2021-09-17,Virginia,Chesterfield,67.99,237,2,0.57,35523,481.0,1.35,10191.48,138.0,10.19,348556,822.91,364.64,13.77,1294.2,26.68
 2021-09-16,Virginia,Chesterfield,39.59,138,2,0.57,35286,479.0,1.36,10123.48,137.42,10.12,348556,822.91,350.87,-8.61,1267.52,-7.46
 2021-09-15,Virginia,Chesterfield,68.28,238,1,0.29,35148,477.0,1.36,10083.89,136.85,10.08,348556,822.91,359.48,19.51,1274.98,40.16
 2021-09-14,Virginia,Chesterfield,53.36,186,0,0.0,34910,476.0,1.36,10015.61,136.56,10.02,348556,822.91,339.97,16.64,1234.82,15.78

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-18,Louisiana,Livingston,0.0,0,0,0.0,23653,343.0,1.45,16947.42,245.76,16.95,139567,215.32,265.82,0.0,1733.22,0.0
+2021-09-17,Louisiana,Livingston,50.87,71,1,0.72,23653,343.0,1.45,16947.42,245.76,16.95,139567,215.32,265.82,12.18,1733.22,-27.23
 2021-09-16,Louisiana,Livingston,30.09,42,1,0.72,23582,342.0,1.45,16896.54,245.04,16.9,139567,215.32,253.64,-192.74,1760.45,-69.5
 2021-09-15,Louisiana,Livingston,25.08,35,2,1.43,23540,341.0,1.45,16866.45,244.33,16.87,139567,215.32,446.38,-5.01,1829.95,-206.35
 2021-09-14,Louisiana,Livingston,96.73,135,5,3.58,23505,339.0,1.44,16841.37,242.89,16.84,139567,215.32,451.39,0.72,2036.3,5.73

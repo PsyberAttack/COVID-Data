@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-18,Virginia,Middlesex,0.0,0,0,0.0,790,24.0,3.04,7335.87,222.86,7.34,10769,82.63,390.0,0.0,1457.91,0.0
+2021-09-17,Virginia,Middlesex,37.14,4,0,0.0,790,24.0,3.04,7335.87,222.86,7.34,10769,82.63,390.0,-74.29,1457.91,0.0
 2021-09-16,Virginia,Middlesex,27.86,3,0,0.0,786,24.0,3.05,7298.73,222.86,7.3,10769,82.63,464.29,-46.43,1457.91,-27.86
 2021-09-15,Virginia,Middlesex,83.57,9,0,0.0,783,24.0,3.07,7270.87,222.86,7.27,10769,82.63,510.72,-37.15,1485.77,46.43
 2021-09-14,Virginia,Middlesex,37.14,4,0,0.0,774,24.0,3.1,7187.3,222.86,7.19,10769,82.63,547.87,27.85,1439.34,37.14

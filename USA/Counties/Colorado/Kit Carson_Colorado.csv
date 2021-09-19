@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-18,Colorado,Kit Carson,0.0,0,0,0.0,819,14.0,1.71,11433.76,195.45,11.43,7163,3.31,376.93,0.0,1577.53,0.0
+2021-09-17,Colorado,Kit Carson,55.84,4,0,0.0,819,14.0,1.71,11433.76,195.45,11.43,7163,3.31,376.93,-55.85,1577.53,55.84
 2021-09-16,Colorado,Kit Carson,27.92,2,0,0.0,815,14.0,1.72,11377.91,195.45,11.38,7163,3.31,432.78,-13.96,1521.69,-69.8
 2021-09-15,Colorado,Kit Carson,55.84,4,0,0.0,813,14.0,1.72,11349.99,195.45,11.35,7163,3.31,446.74,-251.29,1591.49,-13.96
 2021-09-14,Colorado,Kit Carson,97.72,7,0,0.0,809,14.0,1.73,11294.15,195.45,11.29,7163,3.31,698.03,97.72,1605.45,27.92

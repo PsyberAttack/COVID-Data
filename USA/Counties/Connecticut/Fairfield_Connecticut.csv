@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-18,Connecticut,Fairfield,0.0,0,0,0.0,109004,2239.0,2.05,11549.2,237.23,11.55,943823,1510.2,169.52,0.0,479.32,0.0
+2021-09-17,Connecticut,Fairfield,72.37,683,1,0.11,109004,2239.0,2.05,11549.2,237.23,11.55,943823,1510.2,169.52,58.49,479.32,59.55
 2021-09-16,Connecticut,Fairfield,41.53,392,0,0.0,108321,2238.0,2.07,11476.83,237.12,11.48,943823,1510.2,111.03,24.58,419.77,30.19
 2021-09-15,Connecticut,Fairfield,9.43,89,1,0.11,107929,2238.0,2.07,11435.3,237.12,11.44,943823,1510.2,86.45,-10.59,389.58,-7.63
 2021-09-14,Connecticut,Fairfield,16.63,157,3,0.32,107840,2237.0,2.07,11425.87,237.01,11.43,943823,1510.2,97.04,-19.08,397.21,-9.01

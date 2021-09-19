@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-18,Minnesota,Mahnomen,0.0,0,0,0.0,681,9.0,1.32,12339.19,163.07,12.34,5519,9.89,543.57,0.0,1703.21,0.0
+2021-09-17,Minnesota,Mahnomen,144.95,8,0,0.0,681,9.0,1.32,12339.19,163.07,12.34,5519,9.89,543.57,-18.12,1703.21,90.59
 2021-09-16,Minnesota,Mahnomen,199.31,11,0,0.0,673,9.0,1.34,12194.24,163.07,12.19,5519,9.89,561.69,36.24,1612.62,18.12
 2021-09-15,Minnesota,Mahnomen,18.12,1,0,0.0,662,9.0,1.36,11994.93,163.07,11.99,5519,9.89,525.45,-72.48,1594.5,-18.12
 2021-09-14,Minnesota,Mahnomen,126.83,7,0,0.0,661,9.0,1.36,11976.81,163.07,11.98,5519,9.89,597.93,126.83,1612.62,126.83
