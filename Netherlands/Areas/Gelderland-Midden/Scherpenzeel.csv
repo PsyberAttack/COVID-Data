@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0279,2021-09-18,Gelderland-Midden,Scherpenzeel,10.12,1,0,0.0,1197,12,1.0,12115.38,121.46,12.12,9880,70.84,0.0,242.88,10.12
+GM0279,2021-09-17,Gelderland-Midden,Scherpenzeel,20.24,2,0,0.0,1196,12,1.0,12105.26,121.46,12.11,9880,70.84,10.12,232.76,0.0
 GM0279,2021-09-16,Gelderland-Midden,Scherpenzeel,0.0,0,0,0.0,1194,12,1.01,12085.02,121.46,12.09,9880,60.72,-30.36,232.76,0.0
 GM0279,2021-09-15,Gelderland-Midden,Scherpenzeel,0.0,0,0,0.0,1194,12,1.01,12085.02,121.46,12.09,9880,91.08,-20.24,232.76,-10.12
 GM0279,2021-09-14,Gelderland-Midden,Scherpenzeel,10.12,1,0,0.0,1194,12,1.01,12085.02,121.46,12.09,9880,111.32,10.12,242.88,0.0

@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0327,2021-09-18,Utrecht,Leusden,6.58,2,0,0.0,2790,25,0.9,9177.93,82.24,9.18,30399,39.48,3.29,184.24,0.0
+GM0327,2021-09-17,Utrecht,Leusden,6.58,2,0,0.0,2788,25,0.9,9171.35,82.24,9.17,30399,36.19,0.0,184.24,-3.29
 GM0327,2021-09-16,Utrecht,Leusden,0.0,0,0,0.0,2786,25,0.9,9164.78,82.24,9.16,30399,36.19,-6.58,187.53,-13.16
 GM0327,2021-09-15,Utrecht,Leusden,3.29,1,0,0.0,2786,25,0.9,9164.78,82.24,9.16,30399,42.77,-9.87,200.69,-3.29
 GM0327,2021-09-14,Utrecht,Leusden,13.16,4,0,0.0,2785,25,0.9,9161.49,82.24,9.16,30399,52.64,9.87,203.98,6.58
