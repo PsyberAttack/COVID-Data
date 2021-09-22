@@ -1,4 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-21 00:00:00+00:00,Bayern,Landsberg am Lech,2.5,3,0,0.0,4574,72,1.57,3809.41,59.96,3.81,120071,33.32,-11.66,253.17,-15.82
+2021-09-20 00:00:00+00:00,Bayern,Landsberg am Lech,0.0,0,0,0.0,4571,72,1.58,3806.91,59.96,3.81,120071,44.98,-3.33,268.99,-3.33
 2021-09-19 00:00:00+00:00,Bayern,Landsberg am Lech,4.16,5,0,0.0,4571,72,1.58,3806.91,59.96,3.81,120071,48.31,-2.5,272.32,-5.83
 2021-09-18 00:00:00+00:00,Bayern,Landsberg am Lech,1.67,2,0,0.0,4566,72,1.58,3802.75,59.96,3.8,120071,50.81,-8.32,278.15,-2.49
 2021-09-17 00:00:00+00:00,Bayern,Landsberg am Lech,5.83,7,0,0.0,4564,72,1.58,3801.08,59.96,3.8,120071,59.13,0.0,280.64,-0.83
