@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-20,Missouri,St. Clair,0.0,0,0,0.0,1174,9.0,0.77,12496.01,95.8,12.5,9395,13.92,361.89,-21.29,1043.09,0.0
+2021-09-19,Missouri,St. Clair,21.29,2,0,0.0,1174,9.0,0.77,12496.01,95.8,12.5,9395,13.92,383.18,10.65,1043.09,21.29
 2021-09-18,Missouri,St. Clair,53.22,5,0,0.0,1172,9.0,0.77,12474.72,95.8,12.47,9395,13.92,372.53,-10.64,1021.8,10.64
 2021-09-17,Missouri,St. Clair,63.86,6,0,0.0,1167,9.0,0.77,12421.5,95.8,12.42,9395,13.92,383.17,21.28,1011.16,31.93
 2021-09-16,Missouri,St. Clair,53.22,5,0,0.0,1161,9.0,0.78,12357.64,95.8,12.36,9395,13.92,361.89,-10.64,979.23,10.64

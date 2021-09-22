@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-20,Pennsylvania,Philadelphia,0.0,0,0,0.0,171356,3877.0,2.26,10816.99,244.74,10.82,1584138,11801.42,124.61,-10.79,526.33,-46.65
+2021-09-19,Pennsylvania,Philadelphia,20.64,327,1,0.06,171356,3877.0,2.26,10816.99,244.74,10.82,1584138,11801.42,135.4,1.13,572.98,20.64
 2021-09-18,Pennsylvania,Philadelphia,20.58,326,3,0.19,171029,3876.0,2.27,10796.34,244.68,10.8,1584138,11801.42,134.27,-1.7,552.34,20.58
 2021-09-17,Pennsylvania,Philadelphia,23.42,371,2,0.13,170703,3873.0,2.27,10775.77,244.49,10.78,1584138,11801.42,135.97,2.84,531.76,-2.84
 2021-09-16,Pennsylvania,Philadelphia,21.97,348,6,0.38,170332,3871.0,2.27,10752.35,244.36,10.75,1584138,11801.42,133.13,15.53,534.6,-29.98
