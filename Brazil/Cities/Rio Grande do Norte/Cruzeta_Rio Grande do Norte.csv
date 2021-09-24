@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
 2021-09-20,Rio Grande do Norte,Cruzeta,0.0,0,0,0.0,1179,13,1.1,14741.19,162.54,14.74,7998,25.0,0.0,50.01,0.0
-2021-09-19,Rio Grande do Norte,Cruzeta,12.5,1,1,12.5,1179,13,1.1,14741.19,162.54,14.74,7998,25.0,12.5,50.01,12.5
+2021-09-19,Rio Grande do Norte,Cruzeta,0.0,0,1,12.5,1179,13,1.1,14741.19,162.54,14.74,7998,25.0,0.0,50.01,0.0
+2021-09-16,Rio Grande do Norte,Cruzeta,12.5,1,0,0.0,1179,12,1.02,14741.19,150.04,14.74,7998,25.0,12.5,50.01,12.5
 2021-09-14,Rio Grande do Norte,Cruzeta,0.0,0,0,0.0,1178,12,1.02,14728.68,150.04,14.73,7998,12.5,0.0,37.51,0.0
 2021-09-13,Rio Grande do Norte,Cruzeta,12.5,1,0,0.0,1178,12,1.02,14728.68,150.04,14.73,7998,12.5,-2213.06,37.51,12.5
 2021-09-12,Rio Grande do Norte,Cruzeta,0.0,0,0,0.0,1177,12,1.02,14716.18,150.04,14.72,7998,2225.56,2225.56,25.01,0.0

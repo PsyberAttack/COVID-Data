@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-09-20,Rio Grande do Norte,Nova Cruz,0.0,0,0,0.0,2374,58,2.44,6357.28,155.32,6.36,37343,24.1,2.68,50.9,0.0
-2021-09-19,Rio Grande do Norte,Nova Cruz,24.1,9,1,2.68,2374,58,2.44,6357.28,155.32,6.36,37343,21.42,21.42,50.9,16.07
+2021-09-20,Rio Grande do Norte,Nova Cruz,0.0,0,0,0.0,2374,58,2.44,6357.28,155.32,6.36,37343,24.1,0.0,50.9,0.0
+2021-09-19,Rio Grande do Norte,Nova Cruz,24.1,9,0,0.0,2374,58,2.44,6357.28,155.32,6.36,37343,24.1,26.78,50.9,24.1
+2021-09-16,Rio Grande do Norte,Nova Cruz,0.0,0,1,2.68,2365,58,2.45,6333.18,155.32,6.33,37343,-2.68,-2.68,26.8,-8.03
 2021-09-14,Rio Grande do Norte,Nova Cruz,0.0,0,0,0.0,2365,57,2.41,6333.18,152.64,6.33,37343,-0.0,-2.68,34.83,0.0
 2021-09-13,Rio Grande do Norte,Nova Cruz,0.0,0,0,0.0,2365,57,2.41,6333.18,152.64,6.33,37343,2.68,0.0,34.83,-8.03
 2021-09-12,Rio Grande do Norte,Nova Cruz,0.0,0,0,0.0,2365,57,2.41,6333.18,152.64,6.33,37343,2.68,-5.36,42.86,-2.68

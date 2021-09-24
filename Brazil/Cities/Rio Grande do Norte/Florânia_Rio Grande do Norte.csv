@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-09-20,Rio Grande do Norte,Florânia,0.0,0,0,0.0,1546,17,1.1,16959.19,186.49,16.96,9116,10.97,-10.97,274.25,-32.91
-2021-09-19,Rio Grande do Norte,Florânia,10.97,1,0,0.0,1546,17,1.1,16959.19,186.49,16.96,9116,21.94,10.97,307.16,-10.97
+2021-09-20,Rio Grande do Norte,Florânia,0.0,0,0,0.0,1546,17,1.1,16959.19,186.49,16.96,9116,10.97,0.0,274.25,0.0
+2021-09-19,Rio Grande do Norte,Florânia,10.97,1,0,0.0,1546,17,1.1,16959.19,186.49,16.96,9116,10.97,0.0,274.25,-21.94
+2021-09-16,Rio Grande do Norte,Florânia,0.0,0,0,0.0,1545,17,1.1,16948.22,186.49,16.95,9116,10.97,0.0,296.19,-21.94
 2021-09-14,Rio Grande do Norte,Florânia,0.0,0,0,0.0,1545,17,1.1,16948.22,186.49,16.95,9116,10.97,0.0,318.13,0.0
 2021-09-13,Rio Grande do Norte,Florânia,0.0,0,0,0.0,1545,17,1.1,16948.22,186.49,16.95,9116,10.97,-10388.33,318.13,0.0
 2021-09-12,Rio Grande do Norte,Florânia,0.0,0,1,10.97,1545,17,1.1,16948.22,186.49,16.95,9116,10399.3,10388.33,318.13,0.0

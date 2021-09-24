@@ -1,6 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-09-20,Rio Grande do Norte,Pureza,0.0,0,0,0.0,523,16,3.06,5436.03,166.3,5.44,9621,41.57,0.0,145.5,-10.39
-2021-09-19,Rio Grande do Norte,Pureza,10.39,1,0,0.0,523,16,3.06,5436.03,166.3,5.44,9621,41.57,0.0,155.89,10.39
+2021-09-20,Rio Grande do Norte,Pureza,0.0,0,0,0.0,523,16,3.06,5436.03,166.3,5.44,9621,41.57,0.0,145.5,0.0
+2021-09-19,Rio Grande do Norte,Pureza,10.39,1,0,0.0,523,16,3.06,5436.03,166.3,5.44,9621,41.57,10.39,145.5,0.0
+2021-09-16,Rio Grande do Norte,Pureza,0.0,0,0,0.0,522,16,3.07,5425.63,166.3,5.43,9621,31.18,-10.39,145.5,0.0
 2021-09-14,Rio Grande do Norte,Pureza,10.39,1,0,0.0,522,16,3.07,5425.63,166.3,5.43,9621,41.57,20.78,145.5,10.39
 2021-09-13,Rio Grande do Norte,Pureza,0.0,0,0,0.0,521,16,3.07,5415.24,166.3,5.42,9621,20.79,0.0,135.11,0.0
 2021-09-12,Rio Grande do Norte,Pureza,20.79,2,0,0.0,521,16,3.07,5415.24,166.3,5.42,9621,20.79,20.79,135.11,20.79
