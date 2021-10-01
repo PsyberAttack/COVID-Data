@@ -1,7 +1,14 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-09-20,Rio Grande do Norte,São Gonçalo do Amarante,0.98,1,0,0.0,8544,226,2.65,8343.75,220.7,8.34,102400,108.4,0.0,223.65,-0.97
-2021-09-19,Rio Grande do Norte,São Gonçalo do Amarante,94.73,97,1,0.98,8543,226,2.65,8342.77,220.7,8.34,102400,108.4,88.87,224.62,93.75
-2021-09-16,Rio Grande do Norte,São Gonçalo do Amarante,3.91,4,1,0.98,8446,225,2.66,8248.05,219.73,8.25,102400,19.53,0.0,130.87,-0.97
+2021-09-28,Rio Grande do Norte,São Gonçalo do Amarante,0.0,0,0,0.0,8558,227,2.65,8357.42,221.68,8.36,102400,14.65,-94.73,202.16,-11.72
+2021-09-27,Rio Grande do Norte,São Gonçalo do Amarante,2.93,3,0,0.0,8558,227,2.65,8357.42,221.68,8.36,102400,109.38,0.0,213.88,-1.95
+2021-09-26,Rio Grande do Norte,São Gonçalo do Amarante,4.88,5,0,0.0,8555,227,2.65,8354.49,221.68,8.35,102400,109.38,3.9,215.83,3.9
+2021-09-23,Rio Grande do Norte,São Gonçalo do Amarante,4.88,5,0,0.0,8550,227,2.65,8349.61,221.68,8.35,102400,105.48,2.93,211.93,1.95
+2021-09-22,Rio Grande do Norte,São Gonçalo do Amarante,0.98,1,0,0.0,8545,227,2.66,8344.73,221.68,8.34,102400,102.55,1.96,209.98,-5.86
+2021-09-21,Rio Grande do Norte,São Gonçalo do Amarante,0.0,0,1,0.98,8544,227,2.66,8343.75,221.68,8.34,102400,100.59,-5.86,215.84,-4.88
+2021-09-20,Rio Grande do Norte,São Gonçalo do Amarante,0.98,1,0,0.0,8544,226,2.65,8343.75,220.7,8.34,102400,106.45,-0.97,220.72,-1.95
+2021-09-19,Rio Grande do Norte,São Gonçalo do Amarante,94.73,97,1,0.98,8543,226,2.65,8342.77,220.7,8.34,102400,107.42,93.75,222.67,92.78
+2021-09-16,Rio Grande do Norte,São Gonçalo do Amarante,2.93,3,0,0.0,8446,225,2.66,8248.05,219.73,8.25,102400,13.67,-2.93,129.89,1.95
+2021-09-15,Rio Grande do Norte,São Gonçalo do Amarante,0.98,1,1,0.98,8443,225,2.66,8245.12,219.73,8.25,102400,16.6,-2.93,127.94,-3.9
 2021-09-14,Rio Grande do Norte,São Gonçalo do Amarante,1.95,2,0,0.0,8442,224,2.65,8244.14,218.75,8.24,102400,19.53,-1.96,131.84,-8.79
 2021-09-13,Rio Grande do Norte,São Gonçalo do Amarante,-0.98,-1,1,0.98,8440,224,2.65,8242.19,218.75,8.24,102400,21.49,-3.91,140.63,-17.58
 2021-09-12,Rio Grande do Norte,São Gonçalo do Amarante,5.86,6,0,0.0,8441,223,2.64,8243.16,217.77,8.24,102400,25.4,-1.95,158.21,7.81

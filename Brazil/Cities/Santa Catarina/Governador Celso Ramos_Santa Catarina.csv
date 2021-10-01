@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-29,Santa Catarina,Governador Celso Ramos,0.0,0,0,0.0,2822,28,0.99,19501.07,193.49,19.5,14471,297.14,-6.91,566.63,-6.91
+2021-09-28,Santa Catarina,Governador Celso Ramos,41.46,6,0,0.0,2822,28,0.99,19501.07,193.49,19.5,14471,304.05,13.82,573.54,20.73
+2021-09-27,Santa Catarina,Governador Celso Ramos,13.82,2,0,0.0,2816,28,0.99,19459.61,193.49,19.46,14471,290.23,6.91,552.81,-34.55
+2021-09-25,Santa Catarina,Governador Celso Ramos,62.19,9,0,0.0,2814,28,1.0,19445.79,193.49,19.45,14471,283.32,48.37,587.36,48.37
 2021-09-23,Santa Catarina,Governador Celso Ramos,20.73,3,0,0.0,2805,28,1.0,19383.59,193.49,19.38,14471,234.95,-13.82,538.99,20.73
 2021-09-22,Santa Catarina,Governador Celso Ramos,131.3,19,1,6.91,2802,28,1.0,19362.86,193.49,19.36,14471,248.77,124.39,518.26,131.3
 2021-09-21,Santa Catarina,Governador Celso Ramos,27.64,4,0,0.0,2783,27,0.97,19231.57,186.58,19.23,14471,124.38,27.64,386.96,27.64

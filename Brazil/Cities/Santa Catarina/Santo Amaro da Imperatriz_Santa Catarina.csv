@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-09-29,Santa Catarina,Santo Amaro da Imperatriz,8.6,2,2,8.6,3906,81,2.07,16803.61,348.46,16.8,23245,120.45,-12.91,417.27,-17.21
+2021-09-28,Santa Catarina,Santo Amaro da Imperatriz,12.91,3,0,0.0,3904,79,2.02,16795.01,339.86,16.8,23245,133.36,-4.3,434.48,-17.2
+2021-09-27,Santa Catarina,Santo Amaro da Imperatriz,17.21,4,0,0.0,3901,79,2.03,16782.1,339.86,16.78,23245,137.66,8.61,451.68,0.0
+2021-09-25,Santa Catarina,Santo Amaro da Imperatriz,51.62,12,1,4.3,3897,79,2.03,16764.9,339.86,16.76,23245,129.05,38.71,451.68,25.81
 2021-09-23,Santa Catarina,Santo Amaro da Imperatriz,25.81,6,1,4.3,3885,78,2.01,16713.27,335.56,16.71,23245,90.34,17.21,425.87,25.81
 2021-09-22,Santa Catarina,Santo Amaro da Imperatriz,-17.21,-4,0,0.0,3879,77,1.99,16687.46,331.25,16.69,23245,73.13,-47.32,400.06,-21.51
 2021-09-21,Santa Catarina,Santo Amaro da Imperatriz,21.51,5,0,0.0,3883,77,1.98,16704.67,331.25,16.7,23245,120.45,12.91,421.57,17.21

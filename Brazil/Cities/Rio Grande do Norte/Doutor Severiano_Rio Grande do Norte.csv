@@ -1,7 +1,14 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-09-20,Rio Grande do Norte,Doutor Severiano,0.0,0,0,0.0,689,22,3.19,9737.14,310.91,9.74,7076,84.78,0.0,127.18,0.0
+2021-09-28,Rio Grande do Norte,Doutor Severiano,0.0,0,0,0.0,689,22,3.19,9737.14,310.91,9.74,7076,0.0,-14.13,113.05,0.0
+2021-09-27,Rio Grande do Norte,Doutor Severiano,0.0,0,0,0.0,689,22,3.19,9737.14,310.91,9.74,7076,14.13,0.0,113.05,0.0
+2021-09-26,Rio Grande do Norte,Doutor Severiano,0.0,0,0,0.0,689,22,3.19,9737.14,310.91,9.74,7076,14.13,-14.13,113.05,-14.13
+2021-09-23,Rio Grande do Norte,Doutor Severiano,0.0,0,0,0.0,689,22,3.19,9737.14,310.91,9.74,7076,28.26,0.0,127.18,0.0
+2021-09-22,Rio Grande do Norte,Doutor Severiano,0.0,0,0,0.0,689,22,3.19,9737.14,310.91,9.74,7076,28.26,0.0,127.18,0.0
+2021-09-21,Rio Grande do Norte,Doutor Severiano,0.0,0,0,0.0,689,22,3.19,9737.14,310.91,9.74,7076,28.26,-28.26,127.18,14386.66
+2021-09-20,Rio Grande do Norte,Doutor Severiano,0.0,0,0,0.0,689,22,3.19,9737.14,310.91,9.74,7076,56.52,-28.26,-14259.48,-14386.66
 2021-09-19,Rio Grande do Norte,Doutor Severiano,14.13,1,0,0.0,689,22,3.19,9737.14,310.91,9.74,7076,84.78,14.13,127.18,14.13
-2021-09-16,Rio Grande do Norte,Doutor Severiano,14.13,1,0,0.0,688,22,3.2,9723.01,310.91,9.72,7076,70.65,14.13,113.05,-14.13
+2021-09-16,Rio Grande do Norte,Doutor Severiano,0.0,0,0,0.0,688,22,3.2,9723.01,310.91,9.72,7076,70.65,0.0,113.05,0.0
+2021-09-15,Rio Grande do Norte,Doutor Severiano,14.13,1,0,0.0,688,22,3.2,9723.01,310.91,9.72,7076,70.65,14.13,113.05,-14.13
 2021-09-14,Rio Grande do Norte,Doutor Severiano,0.0,0,0,0.0,687,22,3.2,9708.88,310.91,9.71,7076,56.52,0.0,127.18,0.0
 2021-09-13,Rio Grande do Norte,Doutor Severiano,0.0,0,0,0.0,687,22,3.2,9708.88,310.91,9.71,7076,56.52,31783.49,127.18,0.0
 2021-09-12,Rio Grande do Norte,Doutor Severiano,28.26,2,0,0.0,687,22,3.2,9708.88,310.91,9.71,7076,-31726.97,-31783.5,127.18,28.26

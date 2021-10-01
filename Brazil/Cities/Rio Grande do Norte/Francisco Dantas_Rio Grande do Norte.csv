@@ -1,7 +1,14 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-09-20,Rio Grande do Norte,Francisco Dantas,0.0,0,0,0.0,560,5,0.89,19830.03,177.05,19.83,2824,141.64,0.0,106.23,0.0
+2021-09-28,Rio Grande do Norte,Francisco Dantas,0.0,0,0,0.0,561,5,0.89,19865.44,177.05,19.87,2824,35.41,-35.41,177.05,0.0
+2021-09-27,Rio Grande do Norte,Francisco Dantas,0.0,0,0,0.0,561,5,0.89,19865.44,177.05,19.87,2824,70.82,0.0,177.05,0.0
+2021-09-26,Rio Grande do Norte,Francisco Dantas,35.41,1,0,0.0,561,5,0.89,19865.44,177.05,19.87,2824,70.82,35.41,177.05,35.41
+2021-09-23,Rio Grande do Norte,Francisco Dantas,0.0,0,0,0.0,560,5,0.89,19830.03,177.05,19.83,2824,35.41,-35.41,141.64,35.41
+2021-09-22,Rio Grande do Norte,Francisco Dantas,0.0,0,0,0.0,560,5,0.89,19830.03,177.05,19.83,2824,70.82,-70.82,106.23,0.0
+2021-09-21,Rio Grande do Norte,Francisco Dantas,0.0,0,0,0.0,560,5,0.89,19830.03,177.05,19.83,2824,141.64,0.0,106.23,6090.65
+2021-09-20,Rio Grande do Norte,Francisco Dantas,0.0,0,0,0.0,560,5,0.89,19830.03,177.05,19.83,2824,141.64,0.0,-5984.42,-6090.65
 2021-09-19,Rio Grande do Norte,Francisco Dantas,35.41,1,0,0.0,560,5,0.89,19830.03,177.05,19.83,2824,141.64,35.41,106.23,35.41
 2021-09-16,Rio Grande do Norte,Francisco Dantas,0.0,0,0,0.0,559,5,0.89,19794.62,177.05,19.79,2824,106.23,0.0,70.82,0.0
+2021-09-15,Rio Grande do Norte,Francisco Dantas,0.0,0,0,0.0,559,5,0.89,19794.62,177.05,19.79,2824,106.23,0.0,70.82,0.0
 2021-09-14,Rio Grande do Norte,Francisco Dantas,35.41,1,0,0.0,559,5,0.89,19794.62,177.05,19.79,2824,106.23,35.41,70.82,35.41
 2021-09-13,Rio Grande do Norte,Francisco Dantas,70.82,2,0,0.0,558,5,0.9,19759.21,177.05,19.76,2824,70.82,28966.0,35.41,70.82
 2021-09-12,Rio Grande do Norte,Francisco Dantas,0.0,0,0,0.0,556,5,0.9,19688.39,177.05,19.69,2824,-28895.18,-28895.18,-35.41,35.41
