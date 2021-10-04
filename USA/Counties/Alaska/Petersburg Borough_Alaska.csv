@@ -1,4 +1,8 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-10-03,Alaska,Petersburg Borough,0.0,0,0,0.0,243,2.0,0.82,7544.24,62.09,7.54,3221,1.11,1024.52,0.0,1055.57,0.0
+2021-10-02,Alaska,Petersburg Borough,0.0,0,0,0.0,243,2.0,0.82,7544.24,62.09,7.54,3221,1.11,1024.52,0.0,1055.57,0.0
+2021-10-01,Alaska,Petersburg Borough,-31.05,-1,0,0.0,243,2.0,0.82,7544.24,62.09,7.54,3221,1.11,1024.52,-31.05,1055.57,-124.19
+2021-09-30,Alaska,Petersburg Borough,962.43,31,0,0.0,244,2.0,0.82,7575.29,62.09,7.58,3221,1.11,1055.57,962.43,1179.76,900.34
 2021-09-29,Alaska,Petersburg Borough,62.09,2,0,0.0,213,2.0,0.94,6612.85,62.09,6.61,3221,1.11,93.14,62.09,279.42,31.04
 2021-09-28,Alaska,Petersburg Borough,0.0,0,0,0.0,211,2.0,0.95,6550.76,62.09,6.55,3221,1.11,31.05,0.0,248.38,0.0
 2021-09-27,Alaska,Petersburg Borough,31.05,1,0,0.0,211,2.0,0.95,6550.76,62.09,6.55,3221,1.11,31.05,31.05,248.38,-93.14

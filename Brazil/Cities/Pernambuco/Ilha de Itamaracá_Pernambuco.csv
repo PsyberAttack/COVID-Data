@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-10-02,Pernambuco,Ilha de Itamaracá,0.0,0,0,0.0,1286,34,2.64,4897.56,129.48,4.9,26258,38.09,0.0,99.04,0.0
+2021-10-01,Pernambuco,Ilha de Itamaracá,3.81,1,0,0.0,1286,34,2.64,4897.56,129.48,4.9,26258,38.09,15.24,99.04,-3.81
+2021-09-30,Pernambuco,Ilha de Itamaracá,11.43,3,0,0.0,1285,34,2.65,4893.75,129.48,4.89,26258,22.85,0.0,102.85,11.43
 2021-09-29,Pernambuco,Ilha de Itamaracá,15.23,4,0,0.0,1282,34,2.65,4882.32,129.48,4.88,26258,22.85,0.0,91.42,15.23
 2021-09-28,Pernambuco,Ilha de Itamaracá,7.62,2,0,0.0,1278,34,2.66,4867.09,129.48,4.87,26258,22.85,-3.81,76.19,7.62
 2021-09-27,Pernambuco,Ilha de Itamaracá,0.0,0,0,0.0,1276,34,2.66,4859.47,129.48,4.86,26258,26.66,-3.81,68.57,0.0

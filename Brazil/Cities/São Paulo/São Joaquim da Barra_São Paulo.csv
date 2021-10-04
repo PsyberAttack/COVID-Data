@@ -1,4 +1,7 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-10-01,São Paulo,São Joaquim da Barra,0.0,0,1,1.93,6698,163,2.43,12908.57,314.14,12.91,51888,40.47,0.0,481.8,-21.2
+2021-09-29,São Paulo,São Joaquim da Barra,0.0,0,0,0.0,6698,162,2.42,12908.57,312.21,12.91,51888,40.47,-321.85,503.0,-23.13
+2021-09-28,São Paulo,São Joaquim da Barra,1.93,1,1,1.93,6698,162,2.42,12908.57,312.21,12.91,51888,362.32,0.0,526.13,-5.78
 2021-09-24,São Paulo,São Joaquim da Barra,21.2,11,0,0.0,6697,161,2.4,12906.65,310.28,12.91,51888,362.32,21.2,531.91,11.56
 2021-09-23,São Paulo,São Joaquim da Barra,5.78,3,0,0.0,6686,161,2.41,12885.45,310.28,12.89,51888,341.12,1.93,520.35,-1.93
 2021-09-22,São Paulo,São Joaquim da Barra,5.78,3,0,0.0,6683,161,2.41,12879.66,310.28,12.88,51888,339.19,5.78,522.28,3.85

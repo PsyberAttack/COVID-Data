@@ -1,4 +1,7 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM1699,2021-10-04,Drenthe,Noordenveld,3.2,1,0,0.0,2098,25,1.19,6715.32,80.02,6.72,31242,12.8,3.2,80.0,0.0
+GM1699,2021-10-03,Drenthe,Noordenveld,0.0,0,0,0.0,2097,25,1.19,6712.12,80.02,6.71,31242,9.6,0.0,80.0,-3.2
+GM1699,2021-10-02,Drenthe,Noordenveld,0.0,0,0,0.0,2097,25,1.19,6712.12,80.02,6.71,31242,9.6,0.0,83.2,-6.4
 GM1699,2021-10-01,Drenthe,Noordenveld,0.0,0,0,0.0,2097,25,1.19,6712.12,80.02,6.71,31242,9.6,-6.4,89.6,-9.6
 GM1699,2021-09-30,Drenthe,Noordenveld,3.2,1,0,0.0,2097,25,1.19,6712.12,80.02,6.71,31242,16.0,0.0,99.2,-3.2
 GM1699,2021-09-29,Drenthe,Noordenveld,3.2,1,0,0.0,2096,25,1.19,6708.92,80.02,6.71,31242,16.0,6.4,102.4,0.0

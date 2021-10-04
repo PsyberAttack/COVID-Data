@@ -1,4 +1,8 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-10-03,Puerto Rico,Canovanas,0.0,0,0,0.0,3046,0.0,0.0,6876.47,0.0,6.88,44296,0.0,47.41,-6.77,270.91,-24.83
+2021-10-02,Puerto Rico,Canovanas,11.29,5,0,0.0,3046,0.0,0.0,6876.47,0.0,6.88,44296,0.0,54.18,0.0,295.74,0.0
+2021-10-01,Puerto Rico,Canovanas,2.26,1,0,0.0,3041,0.0,0.0,6865.18,0.0,6.87,44296,0.0,54.18,0.0,295.74,-18.06
+2021-09-30,Puerto Rico,Canovanas,18.06,8,0,0.0,3040,0.0,0.0,6862.92,0.0,6.86,44296,0.0,54.18,11.29,313.8,-4.52
 2021-09-29,Puerto Rico,Canovanas,6.77,3,0,0.0,3032,0.0,0.0,6844.86,0.0,6.84,44296,0.0,42.89,-4.52,318.32,-65.47
 2021-09-28,Puerto Rico,Canovanas,0.0,0,0,0.0,3029,0.0,0.0,6838.09,0.0,6.84,44296,0.0,47.41,0.0,383.79,-15.8
 2021-09-27,Puerto Rico,Canovanas,9.03,4,0,0.0,3029,0.0,0.0,6838.09,0.0,6.84,44296,0.0,47.41,0.0,399.59,0.0

@@ -1,4 +1,7 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM1924,2021-10-04,Rotterdam-Rijnmond,Goeree-Overflakkee,2.0,1,0,0.0,5415,91,1.68,10819.4,181.82,10.82,50049,57.94,0.0,197.8,-2.0
+GM1924,2021-10-03,Rotterdam-Rijnmond,Goeree-Overflakkee,5.99,3,0,0.0,5414,91,1.68,10817.4,181.82,10.82,50049,57.94,-4.0,199.8,-2.0
+GM1924,2021-10-02,Rotterdam-Rijnmond,Goeree-Overflakkee,9.99,5,0,0.0,5411,91,1.68,10811.4,181.82,10.81,50049,61.94,5.99,201.8,0.0
 GM1924,2021-10-01,Rotterdam-Rijnmond,Goeree-Overflakkee,2.0,1,0,0.0,5406,91,1.68,10801.41,181.82,10.8,50049,55.95,2.0,201.8,-5.99
 GM1924,2021-09-30,Rotterdam-Rijnmond,Goeree-Overflakkee,2.0,1,0,0.0,5405,91,1.68,10799.42,181.82,10.8,50049,53.95,-2.0,207.79,-11.99
 GM1924,2021-09-29,Rotterdam-Rijnmond,Goeree-Overflakkee,15.98,8,1,2.0,5404,91,1.68,10797.42,181.82,10.8,50049,55.95,7.99,219.78,9.99

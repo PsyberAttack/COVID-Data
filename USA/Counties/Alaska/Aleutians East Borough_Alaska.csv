@@ -1,4 +1,8 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-10-03,Alaska,Aleutians East Borough,0.0,0,0,0.0,428,3.0,0.7,12176.39,85.35,12.18,3515,0.5,398.3,0.0,625.9,0.0
+2021-10-02,Alaska,Aleutians East Borough,0.0,0,0,0.0,428,3.0,0.7,12176.39,85.35,12.18,3515,0.5,398.3,0.0,625.9,0.0
+2021-10-01,Alaska,Aleutians East Borough,199.15,7,0,0.0,428,3.0,0.7,12176.39,85.35,12.18,3515,0.5,398.3,199.15,625.9,56.9
+2021-09-30,Alaska,Aleutians East Borough,170.7,6,0,0.0,421,3.0,0.71,11977.24,85.35,11.98,3515,0.5,199.15,170.7,569.0,170.7
 2021-09-29,Alaska,Aleutians East Borough,0.0,0,0,0.0,415,3.0,0.72,11806.54,85.35,11.81,3515,0.5,28.45,0.0,398.3,-56.9
 2021-09-28,Alaska,Aleutians East Borough,28.45,1,0,0.0,415,3.0,0.72,11806.54,85.35,11.81,3515,0.5,28.45,28.45,455.2,0.0
 2021-09-27,Alaska,Aleutians East Borough,0.0,0,0,0.0,414,3.0,0.72,11778.09,85.35,11.78,3515,0.5,0.0,0.0,455.2,-28.45

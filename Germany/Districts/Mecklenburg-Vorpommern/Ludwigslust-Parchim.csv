@@ -1,12 +1,15 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-09-30 00:00:00+00:00,Mecklenburg-Vorpommern,Ludwigslust-Parchim,9.88,21,0,0.0,7903,273,3.45,3716.99,128.4,3.72,212618,38.08,3.3,111.4,8.47
-2021-09-29 00:00:00+00:00,Mecklenburg-Vorpommern,Ludwigslust-Parchim,6.58,14,0,0.0,7882,273,3.46,3707.12,128.4,3.71,212618,34.78,2.35,102.93,4.23
-2021-09-28 00:00:00+00:00,Mecklenburg-Vorpommern,Ludwigslust-Parchim,6.11,13,0,0.0,7868,273,3.47,3700.53,128.4,3.7,212618,32.43,3.29,98.7,2.35
-2021-09-27 00:00:00+00:00,Mecklenburg-Vorpommern,Ludwigslust-Parchim,0.94,2,0,0.0,7855,273,3.48,3694.42,128.4,3.69,212618,29.14,-0.94,96.35,-1.41
-2021-09-26 00:00:00+00:00,Mecklenburg-Vorpommern,Ludwigslust-Parchim,2.82,6,0,0.0,7853,273,3.48,3693.48,128.4,3.69,212618,30.08,1.41,97.76,0.0
-2021-09-25 00:00:00+00:00,Mecklenburg-Vorpommern,Ludwigslust-Parchim,5.17,11,0,0.0,7847,273,3.48,3690.66,128.4,3.69,212618,28.67,1.41,97.76,3.29
-2021-09-24 00:00:00+00:00,Mecklenburg-Vorpommern,Ludwigslust-Parchim,6.58,14,0,0.0,7836,273,3.48,3685.48,128.4,3.69,212618,27.26,1.88,94.47,-3.3
-2021-09-23 00:00:00+00:00,Mecklenburg-Vorpommern,Ludwigslust-Parchim,6.58,14,0,0.0,7822,273,3.49,3678.9,128.4,3.68,212618,25.38,3.76,97.77,3.76
+2021-10-03 00:00:00+00:00,Mecklenburg-Vorpommern,Ludwigslust-Parchim,1.88,4,0,0.0,7923,273,3.45,3726.4,128.4,3.73,212618,30.55,-0.94,110.92,-1.88
+2021-10-02 00:00:00+00:00,Mecklenburg-Vorpommern,Ludwigslust-Parchim,3.29,7,0,0.0,7919,273,3.45,3724.52,128.4,3.72,212618,31.49,-3.29,112.8,0.0
+2021-10-01 00:00:00+00:00,Mecklenburg-Vorpommern,Ludwigslust-Parchim,5.17,11,0,0.0,7912,273,3.45,3721.23,128.4,3.72,212618,34.78,-1.88,112.8,2.35
+2021-09-30 00:00:00+00:00,Mecklenburg-Vorpommern,Ludwigslust-Parchim,5.17,11,0,0.0,7901,273,3.46,3716.05,128.4,3.72,212618,36.66,-1.88,110.45,3.76
+2021-09-29 00:00:00+00:00,Mecklenburg-Vorpommern,Ludwigslust-Parchim,5.64,12,0,0.0,7890,273,3.46,3710.88,128.4,3.71,212618,38.54,1.41,106.69,3.29
+2021-09-28 00:00:00+00:00,Mecklenburg-Vorpommern,Ludwigslust-Parchim,7.05,15,0,0.0,7878,273,3.47,3705.24,128.4,3.71,212618,37.13,4.23,103.4,3.29
+2021-09-27 00:00:00+00:00,Mecklenburg-Vorpommern,Ludwigslust-Parchim,2.35,5,0,0.0,7863,273,3.47,3698.18,128.4,3.7,212618,32.9,0.47,100.11,0.0
+2021-09-26 00:00:00+00:00,Mecklenburg-Vorpommern,Ludwigslust-Parchim,2.82,6,0,0.0,7858,273,3.47,3695.83,128.4,3.7,212618,32.43,1.41,100.11,0.0
+2021-09-25 00:00:00+00:00,Mecklenburg-Vorpommern,Ludwigslust-Parchim,6.58,14,0,0.0,7852,273,3.48,3693.01,128.4,3.69,212618,31.02,2.82,100.11,4.7
+2021-09-24 00:00:00+00:00,Mecklenburg-Vorpommern,Ludwigslust-Parchim,7.05,15,0,0.0,7838,273,3.48,3686.42,128.4,3.69,212618,28.2,2.35,95.41,-2.83
+2021-09-23 00:00:00+00:00,Mecklenburg-Vorpommern,Ludwigslust-Parchim,7.05,15,0,0.0,7823,273,3.49,3679.37,128.4,3.68,212618,25.85,4.23,98.24,4.23
 2021-09-22 00:00:00+00:00,Mecklenburg-Vorpommern,Ludwigslust-Parchim,4.23,9,0,0.0,7808,273,3.5,3672.31,128.4,3.67,212618,21.62,0.0,94.01,0.0
 2021-09-21 00:00:00+00:00,Mecklenburg-Vorpommern,Ludwigslust-Parchim,2.82,6,0,0.0,7799,273,3.5,3668.08,128.4,3.67,212618,21.62,-0.47,94.01,0.0
 2021-09-20 00:00:00+00:00,Mecklenburg-Vorpommern,Ludwigslust-Parchim,1.88,4,0,0.0,7793,273,3.5,3665.26,128.4,3.67,212618,22.09,-0.94,94.01,0.47

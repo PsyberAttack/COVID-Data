@@ -1,4 +1,8 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-10-03,Alaska,Northwest Arctic Borough,0.0,0,0,0.0,1265,4.0,0.32,16490.68,52.14,16.49,7671,0.22,2320.43,0.0,4979.78,0.0
+2021-10-02,Alaska,Northwest Arctic Borough,0.0,0,0,0.0,1265,4.0,0.32,16490.68,52.14,16.49,7671,0.22,2320.43,0.0,4979.78,0.0
+2021-10-01,Alaska,Northwest Arctic Borough,299.83,23,0,0.0,1265,4.0,0.32,16490.68,52.14,16.49,7671,0.22,2320.43,-299.83,4979.78,182.51
+2021-09-30,Alaska,Northwest Arctic Borough,534.48,41,0,0.0,1242,4.0,0.32,16190.85,52.14,16.19,7671,0.22,2620.26,169.47,4797.27,417.16
 2021-09-29,Alaska,Northwest Arctic Borough,78.22,6,0,0.0,1201,4.0,0.33,15656.37,52.14,15.66,7671,0.22,2450.79,-78.21,4380.11,-182.5
 2021-09-28,Alaska,Northwest Arctic Borough,104.29,8,0,0.0,1195,4.0,0.33,15578.15,52.14,15.58,7671,0.22,2529.0,-104.29,4562.61,-39.11
 2021-09-27,Alaska,Northwest Arctic Borough,1303.61,100,0,0.0,1187,4.0,0.34,15473.86,52.14,15.47,7671,0.22,2633.29,795.2,4601.72,1016.82

@@ -1,4 +1,7 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0613,2021-10-04,Rotterdam-Rijnmond,Albrandswaard,11.72,3,0,0.0,3613,23,0.64,14119.35,89.88,14.12,25589,54.71,7.81,300.91,0.0
+GM0613,2021-10-03,Rotterdam-Rijnmond,Albrandswaard,11.72,3,0,0.0,3610,23,0.64,14107.62,89.88,14.11,25589,46.9,-7.82,300.91,0.0
+GM0613,2021-10-02,Rotterdam-Rijnmond,Albrandswaard,3.91,1,0,0.0,3607,23,0.64,14095.9,89.88,14.1,25589,54.72,-7.81,300.91,-11.72
 GM0613,2021-10-01,Rotterdam-Rijnmond,Albrandswaard,0.0,0,0,0.0,3606,23,0.64,14091.99,89.88,14.09,25589,62.53,-11.72,312.63,-11.72
 GM0613,2021-09-30,Rotterdam-Rijnmond,Albrandswaard,7.82,2,0,0.0,3606,23,0.64,14091.99,89.88,14.09,25589,74.25,7.82,324.35,-15.63
 GM0613,2021-09-29,Rotterdam-Rijnmond,Albrandswaard,15.63,4,0,0.0,3604,23,0.64,14084.18,89.88,14.08,25589,66.43,0.0,339.98,7.81

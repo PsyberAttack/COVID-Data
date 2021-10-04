@@ -1,4 +1,8 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-10-03,Virginia,King and Queen,0.0,0,0,0.0,581,8.0,1.38,8250.5,113.6,8.25,7042,22.34,156.2,0.0,1292.22,0.0
+2021-10-02,Virginia,King and Queen,0.0,0,0,0.0,581,8.0,1.38,8250.5,113.6,8.25,7042,22.34,156.2,0.0,1292.22,0.0
+2021-10-01,Virginia,King and Queen,14.2,1,0,0.0,581,8.0,1.38,8250.5,113.6,8.25,7042,22.34,156.2,0.0,1292.22,-71.0
+2021-09-30,Virginia,King and Queen,42.6,3,1,14.2,580,8.0,1.38,8236.3,113.6,8.24,7042,22.34,156.2,-14.2,1363.22,14.2
 2021-09-29,Virginia,King and Queen,14.2,1,0,0.0,577,7.0,1.21,8193.69,99.4,8.19,7042,22.34,170.4,-56.8,1349.02,-56.8
 2021-09-28,Virginia,King and Queen,14.2,1,0,0.0,576,7.0,1.22,8179.49,99.4,8.18,7042,22.34,227.2,-56.8,1405.82,-71.0
 2021-09-27,Virginia,King and Queen,71.0,5,0,0.0,575,7.0,1.22,8165.29,99.4,8.17,7042,22.34,284.0,-28.4,1476.82,0.0

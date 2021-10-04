@@ -1,4 +1,8 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-10-03,Puerto Rico,Adjuntas,11.56,2,0,0.0,667,0.0,0.0,3855.05,0.0,3.86,17302,0.0,17.34,11.56,167.62,0.0
+2021-10-02,Puerto Rico,Adjuntas,0.0,0,0,0.0,665,0.0,0.0,3843.49,0.0,3.84,17302,0.0,5.78,-5.78,167.62,-5.78
+2021-10-01,Puerto Rico,Adjuntas,5.78,1,0,0.0,665,0.0,0.0,3843.49,0.0,3.84,17302,0.0,11.56,-11.56,173.4,0.0
+2021-09-30,Puerto Rico,Adjuntas,0.0,0,0,0.0,664,0.0,0.0,3837.71,0.0,3.84,17302,0.0,23.12,0.0,173.4,-28.9
 2021-09-29,Puerto Rico,Adjuntas,0.0,0,0,0.0,664,0.0,0.0,3837.71,0.0,3.84,17302,0.0,23.12,-5.78,202.3,-5.78
 2021-09-28,Puerto Rico,Adjuntas,0.0,0,0,0.0,664,0.0,0.0,3837.71,0.0,3.84,17302,0.0,28.9,0.0,208.08,-11.56
 2021-09-27,Puerto Rico,Adjuntas,0.0,0,0,0.0,664,0.0,0.0,3837.71,0.0,3.84,17302,0.0,28.9,0.0,219.64,-5.78
