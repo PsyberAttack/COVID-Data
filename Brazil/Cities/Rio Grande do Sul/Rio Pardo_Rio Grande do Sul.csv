@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-10-03,Rio Grande do Sul,Rio Pardo,2.61,1,0,0.0,3373,103,3.05,8812.54,269.11,8.81,38275,75.75,2.61,240.35,2.61
+2021-10-01,Rio Grande do Sul,Rio Pardo,33.96,13,0,0.0,3372,103,3.05,8809.93,269.11,8.81,38275,73.14,33.96,237.74,26.12
+2021-09-30,Rio Grande do Sul,Rio Pardo,10.45,4,0,0.0,3359,103,3.07,8775.96,269.11,8.78,38275,39.18,10.45,211.62,0.0
+2021-09-28,Rio Grande do Sul,Rio Pardo,-5.23,-2,1,2.61,3355,103,3.07,8765.51,269.11,8.77,38275,28.73,-5.23,211.62,-10.46
 2021-09-26,Rio Grande do Sul,Rio Pardo,10.45,4,0,0.0,3357,102,3.04,8770.74,266.49,8.77,38275,33.96,-47.03,222.08,10.45
 2021-09-24,Rio Grande do Sul,Rio Pardo,13.06,5,0,0.0,3353,102,3.04,8760.29,266.49,8.76,38275,80.99,15.67,211.63,2.61
 2021-09-23,Rio Grande do Sul,Rio Pardo,10.45,4,1,2.61,3348,102,3.05,8747.22,266.49,8.75,38275,65.32,-80.99,209.02,7.84

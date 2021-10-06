@@ -1,4 +1,6 @@
 date,state,district,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-10-04 00:00:00+00:00,Niedersachsen,Harburg,1.58,4,0,0.0,7958,118,1.48,3148.24,46.68,3.15,252776,45.5,1.18,250.06,-0.79
+2021-10-03 00:00:00+00:00,Niedersachsen,Harburg,0.0,0,0,0.0,7954,118,1.48,3146.66,46.68,3.15,252776,44.32,-0.79,250.85,-1.19
 2021-10-02 00:00:00+00:00,Niedersachsen,Harburg,6.33,16,0,0.0,7954,118,1.48,3146.66,46.68,3.15,252776,45.11,0.79,252.04,-12.26
 2021-10-01 00:00:00+00:00,Niedersachsen,Harburg,10.29,26,0,0.0,7938,118,1.49,3140.33,46.68,3.14,252776,44.32,0.4,264.3,-5.93
 2021-09-30 00:00:00+00:00,Niedersachsen,Harburg,8.7,22,0,0.0,7912,118,1.49,3130.04,46.68,3.13,252776,43.92,1.97,270.23,-4.75
