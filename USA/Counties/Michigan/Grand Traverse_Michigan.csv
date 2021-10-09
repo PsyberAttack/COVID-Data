@@ -1,4 +1,7 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-10-08,Michigan,Grand Traverse,103.7,96,1,1.08,8268,113.0,1.37,8931.33,122.07,8.93,92573,199.37,289.5,24.84,1087.8,41.05
+2021-10-07,Michigan,Grand Traverse,0.0,0,0,0.0,8172,112.0,1.37,8827.63,120.99,8.83,92573,199.37,264.66,0.0,1046.75,0.0
+2021-10-06,Michigan,Grand Traverse,81.02,75,1,1.08,8172,112.0,1.37,8827.63,120.99,8.83,92573,199.37,264.66,-24.84,1046.75,47.53
 2021-10-05,Michigan,Grand Traverse,0.0,0,0,0.0,8097,111.0,1.37,8746.61,119.91,8.75,92573,199.37,289.5,0.0,999.22,-72.38
 2021-10-04,Michigan,Grand Traverse,104.78,97,3,3.24,8097,111.0,1.37,8746.61,119.91,8.75,92573,199.37,289.5,-7.56,1071.6,104.78
 2021-10-03,Michigan,Grand Traverse,0.0,0,0,0.0,8000,108.0,1.35,8641.83,116.66,8.64,92573,199.37,297.06,0.0,966.82,0.0
