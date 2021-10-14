@@ -1,6 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-10-09,Rio Grande do Sul,Maximiliano de Almeida,0.0,0,0,0.0,632,12,1.9,14439.11,274.16,14.44,4377,22.85,0.0,297.03,0.0
-2021-10-08,Rio Grande do Sul,Maximiliano de Almeida,0.0,0,0,0.0,632,12,1.9,14439.11,274.16,14.44,4377,22.85,0.0,297.03,0.0
+2021-10-11,Rio Grande do Sul,Maximiliano de Almeida,0.0,0,0,0.0,632,12,1.9,14439.11,274.16,14.44,4377,0.0,0.0,251.33,-22.85
+2021-10-10,Rio Grande do Sul,Maximiliano de Almeida,0.0,0,0,0.0,632,12,1.9,14439.11,274.16,14.44,4377,0.0,-22.85,274.18,0.0
+2021-10-09,Rio Grande do Sul,Maximiliano de Almeida,0.0,0,0,0.0,632,12,1.9,14439.11,274.16,14.44,4377,22.85,0.0,274.18,-22.85
+2021-10-08,Rio Grande do Sul,Maximiliano de Almeida,22.85,1,0,0.0,632,12,1.9,14439.11,274.16,14.44,4377,22.85,22.85,297.03,22.85
+2021-10-06,Rio Grande do Sul,Maximiliano de Almeida,-22.85,-1,0,0.0,631,12,1.9,14416.27,274.16,14.42,4377,0.0,-22.85,274.18,-22.85
 2021-10-05,Rio Grande do Sul,Maximiliano de Almeida,0.0,0,0,0.0,632,12,1.9,14439.11,274.16,14.44,4377,22.85,22.85,297.03,0.0
 2021-10-04,Rio Grande do Sul,Maximiliano de Almeida,0.0,0,0,0.0,632,12,1.9,14439.11,274.16,14.44,4377,0.0,0.0,297.03,-45.69
 2021-10-03,Rio Grande do Sul,Maximiliano de Almeida,0.0,0,0,0.0,632,12,1.9,14439.11,274.16,14.44,4377,0.0,0.0,342.72,-137.08

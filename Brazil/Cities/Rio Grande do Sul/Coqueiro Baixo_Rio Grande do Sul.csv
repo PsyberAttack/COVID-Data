@@ -1,6 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-10-09,Rio Grande do Sul,Coqueiro Baixo,66.62,1,0,0.0,205,2,0.98,13657.56,133.24,13.66,1501,466.35,0.0,3131.22,66.62
-2021-10-08,Rio Grande do Sul,Coqueiro Baixo,266.49,4,0,0.0,204,2,0.98,13590.94,133.24,13.59,1501,466.35,133.25,3064.6,266.49
+2021-10-11,Rio Grande do Sul,Coqueiro Baixo,66.62,1,0,0.0,206,3,1.46,13724.18,199.87,13.72,1501,399.73,66.62,3131.22,66.62
+2021-10-10,Rio Grande do Sul,Coqueiro Baixo,0.0,0,1,66.62,205,3,1.46,13657.56,199.87,13.66,1501,333.11,0.0,3064.6,0.0
+2021-10-09,Rio Grande do Sul,Coqueiro Baixo,66.62,1,0,0.0,205,2,0.98,13657.56,133.24,13.66,1501,333.11,-66.62,3064.6,0.0
+2021-10-08,Rio Grande do Sul,Coqueiro Baixo,66.62,1,0,0.0,204,2,0.98,13590.94,133.24,13.59,1501,399.73,0.0,3064.6,66.62
+2021-10-06,Rio Grande do Sul,Coqueiro Baixo,199.87,3,0,0.0,203,2,0.99,13524.32,133.24,13.52,1501,399.73,66.63,2997.98,199.87
 2021-10-05,Rio Grande do Sul,Coqueiro Baixo,0.0,0,0,0.0,200,2,1.0,13324.45,133.24,13.32,1501,333.1,-66.62,2798.11,0.0
 2021-10-04,Rio Grande do Sul,Coqueiro Baixo,0.0,0,0,0.0,200,2,1.0,13324.45,133.24,13.32,1501,399.72,-66.62,2798.11,0.0
 2021-10-03,Rio Grande do Sul,Coqueiro Baixo,0.0,0,0,0.0,200,2,1.0,13324.45,133.24,13.32,1501,466.34,-133.24,2798.11,0.0
