@@ -1,4 +1,8 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-11-02,Santa Catarina,Porto Belo,4.68,1,0,0.0,3126,63,2.02,14615.67,294.56,14.62,21388,84.16,0.0,691.98,-4.67
+2021-11-01,Santa Catarina,Porto Belo,4.68,1,0,0.0,3125,63,2.02,14611.0,294.56,14.61,21388,84.16,-28.05,696.65,-23.37
+2021-10-31,Santa Catarina,Porto Belo,0.0,0,0,0.0,3124,63,2.02,14606.32,294.56,14.61,21388,112.21,-28.05,720.02,-28.05
+2021-10-30,Santa Catarina,Porto Belo,-4.68,-1,1,4.68,3124,63,2.02,14606.32,294.56,14.61,21388,140.26,-88.84,748.07,-70.14
 2021-10-29,Santa Catarina,Porto Belo,18.7,4,0,0.0,3125,62,1.98,14611.0,289.88,14.61,21388,229.1,14.02,818.21,18.7
 2021-10-28,Santa Catarina,Porto Belo,18.7,4,0,0.0,3121,62,1.99,14592.29,289.88,14.59,21388,215.08,18.7,799.51,-79.49
 2021-10-27,Santa Catarina,Porto Belo,42.08,9,0,0.0,3117,62,1.99,14573.59,289.88,14.57,21388,196.38,42.08,879.0,28.05
