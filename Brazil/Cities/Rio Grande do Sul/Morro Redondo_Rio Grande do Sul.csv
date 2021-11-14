@@ -1,4 +1,10 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-11-08,Rio Grande do Sul,Morro Redondo,91.35,6,0,0.0,567,17,3.0,8632.76,258.83,8.63,6568,289.28,76.12,791.74,91.35
+2021-11-07,Rio Grande do Sul,Morro Redondo,0.0,0,0,0.0,561,17,3.03,8541.41,258.83,8.54,6568,213.16,0.0,700.39,0.0
+2021-11-06,Rio Grande do Sul,Morro Redondo,0.0,0,0,0.0,561,17,3.03,8541.41,258.83,8.54,6568,213.16,0.0,700.39,-15.23
+2021-11-05,Rio Grande do Sul,Morro Redondo,45.68,3,0,0.0,561,17,3.03,8541.41,258.83,8.54,6568,213.16,-15.22,715.62,15.23
+2021-11-04,Rio Grande do Sul,Morro Redondo,91.35,6,1,15.23,558,17,3.05,8495.74,258.83,8.5,6568,228.38,76.12,700.39,91.35
+2021-11-03,Rio Grande do Sul,Morro Redondo,30.45,2,0,0.0,552,16,2.9,8404.38,243.61,8.4,6568,152.26,30.45,609.04,-30.45
 2021-11-02,Rio Grande do Sul,Morro Redondo,30.45,2,0,0.0,550,16,2.91,8373.93,243.61,8.37,6568,121.81,15.22,639.49,30.45
 2021-11-01,Rio Grande do Sul,Morro Redondo,15.23,1,0,0.0,548,16,2.92,8343.48,243.61,8.34,6568,106.59,15.23,609.04,15.23
 2021-10-31,Rio Grande do Sul,Morro Redondo,0.0,0,0,0.0,547,16,2.93,8328.26,243.61,8.33,6568,91.36,0.0,593.81,-30.45

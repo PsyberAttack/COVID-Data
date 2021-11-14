@@ -1,4 +1,11 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0613,2021-11-13,Rotterdam-Rijnmond,Albrandswaard,117.24,30,0,0.0,3992,23,0.58,15600.45,89.88,15.6,25589,652.63,42.99,1336.53,89.88
+GM0613,2021-11-12,Rotterdam-Rijnmond,Albrandswaard,132.87,34,0,0.0,3962,23,0.58,15483.22,89.88,15.48,25589,609.64,93.79,1246.65,105.51
+GM0613,2021-11-11,Rotterdam-Rijnmond,Albrandswaard,140.69,36,0,0.0,3928,23,0.59,15350.35,89.88,15.35,25589,515.85,74.26,1141.14,125.06
+GM0613,2021-11-10,Rotterdam-Rijnmond,Albrandswaard,85.97,22,0,0.0,3892,23,0.59,15209.66,89.88,15.21,25589,441.59,39.07,1016.08,74.25
+GM0613,2021-11-09,Rotterdam-Rijnmond,Albrandswaard,35.17,9,0,0.0,3870,23,0.59,15123.69,89.88,15.12,25589,402.52,0.0,941.83,19.54
+GM0613,2021-11-08,Rotterdam-Rijnmond,Albrandswaard,93.79,24,0,0.0,3861,23,0.6,15088.51,89.88,15.09,25589,402.52,54.71,922.29,93.79
+GM0613,2021-11-07,Rotterdam-Rijnmond,Albrandswaard,46.9,12,0,0.0,3837,23,0.6,14994.72,89.88,14.99,25589,347.81,11.73,828.5,42.99
 GM0613,2021-11-06,Rotterdam-Rijnmond,Albrandswaard,74.25,19,0,0.0,3825,23,0.6,14947.83,89.88,14.95,25589,336.08,39.08,785.51,50.8
 GM0613,2021-11-05,Rotterdam-Rijnmond,Albrandswaard,39.08,10,0,0.0,3806,23,0.6,14873.58,89.88,14.87,25589,297.0,31.26,734.71,39.08
 GM0613,2021-11-04,Rotterdam-Rijnmond,Albrandswaard,66.43,17,0,0.0,3796,23,0.61,14834.5,89.88,14.83,25589,265.74,23.44,695.63,58.61

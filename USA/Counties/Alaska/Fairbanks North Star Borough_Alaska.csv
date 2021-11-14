@@ -1,4 +1,11 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-11-13,Alaska,Fairbanks North Star Borough,0.0,0,0,0.0,16381,104.0,0.63,16551.31,105.08,16.55,98971,13.5,344.56,0.0,1897.52,0.0
+2021-11-12,Alaska,Fairbanks North Star Borough,115.19,114,0,0.0,16381,104.0,0.63,16551.31,105.08,16.55,98971,13.5,344.56,16.17,1897.52,-16.16
+2021-11-11,Alaska,Fairbanks North Star Borough,0.0,0,0,0.0,16267,104.0,0.64,16436.13,105.08,16.44,98971,13.5,328.39,-36.37,1913.68,-100.03
+2021-11-10,Alaska,Fairbanks North Star Borough,39.41,39,1,1.01,16267,104.0,0.64,16436.13,105.08,16.44,98971,13.5,364.76,-141.45,2013.71,-180.86
+2021-11-09,Alaska,Fairbanks North Star Borough,39.41,39,6,6.06,16228,103.0,0.63,16396.72,104.07,16.4,98971,13.5,506.21,-31.32,2194.57,9.1
+2021-11-08,Alaska,Fairbanks North Star Borough,150.55,149,7,7.07,16189,97.0,0.6,16357.32,98.01,16.36,98971,13.5,537.53,12.13,2185.47,-155.6
+2021-11-07,Alaska,Fairbanks North Star Borough,0.0,0,0,0.0,16040,90.0,0.56,16206.77,90.94,16.21,98971,13.5,525.4,0.0,2341.07,0.0
 2021-11-06,Alaska,Fairbanks North Star Borough,0.0,0,0,0.0,16040,90.0,0.56,16206.77,90.94,16.21,98971,13.5,525.4,0.0,2341.07,0.0
 2021-11-05,Alaska,Fairbanks North Star Borough,99.02,98,0,0.0,16040,90.0,0.56,16206.77,90.94,16.21,98971,13.5,525.4,23.24,2341.07,21.22
 2021-11-04,Alaska,Fairbanks North Star Borough,36.37,36,0,0.0,15942,90.0,0.56,16107.75,90.94,16.11,98971,13.5,502.16,-23.24,2319.85,-33.35
