@@ -1,4 +1,9 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-11-17,Santa Catarina,Planalto Alegre,0.0,0,0,0.0,373,13,3.49,12996.52,452.96,13.0,2870,278.75,0.0,801.4,0.0
+2021-11-15,Santa Catarina,Planalto Alegre,0.0,0,0,0.0,373,13,3.49,12996.52,452.96,13.0,2870,278.75,-69.69,801.4,0.0
+2021-11-14,Santa Catarina,Planalto Alegre,69.69,2,0,0.0,373,13,3.49,12996.52,452.96,13.0,2870,348.44,0.0,801.4,69.69
+2021-11-13,Santa Catarina,Planalto Alegre,0.0,0,0,0.0,371,13,3.5,12926.83,452.96,12.93,2870,348.44,0.0,731.71,0.0
+2021-11-12,Santa Catarina,Planalto Alegre,0.0,0,1,34.84,371,13,3.5,12926.83,452.96,12.93,2870,348.44,0.0,731.71,0.0
 2021-11-11,Santa Catarina,Planalto Alegre,34.84,1,0,0.0,371,12,3.23,12926.83,418.12,12.93,2870,348.44,0.0,731.71,-34.85
 2021-11-10,Santa Catarina,Planalto Alegre,174.22,5,0,0.0,370,12,3.24,12891.99,418.12,12.89,2870,348.44,174.22,766.56,174.22
 2021-11-08,Santa Catarina,Planalto Alegre,0.0,0,0,0.0,365,12,3.29,12717.77,418.12,12.72,2870,174.22,-34.84,592.34,0.0
