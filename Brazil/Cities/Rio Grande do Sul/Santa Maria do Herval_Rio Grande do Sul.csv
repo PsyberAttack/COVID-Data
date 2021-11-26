@@ -1,8 +1,16 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-11-15,Rio Grande do Sul,Santa Maria do Herval,0.0,0,0,0.0,684,15,2.19,10803.98,236.93,10.8,6331,126.37,0.0,157.97,-15.8
-2021-11-14,Rio Grande do Sul,Santa Maria do Herval,31.59,2,0,0.0,684,15,2.19,10803.98,236.93,10.8,6331,126.37,31.59,173.77,31.59
+2021-11-21,Rio Grande do Sul,Santa Maria do Herval,0.0,0,0,0.0,686,15,2.19,10835.57,236.93,10.84,6331,31.6,-15.8,173.78,0.0
+2021-11-20,Rio Grande do Sul,Santa Maria do Herval,15.8,1,0,0.0,686,15,2.19,10835.57,236.93,10.84,6331,47.4,0.0,173.78,15.8
+2021-11-19,Rio Grande do Sul,Santa Maria do Herval,0.0,0,0,0.0,685,15,2.19,10819.78,236.93,10.82,6331,47.4,0.0,157.98,0.0
+2021-11-17,Rio Grande do Sul,Santa Maria do Herval,15.8,1,0,0.0,685,15,2.19,10819.78,236.93,10.82,6331,47.4,-47.38,157.98,15.8
+2021-11-16,Rio Grande do Sul,Santa Maria do Herval,0.0,0,0,0.0,684,15,2.19,10803.98,236.93,10.8,6331,94.78,-15.8,142.18,-15.8
+2021-11-15,Rio Grande do Sul,Santa Maria do Herval,0.0,0,0,0.0,684,15,2.19,10803.98,236.93,10.8,6331,110.58,0.0,157.98,0.0
+2021-11-14,Rio Grande do Sul,Santa Maria do Herval,0.0,0,0,0.0,684,15,2.19,10803.98,236.93,10.8,6331,110.58,0.0,157.98,0.0
+2021-11-13,Rio Grande do Sul,Santa Maria do Herval,15.8,1,0,0.0,684,15,2.19,10803.98,236.93,10.8,6331,110.58,0.0,157.98,15.8
+2021-11-12,Rio Grande do Sul,Santa Maria do Herval,15.8,1,0,0.0,683,15,2.2,10788.19,236.93,10.79,6331,110.58,15.8,142.18,0.0
 2021-11-11,Rio Grande do Sul,Santa Maria do Herval,0.0,0,0,0.0,682,15,2.2,10772.39,236.93,10.77,6331,94.78,0.0,142.18,0.0
-2021-11-10,Rio Grande do Sul,Santa Maria do Herval,78.98,5,0,0.0,682,15,2.2,10772.39,236.93,10.77,6331,94.78,78.98,142.18,78.98
+2021-11-10,Rio Grande do Sul,Santa Maria do Herval,63.18,4,0,0.0,682,15,2.2,10772.39,236.93,10.77,6331,94.78,63.18,142.18,63.18
+2021-11-09,Rio Grande do Sul,Santa Maria do Herval,15.8,1,0,0.0,678,15,2.21,10709.21,236.93,10.71,6331,31.6,15.8,79.0,15.8
 2021-11-08,Rio Grande do Sul,Santa Maria do Herval,0.0,0,0,0.0,677,15,2.22,10693.41,236.93,10.69,6331,15.8,0.0,63.2,15.8
 2021-11-07,Rio Grande do Sul,Santa Maria do Herval,0.0,0,0,0.0,677,15,2.22,10693.41,236.93,10.69,6331,15.8,0.0,47.4,0.0
 2021-11-06,Rio Grande do Sul,Santa Maria do Herval,15.8,1,0,0.0,677,15,2.22,10693.41,236.93,10.69,6331,15.8,15.8,47.4,15.8
