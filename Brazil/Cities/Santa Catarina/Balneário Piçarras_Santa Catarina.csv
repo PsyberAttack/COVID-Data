@@ -1,5 +1,10 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-11-23,Santa Catarina,Balneário Piçarras,4.32,1,0,0.0,5582,64,1.15,24115.44,276.49,24.12,23147,56.16,4.32,345.6,0.0
+2021-11-28,Santa Catarina,Balneário Piçarras,12.96,3,0,0.0,5596,64,1.14,24175.92,276.49,24.18,23147,64.8,4.32,371.52,12.96
+2021-11-27,Santa Catarina,Balneário Piçarras,8.64,2,0,0.0,5593,64,1.14,24162.96,276.49,24.16,23147,60.48,8.64,358.56,4.32
+2021-11-26,Santa Catarina,Balneário Piçarras,17.28,4,0,0.0,5591,64,1.14,24154.32,276.49,24.15,23147,51.84,-21.6,354.24,8.64
+2021-11-25,Santa Catarina,Balneário Piçarras,21.6,5,0,0.0,5587,64,1.15,24137.04,276.49,24.14,23147,73.44,25.92,345.6,12.96
+2021-11-23,Santa Catarina,Balneário Piçarras,0.0,0,0,0.0,5582,64,1.15,24115.44,276.49,24.12,23147,47.52,-8.64,332.64,-12.96
+2021-11-22,Santa Catarina,Balneário Piçarras,4.32,1,0,0.0,5582,64,1.15,24115.44,276.49,24.12,23147,56.16,4.32,345.6,0.0
 2021-11-21,Santa Catarina,Balneário Piçarras,0.0,0,0,0.0,5581,64,1.15,24111.12,276.49,24.11,23147,51.84,-4.32,345.6,-17.28
 2021-11-20,Santa Catarina,Balneário Piçarras,8.64,2,0,0.0,5581,64,1.15,24111.12,276.49,24.11,23147,56.16,-17.28,362.88,-34.56
 2021-11-19,Santa Catarina,Balneário Piçarras,0.0,0,0,0.0,5579,64,1.15,24102.48,276.49,24.1,23147,73.44,0.0,397.44,-30.24
