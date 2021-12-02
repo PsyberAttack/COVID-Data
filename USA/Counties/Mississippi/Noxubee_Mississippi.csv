@@ -1,4 +1,7 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-01,Mississippi,Noxubee,9.49,1,0,0.0,1888,43.0,2.28,17921.21,408.16,17.92,10535,15.15,18.98,0.0,132.86,0.0
+2021-11-30,Mississippi,Noxubee,0.0,0,1,9.49,1887,43.0,2.28,17911.72,408.16,17.91,10535,15.15,18.98,0.0,132.86,-9.49
+2021-11-29,Mississippi,Noxubee,9.49,1,0,0.0,1887,42.0,2.23,17911.72,398.67,17.91,10535,15.15,18.98,-9.49,142.35,0.0
 2021-11-28,Mississippi,Noxubee,0.0,0,0,0.0,1886,42.0,2.23,17902.23,398.67,17.9,10535,15.15,28.47,0.0,142.35,0.0
 2021-11-27,Mississippi,Noxubee,0.0,0,0,0.0,1886,42.0,2.23,17902.23,398.67,17.9,10535,15.15,28.47,0.0,142.35,0.0
 2021-11-26,Mississippi,Noxubee,0.0,0,0,0.0,1886,42.0,2.23,17902.23,398.67,17.9,10535,15.15,28.47,-9.49,142.35,0.0

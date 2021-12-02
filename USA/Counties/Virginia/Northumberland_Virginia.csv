@@ -1,4 +1,7 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-01,Virginia,Northumberland,8.23,1,0,0.0,1251,37.0,2.96,10298.84,304.6,10.3,12147,63.46,82.31,0.0,222.24,8.23
+2021-11-30,Virginia,Northumberland,16.46,2,0,0.0,1250,37.0,2.96,10290.61,304.6,10.29,12147,63.46,82.31,0.0,214.01,0.0
+2021-11-29,Virginia,Northumberland,41.16,5,1,8.23,1248,37.0,2.96,10274.14,304.6,10.27,12147,63.46,82.31,32.93,214.01,16.46
 2021-11-28,Virginia,Northumberland,0.0,0,0,0.0,1243,36.0,2.9,10232.98,296.37,10.23,12147,63.46,49.38,0.0,197.55,0.0
 2021-11-27,Virginia,Northumberland,0.0,0,0,0.0,1243,36.0,2.9,10232.98,296.37,10.23,12147,63.46,49.38,0.0,197.55,0.0
 2021-11-26,Virginia,Northumberland,8.23,1,0,0.0,1243,36.0,2.9,10232.98,296.37,10.23,12147,63.46,49.38,8.23,197.55,0.0

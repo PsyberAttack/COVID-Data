@@ -1,4 +1,7 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-01,California,Sierra,0.0,0,0,0.0,218,0.0,0.0,7298.29,0.0,7.3,2987,3.13,33.48,-33.48,535.68,0.0
+2021-11-30,California,Sierra,0.0,0,0,0.0,218,0.0,0.0,7298.29,0.0,7.3,2987,3.13,66.96,0.0,535.68,0.0
+2021-11-29,California,Sierra,33.48,1,0,0.0,218,0.0,0.0,7298.29,0.0,7.3,2987,3.13,66.96,-33.48,535.68,-133.91
 2021-11-28,California,Sierra,0.0,0,0,0.0,217,0.0,0.0,7264.81,0.0,7.26,2987,3.13,100.44,0.0,669.59,0.0
 2021-11-27,California,Sierra,0.0,0,0,0.0,217,0.0,0.0,7264.81,0.0,7.26,2987,3.13,100.44,0.0,669.59,0.0
 2021-11-26,California,Sierra,0.0,0,0,0.0,217,0.0,0.0,7264.81,0.0,7.26,2987,3.13,100.44,-66.96,669.59,33.48
