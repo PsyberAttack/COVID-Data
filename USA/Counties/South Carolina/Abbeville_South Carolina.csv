@@ -1,4 +1,7 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-04,South Carolina,Abbeville,0.0,0,0,0.0,3977,51.0,1.28,16205.53,207.82,16.21,24541,49.94,154.83,0.0,501.19,0.0
+2021-12-03,South Carolina,Abbeville,20.37,5,0,0.0,3977,51.0,1.28,16205.53,207.82,16.21,24541,49.94,154.83,-24.45,501.19,12.22
+2021-12-02,South Carolina,Abbeville,32.6,8,1,4.07,3972,51.0,1.28,16185.16,207.82,16.19,24541,49.94,179.28,32.6,488.97,4.08
 2021-12-01,South Carolina,Abbeville,20.37,5,0,0.0,3964,50.0,1.26,16152.56,203.74,16.15,24541,49.94,146.68,12.22,484.89,16.3
 2021-11-30,South Carolina,Abbeville,4.07,1,0,0.0,3959,50.0,1.26,16132.19,203.74,16.13,24541,49.94,134.46,-12.23,468.59,0.0
 2021-11-29,South Carolina,Abbeville,77.42,19,0,0.0,3958,50.0,1.26,16128.11,203.74,16.13,24541,49.94,146.69,12.22,468.59,28.52

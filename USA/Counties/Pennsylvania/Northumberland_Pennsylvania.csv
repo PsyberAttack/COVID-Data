@@ -1,4 +1,7 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-04,Pennsylvania,Northumberland,139.43,127,0,0.0,15227,433.0,2.84,16717.72,475.39,16.72,91083,198.87,649.96,76.85,2250.69,84.54
+2021-12-03,Pennsylvania,Northumberland,118.57,108,1,1.1,15100,433.0,2.87,16578.29,475.39,16.58,91083,198.87,573.11,36.23,2166.15,45.01
+2021-12-02,Pennsylvania,Northumberland,110.89,101,2,2.2,14992,432.0,2.88,16459.71,474.29,16.46,91083,198.87,536.88,74.66,2121.14,59.29
 2021-12-01,Pennsylvania,Northumberland,96.62,88,4,4.39,14891,430.0,2.89,16348.82,472.1,16.35,91083,198.87,462.22,21.96,2061.85,48.31
 2021-11-30,Pennsylvania,Northumberland,79.05,72,1,1.1,14803,426.0,2.88,16252.21,467.71,16.25,91083,198.87,440.26,34.04,2013.54,14.27
 2021-11-29,Pennsylvania,Northumberland,52.7,48,1,1.1,14731,425.0,2.89,16173.16,466.61,16.17,91083,198.87,406.22,-16.47,1999.27,52.7

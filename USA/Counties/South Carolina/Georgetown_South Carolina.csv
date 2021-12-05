@@ -1,4 +1,7 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-04,South Carolina,Georgetown,0.0,0,0,0.0,9913,185.0,1.87,15924.75,297.19,15.92,62249,76.48,80.33,0.0,287.58,0.0
+2021-12-03,South Carolina,Georgetown,28.92,18,0,0.0,9913,185.0,1.87,15924.75,297.19,15.92,62249,76.48,80.33,16.07,287.58,-1.6
+2021-12-02,South Carolina,Georgetown,27.31,17,1,1.61,9895,185.0,1.87,15895.84,297.19,15.9,62249,76.48,64.26,27.31,289.18,12.85
 2021-12-01,South Carolina,Georgetown,-3.21,-2,0,0.0,9878,184.0,1.86,15868.53,295.59,15.87,62249,76.48,36.95,-6.42,276.33,-6.42
 2021-11-30,South Carolina,Georgetown,1.61,1,0,0.0,9880,184.0,1.86,15871.74,295.59,15.87,62249,76.48,43.37,-4.82,282.75,-6.42
 2021-11-29,South Carolina,Georgetown,25.7,16,0,0.0,9879,184.0,1.86,15870.13,295.59,15.87,62249,76.48,48.19,-19.28,289.17,-25.71

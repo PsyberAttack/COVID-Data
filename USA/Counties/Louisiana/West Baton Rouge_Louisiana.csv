@@ -1,4 +1,7 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-04,Louisiana,West Baton Rouge,0.0,0,0,0.0,4453,78.0,1.75,16850.19,295.15,16.85,26427,137.36,64.33,0.0,223.25,0.0
+2021-12-03,Louisiana,West Baton Rouge,3.78,1,0,0.0,4453,78.0,1.75,16850.19,295.15,16.85,26427,137.36,64.33,3.78,223.25,3.78
+2021-12-02,Louisiana,West Baton Rouge,7.57,2,0,0.0,4452,78.0,1.75,16846.41,295.15,16.85,26427,137.36,60.55,7.57,219.47,-7.57
 2021-12-01,Louisiana,West Baton Rouge,34.06,9,0,0.0,4450,78.0,1.75,16838.84,295.15,16.84,26427,137.36,52.98,22.71,227.04,34.06
 2021-11-30,Louisiana,West Baton Rouge,3.78,1,0,0.0,4441,78.0,1.76,16804.78,295.15,16.8,26427,137.36,30.27,-18.92,192.98,3.78
 2021-11-29,Louisiana,West Baton Rouge,15.14,4,0,0.0,4440,78.0,1.76,16801.0,295.15,16.8,26427,137.36,49.19,11.36,189.2,0.0

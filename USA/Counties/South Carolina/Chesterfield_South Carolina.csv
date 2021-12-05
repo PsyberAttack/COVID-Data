@@ -1,4 +1,7 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-04,South Carolina,Chesterfield,0.0,0,0,0.0,7584,149.0,1.96,16575.6,325.65,16.58,45754,57.27,183.59,0.0,504.87,0.0
+2021-12-03,South Carolina,Chesterfield,50.27,23,0,0.0,7584,149.0,1.96,16575.6,325.65,16.58,45754,57.27,183.59,28.41,504.87,-4.37
+2021-12-02,South Carolina,Chesterfield,21.86,10,2,4.37,7561,149.0,1.97,16525.33,325.65,16.53,45754,57.27,155.18,21.86,509.24,-41.52
 2021-12-01,South Carolina,Chesterfield,6.56,3,0,0.0,7551,147.0,1.95,16503.48,321.28,16.5,45754,57.27,133.32,-6.55,550.76,2.19
 2021-11-30,South Carolina,Chesterfield,17.48,8,0,0.0,7548,147.0,1.95,16496.92,321.28,16.5,45754,57.27,139.87,8.74,548.57,-2.19
 2021-11-29,South Carolina,Chesterfield,87.42,40,0,0.0,7540,147.0,1.95,16479.43,321.28,16.48,45754,57.27,131.13,21.85,550.76,17.48

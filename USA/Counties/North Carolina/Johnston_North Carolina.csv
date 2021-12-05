@@ -1,4 +1,7 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-04,North Carolina,Johnston,0.0,0,0,0.0,33838,339.0,1.0,16695.7,167.26,16.7,202675,256.15,178.61,0.0,589.63,0.0
+2021-12-03,North Carolina,Johnston,46.38,94,0,0.0,33838,339.0,1.0,16695.7,167.26,16.7,202675,256.15,178.61,46.38,589.63,27.14
+2021-12-02,North Carolina,Johnston,29.11,59,0,0.0,33744,339.0,1.0,16649.32,167.26,16.65,202675,256.15,132.23,29.11,562.49,0.99
 2021-12-01,North Carolina,Johnston,29.6,60,0,0.0,33685,339.0,1.01,16620.2,167.26,16.62,202675,256.15,103.12,-0.5,561.5,19.73
 2021-11-30,North Carolina,Johnston,7.4,15,0,0.0,33625,339.0,1.01,16590.6,167.26,16.59,202675,256.15,103.62,-1.97,541.77,-4.44
 2021-11-29,North Carolina,Johnston,66.12,134,0,0.0,33610,339.0,1.01,16583.2,167.26,16.58,202675,256.15,105.59,4.44,546.21,23.19

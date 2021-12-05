@@ -1,4 +1,7 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-04,Louisiana,Pointe Coupee,0.0,0,0,0.0,3994,85.0,2.13,18204.19,387.42,18.2,21940,39.37,41.02,0.0,360.08,0.0
+2021-12-03,Louisiana,Pointe Coupee,4.56,1,0,0.0,3994,85.0,2.13,18204.19,387.42,18.2,21940,39.37,41.02,4.56,360.08,0.0
+2021-12-02,Louisiana,Pointe Coupee,9.12,2,0,0.0,3993,85.0,2.13,18199.64,387.42,18.2,21940,39.37,36.46,9.12,360.08,-9.11
 2021-12-01,Louisiana,Pointe Coupee,13.67,3,0,0.0,3991,85.0,2.13,18190.52,387.42,18.19,21940,39.37,27.34,9.11,369.19,-22.79
 2021-11-30,Louisiana,Pointe Coupee,0.0,0,1,4.56,3988,85.0,2.13,18176.85,387.42,18.18,21940,39.37,18.23,0.0,391.98,-4.56
 2021-11-29,Louisiana,Pointe Coupee,13.67,3,0,0.0,3988,84.0,2.11,18176.85,382.86,18.18,21940,39.37,18.23,-9.12,396.54,-82.05

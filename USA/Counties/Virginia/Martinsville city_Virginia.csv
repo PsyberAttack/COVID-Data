@@ -1,4 +1,7 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-04,Virginia,Martinsville city,0.0,0,0,0.0,2227,94.0,4.22,17260.89,728.57,17.26,12902,1177.59,93.0,0.0,1038.57,0.0
+2021-12-03,Virginia,Martinsville city,7.75,1,0,0.0,2227,94.0,4.22,17260.89,728.57,17.26,12902,1177.59,93.0,-23.25,1038.57,-46.51
+2021-12-02,Virginia,Martinsville city,23.25,3,0,0.0,2226,94.0,4.22,17253.14,728.57,17.25,12902,1177.59,116.25,-23.25,1085.08,7.75
 2021-12-01,Virginia,Martinsville city,38.75,5,2,15.5,2223,94.0,4.23,17229.89,728.57,17.23,12902,1177.59,139.5,23.25,1077.33,15.5
 2021-11-30,Virginia,Martinsville city,15.5,2,1,7.75,2218,92.0,4.15,17191.13,713.07,17.19,12902,1177.59,116.25,-23.25,1061.83,-46.51
 2021-11-29,Virginia,Martinsville city,7.75,1,0,0.0,2216,91.0,4.11,17175.63,705.32,17.18,12902,1177.59,139.5,-178.27,1108.34,-100.76

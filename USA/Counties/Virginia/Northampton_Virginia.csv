@@ -1,4 +1,7 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-04,Virginia,Northampton,0.0,0,0,0.0,1185,46.0,3.88,10098.0,391.99,10.1,11735,55.43,51.12,0.0,213.02,0.0
+2021-12-03,Virginia,Northampton,25.56,3,0,0.0,1185,46.0,3.88,10098.0,391.99,10.1,11735,55.43,51.12,17.04,213.02,17.04
+2021-12-02,Virginia,Northampton,8.52,1,0,0.0,1182,46.0,3.89,10072.43,391.99,10.07,11735,55.43,34.08,-8.52,195.98,8.52
 2021-12-01,Virginia,Northampton,8.52,1,0,0.0,1181,46.0,3.9,10063.91,391.99,10.06,11735,55.43,42.6,0.0,187.46,0.0
 2021-11-30,Virginia,Northampton,0.0,0,0,0.0,1180,46.0,3.9,10055.39,391.99,10.06,11735,55.43,42.6,-34.09,187.46,0.0
 2021-11-29,Virginia,Northampton,8.52,1,0,0.0,1180,46.0,3.9,10055.39,391.99,10.06,11735,55.43,76.69,-8.52,187.46,-17.04

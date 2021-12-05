@@ -1,4 +1,7 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-04,North Carolina,McDowell,0.0,0,0,0.0,8878,136.0,1.53,19509.09,298.86,19.51,45507,103.44,112.07,0.0,430.69,0.0
+2021-12-03,North Carolina,McDowell,17.58,8,0,0.0,8878,136.0,1.53,19509.09,298.86,19.51,45507,103.44,112.07,17.58,430.69,2.2
+2021-12-02,North Carolina,McDowell,30.76,14,0,0.0,8870,136.0,1.53,19491.51,298.86,19.49,45507,103.44,94.49,30.76,428.49,21.97
 2021-12-01,North Carolina,McDowell,10.99,5,0,0.0,8856,136.0,1.54,19460.74,298.86,19.46,45507,103.44,63.73,-4.39,406.52,0.0
 2021-11-30,North Carolina,McDowell,8.79,4,0,0.0,8851,136.0,1.54,19449.75,298.86,19.45,45507,103.44,68.12,8.79,406.52,-2.2
 2021-11-29,North Carolina,McDowell,43.95,20,0,0.0,8847,136.0,1.54,19440.97,298.86,19.44,45507,103.44,59.33,-19.78,408.72,13.19

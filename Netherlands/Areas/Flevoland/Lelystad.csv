@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0995,2021-12-04,Flevoland,Lelystad,113.2,89,1,1.27,11069,71,0.64,14079.29,90.31,14.08,78619,842.03,15.26,3095.95,31.79
+GM0995,2021-12-03,Flevoland,Lelystad,105.57,83,0,0.0,10980,70,0.64,13966.09,89.04,13.97,78619,826.77,-15.27,3064.16,24.16
 GM0995,2021-12-02,Flevoland,Lelystad,137.37,108,1,1.27,10897,70,0.64,13860.52,89.04,13.86,78619,842.04,29.25,3040.0,55.96
 GM0995,2021-12-01,Flevoland,Lelystad,125.92,99,1,1.27,10789,69,0.64,13723.15,87.77,13.72,78619,812.79,-39.43,2984.04,75.04
 GM0995,2021-11-30,Flevoland,Lelystad,127.2,100,0,0.0,10690,68,0.64,13597.22,86.49,13.6,78619,852.22,-7.63,2909.0,64.87

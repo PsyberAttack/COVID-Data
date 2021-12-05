@@ -1,4 +1,7 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-04,Alaska,Juneau City and Borough,0.0,0,0,0.0,4151,12.0,0.29,12926.23,37.37,12.93,32113,11.88,165.04,0.0,619.67,0.0
+2021-12-03,Alaska,Juneau City and Borough,34.25,11,0,0.0,4151,12.0,0.29,12926.23,37.37,12.93,32113,11.88,165.04,-12.46,619.67,-18.69
+2021-12-02,Alaska,Juneau City and Borough,40.48,13,0,0.0,4140,12.0,0.29,12891.98,37.37,12.89,32113,11.88,177.5,40.48,638.36,-9.34
 2021-12-01,Alaska,Juneau City and Borough,18.68,6,0,0.0,4127,12.0,0.29,12851.49,37.37,12.85,32113,11.88,137.02,-40.49,647.7,-24.92
 2021-11-30,Alaska,Juneau City and Borough,12.46,4,0,0.0,4121,12.0,0.29,12832.81,37.37,12.83,32113,11.88,177.51,-6.22,672.62,-12.45
 2021-11-29,Alaska,Juneau City and Borough,59.17,19,0,0.0,4117,12.0,0.29,12820.35,37.37,12.82,32113,11.88,183.73,24.92,685.07,-43.59

@@ -1,4 +1,7 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-04,North Dakota,Cavalier,26.12,1,0,0.0,568,5.0,0.88,14834.16,130.58,14.83,3829,2.57,261.16,0.0,652.93,26.12
+2021-12-03,North Dakota,Cavalier,-26.12,-1,0,0.0,567,5.0,0.88,14808.04,130.58,14.81,3829,2.57,261.16,-52.24,626.81,-52.24
+2021-12-02,North Dakota,Cavalier,52.23,2,0,0.0,568,5.0,0.88,14834.16,130.58,14.83,3829,2.57,313.4,-130.59,679.05,-104.47
 2021-12-01,North Dakota,Cavalier,130.58,5,0,0.0,566,5.0,0.88,14781.93,130.58,14.78,3829,2.57,443.99,104.46,783.52,104.46
 2021-11-30,North Dakota,Cavalier,52.23,2,0,0.0,561,5.0,0.89,14651.34,130.58,14.65,3829,2.57,339.53,-26.12,679.06,52.23
 2021-11-29,North Dakota,Cavalier,0.0,0,0,0.0,559,5.0,0.89,14599.11,130.58,14.6,3829,2.57,365.65,0.0,626.83,0.0

@@ -1,4 +1,7 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-04,Mississippi,Claiborne,0.0,0,0,0.0,1348,39.0,2.89,14974.45,433.24,14.97,9002,18.47,66.66,0.0,155.54,0.0
+2021-12-03,Mississippi,Claiborne,22.22,2,0,0.0,1348,39.0,2.89,14974.45,433.24,14.97,9002,18.47,66.66,22.22,155.54,22.22
+2021-12-02,Mississippi,Claiborne,22.22,2,0,0.0,1346,39.0,2.9,14952.23,433.24,14.95,9002,18.47,44.44,22.22,133.32,22.22
 2021-12-01,Mississippi,Claiborne,0.0,0,0,0.0,1344,39.0,2.9,14930.02,433.24,14.93,9002,18.47,22.22,0.0,111.1,0.0
 2021-11-30,Mississippi,Claiborne,11.11,1,1,11.11,1344,39.0,2.9,14930.02,433.24,14.93,9002,18.47,22.22,11.11,111.1,11.11
 2021-11-29,Mississippi,Claiborne,11.11,1,0,0.0,1343,38.0,2.83,14918.91,422.13,14.92,9002,18.47,11.11,-11.11,99.99,0.0

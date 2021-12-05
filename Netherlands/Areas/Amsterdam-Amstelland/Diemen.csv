@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0384,2021-12-04,Amsterdam-Amstelland,Diemen,129.95,40,0,0.0,5137,40,0.78,16688.87,129.95,16.69,30781,802.45,29.24,2612.0,55.23
+GM0384,2021-12-03,Amsterdam-Amstelland,Diemen,168.94,52,0,0.0,5097,40,0.78,16558.92,129.95,16.56,30781,773.21,74.73,2556.77,100.72
 GM0384,2021-12-02,Amsterdam-Amstelland,Diemen,129.95,40,1,3.25,5045,40,0.79,16389.98,129.95,16.39,30781,698.48,29.24,2456.05,77.97
 GM0384,2021-12-01,Amsterdam-Amstelland,Diemen,84.47,26,0,0.0,5005,39,0.78,16260.03,126.7,16.26,30781,669.24,25.99,2378.08,68.23
 GM0384,2021-11-30,Amsterdam-Amstelland,Diemen,81.22,25,0,0.0,4979,39,0.78,16175.56,126.7,16.18,30781,643.25,-32.49,2309.85,32.49

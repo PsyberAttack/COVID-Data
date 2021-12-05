@@ -1,4 +1,7 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-04,Mississippi,Pearl River,0.0,0,0,0.0,9748,244.0,2.5,17599.8,440.54,17.6,55387,68.27,74.04,0.0,211.26,0.0
+2021-12-03,Mississippi,Pearl River,16.25,9,0,0.0,9748,244.0,2.5,17599.8,440.54,17.6,55387,68.27,74.04,16.25,211.26,1.81
+2021-12-02,Mississippi,Pearl River,12.64,7,0,0.0,9739,244.0,2.51,17583.55,440.54,17.58,55387,68.27,57.79,12.64,209.45,3.61
 2021-12-01,Mississippi,Pearl River,21.67,12,0,0.0,9732,244.0,2.51,17570.91,440.54,17.57,55387,68.27,45.15,16.25,205.84,3.62
 2021-11-30,Mississippi,Pearl River,1.81,1,0,0.0,9720,244.0,2.51,17549.24,440.54,17.55,55387,68.27,28.9,-5.41,202.22,-3.61
 2021-11-29,Mississippi,Pearl River,21.67,12,0,0.0,9719,244.0,2.51,17547.44,440.54,17.55,55387,68.27,34.31,-14.44,205.83,-3.61

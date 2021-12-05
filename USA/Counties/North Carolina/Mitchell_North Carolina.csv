@@ -1,4 +1,7 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-04,North Carolina,Mitchell,0.0,0,0,0.0,2191,22.0,1.0,14606.67,146.67,14.61,15000,67.8,320.0,0.0,753.32,0.0
+2021-12-03,North Carolina,Mitchell,73.33,11,0,0.0,2191,22.0,1.0,14606.67,146.67,14.61,15000,67.8,320.0,73.33,753.32,53.33
+2021-12-02,North Carolina,Mitchell,60.0,9,0,0.0,2180,22.0,1.01,14533.33,146.67,14.53,15000,67.8,246.67,60.0,699.99,6.67
 2021-12-01,North Carolina,Mitchell,53.33,8,0,0.0,2171,22.0,1.01,14473.33,146.67,14.47,15000,67.8,186.67,20.0,693.32,60.0
 2021-11-30,North Carolina,Mitchell,26.67,4,0,0.0,2163,22.0,1.02,14420.0,146.67,14.42,15000,67.8,166.67,6.67,633.32,13.34
 2021-11-29,North Carolina,Mitchell,106.67,16,0,0.0,2159,22.0,1.02,14393.33,146.67,14.39,15000,67.8,160.0,46.67,619.98,46.67

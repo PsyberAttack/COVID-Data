@@ -1,4 +1,7 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-04,North Carolina,Halifax,0.0,0,0,0.0,8073,144.0,1.78,15962.75,284.73,15.96,50574,69.88,67.23,0.0,213.54,0.0
+2021-12-03,North Carolina,Halifax,7.91,4,0,0.0,8073,144.0,1.78,15962.75,284.73,15.96,50574,69.88,67.23,7.91,213.54,-11.86
+2021-12-02,North Carolina,Halifax,15.82,8,0,0.0,8069,144.0,1.78,15954.84,284.73,15.95,50574,69.88,59.32,15.82,225.4,5.93
 2021-12-01,North Carolina,Halifax,7.91,4,0,0.0,8061,144.0,1.79,15939.02,284.73,15.94,50574,69.88,43.5,1.98,219.47,-5.93
 2021-11-30,North Carolina,Halifax,1.98,1,0,0.0,8057,144.0,1.79,15931.11,284.73,15.93,50574,69.88,41.52,-1.97,225.4,-3.95
 2021-11-29,North Carolina,Halifax,33.61,17,0,0.0,8056,144.0,1.79,15929.13,284.73,15.93,50574,69.88,43.49,23.72,229.35,-9.89

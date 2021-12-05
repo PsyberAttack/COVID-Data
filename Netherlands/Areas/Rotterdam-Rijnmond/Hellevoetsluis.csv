@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0530,2021-12-04,Rotterdam-Rijnmond,Hellevoetsluis,97.12,39,0,0.0,5712,47,0.82,14223.82,117.04,14.22,40158,717.19,-34.86,2637.12,22.42
+GM0530,2021-12-03,Rotterdam-Rijnmond,Hellevoetsluis,84.67,34,0,0.0,5673,47,0.83,14126.7,117.04,14.13,40158,752.05,-42.33,2614.7,17.44
 GM0530,2021-12-02,Rotterdam-Rijnmond,Hellevoetsluis,129.49,52,0,0.0,5639,47,0.83,14042.03,117.04,14.04,40158,794.38,22.41,2597.26,67.24
 GM0530,2021-12-01,Rotterdam-Rijnmond,Hellevoetsluis,112.06,45,0,0.0,5587,47,0.84,13912.55,117.04,13.91,40158,771.97,0.0,2530.02,74.71
 GM0530,2021-11-30,Rotterdam-Rijnmond,Hellevoetsluis,99.61,40,0,0.0,5542,47,0.85,13800.49,117.04,13.8,40158,771.97,9.96,2455.31,52.3

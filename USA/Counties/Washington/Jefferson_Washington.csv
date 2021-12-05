@@ -1,4 +1,7 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-04,Washington,Jefferson,0.0,0,0,0.0,1260,20.0,1.59,3971.13,63.03,3.97,31729,17.59,135.53,0.0,400.29,0.0
+2021-12-03,Washington,Jefferson,31.52,10,0,0.0,1260,20.0,1.59,3971.13,63.03,3.97,31729,17.59,135.53,31.52,400.29,-9.45
+2021-12-02,Washington,Jefferson,31.52,10,1,3.15,1250,20.0,1.6,3939.61,63.03,3.94,31729,17.59,104.01,31.52,409.74,22.06
 2021-12-01,Washington,Jefferson,0.0,0,0,0.0,1240,19.0,1.53,3908.1,59.88,3.91,31729,17.59,72.49,-9.46,387.68,-18.91
 2021-11-30,Washington,Jefferson,12.61,4,0,0.0,1240,19.0,1.53,3908.1,59.88,3.91,31729,17.59,81.95,3.15,406.59,3.15
 2021-11-29,Washington,Jefferson,59.88,19,1,3.15,1236,19.0,1.54,3895.49,59.88,3.9,31729,17.59,78.8,-6.31,403.44,15.76

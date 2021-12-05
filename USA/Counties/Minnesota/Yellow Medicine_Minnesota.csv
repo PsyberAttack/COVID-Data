@@ -1,4 +1,7 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-04,Minnesota,Yellow Medicine,0.0,0,0,0.0,1899,25.0,1.32,19387.44,255.23,19.39,9795,12.9,459.43,0.0,2092.91,0.0
+2021-12-03,Minnesota,Yellow Medicine,71.47,7,2,20.42,1899,25.0,1.32,19387.44,255.23,19.39,9795,12.9,459.43,0.0,2092.91,51.05
+2021-12-02,Minnesota,Yellow Medicine,122.51,12,0,0.0,1892,23.0,1.22,19315.98,234.81,19.32,9795,12.9,459.43,122.51,2041.86,0.0
 2021-12-01,Minnesota,Yellow Medicine,30.63,3,0,0.0,1880,23.0,1.22,19193.47,234.81,19.19,9795,12.9,336.92,-91.88,2041.86,-81.67
 2021-11-30,Minnesota,Yellow Medicine,204.19,20,0,0.0,1877,23.0,1.23,19162.84,234.81,19.16,9795,12.9,428.8,10.21,2123.53,81.68
 2021-11-29,Minnesota,Yellow Medicine,30.63,3,0,0.0,1857,23.0,1.24,18958.65,234.81,18.96,9795,12.9,418.59,-91.88,2041.85,-275.65

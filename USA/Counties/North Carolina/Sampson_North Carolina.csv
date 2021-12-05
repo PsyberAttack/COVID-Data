@@ -1,4 +1,7 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-04,North Carolina,Sampson,0.0,0,0,0.0,11629,140.0,1.2,18277.12,220.04,18.28,63626,67.28,171.31,0.0,394.5,0.0
+2021-12-03,North Carolina,Sampson,39.29,25,0,0.0,11629,140.0,1.2,18277.12,220.04,18.28,63626,67.28,171.31,39.29,394.5,12.57
+2021-12-02,North Carolina,Sampson,39.29,25,0,0.0,11604,140.0,1.21,18237.83,220.04,18.24,63626,67.28,132.02,39.29,381.93,1.57
 2021-12-01,North Carolina,Sampson,20.43,13,0,0.0,11579,140.0,1.21,18198.54,220.04,18.2,63626,67.28,92.73,-1.57,380.36,7.86
 2021-11-30,North Carolina,Sampson,14.15,9,0,0.0,11566,140.0,1.21,18178.1,220.04,18.18,63626,67.28,94.3,0.0,372.5,0.0
 2021-11-29,North Carolina,Sampson,58.15,37,0,0.0,11557,140.0,1.21,18163.96,220.04,18.16,63626,67.28,94.3,29.86,372.5,20.43

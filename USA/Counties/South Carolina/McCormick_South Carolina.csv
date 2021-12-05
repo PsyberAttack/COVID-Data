@@ -1,4 +1,7 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-04,South Carolina,McCormick,0.0,0,0,0.0,1418,30.0,2.12,15069.08,318.81,15.07,9410,26.2,116.89,0.0,605.72,0.0
+2021-12-03,South Carolina,McCormick,63.76,6,0,0.0,1418,30.0,2.12,15069.08,318.81,15.07,9410,26.2,116.89,21.25,605.72,53.13
+2021-12-02,South Carolina,McCormick,10.63,1,0,0.0,1412,30.0,2.12,15005.31,318.81,15.01,9410,26.2,95.64,10.63,552.59,10.63
 2021-12-01,South Carolina,McCormick,21.25,2,0,0.0,1411,30.0,2.13,14994.69,318.81,14.99,9410,26.2,85.01,21.25,541.96,21.25
 2021-11-30,South Carolina,McCormick,0.0,0,0,0.0,1409,30.0,2.13,14973.43,318.81,14.97,9410,26.2,63.76,0.0,520.71,0.0
 2021-11-29,South Carolina,McCormick,21.25,2,0,0.0,1409,30.0,2.13,14973.43,318.81,14.97,9410,26.2,63.76,0.0,520.71,-10.63

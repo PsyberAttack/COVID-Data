@@ -1,4 +1,6 @@
 code,date,region,area,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+GM0614,2021-12-04,Rotterdam-Rijnmond,Westvoorne,74.69,11,0,0.0,1831,19,1.04,12432.1,129.01,12.43,14728,556.78,0.0,2457.97,20.37
+GM0614,2021-12-03,Rotterdam-Rijnmond,Westvoorne,95.06,14,0,0.0,1820,19,1.04,12357.41,129.01,12.36,14728,556.78,-33.95,2437.6,54.32
 GM0614,2021-12-02,Rotterdam-Rijnmond,Westvoorne,81.48,12,0,0.0,1806,19,1.05,12262.36,129.01,12.26,14728,590.73,-33.95,2383.28,40.74
 GM0614,2021-12-01,Rotterdam-Rijnmond,Westvoorne,81.48,12,0,0.0,1794,19,1.06,12180.88,129.01,12.18,14728,624.68,-27.16,2342.54,54.32
 GM0614,2021-11-30,Rotterdam-Rijnmond,Westvoorne,95.06,14,0,0.0,1782,19,1.07,12099.4,129.01,12.1,14728,651.84,20.37,2288.22,67.9
