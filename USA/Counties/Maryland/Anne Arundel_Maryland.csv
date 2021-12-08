@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-06,Maryland,Anne Arundel,0.0,0,0,0.0,56118,795.0,1.42,9742.18,138.01,9.74,576031,1388.75,129.68,-14.06,418.21,-8.68
+2021-12-05,Maryland,Anne Arundel,0.0,0,0,0.0,56118,795.0,1.42,9742.18,138.01,9.74,576031,1388.75,143.74,-8.16,426.89,-10.24
 2021-12-04,Maryland,Anne Arundel,28.64,165,0,0.0,56118,795.0,1.42,9742.18,138.01,9.74,576031,1388.75,151.9,-17.89,437.13,13.19
 2021-12-03,Maryland,Anne Arundel,27.08,156,1,0.17,55953,795.0,1.42,9713.54,138.01,9.71,576031,1388.75,169.79,27.08,423.94,12.32
 2021-12-02,Maryland,Anne Arundel,31.77,183,0,0.0,55797,794.0,1.42,9686.46,137.84,9.69,576031,1388.75,142.71,31.77,411.62,15.45

@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-06,Alabama,Montgomery,1.33,3,0,0.0,34573,782.0,2.26,15313.85,346.38,15.31,225763,287.49,35.88,-2.66,118.72,0.89
+2021-12-05,Alabama,Montgomery,3.54,8,0,0.0,34570,782.0,2.26,15312.52,346.38,15.31,225763,287.49,38.54,3.1,117.83,1.33
 2021-12-04,Alabama,Montgomery,-3.99,-9,0,0.0,34562,782.0,2.26,15308.97,346.38,15.31,225763,287.49,35.44,-7.98,116.5,-7.98
 2021-12-03,Alabama,Montgomery,15.95,36,0,0.0,34571,782.0,2.26,15312.96,346.38,15.31,225763,287.49,43.42,15.95,124.48,15.51
 2021-12-02,Alabama,Montgomery,11.52,26,1,0.44,34535,782.0,2.26,15297.02,346.38,15.3,225763,287.49,27.47,6.65,108.97,12.41

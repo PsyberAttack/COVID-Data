@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-06,California,San Luis Obispo,47.89,136,0,0.0,31803,365.0,1.15,11197.85,128.52,11.2,284010,86.05,119.72,-11.61,382.03,5.99
+2021-12-05,California,San Luis Obispo,0.0,0,0,0.0,31667,365.0,1.15,11149.96,128.52,11.15,284010,86.05,131.33,0.0,376.04,0.0
 2021-12-04,California,San Luis Obispo,0.0,0,0,0.0,31667,365.0,1.15,11149.96,128.52,11.15,284010,86.05,131.33,0.0,376.04,0.0
 2021-12-03,California,San Luis Obispo,28.17,80,0,0.0,31667,365.0,1.15,11149.96,128.52,11.15,284010,86.05,131.33,28.17,376.04,7.4
 2021-12-02,California,San Luis Obispo,26.76,76,0,0.0,31587,365.0,1.16,11121.79,128.52,11.12,284010,86.05,103.16,26.76,368.64,-0.7

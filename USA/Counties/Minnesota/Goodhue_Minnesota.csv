@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-06,Minnesota,Goodhue,148.7,69,0,0.0,8295,99.0,1.19,17876.0,213.35,17.88,46403,61.31,814.6,36.64,3344.61,40.95
+2021-12-05,Minnesota,Goodhue,0.0,0,0,0.0,8226,99.0,1.2,17727.3,213.35,17.73,46403,61.31,777.96,0.0,3303.66,0.0
 2021-12-04,Minnesota,Goodhue,0.0,0,0,0.0,8226,99.0,1.2,17727.3,213.35,17.73,46403,61.31,777.96,0.0,3303.66,0.0
 2021-12-03,Minnesota,Goodhue,124.99,58,0,0.0,8226,99.0,1.2,17727.3,213.35,17.73,46403,61.31,777.96,15.08,3303.66,32.32
 2021-12-02,Minnesota,Goodhue,109.91,51,1,2.16,8168,99.0,1.21,17602.31,213.35,17.6,46403,61.31,762.88,109.91,3271.34,-28.01

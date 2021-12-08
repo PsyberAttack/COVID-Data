@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-06,Puerto Rico,Las Piedras,8.23,3,0,0.0,2317,0.0,0.0,6355.26,0.0,6.36,36458,0.0,27.43,2.74,76.8,8.23
+2021-12-05,Puerto Rico,Las Piedras,0.0,0,0,0.0,2314,0.0,0.0,6347.03,0.0,6.35,36458,0.0,24.69,0.0,68.57,-5.49
 2021-12-04,Puerto Rico,Las Piedras,2.74,1,0,0.0,2314,0.0,0.0,6347.03,0.0,6.35,36458,0.0,24.69,2.74,74.06,0.0
 2021-12-03,Puerto Rico,Las Piedras,2.74,1,0,0.0,2313,0.0,0.0,6344.29,0.0,6.34,36458,0.0,21.95,-8.23,74.06,-2.75
 2021-12-02,Puerto Rico,Las Piedras,5.49,2,0,0.0,2312,0.0,0.0,6341.54,0.0,6.34,36458,0.0,30.18,-8.22,76.81,5.49

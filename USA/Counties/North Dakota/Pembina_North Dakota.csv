@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-06,North Dakota,Pembina,28.79,2,0,0.0,1417,14.0,0.99,20397.29,201.53,20.4,6947,6.21,460.63,28.79,2231.16,0.0
+2021-12-05,North Dakota,Pembina,14.39,1,0,0.0,1415,14.0,0.99,20368.5,201.53,20.37,6947,6.21,431.84,-14.4,2231.16,0.0
 2021-12-04,North Dakota,Pembina,57.58,4,0,0.0,1414,14.0,0.99,20354.11,201.53,20.35,6947,6.21,446.24,-14.39,2231.16,-143.95
 2021-12-03,North Dakota,Pembina,86.37,6,0,0.0,1410,14.0,0.99,20296.53,201.53,20.3,6947,6.21,460.63,28.79,2375.11,0.0
 2021-12-02,North Dakota,Pembina,86.37,6,0,0.0,1404,14.0,1.0,20210.16,201.53,20.21,6947,6.21,431.84,-57.58,2375.11,43.19

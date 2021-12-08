@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-06,Arkansas,Cleburne,8.01,2,0,0.0,4036,95.0,2.35,16166.63,380.53,16.17,24965,45.08,320.46,4.0,957.35,0.0
+2021-12-05,Arkansas,Cleburne,12.02,3,0,0.0,4034,95.0,2.35,16158.62,380.53,16.16,24965,45.08,316.46,-4.0,957.35,8.01
 2021-12-04,Arkansas,Cleburne,44.06,11,0,0.0,4031,95.0,2.36,16146.61,380.53,16.15,24965,45.08,320.46,0.0,949.34,20.03
 2021-12-03,Arkansas,Cleburne,36.05,9,0,0.0,4020,95.0,2.36,16102.54,380.53,16.1,24965,45.08,320.46,8.01,929.31,20.03
 2021-12-02,Arkansas,Cleburne,84.12,21,0,0.0,4011,95.0,2.37,16066.49,380.53,16.07,24965,45.08,312.45,24.04,909.28,60.09

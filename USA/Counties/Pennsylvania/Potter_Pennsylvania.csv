@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-06,Pennsylvania,Potter,18.05,3,0,0.0,2386,65.0,2.72,14354.47,391.05,14.35,16622,15.37,655.75,-24.06,2316.19,-6.01
+2021-12-05,Pennsylvania,Potter,72.19,12,0,0.0,2383,65.0,2.73,14336.42,391.05,14.34,16622,15.37,679.81,42.11,2322.2,54.14
 2021-12-04,Pennsylvania,Potter,120.32,20,0,0.0,2371,65.0,2.74,14264.23,391.05,14.26,16622,15.37,637.7,0.0,2268.06,42.11
 2021-12-03,Pennsylvania,Potter,66.18,11,0,0.0,2351,65.0,2.76,14143.91,391.05,14.14,16622,15.37,637.7,-48.13,2225.95,-42.11
 2021-12-02,Pennsylvania,Potter,96.26,16,2,12.03,2340,65.0,2.78,14077.73,391.05,14.08,16622,15.37,685.83,60.16,2268.06,-42.11

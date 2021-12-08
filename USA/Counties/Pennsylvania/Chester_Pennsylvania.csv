@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-06,Pennsylvania,Chester,16.09,84,1,0.19,56761,914.0,1.61,10872.8,175.08,10.87,522046,695.58,293.64,-10.54,945.32,2.49
+2021-12-05,Pennsylvania,Chester,31.03,162,1,0.19,56677,913.0,1.61,10856.71,174.89,10.86,522046,695.58,304.18,10.34,942.83,10.34
 2021-12-04,Pennsylvania,Chester,47.7,249,2,0.38,56515,912.0,1.61,10825.67,174.7,10.83,522046,695.58,293.84,20.69,932.49,27.59
 2021-12-03,Pennsylvania,Chester,52.29,273,1,0.19,56266,910.0,1.62,10777.98,174.31,10.78,522046,695.58,273.15,27.96,904.9,29.11
 2021-12-02,Pennsylvania,Chester,61.87,323,3,0.57,55993,909.0,1.62,10725.68,174.12,10.73,522046,695.58,245.19,24.52,875.79,31.03

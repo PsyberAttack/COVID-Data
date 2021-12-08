@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-06,Puerto Rico,Cabo Rojo,0.0,0,0,0.0,1945,0.0,0.0,4128.02,0.0,4.13,47117,0.0,16.97,0.0,48.77,0.0
+2021-12-05,Puerto Rico,Cabo Rojo,2.12,1,0,0.0,1945,0.0,0.0,4128.02,0.0,4.13,47117,0.0,16.97,-2.12,48.77,-6.37
 2021-12-04,Puerto Rico,Cabo Rojo,4.24,2,0,0.0,1944,0.0,0.0,4125.9,0.0,4.13,47117,0.0,19.09,2.12,55.14,4.24
 2021-12-03,Puerto Rico,Cabo Rojo,6.37,3,0,0.0,1942,0.0,0.0,4121.65,0.0,4.12,47117,0.0,16.97,4.25,50.9,4.25
 2021-12-02,Puerto Rico,Cabo Rojo,0.0,0,0,0.0,1939,0.0,0.0,4115.29,0.0,4.12,47117,0.0,12.72,0.0,46.65,0.0

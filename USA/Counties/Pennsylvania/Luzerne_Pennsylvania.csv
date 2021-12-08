@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-06,Pennsylvania,Luzerne,35.26,112,0,0.0,47303,998.0,2.11,14891.73,314.19,14.89,317646,356.77,483.87,-6.3,1652.16,6.3
+2021-12-05,Pennsylvania,Luzerne,61.07,194,0,0.0,47191,998.0,2.11,14856.48,314.19,14.86,317646,356.77,490.17,21.72,1645.86,23.61
 2021-12-04,Pennsylvania,Luzerne,74.93,238,5,1.57,46997,998.0,2.12,14795.4,314.19,14.8,317646,356.77,468.45,37.15,1622.25,35.26
 2021-12-03,Pennsylvania,Luzerne,96.02,305,2,0.63,46759,993.0,2.12,14720.47,312.61,14.72,317646,356.77,431.3,30.85,1586.99,52.89
 2021-12-02,Pennsylvania,Luzerne,83.11,264,3,0.94,46454,991.0,2.13,14624.46,311.98,14.62,317646,356.77,400.45,27.07,1534.1,35.89

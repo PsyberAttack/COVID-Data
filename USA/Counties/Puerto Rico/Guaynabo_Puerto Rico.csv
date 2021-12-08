@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-06,Puerto Rico,Guaynabo,1.19,1,0,0.0,6945,0.0,0.0,8288.88,0.0,8.29,83787,0.0,39.38,-1.2,95.48,-1.2
+2021-12-05,Puerto Rico,Guaynabo,8.35,7,0,0.0,6944,0.0,0.0,8287.68,0.0,8.29,83787,0.0,40.58,8.35,96.68,-1.2
 2021-12-04,Puerto Rico,Guaynabo,11.94,10,0,0.0,6937,0.0,0.0,8279.33,0.0,8.28,83787,0.0,32.23,10.75,97.88,11.94
 2021-12-03,Puerto Rico,Guaynabo,1.19,1,0,0.0,6927,0.0,0.0,8267.39,0.0,8.27,83787,0.0,21.48,-3.58,85.94,-2.39
 2021-12-02,Puerto Rico,Guaynabo,7.16,6,0,0.0,6926,0.0,0.0,8266.2,0.0,8.27,83787,0.0,25.06,4.77,88.33,2.39

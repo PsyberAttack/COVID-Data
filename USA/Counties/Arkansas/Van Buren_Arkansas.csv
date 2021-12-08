@@ -1,4 +1,6 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-06,Arkansas,Van Buren,0.0,0,0,0.0,2324,44.0,1.89,13997.47,265.01,14.0,16603,23.39,258.99,-6.02,644.47,-6.02
+2021-12-05,Arkansas,Van Buren,-6.02,-1,0,0.0,2324,44.0,1.89,13997.47,265.01,14.0,16603,23.39,265.01,-18.07,650.49,-12.04
 2021-12-04,Arkansas,Van Buren,24.09,4,0,0.0,2325,44.0,1.89,14003.49,265.01,14.0,16603,23.39,283.08,24.09,662.53,18.07
 2021-12-03,Arkansas,Van Buren,36.14,6,0,0.0,2321,44.0,1.9,13979.4,265.01,13.98,16603,23.39,258.99,36.14,644.46,24.09
 2021-12-02,Arkansas,Van Buren,60.23,10,0,0.0,2315,44.0,1.9,13943.26,265.01,13.94,16603,23.39,222.85,42.16,620.37,18.07
