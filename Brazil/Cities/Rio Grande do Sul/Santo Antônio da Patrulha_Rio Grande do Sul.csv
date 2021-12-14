@@ -1,8 +1,15 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
-2021-11-27,Rio Grande do Sul,Santo Antônio da Patrulha,13.99,6,0,0.0,5860,157,2.68,13661.58,366.02,13.66,42894,132.88,0.0,403.31,-2.33
-2021-11-25,Rio Grande do Sul,Santo Antônio da Patrulha,6.99,3,0,0.0,5854,157,2.68,13647.6,366.02,13.65,42894,132.88,6.99,405.64,-32.64
-2021-11-24,Rio Grande do Sul,Santo Antônio da Patrulha,20.98,9,0,0.0,5851,157,2.68,13640.6,366.02,13.64,42894,125.89,20.98,438.28,-4.66
-2021-11-23,Rio Grande do Sul,Santo Antônio da Patrulha,27.98,12,0,0.0,5842,157,2.69,13619.62,366.02,13.62,42894,104.91,18.65,442.94,25.65
+2021-12-09,Rio Grande do Sul,Santo Antônio da Patrulha,9.33,4,1,2.33,5891,159,2.7,13733.86,370.68,13.73,42894,86.25,2.34,361.34,0.0
+2021-12-07,Rio Grande do Sul,Santo Antônio da Patrulha,11.66,5,0,0.0,5887,158,2.68,13724.53,368.35,13.72,42894,83.91,-9.32,361.34,-39.63
+2021-12-05,Rio Grande do Sul,Santo Antônio da Patrulha,23.31,10,0,0.0,5882,158,2.69,13712.87,368.35,13.71,42894,93.23,4.66,400.97,20.98
+2021-11-30,Rio Grande do Sul,Santo Antônio da Patrulha,20.98,9,1,2.33,5872,158,2.69,13689.56,368.35,13.69,42894,88.57,11.65,379.99,13.99
+2021-11-29,Rio Grande do Sul,Santo Antônio da Patrulha,6.99,3,0,0.0,5863,157,2.68,13668.58,366.02,13.67,42894,76.92,-13.99,366.0,-13.99
+2021-11-27,Rio Grande do Sul,Santo Antônio da Patrulha,6.99,3,0,0.0,5860,157,2.68,13661.58,366.02,13.66,42894,90.91,0.0,379.99,0.0
+2021-11-26,Rio Grande do Sul,Santo Antônio da Patrulha,6.99,3,0,0.0,5857,157,2.68,13654.59,366.02,13.65,42894,90.91,-27.98,379.99,-9.33
+2021-11-25,Rio Grande do Sul,Santo Antônio da Patrulha,6.99,3,0,0.0,5854,157,2.68,13647.6,366.02,13.65,42894,118.89,-7.0,389.32,-9.33
+2021-11-24,Rio Grande do Sul,Santo Antônio da Patrulha,20.98,9,0,0.0,5851,157,2.68,13640.6,366.02,13.64,42894,125.89,20.98,398.65,-18.65
+2021-11-23,Rio Grande do Sul,Santo Antônio da Patrulha,18.65,8,0,0.0,5842,157,2.69,13619.62,366.02,13.62,42894,104.91,18.65,417.3,-6.99
+2021-11-22,Rio Grande do Sul,Santo Antônio da Patrulha,9.33,4,0,0.0,5834,157,2.69,13600.97,366.02,13.6,42894,86.26,0.0,424.29,7.0
 2021-11-21,Rio Grande do Sul,Santo Antônio da Patrulha,20.98,9,0,0.0,5830,157,2.69,13591.64,366.02,13.59,42894,86.26,0.0,417.29,16.32
 2021-11-20,Rio Grande do Sul,Santo Antônio da Patrulha,6.99,3,0,0.0,5821,157,2.7,13570.66,366.02,13.57,42894,86.26,-9.33,400.97,-11.66
 2021-11-19,Rio Grande do Sul,Santo Antônio da Patrulha,34.97,15,0,0.0,5818,157,2.7,13563.67,366.02,13.56,42894,95.59,13.99,412.63,6.99
