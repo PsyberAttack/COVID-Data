@@ -1,4 +1,8 @@
 date,state,county,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,pop_density,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-29,Virginia,Williamsburg city,6.71,1,0,0.0,1307,13.0,0.99,8774.17,87.27,8.77,14896,1666.16,147.69,13.42,624.34,0.0
+2021-12-28,Virginia,Williamsburg city,26.85,4,0,0.0,1306,13.0,1.0,8767.45,87.27,8.77,14896,1666.16,134.27,6.71,624.34,0.0
+2021-12-27,Virginia,Williamsburg city,33.57,5,0,0.0,1302,13.0,1.0,8740.6,87.27,8.74,14896,1666.16,127.56,-46.99,624.34,20.14
+2021-12-26,Virginia,Williamsburg city,0.0,0,0,0.0,1297,13.0,1.0,8707.04,87.27,8.71,14896,1666.16,174.55,0.0,604.2,0.0
 2021-12-25,Virginia,Williamsburg city,0.0,0,0,0.0,1297,13.0,1.0,8707.04,87.27,8.71,14896,1666.16,174.55,0.0,604.2,0.0
 2021-12-24,Virginia,Williamsburg city,40.28,6,0,0.0,1297,13.0,1.0,8707.04,87.27,8.71,14896,1666.16,174.55,-6.71,604.2,33.57
 2021-12-23,Virginia,Williamsburg city,40.28,6,0,0.0,1291,13.0,1.01,8666.76,87.27,8.67,14896,1666.16,181.26,13.43,570.63,33.57
