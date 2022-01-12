@@ -1,4 +1,15 @@
 date,state,city,1day_cases_100k,new_cases,new_deaths,new_deaths_100k,total_cases,total_deaths,cfr%,total_cases_100k,total_deaths_100k,%infected,population,7day_cases_100k,7day_cases_change,28day_cases_100k,28day_cases_change
+2021-12-29,Rio Grande do Norte,São Paulo do Potengi,0.0,0,0,0.0,2149,52,2.42,12224.81,295.81,12.22,17579,39.82,0.0,614.35,-11.38
+2021-12-28,Rio Grande do Norte,São Paulo do Potengi,-5.69,-1,0,0.0,2149,52,2.42,12224.81,295.81,12.22,17579,39.82,-11.38,625.73,-216.17
+2021-12-27,Rio Grande do Norte,São Paulo do Potengi,5.69,1,0,0.0,2150,52,2.42,12230.5,295.81,12.23,17579,51.2,0.0,841.9,-45.51
+2021-12-26,Rio Grande do Norte,São Paulo do Potengi,28.44,5,1,5.69,2149,52,2.42,12224.81,295.81,12.22,17579,51.2,22.75,887.41,-96.71
+2021-12-22,Rio Grande do Norte,São Paulo do Potengi,5.69,1,0,0.0,2144,51,2.38,12196.37,290.12,12.2,17579,28.45,11.38,984.12,-45.51
+2021-12-21,Rio Grande do Norte,São Paulo do Potengi,5.69,1,0,0.0,2143,51,2.38,12190.68,290.12,12.19,17579,17.07,-34.13,1029.63,-5.69
+2021-12-19,Rio Grande do Norte,São Paulo do Potengi,0.0,0,0,0.0,2142,51,2.38,12184.99,290.12,12.18,17579,51.2,-5.69,1035.32,-34.13
+2021-12-16,Rio Grande do Norte,São Paulo do Potengi,0.0,0,0,0.0,2142,51,2.38,12184.99,290.12,12.18,17579,56.89,-5.69,1069.45,0.0
+2021-12-15,Rio Grande do Norte,São Paulo do Potengi,5.69,1,0,0.0,2142,51,2.38,12184.99,290.12,12.18,17579,62.58,5.69,1069.45,-5.69
+2021-12-14,Rio Grande do Norte,São Paulo do Potengi,5.69,1,0,0.0,2141,51,2.38,12179.3,290.12,12.18,17579,56.89,-108.08,1075.14,0.0
+2021-12-13,Rio Grande do Norte,São Paulo do Potengi,5.69,1,0,0.0,2140,51,2.38,12173.62,290.12,12.17,17579,164.97,-17.06,1075.14,-17.06
 2021-12-09,Rio Grande do Norte,São Paulo do Potengi,-5.69,-1,0,0.0,2139,51,2.38,12167.93,290.12,12.17,17579,182.03,-11.38,1092.2,-5.69
 2021-12-08,Rio Grande do Norte,São Paulo do Potengi,39.82,7,0,0.0,2140,51,2.38,12173.62,290.12,12.17,17579,193.41,-11.38,1097.89,34.13
 2021-12-07,Rio Grande do Norte,São Paulo do Potengi,5.69,1,0,0.0,2133,51,2.39,12133.8,290.12,12.13,17579,204.79,-17.06,1063.76,-5.69
